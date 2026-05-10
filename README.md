@@ -433,12 +433,13 @@ Incorporate structured medication lists, ICD code sequences, and lab value time-
 
 <div align="center">
 
-**CHARTA v3.0** — MSc Final Year Project in Clinical AI
+**SHIRSHENDU SEN** — MSc Final Year Project in Clinical AI
 
-*Developed as a research-grade, submission-ready system targeting ACL BioNLP, EMNLP Clinical NLP, and IEEE JBHI.*
+*Developed as a research-grade, submission-ready system targeting ACL BioNLP, EMNLP Clinical NLP, and IEEE JBHI.
+*
 
 ---
 
-*All 15 bugs from v1.0–v2.4 resolved. Zero gated datasets. Full test suite. Ablation-ready.*
+*Zero gated datasets. Full test suite. Ablation-ready.*
 
 </div>
