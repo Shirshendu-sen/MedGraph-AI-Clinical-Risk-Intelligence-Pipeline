@@ -1,0 +1,16 @@
+UID: 3842
+
+INDICATION:
+,786.2 XXXX cxr
+
+FINDINGS:
+None
+
+IMPRESSION:
+1. Low lung volumes 2. Lungs appear clear 3. Heart and pulmonary XXXX are normal 4. Pleural spaces are clear
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

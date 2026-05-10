@@ -1,0 +1,16 @@
+UID: 774
+
+INDICATION:
+Difficulty breathing, history of emphysema
+
+FINDINGS:
+Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. Lungs are mildly hyperexpanded but clear. No pleural effusions or pneumothoraces. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+Emphysema without acute cardiopulmonary process.
+
+PROBLEMS:
+Lung;Thoracic Vertebrae;Emphysema
+
+MESH:
+Lung/hyperdistention/mild;Thoracic Vertebrae/degenerative;Emphysema

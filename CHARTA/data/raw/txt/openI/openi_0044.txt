@@ -1,0 +1,16 @@
+UID: 45
+
+INDICATION:
+Edema.
+
+FINDINGS:
+Stable cardiomegaly with vascular prominence without overt edema. No focal airspace disease. No large pleural effusion or pneumothorax. The XXXX are intact.
+
+IMPRESSION:
+Stable cardiomegaly without overt pulmonary edema.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion
+
+MESH:
+Cardiomegaly;Pulmonary Congestion

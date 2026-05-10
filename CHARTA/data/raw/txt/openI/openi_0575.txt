@@ -1,0 +1,16 @@
+UID: 593
+
+INDICATION:
+XXXX-year-old woman with atrial flutter.
+
+FINDINGS:
+No acute cardiopulmonary abnormality. Extensive degenerative changes of the thoracic spine. Mildly enlarged heart. Tortuous aorta. Aortic calcifications. No focal area of consolidation, pleural effusion or pneumothorax.
+
+IMPRESSION:
+No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Thoracic Vertebrae;Cardiomegaly;Aorta;Calcinosis
+
+MESH:
+Thoracic Vertebrae/degenerative/severe;Cardiomegaly/mild;Aorta/tortuous;Calcinosis/aorta

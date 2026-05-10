@@ -1,0 +1,16 @@
+UID: 3005
+
+INDICATION:
+XXXX with XXXX and XXXX loss
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. Aorta is tortuous. Calcified lymph XXXX are again identified. There is mild prominence of the right paratracheal soft tissues, stable in appearance from prior studies. There is no acute infiltrate or pleural effusion. Osteopenia and degenerative changes are identified. XXXX deformity of T9 appears worse than prior study.
+
+IMPRESSION:
+1. Emphysema without acute infiltrate. 2. Progressive XXXX deformity of midthoracic vertebral body, XXXX T9.
+
+PROBLEMS:
+Aorta;Calcinosis;Mediastinum;Bone Diseases, Metabolic;Deformity;Emphysema
+
+MESH:
+Aorta/tortuous;Calcinosis/lymph nodes;Mediastinum/right/paratracheal/prominent/mild;Bone Diseases, Metabolic;Deformity/thoracic vertebrae;Emphysema

@@ -1,0 +1,16 @@
+UID: 904
+
+INDICATION:
+Painful chest XXXX
+
+FINDINGS:
+Normal heart size. Left chest XXXX tip mid SVC. Right axillary surgical clips. Stable pleural based nodule left mid chest. No acute pulmonary findings.
+
+IMPRESSION:
+Stable appearance of the chest. No XXXX or acute finding on today's study.
+
+PROBLEMS:
+Catheters, Indwelling;Surgical Instruments;Nodule
+
+MESH:
+Catheters, Indwelling/left;Surgical Instruments;Nodule/pleura/left

@@ -1,0 +1,16 @@
+UID: 2756
+
+INDICATION:
+The patient is a XXXX-year-old male, with lung transplant.
+
+FINDINGS:
+Right lower lobe infiltrate. The trachea is midline. Negative for pneumothorax, pleural effusion. The heart size is normal. There has been interval placement of a left chest XXXX, with its distal tip in the Left sided SVC
+
+IMPRESSION:
+1. Right lower lobe infiltrate, suggestive of pneumonia
+
+PROBLEMS:
+Infiltrate;Implanted Medical Device
+
+MESH:
+Infiltrate/lung/lower lobe/right;Implanted Medical Device/left

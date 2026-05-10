@@ -1,0 +1,16 @@
+UID: 2719
+
+INDICATION:
+XXXX-year-old XXXX, followup bronchiectasis. History of cystic fibrosis.
+
+FINDINGS:
+Heart size within normal limits. Prominent interstitial and nodular opacities are increased since comparison exam. There is a 1 cm nodular opacity in the right costophrenic XXXX, increased since comparison examination. A cystic lesion in the right upper lobe appears similar to prior examination. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+Findings of cystic fibrosis with increased interstitial and nodular opacities, XXXX representing acute exacerbation on chronic changes of cystic fibrosis. .
+
+PROBLEMS:
+Opacity;Opacity;Cysts;Cystic Fibrosis
+
+MESH:
+Opacity/lung/interstitial/round/prominent;Opacity/costophrenic angle/right/round;Cysts/lung/upper lobe/right;Cystic Fibrosis

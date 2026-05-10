@@ -1,0 +1,16 @@
+UID: 209
+
+INDICATION:
+History of XXXX vehicle collision
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Slightly tortuous calcified aorta. No pneumothorax or effusion. No evidence of aortic transection.
+
+PROBLEMS:
+Aorta;Calcinosis
+
+MESH:
+Aorta/tortuous/mild;Calcinosis/aorta/mild

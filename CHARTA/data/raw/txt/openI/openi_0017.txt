@@ -1,0 +1,16 @@
+UID: 18
+
+INDICATION:
+XXXX-year-old male, pain
+
+FINDINGS:
+Heart size within normal limits. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. No pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary findings
+
+PROBLEMS:
+Pleural Effusion
+
+MESH:
+Pleural Effusion/borderline

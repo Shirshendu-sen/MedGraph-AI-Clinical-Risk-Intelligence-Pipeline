@@ -1,0 +1,16 @@
+UID: 1904
+
+INDICATION:
+persistent XXXX XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and lungs are clear. Degenerative spurring of the thoracic spine
+
+PROBLEMS:
+Osteophyte
+
+MESH:
+Osteophyte/thoracic vertebrae/degenerative

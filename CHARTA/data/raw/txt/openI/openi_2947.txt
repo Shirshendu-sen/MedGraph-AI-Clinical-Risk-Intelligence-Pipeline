@@ -1,0 +1,16 @@
+UID: 3072
+
+INDICATION:
+The patient is a XXXX-year-old woman, preop lung transplant.
+
+FINDINGS:
+Left-sided medication injection XXXX has its tip projecting at the cavoatrial junction. The trachea is midline. Extensive bilateral bronchiectasis, cystic changes, and scarring represents sequela from the patient's cystic fibrosis. No evidence of focal pulmonary infiltrate or pleural effusion. No large pneumothorax has developed in the interim. The overlying bony structures reveal no acute abnormalities. The heart size is normal.
+
+IMPRESSION:
+1. Extensive pulmonary bronchiectasis and scarring from cystic fibrosis, not significantly XXXX from prior. 2. Left-sided medication injection XXXX has its tip projecting over the cavoatrial junction. .
+
+PROBLEMS:
+Catheters, Indwelling;Bronchiectasis;Cicatrix;Cysts;Cystic Fibrosis
+
+MESH:
+Catheters, Indwelling/left;Bronchiectasis/bilateral/severe;Cicatrix/lung/bilateral/severe;Cysts/lung/bilateral/severe;Cystic Fibrosis

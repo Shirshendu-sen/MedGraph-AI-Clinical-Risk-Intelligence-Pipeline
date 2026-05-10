@@ -1,0 +1,16 @@
+UID: 1908
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Cardiac silhouette and mediastinal contours are within normal limits. Nodular opacity overlying the upper lungs bilaterally may represent overlying telemetry XXXX XXXX, correlate clinically. Otherwise, lungs are clear. No large pleural effusion no pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/upper lobe/bilateral/round

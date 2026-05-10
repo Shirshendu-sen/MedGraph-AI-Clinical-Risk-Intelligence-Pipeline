@@ -1,0 +1,16 @@
+UID: 964
+
+INDICATION:
+None
+
+FINDINGS:
+In the interval, the heart size has become normal. Pulmonary XXXX are normal. Lungs are clear and expanded.
+
+IMPRESSION:
+Resolution of cardiomegaly. No active disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

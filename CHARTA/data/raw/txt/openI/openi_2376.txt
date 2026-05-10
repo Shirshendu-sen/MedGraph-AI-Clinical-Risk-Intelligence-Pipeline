@@ -1,0 +1,16 @@
+UID: 2462
+
+INDICATION:
+XXXX-year-old male with history of XXXX.
+
+FINDINGS:
+There is stable cardiomegaly. Aorta is calcified and tortuous. There are multiple pleural calcifications XXXX representing prior asbestos exposure. These appear unchanged. There is no pneumothorax, pleural effusion, or XXXX focal airspace consolidation.
+
+IMPRESSION:
+1. Cardiomegaly and findings of prior asbestos exposure without interval acute cardiopulmonary findings.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis;Aorta;Calcinosis
+
+MESH:
+Cardiomegaly;Calcinosis/aorta;Aorta/tortuous;Calcinosis/pleura/multiple

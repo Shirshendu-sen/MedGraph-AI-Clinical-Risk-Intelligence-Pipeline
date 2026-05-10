@@ -1,0 +1,16 @@
+UID: 1604
+
+INDICATION:
+XXXX onset hemoptysis
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size, mediastinal silhouette and pulmonary vascularity are within normal limits. No focal consolidation, pleural effusion or pneumothorax. Very mild right apex curvature and upper thoracic spine is nonspecific.
+
+PROBLEMS:
+Deformity
+
+MESH:
+Deformity/thoracic vertebrae/right/mild

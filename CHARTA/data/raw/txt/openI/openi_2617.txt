@@ -1,0 +1,16 @@
+UID: 2717
+
+INDICATION:
+Preop XXXX XXXX
+
+FINDINGS:
+The cardiac contours are normal. The lungs are clear. Thoracic spondylosis.
+
+IMPRESSION:
+No acute process.
+
+PROBLEMS:
+Spondylosis
+
+MESH:
+Spondylosis/thoracic vertebrae

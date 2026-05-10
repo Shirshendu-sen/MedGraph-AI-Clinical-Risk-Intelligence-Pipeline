@@ -1,0 +1,16 @@
+UID: 2676
+
+INDICATION:
+XXXX-year-old female. Increasing oxygen requirement.
+
+FINDINGS:
+Nasogastric tube tip XXXX within the stomach body, stable. Low lung volumes. Stable enlarged cardiomediastinal silhouette. Atherosclerosis of the thoracic aorta. No focal consolidation, pneumothorax or large pleural effusion. Relative elevation of right hemidiaphragm. Stable obscuration of lateral left diaphragm.
+
+IMPRESSION:
+Stable subsegmental bibasilar atelectasis. Cardiomegaly without heart failure.
+
+PROBLEMS:
+Tube, Inserted;Lung;Cardiac Shadow;Atherosclerosis;Diaphragm;Diaphragm;Pulmonary Atelectasis;Cardiomegaly
+
+MESH:
+Tube, Inserted;Lung/hypoinflation;Cardiac Shadow/enlarged;Atherosclerosis/aorta, thoracic;Diaphragm/right/elevated;Diaphragm/left/obscured;Pulmonary Atelectasis/base/bilateral;Cardiomegaly

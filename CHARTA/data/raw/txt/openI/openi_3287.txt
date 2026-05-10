@@ -1,0 +1,16 @@
+UID: 3420
+
+INDICATION:
+Syncope.
+
+FINDINGS:
+Clear lungs. Heart size is normal. No pneumothorax or large pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

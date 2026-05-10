@@ -1,0 +1,16 @@
+UID: 2544
+
+INDICATION:
+Chest pain this a.m.
+
+FINDINGS:
+Heart is mildly enlarged but stable. Pulmonary vascularity is normal. The patient is status post valve replacement. XXXX sternotomy XXXX intact. No focal airspace disease or effusion. Residuals of prior granulomatous infection. Degenerative change of the spine. No pneumothorax.
+
+IMPRESSION:
+1. Stable cardiomegaly without evidence for acute pulmonary process.
+
+PROBLEMS:
+Cardiomegaly;Granulomatous Disease;Spine;Implanted Medical Device
+
+MESH:
+Cardiomegaly/mild;Granulomatous Disease;Spine/degenerative;Implanted Medical Device/heart

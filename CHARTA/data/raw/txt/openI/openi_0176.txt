@@ -1,0 +1,16 @@
+UID: 182
+
+INDICATION:
+XXXX.
+
+FINDINGS:
+Heart size and mediastinal contours appear within normal limits. Patchy airspace opacities in the left lower lobe, compatible with infiltrate. No large pleural effusion. No pneumothorax. No acute bony abnormality.
+
+IMPRESSION:
+Left lower lobe infiltrate.
+
+PROBLEMS:
+Opacity;Infiltrate
+
+MESH:
+Opacity/lung/lower lobe/left/patchy;Infiltrate/lung/lower lobe/left

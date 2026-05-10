@@ -1,0 +1,16 @@
+UID: 2242
+
+INDICATION:
+Mid chest pain, XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Elevated diaphragms with atelectasis in the bases. Normal heart size. Mild spondylosis.
+
+PROBLEMS:
+Diaphragm;Pulmonary Atelectasis;Spondylosis
+
+MESH:
+Diaphragm/bilateral/elevated;Pulmonary Atelectasis/base/bilateral;Spondylosis/mild

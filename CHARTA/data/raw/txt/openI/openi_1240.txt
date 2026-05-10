@@ -1,0 +1,16 @@
+UID: 1285
+
+INDICATION:
+Coughing
+
+FINDINGS:
+PA and lateral views of the chest were obtained. The cardiomediastinal silhouette is normal in size and configuration. Mild nodular prominence of the right hilum, without significant change. Lung volumes are decreased, with crowding. There is no pneumothorax, pleural effusion, or focal air space consolidation.
+
+IMPRESSION:
+1. Low lung volumes with mild crowding.
+
+PROBLEMS:
+Nodule;Lung;Markings;Deformity
+
+MESH:
+Nodule/lung/hilum/right/prominent;Lung/hypoinflation;Markings/lung/mild;Deformity/clavicle/left

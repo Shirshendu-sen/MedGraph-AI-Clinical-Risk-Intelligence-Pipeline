@@ -1,0 +1,16 @@
+UID: 3060
+
+INDICATION:
+Atelectasis
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are grossly clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

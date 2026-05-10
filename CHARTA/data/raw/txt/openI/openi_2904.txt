@@ -1,0 +1,16 @@
+UID: 3027
+
+INDICATION:
+XXXX-year-old female, chronic XXXX
+
+FINDINGS:
+Normal heart size mediastinal contours. No focal airspace consolidation. No pneumothorax or pleural effusion. Stable, mild dextro curvature of the spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Scoliosis
+
+MESH:
+Scoliosis/right/mild

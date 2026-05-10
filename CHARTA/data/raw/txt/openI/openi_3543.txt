@@ -1,0 +1,16 @@
+UID: 3684
+
+INDICATION:
+TOF
+
+FINDINGS:
+None
+
+IMPRESSION:
+2 views of the chest demonstrate sternotomy XXXX and mild thoracic dextroscoliosis. Incidental note of an azygos pseudofissure. The heart is mildly enlarged and pulmonary vasculature appears somewhat more prominent on the left than on the right, but the lungs appear clear, with no evidence of pleural effusion.
+
+PROBLEMS:
+Scoliosis;Cardiomegaly;Lung;Lung
+
+MESH:
+Scoliosis/thoracic vertebrae/right/mild;Cardiomegaly/mild;Lung/blood vessels/left/prominent/mild;Lung/azygos lobe

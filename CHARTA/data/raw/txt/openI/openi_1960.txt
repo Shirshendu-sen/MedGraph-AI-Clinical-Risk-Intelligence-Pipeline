@@ -1,0 +1,16 @@
+UID: 2030
+
+INDICATION:
+Look-up on XXXX and does not remember XXXX happened.
+
+FINDINGS:
+There is hyperinflation lungs due to small calcification is seen posteriorly in the right which may be pleural. There is no pleural effusion or pneumothorax. The heart is not significantly enlarged. There are atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures are noted.
+
+IMPRESSION:
+COPD. No acute pulmonary disease.
+
+PROBLEMS:
+Lung;Calcinosis;Atherosclerosis;Arthritis;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Calcinosis/lung/right/posterior;Atherosclerosis/aorta;Arthritis;Pulmonary Disease, Chronic Obstructive

@@ -1,0 +1,16 @@
+UID: 1352
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. There is stable XXXX scarring in the right upper lobe. Lungs are otherwise clear. There is no XXXX focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Cicatrix
+
+MESH:
+Cicatrix/lung/upper lobe/right

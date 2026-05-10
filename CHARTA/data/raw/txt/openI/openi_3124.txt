@@ -1,0 +1,16 @@
+UID: 3251
+
+INDICATION:
+Chest pain ComparisXXXX/11
+
+FINDINGS:
+Right mid lung nodule stable XXXX; etiology not determined. This is noncalcified, and is stable since a CT examination from XXXX and is XXXX benign etiology. The lungs are well inflated and without focal consolidation. The cardiomediastinal silhouette appears unremarkable. Costophrenic XXXX clear. Visualized spine vertebrae appear normal in XXXX and alignment. Overlying leads.
+
+IMPRESSION:
+Stable radiographic view of chest.
+
+PROBLEMS:
+Nodule;Medical Device
+
+MESH:
+Nodule/lung/middle lobe/right;Medical Device

@@ -1,0 +1,16 @@
+UID: 1412
+
+INDICATION:
+V70.0 ROUTINE XXXX MEDICAL EXAMINATION AT A XXXX XXXX FACILITY 305.1 NONDEPENDENT TOBACCO USE XXXX
+
+FINDINGS:
+The lungs are clear. The heart and pulmonary XXXX appear normal. Pleural spaces are clear. The mediastinal contours are normal. Bony overlap in the lung apices could obscure a small pulmonary nodule.
+
+IMPRESSION:
+No acute cardiopulmonary disease
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/apex/bilateral/obscured

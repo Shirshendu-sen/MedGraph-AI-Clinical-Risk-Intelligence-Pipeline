@@ -1,0 +1,16 @@
+UID: 2121
+
+INDICATION:
+XXXX-year-old female with altered mental status
+
+FINDINGS:
+The heart size is within normal limits. There is ectasia/tortuosity of the thoracic aorta. Calcified hilar lymph XXXX. Irregular calcific density projecting over the left lower lobe, stable since XXXX and may represent mitral annular calcifications. No focal airspace consolidation, pleural effusions or pneumothorax. Degenerative changes of the thoracic spine. No acute bony abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Aorta, Thoracic;Calcinosis;Density;Calcinosis;Thoracic Vertebrae
+
+MESH:
+Aorta, Thoracic/tortuous;Calcinosis/lung/hilum/lymph nodes;Density/lung/lower lobe/left/irregular;Calcinosis/lung/lower lobe/left/irregular;Thoracic Vertebrae/degenerative

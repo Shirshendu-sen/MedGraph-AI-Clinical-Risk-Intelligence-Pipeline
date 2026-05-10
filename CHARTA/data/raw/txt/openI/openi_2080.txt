@@ -1,0 +1,16 @@
+UID: 2158
+
+INDICATION:
+The patient is a XXXX-year-old female with history of pneumonia, upper lobe crackles. Known history of UIP.
+
+FINDINGS:
+There are diffuse increased interstitial markings, suggestive of pulmonary fibrosis in bilateral lung XXXX. The fibrosis appears to slightly increased XXXX compared to previous examination, in XXXX. The trachea is midline. Negative for pneumothorax, pleural effusion. The heart size is normal.
+
+IMPRESSION:
+1. Redemonstrated pulmonary fibrosis without evidence for acute infiltrate.
+
+PROBLEMS:
+Markings;Pulmonary Fibrosis
+
+MESH:
+Markings/lung/interstitial/diffuse;Pulmonary Fibrosis

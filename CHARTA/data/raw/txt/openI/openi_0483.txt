@@ -1,0 +1,16 @@
+UID: 498
+
+INDICATION:
+XXXX-year-old male, chest pain, no shortness of breath, XXXX.
+
+FINDINGS:
+Large medial right upper lobe mass lesion, measuring approximately 5.8 cm x 6.0 cm in diameter. No pneumothorax. No pleural effusions. Lungs clear. Heart size within normal limits. Degenerative changes thoracic spine.
+
+IMPRESSION:
+Large medial right upper lobe mass highly concerning for primary lung cancer. XXXX chest with intravenous contrast for further evaluation. XXXX XXXX XXXX. XXXX's XXXX was notified of this result at XXXXPM XXXX/XXXX and accepted receipt. Results were faxed. .
+
+PROBLEMS:
+Mass;Thoracic Vertebrae
+
+MESH:
+Mass/lung/upper lobe/right/large;Thoracic Vertebrae/degenerative

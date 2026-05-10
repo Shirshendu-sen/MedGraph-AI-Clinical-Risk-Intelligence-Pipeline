@@ -1,0 +1,16 @@
+UID: 1369
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+Heart size normal. Prominent epicardial fat. Lungs are clear. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+Unremarkable examination of the chest.
+
+PROBLEMS:
+Epicardial Fat
+
+MESH:
+Epicardial Fat/prominent

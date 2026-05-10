@@ -1,0 +1,16 @@
+UID: 2197
+
+INDICATION:
+XXXX-year-old female with XXXX
+
+FINDINGS:
+Heart size is normal. There are XXXX opacities which appear to XXXX XXXX above the right XXXX fissure. There is mild thickening in the fissure. No pneumothorax. No large pleural effusions.
+
+IMPRESSION:
+XXXX opacities in the right upper lobe anterior segment which may represent atelectasis or infiltrate.
+
+PROBLEMS:
+Opacity;Thickening
+
+MESH:
+Opacity/lung/upper lobe/right/anterior;Thickening/pleura/mild

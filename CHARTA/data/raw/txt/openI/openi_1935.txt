@@ -1,0 +1,16 @@
+UID: 2003
+
+INDICATION:
+Liver failure.
+
+FINDINGS:
+Borderline enlarged heart. Pulmonary vasculature appears within normal limits. No focal pulmonary opacity, pleural effusion or pneumothorax. No acute bony abnormality. Possible right shoulder calcific tendinitis. Calcifications of the abdominal aorta are seen.
+
+IMPRESSION:
+1. Borderline enlarged heart without acute abnormality.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis
+
+MESH:
+Cardiomegaly/borderline;Calcinosis/aorta

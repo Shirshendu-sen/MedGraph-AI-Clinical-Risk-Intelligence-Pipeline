@@ -1,0 +1,16 @@
+UID: 86
+
+INDICATION:
+XXXX year old male, preoperative evaluation for hemorrhoidectomy.
+
+FINDINGS:
+Heart size is within normal limits. No focal airspace consolidations. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

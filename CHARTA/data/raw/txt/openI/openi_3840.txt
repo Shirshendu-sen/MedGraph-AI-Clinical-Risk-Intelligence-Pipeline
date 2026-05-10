@@ -1,0 +1,16 @@
+UID: 3988
+
+INDICATION:
+XXXX, rib pain.
+
+FINDINGS:
+No acute osseous abnormalities. Left midlung, and basilar streaky opacity. There is elevation of the left hemidiaphragm. No pneumothorax. Small calcified 8 cm granuloma adjacent to the right diaphragm within the right chest. Cardiomediastinal silhouette is within normal limits.
+
+IMPRESSION:
+No acute osseous abnormalities. If continued clinical concern for rib fracture dedicated rib films will be helpful. Left midlung, and left basilar streaky opacity may represent atelectasis.
+
+PROBLEMS:
+Opacity;Opacity;Diaphragm;Calcified Granuloma
+
+MESH:
+Opacity/lung/lingula/streaky;Opacity/lung/base/left/streaky;Diaphragm/left/elevated;Calcified Granuloma/thorax/right/small

@@ -1,0 +1,16 @@
+UID: 697
+
+INDICATION:
+XXXX since end of XXXX.
+
+FINDINGS:
+There is obscuration of the left hemidiaphragm, suggesting left retrocardiac airspace disease. This is not identified in the lateral view, which is limited by rotation. No evidence for effusion.
+
+IMPRESSION:
+Left basilar airspace disease. Recommend follow up chest x-XXXX to document resolution XXXX for better characterization.
+
+PROBLEMS:
+Diaphragm;Technical Quality of Image Unsatisfactory ;Airspace Disease
+
+MESH:
+Diaphragm/left/obscured;Technical Quality of Image Unsatisfactory ;Airspace Disease/lung/base/left

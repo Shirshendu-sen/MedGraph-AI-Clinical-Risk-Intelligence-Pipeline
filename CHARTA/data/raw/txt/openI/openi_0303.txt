@@ -1,0 +1,16 @@
+UID: 315
+
+INDICATION:
+dyspnea.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear. Old fusion of approximately T9-T10.
+
+PROBLEMS:
+Spinal Fusion
+
+MESH:
+Spinal Fusion/thoracic vertebrae

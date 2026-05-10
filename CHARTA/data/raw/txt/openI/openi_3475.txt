@@ -1,0 +1,16 @@
+UID: 3615
+
+INDICATION:
+DIABETES; Pt to have throat surgery.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Device compatible tracheostomy is in XXXX, with tip approximately 5-6 centimeters above carina. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Tube, Inserted
+
+MESH:
+Tube, Inserted/trachea, carina

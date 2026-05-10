@@ -1,0 +1,16 @@
+UID: 660
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+No focal consolidation, suspicious pulmonary opacity or definite pleural effusion. Heart size and pulmonary vascularity within normal limits. Stable mediastinal contour. Calcified hilar lymph XXXX. Visualized osseous structures unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes

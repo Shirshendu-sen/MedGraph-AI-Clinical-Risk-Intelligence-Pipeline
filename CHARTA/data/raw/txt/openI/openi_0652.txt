@@ -1,0 +1,16 @@
+UID: 671
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+XXXX XXXX and lateral chest examination was obtained. The heart silhouette is normal in size and contour. There are calcified mediastinal perihilar pulmonary nodules consistent with sequela of old granulomatous infection. No acute lung infiltrates. Aortic XXXX appear unremarkable. There is no effusion or pneumothorax.
+
+IMPRESSION:
+1. No acute pulmonary disease.
+
+PROBLEMS:
+Calcinosis;Nodule;Granulomatous Disease
+
+MESH:
+Calcinosis/lung/hilum;Nodule/lung/hilum;Granulomatous Disease

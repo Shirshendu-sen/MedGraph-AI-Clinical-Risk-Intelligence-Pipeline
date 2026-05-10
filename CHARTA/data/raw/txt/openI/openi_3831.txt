@@ -1,0 +1,16 @@
+UID: 3979
+
+INDICATION:
+XXXX-year-old female, dizziness, headache.
+
+FINDINGS:
+Normal heart size. Mild unfolding and atherosclerotic calcification of the aorta. No focal air space consolidation. No pneumothorax or pleural effusion. Visualized bony structures are unremarkable in appearance.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Aorta;Atherosclerosis
+
+MESH:
+Aorta/tortuous/mild;Atherosclerosis/aorta/mild

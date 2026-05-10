@@ -1,0 +1,16 @@
+UID: 1152
+
+INDICATION:
+XXXX-year-old male with history of heart attack
+
+FINDINGS:
+The heart is enlarged. The mediastinum is unremarkable. Atherosclerotic calcifications present within the thoracic aorta. There is no pleural effusion, pneumothorax, or focal airspace disease. Chronic degenerative changes are noted within the spine.
+
+IMPRESSION:
+1. Cardiomegaly without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Cardiomegaly;Atherosclerosis;Spine
+
+MESH:
+Cardiomegaly;Atherosclerosis/aorta, thoracic;Spine/degenerative/chronic

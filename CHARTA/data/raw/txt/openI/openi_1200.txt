@@ -1,0 +1,16 @@
+UID: 1243
+
+INDICATION:
+None
+
+FINDINGS:
+Cardiac silhouette is enlarged but unchanged. There is left-sided XXXX central line with a XXXX lumen. Poly vasculature is within normal limits. Mediastinum is normal. Bibasilar opacity, left greater than right is appreciated. No pneumothorax.
+
+IMPRESSION:
+1. Left pleural effusion with adjacent atelectasis. XXXX right effusion is also present. 2. Cardiomegaly without overt edema.
+
+PROBLEMS:
+Cardiac Shadow;Catheters, Indwelling;Opacity;Pleural Effusion;Pulmonary Atelectasis;Cardiomegaly
+
+MESH:
+Cardiac Shadow/enlarged;Catheters, Indwelling/left;Opacity/lung/base/bilateral;Pleural Effusion/bilateral;Pulmonary Atelectasis/left;Cardiomegaly

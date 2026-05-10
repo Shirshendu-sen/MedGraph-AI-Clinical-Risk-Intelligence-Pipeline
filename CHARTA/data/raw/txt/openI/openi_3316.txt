@@ -1,0 +1,16 @@
+UID: 3451
+
+INDICATION:
+F/U AFTER SBRT FOR HCC;
+
+FINDINGS:
+The heart is normal in size. The mediastinum is Stable. Calcified AP XXXX lymph XXXX are seen. A small right-sided pleural effusion versus thickening. Right inferior rib deformities.
+
+IMPRESSION:
+Stable blunting of right costophrenic XXXX with small pleural effusion versus thickening and associated healed right rib deformities.
+
+PROBLEMS:
+Calcinosis;Pleural Effusion;Thickening;Deformity;Costophrenic Angle
+
+MESH:
+Calcinosis/lymph nodes;Pleural Effusion/right/small;Thickening/pleura/right;Deformity/ribs/right/multiple/healed;Costophrenic Angle/right/blunted

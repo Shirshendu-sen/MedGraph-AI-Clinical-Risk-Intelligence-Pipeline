@@ -1,0 +1,16 @@
+UID: 3470
+
+INDICATION:
+XXXX year old male with chest pain.
+
+FINDINGS:
+The patient is rotated. The heart is normal in size. The pulmonary vascularity is within normal limits in appearance. No pneumothorax or pleural effusion. No focal airspace opacities. Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Thoracic Vertebrae
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Thoracic Vertebrae/degenerative/mild

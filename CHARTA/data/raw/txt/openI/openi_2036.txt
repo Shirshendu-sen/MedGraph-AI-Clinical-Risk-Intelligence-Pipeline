@@ -1,0 +1,16 @@
+UID: 2114
+
+INDICATION:
+XXXX-year-old male, chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Exam quality limited by hypoventilation and kyphosis. Low lung volumes, bibasilar opacities XXXX due at XXXX in part to atelectasis. Abnormal interstitial pulmonary pattern, nonspecific in appearance with XXXX differential diagnosis including chronic lung disease, interstitial infiltrates, pulmonary edema. Right hilar calcifications and dense right lung nodule suggest a previous granulomatous process. No definite pleural effusion seen. Heart size near top normal limits for technique, sternotomy XXXX, CABG clips, artifact of aortic valve surgery.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Lung;Kyphosis;Opacity;Pulmonary Atelectasis;Lung;Calcinosis;Nodule;Density;Surgical Instruments
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Lung/hypoinflation;Kyphosis;Opacity/lung/base/bilateral;Pulmonary Atelectasis/base/bilateral;Lung/interstitial/abnormal;Calcinosis/lung/hilum/right;Nodule/lung/right;Density/lung/right;Surgical Instruments/heart

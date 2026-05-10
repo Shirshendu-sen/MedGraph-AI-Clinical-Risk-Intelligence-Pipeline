@@ -1,0 +1,16 @@
+UID: 2192
+
+INDICATION:
+XXXX-year-old with XXXX, history of lung nodules.
+
+FINDINGS:
+No focal lung consolidation. No pneumothorax or pleural effusion.Heart size and pulmonary vascularity are within normal limits.Minimal degenerative changes of the thoracic spine. The previously<BR>described XXXX deformity in the midthoracic spine is again seen. There is subcutaneous shunt catheter tubing along the anterior chest wall
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+Thoracic Vertebrae;Deformity;Catheters, Indwelling
+
+MESH:
+Thoracic Vertebrae/degenerative/mild;Deformity/thoracic vertebrae;Catheters, Indwelling/thorax

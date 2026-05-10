@@ -1,0 +1,16 @@
+UID: 3632
+
+INDICATION:
+XXXX-year-old male, XXXX
+
+FINDINGS:
+Normal heart size and mediastinal contours. Calcified aortic XXXX. XXXX opacities in the left lung base, XXXX atelectasis. The lateral view shows a XXXX left pleural effusion. No focal airspace consolidation. No pneumothorax. Stable bilateral apical pleural capping.
+
+IMPRESSION:
+1. Small left pleural effusion.
+
+PROBLEMS:
+Calcinosis;Opacity;Pulmonary Atelectasis;Pleural Effusion;Thickening
+
+MESH:
+Calcinosis/aorta;Opacity/lung/base/left;Pulmonary Atelectasis/base/left;Pleural Effusion/left/small;Thickening/pleura/apex/bilateral

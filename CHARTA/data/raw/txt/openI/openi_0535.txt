@@ -1,0 +1,16 @@
+UID: 551
+
+INDICATION:
+XXXX XXXX with COPD/emphysema and dyspnea on exertion.
+
+FINDINGS:
+Lungs are hyperinflated with flattening of the diaphragms and increased AP chest diameter, compatible with emphysema. There is no evidence of focal infiltrate, pneumothorax, pleural effusion, or identified mass lesion. There is normal cardiomediastinal contours.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality, findings compatible with emphysema.
+
+PROBLEMS:
+Lung;Diaphragm;Pulmonary Emphysema
+
+MESH:
+Lung/hyperdistention;Diaphragm/flattened;Pulmonary Emphysema

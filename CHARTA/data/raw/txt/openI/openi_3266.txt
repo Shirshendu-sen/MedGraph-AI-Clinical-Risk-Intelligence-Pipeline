@@ -1,0 +1,16 @@
+UID: 3399
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+A strandy infiltrate has developed in the left lower lobe. Right lung is clear. Heart size remains normal.
+
+IMPRESSION:
+Patchy left lower lobe infiltrate and focal atelectasis, consistent with pneumonitis.
+
+PROBLEMS:
+Infiltrate;Pulmonary Atelectasis;Pneumonia
+
+MESH:
+Infiltrate/lung/lower lobe/left/patchy/streaky;Pulmonary Atelectasis/lower lobe/left/focal;Pneumonia/lower lobe/left

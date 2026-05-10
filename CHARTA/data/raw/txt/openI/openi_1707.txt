@@ -1,0 +1,16 @@
+UID: 1765
+
+INDICATION:
+XXXX-year-old male, XXXX.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits. There is rounded calcified density within the left lower lobe most consistent with granuloma. Remaining lungs are clear without evidence of focal opacification. No pneumothorax or large pleural effusion. No acute bone abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+Calcinosis;Density;Granuloma
+
+MESH:
+Calcinosis/lung/lower lobe/left/round;Density/lung/lower lobe/left/round;Granuloma/lung/lower lobe/left/round

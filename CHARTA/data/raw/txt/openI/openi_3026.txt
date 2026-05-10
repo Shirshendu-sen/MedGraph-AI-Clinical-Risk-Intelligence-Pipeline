@@ -1,0 +1,16 @@
+UID: 3152
+
+INDICATION:
+XXXX-year-old male with history of COPD.
+
+FINDINGS:
+The lungs are hyperexpanded. There are stable scattered XXXX bilateral opacities, most notable in the left upper lobe, XXXX scarring. No focal airspace consolidation to suggest pneumonia. No large pleural effusion. No pneumothorax. Heart size is normal. Thoracic aorta is mildly tortuous and demonstrates atherosclerotic vascular calcification. There are degenerative changes of the spine.
+
+IMPRESSION:
+1. No acute findings. 2. Emphysema. 3. Scattered XXXX of scarring, most notably in the left upper lobe.
+
+PROBLEMS:
+Lung;Opacity;Opacity;Cicatrix;Aorta, Thoracic;Atherosclerosis;Spine;Emphysema
+
+MESH:
+Lung/hyperdistention;Opacity/lung/bilateral/scattered;Opacity/lung/upper lobe/left/scattered;Cicatrix/lung/upper lobe/left;Aorta, Thoracic/tortuous/mild;Atherosclerosis/aorta, thoracic;Spine/degenerative;Emphysema

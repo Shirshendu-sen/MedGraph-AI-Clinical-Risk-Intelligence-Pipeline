@@ -1,0 +1,16 @@
+UID: 3852
+
+INDICATION:
+XXXX-year-old male status post XXXX on right side.
+
+FINDINGS:
+Heart size is normal. No pneumothorax or focal airspace disease. No pleural effusion. Eventration of the right hemidiaphragm. Mild degenerative changes of the thoracic spine without fracture.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Diaphragmatic Eventration;Thoracic Vertebrae
+
+MESH:
+Diaphragmatic Eventration/right;Thoracic Vertebrae/degenerative/mild

@@ -1,0 +1,16 @@
+UID: 3658
+
+INDICATION:
+XXXX-year-old female. Chest pain after XXXX.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Biapical fibronodular pleural thickening/scarring. There is a XXXX like deformity of the anterior cortex of the XXXX body (lateral view). Negative for retrosternal density. Prior cholecystectomy. Critical result notification documented through Primordial.
+
+IMPRESSION:
+Buckling deformity of the anterior cortex of the XXXX body. Fracture is possible, if high energy XXXX was localized to this region. Correlate with focal tenderness. XXXX chest, if warranted.
+
+PROBLEMS:
+Thickening;Cicatrix;Nodule;Deformity
+
+MESH:
+Thickening/pleura/apex/bilateral/round;Cicatrix/pleura/apex/bilateral/round;Nodule/pleura/apex/bilateral/round;Deformity/spine

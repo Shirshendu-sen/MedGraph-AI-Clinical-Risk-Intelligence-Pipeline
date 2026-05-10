@@ -1,0 +1,16 @@
+UID: 257
+
+INDICATION:
+XXXX-year-old male with XXXX.
+
+FINDINGS:
+Midline sternotomy XXXX identified. Heart size and cardiomediastinal silhouette are grossly normal. Airspace opacity in posterior segment on the lateral view. Osseous structures are grossly intact.
+
+IMPRESSION:
+Posterior airspace opacity consistent with developing infection.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/posterior

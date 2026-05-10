@@ -1,0 +1,16 @@
+UID: 2116
+
+INDICATION:
+XXXX-year-old female with left-sided chest pain, XXXX..
+
+FINDINGS:
+The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax demonstrate healed, remote bilateral rib fractures without acute abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality..
+
+PROBLEMS:
+Fractures, Bone
+
+MESH:
+Fractures, Bone/ribs/bilateral/multiple/healed

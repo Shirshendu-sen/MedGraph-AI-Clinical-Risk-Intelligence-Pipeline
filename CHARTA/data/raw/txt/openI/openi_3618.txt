@@ -1,0 +1,16 @@
+UID: 3761
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Heart size is mildly enlarged. Tortuous aorta. Lungs are normally inflated and clear. Mild degenerative changes of the spine.
+
+IMPRESSION:
+Chronic changes without acute process
+
+PROBLEMS:
+Cardiomegaly;Aorta;Thoracic Vertebrae
+
+MESH:
+Cardiomegaly/mild;Aorta/tortuous;Thoracic Vertebrae/degenerative/mild

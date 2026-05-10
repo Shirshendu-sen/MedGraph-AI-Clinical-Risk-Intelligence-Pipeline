@@ -1,0 +1,16 @@
+UID: 512
+
+INDICATION:
+XXXX-year-old male, XXXX.
+
+FINDINGS:
+There are no focal areas of consolidation. No suspicious bony opacities. Heart size within normal limits. No pleural effusions. No evidence of pneumothorax. Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

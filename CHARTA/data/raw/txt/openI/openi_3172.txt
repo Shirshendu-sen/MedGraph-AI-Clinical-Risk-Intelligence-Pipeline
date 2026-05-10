@@ -1,0 +1,16 @@
+UID: 3302
+
+INDICATION:
+XXXX x days
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are slightly hypoinflated but clear. There is no pleural effusion.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation/mild

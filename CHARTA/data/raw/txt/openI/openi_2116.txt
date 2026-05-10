@@ -1,0 +1,16 @@
+UID: 2195
+
+INDICATION:
+Vomiting blood, hemoptysis.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are mildly hyperinflated, without evidence of focal airspace disease, pneumothorax, or pleural effusion. Incidental note is XXXX of an azygos fissure. There are no acute bony findings.
+
+IMPRESSION:
+Mildly hyperinflated, clear lungs.
+
+PROBLEMS:
+Lung;Lung
+
+MESH:
+Lung/hyperdistention/mild;Lung/azygos lobe

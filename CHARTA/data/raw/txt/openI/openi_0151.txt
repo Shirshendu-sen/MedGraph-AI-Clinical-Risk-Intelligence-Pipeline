@@ -1,0 +1,16 @@
+UID: 155
+
+INDICATION:
+History of chest pain.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear. Prominent ascending aorta. Calcified left hilar XXXX.
+
+PROBLEMS:
+Aorta;Calcinosis
+
+MESH:
+Aorta/prominent;Calcinosis/lung/hilum/left

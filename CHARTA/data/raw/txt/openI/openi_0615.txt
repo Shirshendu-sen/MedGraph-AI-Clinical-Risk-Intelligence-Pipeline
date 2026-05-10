@@ -1,0 +1,16 @@
+UID: 634
+
+INDICATION:
+XXXX-year-old male, chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Apical lordotic frontal view. Heart size near top normal limits, aortic calcifications and ectasia/tortuosity. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.
+
+PROBLEMS:
+Calcinosis;Aorta
+
+MESH:
+Calcinosis/aorta;Aorta/tortuous

@@ -1,0 +1,16 @@
+UID: 300
+
+INDICATION:
+XXXX-year-old male with XXXX.
+
+FINDINGS:
+Heart size within normal limits. Mild hyperinflation of the lungs. Mild pectus excavatum deformity. Stable left mid lung calcified granuloma. No focal airspace disease. No pneumothorax or effusions.
+
+IMPRESSION:
+Changes of chronic lung disease with no acute cardiopulmonary finding.
+
+PROBLEMS:
+Lung;Funnel Chest;Calcified Granuloma;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention/mild;Funnel Chest/mild;Calcified Granuloma/lung/lingula;Pulmonary Disease, Chronic Obstructive

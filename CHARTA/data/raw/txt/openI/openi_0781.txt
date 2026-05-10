@@ -1,0 +1,16 @@
+UID: 804
+
+INDICATION:
+XXXX-year-old male with XXXX onset chest pain
+
+FINDINGS:
+Low lung volumes are noted. Allowing for technical factors the heart size is XXXX normal. The mediastinum is unremarkable. There is increased bilateral predominantly perihilar interstitial opacity, XXXX consistent with pulmonary edema. There is no pneumothorax or pleural effusion. The XXXX are unremarkable.
+
+IMPRESSION:
+1. Increased bilateral interstitial opacity, XXXX consistent with mild interstitial edema.
+
+PROBLEMS:
+Lung;Opacity;Pulmonary Edema
+
+MESH:
+Lung/hypoinflation;Opacity/lung/hilum/bilateral/interstitial;Pulmonary Edema/interstitial/mild

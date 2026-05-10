@@ -1,0 +1,16 @@
+UID: 1909
+
+INDICATION:
+chf vs bronchitis
+
+FINDINGS:
+Consolidation, atelectasis, and costophrenic XXXX blunting in the left lower lobe have cleared in the interval. A persistent patchy infiltrate is present in the right middle lobe. No XXXX infiltrates. Heart is slightly large. Pulmonary XXXX are normal. Aorta remains tortuous.
+
+IMPRESSION:
+Cleared left lower lobe airspace disease with persistent right middle lobe airspace disease.
+
+PROBLEMS:
+Infiltrate;Cardiomegaly;Aorta;Airspace Disease
+
+MESH:
+Infiltrate/lung/middle lobe/right/patchy;Cardiomegaly/mild;Aorta/tortuous;Airspace Disease/lung/middle lobe/right

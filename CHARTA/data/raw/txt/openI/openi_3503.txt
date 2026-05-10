@@ -1,0 +1,16 @@
+UID: 3644
+
+INDICATION:
+XXXX-year-old male. Chest pain.
+
+FINDINGS:
+Stable XXXX XXXX, including elongation of the left ventricle and tortuous thoracic aorta. Subcarinal calcified lymph XXXX. XXXX lung volumes. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.
+
+IMPRESSION:
+Negative for acute abnormality. Left ventricular enlargement. Tortuous thoracic aorta.
+
+PROBLEMS:
+Aorta, Thoracic;Calcinosis;Heart Ventricles
+
+MESH:
+Aorta, Thoracic/tortuous;Calcinosis/trachea, carina/lymph nodes;Heart Ventricles/left/enlarged

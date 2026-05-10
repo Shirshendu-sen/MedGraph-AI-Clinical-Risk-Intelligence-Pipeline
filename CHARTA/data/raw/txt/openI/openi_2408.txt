@@ -1,0 +1,16 @@
+UID: 2494
+
+INDICATION:
+XXXX-year-old preop evaluation for knee replacement.
+
+FINDINGS:
+Heart size is mildly enlarged. The pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There are mild degenerative changes of the spine. There are extensive vascular calcifications. There is a left midlung calcified granuloma.
+
+IMPRESSION:
+Cardiomegaly without acute disease.
+
+PROBLEMS:
+Cardiomegaly;Spine;Calcinosis;Calcified Granuloma
+
+MESH:
+Cardiomegaly/mild;Spine/degenerative/mild;Calcinosis/blood vessels/severe;Calcified Granuloma/lung/lingula

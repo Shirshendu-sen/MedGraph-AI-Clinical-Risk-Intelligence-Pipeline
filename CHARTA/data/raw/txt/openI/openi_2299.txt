@@ -1,0 +1,16 @@
+UID: 2382
+
+INDICATION:
+Unexplained leukocytosis, please rule out pneumonia
+
+FINDINGS:
+Moderate cardiomegaly with narrowed severe mediastinal contours. Been sternotomy XXXX noted. No pneumothorax. no large pleural effusions. No focal lung consolidation.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities. 2. Moderate cardiomegaly without significant pulmonary edema.
+
+PROBLEMS:
+Cardiomegaly;Deformity
+
+MESH:
+Cardiomegaly/moderate;Deformity/mediastinum/severe

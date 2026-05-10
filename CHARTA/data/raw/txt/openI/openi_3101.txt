@@ -1,0 +1,16 @@
+UID: 3228
+
+INDICATION:
+Testis cancer dx XXXX
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. There is again biapical scarring. Small stable calcified left lower lobe granuloma. The lungs are otherwise clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Cicatrix;Calcified Granuloma
+
+MESH:
+Cicatrix/lung/apex/bilateral;Calcified Granuloma/lung/lower lobe/left/small

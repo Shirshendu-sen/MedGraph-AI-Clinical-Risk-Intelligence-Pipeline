@@ -1,0 +1,16 @@
+UID: 2985
+
+INDICATION:
+XXXX-year-old XXXX with XXXX and dyspnea. Recent XXXX to XXXX..
+
+FINDINGS:
+The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax demonstrate stable, mild multilevel thoracolumbar degenerative disc disease without acute abnormality. Upper abdominal midline surgical sutures are likewise stable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality..
+
+PROBLEMS:
+Thoracic Vertebrae;Lumbar Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/multiple/mild;Lumbar Vertebrae/degenerative/multiple/mild

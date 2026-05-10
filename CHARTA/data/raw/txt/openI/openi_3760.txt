@@ -1,0 +1,16 @@
+UID: 3907
+
+INDICATION:
+XXXX-year-old female with presyncope.
+
+FINDINGS:
+There is stable, mild enlargement of the cardiac silhouette. Stable mediastinal silhouette. There are low lung volumes with bronchovascular crowding. Scattered XXXX opacities in the right lung base XXXX representing foci of subsegmental atelectasis with scattered airspace opacities in the medial left lower lobe. No pneumothorax. No pleural effusion. Degenerative changes of the thoracic spine possibly consistent with DISH.
+
+IMPRESSION:
+1. Low lung volumes with mild cardiomegaly and scattered right basilar subsegmental atelectasis and scattered retrocardiac airspace opacities.
+
+PROBLEMS:
+Cardiac Shadow;Lung;Markings;Opacity;Pulmonary Atelectasis;Opacity;Thoracic Vertebrae;Cardiomegaly;Opacity
+
+MESH:
+Cardiac Shadow/enlarged/mild;Lung/hypoinflation;Markings/bronchovascular;Opacity/lung/base/right/scattered/multiple;Pulmonary Atelectasis/base/right/focal;Opacity/lung/lower lobe/left/scattered/multiple;Thoracic Vertebrae/degenerative;Cardiomegaly/mild;Opacity/lung/retrocardiac/scattered/multiple

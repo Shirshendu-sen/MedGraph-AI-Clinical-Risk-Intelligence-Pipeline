@@ -1,0 +1,16 @@
+UID: 2372
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Low lung volumes are present. The heart size and pulmonary vascularity appear within normal limits. Bandlike opacities are present in the right lung. Appearance suggest atelectasis. No pneumothorax or pleural effusion is seen.
+
+IMPRESSION:
+Bandlike opacities in the right lung. Appearance XXXX atelectasis.
+
+PROBLEMS:
+Lung;Opacity
+
+MESH:
+Lung/hypoinflation;Opacity/lung/right

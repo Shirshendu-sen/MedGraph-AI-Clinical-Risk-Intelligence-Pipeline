@@ -1,0 +1,16 @@
+UID: 3264
+
+INDICATION:
+XXXX-year-old female with abnormal XXXX loss
+
+FINDINGS:
+Calcified granulomas noted. XXXX symmetric apical scarring. The diaphragms are flattened, and the chest is somewhat XXXX shaped. The cardiothymic silhouette is within normal limits for size. Pulmonary vascularity is unremarkable. No acute bony abnormality.
+
+IMPRESSION:
+Radiographic findings suggestive of emphysema.
+
+PROBLEMS:
+Calcified Granuloma;Cicatrix;Diaphragm;Deformity
+
+MESH:
+Calcified Granuloma/multiple;Cicatrix/lung/apex/bilateral;Diaphragm/bilateral/flattened;Deformity/thorax

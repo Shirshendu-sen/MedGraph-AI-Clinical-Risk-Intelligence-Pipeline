@@ -1,0 +1,16 @@
+UID: 761
+
+INDICATION:
+XXXXyo with hepatic encephalopathy with persistent altered mental status despite t
+
+FINDINGS:
+Lung volumes are low. No focal infiltrates. Heart size normal.
+
+IMPRESSION:
+XXXX change. Hypoinflation with no visible active cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

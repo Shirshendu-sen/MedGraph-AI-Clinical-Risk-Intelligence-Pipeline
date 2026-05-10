@@ -1,0 +1,16 @@
+UID: 2352
+
+INDICATION:
+History of XXXX loss
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear. Lower cervical spine fusion and sternotomy. Old healed left mid posterior rib fractures. Emphysema. No nodules, masses or adenopathy.
+
+PROBLEMS:
+Spinal Fusion;Fractures, Bone;Emphysema
+
+MESH:
+Spinal Fusion/cervical vertebrae;Fractures, Bone/ribs/left/posterior/healed;Emphysema

@@ -1,0 +1,16 @@
+UID: 2446
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. The aorta is tortuous, but the heart and mediastinum otherwise normal.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Aorta
+
+MESH:
+Aorta/tortuous

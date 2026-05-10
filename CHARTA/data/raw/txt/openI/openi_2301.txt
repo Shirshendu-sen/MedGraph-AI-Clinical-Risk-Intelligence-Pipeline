@@ -1,0 +1,16 @@
+UID: 2384
+
+INDICATION:
+Breast cancer.
+
+FINDINGS:
+The heart size and pulmonary vascularity appear within normal limits. A large hiatal hernia is noted. The lungs are free of focal airspace disease. No pneumothorax or pleural effusion is seen. Degenerative changes are present in the spine.
+
+IMPRESSION:
+1. No evidence of active disease.
+
+PROBLEMS:
+Hernia, Hiatal;Spine
+
+MESH:
+Hernia, Hiatal/large;Spine/degenerative

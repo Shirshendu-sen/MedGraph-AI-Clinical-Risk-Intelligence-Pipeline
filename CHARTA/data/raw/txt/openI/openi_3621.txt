@@ -1,0 +1,16 @@
+UID: 3764
+
+INDICATION:
+preop chest x-XXXX for abdominal surgery
+
+FINDINGS:
+Heart size normal. Lungs are clear. XXXX are normal. No pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses.
+
+IMPRESSION:
+Normal chest
+
+PROBLEMS:
+normal
+
+MESH:
+normal

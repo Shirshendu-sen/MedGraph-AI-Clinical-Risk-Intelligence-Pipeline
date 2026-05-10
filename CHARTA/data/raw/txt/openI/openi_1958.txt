@@ -1,0 +1,16 @@
+UID: 2028
+
+INDICATION:
+XXXX-year-old male XXXX with abnormal EKG.
+
+FINDINGS:
+Heart size is normal. No focal airspace disease. No pneumothorax or effusion.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

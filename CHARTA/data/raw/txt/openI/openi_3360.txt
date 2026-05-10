@@ -1,0 +1,16 @@
+UID: 3498
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Chest. A minimally displaced fracture is present on right rib 4. The small amount of pleural fluid is XXXX deep to the fracture. No pleural air collection. Both lungs clear and expanded. Heart and mediastinum normal. Note XXXX of a levoscoliosis of the thoracolumbar spine. Right shoulder. XXXX, soft tissues, and alignment are normal. Right humerus. XXXX and soft tissues are intact.
+
+IMPRESSION:
+1. Chest. Right 4th rib fracture. No cardiopulmonary injury. No pleural air collection. 2. Right shoulder negative. 3. Right humerus negative.
+
+PROBLEMS:
+Fractures, Bone;Pleural Effusion;Scoliosis;Scoliosis
+
+MESH:
+Fractures, Bone/ribs/right;Pleural Effusion/small;Scoliosis/thoracic vertebrae;Scoliosis/lumbar vertebrae

@@ -1,0 +1,16 @@
+UID: 486
+
+INDICATION:
+Infection, XXXX, shortness of breath
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. XXXX scar in the right lateral midlung. Adjacent focal pleural thickening is noted. Chronic blunting of both lateral costophrenic XXXX. Heart size and pulmonary vascularity within normal limits. Tortuous, ectatic thoracic aorta, unchanged. XXXX sternotomy XXXX intact.
+
+IMPRESSION:
+1. No acute pulmonary abnormality.
+
+PROBLEMS:
+Cicatrix;Thickening;Costophrenic Angle;Aorta, Thoracic
+
+MESH:
+Cicatrix/lung/middle lobe/right;Thickening/pleura/right/focal;Costophrenic Angle/bilateral/blunted/chronic;Aorta, Thoracic/tortuous

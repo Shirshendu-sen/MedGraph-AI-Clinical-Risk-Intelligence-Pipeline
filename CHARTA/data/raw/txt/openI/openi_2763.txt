@@ -1,0 +1,16 @@
+UID: 2874
+
+INDICATION:
+Patient with synovial sarcoma status post resection
+
+FINDINGS:
+The lungs appear clear. There is a calcified granuloma in the right lung base and calcified right hilar lymph XXXX. This was seen well on prior XXXX. There are no suspicious appearing pulmonary nodules or masses. Heart and pulmonary XXXX appear normal. The pleural spaces are clear. Mediastinal contours are normal.
+
+IMPRESSION:
+No acute cardiopulmonary disease. No evidence of metastatic disease to the lungs.
+
+PROBLEMS:
+Calcified Granuloma;Calcinosis
+
+MESH:
+Calcified Granuloma/lung/base/right;Calcinosis/lung/hilum/lymph nodes/right

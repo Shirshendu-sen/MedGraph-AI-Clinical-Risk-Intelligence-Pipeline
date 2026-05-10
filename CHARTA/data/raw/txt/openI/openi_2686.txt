@@ -1,0 +1,16 @@
+UID: 2789
+
+INDICATION:
+XXXX-year-old male, preop for forearm fracture
+
+FINDINGS:
+Heart size near top normal limits, mild aortic ectasia size tortuosity. Mediastinal calcifications and dense nodule in the lingula suggest a previous granulomatous process. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.
+
+IMPRESSION:
+No acute cardiopulmonary findings
+
+PROBLEMS:
+Aorta;Calcinosis;Density;Nodule
+
+MESH:
+Aorta/tortuous/mild;Calcinosis/mediastinum;Density/lung/lingula/round;Nodule/lung/lingula

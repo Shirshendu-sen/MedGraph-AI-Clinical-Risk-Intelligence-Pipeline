@@ -1,0 +1,16 @@
+UID: 1375
+
+INDICATION:
+History of dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Cardiomegaly with interstitial edema. No effusions, pneumonia, nodules or masses.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Edema
+
+MESH:
+Cardiomegaly;Pulmonary Edema/interstitial

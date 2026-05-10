@@ -1,0 +1,16 @@
+UID: 3127
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+The heart size is normal. There is prominent left epicardial fat. The mediastinal contour is within normal limits. The lungs are free of any focal infiltrates. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Epicardial Fat
+
+MESH:
+Epicardial Fat/left/prominent

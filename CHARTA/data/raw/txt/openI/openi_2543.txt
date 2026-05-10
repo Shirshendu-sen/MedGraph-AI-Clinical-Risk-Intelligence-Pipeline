@@ -1,0 +1,16 @@
+UID: 2637
+
+INDICATION:
+XXXX-year-old male, short of breath
+
+FINDINGS:
+Moderate-to-marked enlargement of the cardiac silhouette, mediastinal contours appear similar to prior. Mild bilateral posterior sulcus blunting, interstitial and alveolar opacities greatest in the central lungs and bases with indistinct vascular margination.
+
+IMPRESSION:
+1. Cardiomegaly and small bilateral pleural effusions 2. Abnormal pulmonary opacities most suggestive of pulmonary edema, primary differential diagnosis includes infection and aspiration, clinical correlation recommended
+
+PROBLEMS:
+Cardiomegaly;Pleural Effusion;Opacity;Opacity;Opacity;Opacity;Opacity;Pulmonary Edema;Cardiac Shadow;Sulcus;Pulmonary Congestion
+
+MESH:
+Cardiomegaly;Pleural Effusion/bilateral/small;Opacity/lung/multiple/abnormal;Opacity/lung/middle lobe/bilateral/interstitial;Opacity/lung/middle lobe/pulmonary alveoli/bilateral;Opacity/lung/base/bilateral/interstitial;Opacity/lung/base/pulmonary alveoli/bilateral;Pulmonary Edema;Cardiac Shadow/enlarged/severe;Sulcus/bilateral/posterior/blunted/mild;Pulmonary Congestion

@@ -1,0 +1,16 @@
+UID: 2600
+
+INDICATION:
+XXXX, pre-op
+
+FINDINGS:
+The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. Heart and mediastinum normal. Note XXXX of placement of a retention XXXX in the lower cervical spine.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Implanted Medical Device
+
+MESH:
+Implanted Medical Device/cervical vertebrae

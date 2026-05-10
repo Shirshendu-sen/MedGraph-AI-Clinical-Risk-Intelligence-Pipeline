@@ -1,0 +1,16 @@
+UID: 576
+
+INDICATION:
+XXXX-year-old female with XXXX and leukocytosis
+
+FINDINGS:
+Exam limited by patient rotation. Mild rightward deviation of the trachea. Stable cardiomegaly. Unfolding of the thoracic aorta. Persistent right pleural effusion with adjacent atelectasis. Low lung volumes. No focal airspace consolidation. There is severe degenerative changes of the right shoulder.
+
+IMPRESSION:
+1. Right pleural effusion with adjacent atelectasis. 2. No definite findings of pneumonia.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Trachea;Cardiomegaly;Aorta, Thoracic;Pleural Effusion;Pulmonary Atelectasis;Lung;Shoulder
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Trachea/right/tortuous/mild;Cardiomegaly;Aorta, Thoracic/tortuous;Pleural Effusion/right;Pulmonary Atelectasis/right;Lung/hypoinflation;Shoulder/right/degenerative/severe

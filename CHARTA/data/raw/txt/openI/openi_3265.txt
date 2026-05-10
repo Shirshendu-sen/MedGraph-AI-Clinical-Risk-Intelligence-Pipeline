@@ -1,0 +1,16 @@
+UID: 3398
+
+INDICATION:
+Syncope and right elbow pain after falling
+
+FINDINGS:
+The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. Chronic appearing interstitial marking. Right upper lobe granuloma, stable The lungs are normally inflated and clear. Degenerative changes of the spine.
+
+IMPRESSION:
+1. Chronic changes without acute process
+
+PROBLEMS:
+Markings;Granuloma;Spine
+
+MESH:
+Markings/lung/interstitial/chronic;Granuloma/lung/upper lobe/right;Spine/degenerative

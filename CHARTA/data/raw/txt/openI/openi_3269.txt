@@ -1,0 +1,16 @@
+UID: 3402
+
+INDICATION:
+XXXX-year-old female with chest pain
+
+FINDINGS:
+The heart size and mediastinal contours appear within normal limits. No focal airspace consolidation, pleural effusion or pneumothorax. Scattered calcified granulomas bilaterally. No acute bony abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/bilateral/scattered/multiple

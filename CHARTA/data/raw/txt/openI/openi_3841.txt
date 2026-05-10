@@ -1,0 +1,16 @@
+UID: 3989
+
+INDICATION:
+XXXX-year-old male, pain
+
+FINDINGS:
+Heart size within normal limits. Right hemidiaphragm eventration noted. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.
+
+IMPRESSION:
+No acute cardiopulmonary findings
+
+PROBLEMS:
+Diaphragmatic Eventration
+
+MESH:
+Diaphragmatic Eventration/right

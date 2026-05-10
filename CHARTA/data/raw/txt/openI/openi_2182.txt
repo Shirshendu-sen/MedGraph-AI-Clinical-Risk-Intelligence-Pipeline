@@ -1,0 +1,16 @@
+UID: 2262
+
+INDICATION:
+XXXX-year-old male with XXXX onset pleuritic pain.
+
+FINDINGS:
+XXXX right basal airspace opacity. The heart size and mediastinal silhouette are within normal limits for contour. No pneumothorax or pleural effusions. The XXXX are intact.
+
+IMPRESSION:
+XXXX right basilar airspace opacity.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/base/right

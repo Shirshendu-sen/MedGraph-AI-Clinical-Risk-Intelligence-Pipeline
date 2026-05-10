@@ -1,0 +1,16 @@
+UID: 391
+
+INDICATION:
+XXXX-year-old female with one XXXX of productive XXXX.
+
+FINDINGS:
+Low lung volumes. Heart size normal. No focal airspace consolidations. No pneumothorax or effusions.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

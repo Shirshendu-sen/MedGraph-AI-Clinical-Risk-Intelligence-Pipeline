@@ -1,0 +1,16 @@
+UID: 586
+
+INDICATION:
+XXXX-year-old with shortness of breath. Atelectasis versus infiltrate.
+
+FINDINGS:
+The heart size is moderately enlarged. The pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. Again noted is XXXX and left midlung airspace opacity XXXX atelectasis. There is left basilar opacity XXXX atelectasis as well. There is improved right midlung opacity. There are mild degenerative changes of the spine. XXXX sternotomy XXXX are intact. Extensive atherosclerotic disease.
+
+IMPRESSION:
+Probable left midlung and left basilar atelectasis. Cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Pulmonary Atelectasis;Opacity;Pulmonary Atelectasis;Opacity;Spine;Atherosclerosis
+
+MESH:
+Cardiomegaly/moderate;Opacity/lung/lingula;Pulmonary Atelectasis/lingula;Opacity/lung/base/left;Pulmonary Atelectasis/base/left;Opacity/lung/middle lobe/right;Spine/degenerative/mild;Atherosclerosis/severe

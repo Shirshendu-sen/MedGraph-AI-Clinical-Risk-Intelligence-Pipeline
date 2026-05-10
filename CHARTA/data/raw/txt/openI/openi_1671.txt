@@ -1,0 +1,16 @@
+UID: 1727
+
+INDICATION:
+XXXX-year-old male, mediastinal germ cell tumor, surgery on mediastinum last XXXX.
+
+FINDINGS:
+Right-sided internal jugular central venous catheter with tip approximating the right atrium. Postsurgical changes of the mediastinum including sternotomy XXXX. Left base opacities again noted, stable. There is a left lung opacity, not well appreciated on prior. There is no evidence of pneumothorax. Low lung volumes. Degenerative changes thoracic spine.
+
+IMPRESSION:
+1. Left midlung opacity, not well seen on prior exam, may represent focus of airspace disease. 2. Stable left base opacities, XXXX scarring or atelectasis. 2. Postsurgical changes as above. .
+
+PROBLEMS:
+Catheters, Indwelling;Opacity;Opacity;Lung;Thoracic Vertebrae;Pulmonary Atelectasis;Cicatrix
+
+MESH:
+Catheters, Indwelling/right;Opacity/lung/base/left;Opacity/lung/lingula;Lung/hypoinflation;Thoracic Vertebrae/degenerative;Pulmonary Atelectasis/base/left;Cicatrix/lung/base/left

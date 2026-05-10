@@ -1,0 +1,16 @@
+UID: 1519
+
+INDICATION:
+Acute mental status changes.
+
+FINDINGS:
+Lungs are mildly hypoinflated with asymmetric elevation of the right hemidiaphragm, of uncertain chronicity. There is mild basilar bronchovascular crowding, without evidence of focal airspace disease. Heart is XXXX within normal limits for low lung volumes and AP technique. There is no pneumothorax or large pleural effusion.
+
+IMPRESSION:
+Low lung volume exam. Otherwise, no acute findings. .
+
+PROBLEMS:
+Lung;Diaphragm;Markings
+
+MESH:
+Lung/hypoinflation/mild;Diaphragm/right/elevated;Markings/lung/base/bronchovascular/mild

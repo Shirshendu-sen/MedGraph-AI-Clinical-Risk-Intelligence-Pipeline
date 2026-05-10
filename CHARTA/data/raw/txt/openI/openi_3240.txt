@@ -1,0 +1,16 @@
+UID: 3372
+
+INDICATION:
+XXXX and dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Increasing cardiomegaly. No effusions. Minimal interstitial edema.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Edema
+
+MESH:
+Cardiomegaly;Pulmonary Edema/interstitial/mild

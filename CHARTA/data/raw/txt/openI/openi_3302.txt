@@ -1,0 +1,16 @@
+UID: 3436
+
+INDICATION:
+Dyspnea on exertion.
+
+FINDINGS:
+The lungs appear hyperexpanded suggesting emphysema. The heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. Calcified granuloma is identified. No pneumothorax or pleural effusion is seen.
+
+IMPRESSION:
+1. Hyperexpanded lungs. The pattern suggests emphysema. 2. No evidence of acute disease.
+
+PROBLEMS:
+Lung;Calcified Granuloma
+
+MESH:
+Lung/hyperdistention;Calcified Granuloma

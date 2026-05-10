@@ -1,0 +1,16 @@
+UID: 1389
+
+INDICATION:
+History of chest pain XXXX nausea.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear. Overexpanded lungs suggests emphysema. No nodules masses or effusions
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention

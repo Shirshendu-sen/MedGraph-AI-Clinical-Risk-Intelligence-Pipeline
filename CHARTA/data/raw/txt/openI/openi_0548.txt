@@ -1,0 +1,16 @@
+UID: 564
+
+INDICATION:
+XXXX, recent thyroid surgery for thyroid cancer
+
+FINDINGS:
+The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. There is right upper lobe airspace disease.. There is a rounded nodular opacity in the left upper lung measuring approximately 7 mm which may represent further sequela of infectious process versus other pathology. Osseous structures are within normal limits for patient age.
+
+IMPRESSION:
+1. Right upper lobe pneumonia. 2. Rounded nodular opacity in the peripheral left upper lung which may represent further sequela infectious process versus other pathology including metastatic disease in a patient with thyroid cancer. Follow up to resolution recommended.
+
+PROBLEMS:
+Airspace Disease;Opacity;Pneumonia;Nodule
+
+MESH:
+Airspace Disease/lung/upper lobe/right;Opacity/lung/upper lobe/left/round;Pneumonia/upper lobe/right;Nodule/lung/upper lobe/left/round

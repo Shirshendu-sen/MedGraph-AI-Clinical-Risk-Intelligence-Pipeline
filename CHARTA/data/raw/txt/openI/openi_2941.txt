@@ -1,0 +1,16 @@
+UID: 3066
+
+INDICATION:
+PAIN; chest pain x1 XXXX, previous XXXX
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. Mild emphysematous changes without focal consolidation. There is no pleural effusion. XXXX lingular scarring or atelectasis noted.
+
+IMPRESSION:
+Emphysema without acute disease.
+
+PROBLEMS:
+Emphysema;Cicatrix;Pulmonary Atelectasis
+
+MESH:
+Emphysema/mild;Cicatrix/lung/lingula;Pulmonary Atelectasis/lingula

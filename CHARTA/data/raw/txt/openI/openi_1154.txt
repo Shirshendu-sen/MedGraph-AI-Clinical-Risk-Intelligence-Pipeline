@@ -1,0 +1,16 @@
+UID: 1194
+
+INDICATION:
+XXXX-year-old female, XXXX, pain all over
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size within normal limits, minimal aortic ectasia/tortuosity. Abnormal interstitial pattern, nonspecific in appearance with XXXX differential diagnosis including chronic interstitial lung disease, infectious, inflammatory process, atypical pulmonary edema. Not highly characteristic appearance of contusion or aspiration. Chronic appearing contour deformity of the distal right clavicle suggests old injury. No definite pleural effusion seen, no pneumothorax.
+
+PROBLEMS:
+Aorta;Deformity;Markings
+
+MESH:
+Aorta/tortuous/mild;Deformity/clavicle/right/chronic;Markings/lung/interstitial

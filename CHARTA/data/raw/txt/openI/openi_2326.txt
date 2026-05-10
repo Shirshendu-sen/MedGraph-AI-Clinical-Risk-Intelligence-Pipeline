@@ -1,0 +1,16 @@
+UID: 2410
+
+INDICATION:
+Preoperative for thyroidectomy, COPD, chest pain, XXXX
+
+FINDINGS:
+The heart size is normal and cardiomediastinal silhouette has normal contour. The left hilar calcified lymph XXXX appear stable. There is persistence of a left lower lobe calcified nodule XXXX representing a granuloma. The lungs are hyperinflated but otherwise clear bilaterally.
+
+IMPRESSION:
+1. Severe hyperinflation. 2. Stable left calcified hilar lymph XXXX.
+
+PROBLEMS:
+Calcinosis;Calcinosis;Nodule;Granuloma;Lung
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/left;Calcinosis/lung/lower lobe/left;Nodule/lung/lower lobe/left;Granuloma/lung/lower lobe/left;Lung/hyperdistention/severe

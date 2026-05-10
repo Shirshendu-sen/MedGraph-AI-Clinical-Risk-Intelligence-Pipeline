@@ -1,0 +1,16 @@
+UID: 3671
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+Stable cardiomediastinal silhouette. Mild patchy right upper lobe opacities, similar to slightly improved from XXXX. Left lung clear. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+1. Persistent mild right upper lobe infiltrate, similar to slightly improved from XXXX. 2. Left lung grossly clear.
+
+PROBLEMS:
+Opacity;Infiltrate
+
+MESH:
+Opacity/lung/upper lobe/right/patchy/mild;Infiltrate/lung/upper lobe/right/mild

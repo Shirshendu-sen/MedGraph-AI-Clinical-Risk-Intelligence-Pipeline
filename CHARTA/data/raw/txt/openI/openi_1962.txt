@@ -1,0 +1,16 @@
+UID: 2032
+
+INDICATION:
+XXXX-year-old male with XXXX, non-XXXX, 786.2
+
+FINDINGS:
+The lungs are clear. No focal air space consolidation. No pleural effusion or pneumothorax. Normal cardiomediastinal silhouette.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

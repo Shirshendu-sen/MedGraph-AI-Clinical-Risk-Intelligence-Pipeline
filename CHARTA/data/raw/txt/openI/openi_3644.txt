@@ -1,0 +1,16 @@
+UID: 3787
+
+INDICATION:
+XXXX-year-old female with chest and left arm pain.
+
+FINDINGS:
+Heart size is normal. No pneumothorax, pleural effusion, or focal airspace disease. Bony structures appear intact.
+
+IMPRESSION:
+Normal chest radiograph.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

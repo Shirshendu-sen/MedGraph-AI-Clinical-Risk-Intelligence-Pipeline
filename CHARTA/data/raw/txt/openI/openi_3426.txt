@@ -1,0 +1,16 @@
+UID: 3566
+
+INDICATION:
+XXXX-year-old male, XXXX, XXXX XXXX ladder 6 feet.
+
+FINDINGS:
+Normal heart size and mediastinal contours. Low lung volumes mild bibasilar atelectasis. No focal airspace consolidation. No pleural effusion or pneumothorax. Visualized osseous structures are unremarkable in appearance. The lateral views are limited by patient positioning and motion. Large cervical spine osteophytes.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Technically limited exam. 3. Incidental note XXXX of large cervical spine osteophytes. .
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis;Technical Quality of Image Unsatisfactory ;Osteophyte
+
+MESH:
+Lung/hypoinflation;Pulmonary Atelectasis/base/bilateral/mild;Technical Quality of Image Unsatisfactory ;Osteophyte/cervical vertebrae/multiple/large

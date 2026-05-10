@@ -1,0 +1,16 @@
+UID: 1834
+
+INDICATION:
+tuberculosis +PPD
+
+FINDINGS:
+Heart size normal. Lungs are clear. XXXX are normal. No pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses.
+
+IMPRESSION:
+Normal chest No evidence of tuberculosis
+
+PROBLEMS:
+normal
+
+MESH:
+normal

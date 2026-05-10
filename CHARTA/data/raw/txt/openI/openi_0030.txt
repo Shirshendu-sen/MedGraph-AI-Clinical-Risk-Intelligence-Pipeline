@@ -1,0 +1,16 @@
+UID: 31
+
+INDICATION:
+XXXX DYSPNEA
+
+FINDINGS:
+None
+
+IMPRESSION:
+Suggestion of slightly more prominent interstitial markings, which may represent some bronchitic/bronchiolitis changes. No suspicious nodules, pneumonia, effusions, or CHF. Stable mediastinal contour.
+
+PROBLEMS:
+Markings
+
+MESH:
+Markings/lung/interstitial

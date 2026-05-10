@@ -1,0 +1,16 @@
+UID: 3274
+
+INDICATION:
+CHF, XXXX;
+
+FINDINGS:
+None
+
+IMPRESSION:
+Very low lung volumes with bibasilar hypoventilation and patchy atelectasis. No overt airspace consolidation or pleural effusions. Visualized mediastinal contour grossly within normal limits.
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation/severe;Pulmonary Atelectasis/bilateral/patchy

@@ -1,0 +1,16 @@
+UID: 1053
+
+INDICATION:
+XXXX-year-old male status post CABG.
+
+FINDINGS:
+There are postoperative changes of sternotomy and CABG. There is stable mild cardiomegaly. There are scattered XXXX of subsegmental atelectasis, decreased from the prior chest radiograph. No focal airspace consolidation. No pleural effusion or pneumothorax. There are minimal degenerative changes of the spine.
+
+IMPRESSION:
+1. Scattered bilateral subsegmental atelectasis. Decreased from prior radiograph. 2. Stable mild cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Atelectasis;Spine
+
+MESH:
+Cardiomegaly/mild;Pulmonary Atelectasis/bilateral/scattered;Spine/degenerative/mild

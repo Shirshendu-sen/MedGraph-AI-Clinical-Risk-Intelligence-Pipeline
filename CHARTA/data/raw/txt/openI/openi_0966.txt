@@ -1,0 +1,16 @@
+UID: 999
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Lungs are clear bilaterally. There is no focal consolidation, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. XXXX are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 87
+
+INDICATION:
+XXXX-year-old male with wheezing.
+
+FINDINGS:
+No focal airspace disease, pleural effusion or pneumothorax. Cardiomediastinal silhouette is within normal limits. No free subdiaphragmatic air.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

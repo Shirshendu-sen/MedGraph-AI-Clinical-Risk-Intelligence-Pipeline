@@ -1,0 +1,16 @@
+UID: 3956
+
+INDICATION:
+MVC
+
+FINDINGS:
+AP and lateral views of the chest were obtained. The heart is normal size. Mediastinum is unremarkable. Lungs are hypoinflated but clear. No focal consolidation is seen.
+
+IMPRESSION:
+No acute disease
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

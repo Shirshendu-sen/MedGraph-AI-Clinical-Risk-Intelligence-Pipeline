@@ -1,0 +1,16 @@
+UID: 289
+
+INDICATION:
+XXXX-year-old female, infection, XXXX
+
+FINDINGS:
+Heart size within normal limits, stable mediastinal and hilar contours, right chest XXXX tip in the low SVC. Monitoring device artifacts. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Catheters, Indwelling;Medical Device
+
+MESH:
+Catheters, Indwelling;Medical Device

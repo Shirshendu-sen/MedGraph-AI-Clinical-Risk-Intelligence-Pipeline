@@ -1,0 +1,16 @@
+UID: 1108
+
+INDICATION:
+SHORTNESS OF BREATH;
+
+FINDINGS:
+The lungs are clear and hyperinflated. Heart size is normal. No pneumothorax.
+
+IMPRESSION:
+Hyperinflated lungs. No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention

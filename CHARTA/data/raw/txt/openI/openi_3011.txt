@@ -1,0 +1,16 @@
+UID: 3137
+
+INDICATION:
+R/O TB FEMALE WITH PPD
+
+FINDINGS:
+The trachea is midline. Cardiomediastinal silhouette is normal. There is a calcified density in the left mid lung, most XXXX a calcified granuloma. Lungs are otherwise clear, without evidence of acute infiltrate or effusion. Specifically, there is no evidence of tuberculous disease. There is no pneumothorax. The bony structures show no acute abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities. No active pulmonary disease.
+
+PROBLEMS:
+Calcinosis;Density;Calcified Granuloma
+
+MESH:
+Calcinosis/lung/lingula;Density/lung/lingula;Calcified Granuloma/lung/lingula

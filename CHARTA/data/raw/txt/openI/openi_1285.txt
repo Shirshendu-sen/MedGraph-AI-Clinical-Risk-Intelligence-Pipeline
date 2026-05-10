@@ -1,0 +1,16 @@
+UID: 1333
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+Cardiomediastinal silhouette is within normal limits of size and appearance. Pulmonary vascularity is unremarkable. Morgagni hernia, stable. Lungs are expanded and clear of air space disease or consolidation. Negative for pneumothorax or pleural effusion. Limited evaluation reveals diffuse demineralization with stable anterior wedging at the lower thoracic levels.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Hernia, Diaphragmatic;Bone Diseases, Metabolic;Deformity
+
+MESH:
+Hernia, Diaphragmatic;Bone Diseases, Metabolic/thoracic vertebrae;Deformity/thoracic vertebrae/anterior

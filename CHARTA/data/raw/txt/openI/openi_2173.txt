@@ -1,0 +1,16 @@
+UID: 2253
+
+INDICATION:
+Chronic bronchitis.
+
+FINDINGS:
+There is hyperinflation of the lungs but they are clear. The heart and mediastinum are normal. The skeletal structures are normal. There are bilateral breast prostheses.
+
+IMPRESSION:
+COPD.
+
+PROBLEMS:
+Lung;Breast Implants;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Breast Implants/bilateral;Pulmonary Disease, Chronic Obstructive

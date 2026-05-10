@@ -1,0 +1,16 @@
+UID: 2333
+
+INDICATION:
+XXXX-year-old male with weakness.
+
+FINDINGS:
+Heart size is normal. No focal consolidations. There is a 6 mm calcified granuloma at the medial right lung base. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/base/right

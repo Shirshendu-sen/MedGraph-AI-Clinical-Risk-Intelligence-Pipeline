@@ -1,0 +1,16 @@
+UID: 2858
+
+INDICATION:
+XXXX-year-old chest pain.
+
+FINDINGS:
+Heart size normal. Tortuous aorta. Sequela primary granulomatous disease. Lungs clear. Minimal spurring in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+Aorta;Granulomatous Disease;Osteophyte
+
+MESH:
+Aorta/tortuous;Granulomatous Disease;Osteophyte/thoracic vertebrae/mild

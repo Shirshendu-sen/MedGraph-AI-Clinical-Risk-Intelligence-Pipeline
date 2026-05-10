@@ -1,0 +1,16 @@
+UID: 3983
+
+INDICATION:
+XXXX-year-old male with XXXX and XXXX.
+
+FINDINGS:
+There is a left basilar airspace opacity. Right basilar atelectasis. The heart size and mediastinal silhouette are within normal limits for contour. No pneumothorax or pleural effusions. The XXXX are intact.
+
+IMPRESSION:
+1.There is a left basilar airspace opacity, which is concerning for pneumonia. 2. Right basilar atelectasis.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/base/left;Pulmonary Atelectasis/base/right

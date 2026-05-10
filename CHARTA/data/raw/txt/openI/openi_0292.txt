@@ -1,0 +1,16 @@
+UID: 303
+
+INDICATION:
+XXXX, asthma, preop hip replacement
+
+FINDINGS:
+The heart is normal in size. The mediastinum is Stable. Rectal balloon is noted. Lungs are mildly hypoinflated. There is again eventration of the hemidiaphragms/ Bochdalek hernia, posteriorly as seen on the lateral projection. Bilateral pleural thickening is noted. There are streaky opacities in the lung bases unchanged, XXXX chronic atelectasis.
+
+IMPRESSION:
+Mild bilateral streaky opacities, XXXX atelectasis. No acute infiltrate.
+
+PROBLEMS:
+Lung;Diaphragmatic Eventration;Thickening;Opacity;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation/mild;Diaphragmatic Eventration;Thickening/pleura/bilateral;Opacity/lung/base/bilateral/streaky/mild;Pulmonary Atelectasis/chronic

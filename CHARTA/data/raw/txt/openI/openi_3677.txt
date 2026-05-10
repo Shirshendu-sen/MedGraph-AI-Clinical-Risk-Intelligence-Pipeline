@@ -1,0 +1,16 @@
+UID: 3822
+
+INDICATION:
+chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Mediastinal cardiac size stable. No pneumothoraces or large pleural effusions. Pulmonary granulomas. No acute pulmonary process. No acute displaced rib fractures.
+
+PROBLEMS:
+Granuloma
+
+MESH:
+Granuloma/lung/multiple

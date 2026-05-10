@@ -1,0 +1,16 @@
+UID: 14
+
+INDICATION:
+XXXX-year-old female, chest pain
+
+FINDINGS:
+Heart size within normal limits, stable mediastinal and hilar contours. Mild hyperinflation appears similar to prior. No focal alveolar consolidation, no definite pleural effusion seen. Scattered chronic appearing irregular interstitial markings, no typical findings of pulmonary edema.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Lung;Markings
+
+MESH:
+Lung/hyperdistention/mild;Markings/lung/interstitial/scattered/irregular/chronic

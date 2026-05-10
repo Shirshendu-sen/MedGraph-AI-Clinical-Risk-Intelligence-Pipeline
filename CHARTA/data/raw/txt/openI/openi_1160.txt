@@ -1,0 +1,16 @@
+UID: 1200
+
+INDICATION:
+XXXX, smoking.
+
+FINDINGS:
+The heart is not enlarged. The central pulmonary vasculature is not engorged. Visualized osseous structures are unremarkable. No pneumothorax or pleural effusion. Small right juxtahilar opacity may represent infiltrate. Lungs are otherwise well aerated.
+
+IMPRESSION:
+Small right juxtahilar opacity may represent infiltrate in the setting of XXXX. Followup chest x-XXXX is recommended at an appropriate interval following treatment to document XXXX.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/hilum/right/small

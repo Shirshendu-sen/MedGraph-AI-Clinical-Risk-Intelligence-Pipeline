@@ -1,0 +1,16 @@
+UID: 992
+
+INDICATION:
+MELANOMA
+
+FINDINGS:
+There are bilateral pulmonary nodules whose appearances suggest metastatic disease to lungs. In the right lung, there is a 1.9 x 2.1 cm nodule overlying the posterior right 6th rib. There is a 1.0 x 1.2 cm nodule XXXX above this in the interspace between the posterior 5th and 6th ribs on the right. There is a 1.0 x 1.1 cm nodule projecting through the left 9th and 10th interspaces on the PA view. If not already performed, contrast-enhanced XXXX would be XXXX suited to evaluate these findings. There are no focal airspace opacities to suggest pneumonia. To the stomach contours appear grossly clear. Heart size and pulmonary XXXX appear normal. There are left-sided axillary clips. There is a right internal jugular central catheter, the distal tip in right atrium.
+
+IMPRESSION:
+1. Bilateral pulmonary nodules suggesting pulmonary metastases 2. Right internal jugular central catheter, the distal tip in the right atrium.
+
+PROBLEMS:
+Nodule;Surgical Instruments;Catheters, Indwelling
+
+MESH:
+Nodule/lung/bilateral/multiple;Surgical Instruments/left;Catheters, Indwelling/right

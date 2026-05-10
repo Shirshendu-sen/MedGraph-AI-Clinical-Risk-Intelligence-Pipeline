@@ -1,0 +1,16 @@
+UID: 3557
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Left PICC line and NG tube remain in XXXX. Heart size and vascularity appear within normal limits. The lungs are free of focal airspace disease. Small bilateral pleural effusions are present. No pneumothorax is noted.
+
+IMPRESSION:
+1. Small bilateral pleural effusions.
+
+PROBLEMS:
+Catheters, Indwelling;Tube, Inserted;Pleural Effusion
+
+MESH:
+Catheters, Indwelling/left;Tube, Inserted;Pleural Effusion/bilateral/small

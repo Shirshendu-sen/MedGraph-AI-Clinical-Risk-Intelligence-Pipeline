@@ -1,0 +1,16 @@
+UID: 837
+
+INDICATION:
+XXXX-year-old female, XXXX.
+
+FINDINGS:
+Cardiomediastinal silhouette is within normal limits. Lungs are clear without areas of focal consolidation. Right hilar calcifications XXXX sequela of prior granulomatous disease. No pneumothorax or large pleural effusion. No acute bone abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+Calcinosis;Granulomatous Disease
+
+MESH:
+Calcinosis/lung/hilum/right;Granulomatous Disease

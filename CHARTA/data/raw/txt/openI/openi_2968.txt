@@ -1,0 +1,16 @@
+UID: 3093
+
+INDICATION:
+chest pain, dyspnea
+
+FINDINGS:
+Lungs are hyperexpanded. Bullae are present in the upper lobes. No focal infiltrates. Heart size normal.
+
+IMPRESSION:
+Findings of COPD. No acute findings.
+
+PROBLEMS:
+Lung;Blister;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Blister/lung/upper lobe/bilateral/multiple;Pulmonary Disease, Chronic Obstructive

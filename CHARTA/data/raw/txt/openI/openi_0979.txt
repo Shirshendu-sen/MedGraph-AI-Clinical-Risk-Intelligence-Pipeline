@@ -1,0 +1,16 @@
+UID: 1012
+
+INDICATION:
+sob
+
+FINDINGS:
+Lung volumes are low. Bibasilar consolidation and bilateral costophrenic XXXX blunting are present. Heart size normal. Pulmonary XXXX normal. Shunt tubing traverses the entire image from top to XXXX.
+
+IMPRESSION:
+Bibasilar airspace disease and bilateral pleural fluid.
+
+PROBLEMS:
+Lung;Consolidation;Costophrenic Angle;Surgical Instruments;Airspace Disease;Pleural Effusion
+
+MESH:
+Lung/hypoinflation;Consolidation/lung/base/bilateral;Costophrenic Angle/bilateral/blunted;Surgical Instruments;Airspace Disease/lung/base/bilateral;Pleural Effusion/bilateral

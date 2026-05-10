@@ -1,0 +1,16 @@
+UID: 1763
+
+INDICATION:
+Productive XXXX, history of COPD
+
+FINDINGS:
+Heart XXXX, mediastinum, XXXX, bony structures are unremarkable. Stable increased lung volumes consistent with chronic lung disease. No XXXX infiltrates noted.
+
+IMPRESSION:
+No radiographic evidence of acute cardiopulmonary disease
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention

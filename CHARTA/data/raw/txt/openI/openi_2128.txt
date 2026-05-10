@@ -1,0 +1,16 @@
+UID: 2208
+
+INDICATION:
+XXXX-year-old male, chest pain
+
+FINDINGS:
+Persistent cardiomegaly. No abnormal airspace consolidation. Resolved interstitial edema. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+Stable cardiomegaly without acute abnormality.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly

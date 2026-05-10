@@ -1,0 +1,16 @@
+UID: 961
+
+INDICATION:
+XXXX-year-old male, acute iritis, no chest complaints.
+
+FINDINGS:
+There is a XXXX opacity projecting over the left midlung, posterior on the lateral view. No pleural effusions. No evidence of pneumothorax. Heart size top normal. Degenerative changes thoracic spine.
+
+IMPRESSION:
+XXXX opacity projecting over the left midlung. Comparison examinations would be useful. If no comparison examinations exist, XXXX would be helpful for further evaluation. .
+
+PROBLEMS:
+Opacity;Thoracic Vertebrae
+
+MESH:
+Opacity/lung/lingula/posterior;Thoracic Vertebrae/degenerative

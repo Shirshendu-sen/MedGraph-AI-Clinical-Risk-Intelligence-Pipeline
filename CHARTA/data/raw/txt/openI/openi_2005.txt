@@ -1,0 +1,16 @@
+UID: 2080
+
+INDICATION:
+786.2 XXXX, XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Well-expanded and clear lungs. Conspicuous for size 3-4 mm nodular opacity projecting in right lung is probably a small calcified granuloma. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Opacity;Calcified Granuloma
+
+MESH:
+Opacity/lung/right/round;Calcified Granuloma/lung/right/small

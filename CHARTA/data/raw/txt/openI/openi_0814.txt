@@ -1,0 +1,16 @@
+UID: 840
+
+INDICATION:
+History of pleural air collection after chest tube removal
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Left upper lobe atelectasis / infiltrate in the left perihilar region, unchanged. Two venous catheter tips overlie the mid SVC. Small medial left upper lobe pleural air collection.
+
+PROBLEMS:
+Pulmonary Atelectasis;Infiltrate;Catheters, Indwelling;Pneumothorax
+
+MESH:
+Pulmonary Atelectasis/upper lobe/left;Infiltrate/lung/hilum/left;Catheters, Indwelling;Pneumothorax/upper lobe/left/small

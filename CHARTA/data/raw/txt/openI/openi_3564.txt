@@ -1,0 +1,16 @@
+UID: 3705
+
+INDICATION:
+Leukocytosis
+
+FINDINGS:
+The lungs are clear. There is no pleural effusion or pneumothorax. There has been a XXXX XXXX sternotomy. The heart is not significantly enlarged. There are atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures are noted.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+Atherosclerosis;Arthritis
+
+MESH:
+Atherosclerosis/aorta;Arthritis

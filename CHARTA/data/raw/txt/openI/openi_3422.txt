@@ -1,0 +1,16 @@
+UID: 3562
+
+INDICATION:
+Altered mental status, falling
+
+FINDINGS:
+The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. Sequela of prior granulomatous disease Lung volumes are low with central bronchovascular crowding and patchy basilar atelectasis.. Degenerative changes of the spine.
+
+IMPRESSION:
+1. Low volume study without acute process.
+
+PROBLEMS:
+Granulomatous Disease;Lung;Markings;Pulmonary Atelectasis;Spine
+
+MESH:
+Granulomatous Disease;Lung/hypoinflation;Markings/bronchovascular;Pulmonary Atelectasis/base/bilateral/patchy;Spine/degenerative

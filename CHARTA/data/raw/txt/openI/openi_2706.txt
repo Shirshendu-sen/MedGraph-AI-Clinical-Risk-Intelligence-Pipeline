@@ -1,0 +1,16 @@
+UID: 2810
+
+INDICATION:
+XXXX-year-old female with chest pain and dyspnea.
+
+FINDINGS:
+Heart size and cardiomediastinal contours are normal. Aorta is mildly tortuous. Lungs are clear without focal airspace opacity, pleural effusion, or pneumothorax. Mild degenerative changes in the spine.
+
+IMPRESSION:
+Negative for acute cardiopulmonary findings.
+
+PROBLEMS:
+Aorta;Spine
+
+MESH:
+Aorta/tortuous/mild;Spine/degenerative/mild

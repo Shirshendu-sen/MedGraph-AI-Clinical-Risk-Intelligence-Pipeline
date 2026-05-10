@@ -1,0 +1,16 @@
+UID: 1491
+
+INDICATION:
+XXXX-year-old female. Pain
+
+FINDINGS:
+There are low lung volumes. The lungs are otherwise clear. No focal airspace consolidation or pleural effusion. Calcific density in the right lung apex, compatible with calcified granuloma.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Calcified Granuloma;Density;Calcinosis
+
+MESH:
+Lung/hypoinflation;Calcified Granuloma/lung/apex/right;Density/lung/apex/right;Calcinosis/lung/apex/right

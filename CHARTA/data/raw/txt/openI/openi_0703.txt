@@ -1,0 +1,16 @@
+UID: 723
+
+INDICATION:
+XXXX-year-old with dyspnea.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is bilateral basilar XXXX opacity compatible with atelectasis. There are somewhat low lung volumes. There is a calcified right hilar lymph node.
+
+IMPRESSION:
+Bibasilar atelectasis.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Lung;Calcinosis
+
+MESH:
+Opacity/lung/base/bilateral;Pulmonary Atelectasis/base/bilateral;Lung/hypoinflation;Calcinosis/lung/hilum/lymph nodes/right

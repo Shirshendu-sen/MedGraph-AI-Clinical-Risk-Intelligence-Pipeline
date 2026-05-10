@@ -1,0 +1,16 @@
+UID: 388
+
+INDICATION:
+Abnormal breath sounds, high blood pressure
+
+FINDINGS:
+Cardiomegaly is unchanged. Stable superior mediastinal contour with tortuous calcified aorta. Normal pulmonary vascularity. No focal air space consolidation, pleural effusion, or pneumothorax. No acute bony abnormality. Changes of prior right mastectomy.
+
+IMPRESSION:
+Stable appearance of the chest. No acute cardiopulmonary findings.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Calcinosis;Mastectomy
+
+MESH:
+Cardiomegaly;Aorta/tortuous;Calcinosis/aorta;Mastectomy/right

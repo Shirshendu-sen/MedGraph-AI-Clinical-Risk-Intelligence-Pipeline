@@ -1,0 +1,16 @@
+UID: 3435
+
+INDICATION:
+XXXX-year-old female preoperative for spinal surgery XXXX 14, XXXX. No XXXX chest complains.
+
+FINDINGS:
+None
+
+IMPRESSION:
+1. There is cardiomegaly. No pulmonary edema. Lungs symmetrically aerated and clear of infiltrate or consolidation. No pneumothorax or pleural effusion. S-shaped curvature thoracic spine noted. 2. Left upper quadrant peripherally calcified focus 3.8 XXXX XXXX splenic and origin and may represent benign cyst but is not XXXX to be further localized or characterized on XXXX film. Vascular aneurysm would be possible but thought less XXXX.
+
+PROBLEMS:
+Cardiomegaly;Scoliosis;Calcinosis
+
+MESH:
+Cardiomegaly;Scoliosis/thoracic vertebrae;Calcinosis/abdomen/left

@@ -1,0 +1,16 @@
+UID: 2448
+
+INDICATION:
+Evaluate pneumothorax
+
+FINDINGS:
+Mediastinal contours are normal. No significant change in pneumothorax or right pleural fluid..
+
+IMPRESSION:
+No significant change in right pneumothorax or pleural fluid.
+
+PROBLEMS:
+Pneumothorax;Pleural Effusion
+
+MESH:
+Pneumothorax/right;Pleural Effusion/right

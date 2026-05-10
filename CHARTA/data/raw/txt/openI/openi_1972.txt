@@ -1,0 +1,16 @@
+UID: 2043
+
+INDICATION:
+XXXX-year-old female, dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Considering differences in technical factors XXXX stable cardiomediastinal silhouette with mild cardiomegaly. No focal alveolar consolidation, no definite pleural effusion seen. Calcified right lung nodules suggest a previous granulomatous process. No typical findings of pulmonary edema.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Cardiomegaly;Calcinosis;Nodule
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Cardiomegaly/mild;Calcinosis/lung/right;Nodule/lung/right/multiple

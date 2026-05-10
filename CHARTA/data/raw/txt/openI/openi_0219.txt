@@ -1,0 +1,16 @@
+UID: 227
+
+INDICATION:
+XXXX-year-old male with dyspnea, chest pain
+
+FINDINGS:
+Heart is enlarged. There is prominence of the central pulmonary vasculature. Mild diffuse interstitial opacities bilaterally, predominantly in the bases, with no focal consolidation, pleural effusion, or pneumothoraces. XXXX and soft tissues are unremarkable.
+
+IMPRESSION:
+Cardiomegaly with pulmonary interstitial edema and XXXX bilateral pleural effusions. .
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Opacity;Pulmonary Edema;Pleural Effusion
+
+MESH:
+Cardiomegaly;Pulmonary Congestion/prominent;Opacity/lung/base/bilateral/interstitial/diffuse/mild;Pulmonary Edema/interstitial;Pleural Effusion/bilateral

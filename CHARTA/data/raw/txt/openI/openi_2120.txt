@@ -1,0 +1,16 @@
+UID: 2200
+
+INDICATION:
+XXXX-year-old female with hypotension.
+
+FINDINGS:
+Low lung volumes. Bibasilar atelectasis versus scarring. Stable left abdominal surgical clips. The heart size and mediastinal silhouette are within normal limits for contour. No pneumothorax or pleural effusions. The XXXX are intact.
+
+IMPRESSION:
+Low lung volumes. Bibasilar atelectasis versus scarring.
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis;Cicatrix;Surgical Instruments
+
+MESH:
+Lung/hypoinflation;Pulmonary Atelectasis/base/bilateral;Cicatrix/lung/base/bilateral;Surgical Instruments/abdomen/left

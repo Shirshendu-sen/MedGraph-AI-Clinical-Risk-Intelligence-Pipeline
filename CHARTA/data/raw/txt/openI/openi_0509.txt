@@ -1,0 +1,16 @@
+UID: 524
+
+INDICATION:
+XXXX-year-old male, tachycardia, rule out pulmonary infiltrates.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable right-sided cardiac XXXX generator. Interval placement of right internal jugular central venous catheter with tip approximating the low SVC. No evidence of pneumothorax. Generalized low lung volumes. Bibasilar and right midlung pulmonary opacities, XXXX atelectatic changes. Stable cardiomediastinal silhouette. .
+
+PROBLEMS:
+Implanted Medical Device;Catheters, Indwelling;Lung;Opacity;Opacity
+
+MESH:
+Implanted Medical Device/right;Catheters, Indwelling/right;Lung/hypoinflation;Opacity/lung/base/bilateral;Opacity/lung/middle lobe/right

@@ -1,0 +1,16 @@
+UID: 2179
+
+INDICATION:
+SOB
+
+FINDINGS:
+Flattening of the bilateral hemidiaphragms. Lungs are clear. Soft tissues and bony structures unremarkable. No pneumothorax or effusion.
+
+IMPRESSION:
+Mild hyperexpansion. No acute process.
+
+PROBLEMS:
+Diaphragm;Lung
+
+MESH:
+Diaphragm/bilateral/flattened;Lung/hyperdistention/mild

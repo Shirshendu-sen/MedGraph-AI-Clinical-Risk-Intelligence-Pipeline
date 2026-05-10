@@ -1,0 +1,16 @@
+UID: 3440
+
+INDICATION:
+XXXX, dyspnea
+
+FINDINGS:
+Mild dextroscoliosis of the lower thoracic spine. Cardiomediastinal silhouette is within normal in size and appearance. Pulmonary vascular is unremarkable. Lungs are expanded and clear airspace disease. Negative for pneumothorax or pleural effusion. Limited evaluation of the XXXX XXXX to be grossly intact
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Scoliosis
+
+MESH:
+Scoliosis/thoracic vertebrae/right/mild

@@ -1,0 +1,16 @@
+UID: 243
+
+INDICATION:
+rule out infiltrates
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal and lungs are clear
+
+PROBLEMS:
+normal
+
+MESH:
+normal

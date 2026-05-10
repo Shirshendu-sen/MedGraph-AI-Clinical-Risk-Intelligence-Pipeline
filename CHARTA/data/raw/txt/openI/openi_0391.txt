@@ -1,0 +1,16 @@
+UID: 405
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+Rotated with low lung volumes. Question left atrial enlargement, XXXX appreciated on lateral view. There is no focal consolidation. There are no XXXX of a large pleural effusion. There is no pneumothorax. There is no acute bony abnormality seen.
+
+IMPRESSION:
+Question left atrial enlargement, XXXX appreciated on lateral view. Clear lungs.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Lung
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Lung/hypoinflation

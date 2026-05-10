@@ -1,0 +1,16 @@
+UID: 3207
+
+INDICATION:
+Heart flutter
+
+FINDINGS:
+There's been interval enlargement in the cardiac silhouette. These XXXX't contours are within normal limits. The lungs are normally inflated and clear. Osseous structures are within normal limits for patient age.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process. 2. Interval development of cardiomegaly.
+
+PROBLEMS:
+Cardiac Shadow;Cardiomegaly
+
+MESH:
+Cardiac Shadow/enlarged;Cardiomegaly

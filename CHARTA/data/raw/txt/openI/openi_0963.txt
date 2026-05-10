@@ -1,0 +1,16 @@
+UID: 996
+
+INDICATION:
+chest pain.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and lungs are clear. No pneumothorax, effusion, or pneumonia.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

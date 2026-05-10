@@ -1,0 +1,16 @@
+UID: 3455
+
+INDICATION:
+XXXX-year-old female end-stage renal disease, peripheral edema and shortness of breath.
+
+FINDINGS:
+Central vascular prominence and diffuse bilateral interstitial and alveolar opacities. Left basilar airspace opacities. No pneumothorax. Heart size XXXX large. XXXX unremarkable. No large pleural effusion.
+
+IMPRESSION:
+XXXX pulmonary edema and left basilar atelectasis/airspace disease.
+
+PROBLEMS:
+Pulmonary Congestion;Opacity;Opacity;Opacity;Cardiomegaly;Pulmonary Edema;Pulmonary Atelectasis;Airspace Disease
+
+MESH:
+Pulmonary Congestion;Opacity/lung/bilateral/interstitial/diffuse;Opacity/pulmonary alveoli/bilateral/diffuse;Opacity/lung/base/left;Cardiomegaly;Pulmonary Edema;Pulmonary Atelectasis/base/left;Airspace Disease/lung/base/left

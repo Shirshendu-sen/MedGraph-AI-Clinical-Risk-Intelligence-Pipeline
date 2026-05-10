@@ -1,0 +1,16 @@
+UID: 2670
+
+INDICATION:
+XXXX-year-old male with worsening dyspnea over 2 months.
+
+FINDINGS:
+Hyperexpanded lungs with flattened hemidiaphragms, consistent with emphysema. There is streaky airspace opacities in the left suprahilar and lingular regions. No pneumothorax or effusions. Mild bilateral costophrenic XXXX blunting XXXX represents pleural thickening and scarring. Degenerative changes of the thoracic spine.
+
+IMPRESSION:
+Emphysematous changes with streaky opacities in the left perihilar and lingular regions, XXXX focal atelectasis and scarring.
+
+PROBLEMS:
+Lung;Diaphragm;Pulmonary Emphysema;Opacity;Opacity;Costophrenic Angle;Thickening;Cicatrix;Thoracic Vertebrae;Pulmonary Atelectasis
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened;Pulmonary Emphysema;Opacity/lung/lingula/streaky;Opacity/lung/hilum/left/streaky;Costophrenic Angle/bilateral/blunted/mild;Thickening/pleura/bilateral;Cicatrix/pleura/bilateral;Thoracic Vertebrae/degenerative;Pulmonary Atelectasis

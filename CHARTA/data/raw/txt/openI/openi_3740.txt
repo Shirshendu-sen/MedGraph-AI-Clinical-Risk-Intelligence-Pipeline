@@ -1,0 +1,16 @@
+UID: 3887
+
+INDICATION:
+XXXX-year-old XXXX with positive PPD..
+
+FINDINGS:
+The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal suggests possible right XXXX versus dextrocardia. Visualized osseous structures of the thorax are without acute abnormality.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.. 2. Abnormal configuration of the heart and mediastinum suggestive of right aortic XXXX versus dextrocardia.
+
+PROBLEMS:
+Deformity;Deformity
+
+MESH:
+Deformity/heart/right;Deformity/mediastinum/right

@@ -1,0 +1,16 @@
+UID: 1725
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+There is right basilar opacity with associated blunting of the costophrenic XXXX seen on lateral view. In addition, there is a interface along the left hemidiaphragm. This may represent attenuation artifact however further evaluation with right lateral decubitus views would better evaluate. There is no pneumothorax. The XXXX lungs are clear. Cardiac silhouette and mediastinal contours are within normal limits.
+
+IMPRESSION:
+1. Right basilar opacity with associated blunting of costophrenic XXXX on lateral view may represent small pleural effusion, atelectasis, and/or consolidation. 2. Interface at the left hemidiaphragm may represent artifact however further evaluation with right lateral decubitus films would better evaluate.
+
+PROBLEMS:
+Opacity;Costophrenic Angle;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Opacity/lung/base/right;Costophrenic Angle/right/blunted;Technical Quality of Image Unsatisfactory

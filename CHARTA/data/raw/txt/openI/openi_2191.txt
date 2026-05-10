@@ -1,0 +1,16 @@
+UID: 2271
+
+INDICATION:
+Altered mental status. Possible pneumonia.
+
+FINDINGS:
+Again observed is a curvilinear density in the right midlung zone which may represent some pulmonary scarring or thickening of the right XXXX fissure. There is minimal blunting of the right posterior costophrenic XXXX, consistent with a small effusion and/or pleural scarring. The lung parenchyma is otherwise clear. There is mild cardiomegaly. There are degenerative changes and a mild dextroscoliosis in the thoracic spine.
+
+IMPRESSION:
+1. Minimal XXXX atelectasis in the right midlung zone versus pleural scarring in the right XXXX fissure. 2. Minimal blunting of the posterior right costophrenic XXXX, consistent with a small pleural effusion and/or pleural scarring. 3. Cardiomegaly. 4. No XXXX abnormalities as compared to prior study of earlier the same XXXX
+
+PROBLEMS:
+Density;Costophrenic Angle;Pleural Effusion;Cicatrix;Cardiomegaly;Thoracic Vertebrae;Scoliosis;Pulmonary Atelectasis
+
+MESH:
+Density/lung/middle lobe/right;Costophrenic Angle/right/posterior/blunted/mild;Pleural Effusion/right/small;Cicatrix/pleura/right;Cardiomegaly/mild;Thoracic Vertebrae/degenerative;Scoliosis/thoracic vertebrae/right/mild;Pulmonary Atelectasis/middle lobe/right/mild

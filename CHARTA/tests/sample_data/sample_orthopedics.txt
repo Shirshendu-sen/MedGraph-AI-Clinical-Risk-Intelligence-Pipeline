@@ -1,0 +1,31 @@
+MEDICAL TRANSCRIPTION SAMPLE - ORTHOPEDICS
+
+Patient: [**Patient Name**]
+MRN: [**Medical Record Number**]
+Date: [**Date**]
+
+SUBJECTIVE:
+Patient is a 42-year-old female who presents with right knee pain after a twisting injury sustained during a soccer game yesterday. She reports immediate swelling and inability to bear weight. She describes the pain as severe, 8/10, worsened with movement. She applied ice and elevation at home. She denies any prior knee issues. No history of HTN or DM.
+
+OBJECTIVE:
+VITALS: BP 122/78, HR 76, RR 16, T 98.4F.
+RIGHT KNEE: Moderate effusion present. Tender to palpation along the medial joint line. Positive Lachman test. Positive anterior drawer sign. Range of motion limited from 10 to 90 degrees secondary to pain and swelling. Neurovascularly intact distally.
+LEFT KNEE: Unremarkable.
+
+ASSESSMENT:
+1. Right knee ACL tear - suspected based on mechanism and clinical exam
+2. Right knee medial meniscus tear - possible, given medial joint line tenderness
+
+PLAN:
+1. MRI right knee without contrast to confirm diagnosis
+2. Hinged knee brace for stabilization
+3. Crutches for non-weight bearing
+4. Ice and elevation
+5. Follow up in 1 week with MRI results
+6. Consider surgical referral if ACL tear confirmed
+
+MEDICATIONS:
+1. Ibuprofen 600mg every 6 hours as needed for pain
+2. Acetaminophen 500mg every 6 hours as needed
+
+The patient was counseled on the importance of follow-up and the potential need for surgical intervention. Questions were answered to the patient's satisfaction.

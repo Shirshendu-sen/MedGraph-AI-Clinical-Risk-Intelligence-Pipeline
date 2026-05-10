@@ -1,0 +1,16 @@
+UID: 3835
+
+INDICATION:
+XXXX medicine screening
+
+FINDINGS:
+Lungs are clear bilaterally. There is no focal consolidation, pleural effusion, or pneumothoraces. There is widening adjacent to the right paratracheal stripe, most XXXX represents the SVC with rotated position. XXXX are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Mediastinum;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Mediastinum/right/paratracheal/enlarged;Technical Quality of Image Unsatisfactory

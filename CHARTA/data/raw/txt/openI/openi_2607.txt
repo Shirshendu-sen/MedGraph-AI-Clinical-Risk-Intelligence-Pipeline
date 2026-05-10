@@ -1,0 +1,16 @@
+UID: 2706
+
+INDICATION:
+Preop XXXX for hip surgery.
+
+FINDINGS:
+The lungs are clear. There is no pleural effusion. The heart and mediastinum are normal. Arthritic changes are seen throughout the spine and both XXXX.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Arthritis
+
+MESH:
+Arthritis/spine

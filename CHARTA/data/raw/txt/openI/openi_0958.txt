@@ -1,0 +1,16 @@
+UID: 991
+
+INDICATION:
+XXXX-year-old with pneumonia. Shortness of breath and XXXX.
+
+FINDINGS:
+The heart size is upper limits of normal. The pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is mild streaky perihilar opacity without confluent airspace opacity to suggest a bacterial pneumonia.
+
+IMPRESSION:
+Minimal perihilar opacity which could indicate an atypical pneumonia.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/hilum/streaky/mild

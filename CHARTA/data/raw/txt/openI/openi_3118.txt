@@ -1,0 +1,16 @@
+UID: 3245
+
+INDICATION:
+None
+
+FINDINGS:
+Moderate bilateral interstitial edema, with cardiomegaly and bilateral effusion consistent with moderate cardiac failure. A large calcified right mediastinal adenopathy, XXXX chronic fungal. No pneumothorax.
+
+IMPRESSION:
+Moderate congestive cardiac failure.
+
+PROBLEMS:
+Pulmonary Edema;Cardiomegaly;Pleural Effusion;Heart Failure;Calcinosis
+
+MESH:
+Pulmonary Edema/bilateral/interstitial/moderate;Cardiomegaly;Pleural Effusion/bilateral;Heart Failure/moderate;Calcinosis/mediastinum/lymph nodes/right/large/chronic

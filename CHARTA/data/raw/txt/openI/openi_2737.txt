@@ -1,0 +1,16 @@
+UID: 2843
+
+INDICATION:
+XXXX,XXXX
+
+FINDINGS:
+The heart is normal in size. There is right paratracheal density concerning for lymphadenopathy. There are patchy right upper lobe streaky opacities. The remainder of the lungs are clear. There is no pleural effusion.
+
+IMPRESSION:
+Patchy opacities in right upper lobe, concerning for pneumonia, given history. Right paratracheal density possibly reactive lymphadenopathy. Followup evaluation to resolution is recommended.
+
+PROBLEMS:
+Density;Opacity
+
+MESH:
+Density/right/paratracheal;Opacity/lung/upper lobe/right/patchy/streaky

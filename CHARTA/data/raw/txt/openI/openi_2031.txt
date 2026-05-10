@@ -1,0 +1,16 @@
+UID: 2109
+
+INDICATION:
+Productive XXXX
+
+FINDINGS:
+Low lung volumes are present. The heart size and pulmonary vascularity appear within normal limits. Lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. Surgical clips are present in the abdomen.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Lung;Surgical Instruments
+
+MESH:
+Lung/hypoinflation;Surgical Instruments/abdomen

@@ -1,0 +1,16 @@
+UID: 1022
+
+INDICATION:
+please evaluate for evidence of active TB (for supportive housing placement)
+
+FINDINGS:
+The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. No change in the small calcified right upper lobe nodule. Heart and mediastinum normal.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Nodule;Calcinosis
+
+MESH:
+Nodule/lung/upper lobe/right/small;Calcinosis/lung/upper lobe/right/small

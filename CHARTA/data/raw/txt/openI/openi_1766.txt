@@ -1,0 +1,16 @@
+UID: 1825
+
+INDICATION:
+tuberculosis +PPD
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal lungs are clear. No evidence of tuberculosis. Minimal scoliosis.
+
+PROBLEMS:
+Scoliosis
+
+MESH:
+Scoliosis/mild

@@ -1,0 +1,16 @@
+UID: 810
+
+INDICATION:
+chest pain
+
+FINDINGS:
+Normal heart size, mediastinal and aortic contours. Normal pulmonary vascularity. The lungs are clear. No focal consolidation, visible pneumothorax or large pleural effusion. Scattered calcified granuloma. Degenerative changes the spine.
+
+IMPRESSION:
+No evidence of active cardiopulmonary disease.
+
+PROBLEMS:
+Calcified Granuloma;Spine
+
+MESH:
+Calcified Granuloma/scattered;Spine/degenerative

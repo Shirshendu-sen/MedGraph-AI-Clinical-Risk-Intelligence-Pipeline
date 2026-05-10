@@ -1,0 +1,16 @@
+UID: 442
+
+INDICATION:
+sob
+
+FINDINGS:
+The lungs remain hyperexpanded. No XXXX infiltrates or masses. Heart and mediastinum are normal.
+
+IMPRESSION:
+XXXX change COPD with no acute findings.
+
+PROBLEMS:
+Lung;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Pulmonary Disease, Chronic Obstructive

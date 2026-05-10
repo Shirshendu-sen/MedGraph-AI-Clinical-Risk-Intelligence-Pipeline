@@ -1,0 +1,16 @@
+UID: 700
+
+INDICATION:
+XXXX year old with pain and XXXX.
+
+FINDINGS:
+The heart is normal in size and contour. There is a calcified granuloma in the right lower lung. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion. Osteopenia with mild degenerative changes of the thoracic spine is noted.
+
+IMPRESSION:
+Stable appearance of the chest. No acute findings.
+
+PROBLEMS:
+Calcified Granuloma;Bone Diseases, Metabolic;Thoracic Vertebrae
+
+MESH:
+Calcified Granuloma/lung/lower lobe/right;Bone Diseases, Metabolic;Thoracic Vertebrae/degenerative/mild

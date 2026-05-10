@@ -1,0 +1,16 @@
+UID: 2725
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. Emphysematous changes are present. The lungs are free of active disease. Deformed right ribs. Thoracic spondylosis.
+
+IMPRESSION:
+No acute findings.
+
+PROBLEMS:
+Emphysema;Deformity;Spondylosis
+
+MESH:
+Emphysema;Deformity/ribs/right/multiple;Spondylosis/thoracic vertebrae

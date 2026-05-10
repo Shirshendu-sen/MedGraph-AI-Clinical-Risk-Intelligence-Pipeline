@@ -1,0 +1,16 @@
+UID: 3611
+
+INDICATION:
+XXXX-year-old female status post XXXX.
+
+FINDINGS:
+Stable appearance of the cardiomediastinal silhouette. The aorta is calcified and tortuous. There is dextroscoliosis of the thoracolumbar spine. Multiple thoracic XXXX deformities appear unchanged. There is no displaced rib fracture identified. There is no pneumothorax or large pleural effusion. Stable changes of chronic lung disease with flattening of the left hemidiaphragm. There is mild right basilar airspace disease which may represent atelectasis versus infiltrate.
+
+IMPRESSION:
+1. No acute posttraumatic finding. 2. Mild right basilar airspace consolidation may represent atelectasis versus infiltrate. 3. Changes of chronic lung disease.
+
+PROBLEMS:
+Calcinosis;Aorta;Scoliosis;Scoliosis;Diaphragm;Airspace Disease;Consolidation;Deformity
+
+MESH:
+Calcinosis/aorta;Aorta/tortuous;Scoliosis/thoracic vertebrae/right;Scoliosis/lumbar vertebrae/right;Diaphragm/left/flattened;Airspace Disease/lung/base/right/mild;Consolidation/lung/base/right/mild;Deformity/thoracic vertebrae/multiple

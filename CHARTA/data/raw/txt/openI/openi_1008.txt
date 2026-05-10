@@ -1,0 +1,16 @@
+UID: 1041
+
+INDICATION:
+XXXX vehicle XXXX 2 XXXX ago
+
+FINDINGS:
+Lucency crosses the 10th left posterior rib. Visualized portions of the thoracic spine are unremarkable. Mediastinal contours are normal. Lungs are clear. There is no pneumothorax or large pleural effusion.
+
+IMPRESSION:
+Question of posterior 10 rib fracture, correlate with XXXX tenderness.
+
+PROBLEMS:
+Lucency
+
+MESH:
+Lucency/ribs/left/posterior

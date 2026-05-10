@@ -1,0 +1,16 @@
+UID: 1637
+
+INDICATION:
+XXXX-year-old woman with chest pain.
+
+FINDINGS:
+No acute osseous abnormality. Mild degenerative changes of the thoracic spine. There is stable enlargement of the heart. No focus of consolidation, pleural effusion, or pneumothorax.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Thoracic Vertebrae;Cardiomegaly
+
+MESH:
+Thoracic Vertebrae/degenerative/mild;Cardiomegaly

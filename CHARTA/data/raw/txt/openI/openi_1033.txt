@@ -1,0 +1,16 @@
+UID: 1066
+
+INDICATION:
+Sarcoidosis
+
+FINDINGS:
+None
+
+IMPRESSION:
+Clear lungs. No discrete adenopathy or significant scarring. No active pulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 3168
+
+INDICATION:
+XXXX-year-old female, postpartum, 1 XXXX per XXXX XXXX, sputum production
+
+FINDINGS:
+Normal heart size and mediastinal contours. No focal airspace consolidation. No pleural effusion or pneumothorax. Chronic appearing left lateral rib deformities.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Interval development of healing left sided rib fractures.
+
+PROBLEMS:
+Deformity;Fractures, Bone
+
+MESH:
+Deformity/ribs/left/chronic;Fractures, Bone/ribs/left/healed

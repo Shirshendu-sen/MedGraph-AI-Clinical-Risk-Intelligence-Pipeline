@@ -1,0 +1,16 @@
+UID: 2035
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+Hyperexpanded lungs suggesting obstructive lung disease. Sequelae of old granulomatous disease. No focal airspace disease. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the spine.
+
+IMPRESSION:
+Hyperexpanded but clear lungs.
+
+PROBLEMS:
+Lung;Granulomatous Disease;Spine
+
+MESH:
+Lung/hyperdistention;Granulomatous Disease;Spine/degenerative

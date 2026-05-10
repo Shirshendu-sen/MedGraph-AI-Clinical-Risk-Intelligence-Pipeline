@@ -1,0 +1,16 @@
+UID: 2351
+
+INDICATION:
+XXXX year old outside chest pain radiating XXXX the left arm.
+
+FINDINGS:
+The heart is normal in size and contour. Scattered calcifications are noted, compatible with prior granulomatous disease. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Calcinosis;Granulomatous Disease
+
+MESH:
+Calcinosis/thorax/scattered/multiple;Granulomatous Disease

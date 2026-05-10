@@ -1,0 +1,16 @@
+UID: 3708
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+Lung volumes are decreased from XXXX, and there is resultant bronchovascular crowding. No evidence of focal airspace disease. No definite pleural effusion or pneumothorax. Cardiomediastinal silhouette is within normal limits given the low lung volumes. No free subdiaphragmatic air. Grossly stable mild degenerative changes of the right lower thoracic spine.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+Lung;Markings;Thoracic Vertebrae
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Thoracic Vertebrae/right/degenerative/mild

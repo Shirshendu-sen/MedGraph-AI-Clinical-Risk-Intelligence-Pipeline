@@ -1,0 +1,16 @@
+UID: 3383
+
+INDICATION:
+History of rheumatoid arthritis rule out tuberculosis before immunosuppression
+
+FINDINGS:
+None
+
+IMPRESSION:
+No evidence of tuberculosis. Heart size is normal. Lungs are clear. Calcified 5 mm right midlung granuloma and right hilar granulomas.
+
+PROBLEMS:
+Calcified Granuloma;Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/middle lobe/right;Calcified Granuloma/lung/hilum/right

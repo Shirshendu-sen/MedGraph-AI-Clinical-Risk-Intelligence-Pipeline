@@ -1,0 +1,16 @@
+UID: 1101
+
+INDICATION:
+XXXX-year-old with for preop evaluation for knee XXXX.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There are degenerative changes of the spine.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative

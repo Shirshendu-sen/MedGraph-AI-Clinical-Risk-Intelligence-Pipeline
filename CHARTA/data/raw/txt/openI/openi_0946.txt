@@ -1,0 +1,16 @@
+UID: 979
+
+INDICATION:
+XXXX-year-old female. Chest pain. Prior lumpectomy.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Hyperexpanded lungs without focal consolidation, pneumothorax or large pleural effusion. Right chest wall surgical clips, compatible with prior lumpectomy. Negative for acute bone abnormality.
+
+IMPRESSION:
+Negative for acute abnormality.
+
+PROBLEMS:
+Lung;Surgical Instruments
+
+MESH:
+Lung/hyperdistention;Surgical Instruments/thorax/right

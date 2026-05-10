@@ -1,0 +1,16 @@
+UID: 2586
+
+INDICATION:
+XXXX. Preop exam
+
+FINDINGS:
+None
+
+IMPRESSION:
+Lungs are clear. Heart size normal. Dilated aorta secondary to aortic dissection.
+
+PROBLEMS:
+Aortic Aneurysm
+
+MESH:
+Aortic Aneurysm

@@ -1,0 +1,16 @@
+UID: 3735
+
+INDICATION:
+Followup lung nodule
+
+FINDINGS:
+The cardiac contours are normal. Atherosclerotic aorta. The lungs are clear. Thoracic spondylosis.
+
+IMPRESSION:
+No acute process.
+
+PROBLEMS:
+Atherosclerosis;Spondylosis
+
+MESH:
+Atherosclerosis/aorta;Spondylosis/thoracic vertebrae

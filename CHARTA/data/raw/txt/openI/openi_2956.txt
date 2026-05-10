@@ -1,0 +1,16 @@
+UID: 3081
+
+INDICATION:
+XXXX-year-old male with XXXX and chest pain.
+
+FINDINGS:
+The heart is normal in size. The aorta is tortuous and ectatic. The lungs are clear without focal airspace opacity, pleural effusion, or pneumothorax. The osseous structures are intact.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Aorta
+
+MESH:
+Aorta/tortuous

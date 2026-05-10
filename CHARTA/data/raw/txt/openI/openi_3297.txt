@@ -1,0 +1,16 @@
+UID: 3431
+
+INDICATION:
+XXXX-year-old female with XXXX.
+
+FINDINGS:
+Heart size normal. No pneumothorax, pleural effusion, or focal airspace disease. Bony structures grossly intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

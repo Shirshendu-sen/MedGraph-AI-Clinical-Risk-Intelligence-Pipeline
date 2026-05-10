@@ -1,0 +1,16 @@
+UID: 695
+
+INDICATION:
+Bronchiectasis with acute exacerbation.
+
+FINDINGS:
+There is persistent mild elevation right hemidiaphragm. There is suggestion of subtle patchy opacities in lower lung XXXX bilaterally. This is XXXX to be similar to XXXX scan. The heart is normal. The aorta is calcified and tortuous. The skeletal structures show scoliosis and arthritic changes.
+
+IMPRESSION:
+COPD and chronic opacities more pronounced in the lower lung XXXX.
+
+PROBLEMS:
+Diaphragm;Opacity;Calcinosis;Aorta;Scoliosis;Arthritis;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Diaphragm/right/elevated/mild;Opacity/lung/lower lobe/bilateral/patchy;Calcinosis/aorta;Aorta/tortuous;Scoliosis;Arthritis;Pulmonary Disease, Chronic Obstructive

@@ -1,0 +1,16 @@
+UID: 1003
+
+INDICATION:
+Acute bronchitis.
+
+FINDINGS:
+Heart size and pulmonary vascularity appear within normal limits. Retrocardiac soft tissue density is present. There appears to be air within this which could suggest that this represents a hiatal hernia. Vascular calcification is noted. Calcified granuloma is seen. There has been interval development of bandlike opacity in the left lung base. This may represent atelectasis. No pneumothorax or pleural effusion is seen. Osteopenia is present in the spine.
+
+IMPRESSION:
+1. Retrocardiac soft tissue density. The appearance suggests hiatal hernia. 2. XXXX left base bandlike opacity. The appearance suggests atelectasis.
+
+PROBLEMS:
+Density;Calcinosis;Calcified Granuloma;Opacity;Bone Diseases, Metabolic
+
+MESH:
+Density/retrocardiac;Calcinosis/blood vessels;Calcified Granuloma;Opacity/lung/base/left;Bone Diseases, Metabolic/spine

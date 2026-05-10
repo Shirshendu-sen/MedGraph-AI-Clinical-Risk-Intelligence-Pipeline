@@ -1,0 +1,16 @@
+UID: 1505
+
+INDICATION:
+XXXX-year-old with XXXX.
+
+FINDINGS:
+Normal heart size. Clear lungs. No pneumothorax. No pleural effusion. There is opacity at the base of the mediastinum which is XXXX a hiatal hernia.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Opacity;Hernia, Hiatal
+
+MESH:
+Opacity/mediastinum/base;Hernia, Hiatal

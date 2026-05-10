@@ -1,0 +1,16 @@
+UID: 3918
+
+INDICATION:
+Chest pain, palpitations
+
+FINDINGS:
+Hyperinflated lungs with mildly flattened posterior diaphragm and increased retrosternal airspace. No alveolar consolidation, no findings of pleural effusion or pulmonary edema. Heart size within normal limits. No pneumothorax.
+
+IMPRESSION:
+Hyperinflated lungs, air trapping versus inspiratory XXXX.
+
+PROBLEMS:
+Lung;Diaphragm
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/posterior/flattened/mild

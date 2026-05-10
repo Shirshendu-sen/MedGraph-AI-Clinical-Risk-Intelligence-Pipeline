@@ -1,0 +1,16 @@
+UID: 1123
+
+INDICATION:
+XXXX
+
+FINDINGS:
+XXXX opacities projecting over the right apex and mediastinum on PA view are artifactual. Stable cardiomediastinal silhouette. Pulmonary vascularity is unremarkable. Stable chronic coarse interstitial markings, without focal airspace disease or consolidation. Negative for pneumothorax or pleural effusion. Limited evaluation reveals the XXXX XXXX are grossly intact. XXXX right cervical rib.
+
+IMPRESSION:
+1. Stable chronic lung changes without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Opacity;Opacity;Markings
+
+MESH:
+Opacity/lung/apex/right;Opacity/mediastinum;Markings/lung/interstitial/chronic

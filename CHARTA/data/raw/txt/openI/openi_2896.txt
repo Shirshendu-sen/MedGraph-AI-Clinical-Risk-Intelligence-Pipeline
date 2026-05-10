@@ -1,0 +1,16 @@
+UID: 3019
+
+INDICATION:
+Injury, XXXX XXXX XXXX on patient, bone pain, anemia
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable with aortic tortuosity. Lungs are clear with no pleural effusion or pneumothorax. No displaced rib fractures are noted. There are multilevel degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Aorta;Thoracic Vertebrae
+
+MESH:
+Aorta/tortuous;Thoracic Vertebrae/degenerative/multiple

@@ -1,0 +1,16 @@
+UID: 1007
+
+INDICATION:
+chest pain
+
+FINDINGS:
+Trachea is midline. The cardiomediastinal silhouette is normal. The lungs are clear, without evidence of acute infiltrate or effusion. There is no pneumothorax. The visualized bony structures show no acute abnormalities. Lateral view reveals mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

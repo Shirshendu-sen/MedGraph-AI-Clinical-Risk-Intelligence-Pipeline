@@ -1,0 +1,16 @@
+UID: 160
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. There is patchy infiltrate within normal right lower lobe. Mild XXXX opacities in the retrocardiac region. No large effusions or pneumothorax.
+
+IMPRESSION:
+Patchy right lower lobe infiltrate as well as probable left basilar infiltrate versus atelectasis.
+
+PROBLEMS:
+Opacity;Infiltrate;Infiltrate
+
+MESH:
+Opacity/retrocardiac/mild;Infiltrate/lung/lower lobe/right/patchy;Infiltrate/lung/base/left

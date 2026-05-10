@@ -1,0 +1,16 @@
+UID: 1514
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Cardiomediastinal silhouette is within normal limits of size and appearance. The pulmonary vascularity is unremarkable. There are XXXX opacities in the left XXXX, XXXX subsegmental atelectasis or scar. Otherwise, the lungs are expanded and clear of airspace disease. Negative for pneumothorax or pleural effusion. Limited bone evaluation reveals no acute abnormality.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Left midlung subsegmental atelectasis versus scar.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Cicatrix
+
+MESH:
+Opacity/lung/lingula;Pulmonary Atelectasis/lingula;Cicatrix/lung/lingula

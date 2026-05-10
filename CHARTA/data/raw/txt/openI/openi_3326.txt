@@ -1,0 +1,16 @@
+UID: 3461
+
+INDICATION:
+Persistent XXXX.
+
+FINDINGS:
+Clear lungs. No pneumothorax. No pleural effusion. Normal heart. Trachea is midline.
+
+IMPRESSION:
+Normal chest exam.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

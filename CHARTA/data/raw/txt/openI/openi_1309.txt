@@ -1,0 +1,16 @@
+UID: 1357
+
+INDICATION:
+XXXX-year-old XXXX with dyspnea, XXXX history of pulmonary fibrosis..
+
+FINDINGS:
+The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardiomegaly is noted and is stable compared to prior examination from XXXX. Stable right basilar calcified granuloma. Visualized osseous structures of the thorax are without acute abnormality.
+
+IMPRESSION:
+Stable cardiomegaly without acute cardiopulmonary abnormality..
+
+PROBLEMS:
+Cardiomegaly;Calcified Granuloma
+
+MESH:
+Cardiomegaly;Calcified Granuloma/lung/base/right

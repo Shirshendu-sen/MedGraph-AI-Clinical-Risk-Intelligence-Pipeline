@@ -1,0 +1,16 @@
+UID: 716
+
+INDICATION:
+chest pain dyspnea XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Slight cardiomegaly. Calcified hilar lymph XXXX. No edema or effusions.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis
+
+MESH:
+Cardiomegaly/mild;Calcinosis/lung/hilum/lymph nodes

@@ -1,0 +1,16 @@
+UID: 2233
+
+INDICATION:
+XXXX-year-old male, XXXX
+
+FINDINGS:
+Hyperinflated lungs with flattened diaphragm and increased retrosternal airspace. Scattered chronic appearing irregular interstitial markings with no focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.
+
+IMPRESSION:
+Hyperinflated lungs, air trapping versus inspiratory XXXX.
+
+PROBLEMS:
+Lung;Diaphragm;Markings
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened;Markings/lung/interstitial/scattered/irregular/chronic

@@ -1,0 +1,16 @@
+UID: 1939
+
+INDICATION:
+XXXX-year-old female with chest pain
+
+FINDINGS:
+Lungs are clear. Heart size normal. No pneumothorax. Left costophrenic opacity may represent pleural or pericardial fat.
+
+IMPRESSION:
+Clear lungs. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/costophrenic angle/left

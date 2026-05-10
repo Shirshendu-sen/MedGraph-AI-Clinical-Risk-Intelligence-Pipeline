@@ -1,0 +1,16 @@
+UID: 1874
+
+INDICATION:
+XXXX, rule out pneumothorax.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. There is a thin right apical pneumothorax measuring approximately 5 mm in thickness. There is extensive subcutaneous emphysema in the right chest wall and neck. There are fractures of the right anterior 5th through 9th anterior ribs with mild displacement. Additional fractures cannot entirely be excluded. There is mild streaky airspace disease in the right lung base. Left lung is clear. There is a small hiatal hernia. There is an intrathecal catheter terminating in the lower thoracic spine.
+
+IMPRESSION:
+1. XXXX right apical pneumothorax measuring approximately 5 mm in thickness. 2. Multiple right-sided rib fractures involving at XXXX the right anterior 5th through 9th ribs with mild displacement. 3. Mild right basilar airspace disease, atelectasis versus contusion. .
+
+PROBLEMS:
+Pneumothorax;Subcutaneous Emphysema;Subcutaneous Emphysema;Fractures, Bone;Airspace Disease;Hernia, Hiatal;Catheters, Indwelling;Pulmonary Atelectasis;Opacity
+
+MESH:
+Pneumothorax/apex/right/small;Subcutaneous Emphysema/thorax/right/severe;Subcutaneous Emphysema/neck/severe;Fractures, Bone/ribs/right/anterior/multiple;Airspace Disease/lung/base/right/streaky/mild;Hernia, Hiatal/small;Catheters, Indwelling/thoracic vertebrae;Pulmonary Atelectasis/base/right;Opacity/lung/base/right

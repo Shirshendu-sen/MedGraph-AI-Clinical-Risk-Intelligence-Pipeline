@@ -1,0 +1,16 @@
+UID: 2287
+
+INDICATION:
+rales
+
+FINDINGS:
+None
+
+IMPRESSION:
+Low lung volumes. Cardiomegaly. Minimal left base and perihilar minimal infiltrate.
+
+PROBLEMS:
+Lung;Cardiomegaly;Infiltrate;Infiltrate
+
+MESH:
+Lung/hypoinflation;Cardiomegaly;Infiltrate/lung/base/left/mild;Infiltrate/lung/hilum/mild

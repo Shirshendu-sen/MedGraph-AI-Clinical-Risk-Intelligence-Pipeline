@@ -1,0 +1,16 @@
+UID: 1453
+
+INDICATION:
+Chest pain, assault
+
+FINDINGS:
+Normal cardiomediastinal contours, given patient position and technique. No pneumothorax or large pleural effusions. The lung volumes.
+
+IMPRESSION:
+Low lung volumes. No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

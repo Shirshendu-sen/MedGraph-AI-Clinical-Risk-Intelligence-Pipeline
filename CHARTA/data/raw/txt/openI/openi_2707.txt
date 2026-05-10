@@ -1,0 +1,16 @@
+UID: 2811
+
+INDICATION:
+XXXX hypoxia
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Lungs clear
+
+PROBLEMS:
+normal
+
+MESH:
+normal

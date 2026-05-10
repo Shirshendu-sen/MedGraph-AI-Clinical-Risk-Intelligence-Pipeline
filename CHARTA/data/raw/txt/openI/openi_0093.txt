@@ -1,0 +1,16 @@
+UID: 94
+
+INDICATION:
+XXXX-year-old XXXX with chest pain.
+
+FINDINGS:
+Heart size, mediastinal contour, and pulmonary vascularity are similar to comparison exam and within normal limits. No focal consolidation, suspicious pulmonary opacity, pleural effusion, or pneumothorax. The visualized osseous structures appear intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

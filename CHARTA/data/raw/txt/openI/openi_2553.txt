@@ -1,0 +1,16 @@
+UID: 2648
+
+INDICATION:
+XXXX-year-old female. Chest pain for couple days.
+
+FINDINGS:
+Borderline cardiomegaly, XXXX at XXXX partially accentuated by low lung volumes. Right upper lobe calcified granuloma. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.
+
+IMPRESSION:
+Low lung volumes, otherwise clear.
+
+PROBLEMS:
+Cardiomegaly;Lung;Calcified Granuloma
+
+MESH:
+Cardiomegaly/borderline;Lung/hypoinflation;Calcified Granuloma/lung/upper lobe/right

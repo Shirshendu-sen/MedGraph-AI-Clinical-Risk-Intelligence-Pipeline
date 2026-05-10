@@ -1,0 +1,16 @@
+UID: 3718
+
+INDICATION:
+Chest pain, congestion XXXX-year-old female
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is within normal limits. Mild prominence pulmonary outflow tract otherwise pulmonary vascularity appears within normal limits. No edema. No lobar consolidation or pleural effusion. No pneumothorax. Cholecystectomy clips are seen in the right upper abdomen.
+
+PROBLEMS:
+Pulmonary Artery;Surgical Instruments
+
+MESH:
+Pulmonary Artery/prominent/mild;Surgical Instruments/abdomen/right

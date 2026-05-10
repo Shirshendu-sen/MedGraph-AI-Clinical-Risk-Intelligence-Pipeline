@@ -1,0 +1,16 @@
+UID: 3927
+
+INDICATION:
+Status post aortic stent
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable position of the aortic stent with a normal cardiac silhouette and clear lungs.
+
+PROBLEMS:
+Stents
+
+MESH:
+Stents/aorta

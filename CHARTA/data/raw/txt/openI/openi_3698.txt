@@ -1,0 +1,16 @@
+UID: 3843
+
+INDICATION:
+XXXX-year-old male with a prior history of throat cancer and radiation presents with XXXX reported hemoptysis.
+
+FINDINGS:
+A right-sided chest XXXX remains in XXXX with the distal tip at the level of the mid SVC. The cardiomediastinal silhouette is within normal limits for appearance. No focal areas of pulmonary consolidation. No pulmonary nodules or mass lesions identified. No pneumothorax or pleural effusion. Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. Right-sided chest XXXX in XXXX without demonstration of an acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Catheters, Indwelling;Thoracic Vertebrae
+
+MESH:
+Catheters, Indwelling/right;Thoracic Vertebrae/degenerative/mild

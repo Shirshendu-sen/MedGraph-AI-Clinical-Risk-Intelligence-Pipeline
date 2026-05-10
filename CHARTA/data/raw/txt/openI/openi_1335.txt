@@ -1,0 +1,16 @@
+UID: 1383
+
+INDICATION:
+XXXX-year-old female, XXXX, known right pleural effusion.
+
+FINDINGS:
+There is significant interval decrease in right middle and right lower lobe opacification. Persistent small right pleural effusion and XXXX XXXX atelectasis. No pneumothorax. Stable appearance of the cardiomediastinal silhouette. No acute bone abnormality.
+
+IMPRESSION:
+1. Improved right mid lung and right basilar consolidation. 2. Decreasing right pleural effusion.
+
+PROBLEMS:
+Opacity;Opacity;Pleural Effusion;Pulmonary Atelectasis;Consolidation;Consolidation
+
+MESH:
+Opacity/lung/middle lobe/right;Opacity/lung/lower lobe/right;Pleural Effusion/right/small;Pulmonary Atelectasis/right;Consolidation/lung/middle lobe/right;Consolidation/lung/base/right

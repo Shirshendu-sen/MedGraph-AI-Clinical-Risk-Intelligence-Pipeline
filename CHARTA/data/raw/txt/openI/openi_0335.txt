@@ -1,0 +1,16 @@
+UID: 347
+
+INDICATION:
+XXXX-year-old female with a XXXX.
+
+FINDINGS:
+Cardiac And Mediastinal Contours Are Unremarkable. Pulmonary vascularity is within normal limits. No focal air space opacities, pleural effusion, or pneumothorax. XXXX are grossly unremarkable. There are some minimal degenerative changes of the thoracic spine. Evidence of chronic granulomatous disease.
+
+IMPRESSION:
+1. Clear lungs.
+
+PROBLEMS:
+Thoracic Vertebrae;Granulomatous Disease
+
+MESH:
+Thoracic Vertebrae/degenerative/mild;Granulomatous Disease/chronic

@@ -1,0 +1,16 @@
+UID: 1720
+
+INDICATION:
+XXXX-year-old male with pain.
+
+FINDINGS:
+There are very low lung volumes with associated central bronchovascular crowding. There is elevation of the left hemidiaphragm. There are XXXX-filled loops of mildly dilated colon in the left upper quadrant. The bowel XXXX pattern is not well evaluated secondary to incomplete imaging of the abdomen. There is no pneumothorax or definite pleural effusion. The streaky opacities in the lung bases may represent atelectasis. No definite infectious infiltrate is seen. There is scoliosis and exaggeration of the thoracic kyphosis.
+
+IMPRESSION:
+1. Very low lung volumes without definite acute cardiopulmonary finding. .
+
+PROBLEMS:
+Lung;Markings;Diaphragm;Opacity;Scoliosis;Kyphosis
+
+MESH:
+Lung/hypoinflation/severe;Markings/bronchovascular;Diaphragm/left/elevated;Opacity/lung/base/bilateral/streaky;Scoliosis/thoracic vertebrae;Kyphosis/thoracic vertebrae

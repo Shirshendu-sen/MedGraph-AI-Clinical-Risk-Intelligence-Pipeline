@@ -1,0 +1,16 @@
+UID: 2434
+
+INDICATION:
+Bilateral rhonchi
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. There is XXXX biapical scarring. The lungs are otherwise clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Cicatrix
+
+MESH:
+Cicatrix/lung/apex/bilateral

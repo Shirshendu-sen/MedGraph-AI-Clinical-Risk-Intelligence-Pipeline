@@ -1,0 +1,16 @@
+UID: 1043
+
+INDICATION:
+WHEEZING/HEART FAILURE
+
+FINDINGS:
+Normal cardiomediastinal silhouette. Interval improvement in lung volumes bilaterally. Improved aeration of the right and left lung bases. Bilateral small pleural effusions and left base atelectatic change, with interval improvement. Visualized XXXX of the chest XXXX are within normal limits.
+
+IMPRESSION:
+Interval improvement in aeration of lung bases and pleural effusions. Residual small left effusion and questionable small right pleural effusion.
+
+PROBLEMS:
+Pleural Effusion;Pulmonary Atelectasis
+
+MESH:
+Pleural Effusion/bilateral/small;Pulmonary Atelectasis/base/left

@@ -1,0 +1,16 @@
+UID: 1001
+
+INDICATION:
+dyspnea, subjective fevers, arthritis, immigrant from Bangladesh
+
+FINDINGS:
+Interstitial markings are diffusely prominent throughout both lungs. Heart size is normal. Pulmonary XXXX normal.
+
+IMPRESSION:
+Diffuse fibrosis. No visible focal acute disease.
+
+PROBLEMS:
+Markings;Fibrosis
+
+MESH:
+Markings/lung/bilateral/interstitial/diffuse/prominent;Fibrosis/diffuse

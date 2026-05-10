@@ -1,0 +1,16 @@
+UID: 2151
+
+INDICATION:
+XXXX-year-old male, XXXX
+
+FINDINGS:
+Hyperinflated lungs with flattened diaphragm and increased retrosternal airspace. No focal alveolar consolidation, no definite pleural effusion seen. Heart size within normal limits, the typical findings of pulmonary edema. Mild spine dextrocurvature noted.
+
+IMPRESSION:
+Hyperinflated lungs, air trapping versus inspiratory XXXX.
+
+PROBLEMS:
+Lung;Diaphragm;Pulmonary Edema;Scoliosis
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened;Pulmonary Edema;Scoliosis/right/mild

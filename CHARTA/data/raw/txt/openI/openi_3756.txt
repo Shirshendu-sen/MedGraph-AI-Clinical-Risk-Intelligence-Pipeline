@@ -1,0 +1,16 @@
+UID: 3903
+
+INDICATION:
+XXXX year old male with chest pain.
+
+FINDINGS:
+The heart is is at the upper limits of normal in size. The pulmonary vascularity is within normal limits in appearance. No focal air space opacities. No pleural effusions or pneumothorax. No acute bony abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

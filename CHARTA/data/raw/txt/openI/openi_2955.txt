@@ -1,0 +1,16 @@
+UID: 3080
+
+INDICATION:
+Followup lung carcinoma.
+
+FINDINGS:
+The cavity and the left upper lobe has decreased in size. Bilateral apical bullae and parenchymal scars are unchanged. No XXXX infiltrates in the lower lobes. Heart size remains normal.
+
+IMPRESSION:
+Bullous disease and upper lobe scars. Decreasing right upper lobe cavity.
+
+PROBLEMS:
+Cavitation;Blister;Cicatrix;Cavitation
+
+MESH:
+Cavitation/lung/upper lobe/left;Blister/lung/apex/bilateral;Cicatrix/lung/apex/bilateral;Cavitation/lung/upper lobe/right

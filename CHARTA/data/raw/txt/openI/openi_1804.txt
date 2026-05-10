@@ -1,0 +1,16 @@
+UID: 1865
+
+INDICATION:
+Syncope
+
+FINDINGS:
+Heart size is normal. The lungs are clear. There are no focal air space consolidations. No pleural effusions or pneumothoraces. Calcified right upper lobe pulmonary granuloma and calcified right hilar lymph XXXX. The hilar and mediastinal contours are normal. Normal pulmonary vascularity.
+
+IMPRESSION:
+No acute abnormality. .
+
+PROBLEMS:
+Calcified Granuloma;Calcinosis
+
+MESH:
+Calcified Granuloma/lung/upper lobe/right;Calcinosis/lung/hilum/lymph nodes/right

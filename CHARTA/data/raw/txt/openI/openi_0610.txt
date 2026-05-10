@@ -1,0 +1,16 @@
+UID: 629
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+The cardiac and mediastinal contours are within normal limits. Lungs are well-inflated and clear. There is no focal consolidation, pneumothorax or effusion. No acute bony abnormalities are seen.
+
+IMPRESSION:
+No evidence of acute cardiopulmonary process. Stable appearance of the chest.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

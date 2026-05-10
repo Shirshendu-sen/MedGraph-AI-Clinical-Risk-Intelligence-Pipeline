@@ -1,0 +1,16 @@
+UID: 905
+
+INDICATION:
+CHEST XRAY positvie TB. language XXXX unable to get more hx
+
+FINDINGS:
+None
+
+IMPRESSION:
+Normal heart size. Normal pulmonary vasculature. Normal mediastinal contours. Lung parenchyma is clear. No airspace disease. No pulmonary edema. No XXXX of pleural effusions. No XXXX of active tuberculosis. No XXXX of active cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

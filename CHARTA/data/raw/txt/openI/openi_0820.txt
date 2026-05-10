@@ -1,0 +1,16 @@
+UID: 846
+
+INDICATION:
+Bladder cancer
+
+FINDINGS:
+Heart size and pulmonary vascularity appears normal limits. Lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. Callus or granulomas identified. Left XXXX-A-XXXX remains in XXXX.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Granuloma
+
+MESH:
+Granuloma

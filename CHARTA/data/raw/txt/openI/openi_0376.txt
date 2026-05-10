@@ -1,0 +1,16 @@
+UID: 390
+
+INDICATION:
+Dyspnea and right-sided arm numbness
+
+FINDINGS:
+Heart size and vascularity are normal. Mild tortuosity of the aorta. No focal airspace disease or effusion. Degenerative change of the spine. No pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+Aorta;Spine
+
+MESH:
+Aorta/tortuous/mild;Spine/degenerative

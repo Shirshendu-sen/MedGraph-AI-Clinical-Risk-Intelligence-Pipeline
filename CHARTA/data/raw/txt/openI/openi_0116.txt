@@ -1,0 +1,16 @@
+UID: 118
+
+INDICATION:
+XXXX year old with a XXXX.
+
+FINDINGS:
+The heart is normal in size and contour. There is focal airspace disease in the right middle lobe. There is no pneumothorax or effusion.
+
+IMPRESSION:
+Focal airspace disease in the right middle lobe. This is most concerning for pneumonia. Recommend follow up to ensure resolution.
+
+PROBLEMS:
+Airspace Disease
+
+MESH:
+Airspace Disease/lung/middle lobe/right/focal

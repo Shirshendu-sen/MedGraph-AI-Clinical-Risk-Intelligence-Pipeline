@@ -1,0 +1,16 @@
+UID: 2342
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours are unchanged. Pulmonary vascularity is within normal limits. Calcified right upper lobe nodule with a granuloma is again seen but unchanged. No focal consolidation, pleural effusion, or pneumothorax identified. The visualized osseous structures and upper abdomen are unremarkable.
+
+IMPRESSION:
+No evidence of acute cardiopulmonary process.
+
+PROBLEMS:
+Nodule;Granuloma;Calcinosis
+
+MESH:
+Nodule/lung/upper lobe/right;Granuloma/lung/upper lobe/right;Calcinosis/lung/upper lobe/right

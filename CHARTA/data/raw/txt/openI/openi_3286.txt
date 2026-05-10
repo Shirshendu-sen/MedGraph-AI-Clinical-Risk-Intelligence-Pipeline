@@ -1,0 +1,16 @@
+UID: 3419
+
+INDICATION:
+Syncope, XXXX from ladder
+
+FINDINGS:
+None
+
+IMPRESSION:
+Chest: Three total images. The heart size is within normal limits. Mildly tortuous thoracic aorta. No abnormal mediastinal widening is appreciated. Normal pulmonary vascularity. No pleural effusion or pneumothorax. There is an S-shaped curvature of the thoracolumbar spine and a mild kyphosis at the thoraco lumbar junction without clear XXXX deformity identified. Left shoulder: There is a mildly comminuted fracture at the junction of the middle and lateral thirds of the left clavicle, the distal most fragment is displaced superiorly approximately 25% bone width. Glenohumeral alignment appears preserved without dislocation and no additional acute fractures are seen. There is mild superior subluxation of the humerus on the glenoid which suggests reflect chronic rotator XXXX pathology; dysmorphic ossification superolateral to the humeral head XXXX reflecting calcific tendinitis.
+
+PROBLEMS:
+Aorta, Thoracic;Scoliosis;Scoliosis;Kyphosis;Kyphosis
+
+MESH:
+Aorta, Thoracic/tortuous/mild;Scoliosis/thoracic vertebrae;Scoliosis/lumbar vertebrae;Kyphosis/thoracic vertebrae/mild;Kyphosis/lumbar vertebrae/mild

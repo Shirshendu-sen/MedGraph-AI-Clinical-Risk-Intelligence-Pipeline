@@ -1,0 +1,16 @@
+UID: 3994
+
+INDICATION:
+XXXX-year-old male with chest pain, positive troponin
+
+FINDINGS:
+Similar mild cardiomegaly. Of the pulmonary vascularity is prominent. No focal consolidations or effusions. No pneumothorax. No acute bony abnormality.
+
+IMPRESSION:
+Mild cardiomegaly with XXXX of early failure.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Heart Failure
+
+MESH:
+Cardiomegaly/mild;Pulmonary Congestion;Heart Failure/mild

@@ -1,0 +1,16 @@
+UID: 3437
+
+INDICATION:
+XXXX-year-old female with XXXX.
+
+FINDINGS:
+Stable, normal cardiac size, mediastinum, and central pulmonary vasculature. The lungs remain grossly clear, aside from mild biapical pleural-peripheral scarring and minimal chronic interstitial changes. No focal airspace consolidation, pleural effusion, or pneumothorax.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Cicatrix
+
+MESH:
+Cicatrix/pleura/apex/bilateral/mild

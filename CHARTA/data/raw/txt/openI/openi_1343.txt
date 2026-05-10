@@ -1,0 +1,16 @@
+UID: 1391
+
+INDICATION:
+XXXX-year-old female. Weakness. Multiple sclerosis.
+
+FINDINGS:
+Stable cardiomediastinal silhouette. Low lung volumes. without focal consolidation, pneumothorax or pleural effusion. Limited lateral view given overlapping tissue silhouettes. Negative for acute bone abnormality.
+
+IMPRESSION:
+Low lung volumes, otherwise clear.
+
+PROBLEMS:
+Lung;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Lung/hypoinflation;Technical Quality of Image Unsatisfactory

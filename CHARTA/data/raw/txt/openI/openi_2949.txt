@@ -1,0 +1,16 @@
+UID: 3074
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Sequelae of old granulomatous disease. Vague patchy opacity in the right midlung which may represent early pneumonia. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the spine.
+
+IMPRESSION:
+Vague patchy opacity in the right midlung which may represent an early pneumonia given patient's history.
+
+PROBLEMS:
+Granulomatous Disease;Opacity;Spine
+
+MESH:
+Granulomatous Disease;Opacity/lung/middle lobe/right/patchy;Spine/degenerative

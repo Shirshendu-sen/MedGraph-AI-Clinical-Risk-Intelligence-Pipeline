@@ -1,0 +1,16 @@
+UID: 568
+
+INDICATION:
+XXXX year old female with dyspnea.
+
+FINDINGS:
+Heart size normal. Tortuous aorta. Calcified hilar lymph XXXX XXXX sequela of prior granulomatous disease. Hyperinflated lungs. The otherwise lungs are clear. The bilateral apices are partially excluded from the XXXX-of-view. There is the interval fixation of the right humeral fracture, XXXX appears grossly intact. Osteopenia. Exaggerated kyphosis of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+Aorta;Calcinosis;Granulomatous Disease;Lung;Bone Diseases, Metabolic;Fractures, Bone;Lung;Kyphosis
+
+MESH:
+Aorta/tortuous;Calcinosis/lung/hilum/lymph nodes;Granulomatous Disease;Lung/hyperdistention;Bone Diseases, Metabolic;Fractures, Bone/humerus;Lung/apex/bilateral/obscured;Kyphosis/thoracic vertebrae/severe

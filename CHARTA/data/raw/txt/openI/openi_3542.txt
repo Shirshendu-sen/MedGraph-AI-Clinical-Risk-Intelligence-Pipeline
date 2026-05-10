@@ -1,0 +1,16 @@
+UID: 3683
+
+INDICATION:
+with nipple markers test ca; r/o XXXX
+
+FINDINGS:
+Examination was performed with nipple markers. The previously noted small nodule in the right lower lung is not well-seen on today's study and may have been secondary to summation of structures. The heart is normal in size. The mediastinum is unremarkable. The lungs are otherwise clear.
+
+IMPRESSION:
+No acute disease. Previously visualized nodule in right lower lobe not well-seen on today's study, XXXX summation artifact.
+
+PROBLEMS:
+Medical Device
+
+MESH:
+Medical Device/breast/bilateral

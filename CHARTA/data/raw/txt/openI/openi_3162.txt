@@ -1,0 +1,16 @@
+UID: 3290
+
+INDICATION:
+,485 XXXX and chest pain.
+
+FINDINGS:
+None
+
+IMPRESSION:
+No comparison chest x-XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

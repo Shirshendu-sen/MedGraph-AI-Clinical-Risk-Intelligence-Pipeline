@@ -1,0 +1,16 @@
+UID: 40
+
+INDICATION:
+XXXX-year-old male with peripheral edema.
+
+FINDINGS:
+Mild hyperexpansion of the lungs. Numerous bilateral rib deformities. No focal airspace disease. Heart size is normal. No pneumothorax or effusion. Large, flowing anterior endplate osteophytes of the thoracic spine.
+
+IMPRESSION:
+Emphysema with no acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung;Deformity;Osteophyte;Emphysema
+
+MESH:
+Lung/hyperdistention/mild;Deformity/ribs/bilateral/multiple;Osteophyte/thoracic vertebrae/anterior/multiple/large;Emphysema

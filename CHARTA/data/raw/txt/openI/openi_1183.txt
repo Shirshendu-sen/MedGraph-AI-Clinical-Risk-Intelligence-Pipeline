@@ -1,0 +1,16 @@
+UID: 1225
+
+INDICATION:
+Altered mental status.
+
+FINDINGS:
+Heart size is normal. There is mild tortuosity of the thoracic aorta. No consolidating airspace disease is seen. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+No acute abnormality identified.
+
+PROBLEMS:
+Aorta, Thoracic
+
+MESH:
+Aorta, Thoracic/tortuous/mild

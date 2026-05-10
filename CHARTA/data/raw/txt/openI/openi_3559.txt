@@ -1,0 +1,16 @@
+UID: 3700
+
+INDICATION:
+Hypertension.
+
+FINDINGS:
+Cardiomegaly is present. This is unchanged. There is mild prominence of the pulmonary vascularity which is unchanged. No XXXX focal airspace disease is seen. No pleural effusion or pneumothorax is identified.
+
+IMPRESSION:
+1. Cardiomegaly with mild vascular prominence. No change.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion
+
+MESH:
+Cardiomegaly;Pulmonary Congestion/mild

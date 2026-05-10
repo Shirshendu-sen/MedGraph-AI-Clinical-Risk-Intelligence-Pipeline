@@ -1,0 +1,16 @@
+UID: 54
+
+INDICATION:
+XXXX-year-old woman, prior to Enbrel therapy..
+
+FINDINGS:
+The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Minimal right basilar subsegmental atelectasis noted. Cardio mediastinal silhouette is unremarkable. Tortuosity of the thoracic aorta noted. Scattered calcified granulomas are seen without evidence of active granulomatous/tuberculous process. Visualized osseous structures of the thorax are without acute abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Pulmonary Atelectasis;Aorta, Thoracic;Calcified Granuloma
+
+MESH:
+Pulmonary Atelectasis/base/right/mild;Aorta, Thoracic/tortuous;Calcified Granuloma/scattered

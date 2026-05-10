@@ -1,0 +1,16 @@
+UID: 1173
+
+INDICATION:
+XXXX-year-old female with shortness of breath. History of COPD.
+
+FINDINGS:
+PA and moderate loss of the chest demonstrate stable moderate cardiomediastinal silhouette with atherosclerotic calcifications of the aortic XXXX and mild aortic ectasia. Emphysematous changes with flattening of the hemidiaphragms. Blunting of the costophrenic XXXX, and XXXX secondary to scarring/emphysematous changes. No evidence of focal airspace consolidation large pleural effusion or pneumothorax. Visualized osseous structures appear intact.
+
+IMPRESSION:
+Emphysematous changes without evidence of focal airspace disease or pulmonary edema.
+
+PROBLEMS:
+Atherosclerosis;Aorta;Emphysema;Diaphragm;Costophrenic Angle;Cicatrix
+
+MESH:
+Atherosclerosis/aorta;Aorta/tortuous/mild;Emphysema;Diaphragm/flattened;Costophrenic Angle/blunted;Cicatrix

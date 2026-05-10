@@ -1,0 +1,16 @@
+UID: 2542
+
+INDICATION:
+Chest pressure.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours are within normal limits. [Pulmonary vascularity is within normal limits>]. No focal consolidation, pleural effusion, or pneumothorax identified. The visualized osseous structures and upper abdomen are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

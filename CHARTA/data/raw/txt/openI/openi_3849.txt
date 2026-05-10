@@ -1,0 +1,16 @@
+UID: 3998
+
+INDICATION:
+tuberculosis positive PPD
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and the lungs are clear.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

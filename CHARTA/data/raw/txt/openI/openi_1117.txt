@@ -1,0 +1,16 @@
+UID: 1154
+
+INDICATION:
+Preop shoulder surgery
+
+FINDINGS:
+Normal heart size. Clear lungs. Degenerative this disease within the spine. Prosthetic right shoulder. Possible XXXX body in the axillary recess of the left shoulder. Degenerative left glenohumeral osteoarthritis.
+
+IMPRESSION:
+No acute pulmonary findings.
+
+PROBLEMS:
+Arthritis;Spine;Implanted Medical Device
+
+MESH:
+Arthritis/humerus/left;Spine/degenerative;Implanted Medical Device/shoulder/right

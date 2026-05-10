@@ -1,0 +1,16 @@
+UID: 430
+
+INDICATION:
+XXXX-year-old with chest pain
+
+FINDINGS:
+Lungs are clear. No focal infiltrate or effusion. No pneumothorax. Heart and mediastinal contours within normal limits. Visualized osseous structures intact.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

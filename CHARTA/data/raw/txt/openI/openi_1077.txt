@@ -1,0 +1,16 @@
+UID: 1112
+
+INDICATION:
+XXXX-year-old with shortness of breath.
+
+FINDINGS:
+There is widening of the mediastinum. There is moderate cardiomegaly identified. The central pulmonary XXXX appear enlarged. Correlate for pulmonary vascular congestion. No focal infiltrate. No large effusion or pneumothorax.
+
+IMPRESSION:
+1. Moderate increase in size of the cardiac silhouette. Unclear whether this is secondary to cardiomegaly or pericardial effusion. 2. Pulmonary vascular congestion. 3. Widened mediastinum. Maybe secondary to prominent mediastinal fat or tortuous XXXX. However, adenopathy, or mass is not excluded. CT of the chest with contrast is recommended for further evaluation of these findings.
+
+PROBLEMS:
+Mediastinum;Cardiomegaly;Pulmonary Congestion;Cardiac Shadow
+
+MESH:
+Mediastinum/prominent;Cardiomegaly/moderate;Pulmonary Congestion;Cardiac Shadow/enlarged/moderate

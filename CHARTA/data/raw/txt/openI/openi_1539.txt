@@ -1,0 +1,16 @@
+UID: 1591
+
+INDICATION:
+The patient is a XXXX-year-old XXXX with XXXX and hyperglycemia.
+
+FINDINGS:
+The trachea is midline. The cardio mediastinal silhouette is of normal size and contour. No evidence of focal infiltrate or effusion. Low lung volumes XXXX XXXX atelectasis and bronchovascular crowding. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities. Lateral view reveals degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities. 2. Low lung volumes causing bibasilar atelectasis and bronchovascular crowding .
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis;Markings;Thoracic Vertebrae
+
+MESH:
+Lung/hypoinflation;Pulmonary Atelectasis/base/bilateral;Markings/bronchovascular;Thoracic Vertebrae/degenerative

@@ -1,0 +1,16 @@
+UID: 752
+
+INDICATION:
+V42.7 LIVER REPLACED BY TRANSP
+
+FINDINGS:
+The lungs appear clear. Scattered calcified granulomas are stable as are calcified mediastinal lymph XXXX. The heart and pulmonary XXXX are normal. Mediastinal contours are normal. Pleural spaces are clear.
+
+IMPRESSION:
+No acute cardiopulmonary disease
+
+PROBLEMS:
+Calcified Granuloma;Calcinosis
+
+MESH:
+Calcified Granuloma/scattered;Calcinosis/mediastinum/lymph nodes

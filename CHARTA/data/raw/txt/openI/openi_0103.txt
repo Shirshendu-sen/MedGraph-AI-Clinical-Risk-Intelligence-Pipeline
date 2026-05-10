@@ -1,0 +1,16 @@
+UID: 104
+
+INDICATION:
+XXXX-year-old male with XXXX for 3 weeks. Possible pneumonia.
+
+FINDINGS:
+There are minimal XXXX left basilar opacities, XXXX subsegmental atelectasis or scarring. There is no focal airspace consolidation to suggest pneumonia. No pleural effusion or pneumothorax. Heart size is at the upper limits of normal. Cardiac defibrillator XXXX overlies the right ventricle. The XXXX appears intact. There is aortic atherosclerotic vascular calcification. Calcified mediastinal and hilar lymph XXXX are consistent with prior granulomatous disease. Multiple calcified splenic granulomas are also noted. There are minimal degenerative changes of the spine.
+
+IMPRESSION:
+Minimal left basilar subsegmental atelectasis or scarring. No acute findings.
+
+PROBLEMS:
+Opacity;Implanted Medical Device;Atherosclerosis;Calcinosis;Calcinosis;Spine;Granulomatous Disease
+
+MESH:
+Opacity/lung/base/left/mild;Implanted Medical Device;Atherosclerosis/aorta;Calcinosis/lung/hilum/lymph nodes;Calcinosis/mediastinum/lymph nodes;Spine/degenerative/mild;Granulomatous Disease

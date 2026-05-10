@@ -1,0 +1,16 @@
+UID: 3292
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Mediastinal contours are normal. Opacity within the right middle and lower lobes. No displacement of the XXXX or XXXX fissure. No pneumothorax..
+
+IMPRESSION:
+Opacification of the right middle and lower lobes.
+
+PROBLEMS:
+Opacity;Opacity
+
+MESH:
+Opacity/lung/middle lobe/right;Opacity/lung/lower lobe/right

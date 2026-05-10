@@ -1,0 +1,16 @@
+UID: 3428
+
+INDICATION:
+401.1 HYPERTENSION, no XXXX chest symptoms, pt will be entering an assisted living facility XXXX
+
+FINDINGS:
+There is a prominent calcified head to the right anterior first rib. The aorta is tortuous. There are T-spine osteophytes. The cardiomediastinal silhouette and pulmonary vasculature are within normal limits. There is no pneumothorax or pleural effusion. There are no focal areas of consolidation.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcinosis;Aorta;Osteophyte
+
+MESH:
+Calcinosis/ribs/right/anterior/prominent;Aorta/tortuous;Osteophyte/thoracic vertebrae/multiple

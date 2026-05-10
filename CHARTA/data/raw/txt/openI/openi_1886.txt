@@ -1,0 +1,16 @@
+UID: 1950
+
+INDICATION:
+XXXX-year-old male with dyspnea
+
+FINDINGS:
+Cardiac and mediastinal contours are unremarkable. Pulmonary vascularity is within normal limits. No focal air space opacities, pleural effusion, or pneumothorax. XXXX are grossly unremarkable.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

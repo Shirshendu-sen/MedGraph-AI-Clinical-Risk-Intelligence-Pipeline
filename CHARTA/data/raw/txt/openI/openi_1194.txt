@@ -1,0 +1,16 @@
+UID: 1237
+
+INDICATION:
+XXXX-year-old male with positive PPD.
+
+FINDINGS:
+Cardiac and mediastinal contours are unremarkable. Pulmonary vascularity is within normal limits. No focal air space opacities, pleural effusion, or pneumothorax. There is is a calcified XXXX opacity in the left lung base suggestive of old empyema, hematoma, or prior TB. No cavitary lesions are seen. XXXX are grossly unremarkable.
+
+IMPRESSION:
+1. Clear lungs. No radiographic evidence of active TB.
+
+PROBLEMS:
+Opacity;Calcinosis
+
+MESH:
+Opacity/lung/base/left;Calcinosis/lung/base/left

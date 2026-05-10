@@ -1,0 +1,16 @@
+UID: 202
+
+INDICATION:
+Back and chest pain.
+
+FINDINGS:
+AP and lateral view of the chest.
+
+IMPRESSION:
+1. Cardiomegaly with central vascular congestion and increased interstitial opacities suggesting mild interstitial pulmonary edema. 2. Small bilateral pleural effusions. 3. No visible pneumothorax.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Opacity;Pleural Effusion
+
+MESH:
+Cardiomegaly;Pulmonary Congestion;Opacity/lung/interstitial;Pleural Effusion/bilateral/small

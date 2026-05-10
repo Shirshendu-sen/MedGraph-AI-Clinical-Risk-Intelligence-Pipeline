@@ -1,0 +1,16 @@
+UID: 216
+
+INDICATION:
+XXXX-year-old woman with XXXX onset of chest pain
+
+FINDINGS:
+The cardiac silhouette is enlarged and has a globular appearance. Mild bibasilar dependent atelectasis. No pneumothorax or large pleural effusion. No acute bone abnormality.
+
+IMPRESSION:
+Cardiomegaly with globular appearance of the cardiac silhouette. Considerations would include pericardial effusion or dilated cardiomyopathy.
+
+PROBLEMS:
+Cardiac Shadow;Pulmonary Atelectasis;Cardiomegaly
+
+MESH:
+Cardiac Shadow/enlarged;Pulmonary Atelectasis/base/bilateral/mild;Cardiomegaly

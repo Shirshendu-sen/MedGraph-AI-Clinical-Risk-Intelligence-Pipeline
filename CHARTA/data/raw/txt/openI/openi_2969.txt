@@ -1,0 +1,16 @@
+UID: 3094
+
+INDICATION:
+Back pain. No injury.
+
+FINDINGS:
+Heart size is normal. Lungs are clear. Low lung volumes. There is no pneumothorax or large pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

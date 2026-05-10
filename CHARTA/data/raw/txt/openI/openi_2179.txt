@@ -1,0 +1,16 @@
+UID: 2259
+
+INDICATION:
+XXXX-year-old XXXX with chest pain and shortness of breath
+
+FINDINGS:
+Bilateral glenohumeral degenerative joint disease. Scattered degenerative changes of the thoracic spine. Stable mild heart enlargement.Prominence of soft tissue density in the upper mediastinum. It is increased from most recent prior exam on XXXX. However, it appears similar compared to XXXX exams performed in XXXX. No focal area of consolidation, pleural effusion, or pneumothorax. Focal opacity in the left upper lobe XXXX represents scarring or related to overlying rib opacity.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Prominent soft tissue density in the upper mediastinum. Recommend follow PA and lateral radiograph XXXX XXXX or CT thorax for further evaluation.
+
+PROBLEMS:
+Humerus;Thoracic Vertebrae;Cardiomegaly;Density;Opacity;Cicatrix;Opacity
+
+MESH:
+Humerus/bilateral/degenerative;Thoracic Vertebrae/scattered/degenerative;Cardiomegaly/mild;Density/mediastinum/prominent;Opacity/lung/upper lobe/left/focal;Cicatrix/lung/upper lobe/left;Opacity/ribs/left

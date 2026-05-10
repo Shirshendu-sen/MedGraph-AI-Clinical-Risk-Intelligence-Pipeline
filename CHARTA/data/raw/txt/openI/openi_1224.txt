@@ -1,0 +1,16 @@
+UID: 1269
+
+INDICATION:
+XXXX-year-old female. XXXX. XXXX.
+
+FINDINGS:
+Normal heart size. Hyperexpanded lungs without focal consolidation, pneumothorax or large pleural effusion. Left nipple silhouette visualized. Negative for acute bone abnormality.
+
+IMPRESSION:
+Hyperexpanded lungs, otherwise clear.
+
+PROBLEMS:
+Lung;Foreign Bodies
+
+MESH:
+Lung/hyperdistention;Foreign Bodies/breast/left

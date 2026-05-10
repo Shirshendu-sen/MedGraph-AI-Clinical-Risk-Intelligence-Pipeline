@@ -1,0 +1,16 @@
+UID: 892
+
+INDICATION:
+XXXX for 5 days with chest tightness
+
+FINDINGS:
+There is hyperinflation. There is some subtle scarring in the lateral right base. There is no pleural effusion or pneumothorax. The heart is not significantly enlarged. There are atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures are noted.
+
+IMPRESSION:
+COPD and probable right basilar scarring. No acute pulmonary disease identified.
+
+PROBLEMS:
+Lung;Cicatrix;Atherosclerosis;Arthritis;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Cicatrix/lung/base/right;Atherosclerosis/aorta;Arthritis;Pulmonary Disease, Chronic Obstructive

@@ -1,0 +1,16 @@
+UID: 3987
+
+INDICATION:
+XXXX-year-old woman with back pain
+
+FINDINGS:
+No acute osseous abnormality. Stable scattered endplate degenerative changes and osteophyte formation in the thoracic spine. Normal cardiomediastinal silhouette and hilar contours. No focal area of consolidation, pleural effusion, or pneumothorax.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary or osseous process.
+
+PROBLEMS:
+Thoracic Vertebrae;Osteophyte
+
+MESH:
+Thoracic Vertebrae/scattered/degenerative;Osteophyte/thoracic vertebrae/multiple

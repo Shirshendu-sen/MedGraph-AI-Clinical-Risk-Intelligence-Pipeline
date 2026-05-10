@@ -1,0 +1,16 @@
+UID: 2034
+
+INDICATION:
+XXXX-year-old male, cachectic HIV patient.
+
+FINDINGS:
+Normal heart size and mediastinal contours. No focal airspace consolidation. XXXX opacities in the right lower lung representing atelectasis versus scarring. Significantly decreased subcutaneous soft tissue since comparison radiograph. Probable pectus deformity. Negative for acute bony abnormality.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Hyperlucent lungs, XXXX related to cachexia and probable pectus excavatum deformity.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Cicatrix;Funnel Chest;Lung, Hyperlucent;Deformity
+
+MESH:
+Opacity/lung/lower lobe/right;Pulmonary Atelectasis/lower lobe/right;Cicatrix/lung/lower lobe/right;Funnel Chest;Lung, Hyperlucent;Deformity/thorax

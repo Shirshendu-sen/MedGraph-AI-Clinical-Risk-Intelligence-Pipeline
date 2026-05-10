@@ -1,0 +1,16 @@
+UID: 1664
+
+INDICATION:
+XXXX-year-old male, pain, short of breath
+
+FINDINGS:
+None
+
+IMPRESSION:
+Borderline cardiomegaly, mild aortic ectasia/tortuosity. No focal alveolar consolidation, no definite pleural effusion seen. Mild bronchovascular crowding without typical findings of pulmonary edema.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Markings
+
+MESH:
+Cardiomegaly/borderline;Aorta/tortuous/mild;Markings/bronchovascular/mild

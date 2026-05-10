@@ -1,0 +1,16 @@
+UID: 2951
+
+INDICATION:
+palpitation
+
+FINDINGS:
+The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. No pleural air collections. Heart and mediastinum normal. A vague lucency is present in left rib 7 anteriorly.
+
+IMPRESSION:
+No active disease. No evidence for cardiopulmonary injuries. Possibility of left rib 7 anterior nondisplaced fracture as described.
+
+PROBLEMS:
+Lucency
+
+MESH:
+Lucency/ribs/left/posterior

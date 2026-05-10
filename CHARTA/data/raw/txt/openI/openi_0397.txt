@@ -1,0 +1,16 @@
+UID: 411
+
+INDICATION:
+Frequent XXXX. History emphysema.
+
+FINDINGS:
+There is some minimal patchy opacity in left base which may represent atelectasis or scarring. The lungs are otherwise clear. The heart and mediastinum are normal for age. There is some arthritic changes of the skeletal structures and there has been previous rotator XXXX repair on the right.
+
+IMPRESSION:
+Minimal left basilar opacity most XXXX representing atelectasis or chronic scarring.
+
+PROBLEMS:
+Opacity;Arthritis;Pulmonary Atelectasis;Cicatrix
+
+MESH:
+Opacity/lung/base/left/patchy/mild;Arthritis;Pulmonary Atelectasis/base/left;Cicatrix/lung/base/left/chronic

@@ -1,0 +1,16 @@
+UID: 3620
+
+INDICATION:
+Left rib pain starting yesterday. Using crutches for broken foot.
+
+FINDINGS:
+The cardiac silhouette is near upper limits of normal in size. Pulmonary vasculature is normal in caliber. There is minimal XXXX atelectasis or scar in the left lung base. The lungs are otherwise grossly clear. There is a small calcified granuloma in the left upper lobe. There is no pneumothorax or pleural effusion. No acute, displaced rib fractures are demonstrated.
+
+IMPRESSION:
+1. Minimal left basilar atelectasis or scar. 2. No acute, displaced rib fractures demonstrated. .
+
+PROBLEMS:
+Pulmonary Atelectasis;Cicatrix;Calcified Granuloma
+
+MESH:
+Pulmonary Atelectasis/base/left/mild;Cicatrix/lung/base/left/mild;Calcified Granuloma/lung/upper lobe/left/small

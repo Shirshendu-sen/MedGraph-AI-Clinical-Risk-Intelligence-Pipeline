@@ -1,0 +1,16 @@
+UID: 3086
+
+INDICATION:
+Preop evaluation. Placement of neurostimulator.
+
+FINDINGS:
+No airspace disease, effusion or noncalcified nodule. Calcified granuloma seen bilaterally. Normal heart size. Elevated right hemidiaphragm, with a nodular soft tissue contour, containing liver. Degenerative changes demonstrated within the visualized thoracic spine. There is neurostimulator, overlying the mid and lower thoracic spine.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Elevation of the right XXXX diaphragm, containing liver.
+
+PROBLEMS:
+Calcified Granuloma;Diaphragm;Thoracic Vertebrae;Implanted Medical Device
+
+MESH:
+Calcified Granuloma/lung/bilateral/multiple;Diaphragm/right/elevated;Thoracic Vertebrae/degenerative;Implanted Medical Device/thoracic vertebrae

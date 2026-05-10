@@ -1,0 +1,16 @@
+UID: 1104
+
+INDICATION:
+Tachycardia, diabetes, hypoxia.
+
+FINDINGS:
+None
+
+IMPRESSION:
+The cardiac contours are normal. Prominent hilar contours. The lungs are clear. Thoracic spondylosis.
+
+PROBLEMS:
+Spondylosis;Lung
+
+MESH:
+Spondylosis/thoracic vertebrae;Lung/hilum/prominent

@@ -1,0 +1,16 @@
+UID: 2867
+
+INDICATION:
+The patient is a XXXX-year-old woman with XXXX and vomiting.
+
+FINDINGS:
+The trachea is midline. The cardiomediastinal silhouette is normal. The superior thoracic spine is again noted, unchanged from prior. Lucent pulmonary parenchyma is consistent appearance with emphysema and appears unchanged from prior examinations. No evidence of pneumothorax. No focal airspace disease or pleural effusion. Vague density in the medial right lung apex most XXXX representing overlying shadows of bony structures, which is stable.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities. 2. Emphysema and chronic bony abnormalities are unchanged from prior exams. .
+
+PROBLEMS:
+Lucency;Pulmonary Emphysema;Density;Deformity
+
+MESH:
+Lucency/lung;Pulmonary Emphysema;Density/lung/apex/right;Deformity/thorax/chronic

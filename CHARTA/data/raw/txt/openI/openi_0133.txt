@@ -1,0 +1,16 @@
+UID: 135
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The lungs are grossly clear without focal pneumonic consolidation, large effusion or pneumothorax. Heart size is within normal limits.
+
+IMPRESSION:
+Clear lungs
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 3354
+
+INDICATION:
+Short of breath.
+
+FINDINGS:
+Heart size and mediastinal contours appear within normal limits. Hyperinflated lungs with flattening of diaphragms, compatible with emphysema. No focal consolidation, pleural effusion or pneumothorax. No acute bony abnormality.
+
+IMPRESSION:
+1. Emphysema. 2. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Diaphragm;Pulmonary Emphysema
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened;Pulmonary Emphysema

@@ -1,0 +1,16 @@
+UID: 3875
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+Stable left lower lung increased interstitial markings. No XXXX focal alveolar opacities. Low lung volumes. Heart size is normal. No pneumothorax or pleural effusions.
+
+IMPRESSION:
+Stable left lower lung interstitial infiltrates or fibrosis. No acute cardiopulmonary findings.
+
+PROBLEMS:
+Markings;Lung;Infiltrate;Pulmonary Fibrosis
+
+MESH:
+Markings/lung/lower lobe/left/interstitial;Lung/hypoinflation;Infiltrate/lung/lower lobe/left/interstitial;Pulmonary Fibrosis/lower lobe/left/interstitial

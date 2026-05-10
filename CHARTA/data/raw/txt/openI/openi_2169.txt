@@ -1,0 +1,16 @@
+UID: 2249
+
+INDICATION:
+XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+PA and lateral views of the chest show enlarging right hilar adenopathy. The lungs appear grossly clear. Heart size and pulmonary XXXX are normal. There is no pneumothorax. Pleural spaces are clear. There is mild thoracic spine degenerative change. FINDINGS COULD REPRESENT RESOLVING HISTOPLASMOSIS INFECTION, SARCOIDOSIS, OR MALIGNANCY XXXX AS LYMPHOMA OR PRIMARY LUNG CANCER. RECOMMEND CONTRAST-ENHANCED CHEST CT FOR FURTHER EVALUATION.
+
+PROBLEMS:
+Lung;Thoracic Vertebrae
+
+MESH:
+Lung/hilum/lymph nodes/right/enlarged;Thoracic Vertebrae/degenerative/mild

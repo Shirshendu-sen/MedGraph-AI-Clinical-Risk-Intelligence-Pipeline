@@ -1,0 +1,16 @@
+UID: 3672
+
+INDICATION:
+COPD
+
+FINDINGS:
+Stable appearance of aortic valve prosthesis. Sternotomy XXXX. Aortic calcifications. Mild interstitial edema. No focal infiltrate. No effusion or pneumothorax. Mild cardiomegaly.
+
+IMPRESSION:
+Mild interstitial edema.
+
+PROBLEMS:
+Implanted Medical Device;Calcinosis;Pulmonary Edema;Cardiomegaly
+
+MESH:
+Implanted Medical Device/aortic valve;Calcinosis/aorta;Pulmonary Edema/interstitial/mild;Cardiomegaly/mild

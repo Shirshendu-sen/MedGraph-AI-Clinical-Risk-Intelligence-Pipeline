@@ -1,0 +1,16 @@
+UID: 3985
+
+INDICATION:
+The patient is a XXXX-year-old male with kidney transplant evaluation.
+
+FINDINGS:
+No pneumothorax, pleural effusion or airspace consolidation. Heart size and pulmonary vasculature appear within normal limits. Calcified granuloma in the anterior left lower lobe. XXXX XXXX are intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/lower lobe/left/anterior

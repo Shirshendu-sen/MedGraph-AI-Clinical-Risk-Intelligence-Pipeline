@@ -1,0 +1,16 @@
+UID: 2219
+
+INDICATION:
+XXXX and chest pain commissure breath x1 XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+The heart size and cardiomediastinal silhouette are within normal limits. Pulmonary vasculature appears normal. Left hilar and medial left base granuloma. There is no focal air space consolidation. No pleural effusion or pneumothorax.
+
+PROBLEMS:
+Granuloma;Granuloma
+
+MESH:
+Granuloma/lung/hilum/left;Granuloma/lung/base/left

@@ -1,0 +1,16 @@
+UID: 453
+
+INDICATION:
+Preop anesthesia XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Concerning findings for fibrosis in the bases of the lungs. This can be further characterized with a XXXX of the chest. No confluent lobar pneumonia or pleural effusion.
+
+PROBLEMS:
+Pulmonary Fibrosis
+
+MESH:
+Pulmonary Fibrosis/base/bilateral

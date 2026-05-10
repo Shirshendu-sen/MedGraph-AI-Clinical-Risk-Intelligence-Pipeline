@@ -1,0 +1,16 @@
+UID: 1119
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+Low lung volumes with bronchovascular crowding. Sequela of prior granulomatous disease. Otherwise lungs clear. Heart size normal. Stable severe L1 XXXX deformity.
+
+IMPRESSION:
+Low lung volumes with bronchovascular crowding, no acute cardiopulmonary finding.
+
+PROBLEMS:
+Lung;Markings;Granulomatous Disease;Deformity
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Granulomatous Disease;Deformity/lumbar vertebrae/severe

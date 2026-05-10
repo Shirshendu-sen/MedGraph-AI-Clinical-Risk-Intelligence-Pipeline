@@ -1,0 +1,16 @@
+UID: 2255
+
+INDICATION:
+chest pain
+
+FINDINGS:
+The trachea is midline. Cardiomediastinal silhouette is normal and unchanged from prior examination. There are round calcific densities in the right lung consistent with prior granulomatous disease. Otherwise, the lungs are clear without evidence of acute infiltrate or effusion. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Density;Calcinosis;Granulomatous Disease
+
+MESH:
+Density/lung/right/round/multiple;Calcinosis/lung/right/round;Granulomatous Disease

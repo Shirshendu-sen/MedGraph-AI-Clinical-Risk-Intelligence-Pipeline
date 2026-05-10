@@ -1,0 +1,16 @@
+UID: 3322
+
+INDICATION:
+PRE-OP XXXX VENTRAL HERNIA REPAIR,COPD,XXXX,EMPHYSEMA,DYSPNEA
+
+FINDINGS:
+The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. No change in a small calcified right apical granuloma. Heart and mediastinum normal.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/apex/right/small

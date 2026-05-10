@@ -1,0 +1,16 @@
+UID: 297
+
+INDICATION:
+Chest pain, dyspnea.
+
+FINDINGS:
+Cardiac silhouette is within normal limits in size. The lungs are hypoinflated with mild bronchovascular crowding. There is mild, XXXX opacity projected over the left lung base. This is partly due to overlying soft tissues, however, there is partial obscuration of the lateral left hemidiaphragm. The lungs are otherwise grossly clear. There is no pneumothorax or pleural effusion. There are no acute bony findings. There are degenerative endplate changes throughout the thoracic spine.
+
+IMPRESSION:
+Low lung volumes with mild, XXXX left basilar opacity, atelectasis versus infiltrate. .
+
+PROBLEMS:
+Lung;Markings;Opacity;Diaphragm;Thoracic Vertebrae;Lung;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular/mild;Opacity/lung/base/left/mild;Diaphragm/left/obscured;Thoracic Vertebrae/degenerative;Lung/hypoinflation;Pulmonary Atelectasis/base/left/mild

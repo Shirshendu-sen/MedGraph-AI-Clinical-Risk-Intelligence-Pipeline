@@ -1,0 +1,16 @@
+UID: 1543
+
+INDICATION:
+XXXX-year-old female, XXXX.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. No acute osseus abnormality. Large hiatal hernia.
+
+IMPRESSION:
+1. No acute cardiopulmonary process. 2. Large hiatal hernia.
+
+PROBLEMS:
+Hernia, Hiatal
+
+MESH:
+Hernia, Hiatal/large

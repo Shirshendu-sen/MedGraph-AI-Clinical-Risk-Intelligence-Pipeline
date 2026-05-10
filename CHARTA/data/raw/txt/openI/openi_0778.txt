@@ -1,0 +1,16 @@
+UID: 801
+
+INDICATION:
+XXXX-year-old female, bone marrow transplant XXXX workup. No chest complaints.
+
+FINDINGS:
+Heart is normal in size. No focal consolidation, pleural effusion or pneumothorax. No acute or destructive bone abnormality.
+
+IMPRESSION:
+Normal chest.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

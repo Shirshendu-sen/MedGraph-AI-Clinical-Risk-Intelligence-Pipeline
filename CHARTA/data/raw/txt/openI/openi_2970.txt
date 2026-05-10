@@ -1,0 +1,16 @@
+UID: 3095
+
+INDICATION:
+XXXX-year-old male with dyspnea.
+
+FINDINGS:
+Heart size is mildly enlarged. There are diffusely increased interstitial opacities bilaterally. No focal consolidation, pneumothorax, or pleural effusion. No acute bony abnormality.
+
+IMPRESSION:
+Findings concerning for interstitial edema or infection.
+
+PROBLEMS:
+Cardiomegaly;Opacity
+
+MESH:
+Cardiomegaly/mild;Opacity/lung/bilateral/interstitial/diffuse

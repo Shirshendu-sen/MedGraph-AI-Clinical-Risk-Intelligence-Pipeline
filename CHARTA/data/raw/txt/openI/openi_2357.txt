@@ -1,0 +1,16 @@
+UID: 2442
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Given differences in patient rotation, heart size and mediastinal contours are grossly unchanged. Lungs appear clear without focal consolidation. No visible pleural effusion or pneumothorax. Stable degenerative changes of the thoracic spine with scattered XXXX deformities. Stable postsurgical changes of the left shoulder and marked degenerative changes of the right shoulder.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Thoracic Vertebrae;Deformity;Deformity;Shoulder
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Thoracic Vertebrae/degenerative;Deformity/thoracic vertebrae/scattered/multiple;Deformity/shoulder/left;Shoulder/right/degenerative/severe

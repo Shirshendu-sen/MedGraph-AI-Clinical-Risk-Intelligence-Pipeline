@@ -1,0 +1,16 @@
+UID: 1220
+
+INDICATION:
+XXXX-year-old XXXX with chest tightness.
+
+FINDINGS:
+There is hyperexpansion, hyperlucency of both lungs, as well as flattening of the diaphragm consistent with chronic emphysematous lung disease. No focal consolidation, pneumothorax, or large pleural effusion identified (blunting of costophrenic recesses bilaterally may represent small effusions or pleural thickening/scar. Stable calcified mediastinal and hilar lymph XXXX and a left basilar calcified granuloma. Acute osseous abnormality. The mediastinal silhouette stable.
+
+IMPRESSION:
+Changes of chronic emphysematous lung disease without acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Lung;Lung, Hyperlucent;Diaphragm;Pulmonary Emphysema;Costophrenic Angle;Calcinosis;Calcinosis;Calcified Granuloma
+
+MESH:
+Lung/bilateral/hyperdistention;Lung, Hyperlucent/bilateral;Diaphragm/flattened;Pulmonary Emphysema/chronic;Costophrenic Angle/bilateral/blunted;Calcinosis/mediastinum/lymph nodes;Calcinosis/lung/hilum/lymph nodes;Calcified Granuloma/lung/base/left

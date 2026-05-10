@@ -1,0 +1,16 @@
+UID: 2299
+
+INDICATION:
+XXXX-year-old female. XXXX. XXXX.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Peripheral right basilar calcified granuloma. No focal consolidation, pneumothorax or large pleural effusion. Apparent nodular opacity on lateral projection, immediately retrocardiac, is XXXX to represent confluence of overlapping silhouettes. Negative for acute bone abnormality.
+
+IMPRESSION:
+Negative for acute abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Opacity
+
+MESH:
+Calcified Granuloma/lung/base/right;Opacity/retrocardiac/round

@@ -1,0 +1,16 @@
+UID: 3146
+
+INDICATION:
+XXXX-year-old with chest pain
+
+FINDINGS:
+No focal lung consolidation. Heart size and pulmonary vascularity are within normal limits. No pneumothorax or pleural effusion. Osseous structures are grossly intact.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 1849
+
+INDICATION:
+XXXX-year-old male with COPD.
+
+FINDINGS:
+Heart size is within normal limits. 8mm calcified granuloma in the right base. No focal airspace consolidations. No pneumothorax or effusion.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/base/right

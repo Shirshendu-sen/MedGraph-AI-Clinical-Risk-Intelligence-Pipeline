@@ -1,0 +1,16 @@
+UID: 1544
+
+INDICATION:
+XXXX-year-old with XXXX.
+
+FINDINGS:
+Normal heart. Clear lungs. No pneumothorax. No pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

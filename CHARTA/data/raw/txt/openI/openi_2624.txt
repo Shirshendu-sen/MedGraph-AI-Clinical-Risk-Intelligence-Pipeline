@@ -1,0 +1,16 @@
+UID: 2724
+
+INDICATION:
+AML. BMT workup.
+
+FINDINGS:
+Lungs are clear. No pleural effusions or pneumothoraces. heart size is normal. There is some tortuosity of the aorta. Degenerative changes in the thoracic spine
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+Aorta;Thoracic Vertebrae
+
+MESH:
+Aorta/tortuous;Thoracic Vertebrae/degenerative

@@ -1,0 +1,16 @@
+UID: 665
+
+INDICATION:
+History of chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Cardiomegaly stable. Lungs clear. No edema or effusions
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly

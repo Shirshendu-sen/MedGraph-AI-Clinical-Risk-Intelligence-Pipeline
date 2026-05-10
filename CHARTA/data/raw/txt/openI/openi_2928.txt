@@ -1,0 +1,16 @@
+UID: 3052
+
+INDICATION:
+XXXX-year-old male, dyspnea, inflammatory arthritis.
+
+FINDINGS:
+Normal heart size. Density surrounding superior mediastinum reflex combination of vascular, osseous common pleural structures. No focal airspace consolidation. Moderate degenerative disc disease with osteophyte formation bridging.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Density;Spine;Osteophyte
+
+MESH:
+Density/mediastinum;Spine/degenerative;Osteophyte/spine/multiple

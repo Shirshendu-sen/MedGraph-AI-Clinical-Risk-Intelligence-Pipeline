@@ -1,0 +1,16 @@
+UID: 2072
+
+INDICATION:
+Shortness of breath. History of sarcoidosis.
+
+FINDINGS:
+Stable, nonenlarged cardiomediastinal silhouette. Left upper lobe calcified granuloma noted. Epigastric and right upper quadrant postsurgical changes. Interval increased bilateral interstitial opacities, with probable left lower lobe infiltrate.
+
+IMPRESSION:
+Stable, nonenlarged cardiomediastinal silhouette. Left upper lobe calcified granuloma noted. Epigastric and right upper quadrant postsurgical changes. Interval increased bilateral interstitial opacities, with probable left lower lobe infiltrate.
+
+PROBLEMS:
+Calcified Granuloma;Opacity;Infiltrate
+
+MESH:
+Calcified Granuloma/lung/upper lobe/left;Opacity/lung/bilateral/interstitial;Infiltrate/lung/lower lobe/left

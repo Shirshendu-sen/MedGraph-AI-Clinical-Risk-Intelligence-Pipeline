@@ -1,0 +1,16 @@
+UID: 3201
+
+INDICATION:
+difficulty swallowing
+
+FINDINGS:
+Lung volumes are low. No focal infiltrates. Heart size normal. Mediastinum normal.
+
+IMPRESSION:
+Hypoinflation with no visible active cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

@@ -1,0 +1,16 @@
+UID: 2709
+
+INDICATION:
+None
+
+FINDINGS:
+There is a subtle left medial base opacity. Cardiomediastinal silhouette is normal. Pulmonary vasculature and XXXX are normal. No pneumothorax or large pleural effusion. Osseous structures and soft tissues are normal.
+
+IMPRESSION:
+Subtle medial left basilar opacity could represent early pneumonia.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/base/left

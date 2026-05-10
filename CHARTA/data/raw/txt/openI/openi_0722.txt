@@ -1,0 +1,16 @@
+UID: 743
+
+INDICATION:
+Hep C,hepatocellular cancer
+
+FINDINGS:
+None
+
+IMPRESSION:
+Slightly prominent basilar interstitial markings may be related to stigmata of chronic liver disease. No acute airspace consolidation or effusions. Mediastinal contour within normal limits for patient's age. No suspicious appearing lung nodules are identified.
+
+PROBLEMS:
+Markings
+
+MESH:
+Markings/lung/base/interstitial/prominent/mild

@@ -1,0 +1,16 @@
+UID: 417
+
+INDICATION:
+The patient is a XXXX-year-old female scheduled for right breast surgery, for XXXX cancer diagnosis. History of XXXX.
+
+FINDINGS:
+Stable calcified granulomas. The trachea is midline. Negative for pneumothorax, pleural effusion or focal airspace consolidation. The heart size is normal.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma

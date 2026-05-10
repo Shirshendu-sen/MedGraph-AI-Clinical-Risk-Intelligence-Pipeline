@@ -1,0 +1,16 @@
+UID: 1513
+
+INDICATION:
+XXXX with XXXX
+
+FINDINGS:
+There is mild streakiness in the right base. No focal infiltrate or effusion. No pneumothorax. Calcified granulomatous disease noted. Heart and mediastinal contours within normal limits. Osseous structures intact.
+
+IMPRESSION:
+Mild streakiness, subsegmental atelectasis versus early infiltrate right lower lobe.
+
+PROBLEMS:
+Opacity;Granulomatous Disease;Pulmonary Atelectasis;Infiltrate
+
+MESH:
+Opacity/lung/base/right/streaky;Granulomatous Disease;Pulmonary Atelectasis/lower lobe/right;Infiltrate/lung/lower lobe/right

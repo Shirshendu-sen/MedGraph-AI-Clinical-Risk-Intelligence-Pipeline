@@ -1,0 +1,16 @@
+UID: 2848
+
+INDICATION:
+Evaluate for tuberculosis
+
+FINDINGS:
+Mild cardiomegaly. Lungs are clear. Calcified hilar XXXX. No pleural effusion or pneumothorax. Soft tissues and showed unremarkable.
+
+IMPRESSION:
+No evidence of active tuberculosis.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis
+
+MESH:
+Cardiomegaly/mild;Calcinosis/lung/hilum

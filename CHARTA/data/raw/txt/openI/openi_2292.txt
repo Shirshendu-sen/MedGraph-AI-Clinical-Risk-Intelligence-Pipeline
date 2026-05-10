@@ -1,0 +1,16 @@
+UID: 2375
+
+INDICATION:
+XXXX-year-old female with XXXX.
+
+FINDINGS:
+Cardiac silhouette is upper limits of normal in size. Normal mediastinal contour and pulmonary vasculature. There is evidence of healed granulomatous disease in the right hemithorax. Lungs are without focal airspace consolidation, large pleural effusion or pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Granulomatous Disease
+
+MESH:
+Granulomatous Disease/thorax/right/healed

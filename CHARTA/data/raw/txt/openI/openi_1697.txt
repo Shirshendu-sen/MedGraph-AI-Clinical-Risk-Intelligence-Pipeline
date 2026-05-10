@@ -1,0 +1,16 @@
+UID: 1755
+
+INDICATION:
+XXXX-year-old male, dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size within normal limits. Mild right hemidiaphragm elevation with crowded markings in the right lung base. Otherwise, no focal alveolar consolidation. No definite pleural effusion seen. Mediastinal calcifications and dense nodule in the left suprahilar lung suggest a previous granulomatous process. No typical findings of pulmonary edema.
+
+PROBLEMS:
+Diaphragm;Markings;Calcinosis;Nodule
+
+MESH:
+Diaphragm/right/elevated/mild;Markings/lung/base/right;Calcinosis/mediastinum;Nodule/lung/hilum/left

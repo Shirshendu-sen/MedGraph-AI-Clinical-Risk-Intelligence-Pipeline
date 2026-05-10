@@ -1,0 +1,16 @@
+UID: 3340
+
+INDICATION:
+XXXX-year-old female. Altered mental status.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Atherosclerosis of the aortic XXXX. Minimal XXXX densities, left lung base. Hyperexpanded lungs. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.
+
+IMPRESSION:
+Chronic lung changes without acute abnormality.
+
+PROBLEMS:
+Atherosclerosis;Density;Lung
+
+MESH:
+Atherosclerosis/aorta;Density/lung/base/left/multiple/mild;Lung/hyperdistention

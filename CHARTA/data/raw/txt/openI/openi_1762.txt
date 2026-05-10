@@ -1,0 +1,16 @@
+UID: 1821
+
+INDICATION:
+XXXX-year-old male with positive PPD.
+
+FINDINGS:
+The heart and mediastinum are normal in size and contour. There is no focal airspace opacity, pleural effusion, or pneumothorax. There are degenerative changes in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary finding. Specifically there is no evidence of active tuberculosis infection.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative

@@ -1,0 +1,16 @@
+UID: 3650
+
+INDICATION:
+COPD, previous XXXX
+
+FINDINGS:
+The heart is not enlarged. The bilateral pulmonary arteries appear enlarged. The lungs are hyperexpanded the hemidiaphragms are flattened. There is no pneumothorax or pleural effusion. There are no focal areas of consolidation.
+
+IMPRESSION:
+1. Pulmonary emphysema. 2. Large bilateral pulmonary arteries suggestive of pulmonary arterial hypertension. 3. No suspicious nodules or are identified.
+
+PROBLEMS:
+Pulmonary Artery;Lung;Diaphragm;Pulmonary Emphysema
+
+MESH:
+Pulmonary Artery/bilateral/enlarged;Lung/hyperdistention;Diaphragm/bilateral/flattened;Pulmonary Emphysema

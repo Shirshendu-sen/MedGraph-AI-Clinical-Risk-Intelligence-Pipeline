@@ -1,0 +1,16 @@
+UID: 1811
+
+INDICATION:
+XXXX-year-old XXXX with shortness of breath
+
+FINDINGS:
+There is mild cardiomegaly and tortuous aorta. Mildly low lung volumes. No focal consolidation, pleural effusion, or pneumothorax. The XXXX XXXX are intact and without acute osseous abnormality. Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+Chest radiograph. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Lung;Thoracic Vertebrae
+
+MESH:
+Cardiomegaly/mild;Aorta/tortuous;Lung/hypoinflation/mild;Thoracic Vertebrae/degenerative/mild

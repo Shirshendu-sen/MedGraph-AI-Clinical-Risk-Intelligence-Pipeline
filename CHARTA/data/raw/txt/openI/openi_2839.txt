@@ -1,0 +1,16 @@
+UID: 2958
+
+INDICATION:
+followup pneumonia
+
+FINDINGS:
+None
+
+IMPRESSION:
+Left lung clear. Heart size normal. No change right upper lobe volume loss and fibrosis. No change right upper lobe cavitation.
+
+PROBLEMS:
+Volume Loss;Cavitation;Pulmonary Fibrosis
+
+MESH:
+Volume Loss/lung/upper lobe/right;Cavitation/lung/upper lobe/right;Pulmonary Fibrosis/upper lobe/right

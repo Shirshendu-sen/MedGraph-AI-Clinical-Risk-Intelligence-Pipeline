@@ -1,0 +1,16 @@
+UID: 3454
+
+INDICATION:
+XXXX PICC catheter placement
+
+FINDINGS:
+None
+
+IMPRESSION:
+PICC catheter tip mid SVC. Heart size normal. Lungs clear.
+
+PROBLEMS:
+Catheters, Indwelling
+
+MESH:
+Catheters, Indwelling

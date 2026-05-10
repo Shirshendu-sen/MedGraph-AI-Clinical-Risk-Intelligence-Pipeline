@@ -1,0 +1,16 @@
+UID: 144
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Overall low lung volumes with mild patchy bibasilar airspace disease. This most XXXX represents atelectasis given the low lung volumes. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour.
+
+IMPRESSION:
+Mild patchy bibasilar airspace disease most XXXX representing atelectasis given the low lung volumes.
+
+PROBLEMS:
+Lung;Airspace Disease;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation;Airspace Disease/lung/base/bilateral/patchy/mild;Pulmonary Atelectasis

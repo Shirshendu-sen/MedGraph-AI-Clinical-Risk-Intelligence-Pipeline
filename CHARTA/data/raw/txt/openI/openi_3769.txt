@@ -1,0 +1,16 @@
+UID: 3916
+
+INDICATION:
+dyspnea.
+
+FINDINGS:
+Heart size normal. Lungs XXXX clear. XXXX XXXX normal. No pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses.
+
+IMPRESSION:
+Normal chest
+
+PROBLEMS:
+normal
+
+MESH:
+normal

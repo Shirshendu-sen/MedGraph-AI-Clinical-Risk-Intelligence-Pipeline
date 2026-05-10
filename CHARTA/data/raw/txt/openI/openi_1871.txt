@@ -1,0 +1,16 @@
+UID: 1935
+
+INDICATION:
+Central line placement
+
+FINDINGS:
+The heart is borderline in size. The aorta is mildly tortuous. XXXX right IJ catheter is in XXXX with tip in proximal right atrium/cavoatrial junction. There is no pneumothorax. Lungs are grossly clear. There is no large effusion.
+
+IMPRESSION:
+Right IJ catheter tip in proximal right atrium. No pneumothorax.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Catheters, Indwelling
+
+MESH:
+Cardiomegaly/borderline;Aorta/tortuous/mild;Catheters, Indwelling/right

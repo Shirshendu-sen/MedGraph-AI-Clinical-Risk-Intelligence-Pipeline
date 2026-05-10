@@ -1,0 +1,16 @@
+UID: 3068
+
+INDICATION:
+XXXX-year-old female, dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Low lung volumes with bronchovascular crowding. Otherwise, no focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. Heart size borderline enlarged for technique, tracheostomy tube tip approximately 4.7 cm above the carina.
+
+PROBLEMS:
+Lung;Markings;Cardiomegaly;Tube, Inserted
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Cardiomegaly/borderline;Tube, Inserted/trachea, carina

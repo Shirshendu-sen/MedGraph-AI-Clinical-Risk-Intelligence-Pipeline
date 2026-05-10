@@ -1,0 +1,16 @@
+UID: 3303
+
+INDICATION:
+Shortness of breath and wheezing.
+
+FINDINGS:
+Heart size and mediastinal contours appear within normal limits. There is a vague 1.6 cm nodular opacity in the right upper lobe between the anterior second and third ribs, which could represent focal infiltrate or lung nodule. No pleural effusion. No pneumothorax. No acute bony abnormality.
+
+IMPRESSION:
+Vague nodular opacity in the right lobe, which could represent focal infiltrate or nodule. Recommend followup to resolution.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/upper lobe/right/round

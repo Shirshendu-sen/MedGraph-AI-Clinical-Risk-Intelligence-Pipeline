@@ -1,0 +1,16 @@
+UID: 161
+
+INDICATION:
+Ovarian carcinoma.
+
+FINDINGS:
+Low lung volumes are present. The heart size and pulmonary vascularity appear within normal limits. No pleural effusion or pneumothorax is seen. Scattered XXXX of left base atelectasis are noted. Left XXXX-a-XXXX is in XXXX with the tip projecting over the caval atrial junction.
+
+IMPRESSION:
+1. XXXX of left base atelectasis. Otherwise, clear.
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis;Catheters, Indwelling
+
+MESH:
+Lung/hypoinflation;Pulmonary Atelectasis/base/left/scattered;Catheters, Indwelling

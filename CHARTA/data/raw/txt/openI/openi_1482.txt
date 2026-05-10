@@ -1,0 +1,16 @@
+UID: 1534
+
+INDICATION:
+XXXX-year-old female. Preoperative chest x-XXXX. Left wrist fracture.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Aortic atherosclerosis. Hyperexpanded lungs. XXXX right perihilar/midlung density. Streaky bibasilar opacities, as well. Left upper lobe nodular opacity (anterior first rib interspace) may be exaggerated by overlapping bone silhouettes. Grossly similar midthoracic vertebral XXXX fracture.
+
+IMPRESSION:
+1. No focal air space consolidation. 2. Nodular opacity at the left apex may be exaggerated by overlapping bone silhouettes. XXXX chest may provide further evaluation, if warranted.
+
+PROBLEMS:
+Atherosclerosis;Lung;Density;Density;Opacity;Opacity;Fractures, Bone
+
+MESH:
+Atherosclerosis/aorta;Lung/hyperdistention;Density/lung/middle lobe/right;Density/lung/hilum/right;Opacity/lung/base/bilateral/streaky;Opacity/lung/upper lobe/left/round;Fractures, Bone/thoracic vertebrae

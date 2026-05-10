@@ -1,0 +1,16 @@
+UID: 3048
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+Normal cardiac contours. Clear lung XXXX bilaterally. No pneumothorax or pleural effusions.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

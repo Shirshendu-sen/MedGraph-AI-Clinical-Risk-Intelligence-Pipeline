@@ -1,0 +1,16 @@
+UID: 2894
+
+INDICATION:
+XXXX-year-old, rule out neck abscess.
+
+FINDINGS:
+The tracheostomy tube is in stable position. Right subclavian catheter tip is in the lower SVC. The left upper extremity PICC tip is in the mid SVC. Surgical XXXX overlie the soft tissues of the neck. The lungs are clear. Heart size is normal. No pneumothorax.
+
+IMPRESSION:
+1. No acute cardiopulmonary findings. .
+
+PROBLEMS:
+Tube, Inserted;Catheters, Indwelling;Catheters, Indwelling;Surgical Instruments
+
+MESH:
+Tube, Inserted/trachea;Catheters, Indwelling/right;Catheters, Indwelling/left;Surgical Instruments/neck

@@ -1,0 +1,16 @@
+UID: 3459
+
+INDICATION:
+XXXX-year-old male with XXXX and possible TB exposure.
+
+FINDINGS:
+Stable appearance of lower cervical fusion XXXX. Heart size normal. No pneumothorax or pleural effusion. No focal airspace disease. Calcified nodules consistent with chronic granulomatous disease. Bony structures appear intact. DISH of the thoracic spine.
+
+IMPRESSION:
+Negative for acute cardiopulmonary disease.
+
+PROBLEMS:
+Spinal Fusion;Calcinosis;Nodule;Granulomatous Disease;Hyperostosis, Diffuse Idiopathic Skeletal
+
+MESH:
+Spinal Fusion/cervical vertebrae;Calcinosis/multiple;Nodule/multiple;Granulomatous Disease/chronic;Hyperostosis, Diffuse Idiopathic Skeletal/thoracic vertebrae

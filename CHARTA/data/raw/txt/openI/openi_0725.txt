@@ -1,0 +1,16 @@
+UID: 746
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+There is stable XXXX scarring or atelectasis in the left midlung. The lungs are otherwise grossly clear. The heart size is near the upper limits of normal. Mediastinal silhouette is normal. There is no pneumothorax or pleural effusion. XXXX T-spine osteophytes are noted.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Cicatrix;Pulmonary Atelectasis;Osteophyte
+
+MESH:
+Cicatrix/lung/lingula;Pulmonary Atelectasis/lingula;Osteophyte/thoracic vertebrae/multiple

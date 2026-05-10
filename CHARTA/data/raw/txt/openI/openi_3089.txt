@@ -1,0 +1,16 @@
+UID: 3216
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+Heart size is normal. No pneumothorax, pleural effusion, or focal airspace disease. Bony structures are intact.
+
+IMPRESSION:
+Normal chest radiograph.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 2318
+
+INDICATION:
+XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+No comparison chest x-XXXX XXXX lungs. Lucency left chest compatible with relatively large pneumothorax and collapse of substantial portion of left lung. No substantial mediastinal shift seen. Right lung grossly clear.
+
+PROBLEMS:
+Lucency;Pneumothorax;Pulmonary Atelectasis
+
+MESH:
+Lucency/thorax/left;Pneumothorax/left/large;Pulmonary Atelectasis/left/severe

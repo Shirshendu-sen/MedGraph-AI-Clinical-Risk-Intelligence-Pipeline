@@ -1,0 +1,16 @@
+UID: 1984
+
+INDICATION:
+Skilled XXXX facility, XXXX fracture of T12.
+
+FINDINGS:
+Heart size and mediastinal contour are within normal limits. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Again visualized is a wedge-shaped XXXX fracture of T12.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Wedge-shaped XXXX fracture of T12.
+
+PROBLEMS:
+Fractures, Bone
+
+MESH:
+Fractures, Bone/thoracic vertebrae

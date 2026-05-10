@@ -1,0 +1,16 @@
+UID: 1030
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Normal cardiomediastinal silhouette. There is no focal consolidation. There are no XXXX of a large pleural effusion. There is no pneumothorax. There is no acute bony abnormality seen. Mild degenerative changes of the spine.
+
+IMPRESSION:
+There is no radiographic evidence of acute cardiopulmonary disease.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative/mild

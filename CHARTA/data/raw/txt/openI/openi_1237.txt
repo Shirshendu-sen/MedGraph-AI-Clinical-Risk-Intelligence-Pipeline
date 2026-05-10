@@ -1,0 +1,16 @@
+UID: 1282
+
+INDICATION:
+Arterial female, shortness of breath, XXXX
+
+FINDINGS:
+Normal heart size and mediastinal contours. Patchy right lower lobe airspace opacities. No pleural effusion or pneumothorax. Visualized osseous structures are unremarkable in appearance.
+
+IMPRESSION:
+Mild, nonconsolidating right lower lobe airspace disease. This may represent an early pneumonia.
+
+PROBLEMS:
+Opacity;Airspace Disease
+
+MESH:
+Opacity/lung/lower lobe/right/patchy;Airspace Disease/lung/lower lobe/right/mild

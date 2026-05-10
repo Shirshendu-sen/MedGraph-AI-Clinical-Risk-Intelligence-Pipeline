@@ -1,0 +1,16 @@
+UID: 635
+
+INDICATION:
+Has a history of followup pleural effusion.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Right lung clear. Persistent but decreased left lower lobe atelectasis infiltrate and effusion.
+
+PROBLEMS:
+Pulmonary Atelectasis;Infiltrate;Pleural Effusion
+
+MESH:
+Pulmonary Atelectasis/lower lobe/left;Infiltrate/lung/lower lobe/left;Pleural Effusion/lower lobe/left

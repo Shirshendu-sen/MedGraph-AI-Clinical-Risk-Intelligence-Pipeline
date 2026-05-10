@@ -1,0 +1,16 @@
+UID: 3401
+
+INDICATION:
+XXXX-year-old male, preop history of XXXX..
+
+FINDINGS:
+No focal consolidation, pneumothorax, or pleural effusion. Cardiomediastinal silhouette unremarkable. Stable bilateral calcified granulomas/lymph XXXX. A bullet is present in the posterior soft tissues of the left chest wall, stable compared to prior examination.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality..
+
+PROBLEMS:
+Calcified Granuloma;Calcinosis;Foreign Bodies
+
+MESH:
+Calcified Granuloma/bilateral/multiple;Calcinosis/lymph nodes/bilateral/multiple;Foreign Bodies/thorax/left/posterior

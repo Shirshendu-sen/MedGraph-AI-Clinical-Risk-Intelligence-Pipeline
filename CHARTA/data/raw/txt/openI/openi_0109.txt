@@ -1,0 +1,16 @@
+UID: 111
+
+INDICATION:
+recent onset increased SOB
+
+FINDINGS:
+None
+
+IMPRESSION:
+Unchanged loculated right pleural fusion. No change chronic interstitial lung disease.
+
+PROBLEMS:
+Pleural Effusion;Lung Diseases, Interstitial
+
+MESH:
+Pleural Effusion/right;Lung Diseases, Interstitial/chronic

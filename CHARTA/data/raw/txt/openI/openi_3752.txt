@@ -1,0 +1,16 @@
+UID: 3899
+
+INDICATION:
+XXXX-year-old with abdominal pain.
+
+FINDINGS:
+Chest. Mildly hyperexpanded lungs. The right lung base is excluded from view. No visualized consolidation. No pneumothorax. No large pleural effusions. Heart size is unremarkable. Abdomen. There are multiple air filled nondilated loops of small and large bowel. There is extensive stool XXXX seen throughout the descending colon. Supine examinations are limited for evaluation of pneumoperitoneum. There is bilateral hip degenerative change.
+
+IMPRESSION:
+Chest 1. No acute cardiopulmonary findings. Abdomen 1. Nonspecific bowel XXXX pattern without evidence of obstruction.
+
+PROBLEMS:
+Lung;Lung
+
+MESH:
+Lung/hyperdistention/mild;Lung/base/right/obscured

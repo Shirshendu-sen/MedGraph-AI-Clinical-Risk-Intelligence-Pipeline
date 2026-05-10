@@ -1,0 +1,16 @@
+UID: 384
+
+INDICATION:
+XXXX-year-old female, XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size within normal limits, stable mediastinal contours. XXXX densities in the lingula may be compatible with scarring or subsegmental atelectasis, scattered chronic appearing irregular interstitial markings. No focal alveolar consolidation, no definite pleural effusion seen. Mild bronchovascular crowding without typical findings of pulmonary edema.
+
+PROBLEMS:
+Markings;Markings;Density
+
+MESH:
+Markings/lung/interstitial/scattered/irregular/chronic;Markings/bronchovascular/mild;Density/lung/lingula

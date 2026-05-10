@@ -1,0 +1,16 @@
+UID: 3984
+
+INDICATION:
+,786.2
+
+FINDINGS:
+The lungs appear clear. The thoracic aorta remains tortuous. The presence of an aortic aneurysm cannot be excluded on this study XXXX. A there are calcified mediastinal and hilar lymph XXXX suggesting prior histoplasmosis infection. The pleural spaces are clear.
+
+IMPRESSION:
+1. Stable tortuosity of the thoracic aorta. The presence of an underlying aneurysm cannot be excluded. 2. Clear lungs
+
+PROBLEMS:
+Aorta, Thoracic;Calcinosis;Calcinosis
+
+MESH:
+Aorta, Thoracic/tortuous;Calcinosis/lung/hilum/lymph nodes;Calcinosis/mediastinum/lymph nodes

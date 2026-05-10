@@ -1,0 +1,16 @@
+UID: 3550
+
+INDICATION:
+XXXX-year-old female, abdominal pain
+
+FINDINGS:
+Normal heart size. Prominent contour of the ascending aorta, consistent with ectasia. Normal mediastinal contours. No focal airspace consolidation. No pleural effusion or pneumothorax. Minimal degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Aorta;Thoracic Vertebrae
+
+MESH:
+Aorta/tortuous/prominent;Thoracic Vertebrae/degenerative/mild

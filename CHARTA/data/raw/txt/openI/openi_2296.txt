@@ -1,0 +1,16 @@
+UID: 2379
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+Cardiomediastinal silhouette is within normal limits of size and appearance. Lungs are hyperlucent and hyperexpanded. Negative for focal airspace disease or consolidation. Negative for pneumothorax or pleural effusion. Limited evaluation reveals no acute abnormality.
+
+IMPRESSION:
+Stable chronic lung changes without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung, Hyperlucent;Lung;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Lung, Hyperlucent;Lung/hyperdistention;Technical Quality of Image Unsatisfactory

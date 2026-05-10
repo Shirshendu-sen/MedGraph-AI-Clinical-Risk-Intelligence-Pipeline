@@ -1,0 +1,16 @@
+UID: 286
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Lungs are clear. There is no pneumothorax or pleural effusion. Calcified left suprahilar XXXX. The heart and mediastinum are within normal limits. Bony structures are intact.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/lung/hilum/left

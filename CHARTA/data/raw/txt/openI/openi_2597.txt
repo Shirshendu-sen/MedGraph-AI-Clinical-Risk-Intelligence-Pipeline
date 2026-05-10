@@ -1,0 +1,16 @@
+UID: 2695
+
+INDICATION:
+Preop hernia repair.
+
+FINDINGS:
+The cardiac contours are normal. The lungs are hyperinflated with flattened diaphragms. No acute pulmonary findings. Thoracic spondylosis.
+
+IMPRESSION:
+No acute process.
+
+PROBLEMS:
+Lung;Diaphragm;Spondylosis
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened;Spondylosis/thoracic vertebrae

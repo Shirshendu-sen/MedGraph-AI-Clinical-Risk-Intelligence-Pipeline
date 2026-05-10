@@ -1,0 +1,16 @@
+UID: 2145
+
+INDICATION:
+headache.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal. The lungs are clear. There is no pneumothorax or pneumomediastinum. Visualized bony structures are normal.
+
+IMPRESSION:
+Normal chest x-XXXX.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

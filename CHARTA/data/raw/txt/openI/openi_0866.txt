@@ -1,0 +1,16 @@
+UID: 897
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+There are patchy alveolar and interstitial opacities within the lung bases bilaterally representing an infectious etiology versus chronic lung disease. There is no evidence of pneumothorax or large pleural effusion. The cardiac silhouette is enlarged. There are atherosclerotic calcifications of the aortic XXXX. There are degenerative changes throughout the thoracic spine.
+
+IMPRESSION:
+Patchy alveolar and interstitial opacities within the lung bases bilaterally representing an infectious etiology versus chronic lung disease.
+
+PROBLEMS:
+Opacity;Opacity;Cardiac Shadow;Atherosclerosis;Thoracic Vertebrae
+
+MESH:
+Opacity/lung/base/bilateral/interstitial/patchy;Opacity/lung/base/pulmonary alveoli/bilateral/patchy;Cardiac Shadow/enlarged;Atherosclerosis/aorta;Thoracic Vertebrae/degenerative

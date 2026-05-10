@@ -1,0 +1,16 @@
+UID: 3456
+
+INDICATION:
+XXXX-year-old female. Chest pain and shortness of breath for one year. Left arm pain.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Low lung volumes without focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.
+
+IMPRESSION:
+Low lung volumes, otherwise clear.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

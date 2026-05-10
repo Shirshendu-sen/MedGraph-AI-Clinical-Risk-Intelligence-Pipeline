@@ -1,0 +1,16 @@
+UID: 736
+
+INDICATION:
+PAIN;
+
+FINDINGS:
+None
+
+IMPRESSION:
+Prominent hiatal hernia. Left basilar opacity compatible pleural effusion and atelectasis. XXXX right pleural effusion. No pulmonary edema / overt CHF identified. Stable senescent mediastinal contour.
+
+PROBLEMS:
+Hernia, Hiatal;Opacity;Pleural Effusion;Pulmonary Atelectasis;Pleural Effusion
+
+MESH:
+Hernia, Hiatal/prominent;Opacity/lung/base/left;Pleural Effusion/base/left;Pulmonary Atelectasis/base/left;Pleural Effusion/right

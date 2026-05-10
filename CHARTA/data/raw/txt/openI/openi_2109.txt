@@ -1,0 +1,16 @@
+UID: 2188
+
+INDICATION:
+,486 XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Prominent hiatal hernia as before. Anticipated senescent changes of mediastinum. Opacity seen XXXX on lateral XXXX XXXX involving both right middle lobe and lingula compatible with some bronchiectasis and chronic inflammatory change. There may be some chronic indolent infection here associated with some chronic consolidation. Perhaps some slight progression, but overall XXXX change since prior examination. On lateral view, the posterior lung bases are grossly clear. No effusions or CHF.
+
+PROBLEMS:
+Hernia, Hiatal;Opacity;Opacity;Bronchiectasis
+
+MESH:
+Hernia, Hiatal/prominent;Opacity/lung/middle lobe/right;Opacity/lung/lingula;Bronchiectasis

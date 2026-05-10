@@ -1,0 +1,16 @@
+UID: 1844
+
+INDICATION:
+Syncope
+
+FINDINGS:
+Normal cardiomediastinal contours. Hyperexpansion of the lungs with flattening of the diaphragm. No focal lung consolidation, pneumothorax or pleural effusions.
+
+IMPRESSION:
+No cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Diaphragm
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened

@@ -1,0 +1,16 @@
+UID: 3467
+
+INDICATION:
+None
+
+FINDINGS:
+The lungs are clear. The heart and pulmonary XXXX are normal. Pleural spaces are clear. The mediastinal contours are normal. There is calcification of the thoracic aorta.
+
+IMPRESSION:
+No acute cardiopulmonary disease. No evidence of pneumonia.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/aorta, thoracic

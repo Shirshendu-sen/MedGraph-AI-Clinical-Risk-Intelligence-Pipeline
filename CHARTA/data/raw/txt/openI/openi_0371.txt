@@ -1,0 +1,16 @@
+UID: 385
+
+INDICATION:
+cp
+
+FINDINGS:
+None
+
+IMPRESSION:
+Comparison XXXX, XXXX Clear lungs. No effusions. Unremarkable mediastinal contour. No acute cardiopulmonary abnormality identified.. Stable chest.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

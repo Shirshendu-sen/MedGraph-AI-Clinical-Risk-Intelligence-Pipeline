@@ -1,0 +1,16 @@
+UID: 3022
+
+INDICATION:
+XXXX and XXXX. History of chemotherapy. XXXX with XXXX.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Multiple cavitary bilateral pulmonary masses and nodules. These are XXXX and increased from prior radiograph of XXXX , but were seen XXXX chest XXXX, with largest in the left base measuring approximately 3.3 x 6.1 cm. No pleural effusion, no pneumothorax. Heart size is normal.
+
+PROBLEMS:
+Cavitation;Mass;Nodule
+
+MESH:
+Cavitation/lung/bilateral/multiple;Mass/lung/bilateral/multiple;Nodule/lung/bilateral/multiple

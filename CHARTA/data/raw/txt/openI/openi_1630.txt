@@ -1,0 +1,16 @@
+UID: 1685
+
+INDICATION:
+XXXX-year-old male, XXXX
+
+FINDINGS:
+Hyperinflated lungs with mildly flattened posterior diaphragm. No focal alveolar consolidation, no definite pleural effusion seen. Heart size within normal limits, no typical findings of pulmonary edema.
+
+IMPRESSION:
+Hyperinflated lungs, air trapping versus inspiratory XXXX.
+
+PROBLEMS:
+Lung;Diaphragm
+
+MESH:
+Lung/hyperdistention;Diaphragm/posterior/flattened/mild

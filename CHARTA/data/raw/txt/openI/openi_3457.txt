@@ -1,0 +1,16 @@
+UID: 3597
+
+INDICATION:
+XXXX-year-old female, bone marrow transplant workup.
+
+FINDINGS:
+Left XXXX XXXX noted with tip approximating the high SVC, stable. No pleural effusions. No pneumothorax. Heart size is normal limits. Degenerative changes thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Catheters, Indwelling;Thoracic Vertebrae
+
+MESH:
+Catheters, Indwelling/left;Thoracic Vertebrae/degenerative

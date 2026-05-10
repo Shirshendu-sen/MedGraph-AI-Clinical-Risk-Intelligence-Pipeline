@@ -1,0 +1,16 @@
+UID: 3870
+
+INDICATION:
+Hypoxia;
+
+FINDINGS:
+None
+
+IMPRESSION:
+1. Worsening bilateral lower lobe opacities which are most XXXX due to enlarging bilateral pleural effusions. Superimposed lower lobe airspace abnormalities are possible. Negative for pneumothorax. 2. Normal heart size and pulmonary vascularity. 3. Left upper extremity PICC terminates in the lower SVC. .
+
+PROBLEMS:
+Opacity;Pleural Effusion;Catheters, Indwelling
+
+MESH:
+Opacity/lung/lower lobe/bilateral;Pleural Effusion/bilateral;Catheters, Indwelling/left

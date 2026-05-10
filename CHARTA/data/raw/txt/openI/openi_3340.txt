@@ -1,0 +1,16 @@
+UID: 3477
+
+INDICATION:
++PPD
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are clear. No evidence of active tuberculosis.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

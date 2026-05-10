@@ -1,0 +1,16 @@
+UID: 2436
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear. No effusions, pneumonia, or edema
+
+PROBLEMS:
+normal
+
+MESH:
+normal

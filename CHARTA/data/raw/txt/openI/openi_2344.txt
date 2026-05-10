@@ -1,0 +1,16 @@
+UID: 2428
+
+INDICATION:
+XXXX-year-old male, pain
+
+FINDINGS:
+Lungs mildly hyperinflated with flattened posterior diaphragm and increased retrosternal airspace. No focal alveolar consolidation, no definite pleural effusion seen. Left hilar calcifications and dense left lower lobe nodules suggest a previous granulomatous process. Overall heart size within normal limits with prominent right atrial convexity, no typical findings of pulmonary edema. No pneumothorax.
+
+IMPRESSION:
+1. Hyperinflated lungs, air trapping versus inspiratory XXXX. 2. Question mild right atrial enlargement, no findings to suggest pulmonary edema.
+
+PROBLEMS:
+Lung;Diaphragm;Calcinosis;Nodule;Density;Heart Atria
+
+MESH:
+Lung/hyperdistention/mild;Diaphragm/posterior/flattened;Calcinosis/lung/hilum/left;Nodule/lung/lower lobe/left/multiple;Density/lung/lower lobe/left/round/multiple;Heart Atria/right/prominent

@@ -1,0 +1,16 @@
+UID: 2337
+
+INDICATION:
+Chest pain and hypertension
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Stable paratracheal soft tissue density dating back to exams in XXXX, XXXX confluence of vascular shadows. Lungs are hyperexpanded. Heart size and pulmonary vascularity within normal limits.
+
+IMPRESSION:
+1. No acute pulmonary abnormality.
+
+PROBLEMS:
+Density;Lung
+
+MESH:
+Density/paratracheal;Lung/hyperdistention

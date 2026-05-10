@@ -1,0 +1,16 @@
+UID: 469
+
+INDICATION:
+XXXX-year-old with dyspnea.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal airspace opacity to suggest a pneumonia. There are scoliotic changes of the thoracolumbar spine. There degenerative changes of the spine.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Scoliosis;Scoliosis;Spine
+
+MESH:
+Scoliosis/lumbar vertebrae;Scoliosis/thoracic vertebrae;Spine/degenerative

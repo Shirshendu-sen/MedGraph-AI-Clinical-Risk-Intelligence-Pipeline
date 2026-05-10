@@ -1,0 +1,16 @@
+UID: 1708
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for appearance. No focal areas of pulmonary consolidation. Calcified lymph XXXX are identified in the left infrahilar region. No pneumothorax. No pleural effusion. No acute, displaced rib fractures identified.
+
+IMPRESSION:
+1. No acute intrathoracic abnormality.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/left

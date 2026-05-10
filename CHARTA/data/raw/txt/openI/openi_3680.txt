@@ -1,0 +1,16 @@
+UID: 3825
+
+INDICATION:
+XXXX for XXXX in chest
+
+FINDINGS:
+None
+
+IMPRESSION:
+Lower cervical and upper thoracic XXXX spinal fixation XXXX. Multiple sternotomy XXXX. Bilateral calcified granulomas and degenerative change in the spine. The lungs appear clear.
+
+PROBLEMS:
+Spinal Fusion;Spinal Fusion;Calcified Granuloma;Spine
+
+MESH:
+Spinal Fusion/cervical vertebrae;Spinal Fusion/thoracic vertebrae;Calcified Granuloma/lung/bilateral/multiple;Spine/degenerative

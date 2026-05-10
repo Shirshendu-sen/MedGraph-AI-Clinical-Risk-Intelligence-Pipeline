@@ -1,0 +1,16 @@
+UID: 1143
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+There is XXXX peribronchial cuffing noted on the lateral view with fullness in the perihilar regions, more conspicuous than on the prior study. These can be manifestations of reactive airways disease. There is no lobar pneumonia. Lungs are mildly hyperinflated.
+
+PROBLEMS:
+Thickening;Lung;Lung
+
+MESH:
+Thickening/bronchovascular;Lung/hyperdistention/mild;Lung/hilum/enlarged

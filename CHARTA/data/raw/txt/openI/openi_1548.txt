@@ -1,0 +1,16 @@
+UID: 1600
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The lungs are clear. There is no focal airspace consolidation.  No pleural effusion or pneumothorax. Heart size is at the upper limits of  normal. Thoracic aorta is mildly ectatic, stable. Old right clavicular fracture is again noted.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+Fractures, Bone;Aorta, Thoracic
+
+MESH:
+Fractures, Bone/clavicle/right/healed;Aorta, Thoracic/tortuous/mild

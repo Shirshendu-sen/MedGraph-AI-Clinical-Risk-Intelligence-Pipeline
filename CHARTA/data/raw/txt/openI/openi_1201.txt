@@ -1,0 +1,16 @@
+UID: 1244
+
+INDICATION:
+XXXX-year-old XXXX with productive XXXX
+
+FINDINGS:
+Redemonstration of colonic interposition overlying the mediastinum. There are increased bibasilar airspace opacities, left greater than right. No pneumothorax or large pleural effusion.
+
+IMPRESSION:
+1. Bibasilar airspace disease left greater than right. 2. Stable postsurgical changes with colonic interposition overlying the mediastinum.
+
+PROBLEMS:
+Opacity;Colonic Interposition;Airspace Disease
+
+MESH:
+Opacity/lung/base/bilateral;Colonic Interposition/mediastinum;Airspace Disease/lung/base/bilateral

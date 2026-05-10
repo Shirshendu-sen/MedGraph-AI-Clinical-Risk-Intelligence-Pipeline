@@ -1,0 +1,16 @@
+UID: 2919
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+The heart is significantly enlarged. Prominent pulmonary vascularity. No focal airspace consolidation, suspicious pulmonary opacity, or definite pleural effusion. No pneumothorax. Visualized osseous structures appear intact.
+
+IMPRESSION:
+Cardiomegaly with central pulmonary vascular congestion. No XXXX edema.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion
+
+MESH:
+Cardiomegaly/severe;Pulmonary Congestion

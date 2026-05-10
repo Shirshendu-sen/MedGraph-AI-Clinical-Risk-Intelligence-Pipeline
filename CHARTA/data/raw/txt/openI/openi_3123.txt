@@ -1,0 +1,16 @@
+UID: 3250
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Lungs are relatively clear. Heart size normal. Unfolded aorta. Moderate hiatal hernia. T-spine osteophytes and DISH.
+
+IMPRESSION:
+Moderate hiatal hernia. No definite pneumonia.
+
+PROBLEMS:
+Aorta;Hernia, Hiatal;Osteophyte;Hyperostosis, Diffuse Idiopathic Skeletal
+
+MESH:
+Aorta/tortuous;Hernia, Hiatal/moderate;Osteophyte/thoracic vertebrae/multiple;Hyperostosis, Diffuse Idiopathic Skeletal

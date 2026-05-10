@@ -1,0 +1,16 @@
+UID: 2613
+
+INDICATION:
+XXXX, XXXX LOSS
+
+FINDINGS:
+None
+
+IMPRESSION:
+Lungs appear slightly hyperinflated, suggestive of emphysema. No acute airspace abnormality seen. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention/mild

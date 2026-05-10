@@ -1,0 +1,16 @@
+UID: 3014
+
+INDICATION:
+History of lung cancer with metastasis to brain. Preoperative evaluation for cyst drainage.
+
+FINDINGS:
+There is distortion of the right hilum which may be postsurgical versus neoplastic. Volume loss of the right hand side. There is no evidence of focal infiltrate. No pneumothorax. No pleural effusion. Normal heart size.
+
+IMPRESSION:
+Question prior right upper lobe resection, no acute abnormality.
+
+PROBLEMS:
+Deformity;Volume Loss
+
+MESH:
+Deformity/lung/hilum/right;Volume Loss/thorax/right

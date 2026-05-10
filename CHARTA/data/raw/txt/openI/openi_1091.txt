@@ -1,0 +1,16 @@
+UID: 1126
+
+INDICATION:
+XXXX-year-old male with productive XXXX and congestion presents for evaluation.
+
+FINDINGS:
+XXXX sternotomy XXXX and mediastinal surgical clips remain in XXXX. The cardiomediastinal silhouette is stable in appearance. The thoracic aorta is tortuous and calcified with stable appearance since XXXX exam. No focal areas of pulmonary consolidation. Scattered right basilar subsegmental atelectasis. The left lung appears clear. No pneumothorax or pleural effusion present. Moderate degenerative changes of the thoracic spine. Osteopenia. Mild loss of XXXX of a mid thoracic vertebral body.
+
+IMPRESSION:
+1. Minimal right basilar subsegmental atelectasis. Otherwise, no acute cardiopulmonary abnormality demonstrated. .
+
+PROBLEMS:
+Surgical Instruments;Calcinosis;Aorta, Thoracic;Pulmonary Atelectasis;Thoracic Vertebrae;Bone Diseases, Metabolic
+
+MESH:
+Surgical Instruments/mediastinum;Calcinosis/aorta, thoracic;Aorta, Thoracic/tortuous;Pulmonary Atelectasis/base/right/scattered/mild;Thoracic Vertebrae/degenerative/moderate;Bone Diseases, Metabolic

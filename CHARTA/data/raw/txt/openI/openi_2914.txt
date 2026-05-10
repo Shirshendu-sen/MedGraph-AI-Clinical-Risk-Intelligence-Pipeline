@@ -1,0 +1,16 @@
+UID: 3038
+
+INDICATION:
+XXXX-year-old status post MVA.
+
+FINDINGS:
+The heart and mediastinum are unremarkable. There is a calcified granuloma within the left upper lobe. The lungs are clear without infiltrate. There is no effusion or pneumothorax. There are acute mild anterior XXXX deformities identified at L1-L2. There is retropulsion of the posterior vertebral body of L1. A CT of the lumbar spine was already ordered at the time of this dictation.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease. 2. Acute anterior XXXX deformities at L1-L2. Please see CT of the lumbar spine for further details.
+
+PROBLEMS:
+Calcified Granuloma;Deformity
+
+MESH:
+Calcified Granuloma/lung/upper lobe/left;Deformity/lumbar vertebrae/anterior/multiple/acute/mild

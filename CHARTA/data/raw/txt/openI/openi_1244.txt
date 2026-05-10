@@ -1,0 +1,16 @@
+UID: 1289
+
+INDICATION:
+Pt has recent pancreatitis now with XXXX
+
+FINDINGS:
+One XXXX are low. Both costophrenic XXXX are blunted. Pulmonary XXXX are normal. No visible infiltrates in the aerated lungs.
+
+IMPRESSION:
+Bilateral large pleural effusion, possibly from pleuritis or sympathetic from the known pancreatitis.
+
+PROBLEMS:
+Costophrenic Angle;Pleural Effusion
+
+MESH:
+Costophrenic Angle/bilateral/blunted;Pleural Effusion/bilateral/large

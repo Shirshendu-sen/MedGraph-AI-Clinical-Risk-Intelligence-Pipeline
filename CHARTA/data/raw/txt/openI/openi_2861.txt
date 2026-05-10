@@ -1,0 +1,16 @@
+UID: 2981
+
+INDICATION:
+XXXX-year-old female, preop
+
+FINDINGS:
+Normal heart size and mediastinal contours. No focal airspace consolidation. No pneumothorax or pleural effusion. Mild dextro curvature of the lower thoracic spine, this may be positional. Visualized bony structures are otherwise unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Scoliosis
+
+MESH:
+Scoliosis/thoracic vertebrae/right/mild

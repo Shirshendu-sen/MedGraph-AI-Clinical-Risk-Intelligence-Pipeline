@@ -1,0 +1,16 @@
+UID: 2465
+
+INDICATION:
+Hypertension
+
+FINDINGS:
+Heart size is mildly enlarged but stable.. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. Osseous structures are within normal limits for patient age..
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/mild

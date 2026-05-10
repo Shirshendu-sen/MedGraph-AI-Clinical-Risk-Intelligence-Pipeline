@@ -1,0 +1,16 @@
+UID: 2370
+
+INDICATION:
+XXXX
+
+FINDINGS:
+In the interval, consolidation and atelectasis have developed in the right lower lobe. Costophrenic XXXX blunted on the right. Left lung clear. Heart size normal.
+
+IMPRESSION:
+Left lower lobe airspace disease consistent with pneumonia. Associated right pleural effusion.
+
+PROBLEMS:
+Consolidation;Pulmonary Atelectasis;Costophrenic Angle;Airspace Disease;Pneumonia;Pleural Effusion
+
+MESH:
+Consolidation/lung/lower lobe/right;Pulmonary Atelectasis/lower lobe/right;Costophrenic Angle/right/blunted;Airspace Disease/lung/lower lobe/left;Pneumonia/lower lobe/left;Pleural Effusion/right

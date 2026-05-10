@@ -1,0 +1,16 @@
+UID: 3585
+
+INDICATION:
+PAIN
+
+FINDINGS:
+None
+
+IMPRESSION:
+No active cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

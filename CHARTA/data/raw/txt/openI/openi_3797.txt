@@ -1,0 +1,16 @@
+UID: 3945
+
+INDICATION:
+Reevaluate pneumothorax. Stab wound.
+
+FINDINGS:
+There is increased size of left pneumothorax, with XXXX partial collapse of the left upper and lower lobes. This pneumothorax measures up to 3.5 cm in maximum width at the apex. There is no significant mediastinal shift. The right lung remains clear. Cardiomediastinal silhouette is within normal limits. There is a small left pleural effusion/hemothorax. No focal air space opacities. No free subdiaphragmatic air.
+
+IMPRESSION:
+1. Increased size of left pneumothorax, with XXXX partial collapse of the left upper and lower lobes. 2. Small left pleural effusion/hemothorax.
+
+PROBLEMS:
+Pneumothorax;Pulmonary Atelectasis;Pulmonary Atelectasis;Pleural Effusion;Hemothorax
+
+MESH:
+Pneumothorax/left;Pulmonary Atelectasis/lower lobe/left;Pulmonary Atelectasis/upper lobe/left;Pleural Effusion/left/small;Hemothorax/left/small

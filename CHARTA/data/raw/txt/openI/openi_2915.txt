@@ -1,0 +1,16 @@
+UID: 3039
+
+INDICATION:
+XXXX vehicle accident. Mid chest pain from airbag.
+
+FINDINGS:
+Normal heart size. Clear lungs. No pneumothorax or large pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 1743
+
+INDICATION:
+XXXX-year-old female, dyspnea
+
+FINDINGS:
+Considering differences in technical factors XXXX stable cardiomegaly and stable mediastinal contours. No focal alveolar consolidation, no definite pleural effusion seen. Bronchovascular crowding without typical findings of pulmonary edema.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Cardiomegaly;Markings;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Cardiomegaly;Markings/bronchovascular;Technical Quality of Image Unsatisfactory

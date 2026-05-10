@@ -1,0 +1,16 @@
+UID: 647
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+There is mild blunting of the costophrenic XXXX. There is right basilar airspace disease. There is no pneumothorax. The cardiac mediastinal silhouettes are normal. Pulmonary XXXX are slightly prominent. Calcified hilar lymph XXXX. No acute bony abnormalities.
+
+IMPRESSION:
+Right basilar infiltrate or atelectasis, and XXXX bilateral pleural effusions.
+
+PROBLEMS:
+Costophrenic Angle;Airspace Disease;Calcinosis;Infiltrate;Pulmonary Atelectasis;Pleural Effusion
+
+MESH:
+Costophrenic Angle/blunted/mild;Airspace Disease/lung/base/right;Calcinosis/lung/hilum/lymph nodes;Infiltrate/lung/base/right;Pulmonary Atelectasis/base/right;Pleural Effusion/bilateral

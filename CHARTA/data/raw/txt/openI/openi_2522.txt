@@ -1,0 +1,16 @@
+UID: 2616
+
+INDICATION:
+History of XXXX. Increasing right lower extremity pain.
+
+FINDINGS:
+Frontal and lateral views of the chest show normal size and configuration of the cardiac silhouette. The right costophrenic sulcus is blunted. There is an the right base XXXX/fluid level. The left lung is clear.
+
+IMPRESSION:
+1. Right-sided small pleural effusion. 2. Right base XXXX/fluid level. Atypical location for a hiatal hernia. Cannot exclude a right lower lobe cavity. Correlation XXXX scan recommended. Does not appear to be a hydropneumothorax or empyema.
+
+PROBLEMS:
+Costophrenic Angle;Pleural Effusion;Hernia, Hiatal
+
+MESH:
+Costophrenic Angle/sulcus/right/blunted;Pleural Effusion/right/small;Hernia, Hiatal

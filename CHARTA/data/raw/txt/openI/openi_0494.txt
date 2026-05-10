@@ -1,0 +1,16 @@
+UID: 509
+
+INDICATION:
+XXXX-year-old female, cirrhosis.
+
+FINDINGS:
+Two left-sided chest tubes again noted. Interval improved aeration of the left lung compared to prior. Interval improvement in left lung pleural fluid. Right lung clear. Endotracheal tube noted with tip approximately 4.5 cm above the carina. Left internal jugular central venous catheter with tip approximating the high SVC. No evidence of pneumothorax.
+
+IMPRESSION:
+Interval improvement in aeration of left lung with interval reduction in size of left pleural effusion. Persistent patchy left lung airspace disease is noted. Stable left-sided chest tubes. .
+
+PROBLEMS:
+Tube, Inserted;Pleural Effusion;Tube, Inserted;Catheters, Indwelling;Airspace Disease
+
+MESH:
+Tube, Inserted/thorax/left;Pleural Effusion/left;Tube, Inserted/trachea, carina;Catheters, Indwelling;Airspace Disease/lung/left/patchy

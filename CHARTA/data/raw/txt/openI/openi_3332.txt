@@ -1,0 +1,16 @@
+UID: 3468
+
+INDICATION:
+XXXX-year-old male, preoperative evaluation for heart valve repair.
+
+FINDINGS:
+Heart size is at the upper limits of normal. There is aortic atherosclerotic vascular calcification. The lungs remain hyperexpanded. There are biapical opacities, stable from the prior study. No XXXX focal airspace consolidation. No significant pleural effusion. No pneumothorax. There are mild degenerative changes of the spine.
+
+IMPRESSION:
+1. No focal airspace consolidation. 2. Emphysema. 3. Stable biapical opacities, possibly scarring.
+
+PROBLEMS:
+Atherosclerosis;Lung;Opacity;Spine;Emphysema
+
+MESH:
+Atherosclerosis/aorta;Lung/hyperdistention;Opacity/lung/apex/bilateral;Spine/degenerative/mild;Emphysema

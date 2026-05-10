@@ -1,0 +1,16 @@
+UID: 1554
+
+INDICATION:
+XXXX, XXXX
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are clear. Multilevel degenerative changes of the thoracic spine are noted.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/multiple

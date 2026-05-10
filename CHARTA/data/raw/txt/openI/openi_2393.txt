@@ -1,0 +1,16 @@
+UID: 2479
+
+INDICATION:
+Dyspnea, history of prostate cancer. XXXX, shortness of breath, nausea. Patient on chemotherapy
+
+FINDINGS:
+There is a right-sided chest XXXX identified whose distal tip projects over the SVC. Heart size is normal. Low lung volumes with elevated right hemidiaphragm. The lungs are grossly clear. No focal infiltrate. No pleural effusion or pneumothorax. Normal pulmonary vascularity. Normal mediastinal and hilar contours. Degenerative changes of the spine.
+
+IMPRESSION:
+Low lung volumes. No acute abnormality
+
+PROBLEMS:
+Catheters, Indwelling;Lung;Diaphragm;Spine
+
+MESH:
+Catheters, Indwelling/right;Lung/hypoinflation;Diaphragm/right/elevated;Spine/degenerative

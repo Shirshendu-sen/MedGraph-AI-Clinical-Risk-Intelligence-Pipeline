@@ -1,0 +1,16 @@
+UID: 699
+
+INDICATION:
+XXXX-year-old male, chest pain
+
+FINDINGS:
+Stable enlargement of the cardiac silhouette, stable mediastinal contours. Increased interstitial markings in the central lungs and bases, right greater than left. XXXX opacity on the lateral view over the heart also present on the previous exam suggesting chronic subsegmental atelectasis or scarring. No definite pleural effusion seen.
+
+IMPRESSION:
+Cardiomegaly and increased interstitial opacities which may be compatible with mild pulmonary edema, differential diagnosis includes infection, inflammation, aspiration
+
+PROBLEMS:
+Cardiomegaly;Cardiac Shadow;Opacity;Markings;Markings
+
+MESH:
+Cardiomegaly;Cardiac Shadow/enlarged;Opacity/lung/interstitial;Markings/lung/base/bilateral/interstitial;Markings/lung/middle lobe/bilateral/interstitial

@@ -1,0 +1,16 @@
+UID: 188
+
+INDICATION:
+Status post right thoracentesis
+
+FINDINGS:
+None
+
+IMPRESSION:
+1. No residual right pleural effusion identified status post thoracentesis. No pneumothorax. 2. Mediastinum, cardiac size grossly stable. 3. Small to moderate left-sided pleural effusion, increased XXXX compared to prior chest radiograph. Left lung base atelectasis/airspace disease.
+
+PROBLEMS:
+Pleural Effusion;Pulmonary Atelectasis;Airspace Disease
+
+MESH:
+Pleural Effusion/left/moderate;Pulmonary Atelectasis/base/left;Airspace Disease/lung/base/left

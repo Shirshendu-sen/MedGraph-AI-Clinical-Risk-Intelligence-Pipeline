@@ -1,0 +1,16 @@
+UID: 2548
+
+INDICATION:
+XXXX PLEURAL EFFUSION SEEN ON XXXX;
+
+FINDINGS:
+None
+
+IMPRESSION:
+1. Low lung volumes 2. Patchy and streaky bibasilar atelectasis or scarring, unchanged from prior study 3. Blunting of the costophrenic XXXX suggestive of small pleural effusions. This is seen XXXX in the posterior costophrenic recesses 4. Esophagogastric to the in XXXX, the distal tip coursing inferiorly into the stomach and not included on the study. Previously noted esophagogastric flexion catheter has been removed 5. Previously noted left-sided PICC line has been removed.
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis;Cicatrix;Costophrenic Angle
+
+MESH:
+Lung/hypoinflation;Pulmonary Atelectasis/base/bilateral/patchy/streaky;Cicatrix/lung/base/bilateral/patchy/streaky;Costophrenic Angle/bilateral/posterior/blunted

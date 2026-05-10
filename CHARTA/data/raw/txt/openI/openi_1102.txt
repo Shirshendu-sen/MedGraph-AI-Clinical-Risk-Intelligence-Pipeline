@@ -1,0 +1,16 @@
+UID: 1139
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+Cardiomegaly. Mediastinal contours are normal limits. Increased interstitial opacities. No pneumothorax or large pleural effusion. No acute osseous abnormality.
+
+IMPRESSION:
+Cardiomegaly and increased interstitial opacities XXXX represent interstitial edema.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Pulmonary Edema
+
+MESH:
+Cardiomegaly;Opacity/lung/interstitial;Pulmonary Edema/interstitial

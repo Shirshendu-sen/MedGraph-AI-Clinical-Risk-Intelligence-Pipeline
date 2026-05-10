@@ -1,0 +1,16 @@
+UID: 2526
+
+INDICATION:
+Transplant evaluation; No chest complaints; Nonsmoker; No previous surgery; Shielded.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Normal heart size. Normal pulmonary vasculature. Normal mediastinal contours. Lung parenchyma is clear. No airspace disease. No pulmonary edema. No XXXX of pleural effusions. No XXXX of active cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

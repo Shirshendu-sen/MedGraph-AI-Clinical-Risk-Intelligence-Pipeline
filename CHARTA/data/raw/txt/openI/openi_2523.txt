@@ -1,0 +1,16 @@
+UID: 2617
+
+INDICATION:
+Dyspnea.
+
+FINDINGS:
+The heart is normal in size and contour. There is no mediastinal widening. The lungs are hyperexpanded. No focal airspace disease. No large pleural effusion or pneumothorax. Exaggerated kyphosis.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Lung;Kyphosis
+
+MESH:
+Lung/hyperdistention;Kyphosis/severe

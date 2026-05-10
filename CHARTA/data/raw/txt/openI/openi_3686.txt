@@ -1,0 +1,16 @@
+UID: 3831
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Clear lungs. No infiltrates or suspicious pulmonary opacity. No pleural effusion or pneumothorax. Cardiomediastinal silhouette within normal limits.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

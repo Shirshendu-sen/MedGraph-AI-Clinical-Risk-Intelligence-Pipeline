@@ -1,0 +1,16 @@
+UID: 2664
+
+INDICATION:
+XXXX-year-old female, chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable cardiomediastinal silhouette with normal heart size. XXXX mild streaky opacities in the left base, atelectasis versus infiltrate. No definite pleural effusion seen. No typical findings of pulmonary edema.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Infiltrate
+
+MESH:
+Opacity/lung/base/left/streaky/mild;Pulmonary Atelectasis/base/left;Infiltrate/lung/base/left

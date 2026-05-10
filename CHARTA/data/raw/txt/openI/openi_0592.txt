@@ -1,0 +1,16 @@
+UID: 610
+
+INDICATION:
+XXXX-year-old with elevated INR and nosebleeds. Irregular heartbeat. Shortness of breath.
+
+FINDINGS:
+None
+
+IMPRESSION:
+No focal lung consolidation. No pneumothorax or large pleural effusion. There is marked cardiomegaly. Aortic calcifications consistent with atherosclerotic disease. Degenerative changes of the thoracic spine and right shoulder.
+
+PROBLEMS:
+Cardiomegaly;Atherosclerosis;Thoracic Vertebrae;Shoulder
+
+MESH:
+Cardiomegaly/severe;Atherosclerosis/aorta;Thoracic Vertebrae/degenerative;Shoulder/right/degenerative

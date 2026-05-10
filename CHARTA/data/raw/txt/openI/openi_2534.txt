@@ -1,0 +1,16 @@
+UID: 2628
+
+INDICATION:
+XXXX to inside of cheek, shortness of breath.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. Lungs are mildly hypoinflated with minimal streaky atelectasis or scar in the lung bases. Lungs are otherwise grossly clear of focal airspace disease. There is a stable calcified granuloma in the posterior left midlung. There is no pneumothorax or pleural effusion. There are no acute bony findings.
+
+IMPRESSION:
+Mildly low lung volumes with XXXX atelectasis or scarring in the lung bases.
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis;Cicatrix;Calcified Granuloma
+
+MESH:
+Lung/hypoinflation/mild;Pulmonary Atelectasis/base/bilateral/streaky/mild;Cicatrix/lung/base/bilateral;Calcified Granuloma/lung/lingula/posterior

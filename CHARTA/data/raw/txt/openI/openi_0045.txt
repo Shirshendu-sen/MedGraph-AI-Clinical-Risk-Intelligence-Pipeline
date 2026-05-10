@@ -1,0 +1,16 @@
+UID: 46
+
+INDICATION:
+V76.12 SCREENING MAMMOGRAM XXXX,no hx ca or implants,466.0 ACUTE BRONCHITIS
+
+FINDINGS:
+None
+
+IMPRESSION:
+No comparison chest x-XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 2636
+
+INDICATION:
+XXXX-year-old male with dyspnea.
+
+FINDINGS:
+XXXX sternotomy XXXX remain in XXXX. The cardiomediastinal silhouette is within normal limits for appearance. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. Minimal degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. No acute intrathoracic abnormality.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

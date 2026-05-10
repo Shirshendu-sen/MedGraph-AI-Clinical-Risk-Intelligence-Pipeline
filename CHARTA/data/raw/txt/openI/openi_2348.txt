@@ -1,0 +1,16 @@
+UID: 2433
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Low lung volumes with bibasilar subsegmental atelectasis. No focal consolidations, pleural effusions, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. Degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis;Thoracic Vertebrae
+
+MESH:
+Lung/hypoinflation;Pulmonary Atelectasis/base/bilateral;Thoracic Vertebrae/degenerative

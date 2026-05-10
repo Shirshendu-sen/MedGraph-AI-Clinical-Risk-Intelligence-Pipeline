@@ -1,0 +1,16 @@
+UID: 847
+
+INDICATION:
+SOB
+
+FINDINGS:
+The trachea is midline. The heart XXXX is slightly large. There are low lung volumes causing bronchovascular crowding. Otherwise the lungs appear clear, without evidence of acute infiltrate or effusion. There is no pneumothorax. Visualized bony structures reveal no acute abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Cardiomegaly;Lung;Markings
+
+MESH:
+Cardiomegaly/mild;Lung/hypoinflation;Markings/bronchovascular

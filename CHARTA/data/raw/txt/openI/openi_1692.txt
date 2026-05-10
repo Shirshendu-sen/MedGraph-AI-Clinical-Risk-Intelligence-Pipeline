@@ -1,0 +1,16 @@
+UID: 1750
+
+INDICATION:
+XXXX-year-old female with chest pain
+
+FINDINGS:
+The heart size is within normal limits. After cirrhotic calcification of the thoracic aorta. Hyperexpanded lungs with flattened diaphragms and increased retrosternal clear space suggestive of emphysema. Streaky left basilar opacities are favored to represent scarring. No pleural effusions or pneumothorax. Exaggerated thoracic kyphosis. Scattered calcified granulomas bilaterally. No acute bony abnormalities.
+
+IMPRESSION:
+1. No acute cardiopulmonary findings. 2. Chronic changes of emphysema and left basilar scarring.
+
+PROBLEMS:
+Calcinosis;Lung;Diaphragm;Opacity;Cicatrix;Kyphosis;Calcified Granuloma;Emphysema
+
+MESH:
+Calcinosis/aorta, thoracic;Lung/hyperdistention;Diaphragm/bilateral/flattened;Opacity/lung/base/left/streaky;Cicatrix/lung/base/left;Kyphosis/thoracic vertebrae/severe;Calcified Granuloma/lung/bilateral/scattered;Emphysema/chronic

@@ -1,0 +1,16 @@
+UID: 2466
+
+INDICATION:
+XXXX-year-old with history of testicular cancer, evaluate for recurrence.
+
+FINDINGS:
+Cardiomediastinal silhouettes are within normal limits. Lungs are clear without focal consolidation, pneumothorax, or pleural effusion. Bony thorax is unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

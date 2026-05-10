@@ -1,0 +1,16 @@
+UID: 1283
+
+INDICATION:
+XXXX-year-old with osteoarthritis of the left hip scheduled for total hip replacement. Preop for surgical XXXX for the hip replacement.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There are calcified granulomas noted. There are vascular calcifications over the aortic XXXX.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Calcified Granuloma;Calcinosis
+
+MESH:
+Calcified Granuloma/multiple;Calcinosis/aorta

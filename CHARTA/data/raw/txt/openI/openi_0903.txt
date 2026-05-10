@@ -1,0 +1,16 @@
+UID: 936
+
+INDICATION:
+EVALUATE FOR METASTATIC DISEASE; Surgery sched for XXXX. No chest complaints.
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

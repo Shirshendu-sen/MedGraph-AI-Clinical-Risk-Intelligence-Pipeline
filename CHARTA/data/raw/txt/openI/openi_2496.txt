@@ -1,0 +1,16 @@
+UID: 2587
+
+INDICATION:
+XXXX and cardiomyopathy
+
+FINDINGS:
+Right chest XXXX tip low SVC. Cardiac and mediastinal contours are within normal limits. The lungs are clear. Prosthetic right humeral head. Prior lower cervical spine surgery. XXXX deformity at the thoracolumbar junction with an acute kyphosis.
+
+IMPRESSION:
+No acute pulmonary findings.
+
+PROBLEMS:
+Catheters, Indwelling;Implanted Medical Device;Deformity;Deformity;Kyphosis;Kyphosis
+
+MESH:
+Catheters, Indwelling/right;Implanted Medical Device/humerus/right;Deformity/thoracic vertebrae;Deformity/lumbar vertebrae;Kyphosis/thoracic vertebrae;Kyphosis/lumbar vertebrae

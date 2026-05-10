@@ -1,0 +1,16 @@
+UID: 329
+
+INDICATION:
+COPD, asthma, cancer
+
+FINDINGS:
+Stable borderline enlarged cardiac contour. Calcified mediastinal lymph XXXX. Prominent right paratracheal stripe. Emphysema. No active pulmonary disease. Mild spondylosis.
+
+IMPRESSION:
+Stable appearance of the chest, see above.
+
+PROBLEMS:
+Cardiac Shadow;Calcinosis;Markings;Emphysema;Spondylosis
+
+MESH:
+Cardiac Shadow/enlarged/borderline;Calcinosis/mediastinum/lymph nodes;Markings/right/paratracheal/prominent;Emphysema;Spondylosis/mild

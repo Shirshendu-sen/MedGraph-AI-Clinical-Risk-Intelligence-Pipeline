@@ -1,0 +1,16 @@
+UID: 3193
+
+INDICATION:
+Asthma
+
+FINDINGS:
+Mild hyperinflation. No focal consolidation, suspicious pulmonary opacity, pneumothorax or definite pleural effusion. Heart size and pulmonary vascularity within normal limits, visualized osseous structures appear intact.
+
+IMPRESSION:
+Mildly hyperexpanded lungs without acute focal infiltrate.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention/mild

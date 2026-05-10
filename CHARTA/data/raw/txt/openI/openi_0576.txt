@@ -1,0 +1,16 @@
+UID: 594
+
+INDICATION:
+Pain, weakness
+
+FINDINGS:
+There are T-spine osteophytes. There calcified costochondral cartilages. There is loss of disc XXXX of a midthoracic vertebral body. There are streaky opacities in both lung bases which may represent atelectasis or scarring. No pneumothorax. The heart is borderline enlarged.
+
+IMPRESSION:
+1. Borderline cardiomegaly. 2. Age-indeterminate, XXXX chronic, XXXX deformity in the midthoracic spine.
+
+PROBLEMS:
+Osteophyte;Opacity;Cardiomegaly;Deformity
+
+MESH:
+Osteophyte/thoracic vertebrae/multiple;Opacity/lung/base/bilateral/streaky;Cardiomegaly/borderline;Deformity/thoracic vertebrae

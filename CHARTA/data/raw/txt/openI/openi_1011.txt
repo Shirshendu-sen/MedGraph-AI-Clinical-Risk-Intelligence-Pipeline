@@ -1,0 +1,16 @@
+UID: 1044
+
+INDICATION:
+Enlarged lymph XXXX.
+
+FINDINGS:
+The heart size and pulmonary vascularity appear within normal limits. There has been clearing of left base airspace opacities. The lungs now appear clear. No pneumothorax or pleural effusion is seen. The lungs appear hyperexpanded consistent with emphysema.
+
+IMPRESSION:
+1. Hyperexpanded lungs consistent with emphysema. 2. No evidence of acute disease.
+
+PROBLEMS:
+Lung;Pulmonary Emphysema
+
+MESH:
+Lung/hyperdistention;Pulmonary Emphysema

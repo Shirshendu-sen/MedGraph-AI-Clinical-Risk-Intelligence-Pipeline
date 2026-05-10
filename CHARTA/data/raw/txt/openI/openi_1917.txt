@@ -1,0 +1,16 @@
+UID: 1982
+
+INDICATION:
+CLL. SOB
+
+FINDINGS:
+None
+
+IMPRESSION:
+Some XXXX opacities compatible with subsegmental atelectasis/scarring noted projecting over region of right middle lobe/lingula on lateral view. Overall, well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Opacity;Opacity;Pulmonary Atelectasis;Pulmonary Atelectasis;Cicatrix;Cicatrix
+
+MESH:
+Opacity/lung/middle lobe/right;Opacity/lung/lingula;Pulmonary Atelectasis/middle lobe/right;Pulmonary Atelectasis/lingula;Cicatrix/lung/middle lobe/right;Cicatrix/lung/lingula

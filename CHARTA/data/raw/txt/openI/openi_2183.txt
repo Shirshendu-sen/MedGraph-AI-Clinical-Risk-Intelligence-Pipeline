@@ -1,0 +1,16 @@
+UID: 2263
+
+INDICATION:
+XXXX-year-old female, dyspnea
+
+FINDINGS:
+Heart size moderately enlarged, stable mediastinal contours. XXXX XXXX opacity in the left lung base. Otherwise, no focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.
+
+IMPRESSION:
+1. Cardiomegaly 2. XXXX XXXX opacity in the left base XXXX atelectasis
+
+PROBLEMS:
+Cardiomegaly;Opacity;Pulmonary Atelectasis
+
+MESH:
+Cardiomegaly/moderate;Opacity/lung/base/left;Pulmonary Atelectasis/base/left

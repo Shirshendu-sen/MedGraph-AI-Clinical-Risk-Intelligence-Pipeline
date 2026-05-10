@@ -1,0 +1,16 @@
+UID: 1039
+
+INDICATION:
+XXXX-year-old female pre-op evaluation
+
+FINDINGS:
+No pneumothorax or pleural effusion. Normal cardiac contour. Clear lungs bilaterally.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

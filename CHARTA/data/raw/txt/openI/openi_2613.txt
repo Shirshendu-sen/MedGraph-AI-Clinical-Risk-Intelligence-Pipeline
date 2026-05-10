@@ -1,0 +1,16 @@
+UID: 2713
+
+INDICATION:
+XXXX-year-old with a XXXX.
+
+FINDINGS:
+The heart is normal in size and contour. The aorta is calcified and tortuous. The lung volumes are low. There is elevation of the right hemidiaphragm. Minimal streaky opacities in the lung bases, XXXX subsegmental atelectasis. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+1. Low lung volume study with minimal bibasilar atelectasis. Stable chest.
+
+PROBLEMS:
+Calcinosis;Aorta;Lung;Diaphragm;Opacity;Pulmonary Atelectasis
+
+MESH:
+Calcinosis/aorta;Aorta/tortuous;Lung/hypoinflation;Diaphragm/right/elevated;Opacity/lung/base/bilateral/streaky/mild;Pulmonary Atelectasis/base/bilateral/mild

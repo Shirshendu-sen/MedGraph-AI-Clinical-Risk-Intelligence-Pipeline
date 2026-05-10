@@ -1,0 +1,16 @@
+UID: 3248
+
+INDICATION:
+Decreased breath sounds
+
+FINDINGS:
+None
+
+IMPRESSION:
+Borderline heart size. Aortic atherosclerosis. Small volume effusions and basilar airspace disease. Right-sided central catheter tip low SVC. NG tube has been removed. There is mild XXXX-distention of this stomach.
+
+PROBLEMS:
+Cardiomegaly;Atherosclerosis;Pleural Effusion;Airspace Disease;Catheters, Indwelling;Abdomen
+
+MESH:
+Cardiomegaly/borderline;Atherosclerosis/aorta;Pleural Effusion/bilateral/small;Airspace Disease/lung/base/bilateral;Catheters, Indwelling/right;Abdomen/enlarged/mild

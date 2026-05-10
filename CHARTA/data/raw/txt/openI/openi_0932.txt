@@ -1,0 +1,16 @@
+UID: 965
+
+INDICATION:
+Patient with ampullary adenocarcinoma, preoperative evaluation
+
+FINDINGS:
+The lungs appear clear. Heart and pulmonary XXXX appear normal. Mediastinal contours are normal. Pleural spaces are clear. There appears to the contrast XXXX within small colonic diverticula in the splenic flexure region.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease
+
+PROBLEMS:
+normal
+
+MESH:
+normal

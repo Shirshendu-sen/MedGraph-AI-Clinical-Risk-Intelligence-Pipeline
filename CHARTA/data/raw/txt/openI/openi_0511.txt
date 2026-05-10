@@ -1,0 +1,16 @@
+UID: 526
+
+INDICATION:
+preop for left hip revision XXXX.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Minimal cardiomegaly. Lungs are clear. Fat seen within the XXXX fissure on the right.
+
+PROBLEMS:
+Cardiomegaly;Adipose Tissue
+
+MESH:
+Cardiomegaly/mild;Adipose Tissue/right

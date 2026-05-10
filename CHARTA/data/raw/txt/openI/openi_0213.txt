@@ -1,0 +1,16 @@
+UID: 221
+
+INDICATION:
+Preop lumbar spine surgery
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. Atherosclerotic aorta. Mild blunting left costophrenic recess, possibly mild atelectasis or scarring. No confluent lobar consolidation or large volume pleural effusion. Thoracic spondylosis.
+
+IMPRESSION:
+Mild blunting left costophrenic recess, possibly mild atelectasis or scarring.
+
+PROBLEMS:
+Atherosclerosis;Costophrenic Angle;Spondylosis
+
+MESH:
+Atherosclerosis/aorta;Costophrenic Angle/left/blunted/mild;Spondylosis/thoracic vertebrae

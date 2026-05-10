@@ -1,0 +1,16 @@
+UID: 1634
+
+INDICATION:
+XXXX-year-old female, chronic airway obstruction, history of COPD.
+
+FINDINGS:
+Calcified granulomas. Calcified hilar XXXX. No focal areas of consolidation. Heart size within normal limits. No pleural effusions. No evidence of pneumothorax. Question large pulmonary arteries. Lung XXXX are hyperexpanded. Prominent substernal air space. Aortic calcifications. Degenerative changes thoracic spine.
+
+IMPRESSION:
+Hyperexpanded lung XXXX compatible with COPD. No evidence of acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Calcified Granuloma;Calcinosis;Lung;Calcinosis;Thoracic Vertebrae;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Calcified Granuloma/multiple;Calcinosis/lung/hilum;Lung/hyperdistention;Calcinosis/aorta;Thoracic Vertebrae/degenerative;Pulmonary Disease, Chronic Obstructive

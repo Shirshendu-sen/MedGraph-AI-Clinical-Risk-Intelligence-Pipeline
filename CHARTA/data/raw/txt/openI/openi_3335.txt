@@ -1,0 +1,16 @@
+UID: 3471
+
+INDICATION:
+XXXX year-old woman, routine physical.
+
+FINDINGS:
+Heart size, mediastinal contour, and pulmonary vascularity are within normal limits. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. There is a rounded lucency seen above the diaphragm on lateral view, suggestive of small hiatal hernia. Visualized osseous structures appear intact. Degenerative changes of the thoracic spine seen.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. Small hiatal hernia noted.
+
+PROBLEMS:
+Lucency;Thoracic Vertebrae;Hernia, Hiatal
+
+MESH:
+Lucency/round;Thoracic Vertebrae/degenerative;Hernia, Hiatal/small

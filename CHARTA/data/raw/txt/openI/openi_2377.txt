@@ -1,0 +1,16 @@
+UID: 2463
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal and lungs are relatively clear. There is minimal underlying interstitial opacities. This is markedly improved compared to prior exam
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/interstitial/mild

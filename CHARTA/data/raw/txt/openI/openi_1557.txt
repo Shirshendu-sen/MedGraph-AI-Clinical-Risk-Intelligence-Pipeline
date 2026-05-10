@@ -1,0 +1,16 @@
+UID: 1609
+
+INDICATION:
+The patient is a XXXX-year-old male with history of cirrhosis, SBP, fevers.
+
+FINDINGS:
+Calcified lymph XXXX in both XXXX. XXXX amount of focal atelectasis posterior to the left heart. The trachea is midline. Negative for pneumothorax, pleural effusion or large focal airspace consolidation. The heart size is normal.
+
+IMPRESSION:
+1. Focal atelectasis to the left lung, posterior to the heart.
+
+PROBLEMS:
+Calcinosis;Pulmonary Atelectasis
+
+MESH:
+Calcinosis/lymph nodes/bilateral;Pulmonary Atelectasis/left/retrocardiac/focal

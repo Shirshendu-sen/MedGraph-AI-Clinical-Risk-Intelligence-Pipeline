@@ -1,0 +1,16 @@
+UID: 1326
+
+INDICATION:
+XXXX-year-old female, status post chest tube removal, evaluate for pneumothorax.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable right-sided subclavian central venous catheter with tip approximating the SVC. Stable right suprahilar opacity, compatible with history of right upper lobe mass. Elevation of the right hemidiaphragm. Right-sided pneumothorax noted measuring approximately 1.8 cm from the the right apex. Stable postsurgical changes left axilla. Degenerative changes thoracic spine. Stable streaky opacities right base. XXXX opacity right midlung, question fluid level, incompletely evaluated, no recent XXXX for comparison.
+
+PROBLEMS:
+Catheters, Indwelling;Opacity;Diaphragm;Pneumothorax;Thoracic Vertebrae;Opacity;Opacity
+
+MESH:
+Catheters, Indwelling/right;Opacity/lung/hilum/right;Diaphragm/right/elevated;Pneumothorax/apex/right;Thoracic Vertebrae/degenerative;Opacity/lung/base/right/streaky/multiple;Opacity/lung/middle lobe/right

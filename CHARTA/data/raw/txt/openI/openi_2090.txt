@@ -1,0 +1,16 @@
+UID: 2168
+
+INDICATION:
+XXXX-year-old XXXX with history of pneumonia, persistent dyspnea, HIV-positive.
+
+FINDINGS:
+The heart size is within normal limits. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax.
+
+IMPRESSION:
+1. No acute abnormality. 2. Dextroscoliosis of thoracic spine unchanged. .
+
+PROBLEMS:
+Scoliosis
+
+MESH:
+Scoliosis/thoracic vertebrae/right

@@ -1,0 +1,16 @@
+UID: 1630
+
+INDICATION:
+XXXX for one XXXX.
+
+FINDINGS:
+2 images. There is a poorly defined lung nodule in the right upper lobe measuring approximately 7 mm and partially superimposed upon anterior right second rib. Otherwise, the lungs are clear. No pleural effusion or pneumothorax. Heart size is normal. Critical result notification documented through Primordial.
+
+IMPRESSION:
+7 mm right upper lobe lung nodule. Recommend followup characterization with XXXX.
+
+PROBLEMS:
+Nodule
+
+MESH:
+Nodule/lung/upper lobe/right

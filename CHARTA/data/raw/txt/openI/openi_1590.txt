@@ -1,0 +1,16 @@
+UID: 1645
+
+INDICATION:
+XXXX-year-old male, XXXX.
+
+FINDINGS:
+Stable chronic appearing left basilar opacities. No focal areas of consolidation. Heart size within normal limits. No pleural effusions. No evidence of pneumothorax. Osseous structures appear intact. Degenerative changes of the visualized thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Opacity;Thoracic Vertebrae
+
+MESH:
+Opacity/lung/base/left/chronic;Thoracic Vertebrae/degenerative

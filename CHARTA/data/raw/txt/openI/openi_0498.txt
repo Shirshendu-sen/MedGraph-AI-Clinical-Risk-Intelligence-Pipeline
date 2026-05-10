@@ -1,0 +1,16 @@
+UID: 513
+
+INDICATION:
+XXXX-year-old male presents for preoperative evaluation.
+
+FINDINGS:
+There is prominence of the right heart XXXX, consistent with right atrial enlargement. A XXXX density is demonstrated on the frontal view with exaggerated posterior projection of the cardiac silhouette, suggesting left atrial enlargement. The cardiac silhouette is overall enlarged. The mediastinal contours are otherwise within normal limits for appearance. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. Mild pulmonary hyperexpansion. Mild left apical pleural thickening. Moderate degenerative changes of the thoracic spine. 19/33.
+
+IMPRESSION:
+1. Right and left atrial enlargement with cardiomegaly. No acute pulmonary abnormality demonstrated. .
+
+PROBLEMS:
+Heart Atria;Cardiac Shadow;Lung;Thickening;Thoracic Vertebrae;Cardiomegaly
+
+MESH:
+Heart Atria/bilateral/enlarged;Cardiac Shadow/enlarged;Lung/hyperdistention/mild;Thickening/pleura/apex/left/mild;Thoracic Vertebrae/degenerative/moderate;Cardiomegaly

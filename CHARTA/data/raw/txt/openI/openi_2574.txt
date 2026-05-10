@@ -1,0 +1,16 @@
+UID: 2669
+
+INDICATION:
+XXXX-year-old female, chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Small patchy left lower lobe opacity, primary differential considerations include atelectasis, infiltrate, aspiration, clinical correlation recommended. No definite pleural effusion seen. Heart size within normal limits for technique, no typical findings of pulmonary edema.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/lower lobe/left/patchy/small

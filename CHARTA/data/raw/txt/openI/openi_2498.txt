@@ -1,0 +1,16 @@
+UID: 2589
+
+INDICATION:
+XXXX-year-old XXXX with chest pain.
+
+FINDINGS:
+There are no acute osseous abnormalities. Soft tissues are within normal limits. There is stable enlargement of the heart. Calcific aorta. Stable bilateral calcified granulomas. The lungs are clear bilaterally without focal area of consolidation, pleural effusion, or pneumothorax.
+
+IMPRESSION:
+No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis;Calcified Granuloma
+
+MESH:
+Cardiomegaly;Calcinosis/aorta;Calcified Granuloma/bilateral/multiple

@@ -1,0 +1,16 @@
+UID: 225
+
+INDICATION:
+XXXX-year-old male with XXXX, shortness breath, and asthma.
+
+FINDINGS:
+Cardiomediastinal silhouette is within normal limits. No focal consolidation. No pneumothorax or pleural effusion. No acute bony abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

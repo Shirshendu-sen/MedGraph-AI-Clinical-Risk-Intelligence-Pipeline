@@ -1,0 +1,16 @@
+UID: 2235
+
+INDICATION:
+XXXX.
+
+FINDINGS:
+There are low lung volumes. Cardiac silhouette and mediastinal contours are within normal limits. There is no focal opacity. There is no large pleural effusion. There is no pneumothorax.
+
+IMPRESSION:
+Low lung volumes without acute cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

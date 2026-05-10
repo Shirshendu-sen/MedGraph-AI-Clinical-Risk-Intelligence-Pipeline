@@ -1,0 +1,16 @@
+UID: 1893
+
+INDICATION:
+XXXX x 3 weeks
+
+FINDINGS:
+Mildly low lung volumes. Lungs are clear without focal air space disease. Persistent mild elevation right hemidiaphragm. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the spine.
+
+IMPRESSION:
+Stable appearance of the chest without focal air space disease.
+
+PROBLEMS:
+Lung;Diaphragm;Spine
+
+MESH:
+Lung/hypoinflation/mild;Diaphragm/right/elevated/mild;Spine/degenerative

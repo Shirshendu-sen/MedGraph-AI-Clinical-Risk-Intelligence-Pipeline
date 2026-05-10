@@ -1,0 +1,16 @@
+UID: 1965
+
+INDICATION:
+XXXX-year-old female with chest pain
+
+FINDINGS:
+There is moderate cardiomegaly. There are bilateral interstitial opacities, increased since the previous exam. No focal airspace consolidation, pleural effusions or pneumothorax. No acute bony abnormalities.
+
+IMPRESSION:
+Moderate cardiomegaly with pulmonary vascular congestion early interstitial edema.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Pulmonary Congestion;Pulmonary Edema
+
+MESH:
+Cardiomegaly/moderate;Opacity/lung/bilateral/interstitial;Pulmonary Congestion;Pulmonary Edema/interstitial

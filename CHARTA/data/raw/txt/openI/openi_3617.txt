@@ -1,0 +1,16 @@
+UID: 3760
+
+INDICATION:
+XXXX-year-old male chest pain.
+
+FINDINGS:
+XXXX sternotomy XXXX remain in XXXX. The cardiomediastinal silhouette is within normal limits for appearance. The thoracic aorta is tortuous. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. Moderate degenerative changes of the thoracic spine. No acute, displaced rib fractures identified.
+
+IMPRESSION:
+1. No acute intrathoracic abnormality.
+
+PROBLEMS:
+Aorta, Thoracic;Thoracic Vertebrae
+
+MESH:
+Aorta, Thoracic/tortuous;Thoracic Vertebrae/degenerative/moderate

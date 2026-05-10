@@ -1,0 +1,16 @@
+UID: 2738
+
+INDICATION:
+XXXX-year-old with the dyspnea.
+
+FINDINGS:
+The heart size is upper limits of normal. Aorta is tortuous. The lungs are clear without focal infiltrate. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+1. Upper limits of normal in size heart and mild tortuosity of the aortic XXXX. No acute pulmonary process.
+
+PROBLEMS:
+Aorta
+
+MESH:
+Aorta/tortuous/mild

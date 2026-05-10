@@ -1,0 +1,16 @@
+UID: 3429
+
+INDICATION:
+XXXX-year-old female with XXXX onset of XXXX.
+
+FINDINGS:
+Low lung volumes. Heart size normal. No pneumothorax, pleural effusion, or focal airspace disease. Bony structures appear intact. Left humeral head bone anchors.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Implanted Medical Device
+
+MESH:
+Lung/hypoinflation;Implanted Medical Device/humerus/left

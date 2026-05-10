@@ -1,0 +1,16 @@
+UID: 3324
+
+INDICATION:
+XXXX
+
+FINDINGS:
+The heart is normal in size. Atherosclerotic calcifications of the aorta. The mediastinum is stable. There is again soft tissue density projected over the right mid chest, XXXX patient's known large breast mass. The appearance is grossly stable to decreased from prior study. The lateral projection is suboptimal as patient could not raise XXXX. There is no pleural effusion.
+
+IMPRESSION:
+Redemonstration of right chest wall mass compatible with patient's known breast carcinoma.
+
+PROBLEMS:
+Atherosclerosis;Density;Mass;Technical Quality of Image Unsatisfactory ;Mass
+
+MESH:
+Atherosclerosis/aorta;Density/thorax/right;Mass/breast/large;Technical Quality of Image Unsatisfactory ;Mass/thorax/right

@@ -1,0 +1,16 @@
+UID: 2187
+
+INDICATION:
+XXXX-year-old female with XXXX onset dyspnea.
+
+FINDINGS:
+The heart size is normal. Tortuous aorta. Calcifications are seen within the aortic XXXX. The mediastinal contour is within normal limits. The lungs are free of any focal infiltrates. Stable calcified granuloma within the lingula. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm. Surgical clips are seen within the right upper abdomen.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Aorta;Calcinosis;Calcified Granuloma;Surgical Instruments
+
+MESH:
+Aorta/tortuous;Calcinosis/aorta;Calcified Granuloma/lung/lingula;Surgical Instruments/abdomen/right

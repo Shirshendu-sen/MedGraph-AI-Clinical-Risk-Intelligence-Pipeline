@@ -1,0 +1,16 @@
+UID: 2909
+
+INDICATION:
+Productive XXXX
+
+FINDINGS:
+Patchy airspace disease in the left lingula. No significant effusion. Clear right lung. Normal heart size. Granulomatous mediastinal calcifications. Right chest XXXX tip at SVC.
+
+IMPRESSION:
+Patchy airspace disease in the lingula without evidence of effusion. Pneumonia is in the differential. A followup exam in 4 to 6 weeks should be considered to ensure resolution of this process.
+
+PROBLEMS:
+Airspace Disease;Calcified Granuloma;Catheters, Indwelling
+
+MESH:
+Airspace Disease/lung/lingula/patchy;Calcified Granuloma/mediastinum/multiple;Catheters, Indwelling/right

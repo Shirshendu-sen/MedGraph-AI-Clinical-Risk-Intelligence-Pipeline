@@ -1,0 +1,16 @@
+UID: 1962
+
+INDICATION:
+The patient is a XXXX-year-old female with lumbago and cervicalgia.
+
+FINDINGS:
+No pneumothorax, pleural effusion or airspace consolidation. Stable right lower lung granuloma. Interval to right clavicle XXXX procedure. Heart size and pulmonary vasculature appear within normal limits. XXXX XXXX are intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Granuloma
+
+MESH:
+Granuloma/lung/lower lobe/right

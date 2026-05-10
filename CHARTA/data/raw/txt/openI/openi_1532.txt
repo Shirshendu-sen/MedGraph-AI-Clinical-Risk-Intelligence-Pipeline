@@ -1,0 +1,16 @@
+UID: 1584
+
+INDICATION:
+XXXX-year-old female with XXXX, wheezing, dyspnea
+
+FINDINGS:
+The lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Degenerative changes of the thoracic spine.
+
+IMPRESSION:
+Negative for acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative

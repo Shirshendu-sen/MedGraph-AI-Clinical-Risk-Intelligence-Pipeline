@@ -1,0 +1,16 @@
+UID: 457
+
+INDICATION:
+XXXX
+
+FINDINGS:
+There is a calcified granuloma left midlung. There is round density within the anterior segment of the right upper lobe. There are prominent interstitial opacities which may represent changes associated with fibrosis. Heart size is normal. No pneumothorax. anterior segment of upper lobe, rounded focal density. could be XXXX lung nodule.
+
+IMPRESSION:
+Round density within the anterior segment of the right upper lobe. This may represent XXXX pulmonary nodule. The primordial XXXX was employed to notify the referring physicians of this critical finding. .
+
+PROBLEMS:
+Calcified Granuloma;Density;Opacity
+
+MESH:
+Calcified Granuloma/lung/lingula;Density/lung/upper lobe/right/anterior/round;Opacity/lung/interstitial/prominent

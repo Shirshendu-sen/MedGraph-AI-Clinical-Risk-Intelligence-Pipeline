@@ -1,0 +1,16 @@
+UID: 70
+
+INDICATION:
+chest pain
+
+FINDINGS:
+Sequelae of old granulomatous disease. Lungs are clear without focal airspace disease. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+Granulomatous Disease
+
+MESH:
+Granulomatous Disease

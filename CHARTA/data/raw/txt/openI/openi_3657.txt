@@ -1,0 +1,16 @@
+UID: 3802
+
+INDICATION:
+XXXX x2 weeks
+
+FINDINGS:
+The cardiomediastinal silhouette is normal size and configuration. Tortuous aorta with atherosclerotic calcification. Pulmonary vasculature within normal limits. The lungs are well-aerated. There is no pneumothorax, pleural effusion, or focal consolidation. There are multiple overlying leads at the level of the left lower chest, with overlying XXXX XXXX or clothing there is this is thought to account for mild increased density the left lung base on AP view, with correlate on lateral view. Degenerative spine.
+
+IMPRESSION:
+No acute cardiopulmonary disease. .
+
+PROBLEMS:
+Aorta;Atherosclerosis;Medical Device;Density;Spine;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Aorta/tortuous;Atherosclerosis/aorta;Medical Device/thorax/left;Density/lung/base/left/mild;Spine/degenerative;Technical Quality of Image Unsatisfactory

@@ -1,0 +1,16 @@
+UID: 120
+
+INDICATION:
+XXXX-year-old male with syncope.
+
+FINDINGS:
+Low lung volumes bilaterally with central bronchovascular crowding without focal consolidation, pleural effusion, or pneumothoraces.. Cardiomediastinal silhouette is within normal limits. Degenerative changes of the thoracic spine..
+
+IMPRESSION:
+Low lung volumes bilaterally with central bronchovascular crowding without focal cardiopulmonary disease. .
+
+PROBLEMS:
+Lung;Markings;Thoracic Vertebrae
+
+MESH:
+Lung/bilateral/hypoinflation;Markings/bronchovascular;Thoracic Vertebrae/degenerative

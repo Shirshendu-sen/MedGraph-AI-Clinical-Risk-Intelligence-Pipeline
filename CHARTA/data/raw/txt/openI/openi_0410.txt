@@ -1,0 +1,16 @@
+UID: 424
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The lungs are clear. There is no focal consolidation, pleural effusion, or pneumothorax. The Heart and mediastinum are normal size and shape. XXXX and soft tissues are unremarkable. Probable nerve stimulator noted.
+
+IMPRESSION:
+No Acute cardiopulmonary disease.
+
+PROBLEMS:
+Foreign Bodies
+
+MESH:
+Foreign Bodies

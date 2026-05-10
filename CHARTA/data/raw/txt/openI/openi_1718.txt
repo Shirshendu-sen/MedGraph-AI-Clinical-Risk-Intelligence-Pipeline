@@ -1,0 +1,16 @@
+UID: 1777
+
+INDICATION:
+XXXX-year-old male. XXXX.
+
+FINDINGS:
+The patient is rotated to left. The cardiomediastinal silhouette is normal in size. XXXX lucency along the left ventricular XXXX XXXX related to interface between the heart and aerated lung. Patchy right perihilar/upper lobe opacities, which abut the XXXX fissure on lateral projection. No pneumothorax or large pleural effusion. Exaggerated thoracic kyphosis. No definite acute bone abnormality.
+
+IMPRESSION:
+Right upper lobe pneumonia. Consideration may be given for followup chest x-XXXX, following appropriate therapy.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Lucency;Opacity;Opacity;Kyphosis;Pneumonia
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Lucency/heart ventricles/left;Opacity/lung/upper lobe/patchy;Opacity/lung/hilum/right/patchy;Kyphosis/thoracic vertebrae/severe;Pneumonia/upper lobe/right

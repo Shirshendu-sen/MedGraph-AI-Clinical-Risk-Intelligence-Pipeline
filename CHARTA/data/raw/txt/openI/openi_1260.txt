@@ -1,0 +1,16 @@
+UID: 1307
+
+INDICATION:
+melanoma dx XXXX. No chest complaints.
+
+FINDINGS:
+The lungs appear clear. There are no suspicious pulmonary nodules or masses. XXXX density in the left lung base XXXX represents atelectasis or scarring. The heart and XXXX very XXXX are normal. Pleural spaces are clear. Surgical clips are identified in the left axilla. There is lucency involving the lateral aspect of the left clavicle. Metastatic disease cannot be excluded.
+
+IMPRESSION:
+1.Lucency in the left lateral clavicle near the acromioclavicular joint. Metastatic disease is possible. 2. Clear lungs
+
+PROBLEMS:
+Density;Pulmonary Atelectasis;Cicatrix;Surgical Instruments;Lucency
+
+MESH:
+Density/lung/base/left;Pulmonary Atelectasis/base/left;Cicatrix/lung/base/left;Surgical Instruments/left;Lucency/clavicle/left

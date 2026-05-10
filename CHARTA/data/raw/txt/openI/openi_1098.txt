@@ -1,0 +1,16 @@
+UID: 1135
+
+INDICATION:
+XXXX,
+
+FINDINGS:
+Heart XXXX, mediastinum, XXXX, bony structures and lung XXXX are unremarkable. Stable small calcified granuloma left base. No XXXX acute findings/opacities/infiltrates noted.
+
+IMPRESSION:
+No radiographic evidence of acute cardiopulmonary disease
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/base/left/small

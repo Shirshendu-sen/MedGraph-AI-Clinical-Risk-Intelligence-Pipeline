@@ -1,0 +1,16 @@
+UID: 2416
+
+INDICATION:
+History of tuberculosis.
+
+FINDINGS:
+The outside x-XXXX is normal except for slight cardiomegaly.
+
+IMPRESSION:
+Heart size upper limits normal. Lungs are clear. No evidence of active tuberculosis. No change from prior exam.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/mild

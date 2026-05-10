@@ -1,0 +1,16 @@
+UID: 3188
+
+INDICATION:
+This is a XXXX-year-old male patient with vomiting, history of varices, and previous complaints of chest pain.
+
+FINDINGS:
+None
+
+IMPRESSION:
+The cardiac silhouette appears be at upper limits of normal to borderline enlarged. The mediastinum and parahilar structures are also slightly prominent but unchanged. Portacatheter is noted with its tip in superior XXXX XXXX. This appears unchanged. Slightly XXXX inspiratory effort is noted on the frontal film. This is unchanged. Osseous structures appear be grossly unremarkable. No pneumothorax or obvious pulmonary lesions seen.
+
+PROBLEMS:
+Cardiac Shadow;Mediastinum;Catheters, Indwelling
+
+MESH:
+Cardiac Shadow/enlarged/borderline;Mediastinum/prominent/mild;Catheters, Indwelling

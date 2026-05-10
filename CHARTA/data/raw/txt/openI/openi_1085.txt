@@ -1,0 +1,16 @@
+UID: 1120
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Normal heart size and mediastinal contours. Low lung volumes with no significant airspace consolidation. No pleural effusion or pneumothorax. Visualized osseous structures are unremarkable in appearance.
+
+IMPRESSION:
+1. Limited low lung volume exam. 2. Otherwise, no acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Lung/hypoinflation;Technical Quality of Image Unsatisfactory

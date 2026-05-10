@@ -1,0 +1,16 @@
+UID: 520
+
+INDICATION:
+The patient is a XXXX-year-old male with atrial flutter, hypertensive urgency..
+
+FINDINGS:
+No pneumothorax, pleural effusion or airspace consolidation. Cardiomediastinal size is within normal limits. Pulmonary vasculature is normal. Old rib fractures, healed. Stable increased density overlying the lower mediastinum, unchanged, is XXXX due to hiatal hernia seen on XXXX examination.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Fractures, Bone;Hernia, Hiatal;Density
+
+MESH:
+Fractures, Bone/ribs/healed;Hernia, Hiatal;Density/mediastinum

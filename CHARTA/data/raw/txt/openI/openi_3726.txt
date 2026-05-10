@@ -1,0 +1,16 @@
+UID: 3873
+
+INDICATION:
+Left chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+1. Heart size, mediastinal silhouette and vascularity normal. No lobar consolidation, pleural effusion. No pneumothorax. 2. Approximately 1 cm right middle lobe nodular opacity. Not XXXX showing benign type calcification, consider followup XXXX of the chest for characterization.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/middle lobe/right/round

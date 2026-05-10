@@ -1,0 +1,16 @@
+UID: 1371
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Mildly tortuous aorta, otherwise mediastinal silhouette and pulmonary vascularity are within normal limits. No focal airspace consolidation of pneumonia, pleural effusion or pneumothorax. Couple of XXXX nodules in the left base are XXXX calcified sequela of old granulomatous disease. No pleural effusion or pneumothorax.
+
+PROBLEMS:
+Aorta;Calcified Granuloma;Granulomatous Disease;Nodule
+
+MESH:
+Aorta/tortuous/mild;Calcified Granuloma/lung/base/left;Granulomatous Disease;Nodule/lung/base/left

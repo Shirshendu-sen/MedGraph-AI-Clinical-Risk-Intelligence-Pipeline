@@ -1,0 +1,16 @@
+UID: 3968
+
+INDICATION:
+XXXX XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Left lower lobe XXXX segment pneumonia. Heart size normal. Lungs otherwise clear. No effusion
+
+PROBLEMS:
+Pneumonia
+
+MESH:
+Pneumonia/lower lobe/left

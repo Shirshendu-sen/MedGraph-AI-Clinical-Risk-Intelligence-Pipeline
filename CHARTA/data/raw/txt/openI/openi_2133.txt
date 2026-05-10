@@ -1,0 +1,16 @@
+UID: 2213
+
+INDICATION:
+COPD, XXXX;
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. Innumerable XXXX bilateral nodules are identified, most of which appear calcified on XXXX examination. There is no acute infiltrate or effusion. XXXX lingular scarring and/or atelectasis.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Nodule;Calcinosis;Cicatrix;Pulmonary Atelectasis
+
+MESH:
+Nodule/lung/bilateral/multiple;Calcinosis/lung/bilateral;Cicatrix/lung/lingula;Pulmonary Atelectasis/lingula

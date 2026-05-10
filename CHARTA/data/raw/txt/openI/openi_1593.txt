@@ -1,0 +1,16 @@
+UID: 1648
+
+INDICATION:
+XXXX-year-old female with history breast cancer, XXXX for 2 weeks. 272.4
+
+FINDINGS:
+The lungs are mildly hyperexpanded. There is no focal airspace consolidation. No suspicious pulmonary mass or nodule is identified. Heart size and mediastinal contour are within normal limits. There are degenerative changes of the spine.
+
+IMPRESSION:
+1. No focal airspace consolidation. 2. Mildly hyperexpanded lungs, suggestive of emphysema.
+
+PROBLEMS:
+Lung;Spine
+
+MESH:
+Lung/hyperdistention/mild;Spine/degenerative

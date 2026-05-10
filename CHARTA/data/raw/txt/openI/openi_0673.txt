@@ -1,0 +1,16 @@
+UID: 693
+
+INDICATION:
+XXXX-year-old female with history of positive PPD, status post treatment.
+
+FINDINGS:
+Cardiomediastinal silhouettes are within normal limits. Lungs are without focal consolidation, pneumothorax, or pleural effusion. Grossly unchanged appearance of calcified hilar lymph XXXX and scattered calcified granulomas. Stable degenerative changes in the spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Calcinosis;Calcified Granuloma;Spine
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes;Calcified Granuloma/scattered;Spine/degenerative

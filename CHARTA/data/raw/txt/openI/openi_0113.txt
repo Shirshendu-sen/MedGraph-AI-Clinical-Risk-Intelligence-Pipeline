@@ -1,0 +1,16 @@
+UID: 115
+
+INDICATION:
+Right arm pain since this XXXX.
+
+FINDINGS:
+The lungs are clear. There is hyperinflation of the lungs. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.
+
+IMPRESSION:
+COPD. No acute pulmonary disease.
+
+PROBLEMS:
+Lung;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Pulmonary Disease, Chronic Obstructive

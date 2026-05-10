@@ -1,0 +1,16 @@
+UID: 456
+
+INDICATION:
+XXXX-year-old female with mid back pain that radiates to rib. XXXX recent injury.
+
+FINDINGS:
+PA and lateral radiograph the chest demonstrate stable cardiomediastinal silhouette. No focal consolidation, large pleural effusion, or pneumothorax is identified. Evidence of prior granulomatous disease. Visualized osseous structures appear intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Granulomatous Disease
+
+MESH:
+Granulomatous Disease

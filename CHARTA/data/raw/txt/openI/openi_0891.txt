@@ -1,0 +1,16 @@
+UID: 923
+
+INDICATION:
+prostate cancer skin cancer throat cancer rule out metastasis
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Dilated tortuous calcified aortic XXXX. Tracheostomy tube tip 4 cm above the carina. Multiple scattered small nodules throughout the lungs most XXXX represents calcified granulomas. No nodules or masses. Degenerative spurring of the thoracic spine. Review of XXXX-CT demonstrates calcified granulomas scattered throughout the lungs.
+
+PROBLEMS:
+Aorta;Calcinosis;Tube, Inserted;Calcified Granuloma;Nodule;Osteophyte
+
+MESH:
+Aorta/tortuous;Calcinosis/aorta;Tube, Inserted/trachea, carina;Calcified Granuloma/lung/scattered/multiple/small;Nodule/lung/scattered/multiple/small;Osteophyte/thoracic vertebrae/degenerative

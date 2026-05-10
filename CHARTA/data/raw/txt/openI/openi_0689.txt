@@ -1,0 +1,16 @@
+UID: 709
+
+INDICATION:
+tripped XXXX letting XXXX XXXX out, XXXX a possible XXXX, and now is c/o right arm/shoulder pain.PT unable to raise rt arm for lateral view due to PX
+
+FINDINGS:
+Heart size is normal. The lungs are clear. There are no focal air space consolidations. No pleural effusions or pneumothoraces. Aortic vascular calcifications. Normal pulmonary vascularity. Fracture-dislocation of the right shoulder. Bone demineralization. Scoliosis which is possibly positional.
+
+IMPRESSION:
+Clear lungs. Fracture-dislocation of the proximal right shoulder .
+
+PROBLEMS:
+Calcinosis;Fractures, Bone;Dislocations;Bone Diseases, Metabolic;Scoliosis
+
+MESH:
+Calcinosis/aorta;Fractures, Bone/shoulder/right;Dislocations/shoulder/right;Bone Diseases, Metabolic;Scoliosis

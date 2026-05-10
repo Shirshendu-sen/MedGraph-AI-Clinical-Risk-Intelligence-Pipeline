@@ -1,0 +1,16 @@
+UID: 1045
+
+INDICATION:
+XXXX-year-old male, XXXX, difficulty breathing
+
+FINDINGS:
+Heart size within normal limits, stable mediastinal and hilar contours. No alveolar consolidation, no findings of pleural effusion or pulmonary edema. Chronic appearing contour deformity of the right posterolateral 7th rib again noted suggestive of old injury.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Deformity
+
+MESH:
+Deformity/ribs/right/chronic

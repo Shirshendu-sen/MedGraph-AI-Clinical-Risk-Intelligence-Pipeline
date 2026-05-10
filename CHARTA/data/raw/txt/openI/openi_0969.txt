@@ -1,0 +1,16 @@
+UID: 1002
+
+INDICATION:
+History of chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Status post left mastectomy. Heart size normal. Lungs are clear.
+
+PROBLEMS:
+Mastectomy
+
+MESH:
+Mastectomy/left

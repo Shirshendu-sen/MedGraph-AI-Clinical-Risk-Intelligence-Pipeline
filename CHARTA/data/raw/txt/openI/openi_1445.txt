@@ -1,0 +1,16 @@
+UID: 1496
+
+INDICATION:
+INDICATION: DYSPNEA; Admit Comments: 424.1, 414.01
+
+FINDINGS:
+None
+
+IMPRESSION:
+Status post mediastinal surgery. Significantly improved aeration. Remaining obliteration of the bilateral pleural sinus, more on left than right side, which may represent scarring alternatively small pleural effusions. For more detailed evaluation, if clinically indicated, consider decubitus views. No acute air space disease. No pulmonary edema. Cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly;Opacity
+
+MESH:
+Cardiomegaly;Opacity/pleural sinus/bilateral

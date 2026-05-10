@@ -1,0 +1,16 @@
+UID: 354
+
+INDICATION:
+XXXX, DYSPNEA
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. The lungs are clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

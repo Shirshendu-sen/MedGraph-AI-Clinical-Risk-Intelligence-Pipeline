@@ -1,0 +1,16 @@
+UID: 1133
+
+INDICATION:
+recurrent XXXX
+
+FINDINGS:
+Lungs are hyperexpanded. No infiltrates or masses. The eventration of the left hemidiaphragm identified previously is largely unchanged since the previous computed tomogram. Pulmonary XXXX are normal.
+
+IMPRESSION:
+Findings of COPD with no acute changes.
+
+PROBLEMS:
+Lung;Diaphragmatic Eventration;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Diaphragmatic Eventration/left;Pulmonary Disease, Chronic Obstructive

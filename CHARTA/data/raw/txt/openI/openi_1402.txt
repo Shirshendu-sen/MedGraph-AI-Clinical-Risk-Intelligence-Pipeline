@@ -1,0 +1,16 @@
+UID: 1450
+
+INDICATION:
+XXXX-year-old male. Chest pain.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion.
+
+IMPRESSION:
+Negative for acute abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 684
+
+INDICATION:
+XXXX XXXX placement
+
+FINDINGS:
+None
+
+IMPRESSION:
+Cardiomegaly. No infiltrates or effusions. Right catheter tip upper SVC. The XXXX appears to be a normal orientation on the lateral film. There's been no change in position of the catheter since the prior exam.
+
+PROBLEMS:
+Cardiomegaly;Catheters, Indwelling
+
+MESH:
+Cardiomegaly;Catheters, Indwelling/right

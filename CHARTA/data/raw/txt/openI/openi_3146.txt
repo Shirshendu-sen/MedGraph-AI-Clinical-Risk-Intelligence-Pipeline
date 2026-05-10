@@ -1,0 +1,16 @@
+UID: 3273
+
+INDICATION:
+XXXX-year-old male, chest pain and dyspnea
+
+FINDINGS:
+Cardiomegaly. No focal consolidation, effusion, or pneumothorax. Mild unfolding of the thoracic aorta. Bony thorax and soft tissues grossly unremarkable.
+
+IMPRESSION:
+Cardiomegaly without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Cardiomegaly;Aorta, Thoracic
+
+MESH:
+Cardiomegaly;Aorta, Thoracic/tortuous/mild

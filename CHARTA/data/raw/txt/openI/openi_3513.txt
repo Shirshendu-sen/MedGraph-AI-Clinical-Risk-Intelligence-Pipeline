@@ -1,0 +1,16 @@
+UID: 3654
+
+INDICATION:
+XXXX vehicle collision
+
+FINDINGS:
+There is a 6 mm nodular opacity in the right upper lobe. This appears XXXX from the prior study. The lungs otherwise appear clear. No pleural effusion or pneumothorax is seen. Heart size and mediastinal contour appear within normal limits.
+
+IMPRESSION:
+1. No acute traumatic findings. 2. Right upper lobe 6 mm nodular opacity. This may be artifactual secondary to overlapping vascular structures. However, true pulmonary nodule is a possibility. This appears XXXX from XXXX. Consider further evaluation with dedicated PA and lateral chest radiographs XXXX the patient is XXXX.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/upper lobe/right/round

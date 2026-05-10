@@ -1,0 +1,16 @@
+UID: 2961
+
+INDICATION:
+XXXX evaluate for pneumonia retroperitoneal mass
+
+FINDINGS:
+There is patchy opacity in the left base concerning for atelectasis versus pneumonitis. There is a curvilinear lucency that appears to be in the right hemidiaphragm and a small amount of free intraperitoneal air may be present. There is a small left pleural effusion. The heart is not significantly enlarged. There are atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures are noted.
+
+IMPRESSION:
+1. Question small amount of free intraperitoneal air on the right. This is XXXX to be postprocedural due to the recent abdominal surgery. 2. Left basilar airspace opacity atelectasis versus pneumonitis.
+
+PROBLEMS:
+Opacity;Lucency;Pleural Effusion;Atherosclerosis;Arthritis;Pulmonary Atelectasis;Pneumonia
+
+MESH:
+Opacity/lung/base/left/patchy;Lucency/diaphragm/right;Pleural Effusion/left/small;Atherosclerosis/aorta;Arthritis;Pulmonary Atelectasis/base/left;Pneumonia/base/left

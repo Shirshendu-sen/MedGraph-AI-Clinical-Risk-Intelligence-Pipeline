@@ -1,0 +1,16 @@
+UID: 321
+
+INDICATION:
+XXXX-year-old female, preoperative evaluation
+
+FINDINGS:
+There are XXXX opacities in the left lung, XXXX subsegmental atelectasis. XXXX opacities overlying the left lung base on the frontal XXXX XXXX reflect epicardial fat XXXX and overlying breast tissue. There is no focal airspace consolidation. No pleural effusion or pneumothorax. Heart size is at the upper limits of normal. There are diffuse degenerative changes of the spine.
+
+IMPRESSION:
+No acute findings. Left mid lung subsegmental atelectasis.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Spine;Epicardial Fat;Opacity
+
+MESH:
+Opacity/lung/left;Pulmonary Atelectasis/lingula;Spine/degenerative/diffuse;Epicardial Fat;Opacity/lung/base/left

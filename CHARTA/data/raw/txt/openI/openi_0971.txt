@@ -1,0 +1,16 @@
+UID: 1004
+
+INDICATION:
+XXXX-year-old with XXXX for one month. History bronchitis.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. The aorta is tortuous and ectatic. There are degenerative changes of the acromioclavicular joints. There degenerative changes of the spine. There is an IVC XXXX identified.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Aorta;Shoulder;Spine;Catheters, Indwelling
+
+MESH:
+Aorta/tortuous;Shoulder/bilateral/degenerative;Spine/degenerative;Catheters, Indwelling

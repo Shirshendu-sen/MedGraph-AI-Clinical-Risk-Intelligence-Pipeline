@@ -1,0 +1,16 @@
+UID: 2250
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+There has been interval XXXX sternotomy with mitral valve surgery. There is a small amount of scarring in the left midlung. No focal consolidation. No pleural effusions or pneumothoraces. there is continued cardiomegaly with especially enlarged left atrium.
+
+IMPRESSION:
+1. Scarring in the left midlung. 2. Cardiomegaly with especially enlarged left atrium with postoperative changes of mitral valve surgery.
+
+PROBLEMS:
+Cicatrix;Cardiomegaly;Heart Atria
+
+MESH:
+Cicatrix/lung/lingula/mild;Cardiomegaly;Heart Atria/left/enlarged

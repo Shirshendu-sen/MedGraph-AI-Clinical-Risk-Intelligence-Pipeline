@@ -1,0 +1,16 @@
+UID: 1896
+
+INDICATION:
+XXXX-year-old XXXX with hemoptysis.
+
+FINDINGS:
+The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. Specifically, no radiographically apparent etiology for hemoptysis.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

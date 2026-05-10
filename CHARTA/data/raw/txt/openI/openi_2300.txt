@@ -1,0 +1,16 @@
+UID: 2383
+
+INDICATION:
+XXXX-year-old male. Chest pain.
+
+FINDINGS:
+Stable cardiomegaly, XXXX at XXXX partially accentuated by low lung volumes. Stable XXXX sternotomy XXXX, several of which are interrupted, and mediastinal clips. No focal consolidation, pneumothorax or large pleural effusion. T-spine osteophytes.
+
+IMPRESSION:
+Stable cardiomegaly without heart failure.
+
+PROBLEMS:
+Cardiomegaly;Lung;Surgical Instruments;Osteophyte
+
+MESH:
+Cardiomegaly;Lung/hypoinflation;Surgical Instruments/mediastinum;Osteophyte/thoracic vertebrae/multiple

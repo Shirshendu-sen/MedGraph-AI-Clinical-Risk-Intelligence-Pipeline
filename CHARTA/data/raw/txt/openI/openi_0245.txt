@@ -1,0 +1,16 @@
+UID: 255
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Lungs are clear. No focal consolidation, effusion, or pneumothorax. Heart and mediastinal contours are normal. Osseous structures intact.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

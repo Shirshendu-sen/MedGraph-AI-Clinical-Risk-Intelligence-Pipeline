@@ -1,0 +1,16 @@
+UID: 1332
+
+INDICATION:
+XXXX XXXX and chills for one XXXX. Chest pressure.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is upper normal. Tortuous and calcified aorta. No edema. Bandlike left base and lingular opacities XXXX scarring or atelectasis. No lobar consolidation, pleural effusion or pneumothorax.
+
+PROBLEMS:
+Aorta;Calcinosis;Opacity;Opacity;Pulmonary Atelectasis;Cicatrix
+
+MESH:
+Aorta/tortuous;Calcinosis/aorta;Opacity/lung/base/left;Opacity/lung/lingula;Pulmonary Atelectasis;Cicatrix/lung

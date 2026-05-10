@@ -1,0 +1,16 @@
+UID: 1416
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+The cardiac silhouette is at the upper limits of normal for size. Stable, mild prominence of the bilateral hilar regions. No focal areas of pulmonary consolidation. No pneumothorax. Stable XXXX opacity in the left XXXX, XXXX representing a scar. No pleural effusion. Minimal degenerative changes of the thoracic spine. No acute, displaced rib fractures.
+
+IMPRESSION:
+1. No acute intrathoracic abnormality. 2. Stable, mild prominence of the bilateral hilar regions, possibly consistent with enlarged pulmonary arteries/pulmonary hypertension. Please correlate clinically.
+
+PROBLEMS:
+Lung;Opacity;Cicatrix;Thoracic Vertebrae
+
+MESH:
+Lung/hilum/bilateral/prominent/mild;Opacity/left;Cicatrix/left;Thoracic Vertebrae/degenerative/mild

@@ -1,0 +1,16 @@
+UID: 2330
+
+INDICATION:
+Productive XXXX x4 days
+
+FINDINGS:
+None
+
+IMPRESSION:
+Tracheostomy tube terminates at the level of the clavicles. Moderate cardiomegaly stable. Increased interstitial markings and patchy opacities through the bases. Nonspecific, findings may indicate edema or atypical infection. No pleural effusions. No pneumothorax.
+
+PROBLEMS:
+Tube, Inserted;Cardiomegaly;Opacity;Markings
+
+MESH:
+Tube, Inserted/trachea;Cardiomegaly/moderate;Opacity/lung/base/interstitial/patchy;Markings/lung/base/interstitial

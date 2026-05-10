@@ -1,0 +1,16 @@
+UID: 1676
+
+INDICATION:
+Preoperative evaluation. Patient on home oxygen.
+
+FINDINGS:
+Heart size and mediastinal contour within normal limits. Aortic atherosclerotic calcifications. Emphysematous changes. Nodular densities projecting over right anterior fifth and six ribs. No focal airspace consolidation, pneumothorax, or large pleural effusion. No acute osseous abnormality.
+
+IMPRESSION:
+Nodular densities projecting over right 5th and 6th ribs may healing rib fracture; XXXX recommended to rule-out underlying pulmonary nodule. XXXX level Veriphy message was sent XXXX. XXXX regarding possible lung nodules at XXXX hours XXXX/XXXX.
+
+PROBLEMS:
+Atherosclerosis;Emphysema;Density
+
+MESH:
+Atherosclerosis/aorta;Emphysema;Density/ribs/right/anterior/round/multiple

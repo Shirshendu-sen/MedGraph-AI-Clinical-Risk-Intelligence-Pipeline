@@ -1,0 +1,16 @@
+UID: 3240
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+The cardiac contours are normal. The lungs are hyperinflated with flattening of the diaphragms and tapering of the distal pulmonary vasculature. There is no focal consolidation. Thoracic spondylosis.
+
+IMPRESSION:
+Emphysema without superimposed pneumonia.
+
+PROBLEMS:
+Lung;Diaphragm;Lung;Spondylosis;Emphysema
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened;Lung/blood vessels/blunted;Spondylosis/thoracic vertebrae;Emphysema

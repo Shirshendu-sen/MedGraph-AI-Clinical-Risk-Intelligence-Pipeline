@@ -1,0 +1,16 @@
+UID: 239
+
+INDICATION:
+XXXX x1 XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart upper limits normal. Lungs are clear. No effusions. No nodules masses or infiltrates. No bony abnormalities.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

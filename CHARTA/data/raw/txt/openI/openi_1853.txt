@@ -1,0 +1,16 @@
+UID: 1916
+
+INDICATION:
+COPD
+
+FINDINGS:
+There is stable left costophrenic XXXX blunting. The patient has undergone prior left lobectomy. There are chronic appearing right basilar interstitial markings. Heart size normal. No visualized pneumothorax. There is stable appearing left upper and right upper lobe bullous disease.
+
+IMPRESSION:
+1. No acute cardiopulmonary findings. 2. Unchanged chronic appearance of the left lung.
+
+PROBLEMS:
+Costophrenic Angle;Pneumonectomy;Markings;Blister
+
+MESH:
+Costophrenic Angle/left/blunted;Pneumonectomy/lung/left;Markings/lung/base/right/interstitial/chronic;Blister/lung/upper lobe/bilateral

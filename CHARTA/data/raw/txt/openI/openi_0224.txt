@@ -1,0 +1,16 @@
+UID: 234
+
+INDICATION:
+The patient is a XXXX year-old male with left-sided chest pain.
+
+FINDINGS:
+The trachea is midline. The cardiomediastinal silhouette is normal. The lungs are clear, without focal consolidation or effusion. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities. Lateral view reveals mild degenerative changes of the thoracic spine. No layering pleural effusion or pneumothorax seen on decubitus exam.
+
+IMPRESSION:
+Chest x-XXXX, lateral, and decubitus. 1. No acute cardiopulmonary abnormalities. 2. No evidence of pleural effusion. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

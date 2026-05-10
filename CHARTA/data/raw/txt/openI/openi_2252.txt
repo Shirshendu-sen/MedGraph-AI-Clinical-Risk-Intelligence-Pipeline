@@ -1,0 +1,16 @@
+UID: 2334
+
+INDICATION:
+XXXX-year-old XXXX with chest pain.
+
+FINDINGS:
+No acute osseous abnormality. Scattered degenerative changes throughout the thoracic spine. Stable normal cardiomediastinal silhouette and hilar contours. Scattered bilateral granulomas. Patchy left basal airspace opacity. Bilateral small effusions.
+
+IMPRESSION:
+1. Left base opacity may represent early infection or atelectasis. Recommend followup PA and lateral chest x-XXXX in 6 weeks to ensure resolution. 2. Bilateral small pleural effusions.
+
+PROBLEMS:
+Thoracic Vertebrae;Granuloma;Opacity;Pleural Effusion
+
+MESH:
+Thoracic Vertebrae/scattered/degenerative;Granuloma/lung/bilateral/scattered/multiple;Opacity/lung/base/left/patchy;Pleural Effusion/bilateral/small

@@ -1,0 +1,16 @@
+UID: 599
+
+INDICATION:
+History of chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Slightly dilated tortuous aorta, unchanged. Lungs are clear. No effusions or pneumonia
+
+PROBLEMS:
+Aorta
+
+MESH:
+Aorta/tortuous/mild

@@ -1,0 +1,16 @@
+UID: 2483
+
+INDICATION:
+COPD and shortness of breath.
+
+FINDINGS:
+There has been previous aortic valve replacement. Heart is towards upper limits normal for size and may be mild pulmonary vascular congestion. The skeletal structures are normal. The soft tissues are normal.
+
+IMPRESSION:
+Question mild pulmonary vascular congestion in a patient with prosthetic aortic valve.
+
+PROBLEMS:
+Implanted Medical Device
+
+MESH:
+Implanted Medical Device/aortic valve

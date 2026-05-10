@@ -1,0 +1,16 @@
+UID: 3652
+
+INDICATION:
+The patient is a XXXX-year-old female with hypertension.
+
+FINDINGS:
+No pneumothorax, pleural effusion or airspace consolidation. Heart size and pulmonary vasculature appear within normal limits. XXXX XXXX are intact. There are calcified right hilar granulomas. There is mild thoracic dextroscoliosis.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Calcified Granuloma;Scoliosis
+
+MESH:
+Calcified Granuloma/lung/hilum/right/multiple;Scoliosis/thoracic vertebrae/right/mild

@@ -1,0 +1,16 @@
+UID: 3641
+
+INDICATION:
+XXXX-year-old female, dyspnea
+
+FINDINGS:
+Heart size within normal limits, stable mediastinal contours, mediastinal clips, left base pleural-parenchymal irregularity compatible with scarring. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. Chronic appearing left rib contour irregularities may be posttraumatic or postsurgical.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Surgical Instruments;Cicatrix;Deformity;Deformity
+
+MESH:
+Surgical Instruments/mediastinum;Cicatrix/lung/base/left;Deformity/lung/base/left;Deformity/ribs/left/chronic

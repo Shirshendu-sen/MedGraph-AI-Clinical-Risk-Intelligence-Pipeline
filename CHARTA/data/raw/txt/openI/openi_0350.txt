@@ -1,0 +1,16 @@
+UID: 362
+
+INDICATION:
+chest.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and lungs are clear. Right aortic XXXX with probable aberrant left subclavian artery. This is a normal variant seen in one of 200 patients. No evidence of tuberculosis
+
+PROBLEMS:
+normal
+
+MESH:
+normal

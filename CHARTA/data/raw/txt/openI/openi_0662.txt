@@ -1,0 +1,16 @@
+UID: 682
+
+INDICATION:
+Lung Cancer
+
+FINDINGS:
+The lungs appear clear. The heart and pulmonary XXXX are normal. The pleural spaces are clear. Surgical clips and suture material are noted in the right hilar region suggesting prior lung surgery. The mediastinal contours are stable.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease 2. No suspicious pulmonary nodules or masses. No evidence of disease recurrence.
+
+PROBLEMS:
+Surgical Instruments;Sutures
+
+MESH:
+Surgical Instruments/lung/hilum/right;Sutures/lung/hilum/right

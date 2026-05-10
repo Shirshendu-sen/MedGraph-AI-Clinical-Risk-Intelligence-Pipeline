@@ -1,0 +1,16 @@
+UID: 2239
+
+INDICATION:
+Dyspnea.
+
+FINDINGS:
+Frontal and lateral views of the chest with overlying external cardiac monitor leads show normal size and configuration of the cardiac silhouette. Normal pulmonary vasculature and central airways. There is interstitial prominence and is basilar patchy air space opacity. No focal airspace consolidation or pleural effusion.
+
+IMPRESSION:
+Nonspecific interstitial prominence and basilar patchy airspace disease. Maybe due to pulmonary fibrosis, scarring and/or atelectasis. Comparison with outside previous films may be useful.
+
+PROBLEMS:
+Medical Device;Lung;Opacity;Airspace Disease
+
+MESH:
+Medical Device;Lung/interstitial/prominent;Opacity/lung/base/patchy;Airspace Disease/lung/base/patchy

@@ -1,0 +1,16 @@
+UID: 3514
+
+INDICATION:
+Postop patient with XXXX
+
+FINDINGS:
+No focal lung consolidation. A XXXX density overlying the left costophrenic XXXX is XXXX due to overlying soft tissues. Heart size and pulmonary vascularity are within normal limits. No pneumothorax or pleural effusion. Osseous structures are grossly intact.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+Density
+
+MESH:
+Density/costophrenic angle/left

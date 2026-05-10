@@ -1,0 +1,16 @@
+UID: 1836
+
+INDICATION:
+Previous XXXX with shortness of breath, XXXX
+
+FINDINGS:
+The heart is top normal in size. The mediastinum is stable. Aorta is tortuous and atherosclerotic. Lungs are mildly hypoinflated. No acute infiltrate is seen.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Atherosclerosis;Aorta;Lung
+
+MESH:
+Atherosclerosis/aorta;Aorta/tortuous;Lung/hypoinflation/mild

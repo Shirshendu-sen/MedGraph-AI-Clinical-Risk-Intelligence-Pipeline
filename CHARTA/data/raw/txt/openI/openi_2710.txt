@@ -1,0 +1,16 @@
+UID: 2814
+
+INDICATION:
+Evaluate for effusion .
+
+FINDINGS:
+None
+
+IMPRESSION:
+There is cardiomegaly. Lateral view somewhat limited however small bilateral pleural effusions suspected. There is central vascular congestion.
+
+PROBLEMS:
+Cardiomegaly;Technical Quality of Image Unsatisfactory ;Pulmonary Congestion
+
+MESH:
+Cardiomegaly;Technical Quality of Image Unsatisfactory ;Pulmonary Congestion

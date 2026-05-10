@@ -1,0 +1,16 @@
+UID: 2572
+
+INDICATION:
+Patient with suspected Colon Cancer at XXXX stage
+
+FINDINGS:
+Lungs are clear without focal consolidation. No suspicious pulmonary nodules identified. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

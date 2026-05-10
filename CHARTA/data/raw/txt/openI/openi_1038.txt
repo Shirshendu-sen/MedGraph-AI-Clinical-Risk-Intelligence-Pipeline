@@ -1,0 +1,16 @@
+UID: 1072
+
+INDICATION:
+XXXX year old syncopal episode tonight.
+
+FINDINGS:
+The heart and mediastinal contours are stable. Aorta is calcified and tortuous, compatible with atherosclerotic disease. Since the prior study, there's been interval development of left lower lobe airspace disease. The right lung is clear.
+
+IMPRESSION:
+1. Interval development of left lower lobe airspace disease. This may be due to atelectasis or infiltrate.
+
+PROBLEMS:
+Aorta;Atherosclerosis;Airspace Disease
+
+MESH:
+Aorta/tortuous;Atherosclerosis/aorta;Airspace Disease/lung/lower lobe/left

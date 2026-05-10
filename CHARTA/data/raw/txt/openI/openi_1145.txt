@@ -1,0 +1,16 @@
+UID: 1183
+
+INDICATION:
+This is a XXXX-year-old male patient with complaints of chest pain.
+
+FINDINGS:
+None
+
+IMPRESSION:
+The cardiac silhouette is normal in size and configuration. The mediastinum and perihilar structures appear unremarkable. The lungs appear to be clear of any focal infiltrates. Osseous structures appear to be within normal limits. No pneumothorax is seen. No free air is appreciated beneath hemidiaphragms.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

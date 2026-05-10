@@ -1,0 +1,16 @@
+UID: 1397
+
+INDICATION:
+XXXX-year-old male, pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size near top normal limits, stable mediastinal contours. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

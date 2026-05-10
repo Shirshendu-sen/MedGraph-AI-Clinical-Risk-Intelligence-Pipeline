@@ -1,0 +1,16 @@
+UID: 1570
+
+INDICATION:
+XXXX-year-old male with XXXX.
+
+FINDINGS:
+Evaluation for pneumothorax is limited due to exclusion of the superior-most pulmonary apices. No visible pleural XXXX. No focal air space opacities or pleural effusion. Cardiomediastinal silhouette is within normal limits. No free subdiaphragmatic air. Mild degenerative changes of the thoracic spine. Included osseous structures are grossly intact.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Thoracic Vertebrae
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Thoracic Vertebrae/degenerative/mild

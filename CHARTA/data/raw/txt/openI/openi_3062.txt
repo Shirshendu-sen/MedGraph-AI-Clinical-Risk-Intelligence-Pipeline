@@ -1,0 +1,16 @@
+UID: 3189
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are hypoinflated but grossly clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

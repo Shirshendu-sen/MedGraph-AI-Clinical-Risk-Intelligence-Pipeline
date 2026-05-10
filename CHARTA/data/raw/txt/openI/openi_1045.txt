@@ -1,0 +1,16 @@
+UID: 1079
+
+INDICATION:
+Status post assault. Altered mental status and upper thoracic hematoma
+
+FINDINGS:
+There are low lung volumes. The heart size and upper mediastinum have a normal appearance. There is no pulmonary vascular congestion. There is minimal right basilar atelectasis. There is no large effusion or pneumothorax. The osseous structures appear intact.
+
+IMPRESSION:
+Low lung volume exam demonstrates small amount of right basilar atelectasis. There is no acute consolidation or pneumothorax.
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation;Pulmonary Atelectasis/base/right/mild

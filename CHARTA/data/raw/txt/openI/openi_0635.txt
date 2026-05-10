@@ -1,0 +1,16 @@
+UID: 654
+
+INDICATION:
+XXXX-year-old male XXXX chest pain
+
+FINDINGS:
+Lungs are clear. Heart size normal. The XXXX are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

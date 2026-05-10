@@ -1,0 +1,16 @@
+UID: 245
+
+INDICATION:
+XXXX with XXXX
+
+FINDINGS:
+XXXX XXXX and lateral chest examination was obtained. The heart silhouette is normal in size and contour. Aortic XXXX appear unremarkable. Lungs demonstrate left upper lobe airspace disease most XXXX pneumonia. There is no effusion or pneumothorax.
+
+IMPRESSION:
+1. Left upper lobe pneumonia.
+
+PROBLEMS:
+Pneumonia;Airspace Disease
+
+MESH:
+Pneumonia/upper lobe/left;Airspace Disease/lung/upper lobe/left

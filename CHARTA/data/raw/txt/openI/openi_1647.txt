@@ -1,0 +1,16 @@
+UID: 1703
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+Lung volumes are mildly low. The cardiomediastinal silhouette is within normal limits for size contour. No consolidation. No pleural effusion or pneumothorax. Mild degenerative disc change at the thoracic spine, no XXXX deformity.
+
+IMPRESSION:
+Low lung volumes, no acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung;Thoracic Vertebrae
+
+MESH:
+Lung/hypoinflation/mild;Thoracic Vertebrae/degenerative/mild

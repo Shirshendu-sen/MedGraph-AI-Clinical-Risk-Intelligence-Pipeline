@@ -1,0 +1,16 @@
+UID: 997
+
+INDICATION:
+XXXX-year-old female, transplant workup.
+
+FINDINGS:
+Calcified mediastinal XXXX. No focal areas of consolidation. Heart size within normal limits. No pleural effusions. No evidence of pneumothorax. Degenerative changes thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Calcinosis;Thoracic Vertebrae
+
+MESH:
+Calcinosis/mediastinum;Thoracic Vertebrae/degenerative

@@ -1,0 +1,16 @@
+UID: 3154
+
+INDICATION:
+Dyspnea. Midsternal chest pressure, tightness. History of pneumonia one month ago.
+
+FINDINGS:
+There is severe dextroscoliosis of the thoracic spine with chronic deformity of the bilateral ribs. The lungs are chronically hypoinflated. There is XXXX visualization of the hemidiaphragms, which may be due to basilar airspace disease/atelectasis. Evaluation of the lungs is markedly limited. Overall, the appearance is similar to the prior study from XXXX. There is no evidence of pneumothorax or large pleural effusion.
+
+IMPRESSION:
+Low lung volumes with probable mild bibasilar airspace disease/atelectasis. Markedly limited exam, without significant interval change from XXXX. .
+
+PROBLEMS:
+Scoliosis;Deformity;Lung;Technical Quality of Image Unsatisfactory ;Airspace Disease;Pulmonary Atelectasis
+
+MESH:
+Scoliosis/thoracic vertebrae/right/severe;Deformity/ribs/bilateral/chronic;Lung/hypoinflation/chronic;Technical Quality of Image Unsatisfactory ;Airspace Disease/lung/base/bilateral/mild;Pulmonary Atelectasis/base/bilateral/mild

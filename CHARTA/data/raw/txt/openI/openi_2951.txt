@@ -1,0 +1,16 @@
+UID: 3076
+
+INDICATION:
+XXXX-year-old male, dyspnea
+
+FINDINGS:
+Frontal view kyphotic and rotated, low lung volumes with bronchovascular crowding. Otherwise, no definite airspace consolidation or pleural effusion. Accounting for technical factors heart size XXXX borderline enlarged.
+
+IMPRESSION:
+Low lung volumes, otherwise, no definite acute findings.
+
+PROBLEMS:
+Lung;Technical Quality of Image Unsatisfactory ;Markings;Cardiomegaly
+
+MESH:
+Lung/hypoinflation;Technical Quality of Image Unsatisfactory ;Markings/bronchovascular;Cardiomegaly/borderline

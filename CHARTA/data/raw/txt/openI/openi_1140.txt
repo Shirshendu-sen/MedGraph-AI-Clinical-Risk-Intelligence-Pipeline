@@ -1,0 +1,16 @@
+UID: 1177
+
+INDICATION:
+XXXX onset of XXXX.
+
+FINDINGS:
+Normal heart. Clear lungs. Trachea midline. Scoliosis of lower thoracic spine. Degenerative changes of thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Scoliosis;Thoracic Vertebrae
+
+MESH:
+Scoliosis/thoracic vertebrae;Thoracic Vertebrae/degenerative

@@ -1,0 +1,16 @@
+UID: 1654
+
+INDICATION:
+Short of breath with acute mental status changes..
+
+FINDINGS:
+The heart and mediastinum are unremarkable. There is tortuosity of the aorta, compatible with atherosclerosis. Low lung volumes. Minimal XXXX opacities within the lung bases, XXXX subsegmental atelectasis. The lungs are clear without infiltrate. There is no effusion or pneumothorax.
+
+IMPRESSION:
+1. Low lung volume study with minimal subsegmental atelectasis in the lung bases. No acute pulmonary process.
+
+PROBLEMS:
+Aorta;Atherosclerosis;Lung;Opacity;Pulmonary Atelectasis
+
+MESH:
+Aorta/tortuous;Atherosclerosis/aorta;Lung/hypoinflation;Opacity/lung/base/bilateral/mild;Pulmonary Atelectasis/base/bilateral/mild

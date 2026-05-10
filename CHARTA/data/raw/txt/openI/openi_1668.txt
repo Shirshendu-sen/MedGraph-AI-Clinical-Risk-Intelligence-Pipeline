@@ -1,0 +1,16 @@
+UID: 1724
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The lungs are mildly hyperinflated, with upper lobe areas of lung lucency suggesting obstructive pulmonary disease and emphysema. No superimposed focal airspace consolidation is seen. No pleural effusion or pneumothorax. Heart size is normal.
+
+IMPRESSION:
+Emphysema.
+
+PROBLEMS:
+Lung;Lucency;Lung, Hyperlucent;Emphysema
+
+MESH:
+Lung/hyperdistention/mild;Lucency/lung/upper lobe/bilateral;Lung, Hyperlucent/upper lobe/bilateral;Emphysema

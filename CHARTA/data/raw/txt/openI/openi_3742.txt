@@ -1,0 +1,16 @@
+UID: 3889
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+Heart size is normal. No pneumothorax, pleural effusion, or focal airspace disease. Bony structures appear intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

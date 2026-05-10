@@ -1,0 +1,16 @@
+UID: 3586
+
+INDICATION:
+Hypertension, cardiac murmur
+
+FINDINGS:
+The heart is mildly enlarged. The mediastinal contours are stable. The lungs are clear.
+
+IMPRESSION:
+Mild stable cardiomegaly, no acute disease.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/mild

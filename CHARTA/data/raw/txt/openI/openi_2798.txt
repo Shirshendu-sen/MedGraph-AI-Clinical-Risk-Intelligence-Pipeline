@@ -1,0 +1,16 @@
+UID: 2917
+
+INDICATION:
+sob with chest pain
+
+FINDINGS:
+Lungs are hyperexpanded. Bullae are present in the upper lobes. No focal infiltrates or masses in the lungs. Heart size normal.
+
+IMPRESSION:
+COPD. No acute disease.
+
+PROBLEMS:
+Lung;Blister;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Blister/lung/upper lobe/bilateral/multiple;Pulmonary Disease, Chronic Obstructive

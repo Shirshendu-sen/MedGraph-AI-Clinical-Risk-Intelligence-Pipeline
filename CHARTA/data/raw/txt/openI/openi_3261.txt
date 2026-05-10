@@ -1,0 +1,16 @@
+UID: 3393
+
+INDICATION:
+The patient is a XXXX-year-old female with history of tobacco use, chronic nonproductive XXXX.
+
+FINDINGS:
+Lateral view, over the lingula, there is a 7mm diameter uncalcified nodule of uncertain origin. The trachea is midline. Negative for pneumothorax, pleural effusion or focal airspace consolidation. The heart size is normal. Mild tortuosity aorta is redemonstrated.
+
+IMPRESSION:
+1. 7mm non calcified nodule, XXXX in appearance, recommend CT chest without contrast.
+
+PROBLEMS:
+Nodule;Aorta
+
+MESH:
+Nodule/lung/lingula;Aorta/tortuous/mild

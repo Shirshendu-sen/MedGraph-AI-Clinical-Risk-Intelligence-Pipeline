@@ -1,0 +1,16 @@
+UID: 3665
+
+INDICATION:
+XXXX-year-old woman, positive PPD.
+
+FINDINGS:
+Heart size within normal limits. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax. No upper lobe airspace disease or cavitary lesions identified.
+
+IMPRESSION:
+1. No acute abnormality. 2. No evidence of pulmonary tuberculosis.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

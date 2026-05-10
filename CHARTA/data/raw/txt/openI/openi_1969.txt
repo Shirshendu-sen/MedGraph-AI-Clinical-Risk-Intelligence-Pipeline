@@ -1,0 +1,16 @@
+UID: 2040
+
+INDICATION:
+History of dyspnea on exertion
+
+FINDINGS:
+None
+
+IMPRESSION:
+Cardiomegaly. No effusions or edema. Clear chest
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly

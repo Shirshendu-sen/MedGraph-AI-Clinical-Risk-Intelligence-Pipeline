@@ -1,0 +1,16 @@
+UID: 850
+
+INDICATION:
+XXXX-year-old female, followup asthma exacerbation.
+
+FINDINGS:
+Stable appearance of the cardiomediastinal silhouette. There is no pneumothorax, pleural effusion, or focal airspace consolidation.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

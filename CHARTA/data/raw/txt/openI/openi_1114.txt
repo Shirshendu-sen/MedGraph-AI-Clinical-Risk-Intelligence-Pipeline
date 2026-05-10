@@ -1,0 +1,16 @@
+UID: 1151
+
+INDICATION:
+XXXX, wheezing.
+
+FINDINGS:
+Frontal and lateral views of the chest demonstrate the cardiomediastinal silhouette normal. There is normal distribution of the pulmonary vascularity. The lungs are clear. No effusion, consolidation, or pneumothorax.
+
+IMPRESSION:
+Stable chest x-XXXX, without acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 667
+
+INDICATION:
+The patient is a XXXX-year-old woman with hypoxia.
+
+FINDINGS:
+There has been interval removal of right-sided central venous catheter. Enteric tube is again noted, coursing below the diaphragm the tip of which is seen projecting over the expected location of the body of the stomach. The cardiomediastinal silhouette is normal, unchanged from prior. Low lung volumes, causing streaky bibasilar atelectasis and bronchovascular crowding. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities. Lateral view reveals mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. Low lung volumes with subsequent bronchovascular crowding and bibasilar atelectasis. .
+
+PROBLEMS:
+Tube, Inserted;Lung;Pulmonary Atelectasis;Markings;Thoracic Vertebrae
+
+MESH:
+Tube, Inserted;Lung/hypoinflation;Pulmonary Atelectasis/base/bilateral;Markings/bronchovascular;Thoracic Vertebrae/degenerative/mild

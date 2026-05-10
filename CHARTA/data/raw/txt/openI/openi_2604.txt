@@ -1,0 +1,16 @@
+UID: 2702
+
+INDICATION:
+Difficulty breathing, chest pain, XXXX for 3 days.
+
+FINDINGS:
+Cardiomegaly. Prominent XXXX are stable. Low lung volumes. No pneumothorax. Minimal right costophrenic XXXX blunting. No focal infiltrates.
+
+IMPRESSION:
+Cardiomegaly with XXXX right pleural effusion.
+
+PROBLEMS:
+Cardiomegaly;Lung;Costophrenic Angle;Pleural Effusion
+
+MESH:
+Cardiomegaly;Lung/hypoinflation;Costophrenic Angle/right/blunted/mild;Pleural Effusion/right

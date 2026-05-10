@@ -1,0 +1,16 @@
+UID: 3099
+
+INDICATION:
+XXXX-year-old male with XXXX.
+
+FINDINGS:
+Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Bony thorax and soft tissues grossly unremarkable. Calcified left hilar XXXX.
+
+IMPRESSION:
+Negative for acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/lung/hilum/left

@@ -1,0 +1,16 @@
+UID: 669
+
+INDICATION:
+Kidney transplant.
+
+FINDINGS:
+Cardiomegaly is present. The upper lobe pulmonary vascularity appears mildly prominent consistent with pulmonary venous hypertension. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. There is eventration of the right hemidiaphragm. Bony changes of renal osteodystrophy are noted.
+
+IMPRESSION:
+1. Cardiomegaly and mild vascular prominence. 2. No evidence of acute disease.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Hypertension, Pulmonary;Diaphragmatic Eventration
+
+MESH:
+Cardiomegaly;Pulmonary Congestion/upper lobe/mild;Hypertension, Pulmonary;Diaphragmatic Eventration/right

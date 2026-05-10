@@ -1,0 +1,16 @@
+UID: 1873
+
+INDICATION:
+XXXX-year-old female with pain and shortness of breath.
+
+FINDINGS:
+Cardiomediastinal silhouette is within normal limits. No focal consolidation, pneumothorax, or pleural effusion. No acute bony abnormalities. Degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary findings. .
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative

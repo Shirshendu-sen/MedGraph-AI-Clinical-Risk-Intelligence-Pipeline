@@ -1,0 +1,16 @@
+UID: 600
+
+INDICATION:
+XXXX-year-old male. Shortness of breath. Syncope. Seizure.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Calcified left hilar lymph XXXX/granulomas. No focal consolidation, pneumothorax or large pleural effusion. Old fracture, right mid clavicle.
+
+IMPRESSION:
+Negative for acute abnormality.
+
+PROBLEMS:
+Calcinosis;Calcified Granuloma;Fractures, Bone
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/left;Calcified Granuloma/lung/hilum/left;Fractures, Bone/clavicle/right/healed

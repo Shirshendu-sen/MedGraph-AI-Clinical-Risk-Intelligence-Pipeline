@@ -1,0 +1,16 @@
+UID: 3388
+
+INDICATION:
+XXXX-year-old male, history of T4 supraglottic squamous cell carcinoma.
+
+FINDINGS:
+Normal heart size and mediastinal contours. Stable calcification in the left upper lobe, XXXX representing a granuloma. No focal airspace opacities. No pleural effusion or pneumothorax. Visualized osseous structures are unremarkable in appearance.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities. No radiographic evidence of metastatic disease.
+
+PROBLEMS:
+Calcinosis;Granuloma
+
+MESH:
+Calcinosis/lung/upper lobe/left;Granuloma/lung/upper lobe/left

@@ -1,0 +1,16 @@
+UID: 839
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+Heart size normal. No pleural effusions or pneumothorax. Lungs are clear. Soft tissues and XXXX are unremarkable.
+
+IMPRESSION:
+Normal chest.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

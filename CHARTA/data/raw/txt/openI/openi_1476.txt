@@ -1,0 +1,16 @@
+UID: 1528
+
+INDICATION:
+Post XXXX closure device placement
+
+FINDINGS:
+The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. Note is XXXX of an XXXX closure device which appears grossly appropriate The lungs are normally inflated and clear. Osseous structures are within normal limits for patient age.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Implanted Medical Device
+
+MESH:
+Implanted Medical Device

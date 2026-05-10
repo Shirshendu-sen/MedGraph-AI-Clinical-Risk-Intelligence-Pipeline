@@ -1,0 +1,16 @@
+UID: 1312
+
+INDICATION:
+chest pain.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size upper limits normal. Clear lungs. No pneumonia or effusions.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

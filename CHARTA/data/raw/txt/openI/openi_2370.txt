@@ -1,0 +1,16 @@
+UID: 2456
+
+INDICATION:
+XXXX-year-old woman with decreased breath sounds.
+
+FINDINGS:
+Mild cardiomegaly. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax. There is thoracic kyphosis. There is XXXX deformity of T12 and L1, unchanged XXXX abdomen XXXX, XXXX. Aortic calcifications are noted. Fracture of right proximal humerus, incompletely evaluated.
+
+IMPRESSION:
+1. No acute abnormality of the chest. 2. XXXX deformities of T12 and L1, unchanged XXXX abdomen XXXX, XXXX abdomen XXXX, XXXX. 3. Fracture of right proximal humerus, incompletely evaluated. .
+
+PROBLEMS:
+Cardiomegaly;Kyphosis;Deformity;Deformity;Calcinosis;Fractures, Bone
+
+MESH:
+Cardiomegaly/mild;Kyphosis/thoracic vertebrae;Deformity/thoracic vertebrae;Deformity/lumbar vertebrae;Calcinosis/aorta;Fractures, Bone/humerus/right

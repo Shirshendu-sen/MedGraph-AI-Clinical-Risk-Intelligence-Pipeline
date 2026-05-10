@@ -1,0 +1,16 @@
+UID: 1234
+
+INDICATION:
+Tachycardia. History of bypass surgery.
+
+FINDINGS:
+2 images. The cardiac silhouette is enlarged. Thoracic aortic atherosclerotic calcifications are present. There are finding status post sternotomy and CABG. XXXX atelectasis or scar is noted within the left midlung. There is blunting of the left costophrenic XXXX. No pneumothorax.
+
+IMPRESSION:
+1. Cardiomegaly. 2. Minimal left midlung atelectasis. 3. Blunting of left costophrenic XXXX. This could indicate a small amount of pleural fluid versus pleural-parenchymal scarring.
+
+PROBLEMS:
+Cardiac Shadow;Atherosclerosis;Cicatrix;Pulmonary Atelectasis;Costophrenic Angle;Cardiomegaly;Surgical Instruments
+
+MESH:
+Cardiac Shadow/enlarged;Atherosclerosis/aorta, thoracic;Cicatrix/lung/lingula;Pulmonary Atelectasis/lingula/mild;Costophrenic Angle/left/blunted;Cardiomegaly;Surgical Instruments

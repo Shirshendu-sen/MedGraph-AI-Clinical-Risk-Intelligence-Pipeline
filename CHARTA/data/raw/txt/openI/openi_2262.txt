@@ -1,0 +1,16 @@
+UID: 2344
+
+INDICATION:
+None
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are hypoinflated. No focal consolidation is seen. Postsurgical/biopsy changes overlying the right breast.
+
+IMPRESSION:
+Mild hypoinflation without acute disease.
+
+PROBLEMS:
+Lung;Deformity;Cicatrix
+
+MESH:
+Lung/hypoinflation/mild;Deformity/breast/right;Cicatrix/breast/right

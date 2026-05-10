@@ -1,0 +1,16 @@
+UID: 2221
+
+INDICATION:
+History of chest pain.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Slight cardiomegaly. Clear lungs.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/mild

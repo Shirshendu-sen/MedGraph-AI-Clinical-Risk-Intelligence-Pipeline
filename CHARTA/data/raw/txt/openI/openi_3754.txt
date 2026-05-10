@@ -1,0 +1,16 @@
+UID: 3901
+
+INDICATION:
+Esophageal Cancer
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. Postsurgical changes of esophagectomy and gastric pull-through are stable. Bibasilar air space opacities have significantly improved. The lungs remain hypoinflated with blunted costophrenic XXXX. There is no pneumothorax.
+
+IMPRESSION:
+Stable postsurgical changes of esophagectomy with improved bibasilar airspace opacities/atelectasis.
+
+PROBLEMS:
+Opacity;Lung;Costophrenic Angle;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/base/bilateral;Lung/hypoinflation;Costophrenic Angle/bilateral/blunted;Pulmonary Atelectasis/base/bilateral

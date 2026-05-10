@@ -1,0 +1,16 @@
+UID: 2904
+
+INDICATION:
+XXXX-year-old female, pain and weakness
+
+FINDINGS:
+Stable cardiomediastinal silhouette with borderline heart size and aortic ectasia/tortuosity. Stable hyperinflation without focal alveolar consolidation. No definite pleural effusion seen. No typical findings of pulmonary edema. Healed left rib fractures again noted.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Cardiomegaly;Aorta;Lung;Fractures, Bone
+
+MESH:
+Cardiomegaly/borderline;Aorta/tortuous;Lung/hyperdistention;Fractures, Bone/ribs/left/healed

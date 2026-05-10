@@ -1,0 +1,16 @@
+UID: 790
+
+INDICATION:
+XXXX LOSS
+
+FINDINGS:
+Both lungs are clear and expanded. Heart and mediastinum normal. Surgical clips are in the epigastrium of the abdomen.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Surgical Instruments
+
+MESH:
+Surgical Instruments/abdomen

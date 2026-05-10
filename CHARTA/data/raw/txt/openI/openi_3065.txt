@@ -1,0 +1,16 @@
+UID: 3192
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+The heart is normal in size. Mild fullness of the left hilum, small interval change from prior exam. Lucencies throughout the chest XXXX representing emphysematous change. Scattered bilateral calcified granulomas. No pneumothorax. Large hiatal hernia, increased from prior exam.
+
+IMPRESSION:
+1. Increased left hilar fullness. This may represent superimposed XXXX, adenopathy cannot be excluded on this exam. If there is clinical concern, suggest reference to prior exam or CT chest. 2. Large hiatal hernia, increased in size from prior exam.
+
+PROBLEMS:
+Lung;Lucency;Emphysema;Calcified Granuloma;Hernia, Hiatal
+
+MESH:
+Lung/hilum/left/prominent/mild;Lucency/thorax/scattered/multiple;Emphysema;Calcified Granuloma/bilateral/scattered/multiple;Hernia, Hiatal/large

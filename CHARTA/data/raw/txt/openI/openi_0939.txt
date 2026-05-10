@@ -1,0 +1,16 @@
+UID: 972
+
+INDICATION:
+syncope
+
+FINDINGS:
+None
+
+IMPRESSION:
+Anticipated senescent changes with grossly clear lungs. No effusions or CHF identified. A few scant reticular opacities in right lung base XXXX hypoventilation and foci of subsegmental atelectasis. No XXXX acute abnormalities since the previous chest radiograph.
+
+PROBLEMS:
+Opacity;Lung;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/base/right/reticular/multiple;Lung/hypoinflation;Pulmonary Atelectasis/base/right

@@ -1,0 +1,16 @@
+UID: 19
+
+INDICATION:
+XXXX, preop for abdominal aortic aneurysm repair
+
+FINDINGS:
+Heart size is normal. There is tortuosity of the thoracic aorta, stable compared with prior. No focal airspace disease or effusion. No pleural effusions or pneumothoraces. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+Aorta, Thoracic;Thoracic Vertebrae
+
+MESH:
+Aorta, Thoracic/tortuous;Thoracic Vertebrae/degenerative

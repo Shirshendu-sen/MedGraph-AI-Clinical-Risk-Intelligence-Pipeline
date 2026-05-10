@@ -1,0 +1,16 @@
+UID: 3691
+
+INDICATION:
+Previous XXXX,shortness of breath x2 months
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. Atherosclerotic calcifications of the aorta identified. There is no focal consolidation, pleural effusion or pneumothorax. Degenerative changes of the thoracic spine are noted.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Atherosclerosis;Thoracic Vertebrae
+
+MESH:
+Atherosclerosis/aorta;Thoracic Vertebrae/degenerative

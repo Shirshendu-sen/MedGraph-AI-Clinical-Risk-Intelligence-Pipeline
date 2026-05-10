@@ -1,0 +1,16 @@
+UID: 2737
+
+INDICATION:
+XXXX;
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. There is slight elevation of left hemidiaphragm with XXXX left basilar subsegmental atelectasis. The lungs are otherwise grossly clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Diaphragm;Pulmonary Atelectasis
+
+MESH:
+Diaphragm/left/elevated/mild;Pulmonary Atelectasis/base/left

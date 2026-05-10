@@ -1,0 +1,16 @@
+UID: 1346
+
+INDICATION:
+XXXX-year-old male with altered mental status. Evaluate central venous catheter placement.
+
+FINDINGS:
+There is a right chest XXXX with catheter tip at the cavoatrial junction. Heart size is at the upper limits of normal. Lungs are grossly clear. No pleural effusion or pneumothorax. There are diffuse degenerative changes of the spine.
+
+IMPRESSION:
+1. Right chest XXXX catheter tip at cavoatrial junction. 2. Grossly clear lungs.
+
+PROBLEMS:
+Catheters, Indwelling;Spine
+
+MESH:
+Catheters, Indwelling/right;Spine/degenerative/diffuse

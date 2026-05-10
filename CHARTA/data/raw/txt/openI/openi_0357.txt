@@ -1,0 +1,16 @@
+UID: 370
+
+INDICATION:
+XXXX-year-old female with shortness of breath.
+
+FINDINGS:
+Heart size and cardiomediastinal contours are normal. Lungs are clear without focal airspace opacity, pleural effusion, or pneumothorax. Osseous structures are grossly intact.
+
+IMPRESSION:
+Negative for acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

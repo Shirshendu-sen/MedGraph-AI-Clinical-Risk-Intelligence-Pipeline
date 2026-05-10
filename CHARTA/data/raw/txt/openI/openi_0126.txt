@@ -1,0 +1,16 @@
+UID: 128
+
+INDICATION:
+Recent XXXX loss.
+
+FINDINGS:
+Sequelae of old granulomatous disease. Lungs are overall hyperexpanded with flattening of the diaphragms. No focal consolidation. Prominent interstitial markings are again noted which are predominantly lower lobe and peripheral suggesting pulmonary fibrosis. This appearance is overall not significantly XXXX. No pleural effusions or pneumothoraces. heart and mediastinum are stable with atherosclerotic vascular disease. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+1. Overall stable appearance of the chest suggesting pulmonary fibrosis.
+
+PROBLEMS:
+Granulomatous Disease;Lung;Diaphragm;Markings;Atherosclerosis;Thoracic Vertebrae
+
+MESH:
+Granulomatous Disease;Lung/hyperdistention;Diaphragm/flattened;Markings/lung/lower lobe/interstitial/prominent;Atherosclerosis;Thoracic Vertebrae/degenerative

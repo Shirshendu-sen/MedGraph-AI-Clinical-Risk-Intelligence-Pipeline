@@ -1,0 +1,16 @@
+UID: 2798
+
+INDICATION:
+History of adenopathy in the XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Lungs are clear. Calcified mediastinal and hilar lymph XXXX unchanged. Old XXXX fracture deformity of approximately T6.
+
+PROBLEMS:
+Calcinosis;Calcinosis;Deformity;Fractures, Bone
+
+MESH:
+Calcinosis/mediastinum/lymph nodes;Calcinosis/lung/hilum/lymph nodes;Deformity/thoracic vertebrae;Fractures, Bone/thoracic vertebrae

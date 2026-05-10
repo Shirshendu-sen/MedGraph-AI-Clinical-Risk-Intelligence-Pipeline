@@ -1,0 +1,16 @@
+UID: 1525
+
+INDICATION:
+XXXX.
+
+FINDINGS:
+4 images. There is a large hydropneumothorax within the left chest. There is essentially complete collapse of the left lung. Within the right lung, there are increased interstitial opacities within the medial right lung base and right upper lobe, with patchy airspace opacity within the right lung apex. At the right lung apex, there is a more focal ovoid lucency which measures approximately 1.3 cm. This could indicate cavitation. Left-sided cardiomediastinal contours are obscured by collapse of the left lung. No convincing acute bony findings.
+
+IMPRESSION:
+1. Large left hydropneumothorax, with complete collapse of the left lung. 2. Airspace and interstitial opacity within the right upper and lower lobes. Possible apical cavitation. Tuberculosis should be excluded clinically.
+
+PROBLEMS:
+Hydropneumothorax;Pulmonary Atelectasis;Opacity;Opacity;Opacity;Lucency
+
+MESH:
+Hydropneumothorax/left/large;Pulmonary Atelectasis/left/severe;Opacity/lung/upper lobe/right/interstitial;Opacity/lung/base/right/interstitial;Opacity/lung/apex/right/patchy;Lucency/lung/apex/right/focal/round

@@ -1,0 +1,16 @@
+UID: 1973
+
+INDICATION:
+XXXX-year-old woman with dyspnea on exertion, history of breast cancer..
+
+FINDINGS:
+Cardiomediastinal silhouette is within normal limits for size, with redemonstration of tortuous and atherosclerotic calcified thoracic aorta. No focal consolidation, effusion, or pneumothorax identified. Eventration of the right hemidiaphragm is stable compared to prior examination. Multilevel degenerative disc disease and thoracolumbar spine again noted without acute osseous abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality..
+
+PROBLEMS:
+Atherosclerosis;Aorta, Thoracic;Diaphragmatic Eventration;Thoracic Vertebrae;Lumbar Vertebrae
+
+MESH:
+Atherosclerosis/aorta, thoracic;Aorta, Thoracic/tortuous;Diaphragmatic Eventration/right;Thoracic Vertebrae/degenerative/multiple;Lumbar Vertebrae/degenerative/multiple

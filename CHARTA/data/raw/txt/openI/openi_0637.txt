@@ -1,0 +1,16 @@
+UID: 656
+
+INDICATION:
+786.05 shortness of breath
+
+FINDINGS:
+None
+
+IMPRESSION:
+Mild cardiomegaly as before with no effusions or overt evidence of CHF. Large lung volumes as before. No acute airspace disease. Stable mediastinal contour. No XXXX acute abnormalities since the previous chest radiograph.
+
+PROBLEMS:
+Cardiomegaly;Lung
+
+MESH:
+Cardiomegaly/mild;Lung/hyperdistention

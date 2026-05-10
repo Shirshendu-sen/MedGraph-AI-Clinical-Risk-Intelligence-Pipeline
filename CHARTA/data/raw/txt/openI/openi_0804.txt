@@ -1,0 +1,16 @@
+UID: 830
+
+INDICATION:
+lung cancer
+
+FINDINGS:
+None
+
+IMPRESSION:
+Extensive postop changes right upper chest wall. Air collection with air-fluid level is seen in the right medial apical region projecting into the level of thoracic inlet, XXXX within the pleural space. Some mild right pleural thickening versus XXXX effusion. No acute airspace disease. Mediastinal contour stable.
+
+PROBLEMS:
+Thickening;Pleural Effusion;Hydropneumothorax
+
+MESH:
+Thickening/pleura/right/mild;Pleural Effusion/right/severe;Hydropneumothorax/apex/right

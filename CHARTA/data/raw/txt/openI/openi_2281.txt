@@ -1,0 +1,16 @@
+UID: 2364
+
+INDICATION:
+786.05-
+
+FINDINGS:
+The lungs are clear. There is hyperexpansion of the lungs suggesting underlying emphysema. The heart and pulmonary XXXX appear normal. Pleural spaces are clear. Mediastinal contours are normal.
+
+IMPRESSION:
+No acute cardiopulmonary disease
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention

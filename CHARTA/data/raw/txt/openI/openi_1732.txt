@@ -1,0 +1,16 @@
+UID: 1791
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+Limited exam as the left costophrenic XXXX is excluded from the PA view. The heart size is normal. The mediastinal contour is within normal limits. Mild lung hyperinflation. The lungs are free of any focal infiltrates. There is large calcified granuloma within the medial right lung base. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. Mild multilevel degenerative changes seen within the thoracic spine. No visible acute fracture. There is no visible free intraperitoneal air under the diaphragm.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process. 2. Mild hyperinflation.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Lung;Calcified Granuloma;Thoracic Vertebrae
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Lung/hyperdistention/mild;Calcified Granuloma/lung/base/right/large;Thoracic Vertebrae/degenerative/multiple/mild

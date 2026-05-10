@@ -1,0 +1,16 @@
+UID: 2098
+
+INDICATION:
+XXXX-year-old XXXX with dyspnea.
+
+FINDINGS:
+The heart size is normal. Lungs are clear. There is no pleural line to suggest pneumothorax or costophrenic XXXX blunting to suggest large pleural effusion. Bony structures are within normal limits.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

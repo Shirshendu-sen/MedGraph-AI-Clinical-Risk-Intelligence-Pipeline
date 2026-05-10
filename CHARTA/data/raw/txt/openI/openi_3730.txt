@@ -1,0 +1,16 @@
+UID: 3877
+
+INDICATION:
+XXXX-year-old XXXX with positive PPD.
+
+FINDINGS:
+Compared to prior chest radiograph from XXXX, there has been removal of right-sided tunneled dialysis catheter. The cardiomediastinal silhouette is stable and within normal limits for size and contour. Mildly increased atherosclerotic calcifications of the thoracic aorta. 1.0 cm nodular opacity in the left midlung is stable compared to prior examination from XXXX. No XXXX nodules, focal consolidation, or pneumothorax identified. There are XXXX bilateral pleural effusions posteriorly. There is mild central pulmonary vascular congestion without XXXX pulmonary edema. No acute bony abnormality.
+
+IMPRESSION:
+Central pulmonary vascular congestion without XXXX edema, consolidation. XXXX bilateral pleural effusions.
+
+PROBLEMS:
+Atherosclerosis;Opacity;Pleural Effusion;Pulmonary Congestion
+
+MESH:
+Atherosclerosis/aorta, thoracic;Opacity/lung/lingula/round;Pleural Effusion/bilateral/posterior;Pulmonary Congestion/mild

@@ -1,0 +1,16 @@
+UID: 95
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+There is a single calcified granuloma in the right lung base. The lungs are otherwise grossly clear bilaterally. There is no pneumothorax or pleural effusion. Cardiac and mediastinal silhouettes are normal. There are cholecystectomy clips in the right upper quadrant of the abdomen. Small T-spine osteophytes are noted.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Osteophyte
+
+MESH:
+Calcified Granuloma/lung/base/right;Osteophyte/thoracic vertebrae/multiple/small

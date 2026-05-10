@@ -1,0 +1,16 @@
+UID: 2569
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+The heart is normal size. The mediastinum is unremarkable. Atherosclerotic calcifications present within the thoracic aorta. There is no pleural effusion, pneumothorax, or focal airspace disease. Mild emphysematous changes are noted. Bilateral apical pleural scarring is present. Calcified granuloma is present within the right lower lobe. The XXXX are generally unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Atherosclerosis;Emphysema;Cicatrix;Calcified Granuloma
+
+MESH:
+Atherosclerosis/aorta, thoracic;Emphysema/mild;Cicatrix/pleura/apex/bilateral;Calcified Granuloma/lung/lower lobe/right

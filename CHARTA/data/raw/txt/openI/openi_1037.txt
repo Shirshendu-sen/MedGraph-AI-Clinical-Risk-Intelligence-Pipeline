@@ -1,0 +1,16 @@
+UID: 1071
+
+INDICATION:
+XXXX year old male with rib XXXX pain.
+
+FINDINGS:
+The heart is normal in size. The pulmonary vascularity is within normal limits in appearance. The patient is mildly rotated. No focal consolidations, pneumothorax or pleural effusions. Mild degenerative changes of the thoracic spine. No acute displaced fractures.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities. No acute displaced fractures.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Thoracic Vertebrae
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Thoracic Vertebrae/degenerative/mild

@@ -1,0 +1,16 @@
+UID: 3910
+
+INDICATION:
+XXXX-year-old male with abdominal pain.
+
+FINDINGS:
+Heart size and cardiomediastinal contours are normal. Low lung volumes without focal airspace opacity, pleural effusion, or pneumothorax. Multilevel degenerative changes in the spine.
+
+IMPRESSION:
+Negative for acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung;Spine
+
+MESH:
+Lung/hypoinflation;Spine/degenerative/multiple

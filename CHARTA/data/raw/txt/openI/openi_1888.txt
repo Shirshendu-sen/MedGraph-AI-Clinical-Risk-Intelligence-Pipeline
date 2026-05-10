@@ -1,0 +1,16 @@
+UID: 1952
+
+INDICATION:
+The patient is a XXXX-year-old XXXX with dyspnea.
+
+FINDINGS:
+The trachea is midline. The cardiomediastinal silhouette is normal. There are low lung volumes, causing bibasilar atelectasis and bronchovascular crowding. Pulmonary opacity seen in the right lung base, may indicate focal infiltrate. There is no pleural effusion or pneumothorax. The visualized bony structures reveal no acute abnormalities.
+
+IMPRESSION:
+1. Right lower lobe opacity may represent focal infiltrate versus atelectasis. 2. Low lung volumes. .
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis;Markings;Opacity
+
+MESH:
+Lung/hypoinflation;Pulmonary Atelectasis/base/bilateral;Markings/bronchovascular;Opacity/lung/base/right

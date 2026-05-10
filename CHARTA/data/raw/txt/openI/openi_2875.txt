@@ -1,0 +1,16 @@
+UID: 2997
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Bony thorax and soft tissues unremarkable.
+
+IMPRESSION:
+Negative for acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

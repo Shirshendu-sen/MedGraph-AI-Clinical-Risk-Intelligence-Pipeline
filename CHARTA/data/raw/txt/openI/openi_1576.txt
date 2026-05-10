@@ -1,0 +1,16 @@
+UID: 1631
+
+INDICATION:
+XXXX-year-old male with atrial fibrillation, V58.69
+
+FINDINGS:
+There are a few small nodular opacities in the left lung, XXXX seen on the frontal view overlying the left 6th posterior rib. Lungs otherwise appear clear. No focal airspace consolidation. No overt pulmonary edema. No pleural effusion or pneumothorax. Heart size and mediastinal contour are within normal limits. Calcified mediastinal and hilar lymph XXXX are consistent with prior granulomatous disease. There are mild degenerative changes of the spine.
+
+IMPRESSION:
+Few small nodular opacities in the left upper lung. These small nodules are relatively dense, suggestive of chronic granulomatous disease. Comparison with an XXXX chest radiograph would be helpful to establish stability.
+
+PROBLEMS:
+Opacity;Nodule;Calcinosis;Calcinosis;Granulomatous Disease;Spine;Opacity
+
+MESH:
+Opacity/lung/upper lobe/left/round/multiple/small;Nodule/lung/upper lobe/left/multiple/small;Calcinosis/mediastinum/lymph nodes;Calcinosis/lung/hilum/lymph nodes;Granulomatous Disease;Spine/degenerative/mild;Opacity/ribs/left/round/multiple/small

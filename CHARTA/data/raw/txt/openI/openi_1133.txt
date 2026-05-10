@@ -1,0 +1,16 @@
+UID: 1170
+
+INDICATION:
+XXXX-year-old male with chest pain
+
+FINDINGS:
+No pneumothorax, pleural effusion, or focal airspace disease. Mild cardiomegaly. Cardio mediastinal silhouette unremarkable. Bony structures appear intact.
+
+IMPRESSION:
+Mild cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/mild

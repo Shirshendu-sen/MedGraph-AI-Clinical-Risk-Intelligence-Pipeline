@@ -1,0 +1,16 @@
+UID: 2430
+
+INDICATION:
+XXXX loss.
+
+FINDINGS:
+The heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. Osteopenia and XXXX deformities, degenerative changes and scoliosis are present in the thoracic spine. Calcified granuloma is present in the left upper lobe. On XXXX component of a XXXX scan XXXX XXXX/XXXX, several nodules were identified. A nodule is seen in the right middle lobe which corresponds with one of the nodules present on the previous CT scan.
+
+IMPRESSION:
+1. Right middle lobe lung nodule. Corresponds to one of those seen on the previous XXXX scan. The other nodules seen on the chest CT scan are not XXXX identified. This may be due to XXXX having resolved or simply not being visible on the chest x-XXXX. A chest CT scan would be needed to be XXXX to determine whether these have XXXX resolved or XXXX not visible on the chest x-XXXX.
+
+PROBLEMS:
+Bone Diseases, Metabolic;Deformity;Scoliosis;Thoracic Vertebrae;Calcified Granuloma;Nodule
+
+MESH:
+Bone Diseases, Metabolic/thoracic vertebrae;Deformity/thoracic vertebrae;Scoliosis/thoracic vertebrae;Thoracic Vertebrae/degenerative;Calcified Granuloma/lung/upper lobe/left;Nodule/lung/middle lobe/right

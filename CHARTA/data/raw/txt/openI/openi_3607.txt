@@ -1,0 +1,16 @@
+UID: 3750
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+There is stable cardiomegaly. Right pleural effusion is slightly increased in size. Pulmonary vasculature is persistently enlarged. Prominent interstitium is stable. No XXXX focal infiltrate. No pneumothorax. Visualized osseous structures intact.
+
+IMPRESSION:
+Stable cardiomegaly and XXXX of interstitial edema with small but increasing right pleural effusion.
+
+PROBLEMS:
+Cardiomegaly;Pleural Effusion;Lung;Pulmonary Congestion;Lung;Pulmonary Edema
+
+MESH:
+Cardiomegaly;Pleural Effusion/right/small;Lung/blood vessels/enlarged;Pulmonary Congestion;Lung/interstitial/prominent;Pulmonary Edema/interstitial

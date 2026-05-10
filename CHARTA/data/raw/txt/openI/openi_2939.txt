@@ -1,0 +1,16 @@
+UID: 3064
+
+INDICATION:
+XXXX, shortness of breath, pain.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. There is patchy airspace disease in the right lower lobe. The lungs are otherwise grossly clear. There is no pneumothorax or pleural effusion.
+
+IMPRESSION:
+Patchy, right lower lobe airspace disease. This XXXX represents pneumonia. Recommend followup radiographs to ensure resolution.
+
+PROBLEMS:
+Airspace Disease;Pneumonia
+
+MESH:
+Airspace Disease/lung/lower lobe/right/patchy;Pneumonia/lower lobe/right

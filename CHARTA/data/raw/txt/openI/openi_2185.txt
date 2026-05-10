@@ -1,0 +1,16 @@
+UID: 2265
+
+INDICATION:
+FOLLOWUP sarcoidosis
+
+FINDINGS:
+None
+
+IMPRESSION:
+Hyperinflated lungs as before compatible with emphysema. Left apical chronic inflammatory and fibrotic changes with apical hilar retraction, unchanged since prior XXXX. XXXX opacities and chronic inflammatory change right midlung as before. Stable mediastinal contour without overt evidence of adenopathy. No acute airspace disease or CHF. No XXXX acute abnormalities since the previous chest radiograph.
+
+PROBLEMS:
+Lung;Pulmonary Emphysema;Pulmonary Fibrosis;Deformity;Opacity
+
+MESH:
+Lung/hyperdistention;Pulmonary Emphysema;Pulmonary Fibrosis/apex/left/chronic;Deformity/lung/apex/hilum;Opacity/lung/middle lobe/right

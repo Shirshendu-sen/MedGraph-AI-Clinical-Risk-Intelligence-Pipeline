@@ -1,0 +1,16 @@
+UID: 705
+
+INDICATION:
+XXXX-year-old female, pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size within normal limits. Right hemidiaphragm elevation with XXXX XXXX density near the right costophrenic XXXX most suggestive of subsegmental atelectasis. Otherwise, no focal alveolar consolidation. No definite pleural effusion seen, no typical findings of pulmonary edema.
+
+PROBLEMS:
+Diaphragm;Density
+
+MESH:
+Diaphragm/right/elevated;Density/costophrenic angle/right

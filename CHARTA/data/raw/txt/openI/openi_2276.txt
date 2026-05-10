@@ -1,0 +1,16 @@
+UID: 2359
+
+INDICATION:
+XXXX 6 feet from ladder. Right shoulder pain.
+
+FINDINGS:
+Frontal and lateral views of the chest show an unchanged cardiomediastinal silhouette. The cardiac silhouette remains moderately enlarged. There is no focal airspace consolidation. There is no visible pneumothorax. The left costophrenic sulcus is blunted. However, no retrocardiac pleural fluid collection is seen on the lateral view. The right acromioclavicular joint is mildly widened with respect to the left. This is XXXX-XXXX and may be due to left XXXX XXXX osteoarthritis or a remote right XXXX XXXX mild XXXX.
+
+IMPRESSION:
+1. Left-sided small pleural effusion versus extrapleural fat or scarring. 2. Cardiomegaly.
+
+PROBLEMS:
+Cardiac Shadow;Costophrenic Angle;Pleural Effusion;Adipose Tissue;Cicatrix;Cardiomegaly
+
+MESH:
+Cardiac Shadow/enlarged/moderate;Costophrenic Angle/sulcus/left/blunted;Pleural Effusion/left/small;Adipose Tissue/pleura/left;Cicatrix/pleura/left;Cardiomegaly

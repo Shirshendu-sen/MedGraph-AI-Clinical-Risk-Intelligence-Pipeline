@@ -1,0 +1,16 @@
+UID: 2581
+
+INDICATION:
+XXXX-year-old with XXXX loss and XXXX. XXXX history of abdominal cancer.
+
+FINDINGS:
+CHEST. The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There are minimal degenerative changes of the spine. There is flattening of the hemidiaphragms. ABDOMEN. There is a normal bowel XXXX pattern. There is an IVC XXXX identified. There are phleboliths in pelvis. There mild degenerative changes of the spine.
+
+IMPRESSION:
+CHEST. No acute cardiopulmonary disease. ABDOMEN. Normal bowel XXXX pattern.
+
+PROBLEMS:
+Spine;Diaphragm
+
+MESH:
+Spine/degenerative/mild;Diaphragm/bilateral/flattened

@@ -1,0 +1,16 @@
+UID: 3960
+
+INDICATION:
+XXXX-year-old female, preop evaluation
+
+FINDINGS:
+Heart size, mediastinal contour, and pulmonary vascularity are within normal limits. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Spondylosis of the midthoracic spine with large anterior osteophyte formations.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Spondylosis;Osteophyte
+
+MESH:
+Spondylosis/thoracic vertebrae;Osteophyte/thoracic vertebrae/anterior/multiple/large

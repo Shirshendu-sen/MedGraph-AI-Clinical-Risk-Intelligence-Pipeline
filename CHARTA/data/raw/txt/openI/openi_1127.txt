@@ -1,0 +1,16 @@
+UID: 1164
+
+INDICATION:
+XXXX-year-old female, pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Borderline heart size, improved mediastinal widening. No focal alveolar consolidation, no definite pleural effusion seen. Mild hypoventilation, bronchovascular crowding without typical findings of pulmonary edema.
+
+PROBLEMS:
+Cardiomegaly;Mediastinum;Lung;Markings
+
+MESH:
+Cardiomegaly/borderline;Mediastinum/prominent;Lung/hypoinflation;Markings/bronchovascular

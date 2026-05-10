@@ -1,0 +1,16 @@
+UID: 3810
+
+INDICATION:
+XXXX-year-old with chest pain.
+
+FINDINGS:
+The heart and mediastinum are unremarkable. The lungs are clear without infiltrate. There is no effusion or pneumothorax. There is surgical clips projected over the left lung apex, as well as, over the right upper quadrant of the abdomen.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease.
+
+PROBLEMS:
+Surgical Instruments;Surgical Instruments
+
+MESH:
+Surgical Instruments/lung/apex/left;Surgical Instruments/abdomen/right

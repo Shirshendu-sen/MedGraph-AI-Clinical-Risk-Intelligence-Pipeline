@@ -1,0 +1,16 @@
+UID: 986
+
+INDICATION:
+XXXX, preoperative evaluation, V72.84, 218.9.
+
+FINDINGS:
+The lungs are clear. There is no focal airspace consolidation. No pleural effusion or pneumothorax. Heart size and mediastinal contour are normal.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

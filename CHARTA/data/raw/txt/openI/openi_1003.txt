@@ -1,0 +1,16 @@
+UID: 1036
+
+INDICATION:
+XXXX-year-old female chest pain
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for size. Pulmonary vasculature is within normal limits. No focal consolidations, effusions, or pneumothoraces. Mild degeneration of the thoracic spine without acute bony abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

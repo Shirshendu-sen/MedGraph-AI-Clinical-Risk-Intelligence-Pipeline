@@ -1,0 +1,16 @@
+UID: 838
+
+INDICATION:
+XXXX-year-old with pulmonary hypertension
+
+FINDINGS:
+Stable prominence of the cardiac apex, XXXX from ventricular hypertrophy. Mid sternotomy XXXX again noted. No pneumothorax, significant pulmonary edema or large pleural effusions. No focal lung consolidation. Clips in the right upper quadrant consistent with cholecystectomy. Dextroscoliosis of the thoracolumbar spine.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Heart;Thickening;Surgical Instruments;Scoliosis;Scoliosis
+
+MESH:
+Heart/apex/prominent;Thickening/heart ventricles;Surgical Instruments/right;Scoliosis/thoracic vertebrae/right;Scoliosis/lumbar vertebrae/right

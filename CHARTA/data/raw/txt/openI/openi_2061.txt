@@ -1,0 +1,16 @@
+UID: 2139
+
+INDICATION:
+Chest pain, nonproductive XXXX. Cutaneous XXXX.
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Calcified right hilar lymph XXXX. Heart size is enlarged, pulmonary vascularity within normal limits. XXXX sternotomy XXXX and prosthetic aortic valve noted.
+
+IMPRESSION:
+1. No acute pulmonary abnormality. 2. Mild cardiomegaly without pulmonary edema.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis;Implanted Medical Device
+
+MESH:
+Cardiomegaly/mild;Calcinosis/lung/hilum/lymph nodes/right;Implanted Medical Device/aortic valve

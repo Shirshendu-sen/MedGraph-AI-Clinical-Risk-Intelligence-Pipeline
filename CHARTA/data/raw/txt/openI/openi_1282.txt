@@ -1,0 +1,16 @@
+UID: 1330
+
+INDICATION:
+XXXX-year-old male with shortness of breath.
+
+FINDINGS:
+Heart size and cardiomediastinal silhouette are normal. Lungs are clear without focal airspace opacity, pleural effusion, or pneumothorax. Osseous structures are grossly intact.
+
+IMPRESSION:
+Negative for acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

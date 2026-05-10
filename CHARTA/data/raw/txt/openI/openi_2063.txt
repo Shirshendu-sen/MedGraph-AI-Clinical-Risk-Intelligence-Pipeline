@@ -1,0 +1,16 @@
+UID: 2141
+
+INDICATION:
+XXXX-year-old male with end-stage renal disease on hemodialysis
+
+FINDINGS:
+The heart size is mildly enlarged. There is tortuosity of the thoracic aorta. No focal airspace consolidation, pleural effusions or pneumothorax. No acute bony abnormalities.
+
+IMPRESSION:
+Cardiomegaly without acute pulmonary findings.
+
+PROBLEMS:
+Cardiomegaly;Aorta, Thoracic
+
+MESH:
+Cardiomegaly/mild;Aorta, Thoracic/tortuous

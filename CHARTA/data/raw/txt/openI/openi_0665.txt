@@ -1,0 +1,16 @@
+UID: 685
+
+INDICATION:
+HX of stents
+
+FINDINGS:
+The trachea is midline. The cardiomediastinal silhouette is normal and unchanged compared to prior examination. Tubular densities overlying the heart XXXX are XXXX coronary artery stents. There are small round calcific densities in the bilateral lobes which are unchanged from prior exam and XXXX represent sequelae from old granulomatous disease. Otherwise lungs are clear, without evidence of acute infiltrate or effusion. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities. Lateral view reveals mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Stents;Calcinosis;Granulomatous Disease;Thoracic Vertebrae;Density
+
+MESH:
+Stents/coronary vessels;Calcinosis/lung/bilateral/round/small;Granulomatous Disease;Thoracic Vertebrae/degenerative;Density/lung/bilateral/round/small

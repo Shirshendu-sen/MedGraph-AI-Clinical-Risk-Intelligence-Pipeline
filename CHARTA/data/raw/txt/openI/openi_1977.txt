@@ -1,0 +1,16 @@
+UID: 2048
+
+INDICATION:
+Midsternal chest pain radiating to the anterior left chest.
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Stable right lower lobe calcified granulomas. Thin XXXX lingular scar, unchanged. Heart size and pulmonary vascularity within normal limits. Surgical clips are visualized in the right upper quadrant.
+
+IMPRESSION:
+1. No acute pulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Cicatrix;Surgical Instruments
+
+MESH:
+Calcified Granuloma/lung/lower lobe/right/multiple;Cicatrix/lung/lingula/small;Surgical Instruments/abdomen/right

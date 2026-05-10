@@ -1,0 +1,16 @@
+UID: 3612
+
+INDICATION:
+Colorectal mass, evaluate for lung mass
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. Calcified right paratracheal lymph XXXX are seen. Aorta is atherosclerotic. The lungs are mildly hypoinflated without focal consolidation. There is no pleural effusion.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Calcinosis;Atherosclerosis;Lung
+
+MESH:
+Calcinosis/lymph nodes/right/paratracheal;Atherosclerosis/aorta;Lung/hypoinflation/mild

@@ -1,0 +1,16 @@
+UID: 552
+
+INDICATION:
+Chronic XXXX
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits. There is no pneumothorax or pleural effusion. There are no focal areas of consolidation. There are T-spine osteophytes. XXXX calcified granuloma in the right apex.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Osteophyte;Calcified Granuloma
+
+MESH:
+Osteophyte/thoracic vertebrae/multiple;Calcified Granuloma/lung/apex/right

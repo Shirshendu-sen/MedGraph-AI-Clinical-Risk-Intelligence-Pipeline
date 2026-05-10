@@ -1,0 +1,16 @@
+UID: 3526
+
+INDICATION:
+Shortness of breath.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. there are diminished lung volumes with XXXX XXXX hypoventilatory changes. The cardiac silhouette is not enlarged. There is mild tortuosity of the thoracic aorta. Pulmonary vascularity is within normal limits. No focal consolidation, pleural effusion, or pneumothorax identified. Surgical clips are seen in the upper abdomen. No acute osseous abnormalities demonstrated.
+
+IMPRESSION:
+Low lung volumes without evidence of acute cardiopulmonary process.
+
+PROBLEMS:
+Lung;Aorta, Thoracic;Surgical Instruments
+
+MESH:
+Lung/hypoinflation;Aorta, Thoracic/tortuous/mild;Surgical Instruments/abdomen

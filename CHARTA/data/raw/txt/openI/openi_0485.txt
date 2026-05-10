@@ -1,0 +1,16 @@
+UID: 500
+
+INDICATION:
+Preop CABG. Coronary artery disease.
+
+FINDINGS:
+The heart is enlarged. Pulmonary vasculature is normal in caliber. There is a nerve stimulator device projecting over the left hemithorax. The lungs are grossly clear of focal airspace disease, pneumothorax or pleural effusion.
+
+IMPRESSION:
+Cardiomegaly. No acute findings.
+
+PROBLEMS:
+Cardiomegaly;Foreign Bodies
+
+MESH:
+Cardiomegaly;Foreign Bodies/thorax/left

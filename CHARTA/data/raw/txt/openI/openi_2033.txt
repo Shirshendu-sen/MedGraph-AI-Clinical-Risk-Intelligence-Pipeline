@@ -1,0 +1,16 @@
+UID: 2111
+
+INDICATION:
+Confusion
+
+FINDINGS:
+Patchy airspace disease is present in the lateral view probably within the right lower lobe. There is severe underlying emphysema. The aorta is calcified. There is spondylosis.
+
+IMPRESSION:
+Patchy airspace disease on the lateral view, probably within the right lower lobe, XXXX a pneumonia superimposed on XXXX severe underlying emphysema. Recommend following this process to resolution.
+
+PROBLEMS:
+Airspace Disease;Pulmonary Emphysema;Calcinosis;Spondylosis;Pneumonia
+
+MESH:
+Airspace Disease/lung/lower lobe/right/patchy;Pulmonary Emphysema/severe;Calcinosis/aorta;Spondylosis;Pneumonia/lower lobe/right

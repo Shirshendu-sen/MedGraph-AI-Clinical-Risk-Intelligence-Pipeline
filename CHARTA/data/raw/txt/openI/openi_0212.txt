@@ -1,0 +1,16 @@
+UID: 220
+
+INDICATION:
+Metastatic colon cancer
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. Left-sided chest XXXX is again visualized with tip at cavoatrial junction. There is no pneumothorax. Numerous bilateral pulmonary nodules have increased in size and number XXXX compared to prior study. The dominant nodule/mass in the left midlung is also mildly increased. There is no pleural effusion.
+
+IMPRESSION:
+Interval increase in size and number of innumerable bilateral pulmonary nodules consistent with worsening metastatic disease.
+
+PROBLEMS:
+Catheters, Indwelling;Nodule;Nodule
+
+MESH:
+Catheters, Indwelling;Nodule/lung/bilateral/multiple;Nodule/lung/lingula/prominent

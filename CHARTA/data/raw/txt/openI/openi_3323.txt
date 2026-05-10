@@ -1,0 +1,16 @@
+UID: 3458
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The lungs are clear. The heart pulmonary XXXX are normal. The pleural spaces are clear. Mediastinal contours are normal.
+
+IMPRESSION:
+No acute cardiopulmonary disease
+
+PROBLEMS:
+normal
+
+MESH:
+normal

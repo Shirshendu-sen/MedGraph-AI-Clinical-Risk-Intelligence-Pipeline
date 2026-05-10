@@ -1,0 +1,16 @@
+UID: 1712
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+Normal cardiac contours. No pleural effusion or pneumothorax. Bilateral lower lobe bronchial thickening consistent with bronchitis.
+
+IMPRESSION:
+1. Bilateral lower lobe bronchitis.
+
+PROBLEMS:
+Thickening;Bronchitis
+
+MESH:
+Thickening/lung/lower lobe/bronchi/bilateral;Bronchitis/lower lobe/bilateral

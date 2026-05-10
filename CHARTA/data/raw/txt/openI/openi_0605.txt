@@ -1,0 +1,16 @@
+UID: 623
+
+INDICATION:
+CHEST PAIN CXR SFWP
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. Atherosclerotic calcifications of the aorta. There is again a pleural based density in the right lung base, XXXX related to subpleural fat. The appearance is stable from multiple previous studies. The lungs are clear. There is no pleural effusion.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Atherosclerosis;Density;Adipose Tissue
+
+MESH:
+Atherosclerosis/aorta;Density/lung/base/right;Adipose Tissue/lung/base/right

@@ -1,0 +1,16 @@
+UID: 1427
+
+INDICATION:
+XXXX.2,780.79,786.05 bronchitis, fatigue, sob
+
+FINDINGS:
+The lungs are clear. Heart size is normal. No pneumothorax. There is a cardiac XXXX with leads terminating in the right atrium and right ventricle. There are atherosclerotic calcifications.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Catheters, Indwelling;Atherosclerosis
+
+MESH:
+Catheters, Indwelling;Atherosclerosis

@@ -1,0 +1,16 @@
+UID: 2513
+
+INDICATION:
+XXXX
+
+FINDINGS:
+[<Heart size and pulmonary vascularity within normal limits. There is a large hiatal hernia seen projecting in the retrocardiac region. This is XXXX from prior examination. There is associated atelectasis in the left lung base. No pleural effusion or pneumothorax is identified.
+
+IMPRESSION:
+1. XXXX large hiatal hernia. 2. Left base atelectasis.
+
+PROBLEMS:
+Hernia, Hiatal;Pulmonary Atelectasis
+
+MESH:
+Hernia, Hiatal/retrocardiac/large;Pulmonary Atelectasis/base/left

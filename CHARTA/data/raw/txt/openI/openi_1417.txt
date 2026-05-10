@@ -1,0 +1,16 @@
+UID: 1465
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+The heart is normal in size. Stable appearance of coronary stent. XXXX sternotomy changes are present. No focal consolidation, pneumothorax or pleural effusion. Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Stents;Thoracic Vertebrae
+
+MESH:
+Stents/coronary vessels;Thoracic Vertebrae/degenerative/mild

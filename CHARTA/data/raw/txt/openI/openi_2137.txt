@@ -1,0 +1,16 @@
+UID: 2217
+
+INDICATION:
+XXXX-year-old female, pain, difficulty breathing
+
+FINDINGS:
+Heart size borderline enlarged, mediastinal contours appear similar to the XXXX from XXXX, XXXX XXXX noted. Right hemidiaphragm eventration. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.
+
+IMPRESSION:
+No acute cardiopulmonary findings
+
+PROBLEMS:
+Cardiomegaly;Diaphragmatic Eventration
+
+MESH:
+Cardiomegaly/borderline;Diaphragmatic Eventration/right

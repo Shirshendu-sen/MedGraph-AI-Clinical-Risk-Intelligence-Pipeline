@@ -1,0 +1,16 @@
+UID: 2055
+
+INDICATION:
+CHF
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable normal heart size. Calcified aorta. Right chest XXXX in the SVC. Small volume bilateral pleural effusions basilar atelectasis. Streaky perihilar opacification, XXXX a component of vascular congestion in central pulmonary edema persist. Nodular opacities scattered throughout the lungs compatible with known pulmonary parenchymal metastatic disease. Similar appearance to the prior study.
+
+PROBLEMS:
+Calcinosis;Catheters, Indwelling;Pleural Effusion;Pulmonary Atelectasis;Opacity;Pulmonary Congestion;Pulmonary Edema;Opacity
+
+MESH:
+Calcinosis/aorta;Catheters, Indwelling/right;Pleural Effusion/bilateral/small;Pulmonary Atelectasis/base/bilateral;Opacity/lung/hilum/streaky;Pulmonary Congestion;Pulmonary Edema;Opacity/lung/bilateral/scattered/round/multiple

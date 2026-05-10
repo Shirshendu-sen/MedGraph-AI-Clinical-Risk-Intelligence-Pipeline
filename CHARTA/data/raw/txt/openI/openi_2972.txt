@@ -1,0 +1,16 @@
+UID: 3097
+
+INDICATION:
+XXXX and congestion.
+
+FINDINGS:
+The heart size and pulmonary vascularity appear within normal limits. Vascular calcification is identified. Calcified granuloma is present in the right lower lobe. No XXXX nodules are seen. No pneumothorax or pleural effusion is seen. No focal airspace disease is identified.
+
+IMPRESSION:
+1. No evidence of active disease.
+
+PROBLEMS:
+Calcinosis;Calcified Granuloma
+
+MESH:
+Calcinosis/blood vessels;Calcified Granuloma/lung/lower lobe/right

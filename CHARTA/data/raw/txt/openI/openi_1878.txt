@@ -1,0 +1,16 @@
+UID: 1942
+
+INDICATION:
+Shortness of breath with exertion. Cardiomyopathy.
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Heart size is moderately enlarged, pulmonary vascularity within normal limits. There is a XXXX ICD generator obscuring the left lateral midlung with the leads projecting over the expected location of the right atrium, right ventricle, and coronary sinus.
+
+IMPRESSION:
+1. No acute pulmonary abnormality. 2. Moderate cardiomegaly without pulmonary edema.
+
+PROBLEMS:
+Cardiomegaly;Implanted Medical Device;Lung
+
+MESH:
+Cardiomegaly/moderate;Implanted Medical Device;Lung/lingula/obscured

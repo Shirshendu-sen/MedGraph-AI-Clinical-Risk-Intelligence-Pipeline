@@ -1,0 +1,16 @@
+UID: 3868
+
+INDICATION:
+History of hypertension.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Slight tortuous aorta. The lungs are clear. No effusions or edema
+
+PROBLEMS:
+Aorta
+
+MESH:
+Aorta/tortuous/mild

@@ -1,0 +1,16 @@
+UID: 3905
+
+INDICATION:
+XXXX-year-old male with chest pain
+
+FINDINGS:
+The heart is enlarged, stable compared to the previous exam. The mediastinum is unremarkable. There is no pleural effusion, pneumothorax, or focal airspace disease. The XXXX are unremarkable.
+
+IMPRESSION:
+1. Stable cardiomegaly without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly

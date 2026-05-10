@@ -1,0 +1,16 @@
+UID: 3492
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The lungs remain hyperexpanded. No masses or infiltrates in the lungs. No pleural or mediastinal air collections. Heart size normal.
+
+IMPRESSION:
+Chronic obstructive pulmonary disease with no acute findings.
+
+PROBLEMS:
+Lung;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Pulmonary Disease, Chronic Obstructive

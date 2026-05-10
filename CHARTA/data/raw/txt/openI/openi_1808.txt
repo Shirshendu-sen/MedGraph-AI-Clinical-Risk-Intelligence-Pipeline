@@ -1,0 +1,16 @@
+UID: 1870
+
+INDICATION:
+XXXX-year-old female, chest pain
+
+FINDINGS:
+There is marked cardiomegaly. There is questionable dilation of the pulmonary arteries. Low lung volumes. No focal airspace consolidation. No pleural effusion or pneumothorax. Prominent interstitial markings are XXXX due to low lung volumes. Elevated right hemidiaphragm.
+
+IMPRESSION:
+1. Marked cardiomegaly. 2. Low lung volumes.
+
+PROBLEMS:
+Cardiomegaly;Lung;Markings;Diaphragm
+
+MESH:
+Cardiomegaly/severe;Lung/hypoinflation;Markings/lung/interstitial/prominent;Diaphragm/right/elevated

@@ -1,0 +1,16 @@
+UID: 2211
+
+INDICATION:
+XXXX
+
+FINDINGS:
+There is persistent cardiomegaly with suggestion of left atrial enlargement as evidenced by cardiac contour the lateral image and XXXX density on the frontal image. The lungs are clear. No visible pleural effusion or pneumothorax.
+
+IMPRESSION:
+1. Persistent cardiomegaly. 2. Clear lungs.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly

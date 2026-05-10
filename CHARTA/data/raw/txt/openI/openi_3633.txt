@@ -1,0 +1,16 @@
+UID: 3776
+
+INDICATION:
+chest pain.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Calcified right hilar lymph XXXX. Lungs are clear. No edema or effusion.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/right

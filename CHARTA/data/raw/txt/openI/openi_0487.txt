@@ -1,0 +1,16 @@
+UID: 502
+
+INDICATION:
+The patient is a XXXX-year-old male with abdominal pain, question of small bowel obstruction. XXXX onset XXXX and wheezing in bilateral lung XXXX.
+
+FINDINGS:
+Chest. The trachea is midline. Negative for pneumothorax, pleural effusion or focal airspace consolidation. The heart size is normal. Abdomen. No pneumoperitoneum. There is a normal bowel XXXX pattern. Air and stool visible throughout the entire large colon including the rectum. No abnormally dilated small bowel loops. No evidence for intussusception or small bowel obstruction. No pathologic calcifications XXXX over the abdomen or pelvis. XXXX XXXX are without fracture or destructive lesion, though there are mild degenerative changes throughout the lumbar spine. Small hiatal hernia is not as well demonstrated on this exam.
+
+IMPRESSION:
+Chest. 1. No acute cardiopulmonary abnormality. Abdomen. 1. No acute intra-abdominal process. Negative for obstruction.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

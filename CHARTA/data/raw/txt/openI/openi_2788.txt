@@ -1,0 +1,16 @@
+UID: 2903
+
+INDICATION:
+XXXX, nausea, vomiting, chest pain.
+
+FINDINGS:
+Cardiac silhouette is within normal limits in size for AP technique. Lungs are mildly hypoinflated but grossly clear of focal airspace disease, pneumothorax, or pleural effusion. Pulmonary vasculature is normal in caliber. There are no acute bony findings.
+
+IMPRESSION:
+Mildly hypoinflated, grossly clear lungs. .
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation/mild

@@ -1,0 +1,16 @@
+UID: 3214
+
+INDICATION:
+History of pericardial effusion.
+
+FINDINGS:
+There is an marked interval increase in heart size. The heart also demonstrates the XXXX XXXX configuration, compatible with pericardial effusion. A small right pleural effusion the present. The lungs are otherwise clear without focal infiltrates. Normal pulmonary vascularity. No pneumothorax.
+
+IMPRESSION:
+Large pericardial effusion.
+
+PROBLEMS:
+Cardiomegaly;Pericardial Effusion;Pleural Effusion
+
+MESH:
+Cardiomegaly;Pericardial Effusion/large;Pleural Effusion/right/small

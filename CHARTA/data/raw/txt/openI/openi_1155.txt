@@ -1,0 +1,16 @@
+UID: 1195
+
+INDICATION:
+XXXX-year-old male, COPD and XXXX.
+
+FINDINGS:
+Coronary artery stents visualized. The cardiomediastinal silhouette is within normal limits for size and contour. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. No acute bone abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+Stents
+
+MESH:
+Stents/coronary vessels

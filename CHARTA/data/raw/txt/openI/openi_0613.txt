@@ -1,0 +1,16 @@
+UID: 632
+
+INDICATION:
+XXXX-year-old male with shortness of breath, XXXX.
+
+FINDINGS:
+Cardiac and mediastinal silhouette are unremarkable. Lungs are clear. No focal consolidation, pneumothorax, or pleural effusion identified. XXXX and soft tissue are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

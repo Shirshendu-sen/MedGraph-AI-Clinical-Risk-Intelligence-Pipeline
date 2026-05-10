@@ -1,0 +1,16 @@
+UID: 2673
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The heart is large. In the interval, pulmonary venous engorgement has developed. Also, bibasilar interstitial infiltrates are present.
+
+IMPRESSION:
+Developing heart failure with pulmonary venous engorgement and bibasilar pulmonary interstitial edema.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Pulmonary Edema;Infiltrate;Heart Failure
+
+MESH:
+Cardiomegaly;Pulmonary Congestion;Pulmonary Edema/base/bilateral/interstitial;Infiltrate/lung/base/bilateral/interstitial;Heart Failure

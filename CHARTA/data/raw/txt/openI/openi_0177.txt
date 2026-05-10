@@ -1,0 +1,16 @@
+UID: 183
+
+INDICATION:
+XXXX-year-old male, XXXX.
+
+FINDINGS:
+Heart size within normal limits. There are low lung volumes with bronchovascular crowding. There is mild increased airspace opacity within the right lung base which may represent atelectasis or infiltrate.. No visualized pneumothorax or large pleural effusion. Multilevel degenerative disease of the spine.
+
+IMPRESSION:
+Low lung volumes with airspace disease within the right lung base. Followup radiographs following treatment is recommended to document resolution.
+
+PROBLEMS:
+Lung;Markings;Opacity;Spine;Airspace Disease
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Opacity/lung/base/right/mild;Spine/degenerative/multiple;Airspace Disease/lung/base/right

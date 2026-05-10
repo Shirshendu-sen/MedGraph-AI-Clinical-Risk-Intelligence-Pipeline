@@ -1,0 +1,16 @@
+UID: 2882
+
+INDICATION:
+XXXX-year-old female, abdominal pain.
+
+FINDINGS:
+There are no focal areas of consolidation. No suspicious bony opacities. Heart size slightly enlarged. No pleural effusions. There is no evidence of pneumothorax. Degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Mild cardiomegaly, stable.
+
+PROBLEMS:
+Cardiomegaly;Thoracic Vertebrae
+
+MESH:
+Cardiomegaly/mild;Thoracic Vertebrae/degenerative

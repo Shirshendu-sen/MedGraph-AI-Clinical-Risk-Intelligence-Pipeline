@@ -1,0 +1,16 @@
+UID: 1838
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+Stable elevation of the right hemidiaphragm. Stable cardiomediastinal silhouette. No focal airspace disease. No pneumothorax or large effusion.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+Diaphragm
+
+MESH:
+Diaphragm/right/elevated

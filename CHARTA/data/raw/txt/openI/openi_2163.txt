@@ -1,0 +1,16 @@
+UID: 2243
+
+INDICATION:
+XXXX-year-old female with chest pain
+
+FINDINGS:
+The heart is normal size. The mediastinum is unremarkable. There is no pleural effusion, pneumothorax, or focal airspace disease. There is a stable calcified granuloma within the left lower lobe. There are stable chronic degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Thoracic Vertebrae
+
+MESH:
+Calcified Granuloma/lung/lower lobe/left;Thoracic Vertebrae/degenerative/chronic

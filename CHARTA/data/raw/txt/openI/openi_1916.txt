@@ -1,0 +1,16 @@
+UID: 1981
+
+INDICATION:
+XXXX-year-old female with chest pain
+
+FINDINGS:
+The heart is normal size. The mediastinum is unremarkable. There is no pleural effusion, pneumothorax, or focal airspace disease. Chronic degenerative changes are present within the spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative/chronic

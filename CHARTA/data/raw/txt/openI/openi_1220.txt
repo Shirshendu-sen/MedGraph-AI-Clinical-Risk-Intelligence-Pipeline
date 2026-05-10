@@ -1,0 +1,16 @@
+UID: 1265
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+Normal heart size. There is a round density in the AP XXXX. XXXX study performed in XXXX is not available for review at this time. Lungs are hyperinflated with flattened diaphragms. Calcified right lower lobe granuloma. No focal airspace consolidation, pneumothorax, or pleural effusion. No pulmonary edema. No acute bony abnormality.
+
+IMPRESSION:
+Circumscribed structure in the AP XXXX could represent lymphadenopathy, mass, pulmonary arterial abnormality XXXX as aneurysm, or enlargement of the left atrial appendage. As prior chest x-XXXX are not available online at this XXXX should be considered.
+
+PROBLEMS:
+Density;Lung;Diaphragm;Calcified Granuloma
+
+MESH:
+Density/round;Lung/hyperdistention;Diaphragm/flattened;Calcified Granuloma/lung/lower lobe/right

@@ -1,0 +1,16 @@
+UID: 494
+
+INDICATION:
+XXXX-year-old female, breast cancer, preoperative evaluation.
+
+FINDINGS:
+Heart size within normal limits. Mediastinal contours unremarkable. Pulmonary vascularity is normal. Right lung is clear. XXXX opacities left lung base may represent atelectasis versus scarring. No focal consolidation. No pleural effusion, no pneumothorax. Bony structures unremarkable.
+
+IMPRESSION:
+Atelectasis versus scar left lung base. Otherwise unremarkable. XXXX XXXX for the opportunity to assist in the care of your patient. If there are any questions about this examination please XXXX. XXXX, XXXX certified radiologist, at XXXX.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/base/left

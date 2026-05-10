@@ -1,0 +1,16 @@
+UID: 1184
+
+INDICATION:
+XXXX-year-old male, assault
+
+FINDINGS:
+The heart size and mediastinal contours appear within normal limits. Low lung volumes on the AP view with bronchovascular crowding and bibasilar atelectasis. No focal airspace consolidation, pleural effusions or pneumothorax. No acute bony abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung;Markings;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Pulmonary Atelectasis/base/bilateral

@@ -1,0 +1,16 @@
+UID: 1106
+
+INDICATION:
+XXXX on the congestion, XXXX for 2 days
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. Subtle airspace density within the medial right lung base, not obscuring the right heart XXXX. This may represent focal right lower lobe pneumonia given history. Left lung clear. No effusions. No pneumothorax. Skeletal structures unremarkable.
+
+PROBLEMS:
+Density
+
+MESH:
+Density/lung/base/right/mild

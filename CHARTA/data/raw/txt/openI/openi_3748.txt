@@ -1,0 +1,16 @@
+UID: 3895
+
+INDICATION:
+XXXX-year-old female, chest pain.
+
+FINDINGS:
+There are scattered XXXX opacities in the left lower lobe. Cardiac silhouette is within normal limits. There is prominence of the right and left hilum XXXX representing enlargement of the central pulmonary arteries. No pneumothorax or pleural effusion. No acute bone abnormality.
+
+IMPRESSION:
+1. Left lower lobe opacities XXXX representing pneumonia. 2. Enlargement of the central pulmonary arteries raising the question of pulmonary hypertension.
+
+PROBLEMS:
+Opacity;Lung;Pulmonary Artery;Pneumonia
+
+MESH:
+Opacity/lung/lower lobe/left/scattered/multiple;Lung/hilum/bilateral/prominent;Pulmonary Artery/bilateral/enlarged;Pneumonia/lower lobe/left

@@ -1,0 +1,16 @@
+UID: 2258
+
+INDICATION:
+XXXX-year-old male, XXXX
+
+FINDINGS:
+Mild hypoventilation with bronchovascular crowding and prominent central and basilar interstitial markings. No focal alveolar consolidation, no pleural effusion demonstrated. Considering technical factors heart size XXXX within normal limits.
+
+IMPRESSION:
+Prominent interstitial markings in the central lungs and bases which may be secondary to low lung volumes with bronchovascular crowding, differential considerations include interstitial infiltrates of inflammatory or infectious etiology and mild pulmonary edema. Clinical correlation is recommended.
+
+PROBLEMS:
+Markings;Markings;Lung;Markings;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Markings/lung/middle lobe/bilateral/interstitial/prominent;Markings/lung/base/bilateral/interstitial/prominent;Lung/hypoinflation;Markings/bronchovascular;Technical Quality of Image Unsatisfactory

@@ -1,0 +1,16 @@
+UID: 3824
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+None
+
+IMPRESSION:
+1. Patchy bilateral opacities, primarily in the lung bases, whose features are most consistent with pneumonia. Aspiration or edema are also possible but less XXXX. 2. XXXX lung volumes 3. No pneumothorax
+
+PROBLEMS:
+Opacity;Pneumonia;Lung
+
+MESH:
+Opacity/lung/base/bilateral/patchy;Pneumonia/base/bilateral/patchy;Lung/hypoinflation

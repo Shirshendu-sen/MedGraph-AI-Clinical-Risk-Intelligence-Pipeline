@@ -1,0 +1,16 @@
+UID: 1817
+
+INDICATION:
+Generalized weakness.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. Upper thorax is poorly visualized due to patient's overlying head and chin. The cardiomediastinal contours are within normal limits. Background of mild coarse interstitial opacities seen throughout the lungs XXXX related to background of emphysema. Calcified granuloma is seen in the left medial lung base. There is no consolidation, pleural effusion or pneumothorax. Deformity of the right 6th rib laterally has appearance of acute or subacute fracture. Degenerative changes of the thoracic spine are again seen.
+
+IMPRESSION:
+Age indeterminant but XXXX acute to subacute right 6th rib fracture.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Opacity;Emphysema;Calcified Granuloma;Deformity;Fractures, Bone;Thoracic Vertebrae
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Opacity/lung/bilateral/interstitial/mild;Emphysema;Calcified Granuloma/lung/base/left;Deformity/ribs/right;Fractures, Bone/ribs/right;Thoracic Vertebrae/degenerative

@@ -1,0 +1,16 @@
+UID: 832
+
+INDICATION:
+XXXX rule out pneumonia
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart normal. Lungs clear. Calcified left lower lobe 5 mm granuloma
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/lower lobe/left

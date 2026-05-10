@@ -1,0 +1,16 @@
+UID: 3001
+
+INDICATION:
+XXXX.
+
+FINDINGS:
+Frontal and lateral views of the chest show an unchanged cardiomediastinal silhouette. Normal mediastinal contour, pulmonary XXXX and vasculature, central airways and aeration of the lungs. The inferior posterior sulcus is excluded.
+
+IMPRESSION:
+No acute or active cardiac or pulmonary disease process. Cannot exclude small pleural effusions.
+
+PROBLEMS:
+Sulcus
+
+MESH:
+Sulcus/posterior/obscured

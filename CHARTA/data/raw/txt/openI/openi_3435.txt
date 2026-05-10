@@ -1,0 +1,16 @@
+UID: 3575
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+Heart size normal. No pneumothorax, pleural effusion, or focal airspace disease. Central left midlung granuloma with calcified left hilar adenopathy. Bony structures appear intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Granuloma;Calcinosis
+
+MESH:
+Granuloma/lung/lingula;Calcinosis/lung/hilum/lymph nodes/left

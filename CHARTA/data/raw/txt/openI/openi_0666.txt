@@ -1,0 +1,16 @@
+UID: 686
+
+INDICATION:
+Preoperative evaluation
+
+FINDINGS:
+Cardiomegaly with unfolded aorta. There is no pulmonary edema. There is no focal consolidation. There are no XXXX of a large pleural effusion. There is no evidence of pneumothorax.
+
+IMPRESSION:
+Cardiomegaly. Clear lungs. .
+
+PROBLEMS:
+Cardiomegaly;Aorta
+
+MESH:
+Cardiomegaly;Aorta/tortuous

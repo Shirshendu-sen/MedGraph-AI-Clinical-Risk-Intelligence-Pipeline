@@ -1,0 +1,16 @@
+UID: 2317
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+A calcified granuloma is present in the right costophrenic XXXX. Lungs are otherwise clear. Heart size normal.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/costophrenic angle/right

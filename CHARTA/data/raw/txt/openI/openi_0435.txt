@@ -1,0 +1,16 @@
+UID: 450
+
+INDICATION:
+XXXX-year-old chest pain.
+
+FINDINGS:
+No focal consolidation. No pneumothorax. No pleural effusions. Heart size normal. Cardio mediastinal silhouette is unremarkable.
+
+IMPRESSION:
+1. No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

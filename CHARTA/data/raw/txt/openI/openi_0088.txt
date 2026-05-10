@@ -1,0 +1,16 @@
+UID: 89
+
+INDICATION:
+XXXX-year-old female chest pain.
+
+FINDINGS:
+The heart size and mediastinal silhouette are within normal limits for contour. The lungs are clear. No pneumothorax or pleural effusions. The XXXX are intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

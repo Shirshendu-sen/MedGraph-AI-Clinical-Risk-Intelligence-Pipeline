@@ -1,0 +1,16 @@
+UID: 2879
+
+INDICATION:
+Preop XXXX, hip surgery
+
+FINDINGS:
+Borderline heart size. Tortuous calcified aorta. No active pulmonary disease. Mild spondylosis.
+
+IMPRESSION:
+No acute process.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis;Aorta;Spondylosis
+
+MESH:
+Cardiomegaly/borderline;Calcinosis/aorta;Aorta/tortuous;Spondylosis/mild

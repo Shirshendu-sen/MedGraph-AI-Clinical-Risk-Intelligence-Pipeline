@@ -1,0 +1,16 @@
+UID: 3534
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Lungs are clear bilaterally. There is no focal consolidation, pleural effusion, or pneumothoraces. Heart size is normal. Stable right paratracheal prominence, consistent with known calcified lymph node, seen on prior CT chest dated XXXX. XXXX are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Mediastinum
+
+MESH:
+Mediastinum/right/paratracheal/prominent

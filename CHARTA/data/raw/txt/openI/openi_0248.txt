@@ -1,0 +1,16 @@
+UID: 258
+
+INDICATION:
+pt is a XXXX who presents with fatigue
+
+FINDINGS:
+Overall hyperexpanded lungs with flattening of the diaphragms consistent with obstructive lung disease. Lungs are clear without focal consolidation. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the spine.
+
+IMPRESSION:
+Hyperexpanded but clear lungs.
+
+PROBLEMS:
+Lung;Diaphragm;Pulmonary Disease, Chronic Obstructive;Spine
+
+MESH:
+Lung/hyperdistention;Diaphragm/flattened;Pulmonary Disease, Chronic Obstructive;Spine/degenerative

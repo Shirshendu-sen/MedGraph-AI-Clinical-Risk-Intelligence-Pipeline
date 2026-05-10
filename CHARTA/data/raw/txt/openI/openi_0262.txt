@@ -1,0 +1,16 @@
+UID: 273
+
+INDICATION:
+XXXX-year-old female, chest pain
+
+FINDINGS:
+Heart size mildly to moderately enlarged. Mild right hemidiaphragm elevation with mild bronchovascular crowding, right greater than left, indistinct vascular margination. No definite focal alveolar consolidation, no pleural effusion XXXX demonstrated.
+
+IMPRESSION:
+1. Cardiomegaly 2. Indistinct vascular margination which may be secondary to bronchovascular crowding however differential diagnosis includes mild pulmonary edema, atypical infection, inflammation
+
+PROBLEMS:
+Cardiomegaly;Diaphragm;Pulmonary Congestion;Markings
+
+MESH:
+Cardiomegaly/moderate;Diaphragm/right/elevated/mild;Pulmonary Congestion;Markings/bilateral/bronchovascular/mild

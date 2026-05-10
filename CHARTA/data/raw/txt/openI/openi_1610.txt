@@ -1,0 +1,16 @@
+UID: 1665
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+Normal cardiac contour. Stable calcified granuloma left upper lobe. No pleural effusion or pneumothorax. Clear lungs bilaterally.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/upper lobe/left

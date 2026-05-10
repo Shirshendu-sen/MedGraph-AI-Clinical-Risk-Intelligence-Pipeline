@@ -1,0 +1,16 @@
+UID: 314
+
+INDICATION:
+XXXX-year-old with shortness of breath hypoxia.
+
+FINDINGS:
+Low lung volumes. Normal heart size. The trachea is midline. Lungs are clear. No pneumothorax. No pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

@@ -1,0 +1,16 @@
+UID: 2502
+
+INDICATION:
+CHF and shortness of breath.
+
+FINDINGS:
+There is a focal area of opacity in the right midlung zone. This was not present on the recent prior study. There is prominence of the pulmonary markings throughout and there are small bilateral pleural effusions. The heart is not significantly enlarged. There is a prosthetic valve. There are atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures are noted.
+
+IMPRESSION:
+1. Focal opacity in the right midlung zone worrisome for pneumonitis. 2. Mild pulmonary vascular congestion.
+
+PROBLEMS:
+Opacity;Markings;Pleural Effusion;Implanted Medical Device;Atherosclerosis;Arthritis;Pulmonary Congestion
+
+MESH:
+Opacity/lung/middle lobe/right/focal;Markings/lung/bilateral/prominent;Pleural Effusion/bilateral/small;Implanted Medical Device/heart;Atherosclerosis/aorta;Arthritis;Pulmonary Congestion/mild

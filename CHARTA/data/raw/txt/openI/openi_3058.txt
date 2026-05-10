@@ -1,0 +1,16 @@
+UID: 3185
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and appearance. The lung XXXX are clear. There are no soft tissue or bony abnormalities. There is no pneumothorax or pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

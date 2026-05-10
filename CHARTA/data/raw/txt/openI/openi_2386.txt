@@ -1,0 +1,16 @@
+UID: 2472
+
+INDICATION:
+XXXX pacemaker XXXX for pneumothorax
+
+FINDINGS:
+None
+
+IMPRESSION:
+No pneumothorax. Pacemaker defibrillator tips in the right atrium, right ventricle and a coronary vein. Heart size normal. Lungs are clear.
+
+PROBLEMS:
+Implanted Medical Device
+
+MESH:
+Implanted Medical Device

@@ -1,0 +1,16 @@
+UID: 168
+
+INDICATION:
+XXXX-year-old woman with shortness of breath, XXXX.
+
+FINDINGS:
+The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax demonstrates stable mild multilevel degenerative disc disease of the thoracolumbar spine as well as chronic left-sided rib fractures without acute abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Thoracic Vertebrae;Lumbar Vertebrae;Fractures, Bone
+
+MESH:
+Thoracic Vertebrae/degenerative/multiple/mild;Lumbar Vertebrae/degenerative/multiple/mild;Fractures, Bone/ribs/left/chronic

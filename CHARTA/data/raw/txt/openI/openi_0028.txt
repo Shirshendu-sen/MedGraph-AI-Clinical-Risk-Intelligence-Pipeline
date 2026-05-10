@@ -1,0 +1,16 @@
+UID: 29
+
+INDICATION:
+XXXX, hypoxia.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Borderline heart size. Elevated left diaphragm. Clear right lung. Tracheostomy tube tip above the carina. Extensive airspace disease in the left base. No large effusion or pneumothorax.
+
+PROBLEMS:
+Cardiomegaly;Diaphragm;Tube, Inserted;Airspace Disease
+
+MESH:
+Cardiomegaly/borderline;Diaphragm/left/elevated;Tube, Inserted/trachea, carina;Airspace Disease/lung/base/left/severe

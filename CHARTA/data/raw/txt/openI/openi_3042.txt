@@ -1,0 +1,16 @@
+UID: 3169
+
+INDICATION:
+Pressure left-sided face.
+
+FINDINGS:
+Hyperlucent hyperinflated lungs with flattened diaphragms. Granulomas. Small sized heart. Minimal apical capping slightly greater at the left. XXXX unremarkable.
+
+IMPRESSION:
+Appearance suggests emphysema. Apical capping, slightly greater at the left. Recommend comparison with prior films or followup chest x-XXXX films to confirm stability and approximately 4 months in XXXX. Critical result notification documented through Primordial.
+
+PROBLEMS:
+Lung;Lung, Hyperlucent;Diaphragm;Thickening;Granuloma;Heart
+
+MESH:
+Lung/hyperdistention;Lung, Hyperlucent;Diaphragm/bilateral/flattened;Thickening/pleura/apex/bilateral/mild;Granuloma/multiple;Heart/small

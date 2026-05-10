@@ -1,0 +1,16 @@
+UID: 1669
+
+INDICATION:
+XXXX-year-old woman with dyspnea.
+
+FINDINGS:
+The lungs are clear, and without focal air space opacity. The cardiomediastinal silhouette is normal in size and contour, and stable. There are calcifications in the aortic XXXX. There is a calcified granuloma at the left lower lung. There is no pneumothorax or large pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcinosis;Calcified Granuloma
+
+MESH:
+Calcinosis/aorta;Calcified Granuloma/lung/lower lobe/left

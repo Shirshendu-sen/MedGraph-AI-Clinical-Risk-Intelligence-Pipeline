@@ -1,0 +1,16 @@
+UID: 244
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Heart XXXX, mediastinum, XXXX, bony structures and lung XXXX are unremarkable.
+
+IMPRESSION:
+No radiographic evidence of acute cardiopulmonary disease
+
+PROBLEMS:
+normal
+
+MESH:
+normal

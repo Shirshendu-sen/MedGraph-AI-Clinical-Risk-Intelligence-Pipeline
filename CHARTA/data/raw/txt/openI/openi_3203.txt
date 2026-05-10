@@ -1,0 +1,16 @@
+UID: 3334
+
+INDICATION:
+Hypoxia. History: XXXX portable XXXX tubes and lines
+
+FINDINGS:
+None
+
+IMPRESSION:
+Persistent but decreasing basilar infiltrates atelectasis. Possible small effusions. Sternotomy. Heart size normal. Left IJ catheter tip mid SVC
+
+PROBLEMS:
+Infiltrate;Pulmonary Atelectasis;Catheters, Indwelling
+
+MESH:
+Infiltrate/lung/base/bilateral;Pulmonary Atelectasis/base/bilateral;Catheters, Indwelling/left

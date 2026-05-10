@@ -1,0 +1,16 @@
+UID: 2404
+
+INDICATION:
+XXXX-year-old male, pain, history of surgery
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size within normal limits, stable mediastinal contours, mediastinal surgical clips, mediastinal and right hilar calcifications suggest a previous granulomatous process. Improved lung volumes, XXXX left base opacities most suggestive of scarring. No focal alveolar consolidation, no definite pleural effusion seen. Bronchovascular crowding without typical findings of pulmonary edema.
+
+PROBLEMS:
+Surgical Instruments;Calcinosis;Calcinosis;Opacity;Cicatrix;Markings
+
+MESH:
+Surgical Instruments/mediastinum;Calcinosis/mediastinum;Calcinosis/lung/hilum/right;Opacity/lung/base/left;Cicatrix/lung/base/left;Markings/bronchovascular

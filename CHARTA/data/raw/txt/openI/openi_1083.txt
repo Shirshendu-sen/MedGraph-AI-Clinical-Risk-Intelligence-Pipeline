@@ -1,0 +1,16 @@
+UID: 1118
+
+INDICATION:
+Chest pain for 2 days. Productive XXXX. XXXX
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Heart size and pulmonary vascularity within normal limits.
+
+IMPRESSION:
+1. No acute pulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 2512
+
+INDICATION:
+This is a XXXX-year-old female patient with history of coronary artery bypass graft x3 and recent open-heart surgery. Coronary artery bypass graft performed XXXX. The patient is an XXXX-XXXX.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Sternotomy XXXX are noted in XXXX. Vascular clips are noted consistent with previous coronary artery bypass graft. The previously seen central venous line catheter has been removed. A left pleural effusion remains. Underlying atelectasis is suspected. Given differences in technique, the effusion is not XXXX to be significantly different but is XXXX favored to be lower end of moderate for size. Osseous structures are remarkable for osteopenia, degenerative changes and there is some kyphosis noted to the thoracic spine.
+
+PROBLEMS:
+Surgical Instruments;Pleural Effusion;Bone Diseases, Metabolic;Kyphosis;Bone and Bones;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Surgical Instruments;Pleural Effusion/left/moderate;Bone Diseases, Metabolic;Kyphosis/thoracic vertebrae;Bone and Bones/degenerative;Technical Quality of Image Unsatisfactory

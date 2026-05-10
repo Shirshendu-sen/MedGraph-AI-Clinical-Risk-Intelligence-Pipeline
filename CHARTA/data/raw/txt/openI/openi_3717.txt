@@ -1,0 +1,16 @@
+UID: 3863
+
+INDICATION:
+XXXX-year-old XXXX with XXXX.
+
+FINDINGS:
+The lungs are clear, and without focal airspace opacity. The cardiomediastinal silhouette is enlarged. There is no pneumothorax or large pleural effusion.
+
+IMPRESSION:
+Cardiomegaly, but no focal consolidation.
+
+PROBLEMS:
+Cardiac Shadow;Cardiomegaly
+
+MESH:
+Cardiac Shadow/enlarged;Cardiomegaly

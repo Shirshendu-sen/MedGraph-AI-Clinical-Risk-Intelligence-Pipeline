@@ -1,0 +1,16 @@
+UID: 2437
+
+INDICATION:
+XXXX chest radiograph prior to initiation of medication
+
+FINDINGS:
+The lungs appear clear. The heart and pulmonary XXXX are normal. Mediastinal contours are normal. The pleural spaces are clear.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

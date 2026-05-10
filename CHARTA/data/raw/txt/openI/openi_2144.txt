@@ -1,0 +1,16 @@
+UID: 2224
+
+INDICATION:
+Preoperative lung transplant.
+
+FINDINGS:
+Heart size, mediastinal contour, and pulmonary vasculature are within normal limits. Scattered granulomas and bilateral perihilar calcified lymph XXXX. Stable lingular scarring. No focal consolidation, large pleural effusion or pneumothorax is identified. No bony abnormality.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Granuloma;Calcinosis;Cicatrix;Lung
+
+MESH:
+Granuloma/scattered/multiple;Calcinosis/lung/hilum/lymph nodes/bilateral;Cicatrix/lung/lingula;Lung/bilateral/hyperdistention

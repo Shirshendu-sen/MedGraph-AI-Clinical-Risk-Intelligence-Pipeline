@@ -1,0 +1,16 @@
+UID: 3690
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The heart is again enlarged. Aorta is tortuous. The lungs are hypoinflated but clear. No pleural effusion or pneumothorax is seen.
+
+IMPRESSION:
+1. Stable cardiomegaly without acute disease.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Lung
+
+MESH:
+Cardiomegaly;Aorta/tortuous;Lung/hypoinflation

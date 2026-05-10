@@ -1,0 +1,16 @@
+UID: 2824
+
+INDICATION:
+XXXX in bathtub
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Hyperexpanded lungs. Calcified right upper lobe granuloma, unchanged. Heart size and pulmonary vascularity within normal limits. No displaced rib fractures.
+
+IMPRESSION:
+1. Hyperexpansion without acute pulmonary abnormality.
+
+PROBLEMS:
+Lung;Calcified Granuloma
+
+MESH:
+Lung/hyperdistention;Calcified Granuloma/lung/upper lobe/right

@@ -1,0 +1,16 @@
+UID: 117
+
+INDICATION:
+,174.9 breast cancer. XXXX XXXX.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Comparison XXXX, XXXX. No suspicious appearing lung nodules. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified. Stable chest.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

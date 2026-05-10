@@ -1,0 +1,16 @@
+UID: 3013
+
+INDICATION:
+Pain, history of end-stage renal disease, type 1 diabetes.
+
+FINDINGS:
+The cardiac silhouette is mildly enlarged and appears mildly increased in size from the XXXX study. There is normal caliber pulmonary vasculature. The lungs are grossly clear of focal airspace disease, pneumothorax, or pleural effusion. There is no evidence of pulmonary edema.
+
+IMPRESSION:
+Probable mild cardiomegaly, without evidence of acute failure. No focal airspace disease. .
+
+PROBLEMS:
+Cardiac Shadow;Cardiomegaly
+
+MESH:
+Cardiac Shadow/enlarged/mild;Cardiomegaly/mild

@@ -1,0 +1,16 @@
+UID: 64
+
+INDICATION:
+XXXX. MVC.
+
+FINDINGS:
+2 images. Heart size upper limits of normal. Mediastinal contours are maintained. The patient is mildly rotated. There is a small to moderate sized right apical pneumothorax which measures approximately 2.0 cm. No focal airspace consolidation is seen. Left chest is clear. No definite displaced bony injury is seen. Results called XXXX. XXXX XXXX p.m. XXXX, XXXX.
+
+IMPRESSION:
+Small to moderate right apical pneumothorax.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Pneumothorax
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Pneumothorax/apex/right/moderate

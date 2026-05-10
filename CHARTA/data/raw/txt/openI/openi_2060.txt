@@ -1,0 +1,16 @@
+UID: 2138
+
+INDICATION:
+Abnormal lung exam. Smoking history.
+
+FINDINGS:
+Normal heart size. Stable tortuous thoracic aorta. Prior granulomatous disease. Healed rib fractures appear stable. Focal opacity is noted in the left midlung overlying the 9th posterior rib which XXXX represents healing rib callus. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+No acute abnormality seen.
+
+PROBLEMS:
+Aorta, Thoracic;Granulomatous Disease;Fractures, Bone;Opacity
+
+MESH:
+Aorta, Thoracic/tortuous;Granulomatous Disease;Fractures, Bone/ribs/healed;Opacity/lung/lingula/focal

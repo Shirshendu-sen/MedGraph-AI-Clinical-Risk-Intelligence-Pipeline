@@ -1,0 +1,16 @@
+UID: 410
+
+INDICATION:
+XXXX-year-old with a XXXX.
+
+FINDINGS:
+The heart and mediastinum are unremarkable. The lungs are clear without infiltrate. There is no effusion or pneumothorax. There is a mild levoscoliosis of the thoracic spine. There is mild widening of the right acromioclavicular joint which may be postsurgical or posttraumatic in XXXX.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease.
+
+PROBLEMS:
+Scoliosis;Shoulder
+
+MESH:
+Scoliosis/thoracic vertebrae/left/mild;Shoulder/right/prominent/mild

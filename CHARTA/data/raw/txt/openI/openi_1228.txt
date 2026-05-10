@@ -1,0 +1,16 @@
+UID: 1273
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+Heart is mildly enlarged stable. Mediastinal contour is normal. Pulmonary vascularity is normal. Lungs are hyperexpanded but clear. No pleural effusions or pneumothoraces.
+
+IMPRESSION:
+1. Stable mild cardiomegaly. 2. Hyperexpanded but clear lungs.
+
+PROBLEMS:
+Cardiomegaly;Lung
+
+MESH:
+Cardiomegaly/mild;Lung/hyperdistention

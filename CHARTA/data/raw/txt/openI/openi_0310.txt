@@ -1,0 +1,16 @@
+UID: 322
+
+INDICATION:
+Left flank pain history of COPD
+
+FINDINGS:
+The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. Chronic appearing interstitial markings The lungs are normally inflated and clear. Degenerative changes of the spine.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Markings;Spine
+
+MESH:
+Markings/lung/interstitial/chronic;Spine/degenerative

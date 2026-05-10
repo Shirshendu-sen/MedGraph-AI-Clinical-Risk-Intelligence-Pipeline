@@ -1,0 +1,16 @@
+UID: 2207
+
+INDICATION:
+XXXX-year-old female with dyspnea and productive XXXX.
+
+FINDINGS:
+Heart size is within normal limits. Tortuous thoracic aorta. There is patchy right base airspace disease. No pneumothorax or pleural effusion. There mild degenerative changes throughout the thoracic spine.
+
+IMPRESSION:
+Right lower lobe pneumonia.
+
+PROBLEMS:
+Aorta, Thoracic;Airspace Disease;Thoracic Vertebrae;Pneumonia
+
+MESH:
+Aorta, Thoracic/tortuous;Airspace Disease/lung/base/right/patchy;Thoracic Vertebrae/degenerative/mild;Pneumonia/lower lobe/right

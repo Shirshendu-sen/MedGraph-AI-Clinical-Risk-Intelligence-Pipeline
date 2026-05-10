@@ -1,0 +1,16 @@
+UID: 2922
+
+INDICATION:
+XXXX-year-old male, pain
+
+FINDINGS:
+Hyperinflated lungs with flattened diaphragm and increased retrosternal airspace. No alveolar consolidation, no findings of pleural effusion or pulmonary edema. Heart size within normal limits. Right hilar calcification suggests a previous granulomatous process.
+
+IMPRESSION:
+Hyperinflated lungs, air trapping versus inspiratory XXXX.
+
+PROBLEMS:
+Lung;Diaphragm;Calcinosis
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened;Calcinosis/lung/hilum/right

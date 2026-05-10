@@ -1,0 +1,16 @@
+UID: 1193
+
+INDICATION:
+XXXX-year-old male with dyspnea.
+
+FINDINGS:
+Stable enlarged cardiac silhouette. Persistent bilateral lower lobe airspace disease, not significantly XXXX compared to prior. No pleural effusion or pneumothorax. No acute bony abnormality.
+
+IMPRESSION:
+No significant change compared to prior. Bibasilar airspace disease may represent infection or mild edema.
+
+PROBLEMS:
+Cardiac Shadow;Airspace Disease
+
+MESH:
+Cardiac Shadow/enlarged;Airspace Disease/lung/base/bilateral

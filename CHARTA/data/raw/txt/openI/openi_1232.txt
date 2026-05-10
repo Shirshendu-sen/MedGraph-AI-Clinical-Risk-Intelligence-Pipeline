@@ -1,0 +1,16 @@
+UID: 1277
+
+INDICATION:
+Palpitation
+
+FINDINGS:
+PA and lateral views the chest were obtained. The cardiomediastinal silhouette is normal in size and configuration. The lungs are well aerated. No pneumothorax, pleural effusion, or lobar air space consolidation. XXXX right middle lobe collapse appears less distinct than on prior study.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Pulmonary Atelectasis
+
+MESH:
+Pulmonary Atelectasis/middle lobe/right/mild

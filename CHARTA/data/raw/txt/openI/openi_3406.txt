@@ -1,0 +1,16 @@
+UID: 3544
+
+INDICATION:
+Shortness of breath with productive XXXX
+
+FINDINGS:
+Cardiac and mediastinal silhouettes are normal. Pulmonary vasculature is normal. No pneumothorax or pleural effusion. No acute bony abnormality. XXXX XXXX opacities XXXX reflecting atelectasis versus bronchovascular crowding.
+
+IMPRESSION:
+Bronchovascular crowding versus atelectasis within the right lung base otherwise no acute cardiopulmonary disease.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Markings
+
+MESH:
+Opacity/lung/base/right;Pulmonary Atelectasis/base/right;Markings/lung/base/right/bronchovascular

@@ -1,0 +1,16 @@
+UID: 501
+
+INDICATION:
+XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+1. There is minimal streaky opacity in the posterior lungs, possibly cyst, scarring, or pneumonia. 2. Heart size and pulmonary XXXX appear normal 3. Mediastinal contours are normal
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/posterior/streaky/mild

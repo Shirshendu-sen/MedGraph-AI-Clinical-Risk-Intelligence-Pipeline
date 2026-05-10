@@ -1,0 +1,16 @@
+UID: 525
+
+INDICATION:
+XXXX-year-old male, alleged physical assault, pain
+
+FINDINGS:
+No focal consolidation, no definite pleural effusion seen. Exaggerated kyphosis with increased AP dimension of the thorax, curvilinear density projected over the right anterior 3rd and 4th ribs beyond which lung markings are seen XXXX skin fold artifact. Mild aortic ectasia/tortuosity, no typical mediastinal widening to suggest vascular injury. Contour irregularity of the lateral right 9th rib of indeterminate age.
+
+IMPRESSION:
+1. No acute cardiopulmonary findings. 2. Age-indeterminate fracture of the right lateral 9th rib. If findings localize to this region, suspect acute fracture.
+
+PROBLEMS:
+Fractures, Bone;Kyphosis;Aorta;Deformity
+
+MESH:
+Fractures, Bone/ribs/right;Kyphosis/severe;Aorta/tortuous/mild;Deformity/ribs/right

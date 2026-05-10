@@ -1,0 +1,16 @@
+UID: 3466
+
+INDICATION:
+XXXX-year-old female. Chest pain.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Streaky perihilar opacities. Peribronchial cuffing also noted. No focal consolidation, pneumothorax or large pleural effusion. Normal XXXX.
+
+IMPRESSION:
+Findings most suggestive of infectious or reactive small airways disease. No focal pneumonia.
+
+PROBLEMS:
+Opacity;Thickening;Airspace Disease
+
+MESH:
+Opacity/lung/hilum/streaky;Thickening/bronchi;Airspace Disease/lung/mild

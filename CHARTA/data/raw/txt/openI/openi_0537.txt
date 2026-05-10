@@ -1,0 +1,16 @@
+UID: 553
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Normal heart size and mediastinal contours. Scattered calcified granulomas. Hyperexpanded lungs. No focal airspace disease. No pneumothorax or pleural effusion. Degenerative changes in the spine without acute bony abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary process. .
+
+PROBLEMS:
+Calcified Granuloma;Lung;Spine
+
+MESH:
+Calcified Granuloma/scattered;Lung/hyperdistention;Spine/degenerative

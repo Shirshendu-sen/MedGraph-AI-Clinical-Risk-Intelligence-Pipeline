@@ -1,0 +1,16 @@
+UID: 462
+
+INDICATION:
+XXXX-year-old male, dyspnea
+
+FINDINGS:
+Mild cardiomegaly. Mild unfolding of the thoracic aorta. No focal air space opacity. No pleural effusion or pneumothorax. Visualized osseous structures are unremarkable in appearance.
+
+IMPRESSION:
+1. Mild cardiomegaly. 2. Otherwise, no acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Cardiomegaly;Aorta, Thoracic
+
+MESH:
+Cardiomegaly/mild;Aorta, Thoracic/tortuous/mild

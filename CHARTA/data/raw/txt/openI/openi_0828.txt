@@ -1,0 +1,16 @@
+UID: 856
+
+INDICATION:
+XXXX-year-old female shortness of breath.
+
+FINDINGS:
+Limited evaluation of the lateral view due to rotation and frontal view due to motion artifact. Stable mild cardiomegaly. Normal pulmonary vascularity. The lungs are clear. No focal consolidation, visible pneumothorax or large pleural effusions. XXXX XXXX opacities are related to overlying soft tissues. The posterior sulci are clear. Degenerative changes of the spine.
+
+IMPRESSION:
+1. Stable mild cardiomegaly. 2. No evidence of active cardiopulmonary disease.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Cardiomegaly;Opacity;Spine
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Cardiomegaly/mild;Opacity/multiple;Spine/degenerative

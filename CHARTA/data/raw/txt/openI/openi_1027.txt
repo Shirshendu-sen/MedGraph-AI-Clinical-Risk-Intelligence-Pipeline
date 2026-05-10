@@ -1,0 +1,16 @@
+UID: 1060
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The cardiac contours are normal. The lungs are clear. Thoracic spondylosis. Mild dextrocurvature the spine.
+
+IMPRESSION:
+No acute process.
+
+PROBLEMS:
+Spondylosis;Scoliosis
+
+MESH:
+Spondylosis/thoracic vertebrae;Scoliosis/right/mild

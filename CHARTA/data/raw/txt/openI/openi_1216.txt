@@ -1,0 +1,16 @@
+UID: 1261
+
+INDICATION:
+Syncope
+
+FINDINGS:
+Mild cardiomegaly. Normal pulmonary vascularity. Tortuosity of the descending aorta. No focal infiltrate, pneumothorax or pleural effusion.
+
+IMPRESSION:
+Mild cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly;Aorta
+
+MESH:
+Cardiomegaly/mild;Aorta/tortuous

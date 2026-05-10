@@ -1,0 +1,16 @@
+UID: 2054
+
+INDICATION:
+XXXX-year-old male, pain, XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Interstitial and alveolar opacities most confluent in the left perihilar lung may be compatible with infection, differential diagnosis includes atypical pulmonary edema, inflammation. No definite pleural effusion seen. Stable cardiomediastinal silhouette with near top normal heart size. Aeration of the left perihilar lung may be slightly improved compared with the XXXX image from XXXX.
+
+PROBLEMS:
+Opacity;Opacity
+
+MESH:
+Opacity/lung/hilum/pulmonary alveoli/left;Opacity/lung/hilum/left/interstitial

@@ -1,0 +1,16 @@
+UID: 1286
+
+INDICATION:
+breast cancer right scapular pain rule out mass.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable slight cardiomegaly. Sternotomy. Lungs clear. No destructive lesions of the ribs. No masses or nodules. Stable resection of distal left clavicle. No XXXX fractures of the thoracic spine. Aortic calcification.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis
+
+MESH:
+Cardiomegaly/mild;Calcinosis/aorta

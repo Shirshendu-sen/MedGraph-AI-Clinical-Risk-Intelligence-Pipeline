@@ -1,0 +1,16 @@
+UID: 3694
+
+INDICATION:
+XXXX-year-old female, chest tube removal.
+
+FINDINGS:
+Interval removal of left-sided chest tube. Small residual left apical pneumothorax has increased slightly in size the prior exam, now measuring approximately 0.9 cm from the thoracic apex. Stable cardiomediastinal silhouette. No focal airspace consolidation. No pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Pneumothorax
+
+MESH:
+Pneumothorax/apex/left/small

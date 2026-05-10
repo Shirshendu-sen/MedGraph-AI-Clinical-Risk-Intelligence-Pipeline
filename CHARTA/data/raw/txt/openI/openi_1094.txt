@@ -1,0 +1,16 @@
+UID: 1130
+
+INDICATION:
+Difficulty breathing.
+
+FINDINGS:
+Heart size and pulmonary vascularity appear within normal limits. Calcified granuloma is present in the right base. No pneumothorax or pleural effusion is seen. In the lateral right base is identified an ill-defined somewhat oblong opacity. This was not present on the previous study. The remainder of the lungs appear clear.
+
+IMPRESSION:
+1. Ill-defined oblong opacity in the lateral right base. This may represent pleural based process. The exact XXXX is unclear. Followup exam is suggested to confirm clearing or stability.
+
+PROBLEMS:
+Calcified Granuloma;Opacity
+
+MESH:
+Calcified Granuloma/lung/base/right;Opacity/lung/base/right

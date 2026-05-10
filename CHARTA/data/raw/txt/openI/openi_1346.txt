@@ -1,0 +1,16 @@
+UID: 1394
+
+INDICATION:
+cigarette smoking with XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Vague 1.5 cm nodule left mid chest periphery overlying the posterior lateral left 7th rib. Further evaluation will require a chest CT. Remainder of the lungs are clear. There is no effusion or adenopathy. Heart size is normal.
+
+PROBLEMS:
+Nodule
+
+MESH:
+Nodule/thorax/left

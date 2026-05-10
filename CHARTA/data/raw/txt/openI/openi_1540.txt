@@ -1,0 +1,16 @@
+UID: 1592
+
+INDICATION:
+XXXX-year-old female with chest pain and XXXX
+
+FINDINGS:
+Stable cardiomediastinal silhouette with borderline cardiomegaly. No pneumothorax or large pleural effusion. No focal airspace disease. Diffuse interstitial opacities. Bony structures appear intact. Nodular densities consistent with chronic granulomatous disease.
+
+IMPRESSION:
+Negative for acute cardiopulmonary disease.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Granulomatous Disease;Density
+
+MESH:
+Cardiomegaly/borderline;Opacity/lung/interstitial/diffuse;Granulomatous Disease/chronic;Density/round

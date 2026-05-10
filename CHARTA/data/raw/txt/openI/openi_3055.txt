@@ -1,0 +1,16 @@
+UID: 3182
+
+INDICATION:
+XXXX-year-old female with achalasia post myotomy in XXXX. Upper XXXX with retained contrast. Known right lung mass.
+
+FINDINGS:
+There is a moderate amount of retained contrast within the distal esophagus. There is no evidence of aspiration. A 3.0 cm nodule is present within the right hilum. No moderate to large pleural effusion or pneumothorax is identified. The cardiomediastinal silhouette is within normal limits. The pulmonary vasculature is normal.
+
+IMPRESSION:
+1. Retained contrast in the distal esophagus. 2. Unchanged right hilar mass.
+
+PROBLEMS:
+Nodule;Mass;Contrast Media
+
+MESH:
+Nodule/lung/hilum/right;Mass/lung/hilum/right;Contrast Media/esophagus

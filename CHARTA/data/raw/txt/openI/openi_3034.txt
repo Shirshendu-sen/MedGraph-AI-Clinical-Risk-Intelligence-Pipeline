@@ -1,0 +1,16 @@
+UID: 3160
+
+INDICATION:
+Left arm pain with hypotension
+
+FINDINGS:
+Heart size is upper limits of normal and stable. They're multiple radiopaque densities overlying the patient.. The lungs are normally inflated and clear. Degenerative changes of the spinal.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Spine;Density
+
+MESH:
+Spine/degenerative;Density/thorax/multiple

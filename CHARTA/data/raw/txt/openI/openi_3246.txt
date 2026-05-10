@@ -1,0 +1,16 @@
+UID: 3378
+
+INDICATION:
+XXXX
+
+FINDINGS:
+There is a moderate right-sided pneumothorax measuring approximately 3.3 cm in the right apex. There is a minimally displaced right lateral 8th rib fracture and probable nondisplaced right lateral 7th rib fracture. Cardiomediastinal silhouette is within normal limits. Left lung is clear.
+
+IMPRESSION:
+1. Moderate right-sided pneumothorax measuring approximately 3.3 cm in the right apex. 2. Minimally displaced right lateral 8th rib fracture probable nondisplaced right lateral 7th rib fracture.
+
+PROBLEMS:
+Pneumothorax;Fractures, Bone
+
+MESH:
+Pneumothorax/apex/right/moderate;Fractures, Bone/ribs/right/multiple

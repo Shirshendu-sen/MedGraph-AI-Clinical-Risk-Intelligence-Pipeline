@@ -1,0 +1,16 @@
+UID: 929
+
+INDICATION:
+back pain
+
+FINDINGS:
+No change lung XXXX. XXXX opacities are present in the right lower lobe. No focal infiltrates. Heart and mediastinum are unremarkable. Aorta normal.
+
+IMPRESSION:
+Findings of COPD with right lung base focal atelectasis. No evidence for failure or pneumonia.
+
+PROBLEMS:
+Opacity;Pulmonary Disease, Chronic Obstructive;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/lower lobe/right;Pulmonary Disease, Chronic Obstructive;Pulmonary Atelectasis/base/right/focal

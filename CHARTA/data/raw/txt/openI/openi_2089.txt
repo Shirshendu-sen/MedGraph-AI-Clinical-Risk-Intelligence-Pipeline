@@ -1,0 +1,16 @@
+UID: 2167
+
+INDICATION:
+None
+
+FINDINGS:
+There is hyperexpansion with mild flattening of diaphragm. Cardiomediastinal silhouette is normal. Pulmonary vasculature and XXXX are normal. No consolidation, pneumothorax or large pleural effusion. Osseous structures and soft tissues are normal. Contrast retained within the renal collecting XXXX.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease. 2. Emphysematous changes 3. Retained contrast within the renal collecting XXXX.
+
+PROBLEMS:
+Lung;Diaphragm;Emphysema;Contrast Media
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened/mild;Emphysema;Contrast Media/abdomen

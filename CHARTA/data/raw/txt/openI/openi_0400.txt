@@ -1,0 +1,16 @@
+UID: 414
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Normal heart size. Clear lungs. Multilevel degenerative disc disease with mild dextrocurvature near the thoracolumbar junction.
+
+IMPRESSION:
+No acute process.
+
+PROBLEMS:
+Scoliosis;Spine;Scoliosis
+
+MESH:
+Scoliosis/lumbar vertebrae/right/mild;Spine/degenerative/multiple;Scoliosis/thoracic vertebrae/right/mild

@@ -1,0 +1,16 @@
+UID: 3211
+
+INDICATION:
+XXXX XXXX intake increasing weakness.
+
+FINDINGS:
+The lungs are clear. There appear to be small bilateral pleural effusions. The heart is not grossly enlarged. There are atherosclerotic changes of the aorta. Increased kyphosis is seen in the may be a thoracic XXXX deformity that is not well-characterized. Arthritic changes are seen.
+
+IMPRESSION:
+1. Probable small bilateral pleural effusions. 2. Possible lower thoracic XXXX deformity not well characterized on today's study.
+
+PROBLEMS:
+Atherosclerosis;Kyphosis;Arthritis;Pleural Effusion
+
+MESH:
+Atherosclerosis/aorta;Kyphosis;Arthritis;Pleural Effusion/bilateral/small

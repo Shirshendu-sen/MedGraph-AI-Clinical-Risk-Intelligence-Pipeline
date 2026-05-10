@@ -1,0 +1,16 @@
+UID: 371
+
+INDICATION:
+Preop knee revision.
+
+FINDINGS:
+The lungs are clear. There is hyperinflation. Calcification is seen over the anterior mediastinum XXXX a calcified lymph node at is not identified on the PA projection. The heart is normal. Arthritic changes the spine are seen.
+
+IMPRESSION:
+COPD and old granulomatous disease.
+
+PROBLEMS:
+Lung;Calcinosis;Calcinosis;Arthritis;Granulomatous Disease;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Calcinosis/mediastinum/anterior;Calcinosis/lymph nodes;Arthritis/spine;Granulomatous Disease;Pulmonary Disease, Chronic Obstructive

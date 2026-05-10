@@ -1,0 +1,16 @@
+UID: 1366
+
+INDICATION:
+XXXX-year-old with XXXX
+
+FINDINGS:
+Lungs are clear. Heart size normal. The XXXX are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

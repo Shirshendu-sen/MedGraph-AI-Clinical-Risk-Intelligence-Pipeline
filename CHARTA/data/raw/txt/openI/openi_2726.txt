@@ -1,0 +1,16 @@
+UID: 2831
+
+INDICATION:
+followup pneumothorax
+
+FINDINGS:
+None
+
+IMPRESSION:
+Persistent 8mm pneumothorax with small amount of pleural effusion. Heart size normal. Enteric tube tip in the stomach. Midline abdominal clips. XXXX in the right upper quadrant. Bullet overlies L3.
+
+PROBLEMS:
+Pneumothorax;Pleural Effusion;Tube, Inserted;Surgical Instruments;Foreign Bodies
+
+MESH:
+Pneumothorax;Pleural Effusion/small;Tube, Inserted/abdomen;Surgical Instruments/abdomen;Foreign Bodies/lumbar vertebrae

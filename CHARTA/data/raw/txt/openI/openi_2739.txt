@@ -1,0 +1,16 @@
+UID: 2845
+
+INDICATION:
+Chest pain dyspnea on exertion
+
+FINDINGS:
+Lungs are clear. Heart size normal. The XXXX are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

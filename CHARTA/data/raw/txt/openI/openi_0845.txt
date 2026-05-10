@@ -1,0 +1,16 @@
+UID: 874
+
+INDICATION:
+XXXX-year-old with ICD implantation.
+
+FINDINGS:
+There is mild hyperinflation. There is no focal consolidation. There is no pneumothorax or large pleural effusion. The cardiomediastinal contours are grossly unremarkable. The heart size is within normal limits. cardiac XXXX generator overlies the left upper thorax with XXXX XXXX tips overlying the right atrium and ventricles.
+
+IMPRESSION:
+No acute cardiopulmonary findings. .
+
+PROBLEMS:
+Lung;Implanted Medical Device
+
+MESH:
+Lung/hyperdistention/mild;Implanted Medical Device/left

@@ -1,0 +1,16 @@
+UID: 226
+
+INDICATION:
+Preop anesthesia XXXX
+
+FINDINGS:
+The cardiac contours are normal. The lungs are clear. Thoracic spondylosis.
+
+IMPRESSION:
+No acute process.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 250
+
+INDICATION:
+XXXX-year-old female with persistent XXXX for 6 months.
+
+FINDINGS:
+The lungs are clear. There is no focal airspace consolidation. No pleural effusion or pneumothorax. Heart size and mediastinal contour are normal. There are minimal degenerative changes of the spine.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative/mild

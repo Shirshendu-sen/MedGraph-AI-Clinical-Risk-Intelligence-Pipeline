@@ -1,0 +1,16 @@
+UID: 2522
+
+INDICATION:
+XXXX-year-old female with XXXX, abdominal pain, nausea and vomiting.
+
+FINDINGS:
+Normal heart size and mediastinal contours. No focal airspace consolidation. Chronic appearing left greater than right lung base scarring with possible small effusions. No pneumothorax. Visualized osseous structures are unremarkable in appearance.
+
+IMPRESSION:
+1. Chronic appearing bibasilar pleural abnormality with possible small effusions. 2. No evidence of pneumonia. TIPS shunt visualized. .
+
+PROBLEMS:
+Cicatrix;Pleura;Stents
+
+MESH:
+Cicatrix/lung/base/bilateral/chronic;Pleura/base/bilateral/abnormal/chronic;Stents

@@ -1,0 +1,16 @@
+UID: 2363
+
+INDICATION:
+XXXX-year-old with hypertension and XXXX for one XXXX.
+
+FINDINGS:
+Heart size is upper limits of normal. The pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is right basilar air space opacity.
+
+IMPRESSION:
+Right middle lobe and lower lobe pneumonia. Followup radiographs in 8-12 weeks after appropriate therapy are indicated to exclude an underlying abnormality.
+
+PROBLEMS:
+Opacity;Pneumonia;Pneumonia
+
+MESH:
+Opacity/lung/base/right;Pneumonia/middle lobe/right;Pneumonia/lower lobe/right

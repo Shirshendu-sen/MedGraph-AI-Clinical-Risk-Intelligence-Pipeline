@@ -1,0 +1,16 @@
+UID: 2206
+
+INDICATION:
+The patient is a XXXX-year-old male with alcoholic hepatitis, XXXX withdrawal, on CIWA. Smoking history with XXXX COPD, elevated XXXX XXXX.
+
+FINDINGS:
+Minimal right sided perihilar atelectasis. The trachea is midline. Negative for pneumothorax, pleural effusion. The heart size is normal.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. No active disease.
+
+PROBLEMS:
+Pulmonary Atelectasis
+
+MESH:
+Pulmonary Atelectasis/hilum/right/mild

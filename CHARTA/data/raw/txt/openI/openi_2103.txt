@@ -1,0 +1,16 @@
+UID: 2181
+
+INDICATION:
+XXXX-year-old with dyspnea.
+
+FINDINGS:
+Heart size is moderately enlarged. The pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is suspected right lower lobe airspace opacity XXXX demonstrated on the lateral study. There is a fracture of superior sternotomy XXXX unchanged.
+
+IMPRESSION:
+Possible right lower lobe pneumonia. Cardiomegaly
+
+PROBLEMS:
+Cardiomegaly;Fractures, Bone
+
+MESH:
+Cardiomegaly/moderate;Fractures, Bone/sternum

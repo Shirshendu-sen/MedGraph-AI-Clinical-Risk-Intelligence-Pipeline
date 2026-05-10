@@ -1,0 +1,16 @@
+UID: 3623
+
+INDICATION:
+XXXX XXXX female with XXXX, RUQ pain.
+
+FINDINGS:
+Soft tissue and bony structures unremarkable. Heart size is upper limit of normal. Lung XXXX are clear. No effusion or pneumothorax. Calcified lymph XXXX stable from prior exam.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/lymph nodes

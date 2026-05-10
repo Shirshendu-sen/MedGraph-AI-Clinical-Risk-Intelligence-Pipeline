@@ -1,0 +1,16 @@
+UID: 3595
+
+INDICATION:
+XXXX-year-old female with history of leukocytosis.
+
+FINDINGS:
+Stable cardiomegaly and mediastinal contour. Increased interstitial lung markings are seen, possibly due to volume overload. There is improved aeration of the lung bases with small residual left basilar effusion. No XXXX focal consolidation or pneumothorax. Stable tunneled dialysis catheter. Visualized osseous structures appear intact.
+
+IMPRESSION:
+Stable cardiomegaly. Improved aeration of lung bases with persistent left basilar effusion. Prominent interstitium, possibly due to mild volume overload. .
+
+PROBLEMS:
+Cardiomegaly;Markings;Pleural Effusion;Catheters, Indwelling
+
+MESH:
+Cardiomegaly;Markings/lung/interstitial/prominent;Pleural Effusion/base/left/small;Catheters, Indwelling

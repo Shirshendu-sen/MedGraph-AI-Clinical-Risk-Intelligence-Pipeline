@@ -1,0 +1,16 @@
+UID: 407
+
+INDICATION:
+STAB
+
+FINDINGS:
+Lungs are clear. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

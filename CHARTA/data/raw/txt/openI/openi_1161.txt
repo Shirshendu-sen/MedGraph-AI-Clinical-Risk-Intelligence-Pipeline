@@ -1,0 +1,16 @@
+UID: 1202
+
+INDICATION:
+cp, sob
+
+FINDINGS:
+The heart is large, and the pulmonary XXXX are engorged. No infiltrates.
+
+IMPRESSION:
+Cardiomegaly and pulmonary venous hypertension.
+
+PROBLEMS:
+Cardiomegaly;Hypertension, Pulmonary;Pulmonary Congestion
+
+MESH:
+Cardiomegaly;Hypertension, Pulmonary;Pulmonary Congestion

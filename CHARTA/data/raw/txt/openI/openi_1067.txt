@@ -1,0 +1,16 @@
+UID: 1102
+
+INDICATION:
+Shortness of breath. Unable to XXXX XXXX for lateral view.
+
+FINDINGS:
+There is stable cardiomegaly with XXXX pulmonary vascular congestion and probable mild interstitial edema. There are bilateral pleural effusions with bibasilar airspace disease, right greater than left. There is no pneumothorax. There are no acute bony findings.
+
+IMPRESSION:
+1. Cardiomegaly, vascular congestion and probable mild interstitial edema. 2. Bibasilar airspace disease, bilateral pleural effusions, right greater than left.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Pulmonary Edema;Pleural Effusion;Airspace Disease
+
+MESH:
+Cardiomegaly;Pulmonary Congestion;Pulmonary Edema/interstitial/mild;Pleural Effusion/bilateral;Airspace Disease/lung/base/bilateral

@@ -1,0 +1,16 @@
+UID: 3746
+
+INDICATION:
+XXXX-year-old woman with wheezing and dyspnea..
+
+FINDINGS:
+Compared to prior examination, XXXX stent has been removed. Cardiomediastinal silhouette is stable and within normal limits. Stable mild atherosclerotic calcifications of the aortic XXXX are noted. There are mildly low lung volumes without focal consolidation, pneumothorax, or effusion identified. No acute bony abnormality seen.
+
+IMPRESSION:
+Interval removal of XXXX stent without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Atherosclerosis;Lung
+
+MESH:
+Atherosclerosis/aorta/mild;Lung/hypoinflation/mild

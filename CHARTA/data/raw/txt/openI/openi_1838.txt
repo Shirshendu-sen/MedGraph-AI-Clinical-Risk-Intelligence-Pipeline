@@ -1,0 +1,16 @@
+UID: 1901
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. There has been interval CABG. Surgical clips are again seen in the epigastric region. The cardiomediastinal contours are within normal limits. Pulmonary vascularity is within normal limits. No focal consolidation, pleural effusion, or pneumothorax identified. The visualized osseous structures are unremarkable.
+
+IMPRESSION:
+No evidence of acute cardiopulmonary process. Interval CABG.
+
+PROBLEMS:
+Surgical Instruments
+
+MESH:
+Surgical Instruments/abdomen

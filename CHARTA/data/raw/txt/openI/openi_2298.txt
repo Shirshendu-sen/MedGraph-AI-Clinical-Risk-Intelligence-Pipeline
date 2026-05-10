@@ -1,0 +1,16 @@
+UID: 2381
+
+INDICATION:
+Preop bariatric surgery
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. Granulomatous calcifications are present. The lungs are otherwise clear. Bony structures are intact. Prior cholecystectomy.
+
+IMPRESSION:
+No acute preoperative findings.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/multiple

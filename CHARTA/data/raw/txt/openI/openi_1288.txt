@@ -1,0 +1,16 @@
+UID: 1336
+
+INDICATION:
+XXXX-year-old male with continued XXXX. Evaluate for pneumonia.
+
+FINDINGS:
+Left-sided XXXX/ICD device and leads are stable. Stable enlarged cardiac silhouette. No focal airspace consolidation, pneumothorax, or pleural effusion. No acute bony abnormality.
+
+IMPRESSION:
+Stable cardiomegaly without acute cardiopulmonary disease.
+
+PROBLEMS:
+Implanted Medical Device;Cardiac Shadow;Cardiomegaly
+
+MESH:
+Implanted Medical Device/left;Cardiac Shadow/enlarged;Cardiomegaly

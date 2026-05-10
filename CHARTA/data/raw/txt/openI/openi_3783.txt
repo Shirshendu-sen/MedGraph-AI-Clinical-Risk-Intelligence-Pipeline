@@ -1,0 +1,16 @@
+UID: 3931
+
+INDICATION:
+XXXX-year-old female with XXXX symptoms.
+
+FINDINGS:
+The heart size is normal. The cardiomediastinal silhouette is stable in appearance. The lungs are clear without focal airspace opacity, pneumothorax, or pleural effusion. The XXXX are normal in appearance.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

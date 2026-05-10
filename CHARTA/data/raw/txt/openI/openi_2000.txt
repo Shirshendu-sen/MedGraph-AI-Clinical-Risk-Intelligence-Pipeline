@@ -1,0 +1,16 @@
+UID: 2074
+
+INDICATION:
+XXXX-year-old female with chest pain persistent vomiting.
+
+FINDINGS:
+Low lung volumes. Stable ectasia of the thoracic aorta. Stable right upper mediastinal Bilateral small pleural effusions and bibasilar airspace opacities. The heart size and mediastinal silhouette are within normal limits for contour. No pneumothorax. Stable wedging of the anterior thoracic vertebral bodies.
+
+IMPRESSION:
+Bilateral small pleural effusions and associated atelectasis. Stable right upper mediastinal opacity consistent with XXXX goiter.
+
+PROBLEMS:
+Lung;Aorta, Thoracic;Pleural Effusion;Opacity;Deformity;Pulmonary Atelectasis;Opacity
+
+MESH:
+Lung/hypoinflation;Aorta, Thoracic/tortuous;Pleural Effusion/bilateral/small;Opacity/lung/base/bilateral;Deformity/thoracic vertebrae/anterior;Pulmonary Atelectasis/bilateral;Opacity/mediastinum/right

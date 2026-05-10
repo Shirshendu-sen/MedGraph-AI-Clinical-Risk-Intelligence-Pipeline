@@ -1,0 +1,16 @@
+UID: 1037
+
+INDICATION:
+XXXX-year-old male with XXXX
+
+FINDINGS:
+The heart is normal size. The mediastinum is unremarkable. A tortuous, calcified thoracic aorta is present. The lungs are hyperexpanded, consistent with emphysema. There is no pleural effusion, pneumothorax, or focal airspace disease. The XXXX are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcinosis;Aorta, Thoracic;Lung;Pulmonary Emphysema
+
+MESH:
+Calcinosis/aorta, thoracic;Aorta, Thoracic/tortuous;Lung/hyperdistention;Pulmonary Emphysema

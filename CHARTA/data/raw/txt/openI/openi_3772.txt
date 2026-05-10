@@ -1,0 +1,16 @@
+UID: 3919
+
+INDICATION:
+left false rib XXXX.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Slight cardiomegaly. Lungs are clear. No rib abnormalities are seen. The lower ribs are not adequately imaged to rule out pathology on the chest film
+
+PROBLEMS:
+Cardiomegaly;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Cardiomegaly/mild;Technical Quality of Image Unsatisfactory

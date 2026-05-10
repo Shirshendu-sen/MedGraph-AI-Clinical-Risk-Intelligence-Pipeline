@@ -1,0 +1,16 @@
+UID: 2422
+
+INDICATION:
+CP
+
+FINDINGS:
+Consolidation is developing in the left lower lobe. A patchy infiltrate is also present in the right lower lobe. Heart size is normal.
+
+IMPRESSION:
+Bibasilar pneumonia.
+
+PROBLEMS:
+Consolidation;Infiltrate;Pneumonia
+
+MESH:
+Consolidation/lung/lower lobe/left;Infiltrate/lung/lower lobe/right/patchy;Pneumonia/base/bilateral

@@ -1,0 +1,16 @@
+UID: 1929
+
+INDICATION:
+Hypoxia
+
+FINDINGS:
+Fracture deformity proximal right humerus. Hyperinflation lungs. No pulmonary consolidation. XXXX opacity left base compatible XXXX atelectasis or XXXX scarring. The cardiomediastinal silhouette appears unremarkable. Mild atherosclerotic calcification aorta. Prior chest surgery. Costophrenic XXXX clear. Visualized spine vertebrae appear normal in XXXX and alignment.
+
+IMPRESSION:
+1. Fracture deformity proximal right humerus. 2. No pulmonary consolidation.
+
+PROBLEMS:
+Fractures, Bone;Deformity;Lung;Opacity;Pulmonary Atelectasis;Cicatrix;Atherosclerosis
+
+MESH:
+Fractures, Bone/humerus/right;Deformity/humerus/right;Lung/hyperdistention;Opacity/lung/base/left;Pulmonary Atelectasis/base/left;Cicatrix/lung/base/left;Atherosclerosis/aorta/mild

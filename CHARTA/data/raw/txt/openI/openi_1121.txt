@@ -1,0 +1,16 @@
+UID: 1158
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+Heart size remains slightly large. Aorta remains tortuous. Pulmonary XXXX remain normal. No infiltrates or masses in the lungs.
+
+IMPRESSION:
+Continued slight cardiomegaly with no evidence for failure or pneumonia.
+
+PROBLEMS:
+Cardiomegaly;Aorta
+
+MESH:
+Cardiomegaly/mild;Aorta/tortuous

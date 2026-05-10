@@ -1,0 +1,16 @@
+UID: 913
+
+INDICATION:
+XXXX-year-old XXXX with cardiomyopathy.
+
+FINDINGS:
+Heart size normal. Stable cardiomediastinal silhouette. No pneumothorax, pleural effusion, or focal airspace disease. Bony structures are in XXXX alignment without fracture.
+
+IMPRESSION:
+Negative for acute cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

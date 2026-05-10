@@ -1,0 +1,16 @@
+UID: 3165
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+Normal and stable cardiomediastinal contours. Interval removal of left-sided intravenous catheter. No pneumothorax. XXXX XXXX opacities obscuring the hemidiaphragms, slightly improved from prior exam.. Right-sided rib fractures again noted.
+
+IMPRESSION:
+Mildly improved XXXX XXXX opacities, which may represent atelectasis, infiltrate and/or pleural effusions.
+
+PROBLEMS:
+Diaphragm;Opacity;Fractures, Bone
+
+MESH:
+Diaphragm/bilateral/obscured;Opacity/thorax;Fractures, Bone/ribs/right

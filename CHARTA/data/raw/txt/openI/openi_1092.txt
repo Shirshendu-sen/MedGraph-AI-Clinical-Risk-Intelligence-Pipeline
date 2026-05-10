@@ -1,0 +1,16 @@
+UID: 1128
+
+INDICATION:
+Pneumonia one XXXX ago with left-sided crackles
+
+FINDINGS:
+None
+
+IMPRESSION:
+XXXX left effusion in the left lateral costophrenic recess. Minimal residual left lung base airspace disease. Stable heart size, moderately enlarged and tortuous calcified aorta. Clear right lung.
+
+PROBLEMS:
+Pleural Effusion;Airspace Disease;Calcinosis;Aorta
+
+MESH:
+Pleural Effusion/costophrenic angle/left;Airspace Disease/lung/base/left/mild;Calcinosis/aorta;Aorta/enlarged/tortuous

@@ -1,0 +1,16 @@
+UID: 1875
+
+INDICATION:
+ICD 9 code 786.51, intermittent left chest pain
+
+FINDINGS:
+Heart size and mediastinal contour are normal. Mild tortuosity of the aorta. Pulmonary vascularity is normal. Lungs are clear. No pleural effusions or pneumothoraces. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary process
+
+PROBLEMS:
+Aorta;Thoracic Vertebrae
+
+MESH:
+Aorta/tortuous/mild;Thoracic Vertebrae/degenerative

@@ -1,0 +1,16 @@
+UID: 2794
+
+INDICATION:
+in a long XXXX XXXX
+
+FINDINGS:
+Lungs are hyperexpanded. No infiltrates or masses in the lungs. Heart size normal.
+
+IMPRESSION:
+XXXX change COPD. No acute findings.
+
+PROBLEMS:
+Lung;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Pulmonary Disease, Chronic Obstructive

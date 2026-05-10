@@ -1,0 +1,16 @@
+UID: 2787
+
+INDICATION:
+The patient is a XXXX-year-old male with kidney transplant evaluation.
+
+FINDINGS:
+No pneumothorax, pleural effusion or airspace consolidation. Heart size is upper limits of normal. Pulmonary vasculature appear within normal limits. XXXX XXXX are intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

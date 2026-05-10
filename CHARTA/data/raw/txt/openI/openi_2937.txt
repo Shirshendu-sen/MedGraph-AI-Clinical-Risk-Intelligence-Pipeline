@@ -1,0 +1,16 @@
+UID: 3062
+
+INDICATION:
+XXXX-year-old female, history of TB, rule out active pulmonary infection
+
+FINDINGS:
+Normal heart size and mediastinal contours. No focal airspace consolidation. Minimal blunting of the left costophrenic XXXX. No pneumothorax. Visualized bony structures are unremarkable in appearance.
+
+IMPRESSION:
+No acute pulmonary abnormalities.
+
+PROBLEMS:
+Costophrenic Angle
+
+MESH:
+Costophrenic Angle/left/blunted/mild

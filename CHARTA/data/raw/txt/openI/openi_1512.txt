@@ -1,0 +1,16 @@
+UID: 1564
+
+INDICATION:
+XXXX-year-old female, chest pain
+
+FINDINGS:
+Heart size within normal limits, stable mediastinal and hilar contours, coronary artery stent artifact, XXXX XXXX and clips suggest CABG. Mediastinal and hilar calcifications XXXX indicate a previous granulomatous process. Stable hyperinflation, bilateral upper lobe pleuroparenchymal near and nodular irregularities, right greater than left, XXXX opacities in the peripheral right lung most compatible with scarring. No XXXX abnormal pulmonary opacities, no definite pleural effusion seen. No typical findings of pulmonary edema. Osseous demineralization, stable appearance of T9 and T12 XXXX fractures.
+
+IMPRESSION:
+Chronic changes as described, no acute findings
+
+PROBLEMS:
+Stents;Surgical Instruments;Calcinosis;Calcinosis;Granulomatous Disease;Lung;Nodule;Nodule;Opacity;Cicatrix;Fractures, Bone;Bone Diseases, Metabolic
+
+MESH:
+Stents/coronary vessels;Surgical Instruments;Calcinosis/mediastinum;Calcinosis/lung/hilum;Granulomatous Disease;Lung/hyperdistention;Nodule/pleura/upper lobe/bilateral;Nodule/lung/upper lobe/bilateral;Opacity/lung/right;Cicatrix/lung/right;Fractures, Bone/thoracic vertebrae;Bone Diseases, Metabolic

@@ -1,0 +1,16 @@
+UID: 1094
+
+INDICATION:
+XXXX-year-old XXXX with dyspnea. History of cystic fibrosis.
+
+FINDINGS:
+No acute osseous abnormality. The soft tissues are within normal limits. Normal appearing cardiomediastinal silhouette and hilar contours. Left lower lobe XXXX density XXXX representing atelectasis. No focal area of consolidation, pleural effusion, pneumothorax.
+
+IMPRESSION:
+No focal lung consolidation.
+
+PROBLEMS:
+Density;Pulmonary Atelectasis
+
+MESH:
+Density/lung/lower lobe/left;Pulmonary Atelectasis/lower lobe/left

@@ -1,0 +1,16 @@
+UID: 1370
+
+INDICATION:
+XXXX-year-old with shortness of breath and XXXX.
+
+FINDINGS:
+Stable cardiomediastinal silhouette. There is mild haziness in the right lung and left base, which could represent infiltrate. No pleural effusion. No pneumothorax. Stable XXXX deformity of a midthoracic vertebra.
+
+IMPRESSION:
+1. Possible infiltrates in the right lung and left base. Consider CT for further evaluation, if clinically indicated.
+
+PROBLEMS:
+Opacity;Opacity;Deformity
+
+MESH:
+Opacity/lung/right;Opacity/lung/base/left;Deformity/thoracic vertebrae

@@ -1,0 +1,16 @@
+UID: 229
+
+INDICATION:
+XXXX-year-old female, XXXX, XXXX of breath, chest pain
+
+FINDINGS:
+Heart size within normal limits. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. Mediastinal calcification and dense right upper lung nodule suggest a previous granulomatous process.
+
+IMPRESSION:
+No acute cardiopulmonary findings
+
+PROBLEMS:
+Calcinosis;Nodule
+
+MESH:
+Calcinosis/mediastinum;Nodule/lung/upper lobe/right

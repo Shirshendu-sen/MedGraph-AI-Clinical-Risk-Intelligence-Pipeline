@@ -1,0 +1,16 @@
+UID: 1784
+
+INDICATION:
+History of testicular cancer
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. No nodules, masses, or adenopathy. Calcified right paratracheal and right hilar lymph XXXX unchanged.
+
+PROBLEMS:
+Calcinosis;Calcinosis
+
+MESH:
+Calcinosis/lymph nodes/right/paratracheal;Calcinosis/lung/hilum/lymph nodes/right

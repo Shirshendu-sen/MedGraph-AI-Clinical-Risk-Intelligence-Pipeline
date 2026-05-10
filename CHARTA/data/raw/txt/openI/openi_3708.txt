@@ -1,0 +1,16 @@
+UID: 3853
+
+INDICATION:
+Possible XXXX. Syncope.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Mild cardiomegaly. Densely calcified aorta. Prominence of the pulmonary outflow and XXXX most XXXX indicates enlarged pulmonary arteries and raise concern for pulmonary artery hypertension. There is no overt edema. The right diaphragm is elevated, there are small right and XXXX left pleural effusions. No pneumothorax.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis;Pulmonary Artery;Pulmonary Congestion;Diaphragm;Pleural Effusion;Pleural Effusion
+
+MESH:
+Cardiomegaly/mild;Calcinosis/aorta/severe;Pulmonary Artery/enlarged;Pulmonary Congestion;Diaphragm/right/elevated;Pleural Effusion/right/small;Pleural Effusion/left

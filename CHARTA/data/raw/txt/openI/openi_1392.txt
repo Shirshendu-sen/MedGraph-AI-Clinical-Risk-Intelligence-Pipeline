@@ -1,0 +1,16 @@
+UID: 1440
+
+INDICATION:
+Preoperative exam for bariatric surgery.
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. The lungs are clear. Bony structures are intact.
+
+IMPRESSION:
+No acute preoperative findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 1900
+
+INDICATION:
+XXXX year old hypertension and chest pain.
+
+FINDINGS:
+There are XXXX sternotomy XXXX identified. The heart is within normal limits in size. The aorta is calcified and tortuous. There are scattered calcified granulomas throughout both lungs. No focal infiltrate, pleural effusion, or pneumothorax. Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. Stable appearance of the chest. No acute process.
+
+PROBLEMS:
+Calcinosis;Aorta;Calcified Granuloma;Thoracic Vertebrae
+
+MESH:
+Calcinosis/aorta;Aorta/tortuous;Calcified Granuloma/lung/bilateral/scattered/multiple;Thoracic Vertebrae/degenerative/mild

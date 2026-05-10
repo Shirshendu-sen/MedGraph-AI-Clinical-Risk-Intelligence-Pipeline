@@ -1,0 +1,16 @@
+UID: 1056
+
+INDICATION:
+XXXX loss of 20 XXXX. Smoking history.
+
+FINDINGS:
+Normal heart size. Stable tortuous aorta. No pneumothorax or pleural effusion. No suspicious focal air space opacities. Levoscoliosis of the thoracolumbar spine. Hyperinflated lungs with flattened diaphragms are consistent with emphysematous lung changes. Prior granulomatous disease.
+
+IMPRESSION:
+Stable emphysematous lung changes. No acute abnormality seen.
+
+PROBLEMS:
+Aorta;Scoliosis;Scoliosis;Lung;Diaphragm;Pulmonary Emphysema;Granulomatous Disease
+
+MESH:
+Aorta/tortuous;Scoliosis/lumbar vertebrae/left;Scoliosis/thoracic vertebrae/left;Lung/hyperdistention;Diaphragm/flattened;Pulmonary Emphysema;Granulomatous Disease

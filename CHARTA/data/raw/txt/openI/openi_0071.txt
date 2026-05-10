@@ -1,0 +1,16 @@
+UID: 72
+
+INDICATION:
+XXXX-year-old female with chest pain
+
+FINDINGS:
+Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Bony thorax and soft tissues grossly unremarkable.
+
+IMPRESSION:
+Negative acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

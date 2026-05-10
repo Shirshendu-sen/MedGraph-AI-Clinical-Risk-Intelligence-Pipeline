@@ -1,0 +1,16 @@
+UID: 2955
+
+INDICATION:
+XXXX-year-old male, syncope, XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size moderately enlarged for technique, aortic ectasia/tortuosity. Right hemidiaphragm eventration. No focal alveolar consolidation, no definite pleural effusion seen. Vascular redistribution without typical findings of pulmonary edema. No pneumothorax.
+
+PROBLEMS:
+Cardiomegaly;Technical Quality of Image Unsatisfactory ;Aorta;Diaphragmatic Eventration;Pulmonary Congestion
+
+MESH:
+Cardiomegaly/moderate;Technical Quality of Image Unsatisfactory ;Aorta/tortuous;Diaphragmatic Eventration/right;Pulmonary Congestion

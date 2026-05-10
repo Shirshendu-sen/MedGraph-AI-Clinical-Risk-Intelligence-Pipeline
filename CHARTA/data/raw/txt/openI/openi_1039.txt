@@ -1,0 +1,16 @@
+UID: 1073
+
+INDICATION:
+XXXX-year-old woman with dyspnea.
+
+FINDINGS:
+The lungs are hyperexpanded, with flattened diaphragms. The cardiomediastinal silhouette is normal in size and stable from prior exam. There is mild tortuosity of the thoracic aorta. There is no pneumothorax or large pleural effusion. There are degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Chronic changes consistent with emphysema.
+
+PROBLEMS:
+Lung;Diaphragm;Aorta, Thoracic;Thoracic Vertebrae;Pulmonary Emphysema
+
+MESH:
+Lung/hyperdistention;Diaphragm/flattened;Aorta, Thoracic/tortuous/mild;Thoracic Vertebrae/degenerative;Pulmonary Emphysema

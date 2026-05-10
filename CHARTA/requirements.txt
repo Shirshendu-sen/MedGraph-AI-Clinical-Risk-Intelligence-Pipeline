@@ -1,0 +1,51 @@
+# CHARTA v3.0 — complete dependency list
+# Python 3.10 required
+
+# ── Layer 1: Document Ingestion ──────────────────────────
+pdfplumber==0.10.3
+PyMuPDF==1.24.0
+pytesseract==0.3.10
+opencv-python==4.9.0.80
+ftfy==6.1.3
+Pillow==10.3.0
+
+# ── Layer 2: Clinical NLP ────────────────────────────────
+scispacy==0.5.4
+bioc==2.1
+
+# ── Language models & fine-tuning ───────────────────────
+transformers==4.40.0
+peft==0.10.0
+accelerate==0.29.3
+
+# ── Layer 3: Graph ───────────────────────────────────────
+torch==2.2.2
+torch_geometric==2.5.2
+# NOTE: torch_scatter and torch_sparse are installed separately
+# in Step 5 using a Windows-compatible wheel URL
+
+# ── Layer 4: RAG + Inference ─────────────────────────────
+faiss-cpu==1.8.0
+
+# ── Layer 5: Explainability ──────────────────────────────
+shap==0.45.0
+
+# ── Data & ML utilities ──────────────────────────────────
+datasets==4.0.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+python-dateutil==2.9.0
+
+# ── Evaluation ───────────────────────────────────────────
+rouge-score==0.1.2
+bert-score==0.3.13
+
+# ── Parsing & I/O ────────────────────────────────────────
+lxml==5.2.1
+requests>=2.32.2
+pydantic==2.7.0
+tqdm>=4.66.3
+
+# ── Testing ──────────────────────────────────────────────
+pytest==8.0.0

@@ -1,0 +1,16 @@
+UID: 1439
+
+INDICATION:
+30 lb XXXX loss in 4 XXXX, XXXX term XXXX
+
+FINDINGS:
+Lungs are XXXX. XXXX opacities are present in the left lung base. Heart size normal. Mediastinum normal.
+
+IMPRESSION:
+Findings of COPD and left base focal atelectasis.
+
+PROBLEMS:
+Opacity;Pulmonary Disease, Chronic Obstructive;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/base/left;Pulmonary Disease, Chronic Obstructive;Pulmonary Atelectasis/base/left/focal

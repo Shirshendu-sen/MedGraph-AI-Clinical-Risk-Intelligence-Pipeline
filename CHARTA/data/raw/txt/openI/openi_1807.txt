@@ -1,0 +1,16 @@
+UID: 1868
+
+INDICATION:
+Ovarian hyperstimulation syndrome, rest for abnormality
+
+FINDINGS:
+Heart size and pulmonary vascularity normal. There is a small right pleural effusion. There is infrahilar interstitial prominence which may represent bronchovascular crowding lung. Small left pleural effusion. No pneumothorax.
+
+IMPRESSION:
+Small bilateral pleural effusions and right infrahilar infiltrate versus bronchovascular crowding.
+
+PROBLEMS:
+Pleural Effusion;Lung;Infiltrate;Markings
+
+MESH:
+Pleural Effusion/bilateral/small;Lung/hilum/interstitial/prominent;Infiltrate/lung/hilum/right;Markings/bronchovascular

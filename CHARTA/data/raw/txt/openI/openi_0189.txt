@@ -1,0 +1,16 @@
+UID: 195
+
+INDICATION:
+XXXX-year-old female with coughing and wheezing.
+
+FINDINGS:
+Clear lungs bilaterally. No pneumothorax or pleural effusion. Normal cardiac contours
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities
+
+PROBLEMS:
+normal
+
+MESH:
+normal

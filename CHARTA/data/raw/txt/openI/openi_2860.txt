@@ -1,0 +1,16 @@
+UID: 2980
+
+INDICATION:
+This is a XXXX-year-old XXXX with diarrhea and abdominal pain with history of smoking.
+
+FINDINGS:
+Negative for cardiac enlargement. Negative for vascular congestion. Negative for focal confluent airspace disease. Negative for pneumothorax. A few scattered calcified granulomas are identified.
+
+IMPRESSION:
+No acute cardiothoracic abnormality.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/scattered/multiple

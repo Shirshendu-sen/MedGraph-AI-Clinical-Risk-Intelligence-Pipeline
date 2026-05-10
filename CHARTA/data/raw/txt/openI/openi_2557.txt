@@ -1,0 +1,16 @@
+UID: 2652
+
+INDICATION:
+Positive PPD. XXXX.
+
+FINDINGS:
+XXXX XXXX and lateral chest examination was obtained. The heart silhouette and mediastinal contours are not enlarged. There is calcified mediastinal lymph XXXX. Lungs demonstrate no acute findings. There is no effusion or pneumothorax.
+
+IMPRESSION:
+1. No acute pulmonary disease.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/mediastinum/lymph nodes

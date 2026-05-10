@@ -1,0 +1,16 @@
+UID: 1111
+
+INDICATION:
+XXXX-year-old male, XXXX one.
+
+FINDINGS:
+Lordotic projection and large body habitus. Limited mediastinal evaluation. Severe cardiomegaly. No visualized pneumothorax. No large effusion or airspace disease. No fracture.
+
+IMPRESSION:
+Severe cardiomegaly. Limited mediastinal evaluation given body habitus and lordotic projection. Recommend XXXX for further evaluation of mediastinum given T/Spine injury noted on C/Spine imaging. Critical result notification documented through Primordial.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Cardiomegaly
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Cardiomegaly/severe

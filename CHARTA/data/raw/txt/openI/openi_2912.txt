@@ -1,0 +1,16 @@
+UID: 3036
+
+INDICATION:
+XXXX-year-old male, hypoxia.
+
+FINDINGS:
+Evaluation is limited by body habitus and AP technique. Enteric suction catheter courses below diaphragm and XXXX film. Stable heart size and mediastinal contours. Low lung volumes. No pneumothorax. Cardiac XXXX generator leads XXXX over the right atrium and right ventricle. Two XXXX bilateral pleural effusions.
+
+IMPRESSION:
+1. Technically limited exam. 2. Low lung volumes with XXXX bilateral pleural effusions. .
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Tube, Inserted;Lung;Implanted Medical Device;Pleural Effusion
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Tube, Inserted/abdomen;Lung/hypoinflation;Implanted Medical Device;Pleural Effusion/bilateral

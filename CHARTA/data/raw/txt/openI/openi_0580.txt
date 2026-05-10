@@ -1,0 +1,16 @@
+UID: 598
+
+INDICATION:
+prostate cancer
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and the lungs are clear. Stable degenerative spurring of the thoracic spine. Clips overlie the right medial hilum.
+
+PROBLEMS:
+Osteophyte;Surgical Instruments
+
+MESH:
+Osteophyte/thoracic vertebrae/degenerative;Surgical Instruments/lung/hilum/right

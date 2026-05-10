@@ -1,0 +1,16 @@
+UID: 3525
+
+INDICATION:
+XXXX-year-old female status post XXXX downstairs with left hip pain.
+
+FINDINGS:
+Heart size normal. No pneumothorax, pleural effusion, or focal airspace disease. The visualized bony structures appear intact. There is a XXXX radiodensity overlying the right shoulder which is XXXX external to the patient however clinical correlation recommended. Scattered calcified granulomas.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. No fracture visualized.
+
+PROBLEMS:
+Foreign Bodies;Calcified Granuloma
+
+MESH:
+Foreign Bodies/shoulder/right;Calcified Granuloma/scattered/multiple

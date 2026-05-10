@@ -1,0 +1,16 @@
+UID: 569
+
+INDICATION:
+Rule out aspiration.
+
+FINDINGS:
+The heart size and pulmonary vascularity appear within normal limits. The left hemidiaphragm remains elevated. Right base densities are again noted which appear improved. Previously seen left pleural effusion has resolved. There continues to be some left base opacities which may represent atelectasis. Surgical clips and suture lines are noted in the mediastinum. An air-fluid level is seen in the upper right abdomen immediately below the right hemidiaphragm. Extensive pleural densities are present on the right which may represent localized fluid or pleural thickening. No definite pneumothorax is seen.
+
+IMPRESSION:
+1. Continued elevation of the left hemidiaphragm. 2. Extensive post-op changes. 3. Right pleural densities which may represent thickening or localized fluid. 4. Air-fluid level below the right hemidiaphragm medially. Although this could represent air-fluid within a XXXX of bowel, a subpulmonic process is a consideration. If clinically indicated, XXXX scan would better define this.
+
+PROBLEMS:
+Diaphragm;Density;Opacity;Surgical Instruments;Density;Sutures
+
+MESH:
+Diaphragm/left/elevated;Density/lung/base/right;Opacity/lung/base/left;Surgical Instruments/mediastinum;Density/pleura/right/severe;Sutures/mediastinum

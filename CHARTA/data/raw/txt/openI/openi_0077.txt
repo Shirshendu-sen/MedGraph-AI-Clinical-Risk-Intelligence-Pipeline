@@ -1,0 +1,16 @@
+UID: 78
+
+INDICATION:
+History of XXXX.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Right lung clear. Minimal basilar atelectasis on the left
+
+PROBLEMS:
+Pulmonary Atelectasis
+
+MESH:
+Pulmonary Atelectasis/base/left/mild

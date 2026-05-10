@@ -1,0 +1,16 @@
+UID: 3930
+
+INDICATION:
+Prostate cancer
+
+FINDINGS:
+Lungs are overall hyperexpanded consistent with obstructive lung disease. Lungs are clear without focal consolidation. No suspicious pulmonary nodules or masses are noted. No pleural effusions or pneumothoraces. heart size is upper limits of normal.
+
+IMPRESSION:
+Hyperexpanded but clear lungs.
+
+PROBLEMS:
+Lung;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Pulmonary Disease, Chronic Obstructive

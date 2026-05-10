@@ -1,0 +1,16 @@
+UID: 1125
+
+INDICATION:
+XXXX-year-old with XXXX.
+
+FINDINGS:
+Borderline enlarged heart. Stable mediastinal contours. Aortic XXXX calcifications. Hyperinflated lungs with chronic appearing interstitial markings, compatible with emphysema. Bilateral streaky opacities. Increased vascularity compatible with pulmonary vascular congestion. No focal airspace disease. No acute bony abnormality.
+
+IMPRESSION:
+1. Pulmonary vascular congestion. 2. Emphysema. 3. Bibasilar streaky airspace opacities.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis;Lung;Markings;Emphysema;Opacity;Pulmonary Congestion
+
+MESH:
+Cardiomegaly/borderline;Calcinosis/aorta;Lung/hyperdistention;Markings/lung/interstitial/chronic;Emphysema;Opacity/lung/base/bilateral/streaky;Pulmonary Congestion

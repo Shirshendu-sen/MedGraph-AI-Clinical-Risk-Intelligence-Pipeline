@@ -1,0 +1,16 @@
+UID: 3096
+
+INDICATION:
+right shoulder pain cxr sob
+
+FINDINGS:
+The heart is normal in size. Prominent right paratracheal soft tissue density. Rounded mass in the right middle lobe measures approximately 4.6 cm x 3.7 cm. There is mild surrounding airspace disease and/or atelectasis. No pleural effusions noted. The visualized bony thorax appears grossly intact.
+
+IMPRESSION:
+Right mid lung mass with mild right paratracheal soft tissue may be secondary to associated lymphadenopathy. Further imaging with CT of the chest is recommended.
+
+PROBLEMS:
+Density;Mass;Airspace Disease;Pulmonary Atelectasis
+
+MESH:
+Density/right/paratracheal/prominent/mild;Mass/lung/middle lobe/right/round;Airspace Disease/lung/middle lobe/right/mild;Pulmonary Atelectasis/middle lobe/right

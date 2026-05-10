@@ -1,0 +1,16 @@
+UID: 2077
+
+INDICATION:
+XXXX, history of breast cancer
+
+FINDINGS:
+Right jugular XXXX catheter present with tip overlying the lower SVC. Curvilinear density projecting over the upper chest appears external on the lateral projection. Correlate clinically. Normal heart size and mediastinal contour appear normal pulmonary vascularity. XXXX scar/subsegmental atelectasis in the lingula. No focal airspace consolidation, pleural effusion, or pneumothorax. No acute osseous findings. Mild degenerative changes of the spine.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Catheters, Indwelling;Density;Cicatrix;Pulmonary Atelectasis;Spine
+
+MESH:
+Catheters, Indwelling/right;Density/thorax;Cicatrix/lung/lingula;Pulmonary Atelectasis/lingula;Spine/degenerative/mild

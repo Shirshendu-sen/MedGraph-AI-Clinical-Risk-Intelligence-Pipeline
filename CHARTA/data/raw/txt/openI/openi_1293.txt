@@ -1,0 +1,16 @@
+UID: 1341
+
+INDICATION:
+Rule out tuberculosis, facility placement.
+
+FINDINGS:
+Lungs are clear bilaterally. Cardiac and mediastinal silhouettes are normal. Pulmonary vasculature is normal. No pneumothorax or pleural effusion. No acute bony abnormality. The distal tip of a right IJ dual-lumen central venous catheter is at the XXXX which junction.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Catheters, Indwelling
+
+MESH:
+Catheters, Indwelling/right

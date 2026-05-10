@@ -1,0 +1,16 @@
+UID: 2634
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Lungs are clear. No focal infiltrate or effusion. No pneumothorax. Heart and mediastinal contours within normal limits. There are significant degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/moderate

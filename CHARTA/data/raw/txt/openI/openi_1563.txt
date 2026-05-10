@@ -1,0 +1,16 @@
+UID: 1617
+
+INDICATION:
+XXXX
+
+FINDINGS:
+The cardiac contours are normal. Calcified tortuous thoracic aorta. Emphysema. Mild apical scarring. The lungs are otherwise clear. Thoracic spondylosis.
+
+IMPRESSION:
+No acute process.
+
+PROBLEMS:
+Calcinosis;Aorta, Thoracic;Emphysema;Cicatrix;Spondylosis
+
+MESH:
+Calcinosis/aorta, thoracic;Aorta, Thoracic/tortuous;Emphysema;Cicatrix/lung/apex/mild;Spondylosis/thoracic vertebrae

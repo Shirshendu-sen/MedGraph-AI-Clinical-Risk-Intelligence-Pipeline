@@ -1,0 +1,16 @@
+UID: 21
+
+INDICATION:
+Patient confused. Possible head injury.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Mediastinal silhouettes and pulmonary vascularity are within normal limits. Calcified lingular granuloma. No focal consolidations or pleural effusions. No pneumothorax. Breast implants there is a moderate wedge XXXX deformity of the midthoracic vertebrae, XXXX T6, age-indeterminate.
+
+PROBLEMS:
+Calcified Granuloma;Breast Implants;Deformity
+
+MESH:
+Calcified Granuloma/lung/lingula;Breast Implants;Deformity/thoracic vertebrae/moderate

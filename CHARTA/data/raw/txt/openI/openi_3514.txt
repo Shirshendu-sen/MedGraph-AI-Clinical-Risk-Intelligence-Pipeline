@@ -1,0 +1,16 @@
+UID: 3655
+
+INDICATION:
+The patient is a XXXX year-old old male with chest pain.
+
+FINDINGS:
+Well circumscribed 11 mm right upper lobe nodule, unchanged appearance from previous examination 7 years ago. The trachea is midline. Negative for pneumothorax, pleural effusion. The heart size is normal. Redemonstrated syndesmophyte.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Nodule;Osteophyte
+
+MESH:
+Nodule/lung/upper lobe/right;Osteophyte/spine

@@ -1,0 +1,16 @@
+UID: 2511
+
+INDICATION:
+XXXX-year-old XXXX, chest pain.
+
+FINDINGS:
+Sternotomy XXXX noted. Suture material overlies the left upper lobe. Heart size within normal limits. Negative for focal pulmonary consolidation, pleural effusion or pneumothorax. Scarring left costophrenic XXXX, unchanged. Calcified granulomas noted.
+
+IMPRESSION:
+No acute abnormality.
+
+PROBLEMS:
+Sutures;Cicatrix;Calcified Granuloma
+
+MESH:
+Sutures/lung/upper lobe/left;Cicatrix/costophrenic angle/left;Calcified Granuloma/multiple

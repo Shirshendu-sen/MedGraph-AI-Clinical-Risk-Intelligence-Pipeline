@@ -1,0 +1,16 @@
+UID: 343
+
+INDICATION:
+Pain
+
+FINDINGS:
+Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. is not diffuse interstitial prominence, which has chronic appearance. Cannot exclude early pulmonary edema. Two airspace consolidation or effusion. XXXX are osteopenic. No visible pneumothorax.
+
+IMPRESSION:
+Mild interstitial prominence, XXXX chronic though could reflect early pulmonary edema.
+
+PROBLEMS:
+Consolidation;Bone Diseases, Metabolic;Airspace Disease;Pulmonary Congestion
+
+MESH:
+Consolidation/lung;Bone Diseases, Metabolic;Airspace Disease/lung;Pulmonary Congestion/mild

@@ -1,0 +1,16 @@
+UID: 1205
+
+INDICATION:
+XXXX-year-old with dyspnea. Preop for bariatric studies.
+
+FINDINGS:
+Normal heart size. Clear lungs without pneumothorax or pleural effusion.
+
+IMPRESSION:
+Normal chest exam.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

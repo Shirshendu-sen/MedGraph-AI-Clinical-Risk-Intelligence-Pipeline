@@ -1,0 +1,16 @@
+UID: 1633
+
+INDICATION:
+XXXX-year-old XXXX with chest pain.
+
+FINDINGS:
+The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.
+
+IMPRESSION:
+Stable chest without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

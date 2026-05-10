@@ -1,0 +1,16 @@
+UID: 1888
+
+INDICATION:
+Pain and shortness of breath.
+
+FINDINGS:
+Cardiomediastinal contours are unchanged. There are stable fractures of several XXXX XXXX. Lungs are hyperexpanded but clear. No pneumothorax or pleural effusion. Degenerative changes are seen in the spine.
+
+IMPRESSION:
+No acute cardiopulmonary process. .
+
+PROBLEMS:
+Fractures, Bone;Lung;Spine
+
+MESH:
+Fractures, Bone;Lung/hyperdistention;Spine/degenerative

@@ -1,0 +1,16 @@
+UID: 437
+
+INDICATION:
+XXXX-year-old male, preoperative evaluation. History of thyroid cancer.
+
+FINDINGS:
+There are postoperative changes of sternotomy. There is cardiomegaly. The contour of the ascending aorta is prominent, consistent with known ascending aortic aneurysm. The lungs appear clear. No focal airspace consolidation. No pleural effusion or pneumothorax. There are minimal degenerative changes of the spine.
+
+IMPRESSION:
+1. No acute pulmonary abnormality demonstrated. 2. Stable cardiomegaly. 3. Prominent contour of the ascending aorta, consistent with known ascending aortic aneurysm.
+
+PROBLEMS:
+Cardiomegaly;Aortic Aneurysm;Spine;Aorta
+
+MESH:
+Cardiomegaly;Aortic Aneurysm;Spine/degenerative/mild;Aorta/prominent

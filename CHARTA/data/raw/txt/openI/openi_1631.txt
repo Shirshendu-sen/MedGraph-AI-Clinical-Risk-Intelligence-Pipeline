@@ -1,0 +1,16 @@
+UID: 1686
+
+INDICATION:
+Hx of chest pain ..no XXXX
+
+FINDINGS:
+The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. Heart and mediastinum normal. No change calcified aorticopulmonary XXXX node.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Calcinosis;Calcinosis
+
+MESH:
+Calcinosis/aorta/lymph nodes;Calcinosis/pulmonary artery/lymph nodes

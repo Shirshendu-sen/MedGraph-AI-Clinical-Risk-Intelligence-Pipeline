@@ -1,0 +1,16 @@
+UID: 2752
+
+INDICATION:
+PLEURAL EFFUSIONS;
+
+FINDINGS:
+The cardiac silhouette is mildly enlarged. Mediastinal contours are within normal limits. The pulmonary vasculaturity is increased. There is large right-sided pleural effusion and probable underlying associated compressive atelectasis. Mild perihilar XXXX opacities, XXXX edema. No pneumothorax is seen.
+
+IMPRESSION:
+1. Cardiomegaly and central vascular congestion with perihilar opacities, possibly edema. 2. Large right pleural effusion.
+
+PROBLEMS:
+Cardiac Shadow;Pulmonary Congestion;Pleural Effusion;Pulmonary Atelectasis;Opacity;Cardiomegaly
+
+MESH:
+Cardiac Shadow/enlarged/mild;Pulmonary Congestion;Pleural Effusion/right/large;Pulmonary Atelectasis/right;Opacity/lung/hilum/mild;Cardiomegaly

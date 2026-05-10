@@ -1,0 +1,16 @@
+UID: 971
+
+INDICATION:
+The patient is a XXXX-year-old female with XXXX and XXXX. History of asthma.
+
+FINDINGS:
+Normal heart size mediastinal contours. No focal airspace consolidation. No hyperexpansion of the lungs. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

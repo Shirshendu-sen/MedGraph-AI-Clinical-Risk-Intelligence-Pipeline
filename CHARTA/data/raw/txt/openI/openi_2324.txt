@@ -1,0 +1,16 @@
+UID: 2408
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Cardiomediastinal contour stable and within normal limits. Changes of prior CABG again noted. Normal pulmonary vascularity. Streaky bibasilar opacities decreased from previous, possibly subsegmental atelectasis and/or scar. No pneumothorax or pleural effusion demonstrated. Redemonstrated severe L1 XXXX fracture. Slight interval increase in XXXX loss of T11 and there is XXXX mild to moderate anterior XXXX loss of T10. Degenerative changes of the spine. Abdominal aortic stent.
+
+IMPRESSION:
+1. No acute cardiopulmonary finding. 2. Mild to moderate T10 vertebral body anterior XXXX deformity, XXXX from XXXX. Slight interval increase in XXXX loss of T11. Unchanged severe L1 XXXX deformity. If further imaging characterization is needed, recommend MRI. Findings will be conveyed to the ordering physician XXXX the Primordial communication XXXX.
+
+PROBLEMS:
+Opacity;Fractures, Bone;Deformity;Deformity;Spine;Stents
+
+MESH:
+Opacity/lung/base/bilateral/streaky;Fractures, Bone/lumbar vertebrae/severe;Deformity/thoracic vertebrae/anterior/moderate;Deformity/lumbar vertebrae/severe;Spine/degenerative;Stents/aorta

@@ -1,0 +1,16 @@
+UID: 3848
+
+INDICATION:
+XXXX-year-old with XXXX and shortness of breath.
+
+FINDINGS:
+The heart size is moderate to severely enlarged. There is prominence of the central pulmonary XXXX suggesting pulmonary artery hypertension. There has been removal of the right-sided PICC line. There is persistent left basilar airspace opacity with left costophrenic XXXX blunting which is not evident on the lateral exam. There are mild degenerative changes of the spine. There is no pneumothorax.
+
+IMPRESSION:
+Moderate-to-severe cardiomegaly with probable pulmonary artery hypertension. Persistent left basilar opacity without significant effusion.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Hypertension, Pulmonary;Opacity;Costophrenic Angle;Spine
+
+MESH:
+Cardiomegaly/severe;Pulmonary Congestion;Hypertension, Pulmonary;Opacity/lung/base/left;Costophrenic Angle/left/blunted;Spine/degenerative/mild

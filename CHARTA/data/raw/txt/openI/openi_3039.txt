@@ -1,0 +1,16 @@
+UID: 3166
+
+INDICATION:
+XXXX-year-old male with seizures
+
+FINDINGS:
+Heart size normal. No pneumothorax, pleural effusion, or focal airspace disease. Nodular densities consistent with chronic granulomatous disease. Bony structures appear intact.
+
+IMPRESSION:
+Negative for acute cardiopulmonary disease.
+
+PROBLEMS:
+Density;Granulomatous Disease
+
+MESH:
+Density/thorax/round/multiple;Granulomatous Disease/chronic

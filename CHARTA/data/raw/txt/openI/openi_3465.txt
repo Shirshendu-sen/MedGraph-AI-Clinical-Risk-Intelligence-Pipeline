@@ -1,0 +1,16 @@
+UID: 3605
+
+INDICATION:
+XXXX-year-old female, followup pleural effusion and lymphadenopathy.
+
+FINDINGS:
+Heart size within normal limits. No focal airspace disease. No pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary findings. Specifically, no evidence of pleural effusion or hilar or mediastinal adenopathy.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

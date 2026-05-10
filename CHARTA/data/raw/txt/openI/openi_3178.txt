@@ -1,0 +1,16 @@
+UID: 3309
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+Heart and mediastinum are within normal limits. No focal consolidation. No large pleural effusion or pneumothorax. No acute bony abnormality.
+
+IMPRESSION:
+1. No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

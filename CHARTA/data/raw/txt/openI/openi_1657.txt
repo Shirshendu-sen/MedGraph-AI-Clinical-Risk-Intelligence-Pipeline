@@ -1,0 +1,16 @@
+UID: 1713
+
+INDICATION:
+Chest congestion, XXXX for one XXXX.
+
+FINDINGS:
+None
+
+IMPRESSION:
+The heart size is top normal, cardiomediastinal silhouette within normal limits. Pulmonary vasculature appears normal. There is no focal air space consolidation. No pleural effusion or pneumothorax.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

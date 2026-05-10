@@ -1,0 +1,16 @@
+UID: 1064
+
+INDICATION:
+XXXX-year-old female shortness of breath. History of fibrosing mediastinitis.
+
+FINDINGS:
+There is stable elevation of the right hemidiaphragm with questionable increased right basilar airspace opacities. The left lung is clear. Heart size normal. XXXX unremarkable.
+
+IMPRESSION:
+Stable elevated right hemidiaphragm with questionable subtle increased right basilar airspace disease/atelectasis. Correlate clinically.
+
+PROBLEMS:
+Diaphragm;Opacity;Airspace Disease;Pulmonary Atelectasis
+
+MESH:
+Diaphragm/right/elevated;Opacity/lung/base/right;Airspace Disease/lung/base/right;Pulmonary Atelectasis/base/right

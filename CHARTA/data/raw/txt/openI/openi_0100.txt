@@ -1,0 +1,16 @@
+UID: 101
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The heart is again mildly enlarged. Mediastinal contours are stable. Patient is somewhat rotated. The lungs are hypoinflated with elevated left hemidiaphragm. XXXX XXXX opacities compatible with atelectasis. No large effusion is seen. There is no focal consolidation. Pulmonary vascularity is mildly accentuated. There are bilateral degenerative changes of the XXXX with probable chronic dislocation of the left humerus. Correlate clinically.
+
+IMPRESSION:
+1. Mild stable cardiomegaly and central vascular congestion. 2. Low lung volumes with elevated left hemidiaphragm and basilar subsegmental atelectasis. 3. Extensive bilateral shoulder degenerative changes with subluxation/dislocation left shoulder, possibly chronic. Suggest clinical correlation.
+
+PROBLEMS:
+Cardiomegaly;Technical Quality of Image Unsatisfactory ;Lung;Diaphragm;Opacity;Pulmonary Atelectasis;Pulmonary Congestion;Dislocations;Shoulder
+
+MESH:
+Cardiomegaly/mild;Technical Quality of Image Unsatisfactory ;Lung/hypoinflation;Diaphragm/left/elevated;Opacity/lung/base;Pulmonary Atelectasis/base;Pulmonary Congestion;Dislocations/shoulder/left/chronic;Shoulder/bilateral/degenerative/severe

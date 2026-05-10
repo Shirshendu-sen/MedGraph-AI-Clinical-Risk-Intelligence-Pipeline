@@ -1,0 +1,16 @@
+UID: 783
+
+INDICATION:
+COPD with chronic bronchitis.
+
+FINDINGS:
+There is a calcified granuloma in the left upper lung zone. The lungs are otherwise clear. There is hyperinflation. The heart and mediastinum are normal. The skeletal structures and soft tissues are normal for age.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+Calcified Granuloma;Lung
+
+MESH:
+Calcified Granuloma/lung/upper lobe/left;Lung/hyperdistention

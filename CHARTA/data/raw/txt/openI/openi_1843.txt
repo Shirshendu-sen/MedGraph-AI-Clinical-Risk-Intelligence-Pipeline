@@ -1,0 +1,16 @@
+UID: 1906
+
+INDICATION:
+XXXX-year-old female, chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Streaky bibasilar opacities most suggestive of atelectasis with hypoventilation. Heart size mildly enlarged for technique, stable mediastinal contours. No definite pleural effusion seen, no typical findings of pulmonary edema.
+
+PROBLEMS:
+Opacity;Cardiomegaly
+
+MESH:
+Opacity/lung/base/bilateral/streaky;Cardiomegaly/mild

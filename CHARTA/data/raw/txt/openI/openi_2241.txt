@@ -1,0 +1,16 @@
+UID: 2323
+
+INDICATION:
+XXXX year old male with low blood XXXX, dyspnea.
+
+FINDINGS:
+Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. No acute bony or soft tissue abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

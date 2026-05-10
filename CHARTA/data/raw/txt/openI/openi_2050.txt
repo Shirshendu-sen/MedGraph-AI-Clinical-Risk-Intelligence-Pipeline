@@ -1,0 +1,16 @@
+UID: 2128
+
+INDICATION:
+,786.4
+
+FINDINGS:
+None
+
+IMPRESSION:
+Hyperinflated chest as before, compatible with emphysema. Clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Lung;Emphysema
+
+MESH:
+Lung/hyperdistention;Emphysema

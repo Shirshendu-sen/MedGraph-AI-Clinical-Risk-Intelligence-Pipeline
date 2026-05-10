@@ -1,0 +1,16 @@
+UID: 3032
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. Heart and mediastinum normal. Sternotomy sutures and coronary bypass clips remain intact.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Surgical Instruments
+
+MESH:
+Surgical Instruments

@@ -1,0 +1,16 @@
+UID: 2447
+
+INDICATION:
+XXXX-year-old female with a history of chronic lymphoid leukemia presents for bone marrow transplant evaluation.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for appearance. Calcified right hilar lymph XXXX are demonstrated. Atherosclerotic calcifications of the aortic XXXX. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. Mild to moderate degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. No acute intrathoracic abnormality.
+
+PROBLEMS:
+Calcinosis;Atherosclerosis;Thoracic Vertebrae
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/right;Atherosclerosis/aorta;Thoracic Vertebrae/degenerative/moderate

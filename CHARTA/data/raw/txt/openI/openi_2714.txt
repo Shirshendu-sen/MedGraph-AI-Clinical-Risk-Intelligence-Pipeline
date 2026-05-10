@@ -1,0 +1,16 @@
+UID: 2818
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+There is stable cavity in the right apex, XXXX related to prior tuberculosis infection. There is increased opacity in the left upper lobe, peripherally. There is pulmonary hyperexpansion. There is no large effusion or pneumothorax.
+
+IMPRESSION:
+Right upper lobe cavity, consistent with prior tuberculous infection. There is increased right upper lobe opacities XXXX compared to the prior study. This could represent reactivation of tuberculosis or other infection.
+
+PROBLEMS:
+Cavitation;Tuberculosis;Opacity;Lung;Opacity
+
+MESH:
+Cavitation/lung/apex/right;Tuberculosis;Opacity/lung/upper lobe/left;Lung/hyperdistention;Opacity/lung/upper lobe/right

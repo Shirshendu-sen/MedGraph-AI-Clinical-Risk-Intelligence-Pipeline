@@ -1,0 +1,16 @@
+UID: 2049
+
+INDICATION:
+XXXX-year-old female, pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Hyperinflated lungs with no focal alveolar consolidation. No definite pleural effusion seen. Heart size near top normal limits, aortic calcifications and mild ectasia/tortuosity. No typical findings of pulmonary edema. Contour irregularity of the left clavicle appears chronic and suggests old injury.
+
+PROBLEMS:
+Lung;Calcinosis;Aorta;Deformity
+
+MESH:
+Lung/hyperdistention;Calcinosis/aorta;Aorta/tortuous/mild;Deformity/clavicle/left

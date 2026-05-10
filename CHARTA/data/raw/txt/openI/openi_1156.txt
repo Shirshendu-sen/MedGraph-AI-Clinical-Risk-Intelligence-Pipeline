@@ -1,0 +1,16 @@
+UID: 1196
+
+INDICATION:
+LUNG CANCER;
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. The aorta is atherosclerotic. XXXX airspace disease within the left lower lung. The remainder of the lungs are clear. There is no pleural effusion or pneumothorax. Surgical clips overlying the right breast.
+
+IMPRESSION:
+XXXX left lower lobe airspace disease.
+
+PROBLEMS:
+Atherosclerosis;Airspace Disease;Surgical Instruments
+
+MESH:
+Atherosclerosis/aorta;Airspace Disease/lung/lower lobe/left;Surgical Instruments/breast/right

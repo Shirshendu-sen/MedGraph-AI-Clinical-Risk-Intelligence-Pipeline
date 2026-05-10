@@ -1,0 +1,16 @@
+UID: 75
+
+INDICATION:
+XXXX-year-old XXXX with chest pain.
+
+FINDINGS:
+The heart size is stable. The aorta is ectatic and atherosclerotic but stable. XXXX sternotomy XXXX are again noted. The scarring in the left lower lobe is again noted and unchanged from prior exam. There are mild bilateral prominent lung interstitial opacities consistent with emphysematous disease. The calcified granulomas are stable.
+
+IMPRESSION:
+1. Changes of emphysema and left lower lobe scarring, both stable. 2. Unchanged degenerative and atherosclerotic changes of the thoracic aorta.
+
+PROBLEMS:
+Atherosclerosis;Aorta, Thoracic;Cicatrix;Opacity;Pulmonary Emphysema;Calcified Granuloma
+
+MESH:
+Atherosclerosis/aorta, thoracic;Aorta, Thoracic/tortuous;Cicatrix/lung/lower lobe/left;Opacity/lung/bilateral/interstitial/prominent/mild;Pulmonary Emphysema;Calcified Granuloma

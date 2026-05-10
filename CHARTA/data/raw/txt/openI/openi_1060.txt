@@ -1,0 +1,16 @@
+UID: 1095
+
+INDICATION:
+Preprocedure evaluation prior to bone marrow transplant
+
+FINDINGS:
+The lungs appear clear. The heart and pulmonary XXXX appear normal. There is severe kyphotic deformity of the chest involving prior fractures of thoracic vertebral bodies and the sternum. There are multiple XXXX fractures identified involving upper thoracic vertebral bodies and a single upper lumbar vertebral body. The patient is status post vertebroplasty at multiple levels. The pleural spaces appear clear. There is right-sided chest XXXX, the distal tip in the upper right atrium. Mediastinal contours appear normal.
+
+IMPRESSION:
+1. No evidence of acute cardiopulmonary disease 2. Changes of acute kyphotic deformity and of the thorax as described above
+
+PROBLEMS:
+Kyphosis;Fractures, Bone;Fractures, Bone;Fractures, Bone;Catheters, Indwelling
+
+MESH:
+Kyphosis/thorax/severe;Fractures, Bone/thoracic vertebrae/multiple;Fractures, Bone/sternum;Fractures, Bone/lumbar vertebrae;Catheters, Indwelling/right

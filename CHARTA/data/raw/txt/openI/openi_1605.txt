@@ -1,0 +1,16 @@
+UID: 1660
+
+INDICATION:
+719.41, XXXX XXXX male with left shoulder pain
+
+FINDINGS:
+There are low lung volumes. The lungs are otherwise clear. Heart size is normal. No pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

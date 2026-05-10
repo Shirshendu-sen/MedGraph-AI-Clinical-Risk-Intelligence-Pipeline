@@ -1,0 +1,16 @@
+UID: 739
+
+INDICATION:
+XXXX-year-old female with morbid obesity.
+
+FINDINGS:
+XXXX XXXX and lateral views of the chest were obtained XXXX/XXXX. The lung volumes are low normal. The lungs are clear and there are no pleural effusions. The mediastinum and pulmonary XXXX are normal. The bony elements are not remarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities are seen. END OF REPORT.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

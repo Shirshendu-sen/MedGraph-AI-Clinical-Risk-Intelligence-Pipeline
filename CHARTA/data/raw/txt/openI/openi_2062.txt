@@ -1,0 +1,16 @@
+UID: 2140
+
+INDICATION:
+Preop circumcision.
+
+FINDINGS:
+The lungs are clear. There are calcified left hilar lymph XXXX. The heart and mediastinum are normal. The skeletal structures are notable for an old apparent fracture at T12-L1 or congenital fusion unchanged from the prior study.
+
+IMPRESSION:
+1. No acute pulmonary disease. 2. Possible old injury or developmental anomaly partially T12-L1.
+
+PROBLEMS:
+Calcinosis;Fractures, Bone;Fractures, Bone;Spinal Fusion;Spinal Fusion
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/left;Fractures, Bone/thoracic vertebrae;Fractures, Bone/lumbar vertebrae;Spinal Fusion/thoracic vertebrae;Spinal Fusion/lumbar vertebrae

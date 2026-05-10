@@ -1,0 +1,16 @@
+UID: 597
+
+INDICATION:
+XXXX-year-old female with right-sided pleuritic chest pain. Laparoscopic surgery yesterday.
+
+FINDINGS:
+There are XXXX bilateral lower lobe opacities. No pleural effusion. No pneumothorax is identified. Heart size and mediastinal contour are within normal limits. There is lucency beneath the diaphragm, consistent with pneumoperitoneum. Cholecystectomy clips are noted in the right upper quadrant.
+
+IMPRESSION:
+1. XXXX bilateral lower lobe opacities. The appearance XXXX subsegmental atelectasis. 2. Pneumoperitoneum, XXXX postoperative secondary to recent laparoscopic surgery.
+
+PROBLEMS:
+Opacity;Lucency;Pneumoperitoneum;Surgical Instruments;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/lower lobe/bilateral;Lucency/diaphragm;Pneumoperitoneum;Surgical Instruments;Pulmonary Atelectasis/lower lobe/bilateral

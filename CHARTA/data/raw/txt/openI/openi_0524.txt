@@ -1,0 +1,16 @@
+UID: 540
+
+INDICATION:
+XXXX-year-old XXXX at XXXX for aspiration.
+
+FINDINGS:
+The heart size is within normal limits. Mild streaky opacities are present in the left lung base. An accessory azygos fissure is noted. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+Mild streaky left basilar airspace disease, XXXX atelectasis. .
+
+PROBLEMS:
+Opacity;Airspace Disease;Pulmonary Atelectasis;Lung
+
+MESH:
+Opacity/lung/base/left/streaky/mild;Airspace Disease/lung/base/left/streaky/mild;Pulmonary Atelectasis;Lung/azygos lobe

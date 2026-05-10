@@ -1,0 +1,16 @@
+UID: 3396
+
+INDICATION:
+History of renal cell carcinoma in XXXX. Shortness of breath. Patient taking antibiotic for possible pneumonia.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Compared to XXXX, there is a XXXX left subpulmonic pleural effusion which is better appreciated XXXX of XXXX. There is stable right basilar scarring without focal acute infiltrate. No pneumothorax. Cardiomediastinal silhouette is stable. There are postsurgical changes of the abdomen.
+
+PROBLEMS:
+Pleural Effusion;Cicatrix
+
+MESH:
+Pleural Effusion/left;Cicatrix/lung/base/right

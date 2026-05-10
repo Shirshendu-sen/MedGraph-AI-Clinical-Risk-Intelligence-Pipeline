@@ -1,0 +1,16 @@
+UID: 2340
+
+INDICATION:
+KUB/XXXX constipation postop
+
+FINDINGS:
+Chest. Lung volumes are low, but no focal infiltrates are present. Heart and mediastinum remain normal. Abdomen. Multiple slightly distended loops are present from stomach to rectum. Formed stool is present in the rectum.
+
+IMPRESSION:
+1. Chest. Hypoinflation with no visible active cardiopulmonary disease. 2. Abdomen. Negative. No mechanical obstruction.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

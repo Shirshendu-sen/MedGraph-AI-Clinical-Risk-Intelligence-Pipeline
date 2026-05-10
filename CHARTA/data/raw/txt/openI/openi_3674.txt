@@ -1,0 +1,16 @@
+UID: 3819
+
+INDICATION:
+Chest and back pain.
+
+FINDINGS:
+Frontal (on two cassettes) and lateral views of the chest with overlying external cardiac monitor leads show an unchanged cardiomediastinal silhouette. The cardiac silhouette remains markedly enlarged. There is aortic XXXX vascular calcification. No XXXX focal airspace consolidation or pleural effusion.
+
+IMPRESSION:
+Continued severe cardiomegaly and/or pericardial effusion. No acute pulmonary disease process identified.
+
+PROBLEMS:
+Medical Device;Cardiac Shadow;Calcinosis;Cardiomegaly;Pericardial Effusion
+
+MESH:
+Medical Device;Cardiac Shadow/enlarged/severe;Calcinosis/aorta;Cardiomegaly/severe;Pericardial Effusion/severe

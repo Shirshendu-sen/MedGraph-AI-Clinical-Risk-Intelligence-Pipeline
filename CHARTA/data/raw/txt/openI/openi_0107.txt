@@ -1,0 +1,16 @@
+UID: 108
+
+INDICATION:
+XXXX x3 weeks and history of bronchitis
+
+FINDINGS:
+The heart is normal in size. The mediastinum is Within normal limits the lungs are hypoinflated. There is mild increase in perihilar markings XXXX related to patient's history bronchitis. No acute infiltrate or pleural effusion are seen.
+
+IMPRESSION:
+Low lung volumes with increased lung markings particularly in the left perihilar region XXXX related to history of bronchitis. No acute infiltrate.
+
+PROBLEMS:
+Lung;Markings
+
+MESH:
+Lung/hypoinflation;Markings/lung/hilum

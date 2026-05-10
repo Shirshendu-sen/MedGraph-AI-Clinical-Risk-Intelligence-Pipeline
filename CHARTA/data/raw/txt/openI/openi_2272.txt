@@ -1,0 +1,16 @@
+UID: 2355
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+PA and lateral views the chest were obtained. There are low lung volumes on the frontal view, which accentuates heart size and lung markings. The heart size is upper limits normal or mildly enlarged. Mediastinum normal width. The pulmonary vasculature is within normal limits. There is left lung base atelectasis on frontal XXXX XXXX secondary to low volumes. No pneumothorax, pleural effusion, or focal air space consolidation.
+
+IMPRESSION:
+Low lung volumes with crowding. Mild left base atelectasis.
+
+PROBLEMS:
+Lung;Cardiomegaly;Pulmonary Atelectasis;Markings
+
+MESH:
+Lung/hypoinflation;Cardiomegaly/mild;Pulmonary Atelectasis/base/left/mild;Markings/lung

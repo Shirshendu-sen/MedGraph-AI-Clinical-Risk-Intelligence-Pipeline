@@ -1,0 +1,16 @@
+UID: 3858
+
+INDICATION:
+Dizziness.
+
+FINDINGS:
+3 images. Heart size is normal. There is mild tortuosity of the thoracic aorta. There are costochondral calcifications. The lungs are clear of focal infiltrate. No pleural effusion or pneumothorax. Old left clavicle fracture noted.
+
+IMPRESSION:
+No acute abnormality identified.
+
+PROBLEMS:
+Aorta, Thoracic;Calcinosis;Fractures, Bone
+
+MESH:
+Aorta, Thoracic/tortuous/mild;Calcinosis/ribs/multiple;Fractures, Bone/clavicle/left/healed

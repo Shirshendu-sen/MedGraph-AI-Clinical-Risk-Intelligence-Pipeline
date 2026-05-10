@@ -1,0 +1,16 @@
+UID: 2123
+
+INDICATION:
+chest pain
+
+FINDINGS:
+The heart is large. Pulmonary XXXX are engorged. No infiltrates. Aorta is somewhat tortuous. Degenerative disc disease is present in the thoracic spine.
+
+IMPRESSION:
+Cardiomegaly and pulmonary venous hypertension
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Aorta;Thoracic Vertebrae;Hypertension, Pulmonary
+
+MESH:
+Cardiomegaly;Pulmonary Congestion;Aorta/tortuous;Thoracic Vertebrae/degenerative;Hypertension, Pulmonary

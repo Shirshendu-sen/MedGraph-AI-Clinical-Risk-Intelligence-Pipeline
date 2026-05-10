@@ -1,0 +1,16 @@
+UID: 2864
+
+INDICATION:
+shortness of breath for 3 days. Productive XXXX. Yellowish bloody sputum. XXXX. XXXX blood clot in right lung.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Decrease ill-defined mixed lucent and opaque area in the right lateral lung base with small XXXX XXXX remaining and minimal associated right lateral costophrenic XXXX blunting. No XXXX pulmonary consolidation. The cardiomediastinal silhouette appears stable. The left costophrenic XXXX is clear. Visualized spine vertebrae appear normal in XXXX and alignment . CT ratio 12/33
+
+PROBLEMS:
+Opacity;Lucency;Costophrenic Angle
+
+MESH:
+Opacity/lung/base/right/irregular;Lucency/lung/base/right/irregular;Costophrenic Angle/right/blunted/mild

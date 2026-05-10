@@ -1,0 +1,16 @@
+UID: 1230
+
+INDICATION:
+followup consolidation mass. Brain metastasis versus abscess.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Left lung clear. Slight cardiomegaly. Right effusion. Right lower lobe infiltrate. Two air-fluid levels in the right hemithorax most XXXX representing hydropneumothorax. This radiographic finding could also represent empyema with a bronchopleural fistula. CT scan with IV contrast may be helpful.
+
+PROBLEMS:
+Cardiomegaly;Pleural Effusion;Infiltrate;Hydropneumothorax
+
+MESH:
+Cardiomegaly/mild;Pleural Effusion/right;Infiltrate/lung/lower lobe/right;Hydropneumothorax/right

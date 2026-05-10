@@ -1,0 +1,16 @@
+UID: 3151
+
+INDICATION:
+Dyspnea, chest pain comment XXXX
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for size and contour. There is lingular airspace disease.. Osseous structures are within normal limits for patient age..
+
+IMPRESSION:
+1. Lingular airspace disease which in the setting of XXXX is concerning for pneumonia.
+
+PROBLEMS:
+Airspace Disease
+
+MESH:
+Airspace Disease/lung/lingula

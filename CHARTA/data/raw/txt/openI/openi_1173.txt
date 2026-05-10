@@ -1,0 +1,16 @@
+UID: 1214
+
+INDICATION:
+XXXX year old XXXX for a XXXX.
+
+FINDINGS:
+The heart is normal in size and contour. There is a focal area of scarring or XXXX atelectasis identified in the lingula. The lungs are otherwise clear without focal infiltrate. There is no pneumothorax or effusion.
+
+IMPRESSION:
+Focal area of XXXX scarring or atelectasis within the lingula. No acute pulmonary process.
+
+PROBLEMS:
+Cicatrix;Pulmonary Atelectasis
+
+MESH:
+Cicatrix/lung/lingula/focal;Pulmonary Atelectasis/lingula

@@ -1,0 +1,16 @@
+UID: 230
+
+INDICATION:
+XXXX, dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable cardiomediastinal silhouette. Stable lingular nodule, presumably granuloma . No pleural effusion, pneumothorax or interval airspace consolidation to suggest pneumonia.
+
+PROBLEMS:
+Nodule
+
+MESH:
+Nodule/lung/lingula

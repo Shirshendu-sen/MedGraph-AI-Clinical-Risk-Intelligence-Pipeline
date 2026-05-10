@@ -1,0 +1,16 @@
+UID: 2033
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The cardiac silhouette is near upper limits of normal in size. Pulmonary vasculature is normal in caliber. There is mild tortuosity of the descending thoracic aorta. The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings. There are mild degenerative endplate changes in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Aorta, Thoracic;Thoracic Vertebrae
+
+MESH:
+Aorta, Thoracic/tortuous/mild;Thoracic Vertebrae/degenerative/mild

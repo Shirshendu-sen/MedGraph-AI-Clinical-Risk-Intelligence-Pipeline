@@ -1,0 +1,16 @@
+UID: 3786
+
+INDICATION:
+XXXX. Decreasing saturation.
+
+FINDINGS:
+In the interval, consolidations have developed in the left upper lobe and both lower lobes. Heart size remains slightly large. Pulmonary XXXX normal.
+
+IMPRESSION:
+Bilateral increasing consolidations, consistent with multifocal pneumonia.
+
+PROBLEMS:
+Consolidation;Consolidation;Cardiomegaly;Pneumonia
+
+MESH:
+Consolidation/lung/upper lobe/left;Consolidation/lung/lower lobe/bilateral;Cardiomegaly/mild;Pneumonia/focal/multiple

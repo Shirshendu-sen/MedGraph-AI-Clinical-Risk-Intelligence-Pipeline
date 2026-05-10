@@ -1,0 +1,16 @@
+UID: 2722
+
+INDICATION:
+SOB
+
+FINDINGS:
+Overall low lung volumes. Lungs are grossly clear. Pleural thickening along the inferior left lateral chest. This appears relatively stable compared to the prior examination. No pleural effusions or pneumothoraces. cardiomegaly. Degenerative changes in the spine.
+
+IMPRESSION:
+1. Cardiomegaly. 2. Pleural thickening along the inferior left lateral chest wall stable since the prior examination.
+
+PROBLEMS:
+Lung;Thickening;Cardiomegaly;Spine
+
+MESH:
+Lung/hypoinflation;Thickening/pleura/left;Cardiomegaly;Spine/degenerative

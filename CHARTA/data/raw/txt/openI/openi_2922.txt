@@ -1,0 +1,16 @@
+UID: 3046
+
+INDICATION:
+The patient is a XXXX-year-old female with right upper quadrant pain, frequent XXXX, possible rib fracture..
+
+FINDINGS:
+Redemonstration of azygos lobe. Redemonstrated left perihilar nodular opacity, similar in size from previous examination. Dense appearing, may be granulomatous. The trachea is midline. Negative for pneumothorax, pleural effusion or focal airspace consolidation. The heart size is normal. XXXX. Limited exam, for evaluation of fractures. However, no evidence for displaced rib fracture.
+
+IMPRESSION:
+1. Left perihilar nodular opacity redemonstrated, appears dense, may be granulomatous, if desired one may consider CT for further characterization. 2. No acute cardiopulmonary abnormality. Redemonstrated azygos lobe. 3. No fracture visible. If clinical concern persists, consider dedicated rib series.
+
+PROBLEMS:
+Opacity;Density;Technical Quality of Image Unsatisfactory ;Lung
+
+MESH:
+Opacity/lung/hilum/left/round;Density/lung/hilum/left/round;Technical Quality of Image Unsatisfactory ;Lung/azygos lobe

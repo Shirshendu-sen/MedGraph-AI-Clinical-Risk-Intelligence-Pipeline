@@ -1,0 +1,16 @@
+UID: 2704
+
+INDICATION:
+Abscess. Post left mastectomy.
+
+FINDINGS:
+Frontal and lateral views of the chest show an unchanged cardiomediastinal silhouette. The aorta is unfolded. There is left base streaky opacity due to XXXX scarring or discoid atelectasis. There is a midright lung small calcified granuloma. There are small nodular opacities projecting over the right base in the right costophrenic sulcus, posterior right 9th rib and the anterior T10 vertebral body. No XXXX focal airspace consolidation or pleural effusion.
+
+IMPRESSION:
+1. XXXX indeterminant small nodular opacities. May be granulomas or bone islands. However, XXXX is recommended given the history of malignancy. 2. Otherwise no acute cardiac or pulmonary disease process identified.
+
+PROBLEMS:
+Aorta;Opacity;Cicatrix;Pulmonary Atelectasis;Calcified Granuloma;Opacity;Opacity
+
+MESH:
+Aorta/tortuous;Opacity/lung/base/left/streaky;Cicatrix/lung/base/left;Pulmonary Atelectasis/base/left;Calcified Granuloma/lung/middle lobe/right/small;Opacity/lung/base/right/round/multiple/small;Opacity/costophrenic angle/sulcus/right/round/multiple/small

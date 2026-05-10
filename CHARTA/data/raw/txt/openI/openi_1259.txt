@@ -1,0 +1,16 @@
+UID: 1306
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. There are diminished lung volumes. The cardiomediastinal contours are within normal limits. Pulmonary vascularity is within normal limits. No focal consolidation, pleural effusion, or pneumothorax identified. XXXX scoliosis is unchanged. Visualized upper abdomen is grossly unremarkable.
+
+IMPRESSION:
+No evidence of acute cardiopulmonary process or significant interval change.
+
+PROBLEMS:
+Lung;Scoliosis
+
+MESH:
+Lung/hypoinflation;Scoliosis

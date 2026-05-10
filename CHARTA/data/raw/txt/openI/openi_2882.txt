@@ -1,0 +1,16 @@
+UID: 3004
+
+INDICATION:
+Chest pain XXXX this XXXX. Weakness and shortness of breath.
+
+FINDINGS:
+Frontal and lateral views of the chest show normal size and configuration of the cardiac silhouette. Normal mediastinal contour, pulmonary XXXX and vasculature, central airways and lung volumes. And scattered calcified granulomas. Left greater than right basilar opacity, probable atelectasis and/or scarring. No pleural effusion.
+
+IMPRESSION:
+Basilar atelectasis. Otherwise, no acute cardiac or pulmonary disease process.
+
+PROBLEMS:
+Calcified Granuloma;Opacity;Pulmonary Atelectasis;Cicatrix
+
+MESH:
+Calcified Granuloma/scattered/multiple;Opacity/lung/base/bilateral;Pulmonary Atelectasis/base/bilateral;Cicatrix/lung/base/bilateral

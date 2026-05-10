@@ -1,0 +1,16 @@
+UID: 817
+
+INDICATION:
+XXXX-year-old male with positive PPD.
+
+FINDINGS:
+There are XXXX left upper lobe opacities. Lungs otherwise appear clear. No pleural effusion or pneumothorax. Heart size is as is within normal limits.
+
+IMPRESSION:
+1. No evidence of active tuberculosis. 2. XXXX left upper lobe opacities. The appearance XXXX subsegmental atelectasis or scarring.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Cicatrix
+
+MESH:
+Opacity/lung/upper lobe/left;Pulmonary Atelectasis/upper lobe/left;Cicatrix/lung/upper lobe/left

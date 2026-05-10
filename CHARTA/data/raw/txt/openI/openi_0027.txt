@@ -1,0 +1,16 @@
+UID: 28
+
+INDICATION:
+XXXX-year-old male, shortness of breath.
+
+FINDINGS:
+Bilateral patchy pulmonary opacities noted. Interval improvement in left base consolidative opacity. Pulmonary vascular congestion again noted. Stable enlarged cardiomediastinal silhouette. Stable left XXXX. No evidence of pneumothorax. No large pleural effusions.
+
+IMPRESSION:
+1. Interval improvement in consolidative left base opacity. Multifocal scattered bibasilar patchy and XXXX pulmonary opacities again noted, most consistent with atelectasis/infiltrate. 2. Stable enlarged cardiomediastinal silhouette. Stable pulmonary vascular congestion. .
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Consolidation;Pulmonary Congestion;Cardiac Shadow
+
+MESH:
+Opacity/lung/base/bilateral/scattered/focal/patchy/multiple;Pulmonary Atelectasis;Consolidation/lung/base/left;Pulmonary Congestion;Cardiac Shadow/enlarged

@@ -1,0 +1,16 @@
+UID: 2438
+
+INDICATION:
+Shortness of breath, XXXX inhalation.
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Heart size and pulmonary vascularity within normal limits.
+
+IMPRESSION:
+1. No acute pulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

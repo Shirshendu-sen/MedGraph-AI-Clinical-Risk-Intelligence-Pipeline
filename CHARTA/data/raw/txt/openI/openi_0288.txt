@@ -1,0 +1,16 @@
+UID: 299
+
+INDICATION:
+Preop bariatric surgery.
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. The lungs are clear. Bony structures are intact. Small hiatal hernia.
+
+IMPRESSION:
+No acute findings. Small hiatal hernia.
+
+PROBLEMS:
+Hernia, Hiatal
+
+MESH:
+Hernia, Hiatal/small

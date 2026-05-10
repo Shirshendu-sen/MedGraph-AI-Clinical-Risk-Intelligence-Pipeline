@@ -1,0 +1,16 @@
+UID: 2688
+
+INDICATION:
+XXXX year old with diarrhea and lethargy.
+
+FINDINGS:
+There is mild cardiomegaly. Aorta is heavily calcified and tortuous, consistent with atherosclerotic disease. There are diffuse increased interstitial opacities identified. This may be secondary to edema, or alternatively atypical infection. No large effusion or visualized pneumothorax. Osteopenia of the spine is identified.
+
+IMPRESSION:
+1. Cardiomegaly with diffuse interstitial opacities. Findings may be secondary to pulmonary edema. Atypical infection is another consideration.
+
+PROBLEMS:
+Cardiomegaly;Atherosclerosis;Aorta;Opacity;Bone Diseases, Metabolic
+
+MESH:
+Cardiomegaly/mild;Atherosclerosis/aorta/severe;Aorta/tortuous;Opacity/lung/interstitial/diffuse;Bone Diseases, Metabolic/spine

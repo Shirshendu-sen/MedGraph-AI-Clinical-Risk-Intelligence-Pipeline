@@ -1,0 +1,16 @@
+UID: 944
+
+INDICATION:
+XXXX-year-old male, preoperative evaluation.
+
+FINDINGS:
+Heart size and cardiomediastinal silhouette are normal. Mild tortuosity of the aorta. Low lung volumes, however lungs are grossly clear without focal airspace opacity, pleural effusion, or pneumothorax. Osseous structures grossly intact.
+
+IMPRESSION:
+Negative for acute cardiopulmonary findings.
+
+PROBLEMS:
+Aorta;Lung
+
+MESH:
+Aorta/tortuous/mild;Lung/hypoinflation

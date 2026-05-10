@@ -1,0 +1,16 @@
+UID: 235
+
+INDICATION:
+Status post pacemaker implantation
+
+FINDINGS:
+There is a left-sided biventricular pacemaker. Leads overlie the right ventricle and a lateral cardiac vein. The leads appear intact. The cardiac silhouette is mildly enlarged. There are mild diffuse bilateral interstitial opacities, XXXX pulmonary edema. There are XXXX opacities overlying the left lung base on the frontal view. No large pleural effusion is seen on the lateral view. No pneumothorax is identified.
+
+IMPRESSION:
+1. Left-sided biventricular cardiac pacemaker. Leads appear intact. No pneumothorax. 2. Cardiomegaly and mild interstitial pulmonary edema. 3. XXXX opacities overlying the left lung base on the frontal view, possibly lingular atelectasis or infiltrate. No large pleural effusion.
+
+PROBLEMS:
+Implanted Medical Device;Cardiac Shadow;Opacity;Opacity;Cardiomegaly;Pulmonary Edema
+
+MESH:
+Implanted Medical Device/left;Cardiac Shadow/enlarged/mild;Opacity/lung/bilateral/interstitial/diffuse/mild;Opacity/lung/base/left;Cardiomegaly;Pulmonary Edema/interstitial/mild

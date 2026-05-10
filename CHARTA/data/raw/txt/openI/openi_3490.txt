@@ -1,0 +1,16 @@
+UID: 3631
+
+INDICATION:
+HYPOXIA;
+
+FINDINGS:
+None
+
+IMPRESSION:
+1. All lines and tubes in stable , XXXX position. 2. Limited portable study with stable appearance of lung XXXX with stable widened mediastinum 3. No XXXX acute findings/pneumothorax noted.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Catheters, Indwelling;Tube, Inserted;Mediastinum
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Catheters, Indwelling;Tube, Inserted;Mediastinum/prominent

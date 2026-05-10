@@ -1,0 +1,16 @@
+UID: 387
+
+INDICATION:
+XXXX-year-old male with shortness of breath.
+
+FINDINGS:
+Heart size is normal. There is left hilar enlargement with partial opacification of the left upper lobe suggestive of hilar mass with obstructive atelectasis. Questionable small right midlung nodule. Negative for pneumothorax or pleural effusion. Bony thorax is unremarkable.
+
+IMPRESSION:
+Suspected left hilar mass with obstructive atelectasis. XXXX thorax for further characterization.
+
+PROBLEMS:
+Lung;Opacity
+
+MESH:
+Lung/hilum/enlarged;Opacity/lung/upper lobe/left

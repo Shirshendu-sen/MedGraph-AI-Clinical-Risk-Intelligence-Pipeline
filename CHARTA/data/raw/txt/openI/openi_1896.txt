@@ -1,0 +1,16 @@
+UID: 1961
+
+INDICATION:
+XXXX-year-old woman with chest pain and shortness of breath..
+
+FINDINGS:
+Stable cardiomegaly with significantly low lung volumes and associated bronchovascular crowding and bibasilar atelectasis. No definite pleural effusion, consolidation, or pneumothorax identified. No acute bony abnormality.
+
+IMPRESSION:
+Limited examination with stable cardiomegaly and low lung volumes without acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Cardiomegaly;Lung;Markings;Pulmonary Atelectasis;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Cardiomegaly;Lung/hypoinflation/severe;Markings/bronchovascular;Pulmonary Atelectasis/base/bilateral;Technical Quality of Image Unsatisfactory

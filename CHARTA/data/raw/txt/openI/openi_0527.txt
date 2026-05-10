@@ -1,0 +1,16 @@
+UID: 543
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The lungs are clear. The cardiomediastinal silhouette is within normal limits. No pleural effusion is identified.
+
+IMPRESSION:
+Normal chest film.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

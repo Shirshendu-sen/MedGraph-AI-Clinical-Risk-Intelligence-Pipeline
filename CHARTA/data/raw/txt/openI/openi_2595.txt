@@ -1,0 +1,16 @@
+UID: 2693
+
+INDICATION:
+Chest pain for
+
+FINDINGS:
+There are low lung volumes. The cardiac silhouette and mediastinal contours are within normal limits. There is tortuosity of the thoracic aorta. No pneumothorax. No large pleural effusion.
+
+IMPRESSION:
+Low lung volumes without acute cardiopulmonary disease.
+
+PROBLEMS:
+Lung;Aorta, Thoracic
+
+MESH:
+Lung/hypoinflation;Aorta, Thoracic/tortuous

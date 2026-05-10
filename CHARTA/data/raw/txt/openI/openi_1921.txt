@@ -1,0 +1,16 @@
+UID: 1986
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+The heart size and cardia mediastinal silhouette are normal. There is no focal airspace opacity, pleural effusion, or pneumothorax. There is an approximately 8mm opacity overlying the sixth anterior rib. There are other scattered calcified granulomas. The osseous structures are intact. There are mild degenerative changes in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+Opacity;Calcified Granuloma;Thoracic Vertebrae
+
+MESH:
+Opacity/ribs/anterior;Calcified Granuloma/scattered/multiple;Thoracic Vertebrae/degenerative/mild

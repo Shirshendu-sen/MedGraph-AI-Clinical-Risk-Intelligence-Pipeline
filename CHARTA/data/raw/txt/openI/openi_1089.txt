@@ -1,0 +1,16 @@
+UID: 1124
+
+INDICATION:
+Preoperative evaluation for esophageal surgery.
+
+FINDINGS:
+There are postoperative changes of sternotomy. Heart size is within normal limits. There is aortic atherosclerotic vascular calcification. The lungs are mildly hyperexpanded. There is no focal airspace consolidation. No pleural effusion or pneumothorax. There are diffuse degenerative changes of the spine.
+
+IMPRESSION:
+1. No focal airspace consolidation. 2. Hyperexpanded lungs, suggestive of obstructive lung disease.
+
+PROBLEMS:
+Atherosclerosis;Lung;Spine
+
+MESH:
+Atherosclerosis/aorta;Lung/hyperdistention/mild;Spine/degenerative/diffuse

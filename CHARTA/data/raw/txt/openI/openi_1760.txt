@@ -1,0 +1,16 @@
+UID: 1819
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable cardiac enlargement. Vascular congestion is redemonstrated. Patchy atelectasis and airspace disease is present in the left base. Right base is clear. No large effusion or pneumothorax.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Pulmonary Atelectasis;Airspace Disease
+
+MESH:
+Cardiomegaly;Pulmonary Congestion;Pulmonary Atelectasis/base/left/patchy;Airspace Disease/lung/base/left

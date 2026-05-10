@@ -1,0 +1,16 @@
+UID: 2087
+
+INDICATION:
+XXXX-year-old male, syncope
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size within normal limits for technique. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. No pneumothorax.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

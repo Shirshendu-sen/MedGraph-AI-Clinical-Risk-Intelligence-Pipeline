@@ -1,0 +1,16 @@
+UID: 2681
+
+INDICATION:
+XXXX-year-old with shortness of breath. History of bladder cancer. XXXX.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There is a small stable XXXX foreign body noted over the left chest. There are vascular calcifications over the aortic XXXX. There are mild degenerative changes of the spine.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Foreign Bodies;Calcinosis;Spine
+
+MESH:
+Foreign Bodies/thorax/left/small;Calcinosis/aorta;Spine/degenerative/mild

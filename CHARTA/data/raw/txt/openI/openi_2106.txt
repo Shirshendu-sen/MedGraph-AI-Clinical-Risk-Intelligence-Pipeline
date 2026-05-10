@@ -1,0 +1,16 @@
+UID: 2185
+
+INDICATION:
+XXXX x4 weeks.
+
+FINDINGS:
+There are low lung volumes with bibasilar opacities XXXX representing subsegmental atelectasis. The cardio the cardiac silhouette is of the XXXX of normal. There is no pneumothorax or pleural effusion.
+
+IMPRESSION:
+Low lung volumes with bibasilar streaky opacities most XXXX representing subsegmental atelectasis.
+
+PROBLEMS:
+Lung;Opacity;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation;Opacity/lung/base/bilateral/streaky;Pulmonary Atelectasis/base/bilateral

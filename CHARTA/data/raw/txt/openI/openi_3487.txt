@@ -1,0 +1,16 @@
+UID: 3628
+
+INDICATION:
+Chest pain, shortness of breath.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours are within normal limits. Pulmonary vascularity is within normal limits. No focal consolidation, pleural effusion, or pneumothorax identified. There are XXXX multilevel degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No evidence of acute cardiopulmonary process.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/multiple

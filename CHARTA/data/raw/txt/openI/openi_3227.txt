@@ -1,0 +1,16 @@
+UID: 3359
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+Heart size normal. No focal airspace disease. No pneumothorax or effusions.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

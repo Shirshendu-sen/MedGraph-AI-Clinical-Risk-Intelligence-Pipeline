@@ -1,0 +1,16 @@
+UID: 1957
+
+INDICATION:
+XXXX-year-old female, short of breath, pain
+
+FINDINGS:
+Bilateral pleural effusions, left small, right moderate in size, abnormal opacities in the adjacent lung bases. Limited assessment of heart size due to obscured margins, stable mediastinal contours.
+
+IMPRESSION:
+1. Bilateral pleural effusions, right larger than left 2. Abnormal pulmonary opacities which may be due to atelectasis, differential diagnosis includes infection, aspiration, atypical distribution pulmonary edema
+
+PROBLEMS:
+Pleural Effusion;Pleural Effusion;Opacity;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Pleural Effusion/left/small;Pleural Effusion/right/moderate;Opacity/lung/base/bilateral;Technical Quality of Image Unsatisfactory

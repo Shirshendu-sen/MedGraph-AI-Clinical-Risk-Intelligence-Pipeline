@@ -1,0 +1,16 @@
+UID: 349
+
+INDICATION:
+chest pain
+
+FINDINGS:
+The heart size is enlarged. The aorta is tortuous. The pulmonary vasculature appears normal. Lungs are otherwise clear bilaterally. No pleural effusions or pneumothorax. No bony abnormalities.
+
+IMPRESSION:
+1. Cardiomegaly
+
+PROBLEMS:
+Cardiomegaly;Aorta
+
+MESH:
+Cardiomegaly;Aorta/tortuous

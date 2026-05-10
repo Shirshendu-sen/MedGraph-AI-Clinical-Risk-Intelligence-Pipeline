@@ -1,0 +1,16 @@
+UID: 1560
+
+INDICATION:
+XXXX-year-old female with blood-tinged sputum.
+
+FINDINGS:
+Normal heart. Clear lungs. No pneumothorax. No pleural effusion.
+
+IMPRESSION:
+No acute findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

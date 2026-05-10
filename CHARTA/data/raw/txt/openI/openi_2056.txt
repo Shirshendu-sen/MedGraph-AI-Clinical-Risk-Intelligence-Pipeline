@@ -1,0 +1,16 @@
+UID: 2134
+
+INDICATION:
+XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Slightly hyperinflated appearing but clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention/mild

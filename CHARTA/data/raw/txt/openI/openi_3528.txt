@@ -1,0 +1,16 @@
+UID: 3669
+
+INDICATION:
+bronchitis
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart normal. Lungs clear. Upper lobe XXXX and emphysema.
+
+PROBLEMS:
+Emphysema
+
+MESH:
+Emphysema

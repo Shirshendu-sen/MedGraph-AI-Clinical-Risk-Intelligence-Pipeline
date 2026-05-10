@@ -1,0 +1,16 @@
+UID: 256
+
+INDICATION:
+hx tumors removed lungs XXXX, possible nodular denisities at OSH
+
+FINDINGS:
+Postoperative changes are present in the left fifth rib. Residual radiopaque sutures are also present in the left upper lobe. The lungs are clear with no infiltrates or masses. Heart and mediastinum are normal.
+
+IMPRESSION:
+Postoperative left upper lobe. No visible active cardiopulmonary disease.
+
+PROBLEMS:
+Sutures;Cicatrix
+
+MESH:
+Sutures/lung/upper lobe/left;Cicatrix/ribs/left

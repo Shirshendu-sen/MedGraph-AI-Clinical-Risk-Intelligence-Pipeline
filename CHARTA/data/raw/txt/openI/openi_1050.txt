@@ -1,0 +1,16 @@
+UID: 1085
+
+INDICATION:
+XXXX-year-old woman with syncopal episode..
+
+FINDINGS:
+The lungs demonstrate low lung volumes but are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Mild streaky opacities in the left upper lobe on frontal projection are XXXX atelectatic or scar. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.
+
+IMPRESSION:
+Low lung volumes without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Opacity;Cicatrix;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation;Opacity/lung/upper lobe/left/streaky/mild;Cicatrix/lung/upper lobe/left;Pulmonary Atelectasis/upper lobe/left

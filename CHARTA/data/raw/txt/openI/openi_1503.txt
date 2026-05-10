@@ -1,0 +1,16 @@
+UID: 1555
+
+INDICATION:
++PPD. No known exposure. History of right upper lobectomy.
+
+FINDINGS:
+XXXX XXXX and lateral chest examination was obtained. The heart silhouette and mediastinal contours are not enlarged. There is elevated right hemidiaphragm and evidence of right upper lobectomy. Lungs demonstrate no acute findings. There is no effusion or pneumothorax.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease.
+
+PROBLEMS:
+Diaphragm;Pneumonectomy
+
+MESH:
+Diaphragm/right/elevated;Pneumonectomy/lung/upper lobe/right

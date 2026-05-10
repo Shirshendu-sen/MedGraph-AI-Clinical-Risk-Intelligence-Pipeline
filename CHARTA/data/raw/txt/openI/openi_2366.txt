@@ -1,0 +1,16 @@
+UID: 2451
+
+INDICATION:
+XXXX-year-old male with XXXX, and preoperative evaluation for right total knee replacement.
+
+FINDINGS:
+Chest. Heart size within normal limits. No focal airspace disease. No pneumothorax or effusions. Mild degenerative changes throughout the thoracic spine. Right knee. There has been prior ligamentous repair. There is tricompartmental joint space narrowing and marginal osteophyte formation which is severe in the medial compartment. No knee joint effusion. No fractures or dislocations.
+
+IMPRESSION:
+1. Chest. No acute cardiopulmonary findings. 2. Right knee. Stable advanced degenerative changes, most severe in the medial compartment.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

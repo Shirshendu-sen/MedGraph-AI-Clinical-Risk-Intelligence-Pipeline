@@ -1,0 +1,16 @@
+UID: 2082
+
+INDICATION:
+Dyspnea, generalized weakness.
+
+FINDINGS:
+The heart is enlarged. There is pulmonary vascular congestion with diffusely increased interstitial and mild patchy airspace opacities. The distribution XXXX pulmonary edema. There is no pneumothorax or large pleural effusion. There are no acute bony findings.
+
+IMPRESSION:
+Cardiomegaly with vascular congestion and suspected pulmonary edema. .
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Opacity;Pulmonary Edema
+
+MESH:
+Cardiomegaly;Pulmonary Congestion;Opacity/lung/interstitial/diffuse/patchy/mild;Pulmonary Edema

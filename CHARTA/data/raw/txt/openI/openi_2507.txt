@@ -1,0 +1,16 @@
+UID: 2599
+
+INDICATION:
+XXXX-year-old male, XXXX.
+
+FINDINGS:
+There is an irregular opacity projecting over the left apex. Additionally there is a more inferior left upper lobe opacity measuring approximately 6 mm in diameter. No pneumothorax. No pleural effusions. Heart size is normal limits. Degenerative changes thoracic spine.
+
+IMPRESSION:
+Left upper lobe opacities, cannot exclude mass lesions. Recommend CT chest for further evaluation.
+
+PROBLEMS:
+Opacity;Opacity;Thoracic Vertebrae
+
+MESH:
+Opacity/lung/apex/left/irregular;Opacity/lung/upper lobe/left;Thoracic Vertebrae/degenerative

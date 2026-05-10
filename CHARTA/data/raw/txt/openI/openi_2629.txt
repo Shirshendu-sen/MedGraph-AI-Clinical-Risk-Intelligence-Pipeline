@@ -1,0 +1,16 @@
+UID: 2729
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+Normal heart size, mediastinal and aortic contours. Normal pulmonary vascularity. Elevated left hemidiaphragm with scarring at the left costophrenic XXXX. There is a bullet fragment overlying the left T7 vertebra. Retained XXXX bullet fragments noted within the left upper and lower lobes. No focal consolidation, visible pneumothorax or large pleural effusion. Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. No evidence of active cardiopulmonary disease. 2. Posttraumatic changes compatible with prior gunshot wound.
+
+PROBLEMS:
+Diaphragm;Cicatrix;Foreign Bodies;Foreign Bodies;Foreign Bodies;Thoracic Vertebrae
+
+MESH:
+Diaphragm/left/elevated;Cicatrix/costophrenic angle/left;Foreign Bodies/thoracic vertebrae;Foreign Bodies/lung/lower lobe/left;Foreign Bodies/lung/upper lobe/left;Thoracic Vertebrae/degenerative/mild

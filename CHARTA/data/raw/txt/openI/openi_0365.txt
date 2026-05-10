@@ -1,0 +1,16 @@
+UID: 378
+
+INDICATION:
+acute mental status change Chest x-XXXX for placement
+
+FINDINGS:
+None
+
+IMPRESSION:
+Minimal atelectasis right base. No evidence of tuberculosis. Heart size is normal.
+
+PROBLEMS:
+Pulmonary Atelectasis
+
+MESH:
+Pulmonary Atelectasis/base/right/mild

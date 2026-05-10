@@ -1,0 +1,16 @@
+UID: 1992
+
+INDICATION:
+Seizure
+
+FINDINGS:
+Borderline heart size. The lungs are hyperexpanded and hyperlucent compatible with chronic obstructive pulmonary disease. There are no XXXX focal air space consolidations. No pleural effusions or pneumothoraces. The hilar and mediastinal contours are unchanged. Aortic vascular calcifications. Normal pulmonary vascularity. Bone demineralization.
+
+IMPRESSION:
+Findings of chronic obstructive pulmonary disease.
+
+PROBLEMS:
+Cardiomegaly;Lung;Lung, Hyperlucent;Pulmonary Disease, Chronic Obstructive;Calcinosis;Bone Diseases, Metabolic
+
+MESH:
+Cardiomegaly/borderline;Lung/hyperdistention;Lung, Hyperlucent;Pulmonary Disease, Chronic Obstructive;Calcinosis/aorta;Bone Diseases, Metabolic

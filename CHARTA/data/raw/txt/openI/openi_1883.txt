@@ -1,0 +1,16 @@
+UID: 1947
+
+INDICATION:
+XXXX-year-old male, pain ComparisXXXXXXXX
+
+FINDINGS:
+Heart size within normal limits, stable mediastinal contours. No focal alveolar consolidation, no definite pleural effusion seen. A dense nodule in the right base suggests a previous granulomatous process. No typical findings of pulmonary edema. No pneumothorax.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Nodule;Density
+
+MESH:
+Nodule/lung/base/right;Density/lung/base/right

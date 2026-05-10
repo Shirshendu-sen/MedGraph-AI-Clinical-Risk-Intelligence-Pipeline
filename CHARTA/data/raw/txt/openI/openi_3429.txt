@@ -1,0 +1,16 @@
+UID: 3569
+
+INDICATION:
+XXXX-year-old male, chest pain shortness of breath.
+
+FINDINGS:
+Normal heart size and mediastinal contours. Low lung volumes. No focal airspace consolidation. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+Low lung volumes, otherwise no acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

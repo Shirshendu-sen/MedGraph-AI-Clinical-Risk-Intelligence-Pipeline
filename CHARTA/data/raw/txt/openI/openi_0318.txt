@@ -1,0 +1,16 @@
+UID: 330
+
+INDICATION:
+XXXX-year-old woman with hepatic encephalopathy and XXXX of abdomen.
+
+FINDINGS:
+Heart size, mediastinal contour, and pulmonary vascularity are within normal limits. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Visualized osseous structures appear intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

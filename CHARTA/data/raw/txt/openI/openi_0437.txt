@@ -1,0 +1,16 @@
+UID: 452
+
+INDICATION:
+,786.2 XXXX - f/u ? aspiration
+
+FINDINGS:
+The lungs appear clear. No evidence of focal pneumonia. The heart and pulmonary XXXX are normal. There is suture material at the left apex suggesting prior lung surgery. In the pleural spaces are clear. Mediastinal contours appear normal.
+
+IMPRESSION:
+1. No evidence of pneumonia or aspiration 2. Suture material along left apex suggesting prior lung surgery
+
+PROBLEMS:
+Sutures
+
+MESH:
+Sutures/lung/apex/left

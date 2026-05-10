@@ -1,0 +1,16 @@
+UID: 3841
+
+INDICATION:
+XXXX-year-old XXXX with positive PPD
+
+FINDINGS:
+No acute osseous abnormalities. Mild thoracic spine degenerative changes. Soft tissues are within normal limits. No focal area of consolidation, pleural effusion, or pneumothorax.
+
+IMPRESSION:
+1. No finding suggestive of active disease.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

@@ -1,0 +1,16 @@
+UID: 1842
+
+INDICATION:
+History of dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Lungs clear. Stable 5 mm calcified right midlung nodule
+
+PROBLEMS:
+Nodule;Calcinosis
+
+MESH:
+Nodule/lung/middle lobe/right;Calcinosis/lung/middle lobe/right

@@ -1,0 +1,16 @@
+UID: 3381
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Normal heart size and normal mediastinal contours. Normal pulmonary vasculature. No XXXX of pleural effusions. No infiltrates. Normal X-XXXX of chest.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,38 @@
+{
+  "patient_id": "sample_cardiology",
+  "num_entities": 25,
+  "num_visits": 1,
+  "num_edges": 150,
+  "entity_index": {
+    "chest pain": 0,
+    "shortness of breath": 1,
+    "hypertension": 2,
+    "diabetes mellitus": 3,
+    "coronary artery disease": 4,
+    "C0030346": 5,
+    "diaphoresis": 6,
+    "nausea vomiting diarrhea": 7,
+    "premature coronary artery disease": 8,
+    "myocardial infarction": 9,
+    "Hypertension": 10,
+    "Diabetes Mellitus": 11,
+    "Coronary Artery Disease": 12,
+    "Hyperlipidemia": 13,
+    "chronic kidney disease Stage": 14,
+    "C0025859": 15,
+    "C0065374": 16,
+    "C0025598": 17,
+    "C0004057": 18,
+    "C0286651": 19,
+    "clubbing": 20,
+    "cyanosis": 21,
+    "edema": 22,
+    "Acute coronary syndrome - Obtain": 23,
+    "chronic kidney disease": 24
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "sample_cardiology_graph.pt",
+  "source_dataset": "sample"
+}

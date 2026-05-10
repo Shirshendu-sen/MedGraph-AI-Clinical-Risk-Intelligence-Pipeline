@@ -1,0 +1,16 @@
+UID: 3783
+
+INDICATION:
+XXXX-year-old female with chest pain and shortness of breath since XXXX.
+
+FINDINGS:
+Cardiomediastinal silhouettes are within normal limits. Lungs are clear without focal consolidation, pneumothorax, or pleural effusion. Bony thorax is unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

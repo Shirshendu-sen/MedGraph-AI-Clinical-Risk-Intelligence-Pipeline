@@ -1,0 +1,16 @@
+UID: 2689
+
+INDICATION:
+History of breast cancer with mastectomy. COPD.
+
+FINDINGS:
+Calcified granulomas are present. There is an area of focal density overlying the right first rib and medial clavicle. This is approximately 1.2 cm in diameter. It may be secondary to overlapping structures. Lungs are otherwise clear. There is no pleural effusion or pneumothorax. The heart is normal. Calcifications of the aortic XXXX are seen. The skeletal structures are unremarkable. There has been a left mastectomy.
+
+IMPRESSION:
+1. Focal density overlying the right first rib and medial right clavicle. This could be bony in origin but an underlying pulmonary lesion cannot be excluded. No prior images are currently available for comparison. If outside images are available comparison is recommended. Otherwise XXXX scan of the chest.
+
+PROBLEMS:
+Calcified Granuloma;Density;Density;Calcinosis;Mastectomy
+
+MESH:
+Calcified Granuloma/multiple;Density/ribs/right/focal;Density/clavicle/right/focal;Calcinosis/aorta;Mastectomy/left

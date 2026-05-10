@@ -1,0 +1,16 @@
+UID: 2890
+
+INDICATION:
+Gunshot wound, XXXX one
+
+FINDINGS:
+The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. The lungs are normally inflated and clear. No definite pneumothorax. No displaced fracture. Small rounded radiopaque density within the posterior superficial subcutaneous fat XXXX represents projectile fragment..
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Density;Opacity;Foreign Bodies
+
+MESH:
+Density/adipose tissue/posterior/round/small;Opacity/adipose tissue/posterior/round/small;Foreign Bodies/adipose tissue/posterior/round/small

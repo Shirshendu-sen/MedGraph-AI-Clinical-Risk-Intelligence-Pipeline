@@ -1,0 +1,16 @@
+UID: 1673
+
+INDICATION:
+sob
+
+FINDINGS:
+Heart size is normal in cardiomediastinal silhouette is normal in contour. The lungs are clear bilaterally. No XXXX consolidations. No pleural effusion. No pneumothorax. XXXX and soft tissues are unremarkable. Lungs are hyperinflated.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention

@@ -1,0 +1,16 @@
+UID: 2102
+
+INDICATION:
+The patient is a XXXX-year-old female with XXXX, productive.
+
+FINDINGS:
+Tortuosity of the aorta. No pneumothorax, pleural effusion or airspace consolidation. Cardiomediastinal size is within normal limits. Pulmonary vasculature is normal . XXXX XXXX intact. Unchanged eventration of the left hemidiaphragm versus small hernia (Bochdalek).
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Aorta;Diaphragmatic Eventration;Hernia, Diaphragmatic
+
+MESH:
+Aorta/tortuous;Diaphragmatic Eventration/left;Hernia, Diaphragmatic/small

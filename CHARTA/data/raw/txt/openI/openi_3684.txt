@@ -1,0 +1,16 @@
+UID: 3829
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Stable moderate cardiomegaly. Mediastinal contours are unchanged. Stable prominence of the central pulmonary vasculature with coarse central interstitial markings. Decreased left basilar airspace disease. No visible pleural effusion or pneumothorax.
+
+IMPRESSION:
+1. Stable moderate cardiomegaly with prominent central pulmonary vasculature. 2. Improved left basilar atelectasis or infiltrate.
+
+PROBLEMS:
+Cardiomegaly;Blood Vessels;Markings;Airspace Disease;Pulmonary Atelectasis;Infiltrate;Pulmonary Congestion
+
+MESH:
+Cardiomegaly/moderate;Blood Vessels/lung/prominent;Markings/lung/interstitial;Airspace Disease/lung/base/left;Pulmonary Atelectasis/base/left;Infiltrate/lung/base/left;Pulmonary Congestion

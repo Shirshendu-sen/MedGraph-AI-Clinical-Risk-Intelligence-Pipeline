@@ -1,0 +1,16 @@
+UID: 1203
+
+INDICATION:
+XXXX X 2 WEEKS.
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. There is XXXX patchy opacity in the left upper lobe. Possibility of tuberculosis should be excluded. No pleural effusion is seen. There is no pneumothorax the lungs are hyperinflated.
+
+IMPRESSION:
+XXXX left upper lobe infiltrate.
+
+PROBLEMS:
+Opacity;Lung;Infiltrate
+
+MESH:
+Opacity/lung/upper lobe/left/patchy;Lung/hyperdistention;Infiltrate/lung/upper lobe/left

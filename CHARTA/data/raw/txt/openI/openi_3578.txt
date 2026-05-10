@@ -1,0 +1,16 @@
+UID: 3721
+
+INDICATION:
+Shortness of breath.
+
+FINDINGS:
+Streaky opacity is noted within the left lung base which may represent focal area of atelectasis. Right lung is grossly clear. Cardiac silhouette and mediastinal contours are within normal limits. There is no pneumothorax. No large pleural effusion.
+
+IMPRESSION:
+Left lower lobe atelectasis otherwise no acute cardiopulmonary disease.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/base/left/streaky;Pulmonary Atelectasis/lower lobe/left

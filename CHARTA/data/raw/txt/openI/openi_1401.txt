@@ -1,0 +1,16 @@
+UID: 1449
+
+INDICATION:
+Mid chest pain starting tonight.
+
+FINDINGS:
+The cardiac silhouette is enlarged with no comparison studies. Findings are XXXX accentuated by low lung volumes and eventration of the anterior right hemidiaphragm, however, cardiomegaly or less XXXX, pericardial effusion is suspected. The lungs are hypoinflated with central bronchovascular crowding but no evidence of overt pulmonary edema. The lungs are grossly clear of focal airspace disease, pneumothorax, pleural effusion. There are no acute bony findings. There are degenerative changes of the thoracic spine. Patient appears morbidly obese.
+
+IMPRESSION:
+1. Suspected cardiomegaly, less XXXX pericardial effusion. Prior comparison studies would be helpful. 2. Low lung volumes. No evidence of focal airspace disease. .
+
+PROBLEMS:
+Cardiac Shadow;Lung;Diaphragmatic Eventration;Markings;Thoracic Vertebrae
+
+MESH:
+Cardiac Shadow/enlarged;Lung/hypoinflation;Diaphragmatic Eventration/right/anterior;Markings/bronchovascular;Thoracic Vertebrae/degenerative

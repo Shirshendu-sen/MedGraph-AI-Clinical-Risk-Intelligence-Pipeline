@@ -1,0 +1,16 @@
+UID: 3592
+
+INDICATION:
+XXXX-year-old male, XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Mild hyperinflation, air trapping versus inspiratory XXXX. No focal alveolar consolidation, no definite pleural effusion seen. Right hemidiaphragm eventration. Heart size within normal limits, no typical findings of pulmonary edema.
+
+PROBLEMS:
+Lung;Diaphragmatic Eventration
+
+MESH:
+Lung/hyperdistention/mild;Diaphragmatic Eventration/right

@@ -1,0 +1,16 @@
+UID: 143
+
+INDICATION:
+Preop back surgery.
+
+FINDINGS:
+The lungs are clear. No pleural effusion is seen. The heart is normal. Calcified right hilar and infracarinal lymph XXXX are seen. The skeletal structures are normal.
+
+IMPRESSION:
+Old granulomatous disease. No acute pulmonary disease.
+
+PROBLEMS:
+Granulomatous Disease;Calcinosis;Calcinosis
+
+MESH:
+Granulomatous Disease;Calcinosis/lung/hilum/lymph nodes;Calcinosis/trachea, carina/lymph nodes

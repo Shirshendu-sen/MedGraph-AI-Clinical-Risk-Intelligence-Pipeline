@@ -1,0 +1,16 @@
+UID: 2528
+
+INDICATION:
+XXXX pulmonary nodule.
+
+FINDINGS:
+The cardiac contours are normal. The lungs are clear. Thoracic spondylosis.
+
+IMPRESSION:
+Lungs appear relatively clear on today's exam. No significant interval change since the prior study and XXXX.
+
+PROBLEMS:
+Spondylosis
+
+MESH:
+Spondylosis/thoracic vertebrae

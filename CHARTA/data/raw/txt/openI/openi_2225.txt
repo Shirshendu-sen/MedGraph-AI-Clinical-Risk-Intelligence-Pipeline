@@ -1,0 +1,16 @@
+UID: 2306
+
+INDICATION:
+The patient is a XXXX-year-old female, preop evaluation. Smoking history positive.
+
+FINDINGS:
+No pneumothorax, pleural effusion or airspace consolidation. Cardiomediastinal size is within normal limits. Pulmonary vasculature is normal . XXXX XXXX intact. Mild degenerative change of the lower thoracic spine, anterior osteophytes.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Thoracic Vertebrae;Osteophyte
+
+MESH:
+Thoracic Vertebrae/degenerative/mild;Osteophyte/thoracic vertebrae/anterior/multiple

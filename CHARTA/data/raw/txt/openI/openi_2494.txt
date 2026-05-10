@@ -1,0 +1,16 @@
+UID: 2585
+
+INDICATION:
+XXXX and shortest breath for 2 weeks
+
+FINDINGS:
+Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. There is mild blunting of the right costophrenic XXXX on the frontal view. There is also mild obscuration of the right cardiac XXXX. Airspace disease in expected location of right middle lobe also noted on the lateral view to No pleural effusion. Left lung clear. Degenerative changes spine. No pneumothorax.
+
+IMPRESSION:
+Right middle lobe airspace disease, which could represent pneumonia in the appropriate clinical setting.
+
+PROBLEMS:
+Costophrenic Angle;Heart;Airspace Disease;Spine
+
+MESH:
+Costophrenic Angle/right/blunted/mild;Heart/right/obscured/mild;Airspace Disease/lung/middle lobe/right;Spine/degenerative

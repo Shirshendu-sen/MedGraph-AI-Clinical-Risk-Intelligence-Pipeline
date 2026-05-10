@@ -1,0 +1,16 @@
+UID: 413
+
+INDICATION:
+tuberculosis +PPD
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and lungs are clear. No evidence of tuberculosis
+
+PROBLEMS:
+normal
+
+MESH:
+normal

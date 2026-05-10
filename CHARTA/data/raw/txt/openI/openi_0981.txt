@@ -1,0 +1,16 @@
+UID: 1014
+
+INDICATION:
+bone marrow transplant. No complaints currently
+
+FINDINGS:
+None
+
+IMPRESSION:
+Slightly enlarged heart. No effusions. No edema. No nodules or masses. Aortic XXXX calcification. Aortic XXXX is normal size. Lungs are clear.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis
+
+MESH:
+Cardiomegaly/mild;Calcinosis/aorta

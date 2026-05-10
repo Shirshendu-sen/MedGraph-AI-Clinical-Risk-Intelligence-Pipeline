@@ -1,0 +1,16 @@
+UID: 2275
+
+INDICATION:
+XXXX, dyspnea, history of asthma
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for size and contour. There is a right middle lobe nodule which is denser than adjacent XXXX is most XXXX calcified. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. Degenerative endplate changes of the spine.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Nodule;Calcinosis;Spine
+
+MESH:
+Nodule/lung/middle lobe/right;Calcinosis/lung/middle lobe/right;Spine/degenerative

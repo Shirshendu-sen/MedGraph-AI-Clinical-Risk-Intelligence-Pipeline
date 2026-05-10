@@ -1,0 +1,16 @@
+UID: 3709
+
+INDICATION:
+History of aortic dissection.
+
+FINDINGS:
+The mediastinal silhouette is widened with overlying sternotomy XXXX. The heart size is normal. The lungs are clear without evidence of effusion, infiltrate or pneumothorax. Visualized bony structures are intact with no acute abnormalities.
+
+IMPRESSION:
+1. Wide mediastinal XXXX, consistent with history of aortic dissection. 2. Otherwise normal chest x-XXXX.
+
+PROBLEMS:
+Mediastinum;Aortic Aneurysm
+
+MESH:
+Mediastinum/prominent;Aortic Aneurysm

@@ -1,0 +1,16 @@
+UID: 3768
+
+INDICATION:
+XXXX-year-old female shortness of breath and bilateral lower extremity edema.
+
+FINDINGS:
+Mild cardiomegaly. Changes of chronic lung disease. No pneumothorax or pleural effusion. Accentuated thoracic kyphosis.
+
+IMPRESSION:
+Chronic lung disease with no acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Cardiomegaly;Kyphosis
+
+MESH:
+Cardiomegaly/mild;Kyphosis/thoracic vertebrae/severe

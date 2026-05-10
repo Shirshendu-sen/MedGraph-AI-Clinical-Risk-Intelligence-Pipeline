@@ -1,0 +1,16 @@
+UID: 3118
+
+INDICATION:
+XXXX-year-old female with arthritis and dyspnea
+
+FINDINGS:
+No pneumothorax, pleural effusion, or focal airspace disease. Heart size normal. Cardiomediastinal silhouette stable. Nodular densities consistent with chronic granulomatous disease. Bony structures appear intact.
+
+IMPRESSION:
+Negative for acute cardiopulmonary disease.
+
+PROBLEMS:
+Density;Granulomatous Disease
+
+MESH:
+Density/thorax/round/multiple;Granulomatous Disease/chronic

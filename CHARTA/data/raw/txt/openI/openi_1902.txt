@@ -1,0 +1,16 @@
+UID: 1967
+
+INDICATION:
+Left anterior and posterior chest pain. Dyspnea.
+
+FINDINGS:
+Heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. There has been interval development of some XXXX bandlike opacities in left base. These appear to be located in the lingula. The remainder of the lungs appear clear. No pneumothorax or pleural effusion is seen.
+
+IMPRESSION:
+1. XXXX opacities in the lingula. The appearance XXXX scarring or atelectasis. XXXX since the earlier study.
+
+PROBLEMS:
+Opacity;Cicatrix;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/lingula;Cicatrix/lung/lingula;Pulmonary Atelectasis/lingula

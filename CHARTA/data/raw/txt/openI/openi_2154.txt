@@ -1,0 +1,16 @@
+UID: 2234
+
+INDICATION:
+pneumonia followup
+
+FINDINGS:
+None
+
+IMPRESSION:
+heart size normal. Emphysema. Biapical scarring and fibrosis unchanged
+
+PROBLEMS:
+Emphysema;Cicatrix;Pulmonary Fibrosis
+
+MESH:
+Emphysema;Cicatrix/lung/apex/bilateral;Pulmonary Fibrosis/apex/bilateral

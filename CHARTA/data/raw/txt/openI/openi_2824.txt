@@ -1,0 +1,16 @@
+UID: 2943
+
+INDICATION:
+XXXX-year-old male, syncopal episode. Additional information obtained from electronic medical record. History of lung cancer.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Mild left costophrenic XXXX blunting XXXX XXXX basilar pleural effusion, increased left suprahilar opacity, differential diagnosis includes increased volume loss, apical pleural fluid, tumor progression. Left hemithorax volume loss with leftward shift of the heart and mediastinum. XXXX right costophrenic XXXX, right lung free of focal consolidation.
+
+PROBLEMS:
+Costophrenic Angle;Pleural Effusion;Opacity;Volume Loss;Shift;Shift
+
+MESH:
+Costophrenic Angle/left/blunted/mild;Pleural Effusion/base/left;Opacity/lung/hilum/left;Volume Loss/thorax/left;Shift/mediastinum/left;Shift/heart/left

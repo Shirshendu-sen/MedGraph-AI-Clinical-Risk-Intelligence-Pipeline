@@ -1,0 +1,16 @@
+UID: 3509
+
+INDICATION:
+Esophageal carcinoma.
+
+FINDINGS:
+The heart size and pulmonary vascularity appear within normal limits. Right pleural effusion is present and appears increased. No pneumothorax is identified. Some scattered XXXX of right base atelectasis are seen. Surgical XXXX remain in XXXX. The left lung appears clear.
+
+IMPRESSION:
+1. Small right pleural effusion. Increased. 2. No pneumothorax is seen. 3. Scattered XXXX of right base atelectasis.
+
+PROBLEMS:
+Pleural Effusion;Pulmonary Atelectasis;Surgical Instruments
+
+MESH:
+Pleural Effusion/right/small;Pulmonary Atelectasis/base/right/scattered;Surgical Instruments

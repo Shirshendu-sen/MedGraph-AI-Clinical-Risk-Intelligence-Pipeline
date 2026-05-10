@@ -1,0 +1,16 @@
+UID: 3140
+
+INDICATION:
+XXXX-year-old female, chest pain, XXXX symptoms
+
+FINDINGS:
+None
+
+IMPRESSION:
+Streaky opacities in the right lower lobe most suggestive of atelectasis, differential diagnosis includes atypical infection. No definite pleural effusion seen. Heart size within normal limits, no typical findings of pulmonary edema.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/lower lobe/right/streaky;Pulmonary Atelectasis/lower lobe/right

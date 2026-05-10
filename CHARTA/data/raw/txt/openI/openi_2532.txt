@@ -1,0 +1,16 @@
+UID: 2626
+
+INDICATION:
+weakness XXXX loss
+
+FINDINGS:
+None
+
+IMPRESSION:
+Comparison XXXX, XXXX. Anticipated senescent changes. No acute airspace disease or CHF. Stable mediastinal contour. No XXXX acute abnormalities since the previous examination..
+
+PROBLEMS:
+normal
+
+MESH:
+normal

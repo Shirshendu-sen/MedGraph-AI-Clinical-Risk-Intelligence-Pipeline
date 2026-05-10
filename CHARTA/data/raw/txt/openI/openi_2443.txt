@@ -1,0 +1,16 @@
+UID: 2532
+
+INDICATION:
+XXXX-year-old female, chest pain
+
+FINDINGS:
+Stable enlargement of the cardiac silhouette, lateral view interlobar fissural thickening. Interstitial opacities greatest in the central lungs and bases.
+
+IMPRESSION:
+1. Cardiomegaly, question small bilateral pleural effusions 2. Abnormal pulmonary opacities most suggestive of pulmonary edema, differential diagnosis includes infectious and inflammatory processes.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Opacity;Pulmonary Edema;Cardiac Shadow;Thickening
+
+MESH:
+Cardiomegaly;Opacity/lung/base/bilateral/interstitial;Opacity/lung/middle lobe/bilateral/interstitial;Pulmonary Edema;Cardiac Shadow/enlarged;Thickening/pleura

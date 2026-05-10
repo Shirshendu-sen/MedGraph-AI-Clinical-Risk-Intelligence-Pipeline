@@ -1,0 +1,16 @@
+UID: 3336
+
+INDICATION:
+XXXX-year-old with chest pain.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There are several age-indeterminate left-sided rib fractures noted. There is a calcified right hilar lymph node. There basilar calcified granulomas. There minimal degenerative changes of the spine.
+
+IMPRESSION:
+Multiple age-indeterminate left-sided rib fractures.
+
+PROBLEMS:
+Fractures, Bone;Calcinosis;Calcified Granuloma;Spine
+
+MESH:
+Fractures, Bone/ribs/left/multiple;Calcinosis/lung/hilum/lymph nodes/right;Calcified Granuloma/lung/base/multiple;Spine/degenerative/mild

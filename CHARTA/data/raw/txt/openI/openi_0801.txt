@@ -1,0 +1,16 @@
+UID: 827
+
+INDICATION:
+Chest pain, XXXX with dyspnea
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. XXXX scarring and emphysematous changes noted. The lungs are grossly clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Cicatrix;Emphysema
+
+MESH:
+Cicatrix;Emphysema

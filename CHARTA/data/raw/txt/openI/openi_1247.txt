@@ -1,0 +1,16 @@
+UID: 1292
+
+INDICATION:
+Pain.
+
+FINDINGS:
+Borderline enlarged heart. Torturous/ectatic thoracic aorta. No focal pulmonary opacity, pleural effusion or pneumothorax. There are degenerative changes of the spine. There is fracture of distal right clavicle, better seen on the right shoulder radiographs dated XXXX. Small round lucency in the distal left clavicle, appears benign. Degenerative changes of both XXXX joints.
+
+IMPRESSION:
+1. Borderline enlarged heart. 2. Tortuous/ectatic thoracic aorta. 3. Fracture of the distal right clavicle, better seen on today's radiograph of the shoulder.
+
+PROBLEMS:
+Cardiomegaly;Aorta, Thoracic;Spine;Fractures, Bone;Lucency;Bone and Bones
+
+MESH:
+Cardiomegaly/borderline;Aorta, Thoracic/tortuous;Spine/degenerative;Fractures, Bone/clavicle/right;Lucency/clavicle/left/round/small;Bone and Bones/degenerative

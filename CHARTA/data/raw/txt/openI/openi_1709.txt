@@ -1,0 +1,16 @@
+UID: 1767
+
+INDICATION:
+XXXX loss, chest pain
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits. Calcified right lower lobe granuloma. No focal airspace consolidation.. No visualized pneumothorax or large pleural effusion. No acute bony abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/lower lobe/right

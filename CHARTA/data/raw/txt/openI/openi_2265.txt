@@ -1,0 +1,16 @@
+UID: 2348
+
+INDICATION:
+Short of breath.
+
+FINDINGS:
+There is a moderate sized right pleural effusion. Severe slightly smaller than is compared to XXXX. There is a small left pleural effusion. This is unchanged as compared to the prior study. There is a right chest wall venous XXXX XXXX which appears accessed. No pneumothorax. Scaphoid abdomen.
+
+IMPRESSION:
+1. Moderate sized right pleural effusion appears smaller than the prior study. 2. Small left pleural effusion appears unchanged.
+
+PROBLEMS:
+Pleural Effusion;Pleural Effusion;Deformity
+
+MESH:
+Pleural Effusion/right/moderate;Pleural Effusion/left/small;Deformity/abdomen

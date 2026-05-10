@@ -1,0 +1,16 @@
+UID: 2094
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+The lungs are clear without evidence of focal airspace disease. There is no evidence of pneumothorax or large pleural effusion. The cardiac and mediastinal contours are within normal limits. Prominent pericardial fat XXXX is again noted. There is a stable granuloma overlying a lower thoracic vertebral body. The XXXX are unremarkable.
+
+IMPRESSION:
+No radiographic evidence of acute cardiopulmonary disease.
+
+PROBLEMS:
+Epicardial Fat;Granuloma
+
+MESH:
+Epicardial Fat/prominent;Granuloma/thoracic vertebrae

@@ -1,0 +1,16 @@
+UID: 1835
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+Low lung volumes. The heart size and mediastinal silhouette are within normal limits for contour. The lungs are clear. No pneumothorax or pleural effusions. The XXXX are intact.
+
+IMPRESSION:
+Low lung volumes. No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

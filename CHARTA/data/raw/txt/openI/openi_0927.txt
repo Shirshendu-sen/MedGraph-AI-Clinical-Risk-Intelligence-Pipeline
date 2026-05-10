@@ -1,0 +1,16 @@
+UID: 960
+
+INDICATION:
+XXXX-year-old female, MVA, chest pain
+
+FINDINGS:
+No focal consolidation, pneumothorax or definite pleural effusion. Heart size within normal limits for technique, no mediastinal widening seen. No acute osseous injury XXXX demonstrated. Dextroscoliosis noted.
+
+IMPRESSION:
+No acute findings. Please note that fractures may not be demonstrated and consider additional imaging as clinically warranted.
+
+PROBLEMS:
+Scoliosis
+
+MESH:
+Scoliosis/right/mild

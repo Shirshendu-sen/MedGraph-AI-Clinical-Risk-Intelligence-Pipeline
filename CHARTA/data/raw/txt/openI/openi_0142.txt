@@ -1,0 +1,16 @@
+UID: 145
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+Right costophrenic XXXX is blunted. In the left lower lobe a patchy infiltrate is present. The pulmonary XXXX are normal.
+
+IMPRESSION:
+Large right pleural effusion and patchy left lower lobe airspace disease.
+
+PROBLEMS:
+Costophrenic Angle;Pleural Effusion;Infiltrate
+
+MESH:
+Costophrenic Angle/right/blunted;Pleural Effusion/right/large;Infiltrate/lung/lower lobe/left/patchy

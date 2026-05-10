@@ -1,0 +1,16 @@
+UID: 2267
+
+INDICATION:
+XXXX
+
+FINDINGS:
+The lateral view is degraded by patient motion. Lungs are grossly clear. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the spine.
+
+IMPRESSION:
+Mildly limited study with lungs grossly clear.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Spine
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Spine/degenerative

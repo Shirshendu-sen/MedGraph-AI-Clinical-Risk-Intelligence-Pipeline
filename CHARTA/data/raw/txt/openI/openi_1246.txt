@@ -1,0 +1,16 @@
+UID: 1291
+
+INDICATION:
+Preop organ prolapse surgery
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. The lungs are clear. Mild prominence left hilar contour. Bony structures are intact.
+
+IMPRESSION:
+No acute preoperative findings.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hilum/left/prominent/mild

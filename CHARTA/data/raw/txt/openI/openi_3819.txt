@@ -1,0 +1,16 @@
+UID: 3967
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for size and contour. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. Mild degenerative endplate changes of the spine.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative/mild

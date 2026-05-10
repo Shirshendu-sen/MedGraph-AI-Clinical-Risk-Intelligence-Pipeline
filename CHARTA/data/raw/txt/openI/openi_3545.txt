@@ -1,0 +1,16 @@
+UID: 3686
+
+INDICATION:
+Hypoxia, aortic stenosis
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable cardiomegaly. Improved aeration in the left lung base. Right basilar airspace disease is unchanged. No pneumothorax or pleural effusion. Right internal jugular central line has been removed. Left subclavian line is stable.
+
+PROBLEMS:
+Cardiomegaly;Airspace Disease;Catheters, Indwelling
+
+MESH:
+Cardiomegaly;Airspace Disease/lung/base/right;Catheters, Indwelling/left

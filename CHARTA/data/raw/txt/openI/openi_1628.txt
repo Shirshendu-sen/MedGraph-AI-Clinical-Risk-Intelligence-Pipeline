@@ -1,0 +1,16 @@
+UID: 1683
+
+INDICATION:
+XXXX, difficulty breathing. History of sarcoidosis.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. There are diminished lung volumes. Right greater than left bilateral hilar and subcarinal adenopathy is again seen. The cardiac silhouette is prominent but probably artifactually large due to diminished lung volumes. No focal consolidation, pleural effusion, or pneumothorax identified. There is a deformity of the left clavicle compatible with remote XXXX.
+
+IMPRESSION:
+No evidence of acute cardiopulmonary process. Mediastinal and hilar adenopathy compatible with patient's known sarcoidosis.
+
+PROBLEMS:
+Lung;Lung;Mediastinum;Trachea, Carina;Cardiac Shadow;Deformity;Sarcoidosis
+
+MESH:
+Lung/hypoinflation;Lung/hilum/lymph nodes/bilateral/enlarged;Mediastinum/lymph nodes/enlarged;Trachea, Carina/lymph nodes/enlarged;Cardiac Shadow/enlarged/prominent;Deformity/clavicle/left;Sarcoidosis

@@ -1,0 +1,16 @@
+UID: 401
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Mediastinal contours are normal. Blunting of the left costophrenic XXXX. Increased interstitial opacities.. There is no pneumothorax or large pleural effusion.
+
+IMPRESSION:
+Diffuse interstitial lung disease with pleural effusion.
+
+PROBLEMS:
+Costophrenic Angle;Opacity;Lung Diseases, Interstitial;Pleural Effusion
+
+MESH:
+Costophrenic Angle/left/blunted;Opacity/lung/interstitial;Lung Diseases, Interstitial/diffuse;Pleural Effusion

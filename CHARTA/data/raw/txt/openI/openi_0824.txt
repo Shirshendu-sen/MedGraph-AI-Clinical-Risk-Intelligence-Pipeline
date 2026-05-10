@@ -1,0 +1,16 @@
+UID: 851
+
+INDICATION:
+Rule out tuberculosis for preadmission XXXX for hospice.
+
+FINDINGS:
+The cardiac contours are normal. The lungs are underinflated, but XXXX given the underinflation, the XXXX appear enlarged, more XXXX than on the exam and XXXX. Osteophytic degeneration kyphotic thoracic spine. Mid and lower thoracic vertebroplasty has been performed. A right-sided chest XXXX is present with its tip in the upper SVC.
+
+IMPRESSION:
+1. No active infiltrate. 2. Marked enlargement of the XXXX bilaterally, increased since the prior XXXX, XXXX adenopathy. 3. Underinflated lungs with basilar atelectasis.
+
+PROBLEMS:
+Lung;Osteophyte;Kyphosis;Thoracic Vertebrae;Catheters, Indwelling;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation;Osteophyte/thoracic vertebrae;Kyphosis/thoracic vertebrae;Thoracic Vertebrae/degenerative;Catheters, Indwelling/right;Pulmonary Atelectasis/base

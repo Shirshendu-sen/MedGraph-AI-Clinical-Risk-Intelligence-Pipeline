@@ -1,0 +1,16 @@
+UID: 1313
+
+INDICATION:
+XXXX-year-old male with XXXX, shortness of breath
+
+FINDINGS:
+The heart size is within normal limits. There are calcified hilar lymph XXXX bilaterally. There are bibasilar airspace opacities with small bilateral pleural effusions, left greater than right. No pneumothorax. No acute bony abnormalities.
+
+IMPRESSION:
+Small bilateral pleural effusions with bibasilar atelectasis and/or airspace disease, left greater than right.
+
+PROBLEMS:
+Calcinosis;Opacity;Pleural Effusion;Pulmonary Atelectasis;Airspace Disease
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/bilateral;Opacity/lung/base/bilateral;Pleural Effusion/bilateral/small;Pulmonary Atelectasis/base/bilateral;Airspace Disease/lung/base/bilateral

@@ -1,0 +1,16 @@
+UID: 1134
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+There is a left chest XXXX with tip in the mid SVC. The heart size and mediastinal silhouette are within normal limits for contour. The lungs are clear. No pneumothorax or pleural effusions. The XXXX are intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Catheters, Indwelling
+
+MESH:
+Catheters, Indwelling/left

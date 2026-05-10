@@ -1,0 +1,16 @@
+UID: 3882
+
+INDICATION:
+XXXX-year-old male, chest pain.
+
+FINDINGS:
+Eventration of the left diaphragm is noted. Question left basilar atelectasis versus infiltrate. No evidence of pneumothorax. Generalized lung volumes. No definite pleural effusions. Heart size within normal limits. Osseous structures intact.
+
+IMPRESSION:
+Generalized low lung lungs with eventration of the left hemidiaphragm. Question concomitant left basilar opacity, may represent atelectasis or infiltrate.
+
+PROBLEMS:
+Diaphragmatic Eventration;Lung
+
+MESH:
+Diaphragmatic Eventration/left;Lung/hypoinflation

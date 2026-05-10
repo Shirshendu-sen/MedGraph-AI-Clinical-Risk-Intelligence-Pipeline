@@ -1,0 +1,16 @@
+UID: 3943
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The bony thorax is intact and the heart size is normal. The lung XXXX are free of infiltrate and there is no pleural effusion. We again note the left hilar calcifications that are unchanged from the prior studies.
+
+IMPRESSION:
+Negative chest.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/lung/hilum/left

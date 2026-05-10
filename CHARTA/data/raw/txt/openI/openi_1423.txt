@@ -1,0 +1,16 @@
+UID: 1471
+
+INDICATION:
+XXXX-year-old male with a history of smoking and dyspnea.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for appearance. The lungs are hyperexpanded with flattening of the bilateral hemidiaphragms. Mild increased lung markings XXXX due to chronic changes. No focal pulmonary consolidation. No pneumothorax. No pleural effusion. Moderate degenerative changes of the thoracic spine. Calcified left perihilar granuloma redemonstrated.
+
+IMPRESSION:
+1. Findings consistent with emphysema with interstitial thickening. This could be due to edema superimposed on emphysema or pneumonitis or fibrosis. XXXX chest if warranted clinically given recent onset of dyspnea. .
+
+PROBLEMS:
+Lung;Diaphragm;Markings;Thoracic Vertebrae;Calcified Granuloma;Emphysema;Thickening
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened;Markings/lung/mild;Thoracic Vertebrae/degenerative/moderate;Calcified Granuloma/lung/hilum/left;Emphysema;Thickening/lung/interstitial

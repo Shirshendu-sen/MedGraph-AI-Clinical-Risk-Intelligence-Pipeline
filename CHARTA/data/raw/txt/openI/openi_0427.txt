@@ -1,0 +1,16 @@
+UID: 441
+
+INDICATION:
+Evaluate for pneumonia.
+
+FINDINGS:
+Mediastinal contours are normal. Heart size is within normal limits. Multiple scattered calcified pulmonary nodules, XXXX sequela of prior granulomatous disease. Otherwise lungs are clear.. There is no pneumothorax or large pleural effusion. No bony abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Granulomatous Disease;Nodule;Calcinosis
+
+MESH:
+Calcified Granuloma/lung/scattered/multiple;Granulomatous Disease;Nodule/lung/scattered/multiple;Calcinosis/lung/scattered/multiple

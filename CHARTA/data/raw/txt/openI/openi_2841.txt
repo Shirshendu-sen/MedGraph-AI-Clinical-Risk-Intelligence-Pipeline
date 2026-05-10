@@ -1,0 +1,16 @@
+UID: 2960
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+Normal cardiac contours. Clear lung XXXX bilaterally. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

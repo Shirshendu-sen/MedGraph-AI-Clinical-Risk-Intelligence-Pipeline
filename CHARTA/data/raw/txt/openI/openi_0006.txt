@@ -1,0 +1,16 @@
+UID: 7
+
+INDICATION:
+Preop lumbar surgery
+
+FINDINGS:
+The cardiac contours are normal. XXXX basilar atelectasis. The lungs are clear. Thoracic spondylosis. Lower cervical XXXX arthritis.
+
+IMPRESSION:
+Basilar atelectasis. No confluent lobar consolidation or pleural effusion.
+
+PROBLEMS:
+Pulmonary Atelectasis;Spondylosis;Arthritis
+
+MESH:
+Pulmonary Atelectasis/base;Spondylosis/thoracic vertebrae;Arthritis/cervical vertebrae

@@ -1,0 +1,16 @@
+UID: 1178
+
+INDICATION:
+XXXX-year-old XXXX with XXXX loss and ESR of 92.
+
+FINDINGS:
+Trachea is midline. Normal heart. Clear lungs. No pneumothorax. No pleural effusion.
+
+IMPRESSION:
+Normal chest exam.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

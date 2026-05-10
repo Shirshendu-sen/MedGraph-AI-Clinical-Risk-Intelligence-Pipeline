@@ -1,0 +1,16 @@
+UID: 1816
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+The heart and mediastinum are unremarkable. Again identified are numerous calcified mediastinal lymph XXXX as well as large calcifications within the left upper and left lower lobes. These appear similar to the patient's previous chest CT and are XXXX the sequela of prior granulomatous disease. The lungs are otherwise clear without infiltrate. There is no effusion or pneumothorax.
+
+IMPRESSION:
+1. Evidence of prior granulomatous disease, stable. No acute abnormality.
+
+PROBLEMS:
+Calcinosis;Calcinosis;Calcinosis;Granulomatous Disease
+
+MESH:
+Calcinosis/mediastinum/lymph nodes;Calcinosis/lung/upper lobe/left/large;Calcinosis/lung/lower lobe/left/large;Granulomatous Disease

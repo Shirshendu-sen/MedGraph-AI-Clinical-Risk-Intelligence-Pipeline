@@ -1,0 +1,16 @@
+UID: 137
+
+INDICATION:
+Bronchitis.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Some XXXX opacities left mid lung compatible with focal subsegmental atelectasis/scarring. No acute airspace disease or effusions. Heart appears prominent. Some tortuosity thoracic aorta. Midline retrocardiac opacity suggestive of a small hiatal hernia.
+
+PROBLEMS:
+Opacity;Aorta, Thoracic;Opacity;Pulmonary Atelectasis;Cicatrix
+
+MESH:
+Opacity/lung/left;Aorta, Thoracic/tortuous;Opacity/retrocardiac;Pulmonary Atelectasis/focal;Cicatrix/lung/left

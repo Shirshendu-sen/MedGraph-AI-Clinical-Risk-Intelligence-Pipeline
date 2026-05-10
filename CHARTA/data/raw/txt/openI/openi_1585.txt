@@ -1,0 +1,16 @@
+UID: 1640
+
+INDICATION:
+Testicular cancer, Shielded.
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. Small nodule in the right upper lung is stable. The lungs are otherwise clear.
+
+IMPRESSION:
+Small right upper lobe nodule, stable. Otherwise, no acute disease.
+
+PROBLEMS:
+Nodule
+
+MESH:
+Nodule/lung/upper lobe/right/small

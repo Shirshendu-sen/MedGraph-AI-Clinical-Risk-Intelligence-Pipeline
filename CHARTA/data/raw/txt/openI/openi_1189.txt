@@ -1,0 +1,16 @@
+UID: 1232
+
+INDICATION:
+XXXX-year-old male with presyncope.
+
+FINDINGS:
+Stable left chest cardiac XXXX generator with 2 distal leads in right atrium and right ventricle. Heart size normal. No pneumothorax, pleural effusion, or focal airspace disease. Emphysema. Stable calcified granulomas. Bony structures appear intact.
+
+IMPRESSION:
+Emphysema without acute cardiopulmonary findings.
+
+PROBLEMS:
+Implanted Medical Device;Emphysema;Calcified Granuloma
+
+MESH:
+Implanted Medical Device/left;Emphysema;Calcified Granuloma/multiple

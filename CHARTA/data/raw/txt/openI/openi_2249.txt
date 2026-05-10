@@ -1,0 +1,16 @@
+UID: 2331
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+The heart is near top normal in size with tortuosity of the aorta. The pulmonary vascular markings are symmetric and normal. There are low lung volumes with XXXX opacities consistent with focal atelectasis. There is no pleural effusion or pneumothorax. There are degenerative changes in thoracic spine and thoracic kyphosis.
+
+IMPRESSION:
+Low lung volumes with XXXX opacities consistent with focal atelectasis.
+
+PROBLEMS:
+Aorta;Lung;Opacity;Pulmonary Atelectasis;Thoracic Vertebrae;Kyphosis
+
+MESH:
+Aorta/tortuous;Lung/hypoinflation;Opacity/lung;Pulmonary Atelectasis/focal;Thoracic Vertebrae/degenerative;Kyphosis/thoracic vertebrae

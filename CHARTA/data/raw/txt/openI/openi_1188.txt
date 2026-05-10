@@ -1,0 +1,16 @@
+UID: 1231
+
+INDICATION:
+ALLOGENEIC BMT W/U LAB DX.LYMPHOMA;
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. Left subclavian central catheter tip in distal SVC. No pneumothorax. The lungs are clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Catheters, Indwelling
+
+MESH:
+Catheters, Indwelling/left

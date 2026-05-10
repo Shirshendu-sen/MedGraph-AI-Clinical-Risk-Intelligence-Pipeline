@@ -1,0 +1,16 @@
+UID: 2285
+
+INDICATION:
+Dyspnea.
+
+FINDINGS:
+XXXX sternotomy XXXX and mediastinal postsurgical changes. Stable cardiomegaly. Crowded bronchovascular and interstitial markings XXXX related to low lung volumes and technique. Grossly stable appearance of the lungs compared to prior exam without overt edema or gross airspace consolidation.
+
+IMPRESSION:
+XXXX sternotomy XXXX and mediastinal postsurgical changes. Stable cardiomegaly. Crowded bronchovascular and interstitial markings XXXX related to low lung volumes and technique. Grossly stable appearance of the lungs compared to prior exam without overt edema or gross airspace consolidation.
+
+PROBLEMS:
+Cardiomegaly;Markings;Markings;Lung;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Cardiomegaly;Markings/bronchovascular;Markings/lung/interstitial;Lung/hypoinflation;Technical Quality of Image Unsatisfactory

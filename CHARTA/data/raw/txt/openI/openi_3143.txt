@@ -1,0 +1,16 @@
+UID: 3270
+
+INDICATION:
+None
+
+FINDINGS:
+The lungs are clear. Heart size is normal. No pneumothorax. There are endplate changes within the spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative

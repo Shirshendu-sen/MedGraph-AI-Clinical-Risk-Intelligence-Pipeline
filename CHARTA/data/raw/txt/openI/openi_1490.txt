@@ -1,0 +1,16 @@
+UID: 1542
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+The heart is top normal in size. The mediastinum is stable. The aorta is atherosclerotic. XXXX opacities are noted in the lung bases compatible with scarring or atelectasis. There is no acute infiltrate or pleural effusion.
+
+IMPRESSION:
+Chronic changes without acute disease.
+
+PROBLEMS:
+Atherosclerosis;Opacity;Cicatrix;Pulmonary Atelectasis
+
+MESH:
+Atherosclerosis/aorta;Opacity/lung/base/bilateral;Cicatrix/lung/base/bilateral;Pulmonary Atelectasis/base/bilateral

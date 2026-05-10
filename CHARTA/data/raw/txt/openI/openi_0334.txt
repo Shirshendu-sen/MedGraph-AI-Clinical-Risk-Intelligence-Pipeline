@@ -1,0 +1,16 @@
+UID: 346
+
+INDICATION:
+The patient states that she tried XXXX XXXX and XXXX a XXXX reaction. The patient's lower abdomen was shielded for this exam.
+
+FINDINGS:
+Frontal (on two cassettes) and lateral views of the chest with overlying external cardiac monitor leads show an unchanged cardiomediastinal silhouette. No XXXX focal airspace consolidation or pleural effusion.
+
+IMPRESSION:
+No acute or active cardiac, pulmonary or pleural disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

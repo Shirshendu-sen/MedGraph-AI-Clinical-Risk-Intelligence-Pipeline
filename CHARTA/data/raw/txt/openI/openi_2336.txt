@@ -1,0 +1,16 @@
+UID: 2420
+
+INDICATION:
+EVALUATE FOR METASTATIC DISEASE;
+
+FINDINGS:
+The heart is normal in size. The mediastinum is within normal limits. Aorta is tortuous. Right chest XXXX tip is visualized at the proximal right atrium. The lungs are grossly clear. No pneumothorax is seen. There are deformities of the left lateral 7th and 8th ribs possibly healing or old fractures.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Aorta;Catheters, Indwelling;Deformity
+
+MESH:
+Aorta/tortuous;Catheters, Indwelling/right;Deformity/ribs/left/multiple

@@ -1,0 +1,16 @@
+UID: 3599
+
+INDICATION:
+XXXX-year-old male with dyspnea.
+
+FINDINGS:
+There are intact midline sternotomy XXXX and postsurgical changes of prior CABG. The aorta is unfolded. The heart size and cardiomediastinal silhouette are normal. There is no focal airspace opacity, pleural effusion, or pneumothorax. There are mild degenerative changes in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+Aorta;Thoracic Vertebrae
+
+MESH:
+Aorta/tortuous;Thoracic Vertebrae/degenerative/mild

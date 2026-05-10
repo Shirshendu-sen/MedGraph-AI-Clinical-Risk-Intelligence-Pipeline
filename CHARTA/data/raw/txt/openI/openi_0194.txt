@@ -1,0 +1,16 @@
+UID: 201
+
+INDICATION:
+Medical XXXX, aspiration.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. There is minimal XXXX airspace opacity in the right middle lobe, XXXX atelectasis. The lungs are otherwise clear of focal airspace disease. There is no pneumothorax or pleural effusion. There is mild tortuosity of the thoracic aorta with atherosclerotic calcification of the aortic XXXX. There are moderate degenerative endplate changes in the thoracic spine. There are no acute bony findings.
+
+IMPRESSION:
+No acute cardiopulmonary findings. .
+
+PROBLEMS:
+Opacity;Aorta, Thoracic;Atherosclerosis;Thoracic Vertebrae;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/middle lobe/right/mild;Aorta, Thoracic/tortuous/mild;Atherosclerosis/aorta;Thoracic Vertebrae/degenerative;Pulmonary Atelectasis

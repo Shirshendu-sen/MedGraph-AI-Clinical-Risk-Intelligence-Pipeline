@@ -1,0 +1,16 @@
+UID: 612
+
+INDICATION:
+XXXX-year-old woman with chest pain..
+
+FINDINGS:
+Interval performance of anterior cervical spinal fusion, XXXX intact without complicating features. There is stable cardiomegaly, with persistent bibasilar opacities XXXX atelectasis and/or infiltrate. No XXXX focal consolidations, pneumothorax, or pleural effusions. The visualized osseous structures demonstrate mild multilevel degenerative disc disease of the thoracolumbar spine, without acute osseous abnormality.
+
+IMPRESSION:
+Stable cardiomegaly and persistent minimal bibasilar atelectasis.
+
+PROBLEMS:
+Spinal Fusion;Cardiomegaly;Opacity;Pulmonary Atelectasis;Infiltrate;Thoracic Vertebrae;Lumbar Vertebrae
+
+MESH:
+Spinal Fusion/cervical vertebrae;Cardiomegaly;Opacity/lung/base/bilateral;Pulmonary Atelectasis/base/bilateral/mild;Infiltrate/lung/base/bilateral;Thoracic Vertebrae/degenerative/multiple/mild;Lumbar Vertebrae/degenerative/mild

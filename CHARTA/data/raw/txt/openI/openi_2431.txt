@@ -1,0 +1,16 @@
+UID: 2519
+
+INDICATION:
+Shortness of breath with chest pain and dizziness
+
+FINDINGS:
+There is mild cardiomegaly, similar to prior exams. No focal consolidation. No visible pleural effusion or pneumothorax.
+
+IMPRESSION:
+Stable mild cardiomegaly. No acute pulmonary abnormality.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/mild

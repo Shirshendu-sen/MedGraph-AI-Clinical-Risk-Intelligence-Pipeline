@@ -1,0 +1,16 @@
+UID: 2969
+
+INDICATION:
+XXXX-year-old male, dyspnea
+
+FINDINGS:
+Heart size and mediastinal contours are stable. Atherosclerotic calcifications of the aorta. Moderate severe hyperexpansion of the lungs and decreased peripheral vascular markings, consistent with emphysema. Stable biapical pleural-parenchymal scarring. Scattered granulomas. No abnormal airspace consolidation. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+1. Stable emphysematous changes. 2. Stable biapical pleural-parenchymal scarring.
+
+PROBLEMS:
+Atherosclerosis;Lung;Emphysema;Cicatrix;Cicatrix;Granuloma
+
+MESH:
+Atherosclerosis/aorta;Lung/hyperdistention/severe;Emphysema;Cicatrix/lung/apex/bilateral;Cicatrix/pleura/apex/bilateral;Granuloma/scattered/multiple

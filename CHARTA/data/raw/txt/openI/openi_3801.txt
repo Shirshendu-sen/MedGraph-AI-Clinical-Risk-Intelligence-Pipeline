@@ -1,0 +1,16 @@
+UID: 3949
+
+INDICATION:
+XXXX-year-old male, dizziness, XXXX
+
+FINDINGS:
+Apical lordotic frontal view. Considering differences in technical factors XXXX stable cardiomediastinal silhouette with mild cardiomegaly. No focal alveolar consolidation, no definite pleural effusion seen. Dense left lower lung nodule suggests a previous granulomatous process. No typical findings of pulmonary edema.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Cardiomegaly;Nodule;Density
+
+MESH:
+Cardiomegaly/mild;Nodule/lung/lower lobe/left;Density/lung/lower lobe/left

@@ -1,0 +1,16 @@
+UID: 1567
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. XXXX XXXX opacity in left midlung. The lungs are clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/lingula

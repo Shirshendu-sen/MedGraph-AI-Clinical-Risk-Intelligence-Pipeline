@@ -1,0 +1,16 @@
+UID: 3277
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+Cardiomediastinal silhouettes are within normal limits. Lungs are without focal consolidation, pneumothorax, or pleural effusion. Calcified left hilar lymph XXXX. A calcified granuloma is seen in the left lower lobe. Bony thorax is unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Calcinosis;Calcified Granuloma
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/left;Calcified Granuloma/lung/lower lobe/left

@@ -1,0 +1,16 @@
+UID: 780
+
+INDICATION:
+Preop bilateral leg gangrene.
+
+FINDINGS:
+Heart size is upper limits of normal. Mediastinal contours and pulmonary vascularity are within normal limits. There is no focal infiltrate or suspicious pulmonary opacity. No pneumothorax or pleural effusion. There is a lucency along the peripheral right lung base, XXXX secondary to a skin fold. No acute bony findings.
+
+IMPRESSION:
+Clear lungs. No acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung, Hyperlucent
+
+MESH:
+Lung, Hyperlucent/base/right

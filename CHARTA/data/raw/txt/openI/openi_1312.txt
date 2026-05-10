@@ -1,0 +1,16 @@
+UID: 1360
+
+INDICATION:
+DESATURATION EPISODE OVERNIGHT, PLEASE EVALUATE FOR INFILTRATE;
+
+FINDINGS:
+There are XXXX opacities within both lung bases, XXXX representing atelectasis. Heart size is upper limits of normal. No pneumothorax. No pneumothorax.
+
+IMPRESSION:
+Bibasilar atelectasis. No pneumonia. .
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/base/bilateral;Pulmonary Atelectasis/base/bilateral

@@ -1,0 +1,16 @@
+UID: 955
+
+INDICATION:
+XXXX-year-old male with history of AIDS presents with XXXX
+
+FINDINGS:
+Stable position of right central venous catheter. Interval removal of nasogastric tube. Heart size is normal. Persistent prominent interstitial markings of the right upper lobe. There are no XXXX focal air space consolidations. No pleural effusions or pneumothoraces. The hilar and mediastinal contours are unchanged. Normal pulmonary vascularity.
+
+IMPRESSION:
+No acute abnormality. Stable chest.
+
+PROBLEMS:
+Catheters, Indwelling;Markings
+
+MESH:
+Catheters, Indwelling/right;Markings/lung/upper lobe/right/interstitial/prominent

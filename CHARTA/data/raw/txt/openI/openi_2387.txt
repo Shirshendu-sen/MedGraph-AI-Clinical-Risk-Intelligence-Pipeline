@@ -1,0 +1,16 @@
+UID: 2473
+
+INDICATION:
+EVALUATE FOR METASTATIC DISEASE; history of renal cancer; preop adrenalectomy, left-sided pain
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are hypoinflated but clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

@@ -1,0 +1,16 @@
+UID: 2468
+
+INDICATION:
+XXXX physical
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable normal heart size. Calcified aorta. Eventration right diaphragm. Scarring in the pulmonary apices. No acute findings. Thoracic spondylosis.
+
+PROBLEMS:
+Calcinosis;Diaphragmatic Eventration;Cicatrix;Spondylosis
+
+MESH:
+Calcinosis/aorta;Diaphragmatic Eventration/right;Cicatrix/lung/apex/bilateral;Spondylosis/thoracic vertebrae

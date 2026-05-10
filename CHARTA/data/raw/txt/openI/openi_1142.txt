@@ -1,0 +1,16 @@
+UID: 1179
+
+INDICATION:
+Backache, asthma.
+
+FINDINGS:
+The heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. A few bandlike opacities are present on the lateral view which appear to represent small areas of scarring. Surgical clips are present in the right upper quadrant of the abdomen. Degenerative changes are present in the spine.
+
+IMPRESSION:
+1. No evidence of active disease.
+
+PROBLEMS:
+Opacity;Cicatrix;Surgical Instruments;Spine
+
+MESH:
+Opacity;Cicatrix/mild;Surgical Instruments/abdomen/right;Spine/degenerative

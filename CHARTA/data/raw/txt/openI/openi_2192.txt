@@ -1,0 +1,16 @@
+UID: 2272
+
+INDICATION:
+This is a XXXX-year-old male patient with history of testicular carcinoma approximately 12 years ago; Nonsmoker. No chest complaints otherwise. ICD-9 code is V-10.47. Date of exam is XXXX, XXXX. Comparison is XXXX to XXXX, XXXX.
+
+FINDINGS:
+None
+
+IMPRESSION:
+The cardiac silhouette is at the upper limits of normal for size and configuration. This is essentially unchanged. The mediastinum and perihilar structures appear to be XXXX unremarkable. A few calcified granulomata are noted. No focal infiltrates are seen. No obvious mediastinal lymphadenopathy is appreciated. Osseous structures appear to be XXXX unremarkable.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/multiple

@@ -1,0 +1,16 @@
+UID: 877
+
+INDICATION:
+XXXX-year-old with shortness of breath.
+
+FINDINGS:
+XXXX sternotomy XXXX appear intact. Surgical clips overlying the mediastinum. Mitral valve replacement seen. Low lung volumes. The interstitial markings appear prominent, which may represent interstitial edema. There is mild blunting of the posterior sulcus on the lateral view, which could represent a small effusion. No pneumothorax. No acute bony abnormality.
+
+IMPRESSION:
+1. Mildly prominent interstitial markings, which could represent interstitial edema. 2. Mild blunting of the posterior sulcus, which could represent a small effusion.
+
+PROBLEMS:
+Surgical Instruments;Implanted Medical Device;Lung;Markings;Sulcus
+
+MESH:
+Surgical Instruments/mediastinum;Implanted Medical Device/mitral valve;Lung/hypoinflation;Markings/lung/interstitial/prominent/mild;Sulcus/posterior/blunted/mild

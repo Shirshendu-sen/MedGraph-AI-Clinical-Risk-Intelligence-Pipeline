@@ -1,0 +1,16 @@
+UID: 1138
+
+INDICATION:
+XXXX-year-old male, testicular cancer.
+
+FINDINGS:
+No pleural effusions. No pneumothorax. No focal areas of consolidation. Heart size within normal limits. Osseous structures intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

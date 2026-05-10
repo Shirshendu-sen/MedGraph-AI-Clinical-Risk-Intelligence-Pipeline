@@ -1,0 +1,16 @@
+UID: 1658
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for appearance. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. Mild degenerative changes of the thoracic spine.. No acute, displaced rib fractures.
+
+IMPRESSION:
+1. No acute intrathoracic abnormality.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

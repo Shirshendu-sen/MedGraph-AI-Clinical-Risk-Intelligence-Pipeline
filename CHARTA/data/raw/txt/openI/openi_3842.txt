@@ -1,0 +1,16 @@
+UID: 3991
+
+INDICATION:
+Preop bariatric surgery
+
+FINDINGS:
+The cardiac contours are normal. The lungs are clear. Thoracic spondylosis.
+
+IMPRESSION:
+No acute preoperative findings.
+
+PROBLEMS:
+Spondylosis
+
+MESH:
+Spondylosis/thoracic vertebrae

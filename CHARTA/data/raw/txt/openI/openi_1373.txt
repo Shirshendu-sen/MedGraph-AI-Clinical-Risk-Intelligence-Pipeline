@@ -1,0 +1,16 @@
+UID: 1421
+
+INDICATION:
+XXXX-year-old with right apical scarring. Followup study. Coughing with shortness of breath. Occasional XXXX.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There is persistent stable appearing right apical scarring. There is persistent left basilar scarring. There are minimal degenerative changes of the spine.
+
+IMPRESSION:
+Chronic lung disease without superimposed acute disease identified.
+
+PROBLEMS:
+Cicatrix;Cicatrix;Spine
+
+MESH:
+Cicatrix/lung/apex/right;Cicatrix/lung/base/left;Spine/degenerative/mild

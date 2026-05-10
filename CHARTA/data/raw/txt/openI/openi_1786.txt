@@ -1,0 +1,16 @@
+UID: 1845
+
+INDICATION:
+XXXX, XXXX outside chest radiographs available on PACs, labeled SFHHC
+
+FINDINGS:
+None
+
+IMPRESSION:
+There is a left IJ approach central catheter. There is a XXXX noted in the catheter at the level of the medial clavicle. The tip of the catheter reaches the level of the brachiocephalic venous confluence. Heart size is normal. Mediastinal silhouette is stable. No edema. Essentially resolved bibasilar atelectasis, no XXXX consolidation or pneumothorax. XXXX left pleural effusion. Chronic left 6th rib fracture.
+
+PROBLEMS:
+Catheters, Indwelling;Pleural Effusion;Fractures, Bone
+
+MESH:
+Catheters, Indwelling/left;Pleural Effusion/left;Fractures, Bone/ribs/left/chronic

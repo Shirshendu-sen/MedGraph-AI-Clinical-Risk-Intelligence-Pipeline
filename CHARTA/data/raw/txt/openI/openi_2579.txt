@@ -1,0 +1,16 @@
+UID: 2674
+
+INDICATION:
+PRE-OP pre op bladder XXXX. non XXXX. no chest complaints.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Normal heart size. Normal pulmonary vasculature. Normal mediastinal contours. Lung parenchyma is clear. No airspace disease. No pulmonary edema. No XXXX of pleural effusions. No XXXX of metastasis. No XXXX of active cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

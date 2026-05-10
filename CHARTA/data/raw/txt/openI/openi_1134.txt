@@ -1,0 +1,16 @@
+UID: 1171
+
+INDICATION:
+XXXX-year-old female with XXXX and XXXX x2 weeks.
+
+FINDINGS:
+Heart size upper limits of normal. Low lung volumes with mild bronchovascular crowding and right basilar airspace disease. No pneumothorax or effusions.
+
+IMPRESSION:
+Low lung volumes with right base airspace disease.
+
+PROBLEMS:
+Lung;Markings;Airspace Disease
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Airspace Disease/lung/base/right

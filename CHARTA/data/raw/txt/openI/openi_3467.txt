@@ -1,0 +1,16 @@
+UID: 3607
+
+INDICATION:
+Bone marrow transplant workup.
+
+FINDINGS:
+Heart size and pulmonary vascularity appear within normal limits. The patient is status post CABG. A few XXXX opacities are present in the left base, the appearance which XXXX scarring or atelectasis. No pneumothorax or pleural effusion is seen. Degenerative changes are present in the spine.
+
+IMPRESSION:
+1. XXXX opacities in the left base, the appearance which XXXX scarring or atelectasis. Otherwise, clear.
+
+PROBLEMS:
+Opacity;Cicatrix;Pulmonary Atelectasis;Spine
+
+MESH:
+Opacity/lung/base/left;Cicatrix/lung/base/left;Pulmonary Atelectasis/base/left;Spine/degenerative

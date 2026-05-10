@@ -1,0 +1,16 @@
+UID: 2172
+
+INDICATION:
+XXXX-year-old male. Bilateral arm pain.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Biapical fibronodular thickening/scarring. Hyperexpanded lungs without focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.
+
+IMPRESSION:
+Hyperexpanded lungs. Negative for acute abnormality.
+
+PROBLEMS:
+Thickening;Cicatrix;Nodule;Lung
+
+MESH:
+Thickening/pleura/apex/bilateral/round;Cicatrix/lung/apex/bilateral/round;Nodule/lung/apex/bilateral/round;Lung/hyperdistention

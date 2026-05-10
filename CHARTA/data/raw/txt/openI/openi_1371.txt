@@ -1,0 +1,16 @@
+UID: 1419
+
+INDICATION:
+Dyspnea and congestion
+
+FINDINGS:
+Cardiac silhouette and pulmonary vascularity are normal. There is mild bibasilar focal atelectasis. No evidence of pleural effusion or pneumothorax. Minimal atherosclerotic changes are present in the thoracic aorta.
+
+IMPRESSION:
+Minimal bibasilar focal atelectasis.
+
+PROBLEMS:
+Pulmonary Atelectasis;Atherosclerosis
+
+MESH:
+Pulmonary Atelectasis/base/bilateral/focal/mild;Atherosclerosis/aorta, thoracic/mild

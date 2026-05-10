@@ -1,0 +1,16 @@
+UID: 334
+
+INDICATION:
+History of dyspnea.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Left midlung small calcified granulomas unchanged. Persistent partial middle lobe atelectasis and infiltrate seen XXXX on the lateral
+
+PROBLEMS:
+Calcified Granuloma;Pulmonary Atelectasis;Infiltrate
+
+MESH:
+Calcified Granuloma/lung/lingula/small;Pulmonary Atelectasis/middle lobe;Infiltrate/lung/middle lobe

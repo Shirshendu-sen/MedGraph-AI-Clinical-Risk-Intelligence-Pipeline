@@ -1,0 +1,16 @@
+UID: 2893
+
+INDICATION:
+XXXX-year-old male with rib pain, XXXX, left-sided bruising, evaluate for pneumothorax
+
+FINDINGS:
+Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. XXXX and soft tissues are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

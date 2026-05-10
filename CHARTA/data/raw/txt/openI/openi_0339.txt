@@ -1,0 +1,16 @@
+UID: 351
+
+INDICATION:
+XXXX
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Lungs are hyperexpanded. Minimal XXXX scarring in both lower lobes. Heart size and pulmonary vascularity within normal limits. Stable mild tortuosity of the descending thoracic aorta.
+
+IMPRESSION:
+1. No acute pulmonary abnormality.
+
+PROBLEMS:
+Lung;Cicatrix;Aorta, Thoracic
+
+MESH:
+Lung/hyperdistention;Cicatrix/lung/lower lobe/bilateral/mild;Aorta, Thoracic/tortuous/mild

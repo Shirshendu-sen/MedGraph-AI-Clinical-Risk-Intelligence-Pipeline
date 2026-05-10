@@ -1,0 +1,16 @@
+UID: 1478
+
+INDICATION:
+XXXX-year-old male, pain
+
+FINDINGS:
+Stable cardiomediastinal silhouette with normal heart size, mediastinal calcifications suggest a previous granulomatous process. Apical irregularities also present on the previous exam suggestive of scarring. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. No pneumothorax.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/mediastinum

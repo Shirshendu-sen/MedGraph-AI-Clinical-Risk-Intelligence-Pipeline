@@ -1,0 +1,16 @@
+UID: 2934
+
+INDICATION:
+XXXX, 10lb unintentional XXXX loss
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are mildly hyperlucent but clear. There is denser lumbar scoliosis.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Lung, Hyperlucent;Scoliosis
+
+MESH:
+Lung, Hyperlucent/bilateral/mild;Scoliosis/lumbar vertebrae

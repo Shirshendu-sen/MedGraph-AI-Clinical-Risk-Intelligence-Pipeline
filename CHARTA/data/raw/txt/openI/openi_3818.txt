@@ -1,0 +1,16 @@
+UID: 3966
+
+INDICATION:
+XXXX-year-old female, preoperative assessment for total knee arthroplasty.
+
+FINDINGS:
+Chest: The heart is normal size with normal appearance of the cardia mediastinal silhouette. There is no focal airspace opacity, pleural effusion, or pneumothorax. There are mild degenerative changes and thoracic spine. Right knee: There are severe tricompartmental degenerative changes with obliteration of the joint spaces. There is no fracture or dislocation. Left knee: There is joint space loss most prominent in the medial compartment. The XXXX of lateral view and limits evaluation for an effusion or the patellofemoral joint space. There is no fracture or dislocation.
+
+IMPRESSION:
+Chest: No acute cardiopulmonary finding. Right knee: Severe tricompartmental degenerative changes without fracture or dislocation. Left knee: Severe medial compartment degenerative changes.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

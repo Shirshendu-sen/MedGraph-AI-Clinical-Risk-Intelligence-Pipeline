@@ -1,0 +1,16 @@
+UID: 1468
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+The lungs are clear without evidence of focal airspace disease. There is no evidence of pneumothorax or large pleural effusion. The cardiac and mediastinal contours are within normal limits. The XXXX are unremarkable.
+
+IMPRESSION:
+No radiographic evidence of acute cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

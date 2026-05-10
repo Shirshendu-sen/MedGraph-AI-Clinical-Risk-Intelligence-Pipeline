@@ -1,0 +1,16 @@
+UID: 2268
+
+INDICATION:
+,799.02; hypoxia ap XXXX in wheelchair
+
+FINDINGS:
+None
+
+IMPRESSION:
+Status post mediastinal surgery. Cardiomegaly. Atherosclerotic disease of the thoracic aorta. Lung volumes are reduced. Suspicion for at XXXX XXXX bilateral pleural effusions. No acute airspace disease. No pulmonary edema.
+
+PROBLEMS:
+Cardiomegaly;Atherosclerosis;Lung
+
+MESH:
+Cardiomegaly;Atherosclerosis/aorta, thoracic;Lung/hypoinflation

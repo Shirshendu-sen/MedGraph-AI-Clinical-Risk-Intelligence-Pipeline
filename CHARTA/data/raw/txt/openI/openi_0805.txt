@@ -1,0 +1,16 @@
+UID: 831
+
+INDICATION:
+XXXX-year-old female. Chest pain.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Low lung volumes without focal consolidation, pneumothorax or large pleural effusion. Normal XXXX.
+
+IMPRESSION:
+Low lung volumes, otherwise clear.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

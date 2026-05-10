@@ -1,0 +1,16 @@
+UID: 3584
+
+INDICATION:
+Congestion, abdominal distention. History of XXXX and right-sided paralysis.
+
+FINDINGS:
+None
+
+IMPRESSION:
+The lungs are hypoinflated. There is focal airspace disease in the right lung base concerning for pneumonia or aspiration. There is minimal airspace disease in the left lung base, XXXX atelectasis. There is no pneumothorax or large pleural effusion. Heart size is normal.
+
+PROBLEMS:
+Lung;Airspace Disease;Airspace Disease;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation;Airspace Disease/lung/base/right/focal;Airspace Disease/lung/base/left/mild;Pulmonary Atelectasis/base/left

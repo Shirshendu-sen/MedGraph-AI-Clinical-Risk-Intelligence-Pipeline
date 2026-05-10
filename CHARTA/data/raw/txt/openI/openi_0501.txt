@@ -1,0 +1,16 @@
+UID: 516
+
+INDICATION:
+Rule out pneumonia/XXXX.
+
+FINDINGS:
+Normal heart. Calcified right hilar granulomas. No focal infiltrate. Midline trachea.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/hilum/right

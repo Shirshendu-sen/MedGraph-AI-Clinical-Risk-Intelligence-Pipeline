@@ -1,0 +1,16 @@
+UID: 1113
+
+INDICATION:
+XXXX-year-old male, right lung infiltrate.
+
+FINDINGS:
+Previous sulcal is normal in size and contour. Lungs are clear. No focal consolidation, pneumothorax, or pleural effusion. Interval resolution of previously described right midlung opacity suggesting resolved inflammatory/infectious process. Lungs are hyperexpanded with flattened diaphragms. XXXX and soft tissue are unremarkable.
+
+IMPRESSION:
+1. Emphysematous changes. 2. Resolution of prior right midlung infiltrate.
+
+PROBLEMS:
+Lung;Diaphragm;Emphysema
+
+MESH:
+Lung/hyperdistention;Diaphragm/flattened;Emphysema

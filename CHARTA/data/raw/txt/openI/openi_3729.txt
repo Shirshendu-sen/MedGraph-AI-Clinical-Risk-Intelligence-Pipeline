@@ -1,0 +1,16 @@
+UID: 3876
+
+INDICATION:
+XXXX-year-old male with productive XXXX.
+
+FINDINGS:
+The heart is normal size. The mediastinum is unremarkable. There is no pleural effusion, pneumothorax, or focal airspace disease. There is stable mild XXXX deformity of the lower thoracic vertebral body.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Deformity
+
+MESH:
+Deformity/thoracic vertebrae/mild

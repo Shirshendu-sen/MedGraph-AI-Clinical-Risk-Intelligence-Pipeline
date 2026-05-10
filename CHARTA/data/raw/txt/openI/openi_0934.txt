@@ -1,0 +1,16 @@
+UID: 967
+
+INDICATION:
+XXXX-year-old female with XXXX.
+
+FINDINGS:
+Heart size and mediastinal contours are unremarkable. There is no pneumothorax, pleural effusion, focal airspace consolidation.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 1805
+
+INDICATION:
+XXXX, congestion, pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size, mediastinal silhouette and pulmonary vascularity are within normal limits. Lungs are well expanded with no focal infiltrate or pleural effusion. No pneumothorax.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

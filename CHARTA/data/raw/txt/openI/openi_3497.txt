@@ -1,0 +1,16 @@
+UID: 3638
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+Cardiomegaly. No pneumothorax or pleural effusion. Clear lung XXXX bilaterally.
+
+IMPRESSION:
+1. Cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly

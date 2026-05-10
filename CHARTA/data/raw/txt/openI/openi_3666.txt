@@ -1,0 +1,16 @@
+UID: 3811
+
+INDICATION:
+Chest pain, short of breath
+
+FINDINGS:
+None
+
+IMPRESSION:
+Mild cardiomegaly. There are a few thin peripheral reticular opacities in the bases compatible with mild edema given mild central venous congestion. There is no pleural effusion or pneumothorax.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Pulmonary Edema;Pulmonary Congestion
+
+MESH:
+Cardiomegaly/mild;Opacity/lung/base/bilateral/reticular/multiple/mild;Pulmonary Edema;Pulmonary Congestion/mild

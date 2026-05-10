@@ -1,0 +1,16 @@
+UID: 583
+
+INDICATION:
+XXXX. Sore throat.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Right-sided perihilar calcified lymph XXXX and infracarinal calcified lymph XXXX. These XXXX represent previous granulomatous disease. Lung parenchyma is clear. No airspace disease. No pulmonary edema. Normal heart size. No XXXX of pleural effusions. No XXXX of active cardiopulmonary disease.
+
+PROBLEMS:
+Calcinosis;Calcinosis;Granulomatous Disease
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/right;Calcinosis/trachea, carina/lymph nodes;Granulomatous Disease

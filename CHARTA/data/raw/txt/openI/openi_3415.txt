@@ -1,0 +1,16 @@
+UID: 3553
+
+INDICATION:
+Chest pain, shortness of breath and XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+No evidence of acute cardiopulmonary disease
+
+PROBLEMS:
+normal
+
+MESH:
+normal

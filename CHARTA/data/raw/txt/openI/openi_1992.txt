@@ -1,0 +1,16 @@
+UID: 2066
+
+INDICATION:
+XXXX year old right-sided rib pain after a XXXX vehicle accident one XXXX ago.
+
+FINDINGS:
+There is mild cardiomegaly. The aorta is tortuous. There is XXXX opacities noted in the right lower lobe, XXXX subsegmental atelectasis. There is no pneumothorax or effusion. No displaced rib fractures. If there is high clinical concern, consider dedicated rib views for further evaluation.
+
+IMPRESSION:
+Mild cardiomegaly, with subsegmental atelectasis in the right lower lobe.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Opacity;Pulmonary Atelectasis
+
+MESH:
+Cardiomegaly/mild;Aorta/tortuous;Opacity/lung/lower lobe/right;Pulmonary Atelectasis/lower lobe/right

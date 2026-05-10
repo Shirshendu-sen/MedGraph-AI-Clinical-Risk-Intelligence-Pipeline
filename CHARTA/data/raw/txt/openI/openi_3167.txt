@@ -1,0 +1,16 @@
+UID: 3297
+
+INDICATION:
+XXXX, XXXX pain
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. Mild emphysematous changes are noted. The lungs are otherwise clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Emphysema
+
+MESH:
+Emphysema/mild

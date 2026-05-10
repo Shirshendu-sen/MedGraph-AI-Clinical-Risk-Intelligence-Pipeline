@@ -1,0 +1,16 @@
+UID: 3546
+
+INDICATION:
+This is a XXXX-year-old XXXX with a history of congestive heart failure and back pain.
+
+FINDINGS:
+Unchanged cardiomegaly. There is continued interstitial prominence bilaterally. Unchanged vascular appearance. There is patchy retrocardiac opacity. Negative for pneumothorax.
+
+IMPRESSION:
+Unchanged appearance of the chest with interstitial prominence the differential of which is XXXX but could include interstitial edema, infectious process or interstitial disease.
+
+PROBLEMS:
+Cardiomegaly;Lung;Opacity
+
+MESH:
+Cardiomegaly;Lung/bilateral/interstitial/prominent;Opacity/retrocardiac/patchy

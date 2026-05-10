@@ -1,0 +1,16 @@
+UID: 3219
+
+INDICATION:
+XXXX-year-old male, out of of meds, chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size within normal limits, mild aortic ectasia/tortuosity. Hyperinflated lungs with XXXX left perihilar and bibasilar opacities which may be compatible with subsegmental atelectasis or scarring. Otherwise no focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. Dense nodules in the left lung suggest a previous granulomatous process. Right upper abdominal coiled artifacts, question prior embolization procedure.
+
+PROBLEMS:
+Aorta;Lung;Opacity;Opacity;Density;Nodule;Implanted Medical Device
+
+MESH:
+Aorta/tortuous/mild;Lung/hyperdistention;Opacity/lung/hilum/left;Opacity/lung/base/bilateral;Density/lung/left/multiple;Nodule/lung/left/multiple;Implanted Medical Device/abdomen/right

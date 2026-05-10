@@ -1,0 +1,16 @@
+UID: 3281
+
+INDICATION:
+chest pain
+
+FINDINGS:
+The heart size is within normal limits. Cardiomediastinal contour is normal. There is a right upper lobe nodule measuring 8 mm in diameter. Trachea is midline. The lungs otherwise clear. XXXX and soft tissues are unremarkable.
+
+IMPRESSION:
+1. Right upper lobe pulmonary nodule, XXXX granuloma.
+
+PROBLEMS:
+Nodule;Granuloma
+
+MESH:
+Nodule/lung/upper lobe/right;Granuloma/lung/upper lobe/right

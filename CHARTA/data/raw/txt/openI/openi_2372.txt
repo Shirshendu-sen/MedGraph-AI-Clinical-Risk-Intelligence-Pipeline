@@ -1,0 +1,16 @@
+UID: 2458
+
+INDICATION:
+XXXX-year-old woman, short of breath.
+
+FINDINGS:
+Heart size within normal limits. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax. Mild degenerative changes thoracic spine.
+
+IMPRESSION:
+No acute abnormality.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

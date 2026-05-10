@@ -1,0 +1,16 @@
+UID: 2325
+
+INDICATION:
+XXXX-year-old male, dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+XXXX opacities in the left base may be compatible with scarring or subsegmental atelectasis. Otherwise, no focal alveolar consolidation. No definite pleural effusion seen. Heart size within normal limits, stable mediastinal contours. No typical findings of pulmonary edema.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/base/left

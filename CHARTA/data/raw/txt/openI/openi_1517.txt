@@ -1,0 +1,16 @@
+UID: 1569
+
+INDICATION:
+The patient's physical. Smoking history.
+
+FINDINGS:
+The lungs are clear. There is no pleural effusion. The heart and mediastinum are normal. The skeletal structures show arthritic changes.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+Arthritis
+
+MESH:
+Arthritis

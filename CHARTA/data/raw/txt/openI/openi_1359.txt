@@ -1,0 +1,16 @@
+UID: 1407
+
+INDICATION:
+XXXX.
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. Right lung base granuloma. The lungs are otherwise clear. Thoracic spondylosis.
+
+IMPRESSION:
+No acute pulmonary findings.
+
+PROBLEMS:
+Granuloma;Spondylosis
+
+MESH:
+Granuloma/lung/base/right;Spondylosis/thoracic vertebrae

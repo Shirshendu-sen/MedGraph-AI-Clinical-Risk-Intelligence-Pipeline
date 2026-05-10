@@ -1,0 +1,16 @@
+UID: 1914
+
+INDICATION:
+XXXX-year-old female with HIV and shortness of breath.
+
+FINDINGS:
+Stable heart size. Diffuse bilateral interstitial opacities. No pneumothorax. No effusions. No acute bony abnormalities.
+
+IMPRESSION:
+Stable bilateral interstitial opacities, could represent scarring or infiltrate. CT may be helpful to further characterize.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/bilateral/interstitial/diffuse

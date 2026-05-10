@@ -1,0 +1,16 @@
+UID: 2366
+
+INDICATION:
+Rule out TB for instance the placement.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable left lower lung XXXX calcified granuloma. Otherwise lungs are clear. Left-sided perihilar calcified lymph node, unchanged. No XXXX of the pleural effusions. No XXXX of active cardiopulmonary disease. No XXXX of active tuberculosis.
+
+PROBLEMS:
+Calcified Granuloma;Calcinosis
+
+MESH:
+Calcified Granuloma/lung/lower lobe/left;Calcinosis/lung/hilum/lymph nodes/left

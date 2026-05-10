@@ -1,0 +1,16 @@
+UID: 2835
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+Heart size is within normal limits. Low lung volumes. No focal airspace consolidations. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

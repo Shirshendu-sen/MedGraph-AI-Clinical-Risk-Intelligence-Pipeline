@@ -1,0 +1,16 @@
+UID: 666
+
+INDICATION:
+XXXX loss and chest pain
+
+FINDINGS:
+The heart is mildly enlarged. The aorta is atherosclerotic and ectatic. Chronic parenchymal changes are noted with mild scarring and/or subsegmental atelectasis in the right lung base. No focal consolidation or significant pleural effusion identified. Costophrenic XXXX are blunted.
+
+IMPRESSION:
+Borderline cardiomegaly and mild chronic changes. No acute infiltrate.
+
+PROBLEMS:
+Cardiomegaly;Atherosclerosis;Aorta;Cicatrix;Pulmonary Atelectasis;Costophrenic Angle
+
+MESH:
+Cardiomegaly/borderline;Atherosclerosis/aorta;Aorta/tortuous;Cicatrix/lung/base/right/mild;Pulmonary Atelectasis/base/right;Costophrenic Angle/blunted

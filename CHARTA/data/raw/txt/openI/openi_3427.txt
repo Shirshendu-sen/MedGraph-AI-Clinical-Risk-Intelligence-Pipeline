@@ -1,0 +1,16 @@
+UID: 3567
+
+INDICATION:
+Status post pacemaker implantation. XXXX.
+
+FINDINGS:
+XXXX XXXX and lateral chest examination was obtained. The heart silhouette and mediastinal contours are not enlarged. Pacemaker leads are within the right atrium and ventricle. Lungs demonstrate there is right lower lobe airspace disease and small effusion suspicious for pneumonia. Left lung is clear. There is no pneumothorax.
+
+IMPRESSION:
+1. Right lower lobe airspace disease and small effusion probably representing pneumonia.
+
+PROBLEMS:
+Implanted Medical Device;Airspace Disease;Pleural Effusion;Pneumonia
+
+MESH:
+Implanted Medical Device;Airspace Disease/lung/lower lobe/right;Pleural Effusion/right/small;Pneumonia/lower lobe/right

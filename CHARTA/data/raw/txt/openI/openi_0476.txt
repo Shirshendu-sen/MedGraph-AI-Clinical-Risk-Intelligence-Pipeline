@@ -1,0 +1,16 @@
+UID: 491
+
+INDICATION:
+XXXX-year-old XXXX with recent myocardial infarction, increasing oxygen requirements..
+
+FINDINGS:
+Cardiomediastinal silhouette is stable and within normal limits. There is improved lung volumes bilaterally with persistent bibasilar atelectatic opacities, without focal consolidation, pneumothorax, or effusion. No acute bony abnormality identified.
+
+IMPRESSION:
+Improving lung volumes with bibasilar atelectasis.
+
+PROBLEMS:
+Pulmonary Atelectasis;Opacity
+
+MESH:
+Pulmonary Atelectasis/base/bilateral;Opacity/lung/base/bilateral

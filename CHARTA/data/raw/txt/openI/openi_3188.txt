@@ -1,0 +1,16 @@
+UID: 3319
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Heart size and pulmonary vascular engorgement appear within limits of normal. Mediastinal contour is unremarkable. No focal consolidation, pleural effusion, or pneumothorax identified. Multilevel degenerative changes are noted within the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/multiple

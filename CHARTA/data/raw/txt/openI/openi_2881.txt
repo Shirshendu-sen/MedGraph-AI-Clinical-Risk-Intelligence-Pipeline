@@ -1,0 +1,16 @@
+UID: 3003
+
+INDICATION:
+XXXX-year-old male, concern for emphysema..
+
+FINDINGS:
+No focal consolidation, pneumothorax, or pleural effusions. Stable calcified granulomas. Cardiomediastinal silhouette demonstrates mild tortuosity of the thoracic aorta and atherosclerotic calcifications of the aortic XXXX. No acute osseous abnormality identified.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality..
+
+PROBLEMS:
+Calcified Granuloma;Aorta, Thoracic;Atherosclerosis
+
+MESH:
+Calcified Granuloma/multiple;Aorta, Thoracic/tortuous/mild;Atherosclerosis/aorta

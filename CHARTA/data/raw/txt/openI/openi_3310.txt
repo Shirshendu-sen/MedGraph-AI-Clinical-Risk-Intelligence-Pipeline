@@ -1,0 +1,16 @@
+UID: 3444
+
+INDICATION:
+C7 2.83
+
+FINDINGS:
+None
+
+IMPRESSION:
+Allowing for underpenetration, the lungs appear clear and the cardiac silhouette within normal limits.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory 
+
+MESH:
+Technical Quality of Image Unsatisfactory

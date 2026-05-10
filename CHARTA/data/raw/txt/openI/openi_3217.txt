@@ -1,0 +1,16 @@
+UID: 3348
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+Stable cardiomegaly. The lungs are clear. Stable left lung base calcifications. No focal consolidations. No pneumothorax or pleural effusions. The XXXX are intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities. Stable cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis
+
+MESH:
+Cardiomegaly;Calcinosis/lung/base/left

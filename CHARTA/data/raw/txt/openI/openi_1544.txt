@@ -1,0 +1,16 @@
+UID: 1596
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Normal heart. Clear lungs. Stable calcified granuloma left midlung. No pneumothorax. No pleural effusion. Midline trachea.
+
+IMPRESSION:
+Normal chest exam.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/lingula

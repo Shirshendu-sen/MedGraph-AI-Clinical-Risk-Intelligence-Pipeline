@@ -1,0 +1,16 @@
+UID: 2812
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+Lung volumes are low. In the interval, a patchy infiltrate has developed in the right lower lobe. Heart and pulmonary XXXX are normal.
+
+IMPRESSION:
+XXXX. XXXX patchy right lower lobe infiltrate consistent with pneumonia.
+
+PROBLEMS:
+Lung;Infiltrate;Pneumonia
+
+MESH:
+Lung/hypoinflation;Infiltrate/lung/lower lobe/right/patchy;Pneumonia/lower lobe/right

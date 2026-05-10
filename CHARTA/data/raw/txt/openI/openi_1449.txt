@@ -1,0 +1,16 @@
+UID: 1500
+
+INDICATION:
+XXXX loss, tobacco history
+
+FINDINGS:
+Normal heart size. Aortic calcification. Granulomatous nodule left midlung, stable. No acute pulmonary abnormalities. Thoracic spondylosis.
+
+IMPRESSION:
+No acute pulmonary findings.
+
+PROBLEMS:
+Calcinosis;Granuloma;Spondylosis;Nodule
+
+MESH:
+Calcinosis/aorta;Granuloma/lung/lingula;Spondylosis/thoracic vertebrae;Nodule/lung/lingula

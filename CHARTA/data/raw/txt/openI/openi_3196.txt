@@ -1,0 +1,16 @@
+UID: 3327
+
+INDICATION:
+Head bleed.
+
+FINDINGS:
+There is enlargement of the cardiac silhouette. There is a focal opacity within the right upper lung. There is dense calcification of the thoracic aorta. There is no pneumothorax. There is no large pleural effusion.
+
+IMPRESSION:
+1. Right upper lobe opacity. Without comparisons, this may represent a focal area of infection/pneumonia. However, correlation should be XXXX for possible tuberculosis exposure as tuberculosis infection could have this appearance. If discordant from clinical suspicion, or does not resolve on follow up imaging, consider further evaluation with XXXX scan. 2. Enlargement of the cardiac silhouette.
+
+PROBLEMS:
+Cardiac Shadow;Opacity;Calcinosis
+
+MESH:
+Cardiac Shadow/enlarged;Opacity/lung/upper lobe/right/focal;Calcinosis/aorta, thoracic/severe

@@ -1,0 +1,16 @@
+UID: 2127
+
+INDICATION:
+DORV, post surgery
+
+FINDINGS:
+Changes post bilateral thoracotomy and XXXX sternotomy. Intact XXXX XXXX. Stable position of the epicardial XXXX XXXX. Mild cardiomegaly. The lungs are clear. Bilateral small pleural effusions.
+
+IMPRESSION:
+1. Stable postop changes with mild cardiomegaly. 2. Small bilateral pleural effusions.
+
+PROBLEMS:
+Cardiomegaly;Pleural Effusion
+
+MESH:
+Cardiomegaly/mild;Pleural Effusion/bilateral/small

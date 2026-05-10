@@ -1,0 +1,16 @@
+UID: 2084
+
+INDICATION:
+XXXX yr old female with dyspnea.
+
+FINDINGS:
+Left chest wall Mediport placement with venous catheter tip in superior XXXX XXXX. Normal cardiac contours. No pneumothorax or pleural effusions. Clear lungs bilaterally. XXXX fracture seen at T5 and L2 with areas of sclerosis throughout the thoracic and lumbar spine.
+
+IMPRESSION:
+1. Pathologic fractures seen at T5 and L2. 2. Left venous catheter in SVC.
+
+PROBLEMS:
+Catheters, Indwelling;Fractures, Bone;Fractures, Bone;Sclerosis;Sclerosis
+
+MESH:
+Catheters, Indwelling/left;Fractures, Bone/thoracic vertebrae;Fractures, Bone/lumbar vertebrae;Sclerosis/thoracic vertebrae;Sclerosis/lumbar vertebrae

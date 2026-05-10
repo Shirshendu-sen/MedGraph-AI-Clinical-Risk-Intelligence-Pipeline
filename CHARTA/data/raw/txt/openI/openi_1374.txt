@@ -1,0 +1,16 @@
+UID: 1422
+
+INDICATION:
+XXXX-year-old male with XXXX.
+
+FINDINGS:
+The heart is normal in size. The pulmonary vascularity is within normal limits in appearance. No pneumothorax or pleural effusion. A wedge-shaped opacity has developed in the right upper lobe. There is also XXXX patchy opacification identified in the left upper lobe. No acute bony abnormality.
+
+IMPRESSION:
+Interval development of bilateral upper lobe consolidation, right greater than left, XXXX representing pneumonia.. Followup imaging to document resolution is recommended.
+
+PROBLEMS:
+Opacity;Opacity;Consolidation;Pneumonia
+
+MESH:
+Opacity/lung/upper lobe/right;Opacity/lung/upper lobe/left/patchy;Consolidation/lung/upper lobe/bilateral;Pneumonia

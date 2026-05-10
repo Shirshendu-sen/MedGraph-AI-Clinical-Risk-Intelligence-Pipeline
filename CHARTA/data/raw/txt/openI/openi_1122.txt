@@ -1,0 +1,16 @@
+UID: 1159
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Lungs are clear. There is no pneumothorax or pleural effusion. The heart and mediastinum are within normal limits. Bony structures are intact.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

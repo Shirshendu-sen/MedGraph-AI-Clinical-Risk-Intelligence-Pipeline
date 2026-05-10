@@ -1,0 +1,16 @@
+UID: 2478
+
+INDICATION:
+Recently diagnosed with pneumonia.
+
+FINDINGS:
+There your regular interstitial changes and possibly fibrosis in the left mid and lower lung zone and region of the right middle lobe. Hyperinflation is present. No focal consolidation is seen. There is no evidence for pleural effusion. The heart is not enlarged. Mediastinum is normal. There are arthritic changes of the spine.
+
+IMPRESSION:
+XXXX of COPD and interstitial lung disease. No definite pneumonia. There does appear to be progression of changes since XXXX.
+
+PROBLEMS:
+Lung;Arthritis;Pulmonary Disease, Chronic Obstructive;Lung Diseases, Interstitial
+
+MESH:
+Lung/hyperdistention;Arthritis/spine;Pulmonary Disease, Chronic Obstructive;Lung Diseases, Interstitial

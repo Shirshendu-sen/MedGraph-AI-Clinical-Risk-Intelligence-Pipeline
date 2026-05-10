@@ -1,0 +1,16 @@
+UID: 573
+
+INDICATION:
+Dyspnea.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. Sternotomy XXXX and surgical clips are again seen. The cardiomediastinal contours are unchanged. There is a background of marked centrilobular emphysema. Streaky opacities in the lung bases may represent atelectasis or scarring. There is no consolidation, pleural effusion or pneumothorax.
+
+IMPRESSION:
+No evidence of acute cardiopulmonary disease or significant interval change.
+
+PROBLEMS:
+Surgical Instruments;Pulmonary Emphysema;Opacity
+
+MESH:
+Surgical Instruments;Pulmonary Emphysema/severe;Opacity/lung/base/bilateral/streaky

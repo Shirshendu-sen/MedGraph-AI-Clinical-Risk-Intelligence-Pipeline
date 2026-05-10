@@ -1,0 +1,16 @@
+UID: 1321
+
+INDICATION:
+History of dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear of pneumonia. Patient has stable interstitial fibrotic changes throughout both lungs.
+
+PROBLEMS:
+Pulmonary Fibrosis
+
+MESH:
+Pulmonary Fibrosis/bilateral/interstitial

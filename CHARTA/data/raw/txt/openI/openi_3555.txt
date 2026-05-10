@@ -1,0 +1,16 @@
+UID: 3696
+
+INDICATION:
+preop for XXXX surgery XXXX surgery on jaw
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and lungs are clear. Stable 5 mm right midlung perform granuloma
+
+PROBLEMS:
+Granuloma
+
+MESH:
+Granuloma/lung/middle lobe/right

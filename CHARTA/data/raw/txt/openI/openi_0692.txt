@@ -1,0 +1,16 @@
+UID: 712
+
+INDICATION:
+XXXX-year-old male with XXXX and bronchitis.
+
+FINDINGS:
+The lungs are mildly hyperexpanded. There is no focal airspace consolidation to suggest pneumonia. No pleural effusion or pneumothorax. Normal heart size and mediastinal contour.
+
+IMPRESSION:
+No acute abnormality demonstrated.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention/mild

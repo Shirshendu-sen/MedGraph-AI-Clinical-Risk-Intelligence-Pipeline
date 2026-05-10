@@ -1,0 +1,16 @@
+UID: 1287
+
+INDICATION:
+Prostatectomy. Preop evaluation.
+
+FINDINGS:
+Sequelae of old granulomatous disease. No suspicious pulmonary nodules or masses. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+Clear lungs without suspicious pulmonary nodules or masses.
+
+PROBLEMS:
+Granulomatous Disease;Thoracic Vertebrae
+
+MESH:
+Granulomatous Disease;Thoracic Vertebrae/degenerative

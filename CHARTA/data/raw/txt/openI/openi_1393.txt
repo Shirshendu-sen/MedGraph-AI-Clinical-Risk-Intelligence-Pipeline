@@ -1,0 +1,16 @@
+UID: 1441
+
+INDICATION:
+HYPERTENSION; preop hiatal hernia
+
+FINDINGS:
+The heart is normal in size. The mediastinum is within normal limits. There is retrocardiac density which XXXX corresponds to patient's known hiatal hernia. The lungs are hypoinflated. No focal consolidation is seen.
+
+IMPRESSION:
+No acute disease. Retrocardiac density XXXX corresponding to known hiatal hernia.
+
+PROBLEMS:
+Density;Hernia, Hiatal;Lung
+
+MESH:
+Density/retrocardiac;Hernia, Hiatal;Lung/hypoinflation

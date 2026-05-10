@@ -1,0 +1,16 @@
+UID: 1580
+
+INDICATION:
+XXXX-year-old female with history of asthma, preoperative evaluation for back surgery
+
+FINDINGS:
+Lungs are mildly hyperexpanded. The lungs are clear. There is no focal airspace consolidation. No pleural effusion or pneumothorax. Heart size and mediastinal contour are within normal limits. There are diffuse degenerative changes of the spine.
+
+IMPRESSION:
+1. No focal airspace consolidation. 2. Mildly hyperexpanded lungs, suggestive of obstructive lung disease.
+
+PROBLEMS:
+Lung;Spine
+
+MESH:
+Lung/hyperdistention/mild;Spine/degenerative/diffuse

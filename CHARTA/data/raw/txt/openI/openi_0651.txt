@@ -1,0 +1,16 @@
+UID: 670
+
+INDICATION:
+Chronic XXXX
+
+FINDINGS:
+The heart is top normal in size. The mediastinum is Stable. The aorta is atherosclerotic. There are mild chronic changes without focal consolidation. No pleural effusion is seen.
+
+IMPRESSION:
+Mild cardiomegaly and atherosclerosis. No acute infiltrate.
+
+PROBLEMS:
+Atherosclerosis;Cardiomegaly
+
+MESH:
+Atherosclerosis/aorta;Cardiomegaly/mild

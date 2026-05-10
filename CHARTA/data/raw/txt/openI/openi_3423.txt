@@ -1,0 +1,16 @@
+UID: 3563
+
+INDICATION:
+716.81 OTHER ARTHROPATHY SHOULDER V74.1 SCREENING FOR PULMONARY TB
+
+FINDINGS:
+None
+
+IMPRESSION:
+No comparison chest x-XXXX. No evidence of active tuberculosis. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

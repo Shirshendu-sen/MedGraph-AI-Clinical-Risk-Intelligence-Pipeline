@@ -1,0 +1,16 @@
+UID: 103
+
+INDICATION:
+XXXX-year-old female with XXXX.
+
+FINDINGS:
+The lungs are clear without evidence of focal airspace disease. There is no evidence of pneumothorax or large pleural effusion. The cardiac contour is within normal limits. Compared to prior exam, there is XXXX prominence of the mediastinal contour near the right hilum. This may represent the ascending aorta or mediastinal lymphadenopathy. CT chest with contrast may be helpful for further evaluation. There are mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+XXXX prominence of the mediastinal contour near the right hilum possibly representing the ascending aorta or mediastinal lymphadenopathy. CT chest with contrast may be helpful for further evaluation.
+
+PROBLEMS:
+Mediastinum;Thoracic Vertebrae
+
+MESH:
+Mediastinum/prominent;Thoracic Vertebrae/degenerative/mild

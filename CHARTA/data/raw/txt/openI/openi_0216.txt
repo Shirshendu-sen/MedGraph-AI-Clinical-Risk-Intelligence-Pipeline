@@ -1,0 +1,16 @@
+UID: 224
+
+INDICATION:
+XXXX-year-old with dyspnea.
+
+FINDINGS:
+Clear lungs. Normal heart. No pneumothorax. No pleural effusion. Old right rib fractures.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 2684
+
+INDICATION:
+XXXX-year-old male with a history of altered mental status.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for appearance. No focal areas of pulmonary consolidation. A calcified granuloma is identified in the peripheral aspect of the left lower lobe. Calcified lymph XXXX are identified in left hilar region. No pneumothorax. No pleural effusion. Minimal degenerative endplate changes of the thoracic spine.
+
+IMPRESSION:
+1. No acute intrathoracic abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Calcinosis;Thoracic Vertebrae
+
+MESH:
+Calcified Granuloma/lung/lower lobe/left;Calcinosis/lung/hilum/lymph nodes/left;Thoracic Vertebrae/degenerative/mild

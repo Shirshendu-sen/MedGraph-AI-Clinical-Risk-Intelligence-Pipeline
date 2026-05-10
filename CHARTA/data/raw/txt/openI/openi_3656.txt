@@ -1,0 +1,16 @@
+UID: 3801
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+There are midline sternotomy XXXX and mediastinal clips consistent with prior CABG. The heart is enlarged with unfolding of the aorta. There is prominence of the interstitial markings with fluid in the fissures consistent with interstitial edema. There is no focal airspace opacity, large pleural effusion, or pneumothorax. There multilevel degenerative spine changes.
+
+IMPRESSION:
+1. Interstitial pulmonary edema. 2. Cardiomegaly.
+
+PROBLEMS:
+Surgical Instruments;Cardiomegaly;Aorta;Markings;Pulmonary Edema;Spine
+
+MESH:
+Surgical Instruments/mediastinum;Cardiomegaly;Aorta/tortuous;Markings/lung/interstitial/prominent;Pulmonary Edema/interstitial;Spine/degenerative/multiple

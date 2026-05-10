@@ -1,0 +1,16 @@
+UID: 2565
+
+INDICATION:
+preop patient not XXXX of XXXX date stated pain radiates XXXX both XXXX left side worse XXXX on XXXX of both feet
+
+FINDINGS:
+The heart is normal in size. The aorta is tortuous. The lungs are hypoinflated. No focal consolidation or pleural effusion seen. Old right-sided rib fracture is noted.
+
+IMPRESSION:
+1. Low lung volumes without acute infiltrate. 2. Aortic tortuosity and mild ectasia.
+
+PROBLEMS:
+Aorta;Lung;Fractures, Bone
+
+MESH:
+Aorta/tortuous;Lung/hypoinflation;Fractures, Bone/ribs/right/healed

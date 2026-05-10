@@ -1,0 +1,16 @@
+UID: 3364
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Borderline heart size. Tortuous calcified aorta. Elevated right diaphragm. Prominent hilar contours bilaterally. No acute pulmonary consolidation or pleural effusion.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Calcinosis;Diaphragm;Lung
+
+MESH:
+Cardiomegaly/borderline;Aorta/tortuous;Calcinosis/aorta;Diaphragm/right/elevated;Lung/hilum/bilateral/prominent

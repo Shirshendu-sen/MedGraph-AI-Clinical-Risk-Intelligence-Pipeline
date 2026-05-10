@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "tests\\sample_data\\sample_orthopedics.txt",
+    "file_name": "sample_orthopedics.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1546,
+    "processed_at": "2026-05-08T11:00:19.052510"
+  },
+  "entities": [
+    {
+      "text": "right knee pain",
+      "label": "DISEASE",
+      "start_char": 160,
+      "end_char": 175,
+      "sentence_idx": 0,
+      "concept_id": null,
+      "concept_name": "right knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 1,
+      "concept_id": null,
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 22,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 26,
+      "sentence_idx": 5,
+      "concept_id": null,
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes mellitus",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 47,
+      "sentence_idx": 5,
+      "concept_id": null,
+      "concept_name": "diabetes mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 7,
+      "concept_id": null,
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 63,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 76,
+      "sentence_idx": 11,
+      "concept_id": null,
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "knee medial meniscus tear",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 31,
+      "sentence_idx": 16,
+      "concept_id": null,
+      "concept_name": "knee medial meniscus tear",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 78,
+      "sentence_idx": 16,
+      "concept_id": null,
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "knee brace",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 17,
+      "sentence_idx": 18,
+      "concept_id": null,
+      "concept_name": "knee brace",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Crutches",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 19,
+      "concept_id": null,
+      "concept_name": "Crutches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ibuprofen",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 23,
+      "concept_id": "C0020740",
+      "concept_name": "ibuprofen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736760258674622,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 48,
+      "sentence_idx": 23,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Acetaminophen",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 24,
+      "concept_id": "C0000970",
+      "concept_name": "acetaminophen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9943801760673523,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

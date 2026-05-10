@@ -1,0 +1,16 @@
+UID: 1876
+
+INDICATION:
+XXXX-year-old female with COPD exacerbation.
+
+FINDINGS:
+Cardiomediastinal silhouettes are within normal limits. Lungs are clear without focal consolidation, pneumothorax, or pleural effusion. Right apical pleural retraction. Hyperexpansion, flattening of diaphragms, and increased AP diameter consistent with history of COPD. Degenerative disease of the thoracic spine is present.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Deformity;Lung;Diaphragm;Pulmonary Disease, Chronic Obstructive;Thoracic Vertebrae
+
+MESH:
+Deformity/pleura/apex/right;Lung/hyperdistention;Diaphragm/bilateral/flattened;Pulmonary Disease, Chronic Obstructive;Thoracic Vertebrae/degenerative

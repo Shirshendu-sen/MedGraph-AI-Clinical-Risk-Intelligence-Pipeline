@@ -1,0 +1,16 @@
+UID: 1403
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Heart size is normal. Mild XXXX XXXX atelectasis. Lungs are otherwise clear. No pleural effusions or pneumothoraces. The hilar and mediastinal contours are normal. Normal pulmonary vascularity.
+
+IMPRESSION:
+Bibasilar atelectasis. Otherwise, no acute abnormality
+
+PROBLEMS:
+Pulmonary Atelectasis
+
+MESH:
+Pulmonary Atelectasis/base/bilateral/mild

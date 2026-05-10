@@ -1,0 +1,16 @@
+UID: 3379
+
+INDICATION:
+XXXX-year-old, MVC
+
+FINDINGS:
+No pneumothorax or large pleural effusion. Borderline cardiomegaly. Minimal retrocardiac airspace disease. Bony structures appear intact.
+
+IMPRESSION:
+Bony structures appear intact. Minimal retrocardiac airspace disease.
+
+PROBLEMS:
+Cardiomegaly;Airspace Disease
+
+MESH:
+Cardiomegaly/borderline;Airspace Disease/lung/retrocardiac/mild

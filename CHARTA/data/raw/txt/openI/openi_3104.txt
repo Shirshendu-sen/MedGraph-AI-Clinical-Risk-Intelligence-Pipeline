@@ -1,0 +1,16 @@
+UID: 3231
+
+INDICATION:
+Hypertension, leg weakness.
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Heart size within normal limits. There is tortuosity of the descending thoracic aorta, unchanged. There is right paratracheal thickening and bilateral hilar enlargement corresponding to lymphadenopathy and XXXX pulmonary arterial enlargement visualized on XXXX chest in XXXX. Radiographically, the findings are grossly stable.
+
+IMPRESSION:
+1. No acute pulmonary abnormality. 2. Abnormal appearance of the mediastinum as discussed below.
+
+PROBLEMS:
+Aorta, Thoracic;Thickening;Lung;Pulmonary Artery
+
+MESH:
+Aorta, Thoracic/tortuous;Thickening/right/paratracheal;Lung/hilum/lymph nodes/bilateral/enlarged;Pulmonary Artery/enlarged

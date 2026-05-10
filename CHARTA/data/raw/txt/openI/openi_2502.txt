@@ -1,0 +1,16 @@
+UID: 2593
+
+INDICATION:
+Back pain
+
+FINDINGS:
+Mild cardiomegaly is unchanged. Stable superior mediastinal contour which is within normal limits. Bilateral interstitial prominence. No focal airspace consolidation, pleural effusion, or pneumothorax. No acute osseous abnormalities.
+
+IMPRESSION:
+Mild cardiomegaly with interstitial prominence, could represent mild interstitial edema, atypical infection, or chronic interstitial changes.
+
+PROBLEMS:
+Cardiomegaly;Lung
+
+MESH:
+Cardiomegaly/mild;Lung/bilateral/interstitial/prominent

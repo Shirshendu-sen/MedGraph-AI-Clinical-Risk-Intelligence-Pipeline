@@ -1,0 +1,16 @@
+UID: 3911
+
+INDICATION:
+altered mental status.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and lungs are clear. No pneumonia or effusion. No nodules or masses.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

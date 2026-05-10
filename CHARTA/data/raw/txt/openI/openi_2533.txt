@@ -1,0 +1,16 @@
+UID: 2627
+
+INDICATION:
+chest pain
+
+FINDINGS:
+Postsurgical changes of the right chest. Mild elevation of the right hemidiaphragm. Lungs are clear without focal airspace disease. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the spine.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+Diaphragm;Spine
+
+MESH:
+Diaphragm/right/elevated/mild;Spine/degenerative

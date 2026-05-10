@@ -1,0 +1,16 @@
+UID: 2999
+
+INDICATION:
+XXXX-year-old male with congestion presents for evaluation.
+
+FINDINGS:
+The cardiac silhouette is at the upper limits of normal for size. Patchy opacities are demonstrated in the left lung base. No focal pulmonary consolidation. No pneumothorax. Minimal degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. Patchy left basilar subsegmental atelectasis, infiltrates and/or small left pleural effusion. .
+
+PROBLEMS:
+Opacity;Thoracic Vertebrae;Pulmonary Atelectasis;Infiltrate;Pleural Effusion
+
+MESH:
+Opacity/lung/base/left/patchy;Thoracic Vertebrae/degenerative/mild;Pulmonary Atelectasis/base/left/patchy;Infiltrate/lung/base/left/patchy;Pleural Effusion/left/small

@@ -1,0 +1,16 @@
+UID: 1246
+
+INDICATION:
+XXXX.
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. Prior granulomatous disease. The lungs are otherwise clear. Thoracic spondylosis. Bilateral breast prostheses with XXXX calcification.
+
+IMPRESSION:
+No acute findings.
+
+PROBLEMS:
+Granulomatous Disease;Spondylosis;Breast Implants
+
+MESH:
+Granulomatous Disease;Spondylosis/thoracic vertebrae;Breast Implants/bilateral

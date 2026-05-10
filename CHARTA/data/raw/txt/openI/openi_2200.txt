@@ -1,0 +1,16 @@
+UID: 2280
+
+INDICATION:
+chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Multiple scattered small 4 mm nodules throughout the chest. These most XXXX represent calcified small granulomas. A low KV film XXXX demonstrate these are probably calcified.
+
+PROBLEMS:
+Nodule;Calcified Granuloma
+
+MESH:
+Nodule/thorax/scattered/multiple/small;Calcified Granuloma/thorax/scattered/multiple/small

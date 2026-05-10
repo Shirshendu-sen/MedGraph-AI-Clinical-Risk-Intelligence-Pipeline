@@ -1,0 +1,16 @@
+UID: 1032
+
+INDICATION:
+Status post XXXX repair.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits. There is no pneumothorax or pleural effusion. There are no focal areas of consolidation. There are calcifications projecting of the left midlung, unchanged from prior, this is is XXXX sequela of prior granulomatous disease. There are small T-spine osteophytes.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcinosis;Granulomatous Disease;Osteophyte
+
+MESH:
+Calcinosis/lung/lingula;Granulomatous Disease;Osteophyte/thoracic vertebrae/multiple/small

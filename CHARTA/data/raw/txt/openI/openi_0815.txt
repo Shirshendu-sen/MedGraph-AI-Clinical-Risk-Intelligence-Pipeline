@@ -1,0 +1,16 @@
+UID: 841
+
+INDICATION:
+PICC LINE POSITION;
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. Left upper extremity PIC catheter tip overlies the distal aspect of the left clavicle XXXX within the subclavian vein. There is no pneumothorax. The lungs are mildly hyperinflated but clear. Deformity of the lateral left 6th rib, XXXX old injury.
+
+IMPRESSION:
+No acute disease. Left upper extremity PIC catheter tip XXXX within left subclavian vein. Findings communicated XXXX primordial.
+
+PROBLEMS:
+Catheters, Indwelling;Lung;Deformity
+
+MESH:
+Catheters, Indwelling/left;Lung/hyperdistention/mild;Deformity/ribs/left

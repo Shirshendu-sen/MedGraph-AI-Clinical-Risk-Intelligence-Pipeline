@@ -1,0 +1,16 @@
+UID: 1320
+
+INDICATION:
+XXXX-year-old male with dyspnea.
+
+FINDINGS:
+Calcified granuloma is noted in the left upper lobe. There are low lung volumes, with bronchovascular crowding as a result. Heart size is within normal limits. Normal mediastinal contours. No pleural effusion, pneumothorax or focal airspace disease. No free subdiaphragmatic air. The osseous structures are grossly intact.
+
+IMPRESSION:
+Low lung volumes. No acute pulmonary disease.
+
+PROBLEMS:
+Calcified Granuloma;Lung;Markings
+
+MESH:
+Calcified Granuloma/lung/upper lobe/left;Lung/hypoinflation;Markings/bronchovascular

@@ -1,0 +1,16 @@
+UID: 2303
+
+INDICATION:
+chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart upper limits normal. Lungs clear
+
+PROBLEMS:
+normal
+
+MESH:
+normal

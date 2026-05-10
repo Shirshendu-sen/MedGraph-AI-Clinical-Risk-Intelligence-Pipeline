@@ -1,0 +1,16 @@
+UID: 3247
+
+INDICATION:
+persistent XXXX. Cigarette use
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Lungs are clear. No nodules or masses. No effusions or fibrosis
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 534
+
+INDICATION:
+XXXX and hypoxia
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. Left perihilar scarring is noted in the upper lobe. Streaky opacities in the retrocardiac region XXXX reflect mild subsegmental atelectasis. There is no focal infiltrate or pleural effusion.
+
+IMPRESSION:
+Mild left-sided scarring/subsegmental atelectasis. No definite infiltrate.
+
+PROBLEMS:
+Cicatrix;Opacity;Pulmonary Atelectasis
+
+MESH:
+Cicatrix/lung/upper lobe/hilum/left;Opacity/retrocardiac/streaky;Pulmonary Atelectasis/left/mild

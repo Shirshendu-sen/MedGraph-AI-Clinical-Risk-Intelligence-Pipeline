@@ -1,0 +1,16 @@
+UID: 2661
+
+INDICATION:
+XXXX-year-old female. Chest pain.
+
+FINDINGS:
+Mild cardiomegaly. Low lung volumes without focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.
+
+IMPRESSION:
+Mild cardiomegaly without heart failure.
+
+PROBLEMS:
+Cardiomegaly;Lung
+
+MESH:
+Cardiomegaly/mild;Lung/hypoinflation

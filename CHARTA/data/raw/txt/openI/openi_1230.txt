@@ -1,0 +1,16 @@
+UID: 1275
+
+INDICATION:
+XXXX-year-old male, XXXX not otherwise specified
+
+FINDINGS:
+None
+
+IMPRESSION:
+Age-indeterminate contour deformity of the right lateral 8th rib, if findings localize to this region, suspect acute fracture. Very low lung volumes, central and basilar opacities most suggestive of atelectasis. Heart size near top normal limits for technique, left infraclavicular cardiac XXXX generator with right atrial and right ventricular leads, sternotomy XXXX, CABG clips. Evaluation for pleural fluid limited but no large pleural effusion seen. No pleural line of pneumothorax.
+
+PROBLEMS:
+Deformity;Lung;Opacity;Opacity;Implanted Medical Device;Surgical Instruments
+
+MESH:
+Deformity/ribs/right;Lung/hypoinflation/severe;Opacity/lung/base/bilateral;Opacity/lung/middle lobe/bilateral;Implanted Medical Device/left;Surgical Instruments/heart

@@ -1,0 +1,16 @@
+UID: 2793
+
+INDICATION:
+XXXX-year-old female. Dyspnea.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Hyperexpanded lungs without focal consolidation, pneumothorax or large pleural effusion. Normal XXXX.
+
+IMPRESSION:
+Mild lung hyperexpansion, otherwise clear.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention/mild

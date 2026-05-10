@@ -1,0 +1,16 @@
+UID: 2940
+
+INDICATION:
+Chest pain and XXXX symptoms
+
+FINDINGS:
+Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. Lungs are clear. No pleural effusions or pneumothoraces. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+Normal chest.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative

@@ -1,0 +1,16 @@
+UID: 355
+
+INDICATION:
+rib pain
+
+FINDINGS:
+Lung volumes are low. Prominent increased interstitial markings in both lungs are unchanged in the interval. Bullae are present both upper lobes, right worse than left. No pleural air collections. Heart size normal.
+
+IMPRESSION:
+Chronic interstitial and bullous disease. No acute findings.
+
+PROBLEMS:
+Lung;Markings;Blister;Lung Diseases, Interstitial
+
+MESH:
+Lung/hypoinflation;Markings/lung/bilateral/interstitial/prominent;Blister/lung/upper lobe/bilateral;Lung Diseases, Interstitial/chronic

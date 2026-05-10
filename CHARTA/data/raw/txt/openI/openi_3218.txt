@@ -1,0 +1,16 @@
+UID: 3349
+
+INDICATION:
+XXXX.
+
+FINDINGS:
+The lungs are hyperexpanded consistent with emphysema. Pectus carinatum is noted. The heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. Calcified granuloma are noted. Vascular calcification is noted.
+
+IMPRESSION:
+1. Hyperexpanded lungs consistent with emphysema. 2. Pectus carinatum. 3. No evidence of acute disease.
+
+PROBLEMS:
+Lung;Pulmonary Emphysema;Pectus Carinatum;Calcified Granuloma;Calcinosis
+
+MESH:
+Lung/hyperdistention;Pulmonary Emphysema;Pectus Carinatum;Calcified Granuloma;Calcinosis/blood vessels

@@ -1,0 +1,16 @@
+UID: 1595
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+The heart is large. Lung volumes are XXXX. XXXX opacity persists in the right midlung. No focal infiltrates.
+
+IMPRESSION:
+Persistent cardiomegaly. Right midlung scar. No visible acute failure or pneumonia.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Cicatrix
+
+MESH:
+Cardiomegaly;Opacity/lung/middle lobe/right;Cicatrix/lung/middle lobe/right

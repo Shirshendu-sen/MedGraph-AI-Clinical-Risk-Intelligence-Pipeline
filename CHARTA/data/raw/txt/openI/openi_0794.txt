@@ -1,0 +1,16 @@
+UID: 819
+
+INDICATION:
+SOB
+
+FINDINGS:
+Both lungs are clear and expanded area heart and mediastinum are normal. Incidental note XXXX of bilateral breast implants.
+
+IMPRESSION:
+No active cardiopulmonary disease.
+
+PROBLEMS:
+Breast Implants
+
+MESH:
+Breast Implants/bilateral

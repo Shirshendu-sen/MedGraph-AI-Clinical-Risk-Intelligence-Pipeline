@@ -1,0 +1,16 @@
+UID: 2978
+
+INDICATION:
+XXXX, acute mental status changes.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size and contour. There is a XXXX-A-XXXX terminating at the caval atrial junction, without evidence of pneumothorax. There is no focal airspace disease. There are small calcified nodules in the superior segment of the right lower lobe, XXXX old granulomatous infection. There are no acute bony findings.
+
+IMPRESSION:
+No acute findings. .
+
+PROBLEMS:
+Calcinosis;Nodule;Granulomatous Disease
+
+MESH:
+Calcinosis/lung/lower lobe/right/multiple/small;Nodule/lung/lower lobe/right/multiple/small;Granulomatous Disease

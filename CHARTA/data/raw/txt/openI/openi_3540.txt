@@ -1,0 +1,16 @@
+UID: 3681
+
+INDICATION:
+Right-sided chest pain and shortness of breath.
+
+FINDINGS:
+There are lower lung volumes. There is central bronchovascular crowding. Volume loss in the medial right upper lobe seen on XXXX is not as well-demonstrated on radiography. No lobar consolidation. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+No acute abnormality identified.
+
+PROBLEMS:
+Lung;Markings
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular

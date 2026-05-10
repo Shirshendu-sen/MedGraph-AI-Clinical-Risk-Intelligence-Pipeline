@@ -1,0 +1,16 @@
+UID: 1408
+
+INDICATION:
+The patient is a XXXX-year-old female with lymphadenopathy.
+
+FINDINGS:
+Stable right upper lobe calcified granuloma. No pneumothorax, pleural effusion or airspace consolidation. Normal heart size and pulmonary vasculature. XXXX XXXX are grossly intact. No thoracic XXXX fractures.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/upper lobe/right

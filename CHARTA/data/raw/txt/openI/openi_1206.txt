@@ -1,0 +1,16 @@
+UID: 1250
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Large bilateral hilar calcified lymph XXXX/granulomas. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality..
+
+PROBLEMS:
+Calcified Granuloma;Calcinosis
+
+MESH:
+Calcified Granuloma/lung/hilum/bilateral/multiple/large;Calcinosis/lung/hilum/lymph nodes/bilateral/multiple/large

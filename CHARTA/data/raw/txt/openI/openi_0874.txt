@@ -1,0 +1,16 @@
+UID: 906
+
+INDICATION:
+XXXX-year-old female, pain
+
+FINDINGS:
+Heart size mildly enlarged, stable mediastinal and hilar contours. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. No pneumothorax.
+
+IMPRESSION:
+Mild cardiomegaly, no acute pulmonary findings
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/mild

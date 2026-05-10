@@ -1,0 +1,16 @@
+UID: 3951
+
+INDICATION:
+XXXX-year-old male. XXXX.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Masslike opacification of right apex. No pneumothorax or large pleural effusion. XXXX are grossly normal.
+
+IMPRESSION:
+Worsening masslike opacification of right apex, suggesting worsening malignancy or malignancy with postobstructive pneumonia.
+
+PROBLEMS:
+Opacity;Mass
+
+MESH:
+Opacity/lung/apex/right;Mass/lung/apex/right

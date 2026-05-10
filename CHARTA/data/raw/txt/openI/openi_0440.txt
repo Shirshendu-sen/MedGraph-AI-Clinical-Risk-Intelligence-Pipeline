@@ -1,0 +1,16 @@
+UID: 455
+
+INDICATION:
+XXXX-year-old male, status post cardiac arrest
+
+FINDINGS:
+There are low lung volumes with associated bronchovascular crowding and basilar subsegmental atelectasis. There is stable prominence of the right cardiac silhouette. The mediastinum is unremarkable. There is no pleural effusion, pneumothorax, or focal airspace disease. There are stable chronic degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Markings;Pulmonary Atelectasis;Cardiac Shadow;Thoracic Vertebrae
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Pulmonary Atelectasis/base;Cardiac Shadow/right/prominent;Thoracic Vertebrae/degenerative/chronic

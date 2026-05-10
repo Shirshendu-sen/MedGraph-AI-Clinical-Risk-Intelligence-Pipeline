@@ -1,0 +1,16 @@
+UID: 3241
+
+INDICATION:
+XXXX-year-old woman with XXXX.
+
+FINDINGS:
+The lungs focal airspace consolidation. There is atelectasis of the left lung base. The cardiomediastinal silhouette is normal in size and contour. There is no pneumothorax or large pleural effusion. Cervical vertebral XXXX is partially visible at the top of the radiographs.
+
+IMPRESSION:
+1. Left basilar atelectasis. 2. No focal airspace consolidation.
+
+PROBLEMS:
+Pulmonary Atelectasis
+
+MESH:
+Pulmonary Atelectasis/base/left

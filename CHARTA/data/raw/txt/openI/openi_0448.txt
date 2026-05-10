@@ -1,0 +1,16 @@
+UID: 463
+
+INDICATION:
+Preoperative, knee surgery.
+
+FINDINGS:
+There is a approximately 4 cm opacity with one XXXX margin and the other ill-defined in the lateral lower left lung is seen on the PA view. This is not definitely seen on the lateral view. There is no pneumothorax or pleural effusion. The cardiac silhouette is within normal limits. There are T-spine osteophytes. There is no pneumothorax or pleural effusion. There are calcified hilar lymph XXXX there
+
+IMPRESSION:
+Approximately 4.8 cm mass in the left lower hemithorax. This is favored to be arising from the chest wall and be pleural based. A CT of the chest is recommended for further evaluation. Critical result notification documented through Primordial.
+
+PROBLEMS:
+Opacity;Osteophyte;Calcinosis;Mass
+
+MESH:
+Opacity/lung/lower lobe/left;Osteophyte/thoracic vertebrae/multiple;Calcinosis/lung/hilum/lymph nodes;Mass/thorax/left

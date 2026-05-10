@@ -1,0 +1,16 @@
+UID: 3733
+
+INDICATION:
+chest pain with dyspnea
+
+FINDINGS:
+Heart size is enlarged. Cardiomediastinal contours are unchanged since previous exam. There is blunting of the right costophrenic XXXX XXXX old pleural scar. Lungs are otherwise clear bilaterally. A left upper lobe granuloma appears unchanged. There is kyphosis of the thoracic spine with anterior osteophyte formations. Aortic ectasia is seen in the ascending aorta and the XXXX.
+
+IMPRESSION:
+1. Cardiomegaly without failure 2. Ectatic aorta
+
+PROBLEMS:
+Cardiomegaly;Costophrenic Angle;Cicatrix;Granuloma;Kyphosis;Osteophyte;Aorta
+
+MESH:
+Cardiomegaly;Costophrenic Angle/right/blunted;Cicatrix/pleura/right;Granuloma/lung/upper lobe/left;Kyphosis/thoracic vertebrae;Osteophyte/thoracic vertebrae/anterior/multiple;Aorta/tortuous

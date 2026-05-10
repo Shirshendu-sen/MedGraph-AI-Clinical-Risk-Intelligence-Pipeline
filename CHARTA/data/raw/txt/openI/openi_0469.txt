@@ -1,0 +1,16 @@
+UID: 484
+
+INDICATION:
+Bladder CA f/u.
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. There is again significant thoracolumbar rotatory scoliosis. The aorta is atherosclerotic. The lungs are hypoinflated but clear.
+
+IMPRESSION:
+Hypoinflation without acute disease.
+
+PROBLEMS:
+Scoliosis;Scoliosis;Atherosclerosis;Lung
+
+MESH:
+Scoliosis/thoracic vertebrae/severe;Scoliosis/lumbar vertebrae/severe;Atherosclerosis/aorta;Lung/hypoinflation

@@ -1,0 +1,16 @@
+UID: 2570
+
+INDICATION:
+XXXX, hypertension.
+
+FINDINGS:
+There has been interval increase in size of the cardiac silhouette from XXXX. The cardiac fluid is now mildly enlarged. Pulmonary vasculature is increased with mildly increased interstitial markings and fissural thickening, suggesting mild pulmonary edema. There is no focal airspace disease, pneumothorax, or large pleural effusion. Descending thoracic aorta is tortuous. There are no acute bony findings.
+
+IMPRESSION:
+Cardiomegaly which appears XXXX from XXXX with probable mild pulmonary edema. .
+
+PROBLEMS:
+Cardiac Shadow;Pericardial Effusion;Pulmonary Congestion;Markings;Aorta, Thoracic;Cardiomegaly;Pulmonary Edema;Thickening
+
+MESH:
+Cardiac Shadow/enlarged;Pericardial Effusion/mild;Pulmonary Congestion;Markings/lung/interstitial;Aorta, Thoracic/tortuous;Cardiomegaly;Pulmonary Edema/mild;Thickening/pleura

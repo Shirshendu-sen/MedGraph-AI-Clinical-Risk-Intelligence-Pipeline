@@ -1,0 +1,16 @@
+UID: 3942
+
+INDICATION:
+XXXX-year-old female history of tetralogy of Fallot s/p repair.
+
+FINDINGS:
+Cardiac silhouette is at the upper limits of normal. Lungs are clear bilaterally. There is no pleural effusion or pneumothorax. Interval worsening of the moderate thoracolumbar dextroscoliosis with mild exaggeration of normal thoracic kyphosis.
+
+IMPRESSION:
+1. No acute cardiopulmonary process. 2. Interval worsening of moderate thoracolumbar dextroscoliosis. .
+
+PROBLEMS:
+Scoliosis;Scoliosis;Kyphosis
+
+MESH:
+Scoliosis/lumbar vertebrae/right/moderate;Scoliosis/thoracic vertebrae/right/moderate;Kyphosis/thoracic vertebrae/mild

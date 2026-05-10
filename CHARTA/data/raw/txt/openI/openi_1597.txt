@@ -1,0 +1,16 @@
+UID: 1652
+
+INDICATION:
+XXXX-year-old female with the right rib pain after assault.
+
+FINDINGS:
+Dextroscoliosis of the thoracic spine. Clear lungs bilaterally. No pneumothorax or pleural effusion. No acute bony abnormalities.
+
+IMPRESSION:
+1. Dextroscoliosis of the thoracic spine. 2.No evidence of acute bony abnormalities.
+
+PROBLEMS:
+Scoliosis
+
+MESH:
+Scoliosis/thoracic vertebrae/right

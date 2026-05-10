@@ -1,0 +1,16 @@
+UID: 2241
+
+INDICATION:
+XXXX-year-old female with ALL, possible XXXX cell transplant. Additional history of breast cancer.
+
+FINDINGS:
+There are biapical opacities, possibly scarring. Lungs otherwise appear clear. No focal airspace consolidation. No pleural effusion or pneumothorax. Heart size and mediastinal contour are within normal limits. Right-sided chest XXXX catheter tip is at the lower SVC. Several right axillary surgical clips are noted. There are postoperative changes of right mastectomy.
+
+IMPRESSION:
+No acute findings. Biapical opacities, XXXX scarring.
+
+PROBLEMS:
+Opacity;Catheters, Indwelling;Surgical Instruments;Mastectomy;Cicatrix
+
+MESH:
+Opacity/lung/apex/bilateral;Catheters, Indwelling/right;Surgical Instruments/right;Mastectomy/right;Cicatrix/lung/apex/bilateral

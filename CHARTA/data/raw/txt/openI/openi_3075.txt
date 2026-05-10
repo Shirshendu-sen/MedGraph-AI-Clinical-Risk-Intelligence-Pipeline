@@ -1,0 +1,16 @@
+UID: 3202
+
+INDICATION:
+XXXX-year-old male, dyspnea on exertion
+
+FINDINGS:
+Normal heart size and mediastinal contours. No focal airspace opacity. No pleural effusion or pneumothorax. Multiple healed posterior left rib fractures.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Fractures, Bone
+
+MESH:
+Fractures, Bone/ribs/left/posterior/multiple/healed

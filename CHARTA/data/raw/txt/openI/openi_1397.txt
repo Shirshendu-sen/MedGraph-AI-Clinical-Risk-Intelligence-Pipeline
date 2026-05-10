@@ -1,0 +1,16 @@
+UID: 1445
+
+INDICATION:
+XXXX-year-old female, status post chest tube removal.
+
+FINDINGS:
+Stable cardiomediastinal silhouette. There has been interval removal of right chest tube with increased elevation of the right hemidiaphragm and XXXX right basilar atelectasis. Left basilar consolidation and pleural effusions seen. No XXXX focal consolidation or pneumothorax. There is a stable left PICC with tip overlying the mid SVC and large XXXX feeding tube courses below the diaphragm.
+
+IMPRESSION:
+1. Increased elevation right hemidiaphragm with right basilar atelectasis. Left basilar airspace disease and pleural effusion unchanged. 2. Interval removal of right chest tube, no pneumothorax. .
+
+PROBLEMS:
+Diaphragm;Pulmonary Atelectasis;Consolidation;Pleural Effusion;Catheters, Indwelling;Tube, Inserted;Airspace Disease
+
+MESH:
+Diaphragm/right/elevated;Pulmonary Atelectasis/base/right;Consolidation/lung/base/left;Pleural Effusion/base/left;Catheters, Indwelling/left;Tube, Inserted/large;Airspace Disease/lung/base/left

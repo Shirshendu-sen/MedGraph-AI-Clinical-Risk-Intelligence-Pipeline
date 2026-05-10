@@ -1,0 +1,16 @@
+UID: 650
+
+INDICATION:
+The patient is a XXXX-year-old female admitted for fractures (multiple), examination for ECF placement.
+
+FINDINGS:
+Rotated examination. Tortuous aorta. Moderate right-sided pleural effusion, small left sided. No pneumothorax. Mixed nodular interstitial opacities distributed through bilateral lungs, right greater than left. Cardiomediastinal silhouette is mildly enlarged. Obliquely oriented left humeral neck fracture, transverse, with 5 mm displacement of the distal fragment. Limited evaluation of the aorto iliac stent. No cavitary lesion to suggest. active tuberculosis. Large hiatal hernia.
+
+IMPRESSION:
+1. Moderate right-sided pleural effusion. 2. No cavitary lung changes to suggest active tuberculosis. The airspace opacities in right upper lobe seen on XXXX chest are not visualized on this study which could be due to difference in technique and patient rotation. 3. Cardiomegaly with prominent aorta which may be accentuated due to AP view. 4. Left humerus fracture. .
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Aorta;Pleural Effusion;Pleural Effusion;Opacity;Nodule;Cardiac Shadow;Fractures, Bone;Stents;Hernia, Hiatal;Cardiomegaly;Aorta
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Aorta/tortuous;Pleural Effusion/right/moderate;Pleural Effusion/left/small;Opacity/lung/bilateral/interstitial;Nodule/lung/bilateral/interstitial;Cardiac Shadow/enlarged/mild;Fractures, Bone/humerus/left;Stents;Hernia, Hiatal/large;Cardiomegaly;Aorta/prominent

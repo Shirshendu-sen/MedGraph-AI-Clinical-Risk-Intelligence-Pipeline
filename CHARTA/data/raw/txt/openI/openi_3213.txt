@@ -1,0 +1,16 @@
+UID: 3344
+
+INDICATION:
+Lung Cancer
+
+FINDINGS:
+None
+
+IMPRESSION:
+Ill-defined opacity projecting over midthoracic spine on lateral view corresponding with residual mass/nodularity seen XXXX scan from XXXX. Well-expanded lungs with no acute airspace disease. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/thoracic vertebrae

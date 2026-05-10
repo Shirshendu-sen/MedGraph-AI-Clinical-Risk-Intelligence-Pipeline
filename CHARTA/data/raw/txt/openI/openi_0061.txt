@@ -1,0 +1,16 @@
+UID: 62
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Status post XXXX sternotomy and CABG. Heart size is normal. Coronary vascular stent. The lungs are clear. There are no focal air space consolidations. No pleural effusions or pneumothoraces. The hilar and mediastinal contours are stable. Calcified mediastinal lymph XXXX. Normal pulmonary vascularity. Degenerative changes of the spine.
+
+IMPRESSION:
+No acute abnormality. .
+
+PROBLEMS:
+Stents;Spine;Calcinosis
+
+MESH:
+Stents/coronary vessels;Spine/degenerative;Calcinosis/mediastinum/lymph nodes

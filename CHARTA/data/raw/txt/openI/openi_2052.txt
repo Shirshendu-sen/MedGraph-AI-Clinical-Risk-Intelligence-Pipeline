@@ -1,0 +1,16 @@
+UID: 2130
+
+INDICATION:
+Dyspnea and edema.
+
+FINDINGS:
+Cardiomegaly is present. There is interstitial pulmonary edema with the presence of XXXX B-lines. There is no pneumothorax. There is an oval, 17 mm nodular opacity projecting between the posterior left 5th and 6th ribs. There is a 10 mm nodular density projecting over the right posterior 4th rib. There is a XXXX posterior effusion. Normal mediastinal silhouette. T-spine osteophytes.
+
+IMPRESSION:
+1. Cardiomegaly with mild interstitial edema and XXXX posterior pleural effusion. 2. 17 mm nodular opacity in the left lung and 10 mm nodular opacity in the right lung. These lesions are XXXX and could be followed up radiographically after treatment of edema, or could be further characterized with CT.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Edema;Osteophyte;Pleural Effusion;Opacity;Density
+
+MESH:
+Cardiomegaly;Pulmonary Edema/interstitial/mild;Osteophyte/thoracic vertebrae/multiple;Pleural Effusion/posterior;Opacity/lung/bilateral/round/multiple;Density/lung/right/round

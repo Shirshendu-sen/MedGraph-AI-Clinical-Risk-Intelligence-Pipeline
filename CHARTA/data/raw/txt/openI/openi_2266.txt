@@ -1,0 +1,16 @@
+UID: 2349
+
+INDICATION:
+Positive TB test
+
+FINDINGS:
+Heart size and vascularity normal. These contour normal. Lungs clear. No pleural effusions or pneumothoraces.
+
+IMPRESSION:
+Normal chest.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 3042
+
+INDICATION:
+Evaluate pacemaker, syncope.
+
+FINDINGS:
+Stable appearance bipolar dual-XXXX cardiac pacemaker overlying the left hemithorax. No interval change in XXXX position. Cardiomediastinal silhouette appears within normal limits. Lungs are well-aerated. No areas of parenchymal consolidation or pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary disease. Stable appearance of pacemaker.
+
+PROBLEMS:
+Implanted Medical Device
+
+MESH:
+Implanted Medical Device/thorax/left

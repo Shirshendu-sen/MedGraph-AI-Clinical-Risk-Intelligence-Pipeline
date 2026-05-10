@@ -1,0 +1,16 @@
+UID: 3111
+
+INDICATION:
+XXXX-year-old female with XXXX's syndrome previous history of XXXX XXXX.
+
+FINDINGS:
+Stable appearance of previous XXXX sternotomy. Stable cardiomegaly. Stable mild bilateral interstitial opacities in which may represent mild pulmonary edema. No evidence of large pleural effusion or pneumothorax.
+
+IMPRESSION:
+Stable cardiomegaly and mild bilateral interstitial opacities which represent mild pulmonary edema.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Pulmonary Edema
+
+MESH:
+Cardiomegaly;Opacity/lung/bilateral/interstitial/mild;Pulmonary Edema/mild

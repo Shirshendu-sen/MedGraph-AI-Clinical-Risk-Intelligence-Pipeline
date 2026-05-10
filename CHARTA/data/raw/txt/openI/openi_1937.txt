@@ -1,0 +1,16 @@
+UID: 2006
+
+INDICATION:
+XXXX-year-old with chest pain this XXXX.
+
+FINDINGS:
+Heart size is mildly enlarged. The pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There is a calcified granuloma in the right lung base. There are mild degenerative changes of the spine. There are some chronic increased interstitial markings noted.
+
+IMPRESSION:
+Cardiomegaly without superimposed acute disease identified.
+
+PROBLEMS:
+Cardiomegaly;Calcified Granuloma;Spine;Markings
+
+MESH:
+Cardiomegaly/mild;Calcified Granuloma/lung/base/right;Spine/degenerative/mild;Markings/lung/interstitial/chronic

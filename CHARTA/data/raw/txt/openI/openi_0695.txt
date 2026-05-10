@@ -1,0 +1,16 @@
+UID: 715
+
+INDICATION:
+Shortness of breath.
+
+FINDINGS:
+There is chronic asymmetric elevation of the right hemidiaphragm. Compared with the prior study, there is mildly increased streaky airspace disease in the right lung base. Hilar prominence appears stable. There is no pneumothorax or large pleural effusion. Heart size is stable and grossly normal. There no acute bony findings.
+
+IMPRESSION:
+Chronic asymmetric elevation of the right hemidiaphragm with mildly increased right basilar airspace disease, atelectasis versus infiltrate. .
+
+PROBLEMS:
+Diaphragm;Airspace Disease;Pulmonary Atelectasis
+
+MESH:
+Diaphragm/right/elevated/chronic;Airspace Disease/lung/base/right/streaky;Pulmonary Atelectasis/base/right

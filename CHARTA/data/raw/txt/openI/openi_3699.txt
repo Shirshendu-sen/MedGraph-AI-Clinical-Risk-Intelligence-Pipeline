@@ -1,0 +1,16 @@
+UID: 3844
+
+INDICATION:
+chest pain
+
+FINDINGS:
+Lungs are clear. No pleural effusions or pneumothoraces. heart size is upper limits of normal.
+
+IMPRESSION:
+Heart size upper limits of normal with clear lungs.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

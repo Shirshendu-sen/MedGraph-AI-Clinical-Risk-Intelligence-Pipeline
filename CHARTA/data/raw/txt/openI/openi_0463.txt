@@ -1,0 +1,16 @@
+UID: 478
+
+INDICATION:
+Bronchitis and XXXX
+
+FINDINGS:
+The cardiac contours are normal. The lungs are clear. Thoracic spondylosis.
+
+IMPRESSION:
+No acute findings.
+
+PROBLEMS:
+Spondylosis
+
+MESH:
+Spondylosis/thoracic vertebrae

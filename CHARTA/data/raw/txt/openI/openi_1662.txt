@@ -1,0 +1,16 @@
+UID: 1718
+
+INDICATION:
+XXXX, dyspnea.
+
+FINDINGS:
+Increased interstitial opacities non-specific. Question edema or atypical infection?
+
+IMPRESSION:
+Heart size normal. Stable mediastinal silhouette. No lobar consolidation, large pleural effusion or pneumothorax. Mild increased reticular interstitial opacity.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/interstitial/reticular/mild

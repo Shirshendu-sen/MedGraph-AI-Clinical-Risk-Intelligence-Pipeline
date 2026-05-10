@@ -1,0 +1,16 @@
+UID: 602
+
+INDICATION:
+right chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and the lungs are clear. No nodules or masses.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

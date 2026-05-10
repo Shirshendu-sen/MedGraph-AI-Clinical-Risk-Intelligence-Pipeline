@@ -1,0 +1,16 @@
+UID: 35
+
+INDICATION:
+XXXX-year-old female with breast mass and smoking history.
+
+FINDINGS:
+The heart size and cardiomediastinal silhouette are normal. There is hyperexpansion of the lungs with flattening of the hemidiaphragms. There is no focal airspace opacity, pleural effusion, or pneumothorax. There multilevel degenerative changes of thoracic spine.
+
+IMPRESSION:
+Emphysema, however no acute cardiopulmonary finding.
+
+PROBLEMS:
+Lung;Diaphragm;Thoracic Vertebrae;Emphysema
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened;Thoracic Vertebrae/degenerative/multiple;Emphysema

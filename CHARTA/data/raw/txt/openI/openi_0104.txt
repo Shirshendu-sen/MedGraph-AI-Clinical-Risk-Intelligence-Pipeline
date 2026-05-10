@@ -1,0 +1,16 @@
+UID: 105
+
+INDICATION:
+XXXX-year-old female with hypoxia.
+
+FINDINGS:
+Heart size within normal limits. Stable position of left subclavian central venous catheter. No focal airspace disease. No pneumothorax. Mild blunting of the costophrenic XXXX bilaterally.
+
+IMPRESSION:
+XXXX bilateral effusions.
+
+PROBLEMS:
+Catheters, Indwelling;Costophrenic Angle;Pleural Effusion
+
+MESH:
+Catheters, Indwelling;Costophrenic Angle/bilateral/blunted/mild;Pleural Effusion/bilateral

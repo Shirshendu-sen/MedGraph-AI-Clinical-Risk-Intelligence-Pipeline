@@ -1,0 +1,16 @@
+UID: 2297
+
+INDICATION:
+Preop breast reduction surgery
+
+FINDINGS:
+The cardiac contours are normal. The lungs are clear. Thoracic spondylosis. Mild XXXX XXXX curvature thoracolumbar junction.
+
+IMPRESSION:
+No active pulmonary disease.
+
+PROBLEMS:
+Spondylosis;Scoliosis;Scoliosis
+
+MESH:
+Spondylosis/thoracic vertebrae;Scoliosis/thoracic vertebrae/mild;Scoliosis/lumbar vertebrae/mild

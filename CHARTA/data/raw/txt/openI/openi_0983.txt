@@ -1,0 +1,16 @@
+UID: 1016
+
+INDICATION:
+XXXX, XXXX AND CHILLS, NONPROD. COUGHT, HAS XXXX FIBROTIC LUNG DISEASE BUT HAS NO RECENT CXR.;
+
+FINDINGS:
+None
+
+IMPRESSION:
+Comparison XXXX, XXXX. XXXX right pleural opacity along the lower chest wall compatible with thickening and/or some loculated effusion, accompanied with some adjacent atelectasis / airspace disease within the right lung base. Round opacity seen projecting adjacent to right hilum on PA view is XXXX on lateral view to represent some discoid atelectasis or fluid associated with the upper aspect of the XXXX fissure. Some XXXX opacities compatible with scarring/chronic inflammatory change are seen within the left lower lung which are more conspicuous versus previous examination. Stable mediastinal contour.
+
+PROBLEMS:
+Opacity;Thickening;Pulmonary Atelectasis;Airspace Disease;Opacity;Pulmonary Atelectasis;Pleural Effusion;Opacity;Cicatrix;Pleural Effusion
+
+MESH:
+Opacity/pleura/right;Thickening/pleura/right;Pulmonary Atelectasis/base/right;Airspace Disease/lung/base/right;Opacity/lung/hilum/right/round;Pulmonary Atelectasis/hilum/right;Pleural Effusion/hilum/right;Opacity/lung/lower lobe/left;Cicatrix/lung/lower lobe/left;Pleural Effusion/right/focal

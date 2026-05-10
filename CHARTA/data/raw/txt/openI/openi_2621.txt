@@ -1,0 +1,16 @@
+UID: 2721
+
+INDICATION:
+XXXX-year-old, preop carotid endarterectomy.
+
+FINDINGS:
+Heart size at the upper limits of normal. There are scattered calcified granulomas. No focal airspace consolidation, large effusion, or appreciable pneumothorax. Tortuous, unfolded to descending aorta. Calcified aortic XXXX. XXXX curvature of the thoracic spine. Exaggerated kyphosis. XXXX are diffusely osteopenic. Multilevel degenerative changes of the thoracic spine with minimal anterior XXXX loss of several vertebral bodies.
+
+IMPRESSION:
+Chronic changes without acute cardiopulmonary findings.
+
+PROBLEMS:
+Calcified Granuloma;Aorta;Calcinosis;Scoliosis;Kyphosis;Bone Diseases, Metabolic;Thoracic Vertebrae;Deformity
+
+MESH:
+Calcified Granuloma/scattered/multiple;Aorta/tortuous;Calcinosis/aorta;Scoliosis/thoracic vertebrae;Kyphosis/severe;Bone Diseases, Metabolic/diffuse;Thoracic Vertebrae/degenerative/multiple;Deformity/thoracic vertebrae/multiple/mild

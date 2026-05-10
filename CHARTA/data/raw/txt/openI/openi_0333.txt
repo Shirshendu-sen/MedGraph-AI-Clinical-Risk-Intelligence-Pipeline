@@ -1,0 +1,16 @@
+UID: 345
+
+INDICATION:
+Costochondral chest pain
+
+FINDINGS:
+Cardiomediastinal silhouette and pulmonary vasculature are within normal limits. Lungs are clear. No pneumothorax or pleural effusion. No acute osseous findings. XXXX degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

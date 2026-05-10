@@ -1,0 +1,16 @@
+UID: 3409
+
+INDICATION:
+The patient is a XXXX-year-old XXXX who is expansion shortness of breath, XXXX, chest pain and XXXX.
+
+FINDINGS:
+The trachea is midline. The cardiomediastinal silhouette is normal. The lungs are clear, without evidence of focal acute infiltrate or effusion. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

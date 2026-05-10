@@ -1,0 +1,16 @@
+UID: 1059
+
+INDICATION:
+History of pneumonia. Hemoptysis.
+
+FINDINGS:
+Stable cardiomediastinal silhouette with tortuous aorta. Prior granulomatous disease. No pneumothorax or pleural effusion. Stable retrocardiac airspace opacity.
+
+IMPRESSION:
+Stable retrocardiac airspace opacity.
+
+PROBLEMS:
+Aorta;Granulomatous Disease;Opacity
+
+MESH:
+Aorta/tortuous;Granulomatous Disease;Opacity/retrocardiac

@@ -1,0 +1,16 @@
+UID: 605
+
+INDICATION:
+XXXX
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. Small nodular opacity left upper lobe may represent early infiltrate. The lungs are otherwise clear. There is no pleural effusion.
+
+IMPRESSION:
+Small nodular opacity in left upper lung may be secondary to superimposed structures or early infiltrate. Followup evaluation in 2 weeks may be helpful.
+
+PROBLEMS:
+Opacity;Nodule
+
+MESH:
+Opacity/lung/upper lobe/left/small;Nodule/lung/upper lobe/left/small

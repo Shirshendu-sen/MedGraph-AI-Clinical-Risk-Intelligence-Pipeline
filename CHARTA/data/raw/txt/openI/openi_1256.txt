@@ -1,0 +1,16 @@
+UID: 1303
+
+INDICATION:
+XXXX bleed
+
+FINDINGS:
+In the interval, a 3 cm uncalcified mass has developed in the posterior segment of the right upper lobe. In addition, on the PA view, an 8 mm opacity is adjacent to the left XXXX of the heart. This opacity cannot be well identified on the lateral view. It may be artifactual, but another mass on the left cannot be excluded. Mediastinum is normal with no evidence for adenopathy. Heart size normal. Note XXXX of an unchanged hiatal hernia.
+
+IMPRESSION:
+XXXX right upper lobe mass, suspicious for neoplasm. CT of chest abdomen and head would be helpful for further evaluation.
+
+PROBLEMS:
+Mass;Opacity;Hernia, Hiatal
+
+MESH:
+Mass/lung/upper lobe/right/posterior;Opacity/heart/left;Hernia, Hiatal

@@ -1,0 +1,16 @@
+UID: 1239
+
+INDICATION:
+dyspnea.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal and lungs are clear. No edema or pneumonia. No effusion
+
+PROBLEMS:
+normal
+
+MESH:
+normal

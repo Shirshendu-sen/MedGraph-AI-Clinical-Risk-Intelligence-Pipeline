@@ -1,0 +1,16 @@
+UID: 310
+
+INDICATION:
+XXXX, pain.
+
+FINDINGS:
+Chest. The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours are within normal limits. No focal consolidation, pleural effusion, or pneumothorax identified. The visualized osseous structures and upper abdomen are unremarkable. Thoracic spine. The XXXX examination consists of frontal, lateral and swimmers lateral radiographs of the thoracic spine. There is no evidence of fracture or malalignment. The vertebral body XXXX and disc spaces are maintained. Sternum. The XXXX examination consists of 2 oblique and one lateral radiograph of the sternum. No displaced XXXX fracture demonstrated.
+
+IMPRESSION:
+1. No radiographic evidence of acute thoracic XXXX.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

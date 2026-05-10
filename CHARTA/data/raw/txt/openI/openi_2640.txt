@@ -1,0 +1,16 @@
+UID: 2742
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The cardiac contours are normal. Prior granulomatous disease. The lungs are clear. Thoracic spondylosis. Lower cervical degenerative arthritis.
+
+IMPRESSION:
+No acute findings.
+
+PROBLEMS:
+Granulomatous Disease;Spondylosis;Arthritis
+
+MESH:
+Granulomatous Disease;Spondylosis/thoracic vertebrae;Arthritis/cervical vertebrae/degenerative

@@ -1,0 +1,16 @@
+UID: 2183
+
+INDICATION:
+XXXX-year-old male with shortness of breath.
+
+FINDINGS:
+Moderate cardiomegaly. Bibasilar and perihilar interstitial opacities. No pneumothorax. No pleural effusions.
+
+IMPRESSION:
+Cardiomegaly and mild interstitial pulmonary edema.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Opacity;Pulmonary Edema
+
+MESH:
+Cardiomegaly/moderate;Opacity/lung/base/bilateral;Opacity/lung/hilum/interstitial;Pulmonary Edema/interstitial/mild

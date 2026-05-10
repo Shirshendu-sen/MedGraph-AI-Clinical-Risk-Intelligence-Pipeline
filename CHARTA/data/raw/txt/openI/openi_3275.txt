@@ -1,0 +1,16 @@
+UID: 3408
+
+INDICATION:
+XXXX, decreased breath sounds at bases.
+
+FINDINGS:
+The cardiomediastinal contours are within normal limits. Pulmonary vasculature is unremarkable. There is no focal airspace opacity. No pleural effusion or pneumothorax is seen. Multiple healed bilateral rib fractures. No acute bony abnormality is identified.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Fractures, Bone
+
+MESH:
+Fractures, Bone/ribs/bilateral/multiple/healed

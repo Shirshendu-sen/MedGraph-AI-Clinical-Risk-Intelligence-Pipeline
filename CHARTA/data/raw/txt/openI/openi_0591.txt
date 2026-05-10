@@ -1,0 +1,16 @@
+UID: 609
+
+INDICATION:
+COPD
+
+FINDINGS:
+Stable cardiomediastinal silhouette. Pulmonary vascularity is within normal limits. Lungs are expanded and clear of airspace disease. Negative for pneumothorax or pleural effusion. XXXX XXXX are grossly intact.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

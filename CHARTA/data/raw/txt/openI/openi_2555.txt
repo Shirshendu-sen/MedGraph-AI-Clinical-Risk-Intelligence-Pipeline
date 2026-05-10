@@ -1,0 +1,16 @@
+UID: 2650
+
+INDICATION:
+XXXX-year-old male with history of pneumonia and CHF, followup bilateral pneumonia 4 weeks ago, shortness of breath and productive XXXX.
+
+FINDINGS:
+There is redemonstration of an AICD in the left chest wall with intact stable XXXX placement. There are multiple intact XXXX sternotomy XXXX. There is persistent enlargement of cardiac silhouette. Mediastinal silhouette appears unremarkable. There is elevation of the left hemidiaphragm. No visible pneumothorax, focal airspace opacity, or pleural effusion is seen. No visible free air under the diaphragm. Redemonstration of degenerative change in the thoracic spine.
+
+IMPRESSION:
+1. Stable cardiomegaly without infiltrates.
+
+PROBLEMS:
+Implanted Medical Device;Cardiac Shadow;Diaphragm;Thoracic Vertebrae;Cardiomegaly
+
+MESH:
+Implanted Medical Device/left;Cardiac Shadow/enlarged;Diaphragm/left/elevated;Thoracic Vertebrae/degenerative;Cardiomegaly

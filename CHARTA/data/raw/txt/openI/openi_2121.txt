@@ -1,0 +1,16 @@
+UID: 2201
+
+INDICATION:
+XXXX-year-old female with tobacco use, XXXX loss.
+
+FINDINGS:
+Bilateral calcified granulomas stable compared to prior examination, without focal consolidation, pneumothorax, or pleural effusion identified. Cardiomediastinal silhouette stable and unremarkable. No acute osseous abnormality identified.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality..
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/bilateral/multiple

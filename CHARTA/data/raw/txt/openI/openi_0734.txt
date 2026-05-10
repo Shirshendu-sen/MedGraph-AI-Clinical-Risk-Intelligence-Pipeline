@@ -1,0 +1,16 @@
+UID: 755
+
+INDICATION:
+heart murmur?
+
+FINDINGS:
+None
+
+IMPRESSION:
+Lungs clear. Heart size normal. Flowing syndesmophytes in the thoracic spine, XXXX DISH.
+
+PROBLEMS:
+Osteophyte
+
+MESH:
+Osteophyte/thoracic vertebrae/multiple

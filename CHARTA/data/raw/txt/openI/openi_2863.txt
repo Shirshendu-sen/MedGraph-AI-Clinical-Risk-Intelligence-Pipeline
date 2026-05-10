@@ -1,0 +1,16 @@
+UID: 2983
+
+INDICATION:
+XXXX, left rib pain, history of SDH, XXXX, hypokalemia.
+
+FINDINGS:
+Cardiomediastinal silhouette is within normal limits. No focal consolidation. There is right lower lobe scarring. No pneumothorax or large pleural effusion. Granulomas present. No acute bony abnormalities.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities. 2. No acute bony abnormalities. .
+
+PROBLEMS:
+Cicatrix;Granuloma
+
+MESH:
+Cicatrix/lung/lower lobe/right;Granuloma/multiple

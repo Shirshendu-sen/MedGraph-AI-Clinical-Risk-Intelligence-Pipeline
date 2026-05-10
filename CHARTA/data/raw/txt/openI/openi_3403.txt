@@ -1,0 +1,16 @@
+UID: 3541
+
+INDICATION:
+XXXX. History of XXXX's disease
+
+FINDINGS:
+Lung volumes are mildly decreased. The cardiac silhouette and pulmonary vascularity are normal. There is bilateral lower lobe XXXX airspace opacities compatible with discoid atelectasis. There is no evidence of pleural effusion or pneumothorax.
+
+IMPRESSION:
+Bilateral lower lobe focal atelectasis.
+
+PROBLEMS:
+Lung;Opacity;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation/mild;Opacity/lung/lower lobe/bilateral;Pulmonary Atelectasis/lower lobe/bilateral/focal/round

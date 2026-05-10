@@ -1,0 +1,16 @@
+UID: 885
+
+INDICATION:
+XXXX-year-old XXXX with ongoing shortness of breath and history of pneumonia. Additional history of myocardial infarction, pacemaker/defibrillator placement, coronary stents, and valve replacement. Smoking history of 50 years.
+
+FINDINGS:
+Heart size, mediastinal contour, and pulmonary vascularity are within normal limits. Postsurgical changes include left chest pacemaker/ICD with XXXX tips over the right atrium and right ventricle, sternotomy XXXX, and graft markers, and upper anterior mediastinal surgical clips. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Specifically, no evidence of pneumonia. Visualized osseous structures appear intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. Postsurgical changes as described above. .
+
+PROBLEMS:
+Implanted Medical Device;Surgical Instruments
+
+MESH:
+Implanted Medical Device/left;Surgical Instruments/mediastinum

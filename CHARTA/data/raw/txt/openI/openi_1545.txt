@@ -1,0 +1,16 @@
+UID: 1597
+
+INDICATION:
+XXXX-year-old pregnant woman with chest pain, palpitations, shortness of breath.
+
+FINDINGS:
+Heart and mediastinum within normal limits. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax.
+
+IMPRESSION:
+No acute abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

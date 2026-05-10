@@ -1,0 +1,16 @@
+UID: 2712
+
+INDICATION:
+dyspnea.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear. Calcified left upper lobe 5 mm peripheral granuloma. No edema or effusions. No pneumonia
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/upper lobe/left

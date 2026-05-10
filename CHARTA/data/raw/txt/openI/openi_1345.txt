@@ -1,0 +1,16 @@
+UID: 1393
+
+INDICATION:
+Endstage renal disease. History of testicular carcinoma.
+
+FINDINGS:
+Right central venous line has been removed. Heart size and pulmonary vascularity appear within normal limits. A few bandlike opacities are present at the lateral left base. The appearance XXXX scarring or atelectasis. No focal airspace disease is seen. No discrete nodules are identified. No pneumothorax or pleural effusion is seen.
+
+IMPRESSION:
+1. XXXX opacities at the lateral left base. The appearance XXXX atelectasis.
+
+PROBLEMS:
+Opacity;Cicatrix;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/base/left;Cicatrix/lung/base/left;Pulmonary Atelectasis/base/left

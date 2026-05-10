@@ -1,0 +1,16 @@
+UID: 2307
+
+INDICATION:
+COPD XXXX preop evaluation for lung transplant
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are hyperinflated with XXXX XXXX opacities compatible with pleural-parenchymal scarring. There is no acute infiltrate or effusion.
+
+IMPRESSION:
+Emphysema and scarring without acute disease
+
+PROBLEMS:
+Lung;Opacity;Cicatrix;Cicatrix;Emphysema
+
+MESH:
+Lung/hyperdistention;Opacity/multiple;Cicatrix/lung;Cicatrix/pleura;Emphysema

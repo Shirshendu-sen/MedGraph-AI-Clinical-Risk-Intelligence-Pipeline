@@ -1,0 +1,16 @@
+UID: 123
+
+INDICATION:
+Frequent XXXX.
+
+FINDINGS:
+Mild cardiomegaly. Tortuous aorta. No focal infiltrate. No pneumothorax or large pleural effusion. Soft tissue density identified in the medial right apex which is asymmetric compared to left.
+
+IMPRESSION:
+Asymmetric right medial apical opacity which may be attributable to the sternoclavicular joint. Upper lobe airspace disease or pulmonary nodule is not entirely excluded. Recommend XXXX XXXX chest and apical lordotic view of the chest to further evaluate. Findings and recommendations were discussed XXXX. XXXX in the XXXX department at XXXX a.m. XXXX/XXXX.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Density;Opacity
+
+MESH:
+Cardiomegaly/mild;Aorta/tortuous;Density/lung/apex/right;Opacity/lung/apex/right

@@ -1,0 +1,16 @@
+UID: 956
+
+INDICATION:
+VSD
+
+FINDINGS:
+Status post posterior spinal fusion with stable appearance of the orthopedic XXXX. Pectus carinatum. Stable mild cardiomegaly and increased lung vascularity. Clear lungs.
+
+IMPRESSION:
+Stable mild cardiomegaly and increased lung vascularity. Clear lungs.
+
+PROBLEMS:
+Spinal Fusion;Pectus Carinatum;Cardiomegaly;Pulmonary Congestion
+
+MESH:
+Spinal Fusion;Pectus Carinatum;Cardiomegaly/mild;Pulmonary Congestion

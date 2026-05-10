@@ -1,0 +1,16 @@
+UID: 953
+
+INDICATION:
+Shortness of breath.
+
+FINDINGS:
+Stable cardiomegaly. Calcified tortuous aorta. No focal air space disease. Stable chronic lung changes. No large pleural effusion or pneumothorax. Diffuse degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Calcinosis;Thoracic Vertebrae
+
+MESH:
+Cardiomegaly;Aorta/tortuous;Calcinosis/aorta;Thoracic Vertebrae/degenerative/diffuse

@@ -1,0 +1,16 @@
+UID: 1276
+
+INDICATION:
+XXXX-year-old male with chest pain and shortness of breath
+
+FINDINGS:
+The heart is normal size. The mediastinum is unremarkable. There is no pleural effusion, pneumothorax, or focal airspace disease. Calcific granulomas are present in the right upper lobe. The XXXX are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/upper lobe/right/multiple

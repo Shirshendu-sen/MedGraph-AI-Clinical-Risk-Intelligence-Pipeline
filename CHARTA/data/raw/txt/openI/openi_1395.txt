@@ -1,0 +1,16 @@
+UID: 1443
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+XXXX XXXX and lateral chest examination was obtained. The heart silhouette is normal in size and contour. Aortic XXXX appear unremarkable. Lungs demonstrate increased interstitial markings probably COPD. There is calcified hilar lymph XXXX. There is no effusion or pneumothorax.
+
+IMPRESSION:
+1. No acute pulmonary disease.
+
+PROBLEMS:
+Markings;Pulmonary Disease, Chronic Obstructive;Calcinosis
+
+MESH:
+Markings/lung/bilateral/interstitial;Pulmonary Disease, Chronic Obstructive;Calcinosis/lung/hilum/lymph nodes

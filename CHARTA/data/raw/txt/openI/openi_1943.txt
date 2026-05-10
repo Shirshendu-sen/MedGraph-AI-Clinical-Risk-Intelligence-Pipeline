@@ -1,0 +1,16 @@
+UID: 2013
+
+INDICATION:
+XXXX-year-old female with XXXX, XXXX, shortness of breath.
+
+FINDINGS:
+Heart size within normal limits. Mild XXXX left upper lobe atelectasis or scarring. No pneumothorax or pleural effusion. Tortuous aorta. Hiatal hernia.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Pulmonary Atelectasis;Cicatrix;Aorta;Hernia, Hiatal
+
+MESH:
+Pulmonary Atelectasis/upper lobe/left/mild;Cicatrix/lung/upper lobe/left/mild;Aorta/tortuous;Hernia, Hiatal

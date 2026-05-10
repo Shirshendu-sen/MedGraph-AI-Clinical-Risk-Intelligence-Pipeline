@@ -1,0 +1,16 @@
+UID: 633
+
+INDICATION:
+XXXX-year-old female with asthma, recent pneumonia
+
+FINDINGS:
+The lungs are clear. There is no focal airspace consolidation. No pleural effusion or pneumothorax. Heart size and mediastinal contour are within normal limits. There are multilevel degenerative changes of the spine.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative/multiple

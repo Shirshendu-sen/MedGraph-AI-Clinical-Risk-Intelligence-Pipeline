@@ -1,0 +1,16 @@
+UID: 2750
+
+INDICATION:
+XXXX, XXXX loss
+
+FINDINGS:
+None
+
+IMPRESSION:
+13 - 14 mm ring-shaped opacity with central lucency, seen with certainty on PA view only, projects over right midlung. Uncertain if this represent something within the lung or external to the patient. There is also a 5 mm nodular opacity projecting over the left upper lung at the level of AP XXXX. These findings could be further evaluated XXXX if clinically indicated. No acute airspace disease. Mediastinal contour normal limits. No effusions.
+
+PROBLEMS:
+Opacity;Lucency;Opacity
+
+MESH:
+Opacity/lung/middle lobe/right/round;Lucency/lung/middle lobe/right/round;Opacity/lung/upper lobe/left/round

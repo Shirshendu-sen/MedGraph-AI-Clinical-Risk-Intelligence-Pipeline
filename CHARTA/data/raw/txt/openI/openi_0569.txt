@@ -1,0 +1,16 @@
+UID: 587
+
+INDICATION:
+XXXX-year-old male suspected pneumonia.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for appearance. No focal areas of pulmonary consolidation. No interval change in the appearance of the XXXX opacities in the bilateral lower lobes. No pneumothorax. No pleural effusion. The thoracic spine appears intact.
+
+IMPRESSION:
+1. No interval change in the appearance of the XXXX opacities in the bilateral lower lobes.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/lower lobe/bilateral

@@ -1,0 +1,16 @@
+UID: 449
+
+INDICATION:
+XXXX-year-old with wheezing.
+
+FINDINGS:
+Cardiac silhouette within normal limits. No edema or airspace consolidation. No pneumothorax. No pleural effusion.
+
+IMPRESSION:
+No evidence of acute cardiopulmonary process.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

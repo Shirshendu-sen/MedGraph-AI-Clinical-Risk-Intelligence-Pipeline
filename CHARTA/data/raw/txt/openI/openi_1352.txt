@@ -1,0 +1,16 @@
+UID: 1400
+
+INDICATION:
+History of sarcoidosis, XXXX, XXXX
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

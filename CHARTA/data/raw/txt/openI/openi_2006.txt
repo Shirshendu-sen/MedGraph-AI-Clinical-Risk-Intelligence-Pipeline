@@ -1,0 +1,16 @@
+UID: 2081
+
+INDICATION:
+XXXX-year-old XXXX with XXXX for 3 weeks, RLL pneumonia
+
+FINDINGS:
+The lungs are well-expanded and clear. No pleural effusion or pneumothorax is seen. The cardiomediastinal contour is normal. No acute osseous lesions are identified.
+
+IMPRESSION:
+No active pulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

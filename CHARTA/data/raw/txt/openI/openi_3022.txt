@@ -1,0 +1,16 @@
+UID: 3148
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Stable cardiomediastinal contour is mild cardiomegaly. No pneumothorax or significant pulmonary edema. Small left pleural effusion. No focal lung consolidation. Mildly low lung volumes.
+
+IMPRESSION:
+1. Small left pleural effusion. 2. Stable mild cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly;Pleural Effusion;Lung
+
+MESH:
+Cardiomegaly/mild;Pleural Effusion/left/small;Lung/hypoinflation/mild

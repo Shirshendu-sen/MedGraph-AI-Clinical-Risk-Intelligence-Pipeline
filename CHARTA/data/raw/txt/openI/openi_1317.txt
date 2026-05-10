@@ -1,0 +1,16 @@
+UID: 1365
+
+INDICATION:
+XXXX-year-old male, XXXX
+
+FINDINGS:
+Heart size within normal limits, stable mediastinal and hilar contours. No alveolar consolidation, no findings of pleural effusion or pulmonary edema. No pneumothorax. Small rounded bilateral axillary densities not seen on the previous exam most suggestive of artifacts, healed right lateral 10th rib fracture noted..
+
+IMPRESSION:
+No acute cardiopulmonary findings
+
+PROBLEMS:
+Fractures, Bone;Density
+
+MESH:
+Fractures, Bone/ribs/right/healed;Density/bilateral/round/small

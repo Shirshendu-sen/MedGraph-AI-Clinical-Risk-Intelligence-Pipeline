@@ -1,0 +1,16 @@
+UID: 546
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+no cardiomegaly with bilateral small pleural effusions. Decubitus x-XXXX XXXX be informative. No evidence of pneumonia, nodules, or masses.
+
+PROBLEMS:
+Pleural Effusion
+
+MESH:
+Pleural Effusion/bilateral/small

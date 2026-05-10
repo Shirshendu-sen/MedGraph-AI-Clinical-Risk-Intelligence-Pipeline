@@ -1,0 +1,46 @@
+MEDICAL TRANSCRIPTION SAMPLE - CARDIOLOGY
+
+Patient Name: [**Last Name**], [**First Name**]
+Medical Record Number: [**MRN**]
+Date of Birth: [**Date**]
+Date of Visit: [**Date**]
+
+CHIEF COMPLAINT:
+Patient presents with chest pain and shortness of breath.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 65-year-old male with a history of HTN, DM, and CAD who presents with substernal chest pain radiating to the left arm. The pain began approximately 2 hours ago while at rest. The patient also reports associated SOB and diaphoresis. He denies any NVD. He has a family history of premature coronary artery disease. His FH is significant for myocardial infarction in his father at age 55.
+
+PAST MEDICAL HISTORY:
+1. Hypertension (HTN) - diagnosed 2005
+2. Diabetes Mellitus (DM) - Type 2, diagnosed 2010
+3. Coronary Artery Disease (CAD) - s/p PCI in 2018
+4. Hyperlipidemia
+5. CKD Stage 3
+
+MEDICATIONS:
+1. Metoprolol 50mg twice daily
+2. Lisinopril 20mg daily
+3. Metformin 1000mg twice daily
+4. Aspirin 81mg daily
+5. Atorvastatin 40mg at bedtime
+
+PHYSICAL EXAMINATION:
+VITAL SIGNS: BP 158/92, HR 98, RR 22, T 98.6F, SpO2 94% on room air.
+GENERAL: Alert and oriented, appears in mild distress.
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs, gallops, or rubs.
+LUNGS: Bilateral crackles at the bases.
+EXTREMITIES: No clubbing, cyanosis, or edema.
+
+ASSESSMENT AND PLAN:
+1. Acute coronary syndrome - Obtain serial troponins, EKG, consider cardiology consult.
+2. HTN - Continue current medications, monitor BP.
+3. DM - Continue current regimen, monitor blood glucose.
+4. CKD - Check renal function panel, adjust medications as needed.
+
+--- Page 2 ---
+
+DISPOSITION:
+Admitted to telemetry floor for monitoring and further workup.
+
+Follow-up: Cardiology clinic in 1 week.

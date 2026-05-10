@@ -1,0 +1,16 @@
+UID: 1076
+
+INDICATION:
+INDICATION: SHORT OF BREATH; -- Admit Comments: UTI PERSISTENT XXXX
+
+FINDINGS:
+There is opacity at posterior aspect of lower chest seen on lateral view which probably represents left lower lobe consolidation. There may also be small bilateral pleural effusion. Upper limits of normal heart size. Mild central vascular prominence. Old fracture deformities of multiple right ribs.
+
+IMPRESSION:
+1. Question of left lower lobe pneumonia and/or pleural effusion. 2. Borderline heart size with mild central vascular congestive changes.
+
+PROBLEMS:
+Opacity;Consolidation;Pulmonary Congestion;Fractures, Bone;Deformity;Cardiomegaly
+
+MESH:
+Opacity/thorax/posterior;Consolidation/lung/lower lobe/left;Pulmonary Congestion/mild;Fractures, Bone/ribs/right/multiple/healed;Deformity/ribs/right/multiple/healed;Cardiomegaly/borderline

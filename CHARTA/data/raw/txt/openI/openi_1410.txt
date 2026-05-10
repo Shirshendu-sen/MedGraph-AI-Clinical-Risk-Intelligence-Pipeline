@@ -1,0 +1,16 @@
+UID: 1458
+
+INDICATION:
+XXXX-year-old female, SOB , dyspnea/drug-induced XXXX, nonsmoker.
+
+FINDINGS:
+Stable cardiomegaly and mediastinal contour. Lungs are clear without focal consolidation, large pleural effusion, or pneumothorax. Left basilar airspace opacity XXXX secondary to epicardial fat and overlying soft tissues. DISH of the thoracic spine is noted. Otherwise, visualized osseous structures are unremarkable.
+
+IMPRESSION:
+Stable cardiomegaly. Clear lungs. .
+
+PROBLEMS:
+Cardiomegaly;Opacity;Epicardial Fat;Hyperostosis, Diffuse Idiopathic Skeletal
+
+MESH:
+Cardiomegaly;Opacity/lung/base/left;Epicardial Fat;Hyperostosis, Diffuse Idiopathic Skeletal/thoracic vertebrae

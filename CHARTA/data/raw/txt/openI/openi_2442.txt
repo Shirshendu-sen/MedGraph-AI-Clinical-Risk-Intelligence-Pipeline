@@ -1,0 +1,16 @@
+UID: 2531
+
+INDICATION:
+XXXX-year-old woman with chest pain..
+
+FINDINGS:
+The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Scattered calcified granulomas noted. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax demonstrate mild multilevel degenerative disc disease of the thoracolumbar spine without acute abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Thoracic Vertebrae;Lumbar Vertebrae
+
+MESH:
+Calcified Granuloma/scattered/multiple;Thoracic Vertebrae/degenerative/multiple/mild;Lumbar Vertebrae/degenerative/multiple/mild

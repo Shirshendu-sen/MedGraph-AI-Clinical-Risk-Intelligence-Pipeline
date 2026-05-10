@@ -1,0 +1,16 @@
+UID: 363
+
+INDICATION:
+XXXX distress
+
+FINDINGS:
+Normal cardiomediastinal contours. No focal consolidation or pleural effusions. No pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

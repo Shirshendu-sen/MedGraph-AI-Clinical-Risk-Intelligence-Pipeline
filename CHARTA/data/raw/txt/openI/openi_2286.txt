@@ -1,0 +1,16 @@
+UID: 2369
+
+INDICATION:
+Abdominal pain and distention.
+
+FINDINGS:
+Frontal and lateral views of the chest show an unchanged cardiomediastinal silhouette. There is bibasal interstitial opacity and left basal platelike opacity XXXX due to discoid atelectasis and/or XXXX scarring. There are emphysematous changes, particularly within the right upper lobe. No XXXX focal airspace consolidation or pleural effusion.
+
+IMPRESSION:
+1. COPD. Basilar probable pulmonary fibrosis and scarring. 2. No acute cardiac or pulmonary disease process identified.
+
+PROBLEMS:
+Opacity;Opacity;Pulmonary Atelectasis;Cicatrix;Pulmonary Emphysema;Pulmonary Disease, Chronic Obstructive;Pulmonary Fibrosis
+
+MESH:
+Opacity/lung/base/bilateral/interstitial;Opacity/lung/base/left;Pulmonary Atelectasis/base/left;Cicatrix/lung/base/left;Pulmonary Emphysema;Pulmonary Disease, Chronic Obstructive;Pulmonary Fibrosis/base

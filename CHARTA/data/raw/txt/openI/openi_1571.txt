@@ -1,0 +1,16 @@
+UID: 1625
+
+INDICATION:
+Ramicade therapy; evaluate for tuberculosis
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. Atherosclerotic calcifications of the aortic XXXX are present. The lungs are clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Atherosclerosis
+
+MESH:
+Atherosclerosis/aorta

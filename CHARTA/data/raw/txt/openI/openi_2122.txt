@@ -1,0 +1,16 @@
+UID: 2202
+
+INDICATION:
+XXXX loss. Atypical tuberculosis infection
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and lungs are clear.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 3608
+
+INDICATION:
+Difficulty breathing for one XXXX. Right lower quadrant pain for 2 months.
+
+FINDINGS:
+Chest: The heart is enlarged. There may be a pericardial effusion. No definite pulmonary edema is seen. Lungs appear clear. There is no pleural effusion. The skeletal structures and soft tissues are unremarkable. KUB XXXX: XXXX single view of the abdomen was obtained. The bowel XXXX pattern is nonspecific. There is no evidence for obstruction or free intraperitoneal air. No large soft tissue masses or organomegaly are identified. The skeletal structures appear normal.
+
+IMPRESSION:
+Chest. 1. Cardiomegaly with possible pericardial effusion. 2. No evidence for pulmonary edema or pneumonitis. KUB. 1. Nonspecific abdomen.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly

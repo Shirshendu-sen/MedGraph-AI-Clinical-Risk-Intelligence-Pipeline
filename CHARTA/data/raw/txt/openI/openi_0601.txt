@@ -1,0 +1,16 @@
+UID: 619
+
+INDICATION:
+XXXX-year-old female with right-sided chest pain and recent XXXX.
+
+FINDINGS:
+There has been interval sternotomy with intact midline sternotomy XXXX. The heart is near top normal in size with unfolding of the aorta. The lungs are grossly clear with no focal airspace opacity, pleural effusion, or pneumothorax. The osseous structures are grossly normal.
+
+IMPRESSION:
+Cardiomegaly, however no acute cardiopulmonary findings.
+
+PROBLEMS:
+Aorta;Cardiomegaly
+
+MESH:
+Aorta/tortuous;Cardiomegaly

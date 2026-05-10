@@ -1,0 +1,16 @@
+UID: 3342
+
+INDICATION:
+growing Pseudomonas, on XXXX XXXX
+
+FINDINGS:
+The patchy right lower lobe and left lower lobe interstitial infiltrates are largely unchanged in the interval. No XXXX infiltrates. Heart size remains large. Tracheostomy tube remains in the trachea. A right central line has its tip at the superior XXXX XXXX.
+
+IMPRESSION:
+Persistent cardiomegaly and patchy bibasilar interstitial disease.
+
+PROBLEMS:
+Infiltrate;Cardiomegaly;Tube, Inserted;Catheters, Indwelling;Lung Diseases, Interstitial
+
+MESH:
+Infiltrate/lung/lower lobe/bilateral/interstitial/patchy;Cardiomegaly;Tube, Inserted/trachea;Catheters, Indwelling/right;Lung Diseases, Interstitial/base/bilateral/patchy

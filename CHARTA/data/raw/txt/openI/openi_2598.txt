@@ -1,0 +1,16 @@
+UID: 2696
+
+INDICATION:
+XXXX-year-old male. Left shoulder pain. Hypertension.
+
+FINDINGS:
+Apparent cardiomegaly XXXX at XXXX partially accentuated by low lung volumes. Relative elevation right hemidiaphragm. Streaky left retrocardiac densities. No pneumothorax or large pleural effusion. Surgical clips near the gastroesophageal junction. Negative for acute bone abnormality.
+
+IMPRESSION:
+1. Cardiomegaly without heart failure. 2. Low lung findings. Left retrocardiac opacities, XXXX subsegmental atelectasis.
+
+PROBLEMS:
+Cardiomegaly;Lung;Diaphragm;Density;Surgical Instruments;Pulmonary Atelectasis;Opacity
+
+MESH:
+Cardiomegaly;Lung/hypoinflation;Diaphragm/right/elevated;Density/left/retrocardiac/streaky;Surgical Instruments;Pulmonary Atelectasis;Opacity/left/retrocardiac

@@ -1,0 +1,16 @@
+UID: 1559
+
+INDICATION:
+Shortness of breath, chest pain, productive XXXX.
+
+FINDINGS:
+Stable cardiomediastinal silhouette. Right hilar surgical clips. Stable right-sided volume loss. Increasing density in the superior segment of the left lower lobe, XXXX seen on lateral view. No pneumothorax. Severe degenerative disease of the XXXX.
+
+IMPRESSION:
+Increasing density in the superior segment XXXX the left lower lobe, XXXX seen on lateral view, consistent worsening of known tumor.
+
+PROBLEMS:
+Surgical Instruments;Volume Loss;Density
+
+MESH:
+Surgical Instruments/lung/hilum/right;Volume Loss/lung/right;Density/lung/lower lobe/left

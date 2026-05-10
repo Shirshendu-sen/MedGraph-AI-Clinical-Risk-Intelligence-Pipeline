@@ -1,0 +1,16 @@
+UID: 2336
+
+INDICATION:
+XXXX-year-old male with dyspnea
+
+FINDINGS:
+Lungs are hyperinflated but clear. No focal infiltrate or effusion. Heart and mediastinal contours within normal limits. Calcified mediastinal XXXX identified.
+
+IMPRESSION:
+Hyperinflated but clear lungs.
+
+PROBLEMS:
+Lung;Calcinosis
+
+MESH:
+Lung/hyperdistention;Calcinosis/mediastinum

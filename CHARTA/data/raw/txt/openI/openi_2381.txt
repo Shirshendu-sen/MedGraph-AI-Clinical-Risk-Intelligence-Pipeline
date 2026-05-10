@@ -1,0 +1,16 @@
+UID: 2467
+
+INDICATION:
+This is a XXXX-year-old woman with chest pain. History of recent pneumomediastinum.
+
+FINDINGS:
+Negative for cardiac enlargement. Negative for vascular congestion. There are several small circular opacities in the right upper lung, some of which are centrally lucent. Negative for bony abnormality.
+
+IMPRESSION:
+Multiple round opacities in the right upper lobe measuring up to 7 mm. Exact etiology of these is unclear.
+
+PROBLEMS:
+Opacity;Lucency
+
+MESH:
+Opacity/lung/upper lobe/right/round/multiple/small;Lucency/lung/upper lobe/right/round/multiple/small

@@ -1,0 +1,16 @@
+UID: 177
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+The heart size is enlarged. The mediastinal contour is within normal limits. Calcification is seen within the aortic XXXX. XXXX interstitial opacities. There are no nodules or masses. Stable appearing right perihilar calcified granulomas. No visible pneumothorax. Bilateral costophrenic XXXX blunting, left worse than right. The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm.
+
+IMPRESSION:
+1. Cardiomegaly with bilateral interstitial opacities. 2. Bilateral effusions and/or atelectasis, right worse than left.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Pulmonary Atelectasis;Calcinosis;Calcified Granuloma;Costophrenic Angle;Pleural Effusion
+
+MESH:
+Cardiomegaly;Opacity/lung/bilateral/interstitial;Pulmonary Atelectasis/bilateral;Calcinosis/aorta;Calcified Granuloma/lung/hilum/right;Costophrenic Angle/bilateral/blunted;Pleural Effusion/bilateral

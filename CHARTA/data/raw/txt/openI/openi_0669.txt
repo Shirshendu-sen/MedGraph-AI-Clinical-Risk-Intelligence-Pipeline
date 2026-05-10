@@ -1,0 +1,16 @@
+UID: 689
+
+INDICATION:
+cig XXXX and wt loss
+
+FINDINGS:
+Three noncalcified lung nodules are present in the left lower lobe. The largest measures 3.5 mm in diameter. Another nodule is present near the right hilum. It is approximately 2 cm in diameter. The XXXX and mediastinum appear normal. Heart size normal.
+
+IMPRESSION:
+Multiple nodules in both the left and right lungs consistent with neoplasm. Further workup could be initiated with contrasted CT of the chest, abdomen, and pelvis. Dr. XXXX XXXX I discussed the findings and further workup suggestions by telephone approximately XXXX hours XXXX, XXXX.
+
+PROBLEMS:
+Nodule;Nodule;Nodule
+
+MESH:
+Nodule/lung/lower lobe/left/multiple;Nodule/lung/hilum/right;Nodule/lung/right/multiple

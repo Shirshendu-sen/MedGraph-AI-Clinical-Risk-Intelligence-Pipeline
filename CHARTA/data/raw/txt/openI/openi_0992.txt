@@ -1,0 +1,16 @@
+UID: 1025
+
+INDICATION:
+XXXX-year-old female. Pain. Emesis.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Calcified granuloma, right base. Normal XXXX.
+
+IMPRESSION:
+Negative for acute abnormality.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/base/right

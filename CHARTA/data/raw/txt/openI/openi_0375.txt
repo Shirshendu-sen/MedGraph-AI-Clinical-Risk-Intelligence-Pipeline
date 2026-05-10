@@ -1,0 +1,16 @@
+UID: 389
+
+INDICATION:
+XXXX-year-old female with shortness of breath
+
+FINDINGS:
+Cardiac and mediastinal contours are unremarkable. Pulmonary vascularity is within normal limits. No focal air space opacities, pleural effusion, or pneumothorax. There is a stable calcified granuloma in the right lower lobe. A hiatal hernia is present that is unchanged from the prior study. XXXX are grossly unremarkable.
+
+IMPRESSION:
+1. Clear lungs. 2. Stable hiatal hernia.
+
+PROBLEMS:
+Calcified Granuloma;Hernia, Hiatal
+
+MESH:
+Calcified Granuloma/lung/lower lobe/right;Hernia, Hiatal

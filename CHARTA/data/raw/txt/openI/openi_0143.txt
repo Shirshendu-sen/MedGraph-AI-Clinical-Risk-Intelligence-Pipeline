@@ -1,0 +1,16 @@
+UID: 146
+
+INDICATION:
+Mental status changes, and hospice for multiple myeloma
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size and mediastinal contour are stable and within normal limits allowing for rotation. Pulmonary vascularity is normal.&gt;] Lung volumes are low. No focal airspace disease or effusion. Expansile lesion of the right posterior 9th rib XXXX represents sequelae of known multiple myeloma.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Lung;Expansile Bone Lesions
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Lung/hypoinflation;Expansile Bone Lesions/ribs/right

@@ -1,0 +1,16 @@
+UID: 2455
+
+INDICATION:
+lung cancer preop
+
+FINDINGS:
+None
+
+IMPRESSION:
+3 cm right upper lobe anterior segment mass. No effusion. No adenopathy. CT scan is the XXXX XXXX to determine if there is any mediastinal adenopathy. No bony abnormalities.
+
+PROBLEMS:
+Mass
+
+MESH:
+Mass/lung/upper lobe/right/anterior

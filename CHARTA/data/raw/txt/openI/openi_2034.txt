@@ -1,0 +1,16 @@
+UID: 2112
+
+INDICATION:
+XXXX-year-old male. Right lateral/mid chest wall pain.
+
+FINDINGS:
+There is 1.9 cm interruption of the tunneled left central venous catheter, at the level of the overlap of the clavicle and first rib. Catheter tip may be within the proximal SVC or azygos vein. Normal heart size. XXXX left perihilar and midlung densities. No pneumothorax or large pleural effusion.
+
+IMPRESSION:
+1. Left central venous catheter fracture at the level of the overlap of the clavicle and first rib. Distal catheter tip may be within the azygos vein. 2. Similar-appearing left midlung scarring.
+
+PROBLEMS:
+Catheters, Indwelling;Density;Density;Cicatrix;Catheters, Indwelling
+
+MESH:
+Catheters, Indwelling/left;Density/lung/hilum/left;Density/lung/lingula;Cicatrix/lung/lingula;Catheters, Indwelling/left

@@ -1,0 +1,16 @@
+UID: 2170
+
+INDICATION:
+XXXX XXXX BMT W/U LAB;
+
+FINDINGS:
+None
+
+IMPRESSION:
+Comparison XXXX Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified. Stable chest.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

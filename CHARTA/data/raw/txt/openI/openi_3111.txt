@@ -1,0 +1,16 @@
+UID: 3238
+
+INDICATION:
+abd pain, rales at right base
+
+FINDINGS:
+The heart is normal in size. The mediastinal contours are within normal limits. Aorta is mildly tortuous and demonstrates atherosclerotic calcifications. The lungs are mildly hypoinflated with increased peripheral lung markings noted predominantly in the right upper and lower lung. There is no acute infiltrate or significant pleural effusion. Mild eventration of left hemidiaphragm is noted.
+
+IMPRESSION:
+Scattered XXXX opacities may be secondary to scarring and underlying emphysematous changes versus mild interstitial lung disease. No acute infiltrate.
+
+PROBLEMS:
+Aorta;Atherosclerosis;Lung;Markings;Markings;Diaphragmatic Eventration;Opacity
+
+MESH:
+Aorta/tortuous/mild;Atherosclerosis/aorta;Lung/hypoinflation/mild;Markings/lung/upper lobe/right;Markings/lung/lower lobe/right;Diaphragmatic Eventration/left/mild;Opacity/thorax/scattered

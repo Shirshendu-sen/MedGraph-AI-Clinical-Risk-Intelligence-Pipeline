@@ -1,0 +1,16 @@
+UID: 1210
+
+INDICATION:
+XXXX-year-old with scheduled hip replacement. Surgical XXXX radiographs.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There mild degenerative changes of the thoracic spine. There is a slight XXXX deformity of the lower thoracic body which is age-indeterminate.
+
+IMPRESSION:
+Age-indeterminate lower thoracic slight XXXX deformity otherwise negative exam.
+
+PROBLEMS:
+Deformity;Thoracic Vertebrae
+
+MESH:
+Deformity/thoracic vertebrae/mild;Thoracic Vertebrae/degenerative/mild

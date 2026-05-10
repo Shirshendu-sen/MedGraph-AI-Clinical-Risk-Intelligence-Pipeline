@@ -1,0 +1,16 @@
+UID: 2178
+
+INDICATION:
+History of prostate cancer rule out metastasis
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear. No nodules or masses. No adenopathy or effusion. Stable slightly sclerotic posterior inferior XXXX of one of the midthoracic vertebral bodies, seen on the lateral radiograph only. This most XXXX represents overlying degenerative spurring XXXX than metastasis.
+
+PROBLEMS:
+Sclerosis;Osteophyte
+
+MESH:
+Sclerosis/thoracic vertebrae/mild;Osteophyte/thoracic vertebrae/degenerative

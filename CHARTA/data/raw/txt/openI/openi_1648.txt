@@ -1,0 +1,16 @@
+UID: 1704
+
+INDICATION:
+XXXX-XXXX placement. PICC placement.
+
+FINDINGS:
+There is blunting of the left costophrenic XXXX compatible with a moderate to large left pleural fluid collection. There are areas of airspace opacity within the left lung base which may represent atelectasis or infiltrate. Minimal bandlike atelectasis within the right lung base. Heart size is normal. Left-sided tunneled catheter terminates at the caval atrial junction. Right IJ venous catheter terminates at the proximal SVC.
+
+IMPRESSION:
+Lines and tubes as above. Moderate-to-large left pleural effusion, with adjacent airspace disease or atelectasis.
+
+PROBLEMS:
+Costophrenic Angle;Pleural Effusion;Opacity;Pulmonary Atelectasis;Catheters, Indwelling;Pulmonary Atelectasis;Airspace Disease
+
+MESH:
+Costophrenic Angle/left/blunted;Pleural Effusion/left/large;Opacity/lung/base/left;Pulmonary Atelectasis/base/right/mild;Catheters, Indwelling/bilateral;Pulmonary Atelectasis/left;Airspace Disease/lung/left

@@ -1,0 +1,16 @@
+UID: 3676
+
+INDICATION:
+XXXX-year-old male with XXXX.
+
+FINDINGS:
+The cardiomediastinal silhouette appears irregular secondary to the diffuse bilateral pulmonary interstitial disease. The thoracic aorta is tortuous. Calcified lymph XXXX are demonstrated in the left hilum. No focal pulmonary consolidation. Diffuse increased bilateral pulmonary interstitial markings, consistent with the patient's history of known pulmonary fibrosis, with relative sparing of the bilateral lung apices. No pneumothorax or pleural effusion demonstrated. The thoracic spine appears intact.
+
+IMPRESSION:
+1. Redemonstration of diffuse bilateral pulmonary fibrosis with relative sparing of the bilateral lung apices. No focal pulmonary consolidation. .
+
+PROBLEMS:
+Cardiac Shadow;Lung Diseases, Interstitial;Aorta, Thoracic;Calcinosis;Markings;Pulmonary Fibrosis
+
+MESH:
+Cardiac Shadow/irregular;Lung Diseases, Interstitial/bilateral/diffuse;Aorta, Thoracic/tortuous;Calcinosis/lung/hilum/lymph nodes/left;Markings/lung/bilateral/interstitial/diffuse;Pulmonary Fibrosis/bilateral/diffuse

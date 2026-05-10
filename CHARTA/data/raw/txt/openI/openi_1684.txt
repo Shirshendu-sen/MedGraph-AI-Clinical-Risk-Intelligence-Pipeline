@@ -1,0 +1,16 @@
+UID: 1740
+
+INDICATION:
+XXXX, shortness of breath, history of pneumonia 6 months ago.
+
+FINDINGS:
+Frontal and lateral views of the chest show an unchanged cardiomediastinal silhouette. There is XXXX airspace opacity in the mid right lung radiating from the right hilum to the pleura and bordered inferiorly by the fissures. The XXXX fissure is convex upward. There is right base patchy airspace opacity. This appears chronic and may be due to scarring. There is no significant pleural effusion.
+
+IMPRESSION:
+Right upper lobe airspace consolidation Please correlate clinically for pneumonia.
+
+PROBLEMS:
+Opacity;Opacity;Consolidation
+
+MESH:
+Opacity/lung/middle lobe/right;Opacity/lung/base/right/patchy;Consolidation/lung/upper lobe/right

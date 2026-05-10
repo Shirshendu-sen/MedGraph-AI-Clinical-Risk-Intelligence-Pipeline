@@ -1,0 +1,16 @@
+UID: 1541
+
+INDICATION:
+Difficulty breathing
+
+FINDINGS:
+None
+
+IMPRESSION:
+Borderline cardiac enlargement. Vascular congestion without overt pulmonary edema. Basilar atelectasis with XXXX posterior recess pleural effusions. Overall, findings of mild volume overload.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Pulmonary Atelectasis;Pleural Effusion
+
+MESH:
+Cardiomegaly/borderline;Pulmonary Congestion;Pulmonary Atelectasis/base;Pleural Effusion/posterior

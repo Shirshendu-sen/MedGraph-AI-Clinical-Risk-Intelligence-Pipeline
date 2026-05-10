@@ -1,0 +1,16 @@
+UID: 3535
+
+INDICATION:
+INDICATION: PAIN; coming to xray XXXX scan.
+
+FINDINGS:
+The lungs are clear. The heart and pulmonary XXXX are normal. Pleural spaces are clear. Mediastinal contours are normal.
+
+IMPRESSION:
+No acute cardiopulmonary disease
+
+PROBLEMS:
+normal
+
+MESH:
+normal

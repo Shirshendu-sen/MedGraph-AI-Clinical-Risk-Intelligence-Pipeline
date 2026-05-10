@@ -1,0 +1,16 @@
+UID: 1803
+
+INDICATION:
+tuberculosis positive PPD
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear. No evidence of tuberculosis. Mildly prominent ascending aorta with calcification of aortic XXXX question hypertension.
+
+PROBLEMS:
+Aorta, Thoracic;Calcinosis
+
+MESH:
+Aorta, Thoracic/prominent/mild;Calcinosis/aorta

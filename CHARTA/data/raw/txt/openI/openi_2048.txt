@@ -1,0 +1,16 @@
+UID: 2126
+
+INDICATION:
+Status post cardiac valve replacement and CABG.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Interval improvement/resolution right patchy lateral base opacity. There is continued XXXX density in the right lateral and left base of the chest with minimal tenting of the lateral right hemidiaphragm . Costophrenic XXXX blunting may persist but the left costophrenic XXXX is clipped from view. There is a right middle base calcific nodular density XXXX from old granulomatous disease. Mild left apical pleural thickening. XXXX XXXX and valve XXXX. Probable prominent epicardial fat pads on either side. Thoracic spine DISH.
+
+PROBLEMS:
+Density;Density;Diaphragm;Costophrenic Angle;Technical Quality of Image Unsatisfactory ;Calcinosis;Density;Granulomatous Disease;Thickening;Epicardial Fat;Hyperostosis, Diffuse Idiopathic Skeletal
+
+MESH:
+Density/thorax/right;Density/thorax/base/left;Diaphragm/right/elevated/mild;Costophrenic Angle/left/obscured;Technical Quality of Image Unsatisfactory ;Calcinosis/lung/middle lobe/right/round;Density/lung/middle lobe/right/round;Granulomatous Disease;Thickening/pleura/apex/left/mild;Epicardial Fat/bilateral/prominent;Hyperostosis, Diffuse Idiopathic Skeletal/thoracic vertebrae

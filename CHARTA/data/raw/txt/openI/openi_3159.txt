@@ -1,0 +1,16 @@
+UID: 3287
+
+INDICATION:
+Abnormal findings of previous studies XXXX in XXXX.
+
+FINDINGS:
+Heart size and mediastinal contour normal. There is a 2.5 cm vague nodular density in the right mid lung, probably within the middle lobe given the opacification on the lateral view. There is a subtle left retrocardiac density also noted, with obscuration of aortic contour. No pleural effusions or pneumothorax.
+
+IMPRESSION:
+Right midlung and left basilar airspace densities. The most recent study is not available for comparison. Recommend further evaluation with XXXX.
+
+PROBLEMS:
+Density;Aorta;Density
+
+MESH:
+Density/lung/middle lobe/right/round;Aorta/obscured;Density/lung/base/left/retrocardiac

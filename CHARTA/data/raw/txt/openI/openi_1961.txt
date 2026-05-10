@@ -1,0 +1,16 @@
+UID: 2031
+
+INDICATION:
+XXXX-year-old XXXX with pulmonary nodule
+
+FINDINGS:
+Heart size within normal limits. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax. No pulmonary nodules identified.
+
+IMPRESSION:
+No acute abnormality. No pulmonary nodule identified. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

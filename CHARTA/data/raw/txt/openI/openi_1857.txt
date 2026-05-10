@@ -1,0 +1,16 @@
+UID: 1921
+
+INDICATION:
+COPD
+
+FINDINGS:
+Redemonstration of moderately-inflated lungs, consistent with COPD and unchanged. Atherosclerotic calcifications of the thoracic XXXX seen. No airspace disease, effusion or noncalcified nodule. Normal heart size and mediastinum. Visualized XXXX of the chest XXXX are within normal limits.
+
+IMPRESSION:
+Moderately hyperinflated lung XXXX, otherwise no acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Pulmonary Disease, Chronic Obstructive;Lung;Atherosclerosis
+
+MESH:
+Pulmonary Disease, Chronic Obstructive;Lung/hyperdistention/moderate;Atherosclerosis/aorta, thoracic

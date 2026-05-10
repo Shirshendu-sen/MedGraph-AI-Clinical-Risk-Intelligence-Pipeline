@@ -1,0 +1,16 @@
+UID: 327
+
+INDICATION:
+XXXX, XXXX pain, XXXX.
+
+FINDINGS:
+There is stable, mild cardiomegaly with normal caliber pulmonary vasculature. There are grossly intact XXXX sternotomy XXXX and mediastinal surgical clips. There is no focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.
+
+IMPRESSION:
+Stable chronic changes. No acute findings. .
+
+PROBLEMS:
+Cardiomegaly;Surgical Instruments
+
+MESH:
+Cardiomegaly/mild;Surgical Instruments/mediastinum

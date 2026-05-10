@@ -1,0 +1,16 @@
+UID: 3582
+
+INDICATION:
+Hemoptysis.
+
+FINDINGS:
+Heart size is normal. The lungs are clear. There is no pneumothorax or large pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

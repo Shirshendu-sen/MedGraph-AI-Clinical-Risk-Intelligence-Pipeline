@@ -1,0 +1,16 @@
+UID: 1156
+
+INDICATION:
+Ingestion
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size at upper limits normal. Mediastinal silhouette otherwise, and pulmonary vascularity are within normal limits. The lungs are clear. There is no pleural effusion or pneumothorax.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

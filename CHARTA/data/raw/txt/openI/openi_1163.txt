@@ -1,0 +1,16 @@
+UID: 1204
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+PA and lateral views the chest were obtained. Heart size is upper limits normal or mildly enlarged. The thoracic aorta is mildly tortuous. Pulmonary XXXX are within normal limits. No pneumothorax, pleural effusion, or focal air space consolidation.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Cardiomegaly;Aorta, Thoracic
+
+MESH:
+Cardiomegaly/mild;Aorta, Thoracic/tortuous/mild

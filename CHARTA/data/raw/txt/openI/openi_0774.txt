@@ -1,0 +1,16 @@
+UID: 797
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+The heart size is enlarged. Tortuous aorta. Otherwise the mediastinal contour is within normal limits. The lungs are free of any focal infiltrates. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm.
+
+IMPRESSION:
+1. Cardiomegaly without lung infiltrates.
+
+PROBLEMS:
+Cardiomegaly;Aorta
+
+MESH:
+Cardiomegaly;Aorta/tortuous

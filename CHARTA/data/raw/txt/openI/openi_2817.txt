@@ -1,0 +1,16 @@
+UID: 2936
+
+INDICATION:
+XXXX-year-old with chest pain intermittently over the XXXX 3 months with dizziness.
+
+FINDINGS:
+The heart size is mildly enlarged. The pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There is a moderate sized hiatal hernia. There mild degenerative changes of the spine.
+
+IMPRESSION:
+Cardiomegaly and hiatal hernia without an acute abnormality identified.
+
+PROBLEMS:
+Cardiomegaly;Hernia, Hiatal;Spine
+
+MESH:
+Cardiomegaly/mild;Hernia, Hiatal/moderate;Spine/degenerative/mild

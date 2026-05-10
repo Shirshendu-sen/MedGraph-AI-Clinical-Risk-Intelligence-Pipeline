@@ -1,0 +1,16 @@
+UID: 2296
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+The heart is normal in size with normal appearance of the cardiomediastinal silhouette. There is a hiatal hernia with soft tissue projecting behind the mediastinum. The lungs are clear without focal airspace opacity, pleural effusion, pneumothorax. The osseous structures are intact.
+
+IMPRESSION:
+1. No acute cardiopulmonary finding. 2. Hiatal hernia.
+
+PROBLEMS:
+Hernia, Hiatal
+
+MESH:
+Hernia, Hiatal

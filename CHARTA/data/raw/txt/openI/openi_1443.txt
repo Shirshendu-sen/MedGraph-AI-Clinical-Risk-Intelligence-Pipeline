@@ -1,0 +1,16 @@
+UID: 1493
+
+INDICATION:
+History of dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable chest. Elevated left diaphragm. Two bullets overlie the left chest. Heart size normal. Persistent 1.8 cm right midlung nodule without definite calcification. CT scan may be informative if patient is at high XXXX for lung cancer.
+
+PROBLEMS:
+Diaphragm;Foreign Bodies;Nodule
+
+MESH:
+Diaphragm/left/elevated;Foreign Bodies/thorax/left;Nodule/lung/middle lobe/right

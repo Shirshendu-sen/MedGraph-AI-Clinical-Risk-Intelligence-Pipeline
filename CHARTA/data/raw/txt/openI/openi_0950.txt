@@ -1,0 +1,16 @@
+UID: 983
+
+INDICATION:
+Blood in stool, chest pain.
+
+FINDINGS:
+Normal heart size and mediastinal contours. There are reticular opacities in the medial right middle lobe with tubular airway ectasia which obscures the right heart XXXX. This was present previously and is most compatible with bronchiectasis. There is no XXXX focal airspace disease. No pneumothorax or pleural effusion. Unremarkable XXXX.
+
+IMPRESSION:
+1. No acute cardiopulmonary process. 2. Stable right middle lobe bronchiectasis, XXXX postinfectious/postinflammatory. .
+
+PROBLEMS:
+Opacity;Bronchiectasis;Heart
+
+MESH:
+Opacity/lung/middle lobe/right/reticular;Bronchiectasis/middle lobe/right;Heart/right/obscured

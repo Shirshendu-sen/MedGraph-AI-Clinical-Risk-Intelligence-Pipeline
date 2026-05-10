@@ -1,0 +1,16 @@
+UID: 976
+
+INDICATION:
+chest pain
+
+FINDINGS:
+Lung volumes are low. No infiltrates in the lungs. No pleural air collections. Sternotomy sutures and bypass graft markers are present. Heart size normal.
+
+IMPRESSION:
+Postoperative chest. Hypoinflation with no visible active cardiopulmonary disease.
+
+PROBLEMS:
+Lung;Surgical Instruments
+
+MESH:
+Lung/hypoinflation;Surgical Instruments

@@ -1,0 +1,16 @@
+UID: 3316
+
+INDICATION:
+XXXX-year-old female with COPD and worsening dyspnea.
+
+FINDINGS:
+Heart size is normal. No focal airspace disease. Emphysema. Bibasilar pleural scarring. No pneumothorax or effusion.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+Emphysema;Cicatrix
+
+MESH:
+Emphysema;Cicatrix/pleura/base/bilateral

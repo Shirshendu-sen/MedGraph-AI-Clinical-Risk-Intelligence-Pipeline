@@ -1,0 +1,16 @@
+UID: 1026
+
+INDICATION:
+,486,V76.12 PNEUMONIA CXR
+
+FINDINGS:
+The lungs appear clear. The heart and pulmonary XXXX appear normal. The pleural spaces are clear. Mediastinal contours are normal.
+
+IMPRESSION:
+No acute cardiopulmonary disease
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 2608
+
+INDICATION:
+XXXX XXXX F with dyspnea and CHF exacerbation
+
+FINDINGS:
+Consolidation and costophrenic XXXX blunting persists in both lower lobes. Heart and pulmonary XXXX remain normal. No XXXX infiltrates.
+
+IMPRESSION:
+Persistent bibasilar airspace disease and bilateral pleural fluid.
+
+PROBLEMS:
+Consolidation;Costophrenic Angle;Airspace Disease;Pleural Effusion
+
+MESH:
+Consolidation/lung/lower lobe/bilateral;Costophrenic Angle/lower lobe/bilateral/blunted;Airspace Disease/lung/base/bilateral;Pleural Effusion/bilateral

@@ -1,0 +1,16 @@
+UID: 1538
+
+INDICATION:
+XXXX-year-old male, hypertension, chest pain.
+
+FINDINGS:
+Normal heart size is prominent left ventricular contour. Unfolding of the thoracic aorta. No focal airspace consolidation. No pleural effusion or pneumothorax. Visualized osseous structures are unremarkable appearance.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Heart Ventricles;Aorta, Thoracic
+
+MESH:
+Heart Ventricles/left/prominent;Aorta, Thoracic/tortuous

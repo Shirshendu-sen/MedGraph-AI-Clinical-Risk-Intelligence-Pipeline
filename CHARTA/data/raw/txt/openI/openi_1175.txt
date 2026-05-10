@@ -1,0 +1,16 @@
+UID: 1217
+
+INDICATION:
+XXXX;
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are hypoinflated with blunted costophrenic XXXX. No focal consolidation is seen.
+
+IMPRESSION:
+No acute infiltrate.
+
+PROBLEMS:
+Lung;Costophrenic Angle
+
+MESH:
+Lung/hypoinflation;Costophrenic Angle/blunted

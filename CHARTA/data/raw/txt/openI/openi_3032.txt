@@ -1,0 +1,16 @@
+UID: 3158
+
+INDICATION:
+Hypertension, shortness of breath.
+
+FINDINGS:
+Cardiomegaly is present. The pulmonary vascularity appears within normal limits. Some scattered XXXX opacities are present whose appearance XXXX scarring or atelectasis. No focal airspace disease is seen. No pleural effusion is noted. No pneumothorax is identified. The left hemidiaphragm is elevated. Scoliosis is present involving the lumbar spine. There has been previous surgical resection of the left 6th rib.
+
+IMPRESSION:
+1. Cardiomegaly without overt heart failure. 2. Continued elevation of the left hemidiaphragm. 3. Scattered XXXX of left base scarring/atelectasis.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Cicatrix;Pulmonary Atelectasis;Diaphragm;Scoliosis;Deformity
+
+MESH:
+Cardiomegaly;Opacity/lung/base/left/scattered;Cicatrix/lung/base/left;Pulmonary Atelectasis/base/left;Diaphragm/left/elevated;Scoliosis/lumbar vertebrae;Deformity/ribs/left

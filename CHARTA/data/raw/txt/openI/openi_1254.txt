@@ -1,0 +1,16 @@
+UID: 1301
+
+INDICATION:
+XXXX-year-old male, hypoxia
+
+FINDINGS:
+Heart size within normal limits, stable mediastinal and hilar contours, mediastinal calcifications suggest a previous granulomatous process. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/mediastinum

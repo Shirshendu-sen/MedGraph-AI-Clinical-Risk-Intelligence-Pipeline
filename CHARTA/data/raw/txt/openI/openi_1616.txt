@@ -1,0 +1,16 @@
+UID: 1671
+
+INDICATION:
+XXXX-year-old male, tobacco use. Scheduled for melanoma surgery.
+
+FINDINGS:
+Heart size and mediastinal contours are within normal limits. There is no pneumothorax, pleural effusion, focal airspace consolidation.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

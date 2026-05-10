@@ -1,0 +1,16 @@
+UID: 3909
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. Right chest XXXX tip in the low SVC. Right granulomatous disease. The lungs are clear. Bony structures are intact.
+
+IMPRESSION:
+No acute findings.
+
+PROBLEMS:
+Catheters, Indwelling;Granulomatous Disease
+
+MESH:
+Catheters, Indwelling/right;Granulomatous Disease/right

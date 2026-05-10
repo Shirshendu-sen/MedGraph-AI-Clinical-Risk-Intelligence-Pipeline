@@ -1,0 +1,16 @@
+UID: 403
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+Heart size within normal limits. No focal airspace disease. No pneumothorax. No effusions. Multiple old right-sided rib fractures again noted.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Fractures, Bone
+
+MESH:
+Fractures, Bone/ribs/right/multiple/healed

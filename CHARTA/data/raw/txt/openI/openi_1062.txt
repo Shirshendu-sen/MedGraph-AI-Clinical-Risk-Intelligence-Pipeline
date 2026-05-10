@@ -1,0 +1,16 @@
+UID: 1097
+
+INDICATION:
+XXXX onset shortness of breath. Hypoxia with oxygen saturation at 79% on room air. 98% on 6 liters.
+
+FINDINGS:
+Heart size and mediastinal contours are within normal limits. Diffuse bilateral calcified sequelae of prior granulomatous infection. No pulmonary vascular congestion. No XXXX edema. No focal consolidation. There is no visible pleural effusion or pneumothorax. There is mild anterior wedging of a lower thoracic vertebral body, approximately T11 level.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Mild age indeterminate anterior wedging at the T11 level.
+
+PROBLEMS:
+Granulomatous Disease;Calcinosis;Deformity
+
+MESH:
+Granulomatous Disease;Calcinosis/bilateral/diffuse;Deformity/thoracic vertebrae/anterior/mild

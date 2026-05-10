@@ -1,0 +1,16 @@
+UID: 3502
+
+INDICATION:
+XXXX-year-old XXXX with dyspnea on exertion, XXXX. XXXX..
+
+FINDINGS:
+There has been interval performance of CABG with multiple XXXX sternotomy XXXX, surgical clips, and CABG markers. All of the XXXX sternotomy XXXX are broken, and a fragment at a sternotomy XXXX appears to XXXX within the left posterior pleural space. Stable cardiomegaly and central pulmonary vascular prominence. No focal consolidation, pneumothorax, or effusion. Relative elevation of the left hemidiaphragm noted. No acute bony abnormality.
+
+IMPRESSION:
+Cardiomegaly with surgical changes of CABG, with numerous broken XXXX sternotomy XXXX and a sternotomy XXXX fragment noted XXXX in the posterior left pleural space.
+
+PROBLEMS:
+Surgical Instruments;Cardiomegaly;Pulmonary Congestion;Diaphragm
+
+MESH:
+Surgical Instruments/thorax;Cardiomegaly;Pulmonary Congestion;Diaphragm/left/elevated

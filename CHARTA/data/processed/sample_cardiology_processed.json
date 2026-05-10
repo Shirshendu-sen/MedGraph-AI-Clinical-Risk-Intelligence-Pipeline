@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "source_file": "tests\\sample_data\\sample_cardiology.txt",
+    "file_name": "sample_cardiology.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1806,
+    "processed_at": "2026-05-08T11:00:19.048415"
+  },
+  "extraction": {
+    "file_name": "sample_cardiology.txt",
+    "text": "MEDICAL TRANSCRIPTION SAMPLE - CARDIOLOGY\n\nPatient Name: [**Last Name**], [**First Name**]\nMedical Record Number: [**MRN**]\nDate of Birth: [**Date**]\nDate of Visit: [**Date**]\n\nCHIEF COMPLAINT:\nPatient presents with chest pain and shortness of breath.\n\nHISTORY OF PRESENT ILLNESS:\nThe patient is a 65-year-old male with a history of HTN, DM, and CAD who presents with substernal chest pain radiating to the left arm. The pain began approximately 2 hours ago while at rest. The patient also reports associated SOB and diaphoresis. He denies any NVD. He has a family history of premature coronary artery disease. His FH is significant for myocardial infarction in his father at age 55.\n\nPAST MEDICAL HISTORY:\n1. Hypertension (HTN) - diagnosed 2005\n2. Diabetes Mellitus (DM) - Type 2, diagnosed 2010\n3. Coronary Artery Disease (CAD) - s/p PCI in 2018\n4. Hyperlipidemia\n5. CKD Stage 3\n\nMEDICATIONS:\n1. Metoprolol 50mg twice daily\n2. Lisinopril 20mg daily\n3. Metformin 1000mg twice daily\n4. Aspirin 81mg daily\n5. Atorvastatin 40mg at bedtime\n\nPHYSICAL EXAMINATION:\nVITAL SIGNS: BP 158/92, HR 98, RR 22, T 98.6F, SpO2 94% on room air.\nGENERAL: Alert and oriented, appears in mild distress.\nCARDIOVASCULAR: Regular rate and rhythm, no murmurs, gallops, or rubs.\nLUNGS: Bilateral crackles at the bases.\nEXTREMITIES: No clubbing, cyanosis, or edema.\n\nASSESSMENT AND PLAN:\n1. Acute coronary syndrome - Obtain serial troponins, EKG, consider cardiology consult.\n2. HTN - Continue current medications, monitor BP.\n3. DM - Continue current regimen, monitor blood glucose.\n4. CKD - Check renal function panel, adjust medications as needed.\n\n--- Page 2 ---\n\nDISPOSITION:\nAdmitted to telemetry floor for monitoring and further workup.\n\nFollow-up: Cardiology clinic in 1 week.\n",
+    "char_count": 1760,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "MEDICAL TRANSCRIPTION SAMPLE - CARDIOLOGY\n\nPatient Name: [REDACTED], [REDACTED]\nMedical Record Number: [REDACTED]\nDate of Birth: [REDACTED]\nDate of Visit: [REDACTED]\n\nCHIEF COMPLAINT:\nPatient presents with chest pain and shortness of breath.\n\nHISTORY OF PRESENT ILLNESS:\nThe patient is a 65-year-old male with a history of hypertension, diabetes mellitus, and coronary artery disease who presents with substernal chest pain radiating to the left arm. The pain began approximately 2 hours ago while at rest. The patient also reports associated shortness of breath and diaphoresis. He denies any nausea vomiting diarrhea. He has a family history of premature coronary artery disease. His family history is significant for myocardial infarction in his father at age 55.\n\nPAST MEDICAL HISTORY:\n1. Hypertension (hypertension) - diagnosed 2005\n2. Diabetes Mellitus (diabetes mellitus) - Type 2, diagnosed 2010\n3. Coronary Artery Disease (coronary artery disease) - s/p PCI in 2018\n4. Hyperlipidemia\n5. chronic kidney disease Stage 3\n\nMEDICATIONS:\n1. Metoprolol 50mg twice daily\n2. Lisinopril 20mg daily\n3. Metformin 1000mg twice daily\n4. Aspirin 81mg daily\n5. Atorvastatin 40mg at bedtime\n\nPHYSICAL EXAMINATION:\nVITAL SIGNS: BP 158/92, HR 98, RR 22, T 98.6F, SpO2 94% on room air.\nGENERAL: Alert and oriented, appears in mild distress.\nCARDIOVASCULAR: Regular rate and rhythm, no murmurs, gallops, or rubs.\nLUNGS: Bilateral crackles at the bases.\nEXTREMITIES: No clubbing, cyanosis, or edema.\n\nASSESSMENT AND PLAN:\n1. Acute coronary syndrome - Obtain serial troponins, EKG, consider cardiology consult.\n2. hypertension - Continue current medications, monitor BP.\n3. diabetes mellitus - Continue current regimen, monitor blood glucose.\n4. chronic kidney disease - Check renal function panel, adjust medications as needed.\n\nDISPOSITION:\nAdmitted to telemetry floor for monitoring and further workup.\n\nFollow-up: Cardiology clinic in 1 week.",
+    "sentences": [
+      "MEDICAL TRANSCRIPTION SAMPLE - CARDIOLOGY\n\nPatient Name: [REDACTED], [REDACTED]\nMedical Record Number: [REDACTED]\nDate of Birth: [REDACTED]\nDate of Visit: [REDACTED]\n\nCHIEF COMPLAINT:\nPatient presents with chest pain and shortness of breath.",
+      "HISTORY OF PRESENT ILLNESS:\nThe patient is a 65-year-old male with a history of hypertension, diabetes mellitus, and coronary artery disease who presents with substernal chest pain radiating to the left arm.",
+      "The pain began approximately 2 hours ago while at rest.",
+      "The patient also reports associated shortness of breath and diaphoresis.",
+      "He denies any nausea vomiting diarrhea.",
+      "He has a family history of premature coronary artery disease.",
+      "His family history is significant for myocardial infarction in his father at age 55.",
+      "PAST MEDICAL HISTORY:\n1.",
+      "Hypertension (hypertension) - diagnosed 2005\n2.",
+      "Diabetes Mellitus (diabetes mellitus) - Type 2, diagnosed 2010\n3.",
+      "Coronary Artery Disease (coronary artery disease) - s/p PCI in 2018\n4.",
+      "Hyperlipidemia\n5. chronic kidney disease Stage 3\n\nMEDICATIONS:\n1.",
+      "Metoprolol 50mg twice daily\n2.",
+      "Lisinopril 20mg daily\n3.",
+      "Metformin 1000mg twice daily\n4.",
+      "Aspirin 81mg daily\n5.",
+      "Atorvastatin 40mg at bedtime\n\nPHYSICAL EXAMINATION:\nVITAL SIGNS: BP 158/92, HR 98, RR 22, T 98.6F, SpO2 94% on room air.",
+      "GENERAL: Alert and oriented, appears in mild distress.",
+      "CARDIOVASCULAR: Regular rate and rhythm, no murmurs, gallops, or rubs.",
+      "LUNGS: Bilateral crackles at the bases.",
+      "EXTREMITIES: No clubbing, cyanosis, or edema.",
+      "ASSESSMENT AND PLAN:\n1.",
+      "Acute coronary syndrome - Obtain serial troponins, EKG, consider cardiology consult.\n2. hypertension - Continue current medications, monitor BP.\n3. diabetes mellitus - Continue current regimen, monitor blood glucose.\n4. chronic kidney disease - Check renal function panel, adjust medications as needed.",
+      "DISPOSITION:\nAdmitted to telemetry floor for monitoring and further workup.",
+      "Follow-up: Cardiology clinic in 1 week."
+    ],
+    "sentence_count": 25,
+    "original_length": 1760,
+    "cleaned_length": 1932,
+    "placeholder_count": 5
+  },
+  "content": {
+    "raw_text": "MEDICAL TRANSCRIPTION SAMPLE - CARDIOLOGY\n\nPatient Name: [**Last Name**], [**First Name**]\nMedical Record Number: [**MRN**]\nDate of Birth: [**Date**]\nDate of Visit: [**Date**]\n\nCHIEF COMPLAINT:\nPatient presents with chest pain and shortness of breath.\n\nHISTORY OF PRESENT ILLNESS:\nThe patient is a 65-year-old male with a history of HTN, DM, and CAD who presents with substernal chest pain radiating to the left arm. The pain began approximately 2 hours ago while at rest. The patient also reports associated SOB and diaphoresis. He denies any NVD. He has a family history of premature coronary artery disease. His FH is significant for myocardial infarction in his father at age 55.\n\nPAST MEDICAL HISTORY:\n1. Hypertension (HTN) - diagnosed 2005\n2. Diabetes Mellitus (DM) - Type 2, diagnosed 2010\n3. Coronary Artery Disease (CAD) - s/p PCI in 2018\n4. Hyperlipidemia\n5. CKD Stage 3\n\nMEDICATIONS:\n1. Metoprolol 50mg twice daily\n2. Lisinopril 20mg daily\n3. Metformin 1000mg twice daily\n4. Aspirin 81mg daily\n5. Atorvastatin 40mg at bedtime\n\nPHYSICAL EXAMINATION:\nVITAL SIGNS: BP 158/92, HR 98, RR 22, T 98.6F, SpO2 94% on room air.\nGENERAL: Alert and oriented, appears in mild distress.\nCARDIOVASCULAR: Regular rate and rhythm, no murmurs, gallops, or rubs.\nLUNGS: Bilateral crackles at the bases.\nEXTREMITIES: No clubbing, cyanosis, or edema.\n\nASSESSMENT AND PLAN:\n1. Acute coronary syndrome - Obtain serial troponins, EKG, consider cardiology consult.\n2. HTN - Continue current medications, monitor BP.\n3. DM - Continue current regimen, monitor blood glucose.\n4. CKD - Check renal function panel, adjust medications as needed.\n\n--- Page 2 ---\n\nDISPOSITION:\nAdmitted to telemetry floor for monitoring and further workup.\n\nFollow-up: Cardiology clinic in 1 week.\n",
+    "cleaned_text": "MEDICAL TRANSCRIPTION SAMPLE - CARDIOLOGY\n\nPatient Name: [REDACTED], [REDACTED]\nMedical Record Number: [REDACTED]\nDate of Birth: [REDACTED]\nDate of Visit: [REDACTED]\n\nCHIEF COMPLAINT:\nPatient presents with chest pain and shortness of breath.\n\nHISTORY OF PRESENT ILLNESS:\nThe patient is a 65-year-old male with a history of hypertension, diabetes mellitus, and coronary artery disease who presents with substernal chest pain radiating to the left arm. The pain began approximately 2 hours ago while at rest. The patient also reports associated shortness of breath and diaphoresis. He denies any nausea vomiting diarrhea. He has a family history of premature coronary artery disease. His family history is significant for myocardial infarction in his father at age 55.\n\nPAST MEDICAL HISTORY:\n1. Hypertension (hypertension) - diagnosed 2005\n2. Diabetes Mellitus (diabetes mellitus) - Type 2, diagnosed 2010\n3. Coronary Artery Disease (coronary artery disease) - s/p PCI in 2018\n4. Hyperlipidemia\n5. chronic kidney disease Stage 3\n\nMEDICATIONS:\n1. Metoprolol 50mg twice daily\n2. Lisinopril 20mg daily\n3. Metformin 1000mg twice daily\n4. Aspirin 81mg daily\n5. Atorvastatin 40mg at bedtime\n\nPHYSICAL EXAMINATION:\nVITAL SIGNS: BP 158/92, HR 98, RR 22, T 98.6F, SpO2 94% on room air.\nGENERAL: Alert and oriented, appears in mild distress.\nCARDIOVASCULAR: Regular rate and rhythm, no murmurs, gallops, or rubs.\nLUNGS: Bilateral crackles at the bases.\nEXTREMITIES: No clubbing, cyanosis, or edema.\n\nASSESSMENT AND PLAN:\n1. Acute coronary syndrome - Obtain serial troponins, EKG, consider cardiology consult.\n2. hypertension - Continue current medications, monitor BP.\n3. diabetes mellitus - Continue current regimen, monitor blood glucose.\n4. chronic kidney disease - Check renal function panel, adjust medications as needed.\n\nDISPOSITION:\nAdmitted to telemetry floor for monitoring and further workup.\n\nFollow-up: Cardiology clinic in 1 week.",
+    "sentences": [
+      "MEDICAL TRANSCRIPTION SAMPLE - CARDIOLOGY\n\nPatient Name: [REDACTED], [REDACTED]\nMedical Record Number: [REDACTED]\nDate of Birth: [REDACTED]\nDate of Visit: [REDACTED]\n\nCHIEF COMPLAINT:\nPatient presents with chest pain and shortness of breath.",
+      "HISTORY OF PRESENT ILLNESS:\nThe patient is a 65-year-old male with a history of hypertension, diabetes mellitus, and coronary artery disease who presents with substernal chest pain radiating to the left arm.",
+      "The pain began approximately 2 hours ago while at rest.",
+      "The patient also reports associated shortness of breath and diaphoresis.",
+      "He denies any nausea vomiting diarrhea.",
+      "He has a family history of premature coronary artery disease.",
+      "His family history is significant for myocardial infarction in his father at age 55.",
+      "PAST MEDICAL HISTORY:\n1.",
+      "Hypertension (hypertension) - diagnosed 2005\n2.",
+      "Diabetes Mellitus (diabetes mellitus) - Type 2, diagnosed 2010\n3.",
+      "Coronary Artery Disease (coronary artery disease) - s/p PCI in 2018\n4.",
+      "Hyperlipidemia\n5. chronic kidney disease Stage 3\n\nMEDICATIONS:\n1.",
+      "Metoprolol 50mg twice daily\n2.",
+      "Lisinopril 20mg daily\n3.",
+      "Metformin 1000mg twice daily\n4.",
+      "Aspirin 81mg daily\n5.",
+      "Atorvastatin 40mg at bedtime\n\nPHYSICAL EXAMINATION:\nVITAL SIGNS: BP 158/92, HR 98, RR 22, T 98.6F, SpO2 94% on room air.",
+      "GENERAL: Alert and oriented, appears in mild distress.",
+      "CARDIOVASCULAR: Regular rate and rhythm, no murmurs, gallops, or rubs.",
+      "LUNGS: Bilateral crackles at the bases.",
+      "EXTREMITIES: No clubbing, cyanosis, or edema.",
+      "ASSESSMENT AND PLAN:\n1.",
+      "Acute coronary syndrome - Obtain serial troponins, EKG, consider cardiology consult.\n2. hypertension - Continue current medications, monitor BP.\n3. diabetes mellitus - Continue current regimen, monitor blood glucose.\n4. chronic kidney disease - Check renal function panel, adjust medications as needed.",
+      "DISPOSITION:\nAdmitted to telemetry floor for monitoring and further workup.",
+      "Follow-up: Cardiology clinic in 1 week."
+    ],
+    "sentence_count": 25
+  }
+}

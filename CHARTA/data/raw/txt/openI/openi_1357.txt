@@ -1,0 +1,16 @@
+UID: 1405
+
+INDICATION:
+XXXX XXXX lung surgery. Followup
+
+FINDINGS:
+There is scarring in the right mid and upper lung zone with surgical clips identified as well. There is no pleural effusion or pneumothorax. The heart is not significantly enlarged. There are atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures are noted.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+Cicatrix;Cicatrix;Surgical Instruments;Atherosclerosis;Arthritis
+
+MESH:
+Cicatrix/lung/middle lobe/right;Cicatrix/lung/upper lobe/right;Surgical Instruments/lung/right;Atherosclerosis/aorta;Arthritis

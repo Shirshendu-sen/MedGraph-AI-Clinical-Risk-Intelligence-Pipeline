@@ -1,0 +1,16 @@
+UID: 1248
+
+INDICATION:
+XXXX-year-old male with weakness.
+
+FINDINGS:
+Heart size is normal. No focal consolidations. There are degenerative changes throughout the midlower thoracic spine. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative

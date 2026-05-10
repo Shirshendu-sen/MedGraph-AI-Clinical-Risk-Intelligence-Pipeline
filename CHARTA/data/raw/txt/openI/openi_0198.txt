@@ -1,0 +1,16 @@
+UID: 205
+
+INDICATION:
+XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable normal heart size. Elevated right diaphragm. Lungs are clear.
+
+PROBLEMS:
+Diaphragm
+
+MESH:
+Diaphragm/right/elevated

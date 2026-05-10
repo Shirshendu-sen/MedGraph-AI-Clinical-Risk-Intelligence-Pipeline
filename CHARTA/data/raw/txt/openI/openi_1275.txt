@@ -1,0 +1,16 @@
+UID: 1322
+
+INDICATION:
+786.2,786.07, 66yof with productive XXXX with wheezing in a XXXX
+
+FINDINGS:
+The lungs are clear. The heart and pulmonary XXXX are normal. Pleural spaces are clear. Mediastinal contours are normal.
+
+IMPRESSION:
+No acute cardiopulmonary disease
+
+PROBLEMS:
+normal
+
+MESH:
+normal

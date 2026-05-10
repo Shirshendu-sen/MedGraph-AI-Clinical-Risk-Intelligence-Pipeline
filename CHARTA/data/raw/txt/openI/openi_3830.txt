@@ -1,0 +1,16 @@
+UID: 3978
+
+INDICATION:
+786.50 hypertension.
+
+FINDINGS:
+The heart is normal in size and contour. There is no mediastinal widening. The lungs are clear bilaterally. No pleural effusion or pneumothorax. XXXX are intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

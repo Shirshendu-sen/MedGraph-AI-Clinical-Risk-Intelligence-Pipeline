@@ -1,0 +1,16 @@
+UID: 2618
+
+INDICATION:
+XXXX-year-old with Left-sided chest pain
+
+FINDINGS:
+Normal cardiomediastinal contours. No pneumothorax or large pleural effusions. Small focal retrocardiac lung opacity.
+
+IMPRESSION:
+Small left retrocardiac opacity, may represent minimal atelectasis or small focus of airspace disease.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/retrocardiac/focal/small

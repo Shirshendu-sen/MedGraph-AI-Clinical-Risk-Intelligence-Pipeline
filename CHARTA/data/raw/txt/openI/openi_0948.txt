@@ -1,0 +1,16 @@
+UID: 981
+
+INDICATION:
+chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Slight cardiomegaly. Lungs are clear no effusions or edema
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/mild

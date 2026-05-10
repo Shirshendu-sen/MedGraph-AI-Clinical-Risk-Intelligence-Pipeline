@@ -1,0 +1,16 @@
+UID: 2783
+
+INDICATION:
+Followup of pulmonary nodule.
+
+FINDINGS:
+No interval change is found in the bony thorax. The heart size remains normal with an ectatic tortuous aorta. The pulmonary vasculature is not engorged. Lungs are free of infiltrate and there is no pleural effusion. The fullness to the right hilum is again noted but this is unchanged suggesting no progression of the retrohilar nodule XXXX on the CT scan. No XXXX pulmonary nodule is found.
+
+IMPRESSION:
+Stable chest radiograph with no acute or progressive abnormality. There is no suggestion of enlargement of the known right retrohilar pulmonary nodule or XXXX pulmonary nodularity.
+
+PROBLEMS:
+Aorta;Lung
+
+MESH:
+Aorta/tortuous;Lung/hilum/enlarged

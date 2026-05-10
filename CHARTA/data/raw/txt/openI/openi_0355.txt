@@ -1,0 +1,16 @@
+UID: 367
+
+INDICATION:
+XXXX-year-old XXXX with dyspnea
+
+FINDINGS:
+The lungs are clear. No focal airspace consolidation. No pleural effusion or pneumothorax. Heart size is within normal limits.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

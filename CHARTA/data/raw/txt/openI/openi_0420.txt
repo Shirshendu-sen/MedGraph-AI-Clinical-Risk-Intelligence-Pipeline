@@ -1,0 +1,16 @@
+UID: 434
+
+INDICATION:
+XXXX-year-old XXXX with XXXX, fatigue.
+
+FINDINGS:
+Sternotomy XXXX appear intact. Borderline heart size. Aortic calcification noted. Calcified mediastinal lymph XXXX unchanged. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax. There is hyperexpansion of the lungs with flattening of the diaphragms. Degenerative changes are present in the spine.
+
+IMPRESSION:
+No acute abnormality. .
+
+PROBLEMS:
+Calcinosis;Calcinosis;Lung;Diaphragm;Spine
+
+MESH:
+Calcinosis/aorta;Calcinosis/mediastinum/lymph nodes;Lung/hyperdistention;Diaphragm/flattened;Spine/degenerative

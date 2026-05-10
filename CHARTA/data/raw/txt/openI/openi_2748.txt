@@ -1,0 +1,16 @@
+UID: 2857
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+There are XXXX sternotomy XXXX and mediastinal surgical clips XXXX secondary to a CABG procedure. Small T-spine osteophytes. The cardiomediastinal silhouette and pulmonary vasculature are within normal limits. There is no pneumothorax or pleural effusion. There are no focal areas of consolidation. There are cholecystectomy clips. There is eventration of right hemidiaphragm.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Surgical Instruments;Osteophyte;Surgical Instruments;Diaphragmatic Eventration
+
+MESH:
+Surgical Instruments/mediastinum;Osteophyte/thoracic vertebrae;Surgical Instruments/abdomen;Diaphragmatic Eventration/right

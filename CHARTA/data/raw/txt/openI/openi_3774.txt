@@ -1,0 +1,16 @@
+UID: 3922
+
+INDICATION:
+INDICATION: PAIN;
+
+FINDINGS:
+Stable cardiomediastinal silhouette. No focal pulmonary opacity, pleural effusion or pneumothorax. No acute bony abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

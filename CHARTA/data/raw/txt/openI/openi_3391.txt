@@ -1,0 +1,16 @@
+UID: 3529
+
+INDICATION:
+Status post XXXX surgery XXXX
+
+FINDINGS:
+Status post midline sternotomy with intact XXXX XXXX. Stable mild cardiomegaly. Normal lung vascularity. The lungs are clear.
+
+IMPRESSION:
+Stable postop changes with stable mild cardiomegaly and normal lung vascularity.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/mild

@@ -1,0 +1,16 @@
+UID: 1088
+
+INDICATION:
+XXXX-year-old XXXX, dyspnea, tachycardic.
+
+FINDINGS:
+Heart is within normal limits. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax. Mild streaky opacity lateral right lung, atelectasis versus scarring.
+
+IMPRESSION:
+Small streaky opacity lateral right lung, subsegmental atelectasis versus scarring.
+
+PROBLEMS:
+Opacity;Cicatrix;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/right/streaky/mild;Cicatrix/lung/right;Pulmonary Atelectasis/right

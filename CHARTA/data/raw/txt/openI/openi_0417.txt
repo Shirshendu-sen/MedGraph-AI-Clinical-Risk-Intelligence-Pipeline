@@ -1,0 +1,16 @@
+UID: 431
+
+INDICATION:
+please XXXX for sarcoid/tuberculosis
+
+FINDINGS:
+The Heart size is normal. Cardiomediastinal silhouette is normal in contour. The lungs are clear bilaterally. Lateral views obscured by patient body habitus. There is no evidence of apical disease. XXXX are unchanged from previous exam and appear normal. Thoracic spine shows osteophyte formations at several levels.
+
+IMPRESSION:
+no radiographic evidence of tuberculosis or sarcoidosis.
+
+PROBLEMS:
+Osteophyte;Technical Quality of Image Unsatisfactory ;Cardiomegaly
+
+MESH:
+Osteophyte/thoracic vertebrae/multiple;Technical Quality of Image Unsatisfactory ;Cardiomegaly/borderline

@@ -1,0 +1,16 @@
+UID: 3103
+
+INDICATION:
+XXXX-year-old male with pneumonia..
+
+FINDINGS:
+Cardiomediastinal silhouette stable and unremarkable. Stable eventration of the right hemidiaphragm. There is redemonstration without significant interval change of mild subsegmental atelectasis of the left base. Pneumonia seen on CT examination dated XXXX, XXXX (not seen on prior chest x-XXXX) is not seen either on XXXX chest x-XXXX.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality..
+
+PROBLEMS:
+Diaphragmatic Eventration;Pulmonary Atelectasis
+
+MESH:
+Diaphragmatic Eventration/right;Pulmonary Atelectasis/base/left/mild

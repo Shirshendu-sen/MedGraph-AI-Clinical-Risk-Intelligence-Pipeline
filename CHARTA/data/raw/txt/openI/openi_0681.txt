@@ -1,0 +1,16 @@
+UID: 701
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+There are postsurgical and postradiation changes of the left lung with a spiculated, hyperdense scar in the left upper thorax. There is a loss of lung volume on the left due to postsurgical change. XXXX deviation towards the left. Right lung is hyperexpanded. The right lung is clear. Heart size and vascularity within normal limits.
+
+IMPRESSION:
+Postsurgical and postradiation changes on the left with no acute abnormality.
+
+PROBLEMS:
+Cicatrix;Volume Loss;Lung;Density
+
+MESH:
+Cicatrix/thorax/left;Volume Loss/lung/left;Lung/right/hyperdistention;Density/thorax/left

@@ -1,0 +1,16 @@
+UID: 1498
+
+INDICATION:
+XXXX-year-old male, pain, syncope
+
+FINDINGS:
+Apical lordotic frontal view. Heart size within normal limits, mild aortic ectasia/tortuosity. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. Chronic appearing contour irregularity of the distal left clavicle and XXXX XXXX widening may be posttraumatic or postsurgical, verterbroplasty noted at the thoracolumbar junction.
+
+IMPRESSION:
+No acute cardiopulmonary findings
+
+PROBLEMS:
+Aorta;Deformity
+
+MESH:
+Aorta/tortuous;Deformity/clavicle/left/chronic

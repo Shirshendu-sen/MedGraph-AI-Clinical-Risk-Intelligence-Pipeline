@@ -1,0 +1,16 @@
+UID: 3748
+
+INDICATION:
+Pain behind right shoulder XXXX starting today. MRI of right shoulder in XXXX. Nausea.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. There is minimal XXXX atelectasis or scar in the left lung base. The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.
+
+IMPRESSION:
+No acute cardiopulmonary findings. .
+
+PROBLEMS:
+Pulmonary Atelectasis;Cicatrix
+
+MESH:
+Pulmonary Atelectasis/base/left/mild;Cicatrix/lung/base/left/mild

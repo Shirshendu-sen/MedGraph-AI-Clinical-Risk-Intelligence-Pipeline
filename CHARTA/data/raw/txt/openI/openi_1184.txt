@@ -1,0 +1,16 @@
+UID: 1226
+
+INDICATION:
+XXXX, XXXX.
+
+FINDINGS:
+The heart size is within normal limits. Trachea is midline. No pleural effusions or pneumothorax. Cardiomediastinal contours are normal. There is focal consolidation in the posterior segment of the right lower lobe. No bony or soft tissue abnormalities.
+
+IMPRESSION:
+Right lower lobe pneumonia.
+
+PROBLEMS:
+Consolidation;Pneumonia
+
+MESH:
+Consolidation/lung/lower lobe/right/posterior/focal;Pneumonia/lower lobe/right

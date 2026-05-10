@@ -1,0 +1,16 @@
+UID: 2088
+
+INDICATION:
+XXXX-year-old XXXX with chest pain and shortness of breath..
+
+FINDINGS:
+Compared to prior examination from XXXX, there has been extubation and removal of central line and enteric tube. Stable cardiomegaly and mild thoracolumbar dextroscoliosis. Left basilar opacity XXXX represents chronic fibrosis/scar. No focal consolidation, pneumothorax, or effusion. No acute osseous abnormality.
+
+IMPRESSION:
+Stable cardiomegaly without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Cardiomegaly;Scoliosis;Scoliosis;Opacity;Pulmonary Fibrosis;Cicatrix
+
+MESH:
+Cardiomegaly;Scoliosis/lumbar vertebrae/right/mild;Scoliosis/thoracic vertebrae/right/mild;Opacity/lung/base/left;Pulmonary Fibrosis/base/left;Cicatrix/lung/base/left

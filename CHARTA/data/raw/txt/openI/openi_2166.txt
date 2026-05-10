@@ -1,0 +1,16 @@
+UID: 2246
+
+INDICATION:
+XXXX-year-old male status post XXXX.
+
+FINDINGS:
+Normal heart size and mediastinal contour. Right lung base airspace disease on frontal XXXX. XXXX opacities in the left lung base consistent with atelectasis. No pneumothorax. No pleural effusion. Mild wedge XXXX deformity of T12.
+
+IMPRESSION:
+Right lung base airspace disease and left base atelectasis.
+
+PROBLEMS:
+Airspace Disease;Opacity;Pulmonary Atelectasis;Deformity
+
+MESH:
+Airspace Disease/lung/base/right;Opacity/lung/base/left;Pulmonary Atelectasis/base/left;Deformity/thoracic vertebrae/mild

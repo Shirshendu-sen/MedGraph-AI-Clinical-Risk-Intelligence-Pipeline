@@ -1,0 +1,16 @@
+UID: 3699
+
+INDICATION:
+XXXX-year-old female, XXXX, starting methotrexate
+
+FINDINGS:
+Normal heart size mediastinal contours. No focal airspace consolidation. No pleural effusion or pneumothorax. Degenerative disc disease in the thoracic spine with osteophyte formation bridging.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Thoracic Vertebrae;Osteophyte
+
+MESH:
+Thoracic Vertebrae/degenerative;Osteophyte/thoracic vertebrae/multiple

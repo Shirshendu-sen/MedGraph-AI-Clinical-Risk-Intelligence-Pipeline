@@ -1,0 +1,16 @@
+UID: 2606
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+There is stable prominence of the pulmonary interstitium. XXXX and fluid containing density seen adjacent to the heart is stable, most consistent with a moderate sized hiatal hernia. There is stable tortuosity and/or ectasia of the thoracic aorta, with calcification of the aortic XXXX. No pleural effusion, focal airspace disease or pneumothorax. Stable exaggerated kyphosis of the thoracic spine, stable anterior wedge deformities of at XXXX 2 thoracic vertebral bodies at the apex of the kyphotic curvature. Diffuse osteopenia.
+
+IMPRESSION:
+1. No acute pulmonary disease. 2. Stable moderate hiatal hernia.
+
+PROBLEMS:
+Lung;Density;Hernia, Hiatal;Aorta, Thoracic;Calcinosis;Kyphosis;Deformity;Bone Diseases, Metabolic
+
+MESH:
+Lung/interstitial/prominent;Density/mediastinum;Hernia, Hiatal/moderate;Aorta, Thoracic/tortuous;Calcinosis/aorta;Kyphosis/thoracic vertebrae/severe;Deformity/thoracic vertebrae/anterior/multiple;Bone Diseases, Metabolic/diffuse

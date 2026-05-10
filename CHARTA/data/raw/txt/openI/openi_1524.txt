@@ -1,0 +1,16 @@
+UID: 1576
+
+INDICATION:
+chest pain
+
+FINDINGS:
+Lumbar and are low. No infiltrates. Heart size normal. A large hiatal hernia is present. An age-indeterminate XXXX fracture is present in the lower thoracic vertebra. Scoliosis is present in the thoracic and thoracolumbar spine.
+
+IMPRESSION:
+No visible active cardiopulmonary disease.
+
+PROBLEMS:
+Hernia, Hiatal;Fractures, Bone;Scoliosis;Scoliosis
+
+MESH:
+Hernia, Hiatal/large;Fractures, Bone/thoracic vertebrae;Scoliosis/thoracic vertebrae;Scoliosis/lumbar vertebrae

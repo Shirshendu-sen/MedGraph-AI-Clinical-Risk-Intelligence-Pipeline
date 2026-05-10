@@ -1,0 +1,16 @@
+UID: 688
+
+INDICATION:
+XXXX-year-old with pain with history of strangulated hernia.
+
+FINDINGS:
+KUB. Centered over the mid abdomen there are multiple air-filled dilated loops of small bowel measuring the XXXX of which measure up to about 3.7 cm in diameter. There is also an extremely dilated XXXX in the same region which measures 5.9 cm in diameter. There is extensive soft tissue pannus. Prior abdominal surgery. Chest. There is XXXX left basilar opacity. No visualized pneumothorax. The heart size is normal. There is mild elevation of the left hemidiaphragm. There are no large pleural effusions. There is thickening of the fissure.
+
+IMPRESSION:
+KUB 1. There are numerous air-filled dilated loops of small bowel over the mid abdomen. These findings are consistent with small bowel obstruction. Chest 1. Left basilar airspace disease, XXXX atelectasis. .
+
+PROBLEMS:
+Opacity;Diaphragm;Thickening;Pulmonary Atelectasis;Airspace Disease
+
+MESH:
+Opacity/lung/base/left;Diaphragm/left/elevated;Thickening/pleura;Pulmonary Atelectasis/base/left;Airspace Disease/lung/base/left

@@ -1,0 +1,16 @@
+UID: 233
+
+INDICATION:
+XXXX-year-old female, post XXXX closure
+
+FINDINGS:
+Atrial septal occluder artifact. Rotated frontal position, overall heart size within normal limits, no typical findings of pulmonary edema. XXXX densities in the left base, small focal XXXX opacity in the right base with focal posterior right hemidiaphragm elevation and obscured right costophrenic XXXX. Biapical pleuroparenchymal irregularities most compatible with scarring, chronic appearing right 5th rib contour deformity. No pneumothorax seen.
+
+IMPRESSION:
+1. XXXX densities in left base may be compatible with scarring or subsegmental atelectasis 2. Abnormal opacity in the right base XXXX due at XXXX in part to atelectasis with right hemidiaphragm eventration, question small right pleural effusion
+
+PROBLEMS:
+Density;Opacity;Pulmonary Atelectasis;Diaphragmatic Eventration;Technical Quality of Image Unsatisfactory ;Diaphragm;Markings;Deformity;Costophrenic Angle
+
+MESH:
+Density/lung/base/left;Opacity/lung/base/right/small;Pulmonary Atelectasis;Diaphragmatic Eventration/right;Technical Quality of Image Unsatisfactory ;Diaphragm/right/posterior/elevated;Markings/lung/apex/bilateral;Deformity/ribs/right/chronic;Costophrenic Angle/right/obscured

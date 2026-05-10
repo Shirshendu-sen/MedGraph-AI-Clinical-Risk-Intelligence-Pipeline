@@ -1,0 +1,16 @@
+UID: 3642
+
+INDICATION:
+XXXX-year-old with history of edema.
+
+FINDINGS:
+No focal lung consolidation. Heart size and pulmonary vascularity are within normal limits. No pneumothorax or pleural effusion. Mild degenerative changes of the thoracic spine. Degenerative changes of the XXXX. Tortuous aorta.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+Thoracic Vertebrae;Aorta
+
+MESH:
+Thoracic Vertebrae/degenerative/mild;Aorta/tortuous

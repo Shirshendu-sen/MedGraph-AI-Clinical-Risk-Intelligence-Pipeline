@@ -1,0 +1,16 @@
+UID: 3545
+
+INDICATION:
+,786.2 XXXX cxr
+
+FINDINGS:
+XXXX opacities in the lung bases are slightly worse XXXX compared to prior study. Lung volumes are low. Heart size and pulmonary XXXX are normal. There no focal airspace opacities to suggest pneumonia. The patient is status post XXXX sternotomy. There calcifications of the thoracic aorta.
+
+IMPRESSION:
+1. Worsening bibasilar subpleural interstitial opacities suggestive of interstitial lung disease. High-resolution XXXX would be recommended to evaluate these findings 2. No evidence of acute pneumonia
+
+PROBLEMS:
+Opacity;Lung;Calcinosis
+
+MESH:
+Opacity/lung/base/bilateral/interstitial;Lung/hypoinflation;Calcinosis/aorta, thoracic

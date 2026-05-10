@@ -1,0 +1,16 @@
+UID: 3530
+
+INDICATION:
+preop chest repair. XXXX.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable minimal cardiomegaly. Lungs are clear. No pneumonia. Minimal degenerative spurring thoracic spine
+
+PROBLEMS:
+Cardiomegaly;Osteophyte
+
+MESH:
+Cardiomegaly/mild;Osteophyte/thoracic vertebrae/degenerative/mild

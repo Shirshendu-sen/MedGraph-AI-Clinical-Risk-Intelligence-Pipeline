@@ -1,0 +1,16 @@
+UID: 3520
+
+INDICATION:
+XXXX-year-old male with XXXX onset XXXX XXXX/XXXX
+
+FINDINGS:
+Heart size, mediastinal contour, and pulmonary vascularity are within normal limits. Minimal streaky atelectasis the left lung base. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Thoracic spondylosis.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Pulmonary Atelectasis;Spondylosis
+
+MESH:
+Pulmonary Atelectasis/base/left/streaky/mild;Spondylosis/thoracic vertebrae

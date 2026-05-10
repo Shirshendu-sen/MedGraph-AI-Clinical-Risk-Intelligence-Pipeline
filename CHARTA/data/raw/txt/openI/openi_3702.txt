@@ -1,0 +1,16 @@
+UID: 3847
+
+INDICATION:
+Followup pleural air collection.
+
+FINDINGS:
+Both lungs remain hyperexpanded. No XXXX focal infiltrates. A small pleural or collection is XXXX present in the right apex. However, it has decreased considerably since the previous examination. Heart size remains normal.
+
+IMPRESSION:
+COPD with almost completely resolved right apical pleural air collection.
+
+PROBLEMS:
+Lung;Pneumothorax;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/bilateral/hyperdistention;Pneumothorax/apex/right/small;Pulmonary Disease, Chronic Obstructive

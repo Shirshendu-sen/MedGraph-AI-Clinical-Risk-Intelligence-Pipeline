@@ -1,0 +1,16 @@
+UID: 185
+
+INDICATION:
+HYPERTENSION; preop hernia repair
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. Lungs are mildly hypoinflated. Increased XXXX opacities on lateral projection XXXX reflect bronchovascular crowding. There is no acute infiltrate or pleural effusion.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Lung;Markings;Opacity
+
+MESH:
+Lung/hypoinflation/mild;Markings/bronchovascular;Opacity

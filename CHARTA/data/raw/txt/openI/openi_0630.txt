@@ -1,0 +1,16 @@
+UID: 649
+
+INDICATION:
+Melanoma, left lung surgery
+
+FINDINGS:
+The heart size is normal. Mediastinal contours are within normal limits. Postsurgical changes of left hemithorax are stable. Skin XXXX have been removed since prior study study. The left apical pneumothorax has resolved. There are mild chronic opacities in the left lung base with probable small residual effusion. The right lung is grossly clear.
+
+IMPRESSION:
+Stable postsurgical changes of left hemithorax with resolution of small apical pneumothorax and basilar air space opacities.
+
+PROBLEMS:
+Opacity;Pleural Effusion
+
+MESH:
+Opacity/lung/base/left/chronic/mild;Pleural Effusion/left/small

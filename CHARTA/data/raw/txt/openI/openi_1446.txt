@@ -1,0 +1,16 @@
+UID: 1497
+
+INDICATION:
+COPD.
+
+FINDINGS:
+The heart size size and pulmonary vascularity appear within normal limits. Ill-defined opacity is again noted in the region of the lingula. This is increased since the previous study. The remainder of the lungs appear clear. Mild XXXX deformity is noted in the mid-thoracic spine. No pneumothorax or pleural effusion is seen.
+
+IMPRESSION:
+1. Ill-defined opacity in the lingula. Increased since the previous study. May represent increased atelectasis or scarring.
+
+PROBLEMS:
+Opacity;Deformity
+
+MESH:
+Opacity/lung/lingula;Deformity/thoracic vertebrae/mild

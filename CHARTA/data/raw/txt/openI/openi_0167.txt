@@ -1,0 +1,16 @@
+UID: 172
+
+INDICATION:
+worsening dyspnea
+
+FINDINGS:
+Elevated right hemidiaphragm. Clear lungs. No pleural effusions or pneumothoraces. heart size is upper limits of normal with tortuosity and ectasia of the aorta. Generative changes within the spine. In the upper lumbar spine there is an age-indeterminate wedge XXXX of a vertebral body.
+
+IMPRESSION:
+1. Heart size upper limits of normal with clear lungs. 2. Age-indeterminate XXXX deformity of an upper lumbar spine vertebral body.
+
+PROBLEMS:
+Diaphragm;Aorta;Spine;Deformity
+
+MESH:
+Diaphragm/right/elevated;Aorta/tortuous;Spine/degenerative;Deformity/lumbar vertebrae

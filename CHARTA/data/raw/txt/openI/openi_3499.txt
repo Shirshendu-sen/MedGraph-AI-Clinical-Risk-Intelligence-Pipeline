@@ -1,0 +1,16 @@
+UID: 3640
+
+INDICATION:
+History XXXX chest x-XXXX XXXX to receiving XXXX-TNF.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. No fibrosis. Right apical and left base 5 mm calcified granulomas. Calcified hilar lymph XXXX. No effusions.
+
+PROBLEMS:
+Calcified Granuloma;Calcified Granuloma;Calcinosis
+
+MESH:
+Calcified Granuloma/lung/apex/right;Calcified Granuloma/lung/base/left;Calcinosis/lung/hilum/lymph nodes

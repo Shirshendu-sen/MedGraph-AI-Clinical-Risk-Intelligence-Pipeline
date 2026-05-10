@@ -1,0 +1,16 @@
+UID: 672
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+None
+
+IMPRESSION:
+1. Vascular congestion and diffuse interstitial edema 2. Stable cardiomegaly 3. Low lung volumes
+
+PROBLEMS:
+Pulmonary Congestion;Pulmonary Edema;Cardiomegaly;Lung
+
+MESH:
+Pulmonary Congestion;Pulmonary Edema/interstitial/diffuse;Cardiomegaly;Lung/hypoinflation

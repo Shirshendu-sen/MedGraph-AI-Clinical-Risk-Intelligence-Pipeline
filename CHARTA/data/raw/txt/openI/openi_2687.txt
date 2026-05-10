@@ -1,0 +1,16 @@
+UID: 2790
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Normal and stable cardiomediastinal contours. No pneumothorax, pleural effusions or significant pulmonary edema. No focal lung consolidation. Stable mild interstitial prominence and bilateral lung bases.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities. Stable mild interstitial prominence.
+
+PROBLEMS:
+Lung;Lung
+
+MESH:
+Lung/interstitial/prominent/mild;Lung/base/bilateral/prominent/mild

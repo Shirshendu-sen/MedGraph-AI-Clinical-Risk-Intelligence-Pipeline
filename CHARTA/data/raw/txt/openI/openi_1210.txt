@@ -1,0 +1,16 @@
+UID: 1255
+
+INDICATION:
+Followup chest tube. Evaluate for pneumothorax.
+
+FINDINGS:
+XXXX XXXX right-sided chest tube tip now projects outside the thoracic cavity. No definite residual pneumothorax. Stable cardiomediastinal silhouette. There are low lung volumes. No large pleural effusion. No focal airspace consolidation. Small amount of subdiaphragmatic free air.
+
+IMPRESSION:
+1. XXXX XXXX right-sided chest tube tip projects outside the thoracic cavity. No residual pneumothorax. 2. Small residual pneumoperitoneum consistent with known colonic perforation. .
+
+PROBLEMS:
+Tube, Inserted;Lung;Pneumoperitoneum
+
+MESH:
+Tube, Inserted/thorax/right;Lung/hypoinflation;Pneumoperitoneum/small

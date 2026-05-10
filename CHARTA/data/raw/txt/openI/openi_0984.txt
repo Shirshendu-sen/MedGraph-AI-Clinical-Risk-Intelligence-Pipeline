@@ -1,0 +1,16 @@
+UID: 1017
+
+INDICATION:
+Burmese male has complete TB treatment
+
+FINDINGS:
+Both lungs are clear and expanded with no infiltrates. Basilar focal atelectasis is present in the lingula. Heart size normal. Calcified right hilar XXXX are present
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Pulmonary Atelectasis;Calcinosis
+
+MESH:
+Pulmonary Atelectasis/lingula/focal;Calcinosis/lung/hilum/right

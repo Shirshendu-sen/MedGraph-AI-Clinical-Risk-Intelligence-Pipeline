@@ -1,0 +1,16 @@
+UID: 3230
+
+INDICATION:
+Altered mental status
+
+FINDINGS:
+Low lung volumes and patient rotation. Given differences in technique, heart size XXXX within normal limits. Persistent right basilar opacity, XXXX atelectasis. No suspicious pulmonary opacity, pneumothorax or definite pleural effusion. Mild degenerative change of the thoracic spine.
+
+IMPRESSION:
+Persistent stable right basilar atelectasis.
+
+PROBLEMS:
+Lung;Technical Quality of Image Unsatisfactory ;Opacity;Pulmonary Atelectasis;Thoracic Vertebrae
+
+MESH:
+Lung/hypoinflation;Technical Quality of Image Unsatisfactory ;Opacity/lung/base/right;Pulmonary Atelectasis/base/right;Thoracic Vertebrae/degenerative/mild

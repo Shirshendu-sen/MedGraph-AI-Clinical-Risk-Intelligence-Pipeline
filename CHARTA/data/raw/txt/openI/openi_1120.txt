@@ -1,0 +1,16 @@
+UID: 1157
+
+INDICATION:
+XXXX-year-old with XXXX and XXXX.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is a region of left upper lobe perihilar opacity identified.
+
+IMPRESSION:
+Left upper lobe pneumonia. Followup radiographs after appropriate therapy in 8-12 weeks are indicated to exclude an underlying abnormality.
+
+PROBLEMS:
+Opacity;Pneumonia
+
+MESH:
+Opacity/lung/upper lobe/hilum/left;Pneumonia/upper lobe/left

@@ -1,0 +1,16 @@
+UID: 3627
+
+INDICATION:
+XXXX-year-old woman with chest pain
+
+FINDINGS:
+No acute osseous abnormality. Scattered degenerative changes of the thoracic spine. Soft tissues are within normal limits. Normal heart size. Stable elevation right hemidiaphragm compared to exam on XXXX. Bilateral hilar lymph XXXX. No focal area of consolidation, pleural effusion, pneumothorax. Bibasilar atelectasis.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Thoracic Vertebrae;Diaphragm;Pulmonary Atelectasis;Lung
+
+MESH:
+Thoracic Vertebrae/scattered/degenerative;Diaphragm/right/elevated;Pulmonary Atelectasis/base/bilateral;Lung/hilum/lymph nodes/bilateral

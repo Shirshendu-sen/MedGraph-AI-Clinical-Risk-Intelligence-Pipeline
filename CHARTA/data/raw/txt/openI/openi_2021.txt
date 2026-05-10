@@ -1,0 +1,16 @@
+UID: 2096
+
+INDICATION:
+Difficulty breathing.
+
+FINDINGS:
+Normal heart size and mediastinal contours. Clear lungs. No pneumothorax or pleural effusion. Unremarkable XXXX.
+
+IMPRESSION:
+No acute cardiopulmonary process. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

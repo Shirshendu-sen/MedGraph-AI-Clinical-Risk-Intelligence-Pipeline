@@ -1,0 +1,16 @@
+UID: 61
+
+INDICATION:
+chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+3 cm calcified right paratracheal lymph node. This most XXXX due to old histoplasmosis. Heart size is normal. Lungs clear
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/lymph nodes/right/paratracheal

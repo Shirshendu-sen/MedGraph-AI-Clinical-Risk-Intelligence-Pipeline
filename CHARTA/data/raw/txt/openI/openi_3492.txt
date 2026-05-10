@@ -1,0 +1,16 @@
+UID: 3633
+
+INDICATION:
+XXXX x2 weeks. Chest pain.
+
+FINDINGS:
+Degenerative changes of the thoracic spine. Heart size normal. Lungs are clear. No pneumothorax or pleural effusion. Low lung volumes.
+
+IMPRESSION:
+Unremarkable examination of the chest.
+
+PROBLEMS:
+Thoracic Vertebrae;Lung
+
+MESH:
+Thoracic Vertebrae/degenerative;Lung/hypoinflation

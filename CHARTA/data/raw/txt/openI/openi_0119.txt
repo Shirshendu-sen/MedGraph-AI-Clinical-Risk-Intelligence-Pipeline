@@ -1,0 +1,16 @@
+UID: 121
+
+INDICATION:
+Correlation with ventilation/perfusion scan, chest pain, elevated CCK levels.
+
+FINDINGS:
+Heart size and vascularity normal. Lungs are clear. No effusions. No pneumothorax. Visualized osseous structures unremarkable.
+
+IMPRESSION:
+Normal chest.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

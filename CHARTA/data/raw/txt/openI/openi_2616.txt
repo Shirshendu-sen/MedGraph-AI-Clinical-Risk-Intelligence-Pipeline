@@ -1,0 +1,16 @@
+UID: 2716
+
+INDICATION:
+XXXX-year-old male, dyspnea.
+
+FINDINGS:
+Within the right lower lobes there are XXXX airspace opacities XXXX representing consolidation and atelectasis with blunting of the bilateral costophrenic XXXX. The cardiomediastinal silhouette is within normal limits. Bibasilar subsegmental atelectasis. No acute osseous abnormality.
+
+IMPRESSION:
+Right lower lobe airspace disease with bilateral pleural effusions.
+
+PROBLEMS:
+Opacity;Consolidation;Pulmonary Atelectasis;Costophrenic Angle;Pulmonary Atelectasis;Airspace Disease;Pleural Effusion
+
+MESH:
+Opacity/lung/lower lobe/right;Consolidation/lung/lower lobe/right;Pulmonary Atelectasis/lower lobe/right;Costophrenic Angle/bilateral/blunted;Pulmonary Atelectasis/base/bilateral;Airspace Disease/lung/lower lobe/right;Pleural Effusion/bilateral

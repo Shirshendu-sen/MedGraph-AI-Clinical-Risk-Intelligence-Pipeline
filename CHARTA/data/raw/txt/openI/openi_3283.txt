@@ -1,0 +1,16 @@
+UID: 3416
+
+INDICATION:
+Pt is pre-op R carotid artery repair; XXXX XXXX XXXX/XXXX/SOB; no Hx smoking; XXXX XXXX L carotid artery repair in XXXX; pt has XXXX both XXXX operated on for rotator XXXX.
+
+FINDINGS:
+Redemonstration of the left basilar patchy atelectasis, unchanged from last exam. Lungs are otherwise clear. No evidence of pneumothorax or pleural effusions present. There is a focal calcified nodules in the left upper lung, stable in appearance from XXXX of XXXX. The cardiomediastinal silhouette is unremarkable. No suspicion bony destruction identified.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Pulmonary Atelectasis;Nodule;Calcinosis
+
+MESH:
+Pulmonary Atelectasis/base/left/patchy;Nodule/lung/upper lobe/left/focal;Calcinosis/lung/upper lobe/left

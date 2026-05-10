@@ -1,0 +1,16 @@
+UID: 2065
+
+INDICATION:
+XXXX with XXXX
+
+FINDINGS:
+Stable cardiomediastinal silhouette. No focal airspace consolidation, suspicious pulmonary opacity, pneumothorax, or pleural effusion. Changes of right mastectomy. Sequelae of prior granulomatous disease. Mild thoracic spine degenerative change
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Mastectomy;Granulomatous Disease;Thoracic Vertebrae
+
+MESH:
+Mastectomy/right;Granulomatous Disease;Thoracic Vertebrae/degenerative/mild

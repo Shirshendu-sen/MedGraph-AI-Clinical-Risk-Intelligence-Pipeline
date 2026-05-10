@@ -1,0 +1,16 @@
+UID: 592
+
+INDICATION:
+Back and right-sided chest pain after XXXX in shower
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size within normal limits. No abnormal mediastinal widening. No edema. No focal consolidation. XXXX blunting of the posterior right sulcus may reflect a XXXX right pleural effusion. No pneumothoraces. Flowing osteophytes are seen through the mid and lower thoracic spine.
+
+PROBLEMS:
+Sulcus;Osteophyte
+
+MESH:
+Sulcus/right/posterior/blunted;Osteophyte/thoracic vertebrae/multiple

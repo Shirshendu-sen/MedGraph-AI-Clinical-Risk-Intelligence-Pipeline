@@ -1,0 +1,16 @@
+UID: 1436
+
+INDICATION:
+XXXX-year-old male with worsening XXXX loss. Rule out malignancy.
+
+FINDINGS:
+The cardiac and mediastinal contours are within normal limits. There are calcifications of the aortic XXXX. The lungs are hyperinflated with increased retrosternal airspace and flattening of hemidiaphragms. There is haziness in the right lung apex. There is a 1.7 cm nodular density in the medial right lung base seen on the frontal view, not identified on the lateral view. This may represent a vessel on end. There is no consolidation, pneumothorax, or effusion. There are mild degenerative changes of the spine.
+
+IMPRESSION:
+1. Haziness in the right lung apex and questionable right middle lobe pulmonary nodule. These may be explained by overlapping structures, XXXX chest would be useful for further evaluation. 2. Emphysematous changes.
+
+PROBLEMS:
+Calcinosis;Lung;Diaphragm;Opacity;Density;Nodule;Emphysema;Spine
+
+MESH:
+Calcinosis/aorta;Lung/hyperdistention;Diaphragm/flattened;Opacity/lung/apex/right;Density/lung/base/right/round;Nodule/lung/base/right;Emphysema;Spine/degenerative/mild

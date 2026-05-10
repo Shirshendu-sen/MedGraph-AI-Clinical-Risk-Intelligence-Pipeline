@@ -1,0 +1,16 @@
+UID: 1122
+
+INDICATION:
+XXXX-year-old XXXX with suspected pneumothorax.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for appearance. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. The thoracic spine appears intact.
+
+IMPRESSION:
+1. No acute intrathoracic abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

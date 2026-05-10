@@ -1,0 +1,16 @@
+UID: 3414
+
+INDICATION:
+Hemoptysis
+
+FINDINGS:
+Heart size appears enlarged. Mediastinal contours are within normal limits. Lung volumes are low with central bronchovascular crowding and patchy basilar atelectasis.. Osseous structures are within normal limits for patient age.
+
+IMPRESSION:
+1. Low volume study without definite acute process. 2. Mild cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly;Lung;Markings;Pulmonary Atelectasis
+
+MESH:
+Cardiomegaly/mild;Lung/hypoinflation;Markings/bronchovascular;Pulmonary Atelectasis/base/bilateral/patchy

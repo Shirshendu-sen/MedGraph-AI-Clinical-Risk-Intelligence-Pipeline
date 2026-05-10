@@ -1,0 +1,16 @@
+UID: 3668
+
+INDICATION:
+History of asthma. Further history from the ordering physician states that the patient has a productive XXXX and symptoms of pneumonia.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Right lung clear. There is a 3 cm nodular infiltrate in left midlung. This could represent pneumonia or a tumor. Recommend followup radiology until clear.
+
+PROBLEMS:
+Infiltrate
+
+MESH:
+Infiltrate/lung/lingula/round

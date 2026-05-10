@@ -1,0 +1,16 @@
+UID: 1848
+
+INDICATION:
+XXXX h/o sarcoma.
+
+FINDINGS:
+The trachea is midline. The cardiomediastinal silhouette is normal. There are small round calcific density nodules consistent with prior granulomatous disease bilaterally. Otherwise, the lungs are clear without evidence of acute infiltrate or effusion. There are no masses seen. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Granulomatous Disease;Nodule;Density;Calcinosis
+
+MESH:
+Granulomatous Disease;Nodule/lung/bilateral/round/multiple/small;Density/lung/bilateral/round/multiple/small;Calcinosis/lung/bilateral/round/multiple/small

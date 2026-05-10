@@ -1,0 +1,16 @@
+UID: 1624
+
+INDICATION:
+XXXX-year-old female, chest pain, short of breath
+
+FINDINGS:
+Heart size mildly enlarged, stable mediastinal and hilar contours, mediastinal calcifications suggest a previous granulomatous process. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.
+
+IMPRESSION:
+Mild cardiomegaly, no acute pulmonary findings
+
+PROBLEMS:
+Cardiomegaly;Calcinosis
+
+MESH:
+Cardiomegaly/mild;Calcinosis/mediastinum

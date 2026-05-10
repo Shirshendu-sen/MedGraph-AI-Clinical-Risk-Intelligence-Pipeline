@@ -1,0 +1,16 @@
+UID: 1930
+
+INDICATION:
+Preop, bilateral knee injury.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are mildly hypoinflated but grossly clear of focal airspace disease, pneumothorax, or pleural effusion. There are mild degenerative endplate changes in the thoracic spine. There are no acute bony findings.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung;Thoracic Vertebrae
+
+MESH:
+Lung/hypoinflation/mild;Thoracic Vertebrae/degenerative/mild

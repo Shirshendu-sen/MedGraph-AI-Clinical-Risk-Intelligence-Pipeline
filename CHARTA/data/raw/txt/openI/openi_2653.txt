@@ -1,0 +1,16 @@
+UID: 2755
+
+INDICATION:
+XXXX-year-old woman with hypertension, shortness of breath, pain. History of right lower lobectomy.
+
+FINDINGS:
+Cardiomediastinal silhouette is unchanged with mild cardiomegaly. There is relative elevation of the right hemidiaphragm consistent with history of right lower lobectomy, without focal consolidation, pneumothorax, or effusion identified. Irregularity of the right fifth and sixth ribs stable since at XXXX XXXX and XXXX postsurgical/post traumatic in XXXX. Left shoulder rotator XXXX bone anchor noted. No acute osseous abnormality identified.
+
+IMPRESSION:
+Surgical changes of the right hemithorax and mild cardiomegaly without acute cardiopulmonary abnormality identified. .
+
+PROBLEMS:
+Pneumonectomy;Cardiomegaly;Diaphragm;Deformity;Implanted Medical Device
+
+MESH:
+Pneumonectomy/lung/lower lobe/right;Cardiomegaly/mild;Diaphragm/right/elevated;Deformity/ribs/right/multiple;Implanted Medical Device/shoulder/left

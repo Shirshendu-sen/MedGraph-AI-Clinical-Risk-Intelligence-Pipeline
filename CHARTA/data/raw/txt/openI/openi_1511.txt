@@ -1,0 +1,16 @@
+UID: 1563
+
+INDICATION:
+XXXX-year-old male with dizziness.
+
+FINDINGS:
+Heart size within normal limits. No focal airspace opacities. No pneumothorax. No effusions. Mild degenerative changes of the thoracic spine. No XXXX deformities. Emphysematous changes.
+
+IMPRESSION:
+Chronic lung disease, with no acute cardiopulmonary findings.
+
+PROBLEMS:
+Thoracic Vertebrae;Emphysema
+
+MESH:
+Thoracic Vertebrae/degenerative/mild;Emphysema

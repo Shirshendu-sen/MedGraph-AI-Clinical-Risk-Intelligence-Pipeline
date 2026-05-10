@@ -1,0 +1,16 @@
+UID: 3410
+
+INDICATION:
+None
+
+FINDINGS:
+Lungs are hyperexpanded. No infiltrates or masses in the lungs. Heart size normal. No change calcified left hilar XXXX and left small granuloma.
+
+IMPRESSION:
+XXXX change. COPD with no acute disease.
+
+PROBLEMS:
+Lung;Calcinosis;Granuloma;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Calcinosis/lung/hilum/left;Granuloma/left/small;Pulmonary Disease, Chronic Obstructive

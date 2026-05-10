@@ -1,0 +1,16 @@
+UID: 1936
+
+INDICATION:
+The patient is a XXXX-year-old male with kidney transplant evaluation.
+
+FINDINGS:
+A right internal jugular XXXX this catheter has been exchanged for a large XXXX left internal jugular central venous catheter with the tip at the cavoatrial junction. No pneumothorax, pleural effusion or airspace consolidation. Stable thoracolumbar scoliosis. No acute bone findings. Stable cardiomegaly.
+
+IMPRESSION:
+1. Interval central catheter exchange. No acute cardiopulmonary abnormality. 2. Stable cardiomegaly. .
+
+PROBLEMS:
+Catheters, Indwelling;Scoliosis;Scoliosis;Cardiomegaly
+
+MESH:
+Catheters, Indwelling/left;Scoliosis/thoracic vertebrae;Scoliosis/lumbar vertebrae;Cardiomegaly

@@ -1,0 +1,16 @@
+UID: 1145
+
+INDICATION:
+XXXX-year-old female with osteoporosis, emphysema
+
+FINDINGS:
+Lungs are hyperexpanded. There is no focal airspace consolidation. No suspicious pulmonary mass or nodule is seen. No pleural effusion or pneumothorax. Normal heart size and mediastinal contour.
+
+IMPRESSION:
+1. No focal air space consolidation. 2. Hyperexpanded lungs, suggestive of emphysema.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention

@@ -1,0 +1,16 @@
+UID: 2509
+
+INDICATION:
+XXXX-year-old XXXX with chest pain.
+
+FINDINGS:
+The lungs are hyperexpanded, with increased AP diameter of the chest. The cardiomediastinal silhouette is stable and normal. There is no pneumothorax or large pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. Chronic changes consistent with emphysema.
+
+PROBLEMS:
+Lung;Emphysema
+
+MESH:
+Lung/hyperdistention;Emphysema

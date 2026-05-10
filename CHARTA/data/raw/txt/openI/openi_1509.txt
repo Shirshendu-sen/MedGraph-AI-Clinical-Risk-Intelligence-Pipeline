@@ -1,0 +1,16 @@
+UID: 1561
+
+INDICATION:
+XXXX-year-old male, chest pain
+
+FINDINGS:
+Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Soft tissues unremarkable
+
+IMPRESSION:
+Negative for acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

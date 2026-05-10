@@ -1,0 +1,16 @@
+UID: 3517
+
+INDICATION:
+rectal cancer
+
+FINDINGS:
+Normal heart size. Aortic atherosclerotic calcifications. Right IJ central venous catheter tip in region of mid SVC. There are 2 AICD leads, one tip in expected region of right atrium and one tip in expected region of right ventricle. There is no pulmonary edema. There is no focal consolidation. There are no XXXX of a large pleural effusion. There is no evidence of pneumothorax.
+
+IMPRESSION:
+There is no evidence of acute cardiopulmonary disease. .
+
+PROBLEMS:
+Atherosclerosis;Catheters, Indwelling;Implanted Medical Device
+
+MESH:
+Atherosclerosis/aorta;Catheters, Indwelling/right;Implanted Medical Device

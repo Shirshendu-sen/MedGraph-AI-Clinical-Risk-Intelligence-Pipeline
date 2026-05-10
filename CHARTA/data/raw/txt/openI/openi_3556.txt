@@ -1,0 +1,16 @@
+UID: 3697
+
+INDICATION:
+XXXX-year-old male with XXXX
+
+FINDINGS:
+The cardiomediastinal silhouette is stable in appearance. There are extensive fibrotic changes in the right lung with rightward shift of the trachea, similar to the previous exam. The left lung is well-aerated without focal airspace consolidation, pleural effusions or pneumothorax. There is left apical pleural-parenchymal scarring. No acute bony findings.
+
+IMPRESSION:
+1. No acute cardiopulmonary findings. 2. Extensive fibrotic changes of the right lung, similar to the previous exam.
+
+PROBLEMS:
+Pulmonary Fibrosis;Shift;Cicatrix;Cicatrix
+
+MESH:
+Pulmonary Fibrosis/right/severe;Shift/trachea/right;Cicatrix/pleura/apex/left;Cicatrix/lung/apex/left

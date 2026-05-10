@@ -1,0 +1,16 @@
+UID: 1103
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+The cardiomediastinal contours are within normal limits. Pulmonary vasculature is unremarkable. There is no focal airspace opacity. No pleural effusion or pneumothorax is seen. There is a stable calcified granuloma in the infrahilar right lung. There are mild degenerative changes along the thoracic spine. No acute bony abnormality is identified.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Thoracic Vertebrae
+
+MESH:
+Calcified Granuloma/lung/hilum/right;Thoracic Vertebrae/degenerative/mild

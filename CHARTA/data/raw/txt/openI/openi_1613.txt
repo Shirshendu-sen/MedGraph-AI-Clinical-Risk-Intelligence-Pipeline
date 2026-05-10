@@ -1,0 +1,16 @@
+UID: 1668
+
+INDICATION:
+XXXX-year-old female with colon sinus symptoms for 3 weeks
+
+FINDINGS:
+No pneumothorax, pleural effusion, or focal airspace disease. There is a discrete 1.4 cm nodule within the anterior segment of the right lower lobe. The additional nodular opacities consistent with chronic granulomatous disease. Heart size normal. Cardiomediastinal silhouette is clear. Bony structures appear intact. Right unilateral nipple ring.
+
+IMPRESSION:
+1. Negative for acute cardiopulmonary disease. 2. 1.4 cm right lower lobe nodule, XXXX calcified granulomas disease. If patient high XXXX for pulmonary malignancy, consider cross-sectional imaging to verify.
+
+PROBLEMS:
+Nodule;Opacity;Granulomatous Disease;Foreign Bodies
+
+MESH:
+Nodule/lung/lower lobe/right/anterior;Opacity/round/multiple;Granulomatous Disease/chronic;Foreign Bodies/breast/right

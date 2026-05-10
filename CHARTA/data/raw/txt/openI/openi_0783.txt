@@ -1,0 +1,16 @@
+UID: 806
+
+INDICATION:
+Pain, productive XXXX, shortness of breath.
+
+FINDINGS:
+The cardiac silhouette is borderline enlarged. Pulmonary vasculature is normal in caliber. Nipple shadows and dense breast tissue overlie the lung bases. The lungs are grossly clear of focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.
+
+IMPRESSION:
+Borderline cardiomegaly. No acute findings. .
+
+PROBLEMS:
+Cardiac Shadow;Cardiomegaly;Nipple Shadow
+
+MESH:
+Cardiac Shadow/borderline;Cardiomegaly/borderline;Nipple Shadow/lung/base/bilateral

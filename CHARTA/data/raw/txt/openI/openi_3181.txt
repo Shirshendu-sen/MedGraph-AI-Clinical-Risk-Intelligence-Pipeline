@@ -1,0 +1,16 @@
+UID: 3312
+
+INDICATION:
+XXXX
+
+FINDINGS:
+A patchy infiltrate has developed in the right middle lobe. Left lung is clear. Heart size normal. Aorta tortuous.
+
+IMPRESSION:
+Right middle lobe infiltrate consistent with pneumonia.
+
+PROBLEMS:
+Infiltrate;Pneumonia;Aorta
+
+MESH:
+Infiltrate/lung/middle lobe/right/patchy;Pneumonia/middle lobe/right;Aorta/tortuous

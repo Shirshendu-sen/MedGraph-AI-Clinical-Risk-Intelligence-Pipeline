@@ -1,0 +1,16 @@
+UID: 404
+
+INDICATION:
+XXXX-year-old male, chest pain.
+
+FINDINGS:
+Artifact in the region of the central upper abdomen. No focal areas of consolidation. No pleural effusions. No evidence of pneumothorax. Heart size within normal limits. Osseous structures intact.
+
+IMPRESSION:
+Limited exam secondary to artifact within the upper abdomen (this does not represent free intra-abdominal XXXX). Recommend repeat chest x-XXXX.
+
+PROBLEMS:
+Foreign Bodies;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Foreign Bodies/abdomen;Technical Quality of Image Unsatisfactory

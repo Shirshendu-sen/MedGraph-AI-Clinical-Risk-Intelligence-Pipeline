@@ -1,0 +1,16 @@
+UID: 1054
+
+INDICATION:
+History of CHF
+
+FINDINGS:
+Heart size is normal. Stable mediastinal contour. No focal airspace consolidation, suspicious pulmonary opacity, pneumothorax, or pleural effusion. Mild thoracic spine degenerative change.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

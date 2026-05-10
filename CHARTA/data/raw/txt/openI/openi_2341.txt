@@ -1,0 +1,16 @@
+UID: 2425
+
+INDICATION:
+cp
+
+FINDINGS:
+Lung volumes are low. No infiltrates. Heart and mediastinum are normal.
+
+IMPRESSION:
+Hypoinflation with no visible active cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

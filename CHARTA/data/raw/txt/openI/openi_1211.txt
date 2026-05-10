@@ -1,0 +1,16 @@
+UID: 1256
+
+INDICATION:
+XXXX year old chest pain for 2 hours.
+
+FINDINGS:
+The heart is normal in size and contour. There is mild calcification of the transverse XXXX. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion. Degenerative changes of the midthoracic spine are noted.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Thoracic Vertebrae;Calcinosis
+
+MESH:
+Thoracic Vertebrae/degenerative;Calcinosis/mild

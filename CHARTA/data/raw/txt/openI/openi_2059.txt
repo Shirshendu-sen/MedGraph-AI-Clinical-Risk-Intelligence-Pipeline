@@ -1,0 +1,16 @@
+UID: 2137
+
+INDICATION:
+pa/lat cxr,185 MALIGNANT NEOPLASM OF PROSTATE
+
+FINDINGS:
+None
+
+IMPRESSION:
+Calcified granulomas. No suspicious appearing lung nodules identified. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/multiple

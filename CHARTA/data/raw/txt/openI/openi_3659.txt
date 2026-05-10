@@ -1,0 +1,16 @@
+UID: 3804
+
+INDICATION:
+XXXX-year-old woman with shortness of breath and XXXX.
+
+FINDINGS:
+Cardiomediastinal silhouette stable and within normal limits for size with unchanged atherosclerosis and tortuosity thoracic aorta. There is no focal consolidation, pneumothorax, or effusion. No acute bony abnormality. Stable left proximal humeral enchondroma versus remote bony infarct. Stable multilevel degenerative disc disease of the thoracic spine. Calcified granuloma seen anteriorly on lateral view is stable since XXXX.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Aorta, Thoracic;Atherosclerosis;Cysts;Deformity;Thoracic Vertebrae;Calcified Granuloma
+
+MESH:
+Aorta, Thoracic/tortuous;Atherosclerosis/aorta, thoracic;Cysts/humerus/left;Deformity/humerus/left;Thoracic Vertebrae/degenerative/multiple;Calcified Granuloma/thorax

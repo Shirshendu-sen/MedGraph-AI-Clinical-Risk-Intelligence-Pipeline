@@ -1,0 +1,16 @@
+UID: 2157
+
+INDICATION:
+CHEST XXXX XXXX since XXXX, hx of asthma(jm)
+
+FINDINGS:
+None
+
+IMPRESSION:
+Comparison XXXX, XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

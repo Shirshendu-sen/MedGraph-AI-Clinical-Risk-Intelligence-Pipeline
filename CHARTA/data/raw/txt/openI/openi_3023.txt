@@ -1,0 +1,16 @@
+UID: 3149
+
+INDICATION:
+XXXX-year-old male with XXXX and asthma.
+
+FINDINGS:
+The lungs are hyperexpanded. Cardiomediastinal silhouette is within normal limits. No pleural effusion, focal airspace opacities or pneumothorax. No free subdiaphragmatic air.
+
+IMPRESSION:
+Lung hyperexpansion. No focal air space disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention

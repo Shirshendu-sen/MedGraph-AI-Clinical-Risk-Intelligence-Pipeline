@@ -1,0 +1,16 @@
+UID: 3190
+
+INDICATION:
+Peripheral edema.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours are within normal limits. Pulmonary vascularity is within normal limits. There is a vague right suprahilar density with elevation of the XXXX fissure most XXXX mild subsegmental atelectasis though superimposed infection cannot be entirely excluded. The remaining lungs are clear. The visualized osseous structures and upper abdomen are unremarkable.
+
+IMPRESSION:
+Right upper lobe subsegmental atelectasis. No evidence of heart failure.
+
+PROBLEMS:
+Density;Pulmonary Atelectasis
+
+MESH:
+Density/lung/hilum/right;Pulmonary Atelectasis/upper lobe/right/mild

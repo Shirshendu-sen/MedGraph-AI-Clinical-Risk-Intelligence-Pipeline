@@ -1,0 +1,16 @@
+UID: 2826
+
+INDICATION:
+pt with left sided chest pain, nonradiating. Pt with XXXX XXXX smoking histo
+
+FINDINGS:
+Prominent interstitial markings in the lungs are unchanged. No focal infiltrates. Heart and pulmonary XXXX are normal.
+
+IMPRESSION:
+Chronic interstitial lung disease and scars unchanged. No acute disease.
+
+PROBLEMS:
+Markings;Lung Diseases, Interstitial;Cicatrix
+
+MESH:
+Markings/lung/interstitial/prominent;Lung Diseases, Interstitial/chronic/mild;Cicatrix/lung

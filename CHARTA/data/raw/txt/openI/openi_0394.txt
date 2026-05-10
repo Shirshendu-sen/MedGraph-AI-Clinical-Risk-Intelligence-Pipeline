@@ -1,0 +1,16 @@
+UID: 408
+
+INDICATION:
+None
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are hypoinflated. Small bilateral pleural effusions are seen.
+
+IMPRESSION:
+Small bilateral pleural effusions.
+
+PROBLEMS:
+Lung;Pleural Effusion
+
+MESH:
+Lung/hypoinflation;Pleural Effusion/bilateral/small

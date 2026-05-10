@@ -1,0 +1,16 @@
+UID: 2301
+
+INDICATION:
+chest pain
+
+FINDINGS:
+Radiographic attenuation obscures detail. Grossly, the lungs are clear and expanded. Heart is large. Pulmonary XXXX are normal.
+
+IMPRESSION:
+Stable cardiomegaly without gross evidence for failure or pneumonia.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Cardiomegaly
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Cardiomegaly

@@ -1,0 +1,16 @@
+UID: 406
+
+INDICATION:
+XXXX-year-old female with rib injury.
+
+FINDINGS:
+Heart size normal. No pneumothorax, large pleural effusion, or focal airspace disease. Bony structures appear intact. Calcified right hilar nodules consistent with chronic granulomatous disease.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcinosis;Granulomatous Disease;Nodule
+
+MESH:
+Calcinosis/lung/hilum/right;Granulomatous Disease/chronic;Nodule/lung/hilum/right

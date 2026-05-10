@@ -1,0 +1,16 @@
+UID: 901
+
+INDICATION:
+Short of breath
+
+FINDINGS:
+Heart size is enlarged but stable. Stable sequela prior granulomatous disease. Stable XXXX sternotomy XXXX with fracture of the superior-most sternotomy XXXX.. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. Degenerative endplate changes of the spine.
+
+IMPRESSION:
+1. Stable cardiomegaly without acute cardio pulmonary process.
+
+PROBLEMS:
+Cardiomegaly;Granulomatous Disease;Spine;Fractures, Bone
+
+MESH:
+Cardiomegaly;Granulomatous Disease;Spine/degenerative;Fractures, Bone/sternum

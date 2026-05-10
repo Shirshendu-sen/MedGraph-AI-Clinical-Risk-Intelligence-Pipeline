@@ -1,0 +1,16 @@
+UID: 1031
+
+INDICATION:
+XXXX-year-old female, diaphoresis, short of breath
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size mildly enlarged for technique, mediastinal contours appear similar to prior, right chest XXXX tip in the high SVC. No focal alveolar consolidation, no definite pleural effusion seen. Bronchovascular crowding without typical findings of pulmonary edema.
+
+PROBLEMS:
+Cardiomegaly;Catheters, Indwelling;Markings
+
+MESH:
+Cardiomegaly/mild;Catheters, Indwelling/right;Markings/bronchovascular

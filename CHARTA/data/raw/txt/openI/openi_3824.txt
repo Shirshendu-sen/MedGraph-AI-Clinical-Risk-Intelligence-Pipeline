@@ -1,0 +1,16 @@
+UID: 3972
+
+INDICATION:
+Sarcoidosis.
+
+FINDINGS:
+Heart size and pulmonary vascularity appear within normal limits. Bilateral hilar fullness is present consistent with adenopathy. The appearance is unchanged. There is prominence of the interstitial markings bilaterally. These are also unchanged. No focal superimposed airspace disease is seen. No pneumothorax or pleural effusion is noted.
+
+IMPRESSION:
+1. Continued hilar fullness consistent with adenopathy and bilateral interstitial opacities. Stable as compared to earlier study. The changes are compatible with known diagnosis of sarcoidosis.
+
+PROBLEMS:
+Lung;Opacity;Sarcoidosis
+
+MESH:
+Lung/hilum/lymph nodes/bilateral/enlarged;Opacity/lung/bilateral/interstitial;Sarcoidosis

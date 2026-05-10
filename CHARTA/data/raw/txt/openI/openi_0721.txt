@@ -1,0 +1,16 @@
+UID: 742
+
+INDICATION:
+XXXX-year-old female, XXXX, difficulty breathing
+
+FINDINGS:
+XXXX focal opacity in the medial right lung base XXXX seen on the frontal view. No definite pleural effusion. Stable cardiomediastinal silhouette with normal heart size, no typical findings of pulmonary edema.
+
+IMPRESSION:
+Abnormal opacity in the right lung base which may be compatible with pneumonia in the appropriate clinical setting. Recommend clinical correlation for infection and followup to resolution. Or, if clinical findings are not compatible with XXXX may be of XXXX.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/base/right/focal/abnormal

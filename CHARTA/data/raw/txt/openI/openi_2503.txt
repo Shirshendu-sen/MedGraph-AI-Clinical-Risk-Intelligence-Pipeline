@@ -1,0 +1,16 @@
+UID: 2594
+
+INDICATION:
+XXXX-year-old male with history of XXXX x1 and vomiting/hemoptysis for one XXXX.
+
+FINDINGS:
+The heart size is normal. Tortuous aorta. Otherwise the mediastinal contour is within normal limits. Low lung volumes. Mild elevation of the right hemidiaphragm. There is streaky opacity within the right lower lobe. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm.
+
+IMPRESSION:
+Streaky right lower lobe infiltrate versus atelectasis.
+
+PROBLEMS:
+Aorta;Lung;Diaphragm;Opacity;Infiltrate;Pulmonary Atelectasis
+
+MESH:
+Aorta/tortuous;Lung/hypoinflation;Diaphragm/right/elevated/mild;Opacity/lung/lower lobe/right/streaky;Infiltrate/lung/lower lobe/right/streaky;Pulmonary Atelectasis/lower lobe/right

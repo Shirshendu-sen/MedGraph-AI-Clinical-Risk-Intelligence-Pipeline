@@ -1,0 +1,16 @@
+UID: 784
+
+INDICATION:
+Vomiting and right-sided abdominal pain
+
+FINDINGS:
+Normal heart size. Tortuous calcified aorta. Scattered granulomas. No lobar pneumonia. Probable XXXX post your recess effusions. Kyphotic degenerated osteopenic thoracic spine.
+
+IMPRESSION:
+Probable XXXX posterior recess effusions with mild basilar atelectasis. No lobar pneumonia.
+
+PROBLEMS:
+Calcinosis;Aorta;Granuloma;Bone Diseases, Metabolic;Thoracic Vertebrae;Kyphosis;Pleural Effusion;Pulmonary Atelectasis
+
+MESH:
+Calcinosis/aorta;Aorta/tortuous;Granuloma/scattered;Bone Diseases, Metabolic/thoracic vertebrae;Thoracic Vertebrae/degenerative;Kyphosis/thoracic vertebrae;Pleural Effusion/posterior;Pulmonary Atelectasis/base/mild

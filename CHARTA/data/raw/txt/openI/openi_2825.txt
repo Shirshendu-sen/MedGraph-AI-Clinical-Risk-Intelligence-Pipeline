@@ -1,0 +1,16 @@
+UID: 2944
+
+INDICATION:
+XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+There is a large masslike opacity in the right lung base which may represent a lung cancer. Additional evaluation XXXX advised. Right hilum appears prominent and may contain some enlarged lymph XXXX. Some calcified granulomas are seen with within the right lung. Unremarkable mediastinal contour. No effusions.
+
+PROBLEMS:
+Mass;Opacity;Lung;Calcified Granuloma
+
+MESH:
+Mass/lung/base/right/large;Opacity/lung/base/right/large;Lung/hilum/right/prominent;Calcified Granuloma/lung/right/multiple

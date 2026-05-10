@@ -1,0 +1,16 @@
+UID: 1828
+
+INDICATION:
+Positive PPD
+
+FINDINGS:
+None
+
+IMPRESSION:
+Comparison XXXX, XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified. No evidence of active tuberculosis.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

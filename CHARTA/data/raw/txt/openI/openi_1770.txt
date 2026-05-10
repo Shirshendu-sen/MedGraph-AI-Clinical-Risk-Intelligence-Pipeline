@@ -1,0 +1,16 @@
+UID: 1829
+
+INDICATION:
+Status post chest tube removal
+
+FINDINGS:
+XXXX XXXX and lateral chest examination was obtained. The heart silhouette and mediastinal contours are not enlarged. Removal of 2 left-sided chest tubes. There is no pneumothorax. Lungs demonstrate no acute findings. There is minimal posterior pleural effusions.
+
+IMPRESSION:
+1. No pneumothorax following removal of left-sided chest tubes.
+
+PROBLEMS:
+Pleural Effusion
+
+MESH:
+Pleural Effusion/bilateral/posterior/mild

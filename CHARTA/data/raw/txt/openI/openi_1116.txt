@@ -1,0 +1,16 @@
+UID: 1153
+
+INDICATION:
+The patient is a XXXX-year-old male with positive PPD. History of BCG vaccination.
+
+FINDINGS:
+No pneumothorax, pleural effusion or airspace consolidation. Heart size and pulmonary vasculature appear within normal limits. XXXX XXXX are intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. No evidence of active tuberculosis. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

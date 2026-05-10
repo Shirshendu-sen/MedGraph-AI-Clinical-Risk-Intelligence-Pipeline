@@ -1,0 +1,16 @@
+UID: 466
+
+INDICATION:
+Hypertension.
+
+FINDINGS:
+Normal heart size. Mild tortuosity of the aorta. No pneumothorax, pleural effusion or suspicious airspace opacity. Mild levoscoliosis of the lumbar spine.
+
+IMPRESSION:
+No acute abnormality seen.
+
+PROBLEMS:
+Aorta;Scoliosis
+
+MESH:
+Aorta/tortuous/mild;Scoliosis/lumbar vertebrae/left/mild

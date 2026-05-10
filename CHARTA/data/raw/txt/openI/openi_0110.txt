@@ -1,0 +1,16 @@
+UID: 112
+
+INDICATION:
+PT C/O INCREASED SHORTNESS OF BREATH
+
+FINDINGS:
+Previous lower spine cervical fusion. Lungs are overall hyperexpanded with flattening of the diaphragms consistent with obstructive lung disease. Lungs are clear without focal consolidation. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the spine.
+
+IMPRESSION:
+Hyperexpanded but clear lungs.
+
+PROBLEMS:
+Spinal Fusion;Lung;Diaphragm;Pulmonary Disease, Chronic Obstructive;Spine
+
+MESH:
+Spinal Fusion/cervical vertebrae;Lung/hyperdistention;Diaphragm/flattened;Pulmonary Disease, Chronic Obstructive;Spine/degenerative

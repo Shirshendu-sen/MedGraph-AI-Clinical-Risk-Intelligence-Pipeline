@@ -1,0 +1,16 @@
+UID: 2135
+
+INDICATION:
+XXXX-year-old female for XXXX XXXX. History of asthma, congestive heart failure. Cardiac arrhythmia.
+
+FINDINGS:
+There is no focal consolidation. Mild blunting of the posterior costophrenic XXXX XXXX represent small effusions. No pneumothorax is present. There is moderate cardiomegaly. The pulmonary vasculature is within normal limits.
+
+IMPRESSION:
+1. Unchanged cardiomegaly. 2. Question XXXX pleural effusions.
+
+PROBLEMS:
+Costophrenic Angle;Pleural Effusion;Cardiomegaly
+
+MESH:
+Costophrenic Angle/posterior/blunted/mild;Pleural Effusion/small;Cardiomegaly/moderate

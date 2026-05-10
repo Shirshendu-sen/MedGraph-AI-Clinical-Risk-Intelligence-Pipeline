@@ -1,0 +1,16 @@
+UID: 868
+
+INDICATION:
+History of Chronic XXXX and dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Over expanded lungs. Aortic valve prosthesis. Calcified right hilar lymph node. Stable peripheral right lower lobe opacities seen between the anterior 7th and 8th right ribs which may represent pleural reaction or small pulmonary nodules. The patient has XXXX right middle lobe atelectasis and scarring in this region on old CT scans. From XXXX.
+
+PROBLEMS:
+Lung;Implanted Medical Device;Calcinosis;Opacity
+
+MESH:
+Lung/hyperdistention;Implanted Medical Device/aortic valve;Calcinosis/lung/hilum/lymph nodes/right;Opacity/lung/lower lobe/right

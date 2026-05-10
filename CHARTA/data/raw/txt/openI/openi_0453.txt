@@ -1,0 +1,16 @@
+UID: 468
+
+INDICATION:
+Syncope
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. There is a XXXX 10 XXXX nodule in the right apex projecting between the third and fourth posterior ribs. Lungs are hyperexpanded. Heart size and pulmonary vascularity within normal limits. Scattered XXXX densities throughout the chest from prior gunshot wound. Chronic blunting of the costophrenic XXXX. Healed right 10th and left 9th posterolateral rib fracture.
+
+IMPRESSION:
+1. No acute pulmonary abnormality. 2. XXXX right apical nodule. Further evaluation XXXX chest should be considered to exclude the possibility of pulmonary malignancy. 3.Chronic findings as discussed below.
+
+PROBLEMS:
+Nodule;Lung;Density;Costophrenic Angle;Fractures, Bone
+
+MESH:
+Nodule/lung/apex/right;Lung/hyperdistention;Density/thorax/scattered;Costophrenic Angle/blunted/chronic;Fractures, Bone/ribs/right/posterior/healed

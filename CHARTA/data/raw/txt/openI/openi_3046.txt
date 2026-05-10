@@ -1,0 +1,16 @@
+UID: 3173
+
+INDICATION:
+XXXX-year-old female with pleuritic chest pain
+
+FINDINGS:
+Lungs are clear. Heart size normal. No pneumothorax.
+
+IMPRESSION:
+Clear lungs. No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

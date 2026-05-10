@@ -1,0 +1,16 @@
+UID: 1666
+
+INDICATION:
+Preoperative evaluation, pericardial effusion
+
+FINDINGS:
+The cardiac silhouette is mildly enlarged. There are scattered bilateral XXXX opacities, most notably in the right middle lobe, XXXX XXXX of subsegmental atelectasis. No pleural effusion. No pneumothorax is identified. There are diffuse degenerative changes of the spine.
+
+IMPRESSION:
+1. Scattered XXXX of subsegmental atelectasis, most notably in the right middle lobe. 2. Mildly enlarged cardiac silhouette; cardiomegaly versus pericardial effusion.
+
+PROBLEMS:
+Cardiac Shadow;Opacity;Opacity;Pulmonary Atelectasis;Spine;Cardiomegaly;Pericardial Effusion
+
+MESH:
+Cardiac Shadow/enlarged/mild;Opacity/lung/bilateral/scattered;Opacity/lung/middle lobe/right/scattered;Pulmonary Atelectasis/middle lobe/right;Spine/degenerative/diffuse;Cardiomegaly;Pericardial Effusion

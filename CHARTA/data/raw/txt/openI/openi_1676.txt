@@ -1,0 +1,16 @@
+UID: 1732
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+Cardiac and mediastinal silhouette are unremarkable. Lungs are clear. No focal consolidation, pneumothorax, or pleural effusion identified. XXXX and soft tissue are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

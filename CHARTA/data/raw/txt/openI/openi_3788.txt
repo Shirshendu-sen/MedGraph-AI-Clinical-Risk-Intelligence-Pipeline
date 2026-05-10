@@ -1,0 +1,16 @@
+UID: 3936
+
+INDICATION:
+XXXX-year-old male, XXXX, XXXX of breath
+
+FINDINGS:
+Heart size within normal limits. No alveolar consolidation, no findings of pleural effusion or pulmonary edema. No pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary findings
+
+PROBLEMS:
+normal
+
+MESH:
+normal

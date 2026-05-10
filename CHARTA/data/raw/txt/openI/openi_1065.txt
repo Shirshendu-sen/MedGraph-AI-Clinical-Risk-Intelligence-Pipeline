@@ -1,0 +1,16 @@
+UID: 1100
+
+INDICATION:
+CHEST PAIN, AFIB
+
+FINDINGS:
+Heart is large. Pulmonary XXXX are engorged. Bibasilar interstitial infiltrates and bilateral costophrenic XXXX blunting are present.
+
+IMPRESSION:
+Congestive heart failure with basilar pulmonary interstitial edema and bilateral pleural fluid.
+
+PROBLEMS:
+Cardiomegaly;Infiltrate;Costophrenic Angle;Heart Failure;Pulmonary Edema;Pleural Effusion;Pulmonary Congestion
+
+MESH:
+Cardiomegaly;Infiltrate/lung/base/bilateral/interstitial;Costophrenic Angle/bilateral/blunted;Heart Failure;Pulmonary Edema/base/interstitial;Pleural Effusion/bilateral;Pulmonary Congestion

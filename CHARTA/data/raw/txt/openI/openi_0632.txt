@@ -1,0 +1,16 @@
+UID: 651
+
+INDICATION:
+XXXX-year-old female with XXXX for 2 weeks. History of Hodgkin's lymphoma.
+
+FINDINGS:
+Heart size is XXXX within normal limits. There are surgical clips in the left mediastinum. There is no pneumothorax. There is a small left pleural effusion. Abnormal convexity within the mediastinum XXXX represents adenopathy which is better demonstrated on the prior XXXX.
+
+IMPRESSION:
+1. Small left pleural effusion. 2. Mediastinal adenopathy noted but better evaluated on the XXXX XXXX CT.
+
+PROBLEMS:
+Surgical Instruments;Pleural Effusion;Mediastinum
+
+MESH:
+Surgical Instruments/mediastinum/left;Pleural Effusion/left/small;Mediastinum/lymph nodes/enlarged

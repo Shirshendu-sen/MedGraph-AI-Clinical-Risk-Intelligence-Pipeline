@@ -1,0 +1,16 @@
+UID: 3091
+
+INDICATION:
+XXXX-year-old with chest congestion evaluate for pneumonia.
+
+FINDINGS:
+The heart size is mildly enlarged. The patient is post aortic valve replacement. The XXXX sternotomy XXXX are intact. The pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There mild degenerative changes of the spine.
+
+IMPRESSION:
+No acute cardiopulmonary disease. Critical result notification documented through Primordial.
+
+PROBLEMS:
+Cardiomegaly;Implanted Medical Device;Spine
+
+MESH:
+Cardiomegaly/mild;Implanted Medical Device/aortic valve;Spine/degenerative

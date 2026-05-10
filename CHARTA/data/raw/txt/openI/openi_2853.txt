@@ -1,0 +1,16 @@
+UID: 2972
+
+INDICATION:
+Pre-XXXX, XXXX depression
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are hypoinflated. Costophrenic XXXX are blunted, XXXX corresponding to small bilateral pleural effusions. There is no focal consolidation or pneumothorax.
+
+IMPRESSION:
+Low lung volumes with blunted costophrenic XXXX, XXXX XXXX bilateral pleural effusions.
+
+PROBLEMS:
+Lung;Costophrenic Angle;Pleural Effusion
+
+MESH:
+Lung/hypoinflation;Costophrenic Angle/bilateral/blunted;Pleural Effusion/bilateral/small

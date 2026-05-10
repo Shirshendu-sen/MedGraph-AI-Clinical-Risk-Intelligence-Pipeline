@@ -1,0 +1,16 @@
+UID: 2813
+
+INDICATION:
+XXXX-year-old female chest pain.
+
+FINDINGS:
+Heart size within normal limits. No focal airspace disease. No pneumothorax or effusion. Mild degenerative change in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

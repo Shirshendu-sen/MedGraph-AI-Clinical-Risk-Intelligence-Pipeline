@@ -1,0 +1,16 @@
+UID: 934
+
+INDICATION:
+Asthma
+
+FINDINGS:
+Cardiomediastinal silhouette is within normal limits of size In appearance. Pulmonary vascularity is unremarkable. There are diffuse, bilateral interstitial opacities, with XXXX B lines demonstrated. Small amount of subpleural edema is demonstrated in the fissures. There is mild blunting of both posterior costophrenic sulci, which may reflect XXXX effusions. Negative for pneumothorax. Limited evaluation reveals the XXXX XXXX the grossly intact.
+
+IMPRESSION:
+1. Heart failure with pulmonary edema.
+
+PROBLEMS:
+Opacity;Pulmonary Edema;Costophrenic Angle;Heart Failure
+
+MESH:
+Opacity/lung/bilateral/interstitial/diffuse;Pulmonary Edema/mild;Costophrenic Angle/sulcus/bilateral/blunted/mild;Heart Failure

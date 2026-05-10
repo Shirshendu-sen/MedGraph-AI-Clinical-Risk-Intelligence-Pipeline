@@ -1,0 +1,16 @@
+UID: 843
+
+INDICATION:
+XXXX-year-old male, kidney transplant workup.
+
+FINDINGS:
+Right lower lobe XXXX calcified granuloma. Heart size within normal limits. No pleural effusions. No evidence of pneumothorax. Degenerative changes thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary inability. .
+
+PROBLEMS:
+Calcified Granuloma;Thoracic Vertebrae
+
+MESH:
+Calcified Granuloma/lung/lower lobe/right;Thoracic Vertebrae/degenerative

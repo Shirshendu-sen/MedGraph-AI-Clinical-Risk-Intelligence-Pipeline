@@ -1,0 +1,16 @@
+UID: 2827
+
+INDICATION:
+Female with history of XXXX one, gunshot wound to chest.
+
+FINDINGS:
+There is an endotracheal tube at the level of the carina, recommend retraction. Heart size is normal. The mediastinal silhouette is unremarkable. XXXX shrapnel is overlying the right lower lobe. There is a round XXXX bullet overlying the T10 vertebral body. XXXX density is seen within the right lower lobe XXXX representing hemorrhage. There is a right-sided pneumothorax with 10 mm in maximal thickness. There is right axillary subcutaneous emphysema. Probable lateral right 8th rib fracture. The osseous structures are otherwise normal.
+
+IMPRESSION:
+1. Moderate right-sided hemopneumothorax as detailed above. 2. Probable lateral right 8th rib fracture. 3. Endotracheal tube at the level of the carina, recommend retraction.
+
+PROBLEMS:
+Tube, Inserted;Foreign Bodies;Foreign Bodies;Density;Hemopneumothorax;Pneumothorax;Subcutaneous  Emphysema;Fractures, Bone
+
+MESH:
+Tube, Inserted/trachea, carina;Foreign Bodies/lung/lower lobe/right;Foreign Bodies/thoracic vertebrae/round;Density/lung/lower lobe/right;Hemopneumothorax/right/moderate;Pneumothorax/right/moderate;Subcutaneous  Emphysema/right;Fractures, Bone/ribs/right

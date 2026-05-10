@@ -1,0 +1,16 @@
+UID: 2474
+
+INDICATION:
+Shortness of breath.
+
+FINDINGS:
+Patchy interstitial infiltrates have developed in both lower lobes. Both costophrenic XXXX are blunted. Aorta is somewhat tortuous, with the heart size is normal. Pulmonary XXXX are normal.
+
+IMPRESSION:
+Bibasilar patchy airspace disease with bilateral small pleural fluid collections.
+
+PROBLEMS:
+Infiltrate;Costophrenic Angle;Aorta;Airspace Disease;Pleural Effusion
+
+MESH:
+Infiltrate/lung/lower lobe/bilateral/interstitial/patchy;Costophrenic Angle/bilateral/blunted;Aorta/tortuous/mild;Airspace Disease/lung/base/bilateral/patchy;Pleural Effusion/bilateral/small

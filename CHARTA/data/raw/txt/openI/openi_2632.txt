@@ -1,0 +1,16 @@
+UID: 2733
+
+INDICATION:
+XXXX-year-old female with chest pain and XXXX.
+
+FINDINGS:
+Bibasilar airspace opacities, right greater than left. The heart size and mediastinal silhouette are within normal limits for contour. No pneumothorax or pleural effusions. The XXXX are intact.
+
+IMPRESSION:
+Bibasilar airspace opacities, right greater than left. These findings are concerning for pneumonia.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/base/bilateral

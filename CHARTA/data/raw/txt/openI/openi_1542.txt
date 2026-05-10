@@ -1,0 +1,16 @@
+UID: 1594
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+The heart and cardiomediastinal silhouette are normal in size and shape. There is no focal airspace opacity, pleural effusion, or pneumothorax. The osseous structures are intact.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

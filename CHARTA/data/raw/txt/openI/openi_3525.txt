@@ -1,0 +1,16 @@
+UID: 3666
+
+INDICATION:
+,786.39 coughing up sputum blood streaked
+
+FINDINGS:
+XXXX onset right basal atelectasis with airspace disease and effusion suggestive of the chest infection. Stable cardiomegaly and features of CABG. Interval XXXX removal of left PICC line, no pneumothorax.
+
+IMPRESSION:
+XXXX onset right basal chest infection
+
+PROBLEMS:
+Pulmonary Atelectasis;Airspace Disease;Pleural Effusion;Cardiomegaly
+
+MESH:
+Pulmonary Atelectasis/base/right;Airspace Disease/lung/right;Pleural Effusion/right;Cardiomegaly

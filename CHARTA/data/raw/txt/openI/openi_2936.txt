@@ -1,0 +1,16 @@
+UID: 3061
+
+INDICATION:
+Upper XXXX tract infection
+
+FINDINGS:
+The heart size and pulmonary vascularity appear within normal units. No pleural effusion or pneumothorax is seen. Bandlike opacities are present in the right base consistent with areas of atelectasis. Remainder of the lungs appear clear.
+
+IMPRESSION:
+Bandlike opacities in the right base. Appearance suggests atelectasis.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/base/right;Pulmonary Atelectasis/base/right

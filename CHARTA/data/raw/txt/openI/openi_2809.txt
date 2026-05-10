@@ -1,0 +1,16 @@
+UID: 2928
+
+INDICATION:
+The patient is a XXXX-year-old woman with syncope.
+
+FINDINGS:
+Mediastinum is stable. Retrocardiac lucency XXXX represents a large hiatal hernia, unchanged from prior. The lungs are clear, without focal infiltrate or pleural effusion. There is no pneumothorax. Visualized bony structures reveal no acute abnormalities. Stable thoracic XXXX deformity.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities. 2. Multiple chronic changes as described above. .
+
+PROBLEMS:
+Lucency;Hernia, Hiatal;Deformity
+
+MESH:
+Lucency/retrocardiac;Hernia, Hiatal/large;Deformity/thoracic vertebrae

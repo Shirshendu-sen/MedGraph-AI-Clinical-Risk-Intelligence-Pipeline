@@ -1,0 +1,16 @@
+UID: 1988
+
+INDICATION:
+pa/lat cxr,490 BRONCHITIS UNSPECIFIED
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable appearing chest with low lung volumes. Reticulonodular changes in left lung base and periphery of left lung most XXXX representing chronic inflammatory change. Also some peripheral XXXX fibrotic appearing opacity in the periphery the right upper lobe, grossly stable. No XXXX acute airspace consolidation. Stable mediastinal contour.
+
+PROBLEMS:
+Lung;Nodule;Opacity;Pulmonary Fibrosis
+
+MESH:
+Lung/hypoinflation;Nodule/lung/base/left/reticular;Opacity/lung/upper lobe/right;Pulmonary Fibrosis/upper lobe/right

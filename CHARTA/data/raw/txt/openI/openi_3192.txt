@@ -1,0 +1,16 @@
+UID: 3323
+
+INDICATION:
+XXXX-year-old XXXX, status post ICD/pacemaker placement.
+
+FINDINGS:
+Heart size is within normal limits. Aorta appears tortuous and ectatic, unchanged from comparison exam. There is a stable dual XXXX ICD/pacemaker. No focal consolidation, large pleural effusion, or pneumothorax is seen. Visualized osseous structures are grossly intact.
+
+IMPRESSION:
+1. Stable left chest dual XXXX ICD/pacemaker. 2. Improved lung volumes without acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Aorta;Implanted Medical Device
+
+MESH:
+Aorta/tortuous;Implanted Medical Device/left

@@ -1,0 +1,16 @@
+UID: 3974
+
+INDICATION:
+XXXX
+
+FINDINGS:
+The lungs are hyperexpanded consistent with emphysema. The heart size and pulmonary vascularity appear within normal limits. No pneumothorax or pleural effusion is seen. Patchy airspace disease is present in the right middle lobe. Degenerative changes are present spine.
+
+IMPRESSION:
+1. Hyperexpanded lungs suggesting emphysema. 2. Patchy right middle lobe airspace disease. May represent pneumonia. Followup examination is suggested following treatment to confirm clearing of the opacities. A 4 to 6 XXXX post treatment interval film would be reasonable to allow clearing of inflammatory opacities.
+
+PROBLEMS:
+Lung;Pulmonary Emphysema;Airspace Disease;Spine
+
+MESH:
+Lung/hyperdistention;Pulmonary Emphysema;Airspace Disease/lung/middle lobe/right/patchy;Spine/degenerative

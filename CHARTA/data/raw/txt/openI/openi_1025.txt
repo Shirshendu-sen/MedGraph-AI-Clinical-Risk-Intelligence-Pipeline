@@ -1,0 +1,16 @@
+UID: 1058
+
+INDICATION:
+Lung cancer.
+
+FINDINGS:
+Heart size and pulmonary vascularity appear within normal limits. Innumerable bilateral lung nodules are present. These are seen diffusely throughout both lungs. No superimposed focal airspace disease is seen. No pleural effusion or pneumothorax is identified. Scoliosis is present.
+
+IMPRESSION:
+1. Continued innumerable bilateral small lung nodules. No change.
+
+PROBLEMS:
+Nodule;Scoliosis
+
+MESH:
+Nodule/lung/bilateral/diffuse/multiple/small;Scoliosis

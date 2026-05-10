@@ -1,0 +1,16 @@
+UID: 2660
+
+INDICATION:
+XXXX rule out pneumonia
+
+FINDINGS:
+Heart size normal. Lungs are clear. XXXX are normal. No pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses.
+
+IMPRESSION:
+Normal chest
+
+PROBLEMS:
+normal
+
+MESH:
+normal

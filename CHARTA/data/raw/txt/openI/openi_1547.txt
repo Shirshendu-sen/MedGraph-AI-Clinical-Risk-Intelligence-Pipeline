@@ -1,0 +1,16 @@
+UID: 1599
+
+INDICATION:
+syncope
+
+FINDINGS:
+Normal heart size, mediastinal and aortic contours. Normal pulmonary vascularity. Atherosclerotic calcifications identified within the aortic XXXX. The lungs are clear. No focal consolidation, visible pneumothorax or large pleural effusion. Flowing thoracic spine osteophytes noted.
+
+IMPRESSION:
+1. No evidence of active cardiopulmonary disease.
+
+PROBLEMS:
+Atherosclerosis;Osteophyte
+
+MESH:
+Atherosclerosis/aorta;Osteophyte/thoracic vertebrae/multiple

@@ -1,0 +1,16 @@
+UID: 3649
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+Clear lungs bilaterally. No pneumothorax or large pleural effusion. Normal cardiac contour.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 2378
+
+INDICATION:
+XXXX-year-old male with XXXX loss and history of tobacco use.
+
+FINDINGS:
+Cardiomediastinal silhouettes are within normal limits. Lungs are clear without focal consolidation, pneumothorax, or pleural effusion. Stable left lower lobe calcified granuloma. Remote left clavicle fracture.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Calcified Granuloma;Fractures, Bone
+
+MESH:
+Calcified Granuloma/lung/lower lobe/left;Fractures, Bone/clavicle/left

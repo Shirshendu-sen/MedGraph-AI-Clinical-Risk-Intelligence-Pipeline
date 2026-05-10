@@ -1,0 +1,16 @@
+UID: 2705
+
+INDICATION:
+History of dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and the lungs are clear. Calcified aortic XXXX.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/aorta

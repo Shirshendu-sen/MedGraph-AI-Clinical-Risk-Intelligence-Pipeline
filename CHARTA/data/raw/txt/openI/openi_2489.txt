@@ -1,0 +1,16 @@
+UID: 2580
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Heart size and mediastinal contours are unchanged. Stable right upper lobe scarring with pleural thickening. No XXXX consolidation. No visible pleural effusion or pneumothorax.
+
+IMPRESSION:
+Stable chest. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Cicatrix;Thickening
+
+MESH:
+Cicatrix/lung/upper lobe/right;Thickening/pleura

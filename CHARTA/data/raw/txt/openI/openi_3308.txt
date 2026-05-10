@@ -1,0 +1,16 @@
+UID: 3442
+
+INDICATION:
+XXXX distress
+
+FINDINGS:
+Normal cardiomediastinal contours. Low lung volumes with minimal left basilar opacities. No pneumothorax or pleural effusions.
+
+IMPRESSION:
+Minimal left basilar atelectasis versus infiltrate. Low lung volumes.
+
+PROBLEMS:
+Lung;Opacity;Pulmonary Atelectasis;Infiltrate
+
+MESH:
+Lung/hypoinflation;Opacity/lung/base/left/mild;Pulmonary Atelectasis/base/left/mild;Infiltrate/lung/base/left/mild

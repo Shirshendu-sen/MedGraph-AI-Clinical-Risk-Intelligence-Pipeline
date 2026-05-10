@@ -1,0 +1,16 @@
+UID: 3941
+
+INDICATION:
+XXXX-year-old female, right heart failure.
+
+FINDINGS:
+Cardiomegaly. No focal consolidation. No pleural effusions. No evidence of pneumothorax. Osseous structures intact. Levocurvature of the thoracic spine. Lumbar vertebral body stabilization XXXX.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Cardiomegaly. .
+
+PROBLEMS:
+Cardiomegaly;Scoliosis
+
+MESH:
+Cardiomegaly;Scoliosis/thoracic vertebrae/left

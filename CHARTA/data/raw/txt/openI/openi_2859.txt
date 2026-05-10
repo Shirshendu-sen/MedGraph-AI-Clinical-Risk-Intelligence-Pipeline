@@ -1,0 +1,16 @@
+UID: 2979
+
+INDICATION:
+Possible syncopal episode
+
+FINDINGS:
+The lungs are clear. There is no pleural effusion or pneumothorax. The heart is not significantly enlarged. There are calcified mediastinal lymph XXXX. There are atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures are noted.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+Calcinosis;Atherosclerosis;Arthritis
+
+MESH:
+Calcinosis/mediastinum/lymph nodes;Atherosclerosis/aorta;Arthritis

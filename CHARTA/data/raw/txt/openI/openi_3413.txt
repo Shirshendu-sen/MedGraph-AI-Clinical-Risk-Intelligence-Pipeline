@@ -1,0 +1,16 @@
+UID: 3551
+
+INDICATION:
+XXXX-year-old male, chest pain
+
+FINDINGS:
+Heart size near top normal limits for technique. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. Dense left lower lobe nodule suggests a previous granulomatous process.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Nodule;Density;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Nodule/lung/lower lobe/left;Density/lung/lower lobe/left;Technical Quality of Image Unsatisfactory

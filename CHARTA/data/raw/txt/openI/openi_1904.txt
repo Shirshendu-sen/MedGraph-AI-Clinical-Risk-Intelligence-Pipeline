@@ -1,0 +1,16 @@
+UID: 1969
+
+INDICATION:
+kidney cancer f/u.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Comparison XXXX. No suspicious appearing lung nodules identified. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

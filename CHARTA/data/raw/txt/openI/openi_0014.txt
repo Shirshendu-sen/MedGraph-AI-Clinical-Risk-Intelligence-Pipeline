@@ -1,0 +1,16 @@
+UID: 15
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+Cardiomediastinal silhouette and pulmonary vasculature are within normal limits. Lungs are clear. No pneumothorax or pleural effusion. Evidence of prior granulomatous disease. No acute osseous findings.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Granulomatous Disease
+
+MESH:
+Granulomatous Disease

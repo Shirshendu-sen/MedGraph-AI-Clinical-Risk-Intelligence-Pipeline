@@ -1,0 +1,16 @@
+UID: 3058
+
+INDICATION:
+XXXX-year-old male, XXXX, shortness of breath, question pneumonia.
+
+FINDINGS:
+Left midlung opacity noted, not visualized on prior. Heart size within normal limits. No pleural effusions. No evidence of pneumothorax. Osseous structures intact.
+
+IMPRESSION:
+Left mid lung opacity noted, most compatible with atelectasis versus infiltrate. Recommend clinical correlation. .
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Infiltrate
+
+MESH:
+Opacity/lung/lingula;Pulmonary Atelectasis/lingula;Infiltrate/lung/lingula

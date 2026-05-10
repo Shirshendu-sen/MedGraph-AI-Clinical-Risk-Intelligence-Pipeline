@@ -1,0 +1,16 @@
+UID: 3929
+
+INDICATION:
+XXXX year old male status post cardiac defibrillator device placement presents for evaluation.
+
+FINDINGS:
+None
+
+IMPRESSION:
+A cardiac pacemaker/defibrillator device is redemonstration of the left chest wall with a single XXXX projecting over the right atrium and 2 leads projecting over the right ventricle. The cardiac silhouette is mildly enlarged, unchanged. No focal pulmonary consolidation. No pneumothorax. No pleural effusion. Minimal degenerative changes of the thoracic spine. .
+
+PROBLEMS:
+Implanted Medical Device;Cardiac Shadow;Thoracic Vertebrae
+
+MESH:
+Implanted Medical Device/thorax/left;Cardiac Shadow/enlarged/mild;Thoracic Vertebrae/degenerative/mild

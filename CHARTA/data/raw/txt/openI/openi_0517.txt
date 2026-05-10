@@ -1,0 +1,16 @@
+UID: 533
+
+INDICATION:
+XXXX-year-old female, rule out dissection.
+
+FINDINGS:
+There is prominence of the superior mediastinum which may be partially due to patient's known thyroid mass. There is increased tortuosity of the descending thoracic aorta. Cardiac silhouette is within normal limits. Lungs are clear without focal opacification. No pneumothorax or pleural effusion. There is scoliotic curvature the thoracic spine. No acute bone abnormality.
+
+IMPRESSION:
+Increasing prominence of the superior mediastinum may be secondary to enlarging thyroid mass. With increasing tortuosity of the thoracic aorta and concern for dissection, chest CT is recommended for further evaluation.
+
+PROBLEMS:
+Mediastinum;Aorta, Thoracic;Scoliosis
+
+MESH:
+Mediastinum/prominent;Aorta, Thoracic/tortuous;Scoliosis/thoracic vertebrae

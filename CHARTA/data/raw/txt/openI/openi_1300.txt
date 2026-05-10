@@ -1,0 +1,16 @@
+UID: 1348
+
+INDICATION:
+Right-sided chest pain.
+
+FINDINGS:
+The lungs are hypoinflated with mild basilar bronchovascular crowding/atelectasis. There is a fracture of the left anterior 7th rib and XXXX the left anterior 6th rib, of uncertain acuity. Correlate with XXXX tenderness. There is mild XXXX atelectasis in the left lung base. There is corticated deformity of the right anterior 7th rib, XXXX remote fracture. There is no evidence of pneumothorax or large pleural effusion.
+
+IMPRESSION:
+1. Suspected fractures of the left anterior 6th and 7th ribs, of uncertain acuity. Correlate with XXXX tenderness. 2. Low lung volumes with mild basilar atelectasis, left greater than right. .
+
+PROBLEMS:
+Lung;Markings;Pulmonary Atelectasis;Fractures, Bone;Deformity
+
+MESH:
+Lung/hypoinflation;Markings/lung/base/bronchovascular/mild;Pulmonary Atelectasis/base/bilateral/mild;Fractures, Bone/ribs/left;Deformity/ribs/right

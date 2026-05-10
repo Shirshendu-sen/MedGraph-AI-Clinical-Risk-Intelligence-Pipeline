@@ -1,0 +1,16 @@
+UID: 2254
+
+INDICATION:
+XXXX year old female. Bladder cancer
+
+FINDINGS:
+Lungs are clear. Heart size is normal. No pneumothorax. There are surgical clips seen within the upper abdomen.
+
+IMPRESSION:
+Clear lungs. No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Surgical Instruments
+
+MESH:
+Surgical Instruments/abdomen

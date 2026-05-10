@@ -1,0 +1,16 @@
+UID: 2607
+
+INDICATION:
+786.2, 30yof with XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Lungs appear hyperinflated. This may be secondary to XXXX voluntary XXXX considering patient's age. Clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention

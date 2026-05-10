@@ -1,0 +1,16 @@
+UID: 3759
+
+INDICATION:
+XXXX-year-old with XXXX, evaluate for rib fracture.
+
+FINDINGS:
+There is hyperexpansion of lungs and flattening of the diaphragm consistent with COPD. No focal lung consolidation. No pneumothorax or pleural effusion. Heart size and pulmonary vascularity are within normal limits. There is a kyphosis and osteopenia of the thoracic spine. No displaced rib fractures.
+
+IMPRESSION:
+No focal lung consolidation. COPD. No displaced fractures.
+
+PROBLEMS:
+Lung;Diaphragm;Pulmonary Disease, Chronic Obstructive;Kyphosis;Bone Diseases, Metabolic
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened;Pulmonary Disease, Chronic Obstructive;Kyphosis/thoracic vertebrae;Bone Diseases, Metabolic/thoracic vertebrae

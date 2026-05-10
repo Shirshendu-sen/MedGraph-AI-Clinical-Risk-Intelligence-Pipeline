@@ -1,0 +1,16 @@
+UID: 84
+
+INDICATION:
+XXXX year-old male with dyspnea, chemical exposure.
+
+FINDINGS:
+There are low lung volumes with bronchovascular crowding as a result. No pleural effusion, pneumothorax or focal airspace disease. Cardiomediastinal silhouette is within normal limits. No free subdiaphragmatic air.
+
+IMPRESSION:
+Low lung volumes. No acute pulmonary disease.
+
+PROBLEMS:
+Lung;Markings
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular

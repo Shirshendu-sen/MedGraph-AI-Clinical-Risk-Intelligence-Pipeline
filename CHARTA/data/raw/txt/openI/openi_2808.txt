@@ -1,0 +1,16 @@
+UID: 2927
+
+INDICATION:
+dyspnea XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+heart size normal. Lungs are clear. Bilateral nipple shadows. Right paratracheal calcifications due to old histoplasmosis. XXXX overlies the common bile duct.
+
+PROBLEMS:
+Nipple Shadow;Calcinosis
+
+MESH:
+Nipple Shadow/bilateral;Calcinosis/right/paratracheal

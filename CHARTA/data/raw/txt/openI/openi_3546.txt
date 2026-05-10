@@ -1,0 +1,16 @@
+UID: 3687
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Heart size and mediastinal contours are within normal limits given AP projection. The right lung appears clear. There is minimal patchy atelectasis or early infiltrate in left lung base. No visible pleural effusion or pneumothorax. There is a partially visualized IVC XXXX on the lateral view. There are partially visualized surgical changes the cervical spine compatible with prior fusion procedure.
+
+IMPRESSION:
+Minimal patchy left basilar atelectasis or infiltrate.
+
+PROBLEMS:
+Pulmonary Atelectasis;Infiltrate;Catheters, Indwelling;Spinal Fusion
+
+MESH:
+Pulmonary Atelectasis/base/left/patchy/mild;Infiltrate/lung/base/left/mild;Catheters, Indwelling;Spinal Fusion/cervical vertebrae

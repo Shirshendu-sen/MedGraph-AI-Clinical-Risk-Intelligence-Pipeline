@@ -1,0 +1,16 @@
+UID: 687
+
+INDICATION:
+XXXX-year-old female dyspnea.
+
+FINDINGS:
+The cardiac silhouette is at the upper limits of normal for size. There are low lung volumes with bronchovascular crowding. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. Minimal degenerative endplate changes of the thoracic spine.
+
+IMPRESSION:
+1. Pulmonary hypoinflation. Otherwise, no acute cardiopulmonary process.
+
+PROBLEMS:
+Lung;Markings;Thoracic Vertebrae
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Thoracic Vertebrae/degenerative/mild

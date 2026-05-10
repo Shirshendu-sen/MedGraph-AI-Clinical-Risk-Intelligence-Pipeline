@@ -1,0 +1,16 @@
+UID: 2931
+
+INDICATION:
+The patient is a XXXX-year-old XXXX with chest pain, weakness, blurry vision. The patient has a history of cardiac bypass and stent placement.
+
+FINDINGS:
+The trachea is midline. The heart size is normal. XXXX opacities are seen in the left lower lobe and left costodiaphragmatic XXXX, which could represent scarring or atelectasis. There is no pneumothorax. No acute bony abnormalities.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities. .
+
+PROBLEMS:
+Opacity;Opacity
+
+MESH:
+Opacity/lung/lower lobe/left;Opacity/costophrenic angle/left

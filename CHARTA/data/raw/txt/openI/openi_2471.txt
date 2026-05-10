@@ -1,0 +1,16 @@
+UID: 2562
+
+INDICATION:
+XXXX year-old female with XXXX.
+
+FINDINGS:
+The heart size is normal. The mediastinal contour is within normal limits. Low lung volumes and bronchovascular crowding. Mild bibasilar opacities, XXXX atelectasis. The lungs are free of any focal infiltrates. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. Stable degenerative change throughout the thoracic spine. Stable thoracolumbar retrolisthesis. There is no visible free intraperitoneal air under the diaphragm.
+
+IMPRESSION:
+No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Lung;Markings;Opacity;Pulmonary Atelectasis;Thoracic Vertebrae;Dislocations;Dislocations
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Opacity/lung/base/bilateral/mild;Pulmonary Atelectasis/base/bilateral/mild;Thoracic Vertebrae/degenerative;Dislocations/thoracic vertebrae;Dislocations/lumbar vertebrae

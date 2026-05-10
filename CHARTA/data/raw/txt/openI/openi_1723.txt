@@ -1,0 +1,16 @@
+UID: 1782
+
+INDICATION:
+Kicked by XXXX.
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. Prior granulomatous disease. Elevated right diaphragm. The lungs are clear. XXXX degenerative spondylosis. There appears to be a mildly displaced fracture of the mid right clavicle.
+
+IMPRESSION:
+Mildly displaced fracture of the mid right clavicle. No acute pulmonary findings.
+
+PROBLEMS:
+Granulomatous Disease;Diaphragm;Spondylosis;Fractures, Bone
+
+MESH:
+Granulomatous Disease;Diaphragm/right/elevated;Spondylosis/degenerative;Fractures, Bone/clavicle/right/mild

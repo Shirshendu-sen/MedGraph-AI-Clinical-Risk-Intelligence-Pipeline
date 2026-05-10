@@ -1,0 +1,16 @@
+UID: 1401
+
+INDICATION:
+XXXX XXXX of breath sputum production
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Bilateral upper lobe XXXX, fibronodular infiltrates which have been there on prior exams.
+
+PROBLEMS:
+Infiltrate;Nodule
+
+MESH:
+Infiltrate/lung/upper lobe/bilateral;Nodule/lung/upper lobe/bilateral

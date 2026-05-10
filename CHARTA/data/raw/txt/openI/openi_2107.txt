@@ -1,0 +1,16 @@
+UID: 2186
+
+INDICATION:
+,786.52 XXXX
+
+FINDINGS:
+The lungs appear clear. Lung volumes are low. The heart and pulmonary XXXX appear normal. Pleural spaces are clear.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

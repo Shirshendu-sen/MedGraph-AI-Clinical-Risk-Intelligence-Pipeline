@@ -1,0 +1,16 @@
+UID: 53
+
+INDICATION:
+Dizziness, hypoxia.
+
+FINDINGS:
+There extremely low lung volumes. there is right basilar opacity. There is no pneumothorax. There is no large pleural effusion. Cardiac silhouette and mediastinal contours are within normal limits.
+
+IMPRESSION:
+Low lung volumes with right basilar atelectasis. Otherwise, no acute cardiopulmonary disease.
+
+PROBLEMS:
+Lung;Opacity;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation/severe;Opacity/lung/base/right;Pulmonary Atelectasis/base/right

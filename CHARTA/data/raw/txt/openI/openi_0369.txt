@@ -1,0 +1,16 @@
+UID: 383
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+Normal heart size. No focal air space consolidation, pneumothorax, pleural effusion, or pulmonary edema. Anterior osteophytes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Osteophyte
+
+MESH:
+Osteophyte/thoracic vertebrae/anterior/multiple

@@ -1,0 +1,16 @@
+UID: 2828
+
+INDICATION:
+Syncope with collapse, XXXX, pain
+
+FINDINGS:
+Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. Lungs are hyperexpanded but clear. No pleural effusions or pneumothoraces. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+Findings suggestive of emphysema. No acute cardiopulmonary process.
+
+PROBLEMS:
+Lung;Thoracic Vertebrae
+
+MESH:
+Lung/hyperdistention;Thoracic Vertebrae/degenerative

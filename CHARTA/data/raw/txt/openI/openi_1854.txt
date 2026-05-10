@@ -1,0 +1,16 @@
+UID: 1918
+
+INDICATION:
+Preoperative evaluation
+
+FINDINGS:
+There is a 1.5 cm nodular opacity projecting over left hilum. The cardiac silhouette is within normal limits. There is no pulmonary edema. There is no focal consolidation. There are no XXXX of pleural effusion. There is no evidence of pneumothorax. XXXX opacities XXXX representing surgical clips, in the midline at the level of the thoracic inlet.
+
+IMPRESSION:
+1. Prominence of left hilum which could be due to nodule/lymph node or superimposing blood XXXX. In the absence of prior studies for comparison, XXXX chest for further evaluation. Result notification XXXX Primordial.
+
+PROBLEMS:
+Opacity;Surgical Instruments;Lung
+
+MESH:
+Opacity/lung/hilum/left/round;Surgical Instruments/thorax;Lung/hilum/left/prominent

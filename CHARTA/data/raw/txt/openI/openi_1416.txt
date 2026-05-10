@@ -1,0 +1,16 @@
+UID: 1464
+
+INDICATION:
+XXXX-year-old with initiation of XXXX medication. Ordered for a XXXX up prior to beginning the medicine.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There is a calcified granuloma in the left lung base.
+
+IMPRESSION:
+No acute cardiopulmonary disease. Evidence of previous granulomatous infection.
+
+PROBLEMS:
+Calcified Granuloma;Granulomatous Disease
+
+MESH:
+Calcified Granuloma/lung/base/left;Granulomatous Disease

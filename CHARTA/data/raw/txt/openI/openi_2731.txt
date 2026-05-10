@@ -1,0 +1,16 @@
+UID: 2837
+
+INDICATION:
+XXXX-year-old female with chest pain
+
+FINDINGS:
+Rounded 1.4 cm projecting retrosternally on lateral view only. No focal consolidation, effusion, or pneumothorax. Normal heart size. Minimal degenerative changes of the thoracic spine. Negative for pneumoperitoneum.
+
+IMPRESSION:
+1. Negative acute bone abnormality. 2. Indeterminate 1.4 cm opacity seen only on lateral view is of unknown clinical significance, and may be located in or on the patient. Clinical correlation, with possible followup chest x-XXXX recommended if clinically appropriate. Dr. XXXX XXXX was notified of the indeterminate rounded opacity at XXXX hours on XXXX and acknowledged receipt of the study finding.
+
+PROBLEMS:
+Thoracic Vertebrae;Opacity
+
+MESH:
+Thoracic Vertebrae/degenerative/mild;Opacity/round

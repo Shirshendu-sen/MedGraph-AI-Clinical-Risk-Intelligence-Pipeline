@@ -1,0 +1,16 @@
+UID: 323
+
+INDICATION:
+chest pain
+
+FINDINGS:
+The trachea is midline. The cardiomediastinal silhouette is normal. Right lung calcified densities are unchanged from prior and indicate old granulomatous disease. Otherwise, the lungs are clear, without evidence of acute infiltrate or effusion. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities. Lateral view reveals mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Calcinosis;Granulomatous Disease;Thoracic Vertebrae;Density
+
+MESH:
+Calcinosis/lung/right;Granulomatous Disease;Thoracic Vertebrae/degenerative/mild;Density/lung/right

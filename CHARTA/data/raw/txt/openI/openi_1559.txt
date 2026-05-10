@@ -1,0 +1,16 @@
+UID: 1612
+
+INDICATION:
+Seizure
+
+FINDINGS:
+Mild cardiomegaly. Tortuous thoracic aorta with atherosclerosis. No pneumothorax or pleural effusion. Degenerative changes in the thoracic spine without evidence of XXXX deformity. The visualized osseous structures are intact. No displaced rib fractures. No edema or airspace consolidation
+
+IMPRESSION:
+No evidence of acute cardiopulmonary process.
+
+PROBLEMS:
+Cardiomegaly;Aorta, Thoracic;Atherosclerosis;Thoracic Vertebrae
+
+MESH:
+Cardiomegaly/mild;Aorta, Thoracic/tortuous;Atherosclerosis/aorta, thoracic;Thoracic Vertebrae/degenerative

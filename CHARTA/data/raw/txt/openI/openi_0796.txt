@@ -1,0 +1,16 @@
+UID: 821
+
+INDICATION:
+XXXX-year-old female, dyspnea.
+
+FINDINGS:
+Stable heart size and mediastinal contours. No focal airspace consolidation. Stable calcified granuloma in the right upper lobe. This low lung volumes. No focal airspace disease.
+
+IMPRESSION:
+Low lung volumes, otherwise no acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Lung
+
+MESH:
+Calcified Granuloma/lung/upper lobe/right;Lung/hypoinflation

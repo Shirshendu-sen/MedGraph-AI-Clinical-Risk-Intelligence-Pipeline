@@ -1,0 +1,16 @@
+UID: 2996
+
+INDICATION:
+persistent XXXX.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and the lungs are clear. No effusions.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

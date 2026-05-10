@@ -1,0 +1,16 @@
+UID: 1448
+
+INDICATION:
+XXXX-year-old male with pulmonary stenosis.
+
+FINDINGS:
+XXXX XXXX and lateral views of the chest were obtained on 02/010/XXXX. The lung volumes are normal. The lungs are clear and there are no pleural effusions. There is stable mild tenting of the medial aspect of the right diaphragm. The mediastinum and pulmonary XXXX are normal. The bony elements are not remarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities are seen. END OF REPORT.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

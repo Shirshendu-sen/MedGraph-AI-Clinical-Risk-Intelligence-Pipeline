@@ -1,0 +1,16 @@
+UID: 2895
+
+INDICATION:
+XXXX followup
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and the lungs are clear. No fibrosis. No nodules or masses. Please XXXX XXXX XXXX XXXX XXXX to be followed up as per history
+
+PROBLEMS:
+normal
+
+MESH:
+normal

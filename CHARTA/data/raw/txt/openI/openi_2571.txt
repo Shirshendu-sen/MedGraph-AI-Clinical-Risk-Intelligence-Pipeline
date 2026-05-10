@@ -1,0 +1,16 @@
+UID: 2666
+
+INDICATION:
+Esoph cancer
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable appearing hyperinflated chest. Postop changes mediastinum as before. No suspicious appearing lung nodules or acute airspace disease. No XXXX acute abnormalities since the previous chest radiograph.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention

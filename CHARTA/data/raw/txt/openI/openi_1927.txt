@@ -1,0 +1,16 @@
+UID: 1993
+
+INDICATION:
+XXXX-year-old female with dyspnea
+
+FINDINGS:
+Lungs are clear without focal consolidation, effusion, or pneumothorax. Hyperexpanded lungs. Normal heart size. Bony thorax and soft tissues grossly unremarkable.
+
+IMPRESSION:
+Mild emphysema. Negative for acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Emphysema
+
+MESH:
+Lung/hyperdistention;Emphysema/mild

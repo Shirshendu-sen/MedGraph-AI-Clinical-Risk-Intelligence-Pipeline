@@ -1,0 +1,16 @@
+UID: 1359
+
+INDICATION:
+XXXX-year-old male with chest pain
+
+FINDINGS:
+The heart size and mediastinal contours appear within normal limits. No focal airspace consolidation, pleural effusions or pneumothorax. No acute bony abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

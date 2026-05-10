@@ -1,0 +1,16 @@
+UID: 1372
+
+INDICATION:
+Shortness of breath, Hodgkin's lymphoma
+
+FINDINGS:
+Heart size is within normal limits. Mild prominence of the mediastinum. Bibasilar predominantly interstitial pulmonary opacities. No visualized pneumothorax. No pleural effusion.
+
+IMPRESSION:
+1. Mild bibasilar airspace disease, probably atelectasis.
+
+PROBLEMS:
+Mediastinum;Opacity;Airspace Disease;Pulmonary Atelectasis
+
+MESH:
+Mediastinum/prominent/mild;Opacity/lung/base/bilateral/interstitial;Airspace Disease/lung/base/bilateral/mild;Pulmonary Atelectasis/base/bilateral

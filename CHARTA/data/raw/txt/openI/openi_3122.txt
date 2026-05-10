@@ -1,0 +1,16 @@
+UID: 3249
+
+INDICATION:
+CHF, shortness of breath.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. Again seen is evidence of prior CABG. The cardiomediastinal contours are unchanged. XXXX XXXX right and XXXX left pleural effusions. There is XXXX right greater than left bibasilar atelectasis. XXXX B-lines seen at the lung bases. No consolidation or pneumothorax.
+
+IMPRESSION:
+XXXX XXXX bilateral pleural effusions, right larger than left. Early interstitial show pulmonary edema.
+
+PROBLEMS:
+Pleural Effusion;Pulmonary Atelectasis;Markings;Pulmonary Edema
+
+MESH:
+Pleural Effusion/bilateral;Pulmonary Atelectasis/base/bilateral;Markings/lung/base/bilateral;Pulmonary Edema/interstitial/mild

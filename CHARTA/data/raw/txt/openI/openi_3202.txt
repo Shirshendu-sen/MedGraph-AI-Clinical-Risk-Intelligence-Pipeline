@@ -1,0 +1,16 @@
+UID: 3333
+
+INDICATION:
+XXXX-year-old male with asthma
+
+FINDINGS:
+Heart size normal. No pneumothorax, pleural effusion, or focal airspace disease. Bony structures appear intact. The trachea and XXXX pulmonary bronchi are unremarkable.
+
+IMPRESSION:
+Normal chest radiograph.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

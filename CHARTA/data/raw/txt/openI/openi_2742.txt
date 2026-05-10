@@ -1,0 +1,16 @@
+UID: 2850
+
+INDICATION:
+,786.50 chest pain cxr
+
+FINDINGS:
+None
+
+IMPRESSION:
+Comparison XXXX, XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified. Stable chest.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 1788
+
+INDICATION:
+The patient is a XXXX-year-old male with XXXX.
+
+FINDINGS:
+The trachea is midline. Negative for pneumothorax, pleural effusion, or focal airspace consolidation. The heart size is normal.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

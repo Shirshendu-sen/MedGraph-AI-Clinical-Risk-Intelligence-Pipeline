@@ -1,0 +1,16 @@
+UID: 1581
+
+INDICATION:
+XXXX-year-old female XXXX.
+
+FINDINGS:
+Cardiomediastinal silhouettes are within normal limits. There are 2 right upper lobe lung nodules, the largest measuring approximately 12 mm. Lungs are without focal consolidation, pneumothorax, or pleural effusion. Bony thorax is unremarkable.
+
+IMPRESSION:
+Right upper lobe lung nodules. Recommend XXXX.
+
+PROBLEMS:
+Nodule
+
+MESH:
+Nodule/lung/upper lobe/right/multiple

@@ -1,0 +1,16 @@
+UID: 1067
+
+INDICATION:
+XXXX-year-old male with chest pain
+
+FINDINGS:
+Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. No suspicious pulmonary nodules or masses. Bony thorax and soft tissues grossly unremarkable.
+
+IMPRESSION:
+No radiographic evidence of acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

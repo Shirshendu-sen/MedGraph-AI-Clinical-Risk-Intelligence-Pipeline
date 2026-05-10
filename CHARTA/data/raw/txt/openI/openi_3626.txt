@@ -1,0 +1,16 @@
+UID: 3769
+
+INDICATION:
+XXXX-year-old female with history of myelomeningocele, now presenting with XXXX and chest pain
+
+FINDINGS:
+The lung volumes are low. However as compared to the prior study, there are increased perihilar opacities bilaterally. Stable dextroscoliosis of the lower thoracic spine with limited evaluation of the spinal XXXX. The tracheostomy tube is in unchanged position.
+
+IMPRESSION:
+Low lung volumes with slightly increased perihilar opacities bilaterally, XXXX infectious etiology.
+
+PROBLEMS:
+Lung;Opacity;Scoliosis;Tube, Inserted
+
+MESH:
+Lung/hypoinflation;Opacity/lung/hilum/bilateral;Scoliosis/thoracic vertebrae/right;Tube, Inserted/trachea

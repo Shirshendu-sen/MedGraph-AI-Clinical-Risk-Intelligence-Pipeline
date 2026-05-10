@@ -1,0 +1,16 @@
+UID: 3205
+
+INDICATION:
+XXXX-year-old female, evaluate for rib fractures post XXXX
+
+FINDINGS:
+No pneumothorax. Heart size is normal. No large pleural effusions. No focal airspace opacities. No definite visualized rib fractures.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities. No visualized rib fractures.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

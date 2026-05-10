@@ -1,0 +1,16 @@
+UID: 3448
+
+INDICATION:
+XXXX-year-old male with abdominal pain.
+
+FINDINGS:
+The lungs are hyperexpanded. The heart is normal in size. The pulmonary vascularity is within normal limits in appearance. No focal airspace opacities, pneumothorax or pleural effusion. A calcific density in the left midlung zone XXXX represents old granulomatous disease. No acute bony abnormalities.
+
+IMPRESSION:
+Hyperexpanded lungs with no focal airspace disease.
+
+PROBLEMS:
+Lung;Calcinosis;Density;Granulomatous Disease
+
+MESH:
+Lung/hyperdistention;Calcinosis/lung/lingula;Density/lung/lingula;Granulomatous Disease

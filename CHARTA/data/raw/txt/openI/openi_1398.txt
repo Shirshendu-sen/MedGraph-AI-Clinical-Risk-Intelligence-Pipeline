@@ -1,0 +1,16 @@
+UID: 1446
+
+INDICATION:
+lung cancer followup
+
+FINDINGS:
+None
+
+IMPRESSION:
+Further fibrosis and collapse of the left upper lobe with left apical pleural thickening. No evidence of recurrence. Heart size normal. No effusion.
+
+PROBLEMS:
+Pulmonary Fibrosis;Pulmonary Atelectasis;Thickening
+
+MESH:
+Pulmonary Fibrosis/upper lobe/left;Pulmonary Atelectasis/upper lobe/left;Thickening/pleura/apex/left

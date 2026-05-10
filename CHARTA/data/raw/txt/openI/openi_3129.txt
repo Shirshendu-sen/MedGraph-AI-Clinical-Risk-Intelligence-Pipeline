@@ -1,0 +1,16 @@
+UID: 3256
+
+INDICATION:
+XXXX-year-old male with scrotal edema, dyspnea, lower leg edema
+
+FINDINGS:
+There is mild cardiomegaly. Mediastinal contours appear within normal limits. There are small bilateral pleural effusions, left greater than right with left basilar opacities. No pneumothorax. Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+Cardiomegaly with small bilateral pleural effusions and left basilar atelectasis.
+
+PROBLEMS:
+Cardiomegaly;Pleural Effusion;Opacity;Thoracic Vertebrae;Pulmonary Atelectasis
+
+MESH:
+Cardiomegaly/mild;Pleural Effusion/bilateral/small;Opacity/lung/base/left;Thoracic Vertebrae/degenerative/mild;Pulmonary Atelectasis/base/left

@@ -1,0 +1,16 @@
+UID: 1235
+
+INDICATION:
+cp
+
+FINDINGS:
+Lung volumes are XXXX. XXXX opacities are present in the angulate. No focal infiltrates. Heart size normal.
+
+IMPRESSION:
+Hypoinflation with lingular focal atelectasis.
+
+PROBLEMS:
+Opacity;Lung;Pulmonary Atelectasis
+
+MESH:
+Opacity;Lung/hypoinflation;Pulmonary Atelectasis/lingula/focal

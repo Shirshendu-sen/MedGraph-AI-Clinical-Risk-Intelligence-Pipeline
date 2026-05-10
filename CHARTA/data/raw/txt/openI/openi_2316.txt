@@ -1,0 +1,16 @@
+UID: 2400
+
+INDICATION:
+History of dyspnea.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable cardiomegaly with large hiatal hernia. The lungs are clear
+
+PROBLEMS:
+Cardiomegaly;Hernia, Hiatal
+
+MESH:
+Cardiomegaly;Hernia, Hiatal/large

@@ -1,0 +1,16 @@
+UID: 1638
+
+INDICATION:
+XXXX-year-old woman with XXXX.
+
+FINDINGS:
+Study is somewhat limited by body habitus. Cardiomegaly is noted, with central pulmonary vascular prominence and coarsened interstitial markings, suspicious for developing interstitial pulmonary edema. No focal consolidation, pneumothorax, or definite effusion identified. No acute bony abnormality seen.
+
+IMPRESSION:
+Cardiomegaly with central pulmonary vascular prominence and coarsened interstitial markings, concerning for interstitial pulmonary edema.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Cardiomegaly;Pulmonary Congestion;Markings
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Cardiomegaly;Pulmonary Congestion;Markings/lung/interstitial

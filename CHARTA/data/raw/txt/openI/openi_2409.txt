@@ -1,0 +1,16 @@
+UID: 2495
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Scattered right hilar granulomas and calcified 8mm right apical granuloma. Resolution of right effusion and infiltrate. Stable chronic blunting of the lateral left costophrenic XXXX.
+
+PROBLEMS:
+Granuloma;Calcified Granuloma;Costophrenic Angle
+
+MESH:
+Granuloma/lung/hilum/right/scattered/multiple;Calcified Granuloma/lung/apex/right;Costophrenic Angle/left/blunted/chronic

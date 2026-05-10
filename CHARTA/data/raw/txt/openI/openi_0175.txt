@@ -1,0 +1,16 @@
+UID: 181
+
+INDICATION:
+XXXX-year-old male, COPD, XXXX, XXXX.
+
+FINDINGS:
+Normal heart size mediastinal contours. Eventration of the right hemidiaphragm. No focal airspace consolidation. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Diaphragmatic Eventration
+
+MESH:
+Diaphragmatic Eventration/right

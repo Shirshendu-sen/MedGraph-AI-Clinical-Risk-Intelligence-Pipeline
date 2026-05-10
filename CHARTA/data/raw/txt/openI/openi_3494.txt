@@ -1,0 +1,16 @@
+UID: 3635
+
+INDICATION:
+XXXX-year-old with chest pain.
+
+FINDINGS:
+Stable cardiomediastinal silhouette. No focal pulmonary opacity, pleural effusion or pneumothorax. No acute bony abnormality. There are stable degenerative changes of the spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative

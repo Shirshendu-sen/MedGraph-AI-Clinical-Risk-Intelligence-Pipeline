@@ -1,0 +1,16 @@
+UID: 2685
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are clear. There is mild eventration of right hemidiaphragm. No pleural effusion is seen.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Diaphragmatic Eventration
+
+MESH:
+Diaphragmatic Eventration/right/mild

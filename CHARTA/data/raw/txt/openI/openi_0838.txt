@@ -1,0 +1,16 @@
+UID: 866
+
+INDICATION:
+XXXX-year-old woman with chest pain..
+
+FINDINGS:
+Heart size, mediastinal contour, and pulmonary vascularity are within normal limits. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Visualized osseous structures appear intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

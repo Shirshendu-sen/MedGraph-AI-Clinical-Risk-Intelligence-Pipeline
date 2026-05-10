@@ -1,0 +1,16 @@
+UID: 55
+
+INDICATION:
+chest pain
+
+FINDINGS:
+Lung lines remain low. However, no focal infiltrates are identified. Heart and pulmonary XXXX are normal.
+
+IMPRESSION:
+XXXX change. Hypoinflation with no visible active cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

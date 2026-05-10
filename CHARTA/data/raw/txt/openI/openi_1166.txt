@@ -1,0 +1,16 @@
+UID: 1207
+
+INDICATION:
+chronic XXXX
+
+FINDINGS:
+The lungs are clear. The heart and pulmonary XXXX are normal. The pleural spaces are clear. Mediastinal contours are normal. There is no pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary disease
+
+PROBLEMS:
+normal
+
+MESH:
+normal

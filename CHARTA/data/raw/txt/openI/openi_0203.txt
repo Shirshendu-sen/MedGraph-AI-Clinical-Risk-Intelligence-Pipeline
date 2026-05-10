@@ -1,0 +1,16 @@
+UID: 210
+
+INDICATION:
+Vomiting beginning last XXXX. XXXX
+
+FINDINGS:
+There are numerous surgical clips at the thoracic inlet. Small areas of XXXX scarring are seen in the left base. The lungs are otherwise clear. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+Surgical Instruments;Cicatrix
+
+MESH:
+Surgical Instruments/thorax;Cicatrix/lung/base/left/small

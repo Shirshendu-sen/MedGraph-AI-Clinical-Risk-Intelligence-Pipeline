@@ -1,0 +1,16 @@
+UID: 2338
+
+INDICATION:
+XXXX-year-old XXXX with XXXX.
+
+FINDINGS:
+Compared to prior examination, there is significant improvement in aeration bilaterally, with improved bilateral airspace opacities. Currently, there are only minimal streaky opacities in the bilateral midlung, which may represent mild residual airspace disease, atelectasis, or underlying changes of chronic lung disease. No large focal consolidations, pneumothorax, or definite pleural effusions identified. The mediastinal silhouette is stable and within normal limits for size and contour. No acute osseous abnormality is identified.
+
+IMPRESSION:
+Significant improvement in bilateral airspace disease and improved aeration bilaterally as described above.
+
+PROBLEMS:
+Opacity;Airspace Disease
+
+MESH:
+Opacity/lung/middle lobe/bilateral/streaky/mild;Airspace Disease/lung/bilateral

@@ -1,0 +1,16 @@
+UID: 1571
+
+INDICATION:
+Lung cancer.
+
+FINDINGS:
+The heart size and pulmonary vascularity appear within normal limits. Left pleural effusion is present. A mass density is present in the left midlung zone. This measures approximately 3.2 cm in diameter. Air-fluid level is present behind the heart which probably represents a hiatal hernia. Some XXXX of right lung atelectasis are noted. Osteopenia and XXXX deformities are present in the spine. Multiple surgical clips are noted. No pneumothorax is seen.
+
+IMPRESSION:
+1. Left midlung mass. 2. Left base effusion. 3. Probable hiatal hernia.
+
+PROBLEMS:
+Pleural Effusion;Density;Mass;Hernia, Hiatal;Pulmonary Atelectasis;Bone Diseases, Metabolic;Deformity;Surgical Instruments
+
+MESH:
+Pleural Effusion/base/left;Density/lung/lingula;Mass/lung/lingula;Hernia, Hiatal;Pulmonary Atelectasis/right;Bone Diseases, Metabolic/spine;Deformity/spine;Surgical Instruments/multiple

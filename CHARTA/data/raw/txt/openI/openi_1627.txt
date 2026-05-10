@@ -1,0 +1,16 @@
+UID: 1682
+
+INDICATION:
+XXXX-year-old male with XXXX.
+
+FINDINGS:
+There is a lobulated contour to the right paratracheal stripe, possibly consistent with a vascular structure or lymph XXXX. The cardiomediastinal silhouette is otherwise within normal limits for appearance. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. The thoracic spine appears intact.
+
+IMPRESSION:
+1. Lobulated contour of the right paratracheal stripe. This may represent a vascular structure or enlarged lymph node and could be evaluated further with chest CT. Otherwise, no acute intrathoracic abnormality.
+
+PROBLEMS:
+Mediastinum
+
+MESH:
+Mediastinum/paratracheal/enlarged

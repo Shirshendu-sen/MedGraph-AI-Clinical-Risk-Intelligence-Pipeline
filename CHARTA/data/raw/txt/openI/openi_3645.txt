@@ -1,0 +1,16 @@
+UID: 3789
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Mild cardiomegaly is unchanged. Stable superior mediastinal contour appear normal pulmonary vascularity. No XXXX airspace opacity, pleural effusion, or pneumothorax. No acute bony abnormalities. Right upper quadrant surgical clips.
+
+IMPRESSION:
+Stable appearance of the chest. No acute cardiopulmonary findings.
+
+PROBLEMS:
+Cardiomegaly;Surgical Instruments
+
+MESH:
+Cardiomegaly/mild;Surgical Instruments/abdomen/right

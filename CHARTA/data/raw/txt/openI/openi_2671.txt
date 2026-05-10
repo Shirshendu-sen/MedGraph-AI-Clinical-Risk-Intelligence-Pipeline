@@ -1,0 +1,16 @@
+UID: 2774
+
+INDICATION:
+Passed out, XXXX
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Heart size is mildly enlarged, pulmonary vascularity within normal limits.
+
+IMPRESSION:
+1. No acute pulmonary abnormality. 2. Mild cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/mild

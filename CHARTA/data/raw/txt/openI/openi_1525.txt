@@ -1,0 +1,16 @@
+UID: 1577
+
+INDICATION:
+XXXX-year-old female with right pleuritic pain for 7 days.
+
+FINDINGS:
+Heart size is normal. Low lung volumes. No pneumothorax, pleural effusion, or focal airspace disease. Bony structures grossly intact.
+
+IMPRESSION:
+Low lung volumes without acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

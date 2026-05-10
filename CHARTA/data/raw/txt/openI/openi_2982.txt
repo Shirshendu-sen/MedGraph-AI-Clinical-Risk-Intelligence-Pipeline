@@ -1,0 +1,16 @@
+UID: 3108
+
+INDICATION:
+,486
+
+FINDINGS:
+There is XXXX airspace disease in the right lower lobe seen behind the right hemidiaphragm on PA view. This is also well seen on lateral view. Remainder of the lungs appear clear. The heart and pulmonary XXXX appear normal. Mediastinal contours are normal.
+
+IMPRESSION:
+The right lower lobe pneumonia
+
+PROBLEMS:
+Airspace Disease;Pneumonia
+
+MESH:
+Airspace Disease/lung/lower lobe/right;Pneumonia/lower lobe/right

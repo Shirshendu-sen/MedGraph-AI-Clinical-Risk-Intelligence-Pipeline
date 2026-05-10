@@ -1,0 +1,16 @@
+UID: 545
+
+INDICATION:
+Pt POD 6 s/p XXXX to open VHR with chest pain and occasional dyspnea.
+
+FINDINGS:
+Lung volumes are XXXX. XXXX opacities are present in both lung bases. A hiatal hernia is present. Heart and pulmonary XXXX are normal.
+
+IMPRESSION:
+Hypoinflation with bibasilar focal atelectasis.
+
+PROBLEMS:
+Opacity;Hernia, Hiatal;Lung;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/base/bilateral;Hernia, Hiatal;Lung/hypoinflation;Pulmonary Atelectasis/base/bilateral/focal

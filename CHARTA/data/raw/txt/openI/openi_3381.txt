@@ -1,0 +1,16 @@
+UID: 3519
+
+INDICATION:
+History hypertension, high cholesterol, 58 with persistent XXXX.
+
+FINDINGS:
+Large left lower lobe opacity is present. There does not appear to be significant mediastinal shift. There is no pneumothorax. The cardiac silhouette is not definitively identified and not fully evaluated. The mediastinal contours are unremarkable.
+
+IMPRESSION:
+Large left lower lobe opacity XXXX represents a large layering pleural effusion. Right lung is clear.
+
+PROBLEMS:
+Opacity;Pleural Effusion;Technical Quality of Image Unsatisfactory ;Cardiac Shadow
+
+MESH:
+Opacity/lung/lower lobe/left/large;Pleural Effusion/left/large;Technical Quality of Image Unsatisfactory ;Cardiac Shadow/obscured/severe

@@ -1,0 +1,16 @@
+UID: 2407
+
+INDICATION:
+Preop surgical XXXX from the surgery.
+
+FINDINGS:
+Some hyperinflation appears to be present. There are small calcified granulomas. The lungs are otherwise clear. The heart is normal. The mediastinum is normal. The skeletal structures and soft tissues are normal.
+
+IMPRESSION:
+Probable COPD and old granulomatous disease.
+
+PROBLEMS:
+Calcified Granuloma;Pulmonary Disease, Chronic Obstructive;Granulomatous Disease
+
+MESH:
+Calcified Granuloma/lung/multiple/small;Pulmonary Disease, Chronic Obstructive;Granulomatous Disease

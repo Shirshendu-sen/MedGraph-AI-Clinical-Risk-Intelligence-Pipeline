@@ -1,0 +1,16 @@
+UID: 3407
+
+INDICATION:
+Altered mental status
+
+FINDINGS:
+Intact XXXX sternotomy XXXX and CABG markers. Calcified granulomas. Heart size is normal. No focal airspace consolidation, suspicious pulmonary opacity, pneumothorax, or pleural effusion. T-spine degenerative changes.
+
+IMPRESSION:
+Postsurgical changes of CABG without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Thoracic Vertebrae
+
+MESH:
+Calcified Granuloma/multiple;Thoracic Vertebrae/degenerative

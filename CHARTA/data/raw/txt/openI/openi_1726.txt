@@ -1,0 +1,16 @@
+UID: 1785
+
+INDICATION:
+Pneumonia followup
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. Granulomatous calcifications in the paratracheal region. Mild streaky scarring in the right upper lobe. No active pneumonia. Bony structures are intact.
+
+IMPRESSION:
+No lobar pneumonia is present.
+
+PROBLEMS:
+Calcified Granuloma;Cicatrix
+
+MESH:
+Calcified Granuloma/paratracheal;Cicatrix/lung/upper lobe/right/streaky/mild

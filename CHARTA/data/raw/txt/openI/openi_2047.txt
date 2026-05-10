@@ -1,0 +1,16 @@
+UID: 2125
+
+INDICATION:
+chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Tortuous dilated aorta. Minimal basilar infiltrate left base
+
+PROBLEMS:
+Aorta;Infiltrate
+
+MESH:
+Aorta/tortuous;Infiltrate/lung/base/left/mild

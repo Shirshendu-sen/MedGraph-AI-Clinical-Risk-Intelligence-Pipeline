@@ -1,0 +1,16 @@
+UID: 3121
+
+INDICATION:
+Persistent XXXX, nonsmoker
+
+FINDINGS:
+Heart size and mediastinal contour within normal limits. Calcified granuloma right midlung. No focal airspace consolidation, pneumothorax, or large pleural effusion. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Thoracic Vertebrae
+
+MESH:
+Calcified Granuloma/lung/middle lobe/right;Thoracic Vertebrae/degenerative

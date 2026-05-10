@@ -1,0 +1,16 @@
+UID: 643
+
+INDICATION:
+chest pain.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal and lungs are clear. Old healed left lateral rib fractures.
+
+PROBLEMS:
+Fractures, Bone
+
+MESH:
+Fractures, Bone/ribs/left/healed

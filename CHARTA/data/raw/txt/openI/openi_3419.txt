@@ -1,0 +1,16 @@
+UID: 3559
+
+INDICATION:
+XXXX-year-old XXXX, XXXX.
+
+FINDINGS:
+Heart size within normal limits. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax. Mild levocurvature of thoracic spine. A 9 mm pulmonary nodule is noted partially overlying the posterior 6th right rib on the frontal view.
+
+IMPRESSION:
+No acute abnormality.
+
+PROBLEMS:
+Scoliosis;Nodule
+
+MESH:
+Scoliosis/thoracic vertebrae/left/mild;Nodule/lung/right

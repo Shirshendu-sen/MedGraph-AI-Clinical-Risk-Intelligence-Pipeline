@@ -1,0 +1,16 @@
+UID: 37
+
+INDICATION:
+HYPOXIA;
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. XXXX XXXX opacities in right mid lung. The lungs are otherwise grossly clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/middle lobe/right

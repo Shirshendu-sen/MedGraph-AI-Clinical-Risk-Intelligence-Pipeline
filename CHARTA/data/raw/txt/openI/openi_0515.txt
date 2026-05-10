@@ -1,0 +1,16 @@
+UID: 531
+
+INDICATION:
+XXXX-year-old female. XXXX vehicle XXXX.
+
+FINDINGS:
+Right thorax volume loss with some degree of left-to-right mediastinal shift. Relative hyperlucency of left lung, XXXX compensatory hyperinflation. Diminutive right hilar silhouette, compatible with absence of right XXXX pulmonary artery, as noted on prior CT. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute displaced rib fracture.
+
+IMPRESSION:
+Negative for acute abnormality.
+
+PROBLEMS:
+Lung;Lung, Hyperlucent;Volume Loss;Shift
+
+MESH:
+Lung/left/hyperdistention;Lung, Hyperlucent/left;Volume Loss/thorax/right;Shift/mediastinum

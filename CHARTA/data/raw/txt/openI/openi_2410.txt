@@ -1,0 +1,16 @@
+UID: 2496
+
+INDICATION:
+XXXX-year-old XXXX with dyspnea.
+
+FINDINGS:
+There is stable marked cardiomegaly and mediastinal contour. Pulmonary vascularity is within normal limits. The left chest pacemaker is unchanged from comparison exam with fractured proximal lateral XXXX and both XXXX tips overlying the right ventricle. No focal consolidation, suspicious pulmonary opacity, pleural effusion, or pneumothorax. The visualized osseous structures appear intact.
+
+IMPRESSION:
+Stable marked cardiomegaly. No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Cardiomegaly;Implanted Medical Device;Implanted Medical Device
+
+MESH:
+Cardiomegaly/severe;Implanted Medical Device/left;Implanted Medical Device/left

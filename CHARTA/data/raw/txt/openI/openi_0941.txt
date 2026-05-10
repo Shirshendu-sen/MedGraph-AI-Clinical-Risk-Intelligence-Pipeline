@@ -1,0 +1,16 @@
+UID: 974
+
+INDICATION:
+XXXX cell crisis
+
+FINDINGS:
+Stable cardiomediastinal silhouette. Mild congestion without edema. Lungs are expanded and clear of airspace disease. Negative for pneumothorax or pleural effusion. Redemonstrated are endplate depressions of the vertebral bodies, compatible with XXXX cell changes.
+
+IMPRESSION:
+1. Stable chest with no acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Pulmonary Congestion;Spine
+
+MESH:
+Pulmonary Congestion/mild;Spine/degenerative

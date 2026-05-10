@@ -1,0 +1,16 @@
+UID: 1245
+
+INDICATION:
+XXXX-year-old female, heart palpitations
+
+FINDINGS:
+None
+
+IMPRESSION:
+Cardiomegaly, aortic ectasia/tortuosity, cardiomediastinal silhouette appears similar to prior. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.
+
+PROBLEMS:
+Cardiomegaly;Aorta
+
+MESH:
+Cardiomegaly;Aorta/tortuous

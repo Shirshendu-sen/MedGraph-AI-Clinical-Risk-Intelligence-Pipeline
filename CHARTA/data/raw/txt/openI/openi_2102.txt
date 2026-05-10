@@ -1,0 +1,16 @@
+UID: 2180
+
+INDICATION:
+preop kidney transplant. No chest complaints
+
+FINDINGS:
+None
+
+IMPRESSION:
+Marked increase in heart size. Cardiomegaly. Question pericardial effusion. Stable 1.5 cm nodule left mid chest, XXXX a granuloma. Lungs are clear. No effusion. Stable left hilar lymphadenopathy.
+
+PROBLEMS:
+Cardiomegaly;Nodule;Granuloma;Lung
+
+MESH:
+Cardiomegaly/severe;Nodule/thorax/left;Granuloma/thorax/left;Lung/hilum/lymph nodes/left/enlarged

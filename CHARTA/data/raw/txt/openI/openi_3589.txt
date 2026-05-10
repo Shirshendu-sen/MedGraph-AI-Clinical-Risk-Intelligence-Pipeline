@@ -1,0 +1,16 @@
+UID: 3732
+
+INDICATION:
+XXXX-year-old female with XXXX, XXXX, dyspnea
+
+FINDINGS:
+Calcified left hilar lymph node. Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. XXXX and soft tissues are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/left

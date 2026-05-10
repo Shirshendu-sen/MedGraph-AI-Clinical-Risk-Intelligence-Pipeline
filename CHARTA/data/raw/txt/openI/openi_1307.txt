@@ -1,0 +1,16 @@
+UID: 1355
+
+INDICATION:
+XXXX year old female, chest pain
+
+FINDINGS:
+Low lung volumes with streaky bibasilar opacities, right greater than left. Bronchovascular crowding, indistinct central vascular margination. No findings to suggest pleural effusion. Accounting for technical factors heart size XXXX within normal limits.
+
+IMPRESSION:
+Low lung volumes with bronchovascular crowding, bibasilar opacities XXXX due at XXXX in part to atelectasis, infiltrates, pulmonary edema difficult to entirely exclude.
+
+PROBLEMS:
+Lung;Markings;Opacity;Pulmonary Atelectasis;Pulmonary Congestion;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Opacity/lung/base/bilateral/streaky;Pulmonary Atelectasis;Pulmonary Congestion;Technical Quality of Image Unsatisfactory

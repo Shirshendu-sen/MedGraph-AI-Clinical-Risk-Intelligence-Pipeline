@@ -1,0 +1,16 @@
+UID: 2520
+
+INDICATION:
+Bone marrow transplant evaluation
+
+FINDINGS:
+The heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. A few bandlike opacities are present which are XXXX to represent small areas of scarring or atelectasis. There is eventration of the right hemidiaphragm. Calcified granuloma is present in the left lung.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Opacity;Cicatrix;Pulmonary Atelectasis;Diaphragmatic Eventration;Calcified Granuloma
+
+MESH:
+Opacity/thorax/multiple/small;Cicatrix/mild;Pulmonary Atelectasis;Diaphragmatic Eventration/right;Calcified Granuloma/lung/left

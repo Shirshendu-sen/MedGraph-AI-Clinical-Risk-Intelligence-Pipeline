@@ -1,0 +1,16 @@
+UID: 1575
+
+INDICATION:
+chest pain.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Chest. Heart size is normal lungs are clear. Calcified left lung and left hilar granulomas. Left shoulder. No fractures and no dislocations. Minimal XXXX degenerative disease.
+
+PROBLEMS:
+Calcified Granuloma;Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/left;Calcified Granuloma/lung/hilum/left

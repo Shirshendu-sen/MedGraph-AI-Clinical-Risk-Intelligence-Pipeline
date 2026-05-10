@@ -1,0 +1,16 @@
+UID: 978
+
+INDICATION:
+Pacemaker placement
+
+FINDINGS:
+The heart is again mildly enlarged. Mediastinal contours are stable. Changes of XXXX sternotomy and valvuloplasty are noted. Left subclavian ICD is unchanged in position. Lungs are mildly hypoinflated with blunted costophrenic XXXX suggesting small bilateral pleural effusions.
+
+IMPRESSION:
+1. Mild stable cardiomegaly. 2. Small bilateral pleural effusions.
+
+PROBLEMS:
+Cardiomegaly;Implanted Medical Device;Lung;Costophrenic Angle;Pleural Effusion
+
+MESH:
+Cardiomegaly/mild;Implanted Medical Device/left;Lung/hypoinflation/mild;Costophrenic Angle/blunted;Pleural Effusion/bilateral/small

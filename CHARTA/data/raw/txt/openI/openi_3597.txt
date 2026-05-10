@@ -1,0 +1,16 @@
+UID: 3740
+
+INDICATION:
+XXXX for 3 weeks history colon cancer
+
+FINDINGS:
+XXXX diffuse right lower lobe airspace opacity is present. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.
+
+IMPRESSION:
+Probable right lower lobe pneumonia.
+
+PROBLEMS:
+Opacity;Pneumonia
+
+MESH:
+Opacity/lung/lower lobe/right/diffuse;Pneumonia/lower lobe/right

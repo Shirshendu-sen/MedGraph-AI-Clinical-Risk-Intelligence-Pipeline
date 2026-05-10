@@ -1,0 +1,16 @@
+UID: 1578
+
+INDICATION:
+XXXX-year-old female with history of XXXX, MVC.
+
+FINDINGS:
+Cardiac and mediastinal XXXX appear normal. Low lung volumes and bronchovascular crowding. No visible pneumothorax, focal airspace opacity, or pleural effusion is seen. No visible free air under the diaphragm. The osseous structures appear intact. Surgical clips are seen within the right upper abdomen.
+
+IMPRESSION:
+No acute radiographic cardiopulmonary process. .
+
+PROBLEMS:
+Lung;Markings;Surgical Instruments
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Surgical Instruments/abdomen/right

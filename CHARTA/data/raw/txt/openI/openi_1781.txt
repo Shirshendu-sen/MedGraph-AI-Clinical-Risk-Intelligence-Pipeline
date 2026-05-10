@@ -1,0 +1,16 @@
+UID: 1840
+
+INDICATION:
+XXXX left chest pain
+
+FINDINGS:
+PA and lateral views of the chest were obtained. The cardiomediastinal silhouette is normal in size and configuration. The lungs are well aerated. There is asymmetric opacity to left suprahilar chest. No discrete correlate is seen on lateral view. Findings may reflect focal airspace disease or adenopathy. No pleural effusion. No pneumothorax.
+
+IMPRESSION:
+1. Asymmetric left suprahilar opacity, consider focal airspace disease or adenopathy. Correlate clinically as to XXXX or symptoms of infection. Recommend followup radiograph to document resolution.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/hilum/left

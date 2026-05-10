@@ -1,0 +1,16 @@
+UID: 316
+
+INDICATION:
+preop inguinal hernia history of laryngeal cancer
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Lungs are clear. 5 mm right apical granuloma unchanged
+
+PROBLEMS:
+Granuloma
+
+MESH:
+Granuloma/lung/apex/right

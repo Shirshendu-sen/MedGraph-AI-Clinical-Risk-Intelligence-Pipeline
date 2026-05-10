@@ -1,0 +1,16 @@
+UID: 570
+
+INDICATION:
+XXXX-year-old female with XXXX.
+
+FINDINGS:
+Heart size within normal limits. No focal airspace disease. No pneumothorax or effusions.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

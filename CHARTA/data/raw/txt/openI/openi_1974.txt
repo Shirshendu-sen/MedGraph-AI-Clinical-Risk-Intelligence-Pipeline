@@ -1,0 +1,16 @@
+UID: 2045
+
+INDICATION:
+XXXX-year-old with chest pain.
+
+FINDINGS:
+The heart is upper limits of normal in size. Mild tortuosity of the thoracic aorta. The lungs are clear without infiltrate. There is no effusion or pneumothorax.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease.
+
+PROBLEMS:
+Aorta, Thoracic
+
+MESH:
+Aorta, Thoracic/tortuous/mild

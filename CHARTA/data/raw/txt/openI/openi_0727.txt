@@ -1,0 +1,16 @@
+UID: 748
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Mediastinal contours are within normal limits. Heart size is within normal limits. No focal consolidation, pneumothorax or pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

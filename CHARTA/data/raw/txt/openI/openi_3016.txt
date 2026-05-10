@@ -1,0 +1,16 @@
+UID: 3142
+
+INDICATION:
+possible seizure
+
+FINDINGS:
+There is stable mild cardiomegaly without significant pulmonary vascular congestion. They're stable tortuosity of the aorta. There is no acute pulmonary consolidation, large effusion or pneumothorax.
+
+IMPRESSION:
+No acute process. Stable cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly;Aorta
+
+MESH:
+Cardiomegaly/mild;Aorta/tortuous

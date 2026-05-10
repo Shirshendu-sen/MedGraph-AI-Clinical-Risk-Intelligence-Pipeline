@@ -1,0 +1,16 @@
+UID: 3363
+
+INDICATION:
+Shielded, PDP.
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. The lungs are grossly clear. XXXX XXXX opacities in the lung bases. There are XXXX fragments overlying the posterior left chest, right neck base and XXXX fragments in the left costophrenic XXXX. There is no pleural effusion or pneumothorax.
+
+IMPRESSION:
+XXXX bullet fragments, as described above. No evidence of acute parenchymal abnormality.
+
+PROBLEMS:
+Opacity;Foreign Bodies;Foreign Bodies;Foreign Bodies
+
+MESH:
+Opacity/lung/base/bilateral/multiple;Foreign Bodies/thorax/left/posterior;Foreign Bodies/neck/right;Foreign Bodies/costophrenic angle/left

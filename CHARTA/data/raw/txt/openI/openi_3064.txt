@@ -1,0 +1,16 @@
+UID: 3191
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Borderline cardiac enlargement. Enlarged calcified thoracic aorta. Emphysema. No acute pulmonary abnormality. Mild spondylosis.
+
+IMPRESSION:
+Emphysema. No acute pulmonary findings.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis;Aorta, Thoracic;Emphysema;Spondylosis
+
+MESH:
+Cardiomegaly/borderline;Calcinosis/aorta, thoracic;Aorta, Thoracic/enlarged;Emphysema;Spondylosis/mild

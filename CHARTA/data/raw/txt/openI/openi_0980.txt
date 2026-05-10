@@ -1,0 +1,16 @@
+UID: 1013
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+Stable mild cardiomegaly. No pneumothorax, pleural effusion, or focal airspace disease. Bony structures intact. Right humeral head bone anchor.
+
+IMPRESSION:
+Stable mild cardiomegaly without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Cardiomegaly;Implanted Medical Device
+
+MESH:
+Cardiomegaly/mild;Implanted Medical Device/humerus/right

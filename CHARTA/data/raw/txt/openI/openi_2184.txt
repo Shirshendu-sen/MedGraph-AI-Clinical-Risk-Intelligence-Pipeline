@@ -1,0 +1,16 @@
+UID: 2264
+
+INDICATION:
+XXXX-year-old male, XXXX
+
+FINDINGS:
+Normal heart size and mediastinal contours. Low lung volumes. No focal airspace consolidation. No pneumothorax or pleural effusion. Visualized bony structures are unremarkable in appearance.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

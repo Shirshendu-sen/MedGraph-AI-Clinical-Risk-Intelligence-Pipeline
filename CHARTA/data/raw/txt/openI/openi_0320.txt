@@ -1,0 +1,16 @@
+UID: 332
+
+INDICATION:
+XXXX, XXXX x1 XXXX. Concern for left lower lobe pneumonia on physical exam.
+
+FINDINGS:
+There are are streaky retrocardiac left lower lobe opacities, in the correct clinical setting this could represent a pneumonia. There is no pneumothorax or pleural effusion. The cardiac silhouette is within normal limits.
+
+IMPRESSION:
+Streaky left retrocardiac airspace opacities, in the correct clinical setting this could represent a pneumonia.
+
+PROBLEMS:
+Opacity;Opacity
+
+MESH:
+Opacity/lung/lower lobe/left/streaky;Opacity/retrocardiac/streaky

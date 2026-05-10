@@ -1,0 +1,16 @@
+UID: 2302
+
+INDICATION:
+XXXX-year-old male, positive PPD, asymptomatic, rule out TB.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for size and contour. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. No acute osseus abnormality..
+
+IMPRESSION:
+No acute cardiopulmonary process, specifically no evidence of active tuberculosis.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

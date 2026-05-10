@@ -1,0 +1,16 @@
+UID: 2396
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+There are bilateral opacities most prominent in the lower lobes bilaterally. There is no evidence of pneumothorax or large pleural effusion. The cardiac and mediastinal contours are within normal limits. The XXXX are unremarkable. There is an embolization XXXX overlying left upper quadrant.
+
+IMPRESSION:
+Bilateral opacities most prominent in the lower lobes XXXX representing airspace disease or edema.
+
+PROBLEMS:
+Opacity;Airspace Disease;Pulmonary Edema
+
+MESH:
+Opacity/lung/lower lobe/bilateral/prominent;Airspace Disease/lung/lower lobe/bilateral;Pulmonary Edema/lower lobe/bilateral

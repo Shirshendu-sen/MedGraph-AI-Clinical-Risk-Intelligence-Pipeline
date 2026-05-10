@@ -1,0 +1,16 @@
+UID: 3123
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+The heart is enlarged. Changes of XXXX sternotomy and bypass graft are identified in the lungs are grossly clear. XXXX right pleural thickening versus XXXX pleural effusion is noted. There is no acute infiltrate. No pneumothorax is seen. Mild granulomatous sequela are noted.
+
+IMPRESSION:
+Mild stable cardiomegaly without acute disease. Possible XXXX right pleural effusion.
+
+PROBLEMS:
+Cardiomegaly;Thickening;Pleural Effusion;Granulomatous Disease
+
+MESH:
+Cardiomegaly/mild;Thickening/pleura/right;Pleural Effusion/right;Granulomatous Disease/mild

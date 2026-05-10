@@ -1,0 +1,16 @@
+UID: 2100
+
+INDICATION:
+XXXX-year-old female with hypertension
+
+FINDINGS:
+The heart size and mediastinal contours appear within normal limits. Atherosclerotic calcification of the aorta. No focal airspace consolidation, pleural effusions or pneumothorax. Questionable thin-walled cavitary lesion in the right lower lobe, only seen on the AP view and may represent artifact. No acute bony abnormalities.
+
+IMPRESSION:
+1. No acute cardiopulmonary findings.
+
+PROBLEMS:
+Atherosclerosis
+
+MESH:
+Atherosclerosis/aorta

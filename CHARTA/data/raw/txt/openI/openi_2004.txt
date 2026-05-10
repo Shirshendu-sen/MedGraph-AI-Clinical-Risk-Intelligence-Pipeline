@@ -1,0 +1,16 @@
+UID: 2079
+
+INDICATION:
+XXXX-year-old woman with chest pain.
+
+FINDINGS:
+The lungs are clear, and without focal airspace opacity. The cardiomediastinal silhouette is normal in size and contour, and stable. There are calcified granulomas at the right perihilar regions appear stable. There are significant degenerative osteophytes of the thoracic spine also appear stable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Osteophyte
+
+MESH:
+Calcified Granuloma/lung/hilum/right/multiple;Osteophyte/thoracic vertebrae/degenerative/multiple/severe

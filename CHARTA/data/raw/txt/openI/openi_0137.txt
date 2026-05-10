@@ -1,0 +1,16 @@
+UID: 139
+
+INDICATION:
+XXXX-year-old female with shortness of breath.
+
+FINDINGS:
+The cardiac silhouette is mildly enlarged. A lobulated opacity is identified superior to the heart, in the anterior mediastinum on the lateral view, possibly consistent with a tortuous/ectatic thoracic aorta versus an anterior mediastinal mass. The thoracic aorta is tortuous and calcified. No focal areas of pulmonary consolidation. The lungs are hyperexpanded with flattening of the bilateral hemidiaphragms. No pneumothorax or pleural effusion. Severe degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. Lobulated anterior mediastinal opacity on the lateral view, possibly consistent with a tortuous/ectatic thoracic aorta versus an anterior mediastinal mass. Contrast-enhanced XXXX examination would XXXX to further evaluate if clinically indicated. 2. Mild cardiomegaly with findings of chronic obstructive pulmonary disease.
+
+PROBLEMS:
+Cardiac Shadow;Opacity;Aorta, Thoracic;Calcinosis;Lung;Diaphragm;Thoracic Vertebrae;Cardiomegaly;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Cardiac Shadow/enlarged/mild;Opacity/supracardiac;Aorta, Thoracic/tortuous;Calcinosis/aorta, thoracic;Lung/hyperdistention;Diaphragm/bilateral/flattened;Thoracic Vertebrae/degenerative/severe;Cardiomegaly/mild;Pulmonary Disease, Chronic Obstructive

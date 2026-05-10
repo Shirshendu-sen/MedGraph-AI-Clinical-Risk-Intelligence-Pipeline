@@ -1,0 +1,16 @@
+UID: 2726
+
+INDICATION:
+pt has iv''s in XXXX, unable to remove gown or XXXX
+
+FINDINGS:
+The heart is normal in size. The mediastinum is within normal limits. The study is somewhat limited. No focal consolidation is seen.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

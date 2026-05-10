@@ -1,0 +1,16 @@
+UID: 2047
+
+INDICATION:
+XXXX-year-old male, rule out tuberculosis
+
+FINDINGS:
+Large calcified granuloma in the right lower lobe is unchanged. No pneumothorax. Heart size is normal. No large pleural effusions. No focal airspace opacification.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/lower lobe/right/large

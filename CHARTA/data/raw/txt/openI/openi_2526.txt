@@ -1,0 +1,16 @@
+UID: 2620
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Cardiac silhouette within normal limits. Central pulmonary vasculature is not engorged. No pneumothorax or pleural effusion. Visualized osseous structures are unremarkable. No edema or focal consolidation in the lungs.
+
+IMPRESSION:
+No evidence of acute cardiopulmonary process.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

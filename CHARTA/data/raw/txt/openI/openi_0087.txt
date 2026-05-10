@@ -1,0 +1,16 @@
+UID: 88
+
+INDICATION:
+Worsening dyspnea, history of coronary artery disease
+
+FINDINGS:
+Heart is mildly heart enlarged. Mediastinal contour normal. There is mild diffuse interstitial prominence suggestive of edema. No focal airspace consolidation or pleural effusion. Degenerative changes of the the spine.
+
+IMPRESSION:
+1. Findings consistent with mild congestive heart failure.
+
+PROBLEMS:
+Cardiomegaly;Markings;Spine;Heart Failure
+
+MESH:
+Cardiomegaly/mild;Markings/lung/interstitial/diffuse/mild;Spine/degenerative;Heart Failure/mild

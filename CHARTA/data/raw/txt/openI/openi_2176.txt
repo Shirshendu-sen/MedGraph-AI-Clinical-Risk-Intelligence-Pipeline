@@ -1,0 +1,16 @@
+UID: 2256
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+XXXX XXXX and lateral chest examination was obtained. One AP view is expiratory and was repeated. The heart silhouette is normal in size and contour. Aortic XXXX appear unremarkable. Lungs demonstrate no focal infiltrates. There is no effusion or pneumothorax.
+
+IMPRESSION:
+1. No acute pulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

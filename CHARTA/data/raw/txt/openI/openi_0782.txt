@@ -1,0 +1,16 @@
+UID: 805
+
+INDICATION:
+XXXX for one XXXX
+
+FINDINGS:
+The lungs are clear. No focal airspace consolidation. No pleural effusion or pneumothorax. Normal cardiomediastinal silhouette. Mild degenerative changes of the spine.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative/mild

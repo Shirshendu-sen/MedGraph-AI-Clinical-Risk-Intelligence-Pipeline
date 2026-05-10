@@ -1,0 +1,16 @@
+UID: 2727
+
+INDICATION:
+XXXX-year-old male status post left chest nodule
+
+FINDINGS:
+Heart size is normal. Cardiomediastinal silhouette stable. No pneumothorax, pleural effusion, or focal airspace disease. Nodular densities consistent with chronic granulomatous disease. Bony structures appear intact. Emphysema.
+
+IMPRESSION:
+Negative for acute cardiopulmonary disease. No pulmonary nodules identified.
+
+PROBLEMS:
+Density;Granulomatous Disease;Emphysema
+
+MESH:
+Density/thorax/round/multiple;Granulomatous Disease/chronic;Emphysema

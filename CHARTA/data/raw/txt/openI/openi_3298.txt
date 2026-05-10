@@ -1,0 +1,16 @@
+UID: 3432
+
+INDICATION:
+XXXX-year-old female with XXXX and chest pain
+
+FINDINGS:
+Cardiomegaly is noted. No pleural effusions. No pneumothorax. There is perihilar prominence and interstitial opacification.
+
+IMPRESSION:
+Stable cardiomegaly with prominent perihilar opacities which may represent scarring or edema.
+
+PROBLEMS:
+Cardiomegaly;Lung;Opacity;Opacity
+
+MESH:
+Cardiomegaly;Lung/hilum/prominent;Opacity/lung/interstitial;Opacity/lung/hilum/prominent

@@ -1,0 +1,16 @@
+UID: 521
+
+INDICATION:
+XXXX-year-old male, XXXX, MVA
+
+FINDINGS:
+Low lung volumes with bronchovascular crowding. No focal alveolar consolidation, no definite pleural effusion seen. Heart size within normal limits for technique, no typical mediastinal widening of vascular injury. No pleural line of pneumothorax.
+
+IMPRESSION:
+Limited quality exam shows no definite acute findings.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Lung;Markings
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Lung/hypoinflation;Markings/bronchovascular

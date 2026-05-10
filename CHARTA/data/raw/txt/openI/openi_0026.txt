@@ -1,0 +1,16 @@
+UID: 27
+
+INDICATION:
+Chronic XXXX XXXX
+
+FINDINGS:
+Lungs are overall hyperexpanded with flattening of the diaphragms. No focal consolidation. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+Hyperexpanded but clear lungs.
+
+PROBLEMS:
+Lung;Diaphragm;Thoracic Vertebrae
+
+MESH:
+Lung/hyperdistention;Diaphragm/flattened;Thoracic Vertebrae/degenerative

@@ -1,0 +1,16 @@
+UID: 418
+
+INDICATION:
+XXXX-year-old male, chest pain
+
+FINDINGS:
+Stable enlargement of the cardiac silhouette, stable mediastinal and hilar contours, surgical clips and CABG markers. Stable XXXX densities in the left base compatible with scarring or chronic subsegmental atelectasis. No focal alveolar consolidation, no definite pleural effusion seen. Right hilar calcifications suggest a previous granulomatous process. No typical findings of pulmonary edema.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Cardiac Shadow;Surgical Instruments;Density;Cicatrix;Pulmonary Atelectasis;Calcinosis
+
+MESH:
+Cardiac Shadow/enlarged;Surgical Instruments;Density/lung/base/left;Cicatrix/lung/base/left;Pulmonary Atelectasis/base/left/chronic;Calcinosis/lung/hilum/right

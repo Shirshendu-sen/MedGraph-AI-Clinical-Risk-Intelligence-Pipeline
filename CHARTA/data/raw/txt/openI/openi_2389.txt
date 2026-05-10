@@ -1,0 +1,16 @@
+UID: 2475
+
+INDICATION:
+chest pain
+
+FINDINGS:
+Heart size remains slightly large. Pulmonary XXXX are normal. Aorta tortuous.
+
+IMPRESSION:
+XXXX change. No active cardiopulmonary disease.
+
+PROBLEMS:
+Cardiomegaly;Aorta
+
+MESH:
+Cardiomegaly/mild;Aorta/tortuous

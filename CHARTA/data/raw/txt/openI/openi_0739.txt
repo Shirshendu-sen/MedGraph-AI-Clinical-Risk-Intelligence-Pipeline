@@ -1,0 +1,16 @@
+UID: 760
+
+INDICATION:
+XXXX-year-old woman with progressive XXXX loss. History of smoking..
+
+FINDINGS:
+There is minimal hyperexpansion and hyperlucency of the lungs suggestive of chronic lung disease, without focal consolidation, pneumothorax, or effusion identified. XXXX opacity in the left XXXX XXXX subsegmental atelectasis. Cardiomediastinal silhouette is grossly stable and within normal limits, with mild tortuosity and atherosclerosis of the thoracic aorta. Multilevel degenerative disc disease of the thoracolumbar spine noted without acute bony abnormality.
+
+IMPRESSION:
+Changes of chronic lung disease without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Lung, Hyperlucent;Pulmonary Disease, Chronic Obstructive;Opacity;Pulmonary Atelectasis;Aorta, Thoracic;Atherosclerosis;Thoracic Vertebrae;Lumbar Vertebrae
+
+MESH:
+Lung/hyperdistention/mild;Lung, Hyperlucent;Pulmonary Disease, Chronic Obstructive;Opacity/lung/left;Pulmonary Atelectasis/left;Aorta, Thoracic/tortuous/mild;Atherosclerosis/aorta, thoracic;Thoracic Vertebrae/degenerative/multiple;Lumbar Vertebrae/degenerative/multiple

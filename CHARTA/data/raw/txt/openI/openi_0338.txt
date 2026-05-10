@@ -1,0 +1,16 @@
+UID: 350
+
+INDICATION:
+XXXX and XXXX, history of breast cancer
+
+FINDINGS:
+Normal cardiomediastinal contours. No pneumothorax or large pleural effusions. Left basilar patchy opacities. Small hiatal hernia.
+
+IMPRESSION:
+Left basilar patchy opacities, which may represent atelectasis or infection. .
+
+PROBLEMS:
+Opacity;Hernia, Hiatal
+
+MESH:
+Opacity/lung/base/left/patchy;Hernia, Hiatal/small

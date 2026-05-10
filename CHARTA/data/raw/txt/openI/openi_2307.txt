@@ -1,0 +1,16 @@
+UID: 2390
+
+INDICATION:
+Followup lung cancer
+
+FINDINGS:
+The heart is borderline in size. The mediastinum is stable with changes of XXXX sternotomy and bypass graft. Aorta is atherosclerotic. There are postsurgical changes of the left hemithorax with mild left-sided volume loss as evidenced by diaphragm elevation. Left post thoracotomy rib changes are noted. The right lung is clear. There is no pleural effusion.
+
+IMPRESSION:
+Stable left thoracotomy changes with left-sided volume loss. No acute interval change.
+
+PROBLEMS:
+Cardiomegaly;Atherosclerosis;Volume Loss;Diaphragm;Deformity
+
+MESH:
+Cardiomegaly/borderline;Atherosclerosis/aorta;Volume Loss/thorax/left/mild;Diaphragm/left/elevated;Deformity/thorax/left

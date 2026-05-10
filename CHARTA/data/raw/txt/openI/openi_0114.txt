@@ -1,0 +1,16 @@
+UID: 116
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Stable postsurgical changes. Heart XXXX, mediastinum and lung XXXX are unremarkable. Stable calcified small granuloma in left base.
+
+IMPRESSION:
+No radiographic evidence of acute cardiopulmonary disease
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/base/left/small

@@ -1,0 +1,16 @@
+UID: 2339
+
+INDICATION:
+Pre-op evaluation, XXXX surgery.
+
+FINDINGS:
+The heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. Multiple XXXX-filled loops of bowel are present. Gastrostomy is noted.
+
+IMPRESSION:
+1. Clear lungs.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

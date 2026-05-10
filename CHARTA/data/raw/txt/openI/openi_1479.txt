@@ -1,0 +1,16 @@
+UID: 1531
+
+INDICATION:
+XXXX-year-old female, preop evaluation
+
+FINDINGS:
+Heart size within normal limits, stable mediastinal contours with aortic ectasia/tortuosity. Left hilar and left lower lobe calcifications XXXX indicate a previous granulomatous process. No alveolar consolidation, no findings of pleural effusion or pulmonary edema. No pneumothorax.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Aorta;Calcinosis;Calcinosis;Granulomatous Disease
+
+MESH:
+Aorta/tortuous;Calcinosis/lung/lower lobe/left;Calcinosis/lung/hilum/left;Granulomatous Disease

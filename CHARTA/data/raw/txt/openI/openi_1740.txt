@@ -1,0 +1,16 @@
+UID: 1799
+
+INDICATION:
+XXXX-year-old female dyspnea.
+
+FINDINGS:
+Heart size within normal limits. No focal airspace disease. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+No acute right pulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

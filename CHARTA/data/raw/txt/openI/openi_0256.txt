@@ -1,0 +1,16 @@
+UID: 267
+
+INDICATION:
+pt with XXXX.please XXXX for infiltrates
+
+FINDINGS:
+Endotracheal tube and NG tube have been removed. Mild patchy bilateral airspace disease. There are small bilateral pleural effusions. No pneumothorax. Heart and mediastinum are stable with normal size heart. Degenerative changes in the spine.
+
+IMPRESSION:
+Small bilateral pleural effusions with a few scattered areas of patchy bilateral airspace disease.
+
+PROBLEMS:
+Airspace Disease;Pleural Effusion;Spine
+
+MESH:
+Airspace Disease/lung/bilateral/scattered/patchy/multiple/mild;Pleural Effusion/bilateral/small;Spine/degenerative

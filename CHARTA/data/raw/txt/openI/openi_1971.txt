@@ -1,0 +1,16 @@
+UID: 2042
+
+INDICATION:
+History of followup TB
+
+FINDINGS:
+None
+
+IMPRESSION:
+The heart size is normal. There is minimal fibronodular scarring right apex, otherwise lungs clear
+
+PROBLEMS:
+Cicatrix;Nodule
+
+MESH:
+Cicatrix/lung/apex/right/round;Nodule/lung/apex/right/round

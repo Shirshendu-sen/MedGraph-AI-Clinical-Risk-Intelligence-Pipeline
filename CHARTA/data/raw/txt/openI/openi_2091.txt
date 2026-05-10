@@ -1,0 +1,16 @@
+UID: 2169
+
+INDICATION:
+XXXX-year-old male with history of renal mass
+
+FINDINGS:
+The lungs are hyperexpanded. There is a large rounded lucency in the right upper lung, XXXX large emphysematous XXXX. There are XXXX biapical opacities, XXXX scarring. No focal airspace consolidation to suggest pneumonia. There is no pleural effusion. No pneumothorax. Normal heart size. There are minimal degenerative changes of the spine.
+
+IMPRESSION:
+Emphysema. Large right upper lobe XXXX. Biapical scarring.
+
+PROBLEMS:
+Lung;Lucency;Pulmonary Emphysema;Opacity;Cicatrix;Spine
+
+MESH:
+Lung/hyperdistention;Lucency/lung/upper lobe/right/round/large;Pulmonary Emphysema/severe;Opacity/lung/apex/bilateral;Cicatrix/lung/apex/bilateral;Spine/degenerative/mild

@@ -1,0 +1,16 @@
+UID: 3008
+
+INDICATION:
+chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and lungs are clear. No effusions, pneumonia, or pneumothorax.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

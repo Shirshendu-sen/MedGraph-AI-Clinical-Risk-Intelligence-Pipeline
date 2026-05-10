@@ -1,0 +1,16 @@
+UID: 2397
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Stable normal cardiac size and contour, normal mediastinal silhouette. Normal pulmonary XXXX. Lungs clear, no airspace disease. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+Stable chest, no active/acute cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

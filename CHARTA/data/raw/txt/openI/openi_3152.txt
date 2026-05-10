@@ -1,0 +1,16 @@
+UID: 3280
+
+INDICATION:
+XXXX-year-old male with dyspnea and crackles on exam.
+
+FINDINGS:
+Right middle lobe opacity is present. The cardiac silhouette and mediastinal contours are within normal limits. There is no pneumothorax. No large pleural effusion.
+
+IMPRESSION:
+Right middle lobe opacity which may represent a focal area of consolidation or atelectasis.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/middle lobe/right

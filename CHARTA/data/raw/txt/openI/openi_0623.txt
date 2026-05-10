@@ -1,0 +1,16 @@
+UID: 642
+
+INDICATION:
+INFECTION/XXXX;XXXX 12:30p-kg
+
+FINDINGS:
+None
+
+IMPRESSION:
+Comparison XXXX, XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

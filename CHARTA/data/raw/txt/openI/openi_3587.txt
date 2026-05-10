@@ -1,0 +1,16 @@
+UID: 3730
+
+INDICATION:
+History of breast cancer.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. No effusions. XXXX interstitial infiltrate in the left lung. Less XXXX on the right lung. This may represent lymphangitic spread of carcinoma. Other etiologies may include mycoplasma pneumonia or viral pneumonia. Ordering physician was notified of this finding at the time of the exam. Further evaluation may require CT with IV contrast and high-resolution scans.
+
+PROBLEMS:
+Infiltrate
+
+MESH:
+Infiltrate/lung/left/interstitial

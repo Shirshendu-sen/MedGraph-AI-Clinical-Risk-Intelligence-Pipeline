@@ -1,0 +1,16 @@
+UID: 2376
+
+INDICATION:
+XXXX x1 XXXX.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours, lungs, pleura, osseous structures and visualized upper abdomen are normal.
+
+IMPRESSION:
+Unremarkable radiographs of the chest.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

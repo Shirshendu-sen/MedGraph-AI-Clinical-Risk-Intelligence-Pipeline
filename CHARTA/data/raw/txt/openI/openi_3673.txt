@@ -1,0 +1,16 @@
+UID: 3818
+
+INDICATION:
+XXXX-year-old XXXX with chest pain.
+
+FINDINGS:
+Heart and mediastinum within normal limits. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax.
+
+IMPRESSION:
+No acute abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

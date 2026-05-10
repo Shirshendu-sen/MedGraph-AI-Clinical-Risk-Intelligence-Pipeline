@@ -1,0 +1,16 @@
+UID: 2630
+
+INDICATION:
+History of sarcoidosis.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Slightly tortuous aorta. Calcified right hilar lymph XXXX. No adenopathy or fibrosis.
+
+PROBLEMS:
+Aorta;Calcinosis
+
+MESH:
+Aorta/tortuous/mild;Calcinosis/lung/hilum/lymph nodes/right

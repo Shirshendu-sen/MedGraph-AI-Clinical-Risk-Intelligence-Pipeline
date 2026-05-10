@@ -1,0 +1,16 @@
+UID: 3799
+
+INDICATION:
+History of XXXX implant
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Minimal subsegmental atelectasis in the left base, seen XXXX on the lateral film, otherwise lungs are clear. Degenerative disease of thoracic spine. Stable left lower lobe 5 mm granuloma adjacent to the heart XXXX.
+
+PROBLEMS:
+Pulmonary Atelectasis;Thoracic Vertebrae;Granuloma
+
+MESH:
+Pulmonary Atelectasis/base/left/mild;Thoracic Vertebrae/degenerative;Granuloma/lung/lower lobe/left

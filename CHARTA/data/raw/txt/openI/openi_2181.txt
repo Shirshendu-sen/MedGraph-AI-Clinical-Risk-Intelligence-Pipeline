@@ -1,0 +1,16 @@
+UID: 2261
+
+INDICATION:
+Chest pain today.
+
+FINDINGS:
+Frontal and lateral views of the chest with overlying external cardiac monitor leads show normal size and configuration of the cardiac silhouette. Normal pulmonary vasculature and central airways. No focal airspace consolidation or pleural effusion. Incidental note XXXX of an azygos fissure. There are surgical clips, perhaps from cholecystectomy, in the right upper quadrant.
+
+IMPRESSION:
+No acute or active cardiac, pulmonary or pleural disease.
+
+PROBLEMS:
+Medical Device;Surgical Instruments;Lung
+
+MESH:
+Medical Device;Surgical Instruments/abdomen/right;Lung/azygos lobe

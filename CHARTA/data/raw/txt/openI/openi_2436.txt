@@ -1,0 +1,16 @@
+UID: 2525
+
+INDICATION:
+XXXX and congestion
+
+FINDINGS:
+None
+
+IMPRESSION:
+Normal heart size. XXXX scarring in the left lung base. Otherwise, clear lungs. Reconstructed right clavicle.
+
+PROBLEMS:
+Cicatrix;Deformity
+
+MESH:
+Cicatrix/lung/base/left;Deformity/clavicle/right

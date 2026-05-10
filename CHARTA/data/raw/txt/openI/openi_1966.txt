@@ -1,0 +1,16 @@
+UID: 2036
+
+INDICATION:
+Question pneumonia, shortness of breath.
+
+FINDINGS:
+There is mild cardiomegaly. The thoracic aorta is tortuous. Lung volumes are low with asymmetric elevation of the right hemidiaphragm. There is platelike atelectasis in the right midlung along with bibasilar airspace disease, either atelectasis or infiltrate. No pneumothorax.
+
+IMPRESSION:
+1. Bibasilar airspace disease, greater on the right, either atelectasis or infiltrate. 2. Platelike right midlung atelectasis. .
+
+PROBLEMS:
+Cardiomegaly;Aorta, Thoracic;Lung;Diaphragm;Pulmonary Atelectasis;Airspace Disease;Pulmonary Atelectasis;Infiltrate
+
+MESH:
+Cardiomegaly/mild;Aorta, Thoracic/tortuous;Lung/hypoinflation;Diaphragm/right/elevated;Pulmonary Atelectasis/middle lobe/right;Airspace Disease/lung/base/bilateral;Pulmonary Atelectasis/base/bilateral;Infiltrate/lung/base/bilateral

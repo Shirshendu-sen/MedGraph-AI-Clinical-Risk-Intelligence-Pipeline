@@ -1,0 +1,16 @@
+UID: 756
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+Normal cardiomediastinal silhouette. No airspace consolidation, pneumothorax, pleural effusion, or pulmonary edema. No acute bony abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

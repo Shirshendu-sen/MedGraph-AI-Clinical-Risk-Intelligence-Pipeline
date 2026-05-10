@@ -1,0 +1,16 @@
+UID: 3752
+
+INDICATION:
+XXXX, XXXX, EtOH
+
+FINDINGS:
+None
+
+IMPRESSION:
+1. Widened upper mediastinal silhouette. May represent vascular shadows exaggerated by supine and very lordotic imaging technique. However, the setting of XXXX, upper mediastinal hematoma not excluded. Depending on clinical suspicion and mechanism further investigation may be warranted. 2. Mild cardiomegaly appears stable. No edema. No layering pleural effusions, focal consolidation or pneumothorax.
+
+PROBLEMS:
+Mediastinum;Cardiomegaly
+
+MESH:
+Mediastinum/prominent;Cardiomegaly/mild

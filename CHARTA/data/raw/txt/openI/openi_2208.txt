@@ -1,0 +1,16 @@
+UID: 2289
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+Lungs are clear. blunting of the left costophrenic XXXX consistent with a small left pleural effusion and associated airspace disease. The right lung is clear. Sequelae of old granulomatous disease. Heart size is upper limits of normal. Degenerative changes in the spine.
+
+IMPRESSION:
+1. Heart size upper limits of normal. 2. Small left pleural effusion with associated airspace disease.
+
+PROBLEMS:
+Costophrenic Angle;Pleural Effusion;Airspace Disease;Granulomatous Disease;Spine
+
+MESH:
+Costophrenic Angle/left/blunted;Pleural Effusion/left/small;Airspace Disease/lung/left;Granulomatous Disease;Spine/degenerative

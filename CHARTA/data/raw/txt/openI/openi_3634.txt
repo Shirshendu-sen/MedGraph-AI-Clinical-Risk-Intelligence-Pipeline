@@ -1,0 +1,16 @@
+UID: 3777
+
+INDICATION:
+The patient is a XXXX-year-old male with chest pain.
+
+FINDINGS:
+Low lung volumes. The trachea is midline. Negative for pneumothorax, pleural effusion or focal airspace consolidation. The heart size is normal. Mild degenerate change of the thoracic spine. Stable cholecystectomy clips in the right upper quadrant.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Thoracic Vertebrae;Surgical Instruments
+
+MESH:
+Lung/hypoinflation;Thoracic Vertebrae/degenerative/mild;Surgical Instruments/abdomen/right

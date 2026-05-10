@@ -1,0 +1,16 @@
+UID: 3087
+
+INDICATION:
+HYPERTENSION; XXXX up for hernia repair.
+
+FINDINGS:
+The heart is enlarged. The mediastinal contours are stable. Large hiatal hernia is identified containing stomach and colon. Questionable small bowel loops are also visualized inthe large hernia. There is adjacent compressive atelectasis. The lungs are clear.
+
+IMPRESSION:
+No acute disease. Stable appearance of large hiatal hernia containing stomach and large bowel as well as possible small bowel loops.
+
+PROBLEMS:
+Cardiomegaly;Hernia, Hiatal;Pulmonary Atelectasis
+
+MESH:
+Cardiomegaly;Hernia, Hiatal/large;Pulmonary Atelectasis

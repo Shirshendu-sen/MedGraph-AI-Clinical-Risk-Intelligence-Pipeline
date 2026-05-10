@@ -1,0 +1,16 @@
+UID: 611
+
+INDICATION:
+XXXX-year-old female with headache.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for appearance. Pulmonary hypoinflation with bronchovascular crowding. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. The thoracic spine appears intact. No acute, displaced rib fractures.
+
+IMPRESSION:
+1. Pulmonary hypoinflation. Otherwise, no acute intrathoracic abnormality.
+
+PROBLEMS:
+Lung;Markings
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular

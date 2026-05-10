@@ -1,0 +1,16 @@
+UID: 2415
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+The heart is mildly enlarged. The lungs are hypoinflated with mildly elevated left hemidiaphragm. There is patchy opacity in the left lung base which may be secondary to atelectasis and/or possible infiltrate. Increased markings are noted throughout and were present on prior CT. The study is limited secondary to moderate XXXX motion. Underlying emphysematous changes are identified.
+
+IMPRESSION:
+Hypoinflation with elevated left hemidiaphragm and possible left basilar infiltrate versus atelectasis. Followup evaluation is suggested in 2 to 4 weeks. IMPRESSION: Exam: CHEST 2V FRONTAL/LATERAL Date: XXXX, XXXX XXXX PM Comparison: CT chest XXXX History: Shortness of breath FINDINGS: The heart is mildly enlarged. The lungs are hypoinflated with mildly elevated left hemidiaphragm. There is patchy opacity in the left lung base which may be secondary to atelectasis and/or possible infiltrate. Increased markings are noted throughout and were present on prior CT. The study is limited secondary to moderate XXXX motion. Underlying emphysematous changes are identified. IMPRESSION: Hypoinflation with elevated left hemidiaphragm and possible left basilar infiltrate versus atelectasis. Followup evaluation is suggested in 2 to 4 weeks.
+
+PROBLEMS:
+Cardiomegaly;Lung;Diaphragm;Opacity;Markings;Technical Quality of Image Unsatisfactory ;Emphysema
+
+MESH:
+Cardiomegaly/mild;Lung/hypoinflation;Diaphragm/left/elevated/mild;Opacity/lung/base/left/patchy;Markings/prominent;Technical Quality of Image Unsatisfactory ;Emphysema

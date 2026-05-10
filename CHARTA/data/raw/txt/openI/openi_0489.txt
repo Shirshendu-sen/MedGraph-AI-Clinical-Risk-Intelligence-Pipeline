@@ -1,0 +1,16 @@
+UID: 504
+
+INDICATION:
+XXXX-year-old with dyspnea.
+
+FINDINGS:
+Stable cardiomediastinal silhouette. Stable XXXX opacity in the left base, XXXX scarring or atelectasis. Rounded calcified density in the left lung base, XXXX calcified granuloma. No XXXX consolidation. No pleural effusion or pneumothorax. Stable degenerative changes of the spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Opacity;Cicatrix;Pulmonary Atelectasis;Calcified Granuloma;Spine
+
+MESH:
+Opacity/lung/base/left;Cicatrix/lung/base/left;Pulmonary Atelectasis/base/left;Calcified Granuloma/lung/base/left/round;Spine/degenerative

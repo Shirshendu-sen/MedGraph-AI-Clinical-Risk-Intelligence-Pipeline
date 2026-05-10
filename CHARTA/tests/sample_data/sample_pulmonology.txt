@@ -1,0 +1,58 @@
+MEDICAL TRANSCRIPTION SAMPLE - PULMONOLOGY
+
+Patient: [**Name**], [**Initials**]
+DOB: [**Date of Birth**]
+Date of Encounter: [**Date**]
+Provider: Dr. [**Provider Name**]
+
+CHIEF COMPLAINT:
+Chronic cough and worsening SOB for the past 3 months.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 58-year-old male with a significant smoking history (40 pack-years) and known COPD who presents with progressive shortness of breath and a productive cough. He reports increased sputum production that is now yellow-green in color. He has been using his albuterol inhaler more frequently, up to 6-8 times per day. He denies hemoptysis, fever, or chest pain. He was recently diagnosed with CHF but reports compliance with his medications.
+
+PAST MEDICAL HISTORY:
+1. COPD - diagnosed 2015
+2. CHF - diagnosed 2020
+3. HTN
+4. DM Type 2
+5. Former smoker - quit 6 months ago
+
+HOME MEDICATIONS:
+1. Tiotropium 18mcg inhaled daily
+2. Albuterol HFA 2 puffs every 4-6 hours PRN
+3. Furosemide 40mg daily
+4. Lisinopril 10mg daily
+5. Metformin 500mg twice daily
+
+REVIEW OF SYSTEMS:
+Constitutional: Negative for fever, chills, weight loss.
+Respiratory: Positive for cough, SOB, sputum production. Negative for hemoptysis.
+Cardiovascular: Negative for chest pain, palpitations, orthopnea.
+GI: Negative for NVD.
+
+PHYSICAL EXAMINATION:
+VITALS: BP 138/84, HR 88, RR 24, T 99.1F, SpO2 91% on room air.
+GENERAL: Alert, appears tachypneic, using accessory muscles.
+HEENT: No jugular venous distension.
+LUNGS: Decreased breath sounds bilaterally with expiratory wheezing and rhonchi. Prolonged expiratory phase.
+CARDIOVASCULAR: Regular rate and rhythm. No murmurs.
+EXTREMITIES: 1+ bilateral pedal edema.
+
+ASSESSMENT:
+1. COPD exacerbation - likely infectious given purulent sputum
+2. CHF - stable, mild edema noted
+3. HTN - adequately controlled
+4. DM - adequately controlled
+
+PLAN:
+1. Prednisone 40mg daily x 5 days for COPD exacerbation
+2. Azithromycin 500mg day 1, then 250mg days 2-5
+3. Increase albuterol to scheduled dosing
+4. Continue current CHF regimen
+5. Chest X-ray to rule out pneumonia
+6. ABG if clinical status worsens
+7. Follow up in 3-5 days or sooner if symptoms worsen
+8. Consider pulmonary rehab referral
+
+=====

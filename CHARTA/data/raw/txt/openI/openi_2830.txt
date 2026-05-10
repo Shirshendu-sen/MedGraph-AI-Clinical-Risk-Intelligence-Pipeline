@@ -1,0 +1,16 @@
+UID: 2949
+
+INDICATION:
+Malignant neoplasm, evaluate for metastases/recurrence
+
+FINDINGS:
+Scattered calcified pulmonary nodules, XXXX represents calcified granulomas. Lungs are clear bilaterally. There is no focal consolidation, pleural effusion, or pneumothoraces. Stable calcified hilar and mediastinal lymph XXXX, XXXX decreased in size from prior exam. Heart size is normal. XXXX are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Nodule;Calcinosis;Calcinosis;Calcinosis
+
+MESH:
+Calcified Granuloma/lung/scattered/multiple;Nodule/lung/scattered/multiple;Calcinosis/lung/scattered/multiple;Calcinosis/lung/hilum/lymph nodes;Calcinosis/mediastinum/lymph nodes

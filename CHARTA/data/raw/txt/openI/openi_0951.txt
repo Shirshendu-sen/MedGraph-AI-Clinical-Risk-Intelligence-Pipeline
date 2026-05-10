@@ -1,0 +1,16 @@
+UID: 984
+
+INDICATION:
+XXXX-year-old female status post seizure with shortness of breath and XXXX.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for appearance. There are low lung volumes with bronchovascular crowding and scattered XXXX opacities in the bilateral lung bases. No focal areas of pulmonary consolidation. No pneumothorax. No large pleural effusion. No acute, displaced rib fractures identified.
+
+IMPRESSION:
+1. Pulmonary hypoinflation with bronchovascular crowding and minimal bibasilar subsegmental atelectasis.
+
+PROBLEMS:
+Lung;Markings;Opacity;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Opacity/lung/base/bilateral/scattered;Pulmonary Atelectasis/base/bilateral/mild

@@ -1,0 +1,16 @@
+UID: 2350
+
+INDICATION:
+Surgery for goiter, XXXX-year-old female.
+
+FINDINGS:
+No focal areas of consolidation. No suspicious pulmonary opacities. Mild degenerative change thoracic spine. No pleural effusions. No evidence of pneumothorax. Heart size normal limits.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

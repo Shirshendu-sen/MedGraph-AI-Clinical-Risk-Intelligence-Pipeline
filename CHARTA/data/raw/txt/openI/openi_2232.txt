@@ -1,0 +1,16 @@
+UID: 2314
+
+INDICATION:
+chest pain
+
+FINDINGS:
+The lungs are XXXX. XXXX opacities are present in the right costophrenic XXXX. No focal infiltrates. Heart size normal.
+
+IMPRESSION:
+Findings of COPD with right costophrenic XXXX focal atelectasis.
+
+PROBLEMS:
+Opacity;Pulmonary Disease, Chronic Obstructive;Pulmonary Atelectasis
+
+MESH:
+Opacity/costophrenic angle/right/multiple;Pulmonary Disease, Chronic Obstructive;Pulmonary Atelectasis/costophrenic angle/right/focal

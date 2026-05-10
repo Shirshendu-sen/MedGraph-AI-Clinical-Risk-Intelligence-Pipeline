@@ -1,0 +1,16 @@
+UID: 2503
+
+INDICATION:
+Preop knee surgery
+
+FINDINGS:
+The lungs are clear. There is no pleural effusion or pneumothorax. The heart is not significantly enlarged. There are atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures are noted.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+Atherosclerosis;Arthritis
+
+MESH:
+Atherosclerosis/aorta;Arthritis

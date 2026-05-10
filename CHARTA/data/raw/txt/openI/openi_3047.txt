@@ -1,0 +1,16 @@
+UID: 3174
+
+INDICATION:
+Lightheaded.
+
+FINDINGS:
+The lungs are hyperinflated with biapical pleural-parenchymal scarring and upward retraction of the XXXX, similar to the prior study. There are multiple reticular-nodular opacities in the upper lobes bilaterally which appear grossly stable from the prior study. There is no evidence of XXXX, focal airspace disease. There is no pneumothorax or pleural effusion. Heart size is normal.
+
+IMPRESSION:
+Hyperinflation with chronic upper lobe reticular-nodular pleural-parenchymal opacities and hilar retraction. No gross interval change from XXXX. .
+
+PROBLEMS:
+Lung;Cicatrix;Cicatrix;Opacity;Deformity
+
+MESH:
+Lung/hyperdistention;Cicatrix/lung/apex/bilateral;Cicatrix/pleura/apex/bilateral;Opacity/lung/upper lobe/bilateral/reticular/round/multiple/chronic;Deformity/lung/hilum

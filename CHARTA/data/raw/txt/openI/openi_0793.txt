@@ -1,0 +1,16 @@
+UID: 818
+
+INDICATION:
+XXXX-year-old female dyspnea.
+
+FINDINGS:
+Heart size is stable. There is focal airspace consolidation in the lateral aspect of the right upper lobe. There is no pneumothorax or effusion. No acute bony abnormalities.
+
+IMPRESSION:
+Right upper lobe pneumonia.
+
+PROBLEMS:
+Consolidation;Pneumonia
+
+MESH:
+Consolidation/lung/upper lobe/right/focal;Pneumonia/upper lobe/right

@@ -1,0 +1,16 @@
+UID: 3423
+
+INDICATION:
+Preop right breast surgery
+
+FINDINGS:
+the heart size is normal. There is tortuosity of aorta. Pulmonary vascularity is normal. No focal airspace disease or effusion. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+Tortuous aorta, otherwise unremarkable exam.
+
+PROBLEMS:
+Aorta;Thoracic Vertebrae
+
+MESH:
+Aorta/tortuous;Thoracic Vertebrae/degenerative

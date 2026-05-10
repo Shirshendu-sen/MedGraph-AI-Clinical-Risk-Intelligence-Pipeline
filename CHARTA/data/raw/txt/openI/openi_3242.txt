@@ -1,0 +1,16 @@
+UID: 3374
+
+INDICATION:
+recurrent pneumonia
+
+FINDINGS:
+Lungs are free of infiltrates. However, in the left lower lobe there is a 1 cm diameter nodule that is not calcified. The right lung is clear. The heart, XXXX, and mediastinum are normal.
+
+IMPRESSION:
+No acute disease. Left lower lobe nodule of uncertain identity. Chest CT may be of further XXXX. XXXX level Veriphy message sent.
+
+PROBLEMS:
+Nodule
+
+MESH:
+Nodule/lung/lower lobe/left

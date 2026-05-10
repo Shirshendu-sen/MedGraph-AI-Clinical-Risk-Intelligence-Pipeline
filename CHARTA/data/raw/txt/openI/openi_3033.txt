@@ -1,0 +1,16 @@
+UID: 3159
+
+INDICATION:
+Productive XXXX.
+
+FINDINGS:
+Moderate cardiomegaly. Prominent vascular pedicle/upper mediastinal contour. Mild central vascular congestion. No overt edema or confluent lobar pneumonia. No pleural effusion. Thoracic spondylosis.
+
+IMPRESSION:
+No acute findings, see above.
+
+PROBLEMS:
+Cardiomegaly;Mediastinum;Pulmonary Congestion;Spondylosis
+
+MESH:
+Cardiomegaly/moderate;Mediastinum/blood vessels/prominent;Pulmonary Congestion/mild;Spondylosis/thoracic vertebrae

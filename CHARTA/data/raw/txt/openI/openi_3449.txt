@@ -1,0 +1,16 @@
+UID: 3589
+
+INDICATION:
+Abdominal pain
+
+FINDINGS:
+Cardiomediastinal contour and pulmonary vascularity stable and within normal limits. Lung volumes are slightly low. There are streaky left basal opacities. No pleural effusion or pneumothorax. No acute osseous findings. No free air is demonstrated.
+
+IMPRESSION:
+Streaky left basilar airspace opacities, which could reflect atelectasis and/or infection.
+
+PROBLEMS:
+Lung;Opacity
+
+MESH:
+Lung/hypoinflation/mild;Opacity/lung/base/left/streaky

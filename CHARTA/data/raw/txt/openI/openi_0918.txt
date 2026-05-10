@@ -1,0 +1,16 @@
+UID: 951
+
+INDICATION:
+XXXX-year-old XXXX with chest pain.
+
+FINDINGS:
+Normal heart. Clear lungs. No pneumothorax. No pleural effusion.
+
+IMPRESSION:
+Normal chest exam.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

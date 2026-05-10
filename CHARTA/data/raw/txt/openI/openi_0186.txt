@@ -1,0 +1,16 @@
+UID: 192
+
+INDICATION:
+XXXX and congestion
+
+FINDINGS:
+Low lung volumes. Heart size and mediastinal contour within normal limits. No focal air space consolidation, pneumothorax, or pleural effusion. Mild thoracic spine degenerative change.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Thoracic Vertebrae
+
+MESH:
+Lung/hypoinflation;Thoracic Vertebrae/degenerative/mild

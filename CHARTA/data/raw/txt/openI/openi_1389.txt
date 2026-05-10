@@ -1,0 +1,16 @@
+UID: 1437
+
+INDICATION:
+Left chest and back pain.
+
+FINDINGS:
+The heart is normal in size and contour. There is no mediastinal widening. The lungs are hyperexpanded. Scattered granuloma. No focal airspace disease. No large pleural effusion or pneumothorax. The XXXX are intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Lung;Granuloma
+
+MESH:
+Lung/hyperdistention;Granuloma/scattered

@@ -1,0 +1,16 @@
+UID: 3272
+
+INDICATION:
+HYPOXIA
+
+FINDINGS:
+Lung volumes remain XXXX. XXXX opacities are present in both lower lobes. Old rib fractures and pleural thickening are present on the right. Heart and pulmonary XXXX are normal.
+
+IMPRESSION:
+Hypoinflation with bibasilar focal atelectasis.
+
+PROBLEMS:
+Opacity;Fractures, Bone;Thickening;Lung;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/lower lobe/bilateral;Fractures, Bone/ribs/right/multiple/healed;Thickening/pleura/right;Lung/hypoinflation;Pulmonary Atelectasis/base/bilateral/focal

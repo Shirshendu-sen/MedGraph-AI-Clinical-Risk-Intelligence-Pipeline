@@ -1,0 +1,16 @@
+UID: 2026
+
+INDICATION:
+The patient is a XXXX-year-old XXXX with back pain.
+
+FINDINGS:
+The trachea is midline. Cardiomediastinal silhouette is normal. The lungs are clear, without evidence of focal consolidation or pleural effusion. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

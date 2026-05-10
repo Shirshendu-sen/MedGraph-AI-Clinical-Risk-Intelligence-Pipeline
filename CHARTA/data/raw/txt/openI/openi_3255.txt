@@ -1,0 +1,16 @@
+UID: 3387
+
+INDICATION:
+XXXX-year-old woman, 8-1/2 months pregnant, with dyspnea and chest pain.
+
+FINDINGS:
+Cardiomediastinal silhouette is within normal limits. No acute bony abnormality is identified. There is slightly increased XXXX opacity of the right base compared to the left which may minimal right basilar airspace disease, XXXX in the right middle lobe. The left lung is clear. No pneumothorax or effusion identified.
+
+IMPRESSION:
+Minimal right basilar airspace disease, XXXX right middle lobe.
+
+PROBLEMS:
+Opacity;Airspace Disease;Airspace Disease
+
+MESH:
+Opacity/lung/base/right;Airspace Disease/lung/base/right/mild;Airspace Disease/lung/middle lobe/right/mild

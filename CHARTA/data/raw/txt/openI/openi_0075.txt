@@ -1,0 +1,16 @@
+UID: 76
+
+INDICATION:
+Pilonidal cyst, preop evaluation.
+
+FINDINGS:
+Apparent scarring within the lingula. Lungs are otherwise clear. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour.
+
+IMPRESSION:
+Apparent scarring within the lingula, otherwise unremarkable.
+
+PROBLEMS:
+Cicatrix
+
+MESH:
+Cicatrix/lung/lingula

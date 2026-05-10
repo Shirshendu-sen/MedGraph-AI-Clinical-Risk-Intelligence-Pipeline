@@ -1,0 +1,16 @@
+UID: 1975
+
+INDICATION:
+pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

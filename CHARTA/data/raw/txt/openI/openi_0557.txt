@@ -1,0 +1,16 @@
+UID: 575
+
+INDICATION:
+XXXX-year-old male with XXXX and hypertension.
+
+FINDINGS:
+The heart size and mediastinal silhouette are within normal limits for contour. The lungs are clear. No pneumothorax or pleural effusions. The XXXX are intact. Stable calcified granuloma in the left lung.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/left

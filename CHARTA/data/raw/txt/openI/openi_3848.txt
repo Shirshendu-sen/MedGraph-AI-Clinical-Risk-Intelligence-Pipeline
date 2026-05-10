@@ -1,0 +1,16 @@
+UID: 3997
+
+INDICATION:
+XXXX-year-old male with positive PPD.
+
+FINDINGS:
+Heart size within normal limits. Small, nodular opacity in the right upper lobe. This does not look like an acute infiltrate, and more XXXX represents a granuloma. No pneumothorax or effusions.
+
+IMPRESSION:
+No acute findings, no evidence for active TB.
+
+PROBLEMS:
+Opacity;Granuloma
+
+MESH:
+Opacity/lung/upper lobe/right/round/small;Granuloma/lung/upper lobe/right/round/small

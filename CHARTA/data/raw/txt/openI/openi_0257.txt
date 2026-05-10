@@ -1,0 +1,16 @@
+UID: 268
+
+INDICATION:
+None
+
+FINDINGS:
+There is a right upper lobe opacity. Cardiomediastinal silhouette is normal. Pulmonary vasculature and XXXX are normal. Osseous structures and soft tissues are normal.
+
+IMPRESSION:
+Right upper lobe pneumonia.
+
+PROBLEMS:
+Opacity;Pneumonia
+
+MESH:
+Opacity/lung/upper lobe/right;Pneumonia/upper lobe/right

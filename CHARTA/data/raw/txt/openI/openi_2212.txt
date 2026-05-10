@@ -1,0 +1,16 @@
+UID: 2293
+
+INDICATION:
+Esophageal cancer
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. The previously visualized bilateral pneumothoraces have resolved. Right chest wall surgical XXXX have been removed. There is improved aeration in the lung bases with mild residual XXXX opacities compatible with scarring or atelectasis.
+
+IMPRESSION:
+Mild XXXX XXXX opacities compatible with residual atelectasis/scarring.
+
+PROBLEMS:
+Opacity;Cicatrix;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/base/mild;Cicatrix/lung;Pulmonary Atelectasis

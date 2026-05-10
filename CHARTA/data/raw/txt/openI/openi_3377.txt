@@ -1,0 +1,16 @@
+UID: 3515
+
+INDICATION:
+XXXX-XXXX
+
+FINDINGS:
+Lungs are clear. A calcified small granuloma is present in the left lower lobe. Heart size normal. Mediastinum normal.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/lower lobe/left/small

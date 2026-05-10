@@ -1,0 +1,16 @@
+UID: 1404
+
+INDICATION:
+XXXX year old with chest pain, shortness of breath, hypertension.
+
+FINDINGS:
+No focal lung consolidation. Heart size and pulmonary vascularity are within normal limits. No pneumothorax or pleural effusion. No acute bony abnormalities. There are stable anterior wedge XXXX deformities of 2 midthoracic vertebral bodies.
+
+IMPRESSION:
+1. No acute findings. 2. Stable midthoracic vertebral body XXXX fractures.
+
+PROBLEMS:
+Deformity;Fractures, Bone
+
+MESH:
+Deformity/thoracic vertebrae/anterior/multiple;Fractures, Bone/Thoracic Vertebrae

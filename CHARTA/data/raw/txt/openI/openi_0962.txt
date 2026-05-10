@@ -1,0 +1,16 @@
+UID: 995
+
+INDICATION:
+SP CABG SOB NO RALES
+
+FINDINGS:
+Sternotomy sutures and bypass grafts have been placed in the interval. Both lungs remain clear and expanded with no infiltrates. Pulmonary XXXX are normal.
+
+IMPRESSION:
+Post operative chest with no acute disease.
+
+PROBLEMS:
+Sutures
+
+MESH:
+Sutures/sternum

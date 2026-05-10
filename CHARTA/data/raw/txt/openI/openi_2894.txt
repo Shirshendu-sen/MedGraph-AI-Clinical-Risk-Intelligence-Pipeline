@@ -1,0 +1,16 @@
+UID: 3017
+
+INDICATION:
+EVALUATE FOR METASTATIC DISEASE;
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. There are XXXX opacities in both lung bases compatible with scarring or atelectasis. Calcified granuloma in the left upper lung is noted as well as right retrocardiac calcified nodule. No significant pleural effusion is seen.
+
+IMPRESSION:
+Mild XXXX XXXX opacities with scarring; no acute disease.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Cicatrix;Calcified Granuloma;Nodule;Calcinosis
+
+MESH:
+Opacity/lung/base/bilateral/mild;Pulmonary Atelectasis/base/bilateral;Cicatrix/lung/base/bilateral;Calcified Granuloma/lung/upper lobe/left;Nodule/right/retrocardiac;Calcinosis/right/retrocardiac

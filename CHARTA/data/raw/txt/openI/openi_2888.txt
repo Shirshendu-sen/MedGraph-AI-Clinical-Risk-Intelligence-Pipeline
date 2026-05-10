@@ -1,0 +1,16 @@
+UID: 3011
+
+INDICATION:
+XXXX and wheezing x1 XXXX
+
+FINDINGS:
+Aortic atherosclerotic calcifications. Large hiatal hernia. No pleural effusion or pneumothorax. No focal opacity. Cardiomediastinal silhouette is stable in size and appearance.
+
+IMPRESSION:
+1. No acute pulmonary process. 2. Large hiatal hernia. .
+
+PROBLEMS:
+Atherosclerosis;Hernia, Hiatal
+
+MESH:
+Atherosclerosis/aorta;Hernia, Hiatal/large

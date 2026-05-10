@@ -1,0 +1,16 @@
+UID: 67
+
+INDICATION:
+XXXX-year-old, MVA, chest pain
+
+FINDINGS:
+There are low volumes with bronchovascular crowding. No focal infiltrate or effusion. Heart and mediastinal contours within normal limits. No displaced fracture identified.
+
+IMPRESSION:
+Low volumes with bronchovascular crowding. No acute abnormality.
+
+PROBLEMS:
+Lung;Markings
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular

@@ -1,0 +1,16 @@
+UID: 800
+
+INDICATION:
+XXXX, weakness
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Heart size is enlarged, pulmonary vascularity within normal limits. Marked tortuosity of the thoracic aorta. There are advanced degenerative changes of the glenohumeral joints bilaterally with bone-on-bone articulation, remodeling of the glenoid, and extensive subchondral cystic change. No displaced rib fractures are visualized. Diffuse osteopenia of the thoracic spine with a mid thoracic and several lower thoracic XXXX deformities, age-indeterminate. There is an air-fluid level in the middle mediastinum, most XXXX secondary to a large hiatal hernia.
+
+IMPRESSION:
+1. No acute thoracic abnormality. 2. Cardiomegaly with marked tortuosity of the thoracic aorta. 3. Probable large hiatal hernia. 4. Limited evaluation of the thoracic spine secondary to osteopenia, age-indeterminate XXXX fracture deformities.
+
+PROBLEMS:
+Cardiomegaly;Aorta, Thoracic;Hernia, Hiatal;Bone Diseases, Metabolic;Fractures, Bone;Deformity;Humerus;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Cardiomegaly;Aorta, Thoracic/tortuous/severe;Hernia, Hiatal/large;Bone Diseases, Metabolic/thoracic vertebrae/diffuse;Fractures, Bone/thoracic vertebrae;Deformity/thoracic vertebrae/multiple;Humerus/degenerative/severe;Technical Quality of Image Unsatisfactory

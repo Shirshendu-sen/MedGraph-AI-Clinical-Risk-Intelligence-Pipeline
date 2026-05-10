@@ -1,0 +1,16 @@
+UID: 1344
+
+INDICATION:
+Epigastric pain, vomiting, XXXX, chills for one XXXX
+
+FINDINGS:
+Mediastinal contours are normal. Lungs are clear. There is no pneumothorax or large pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

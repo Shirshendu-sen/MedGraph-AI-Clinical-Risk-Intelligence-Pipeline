@@ -1,0 +1,16 @@
+UID: 2753
+
+INDICATION:
+Bronchitis, hemoptysis
+
+FINDINGS:
+Stable calcified superior mediastinal lymph XXXX. Lungs are clear bilaterally. There is no focal consolidation, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. XXXX are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/mediastinum/lymph nodes

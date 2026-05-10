@@ -1,0 +1,16 @@
+UID: 3500
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Frontal and lateral views demonstrate the cardiomediastinal silhouette to be within normal limits. There is normal distribution of the pulmonary vascularity. The lungs are clear. No effusion, consolidation, or pneumothorax.
+
+IMPRESSION:
+1. Stable normal chest x-XXXX.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

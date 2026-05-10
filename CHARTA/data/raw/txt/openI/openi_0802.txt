@@ -1,0 +1,16 @@
+UID: 828
+
+INDICATION:
+The patient is a XXXX-year-old woman with XXXX and XXXX symptoms.
+
+FINDINGS:
+The trachea is midline. The cardiomediastinal silhouette is normal. There are low lung volumes, causing bibasilar atelectasis and bronchovascular crowding. There is a XXXX opacity in the left lingula. There is no pleural effusion or pneumothorax. Visualized bony structures reveal no acute abnormalities.
+
+IMPRESSION:
+1. Low lung volumes. 2. Opacity in the lingula is favored to represent prominent pericardial fat, but lingular atelectasis or infiltrate cannot be ruled out. .
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis;Markings;Opacity;Epicardial Fat
+
+MESH:
+Lung/hypoinflation;Pulmonary Atelectasis/base/bilateral;Markings/bronchovascular;Opacity/lung/lingula;Epicardial Fat/prominent

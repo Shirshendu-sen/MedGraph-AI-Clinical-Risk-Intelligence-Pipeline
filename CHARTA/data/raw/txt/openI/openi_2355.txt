@@ -1,0 +1,16 @@
+UID: 2440
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. The aorta is atherosclerotic. Emphysematous changes are identified. There is no acute infiltrate or effusion.
+
+IMPRESSION:
+Emphysema without acute disease.
+
+PROBLEMS:
+Atherosclerosis;Emphysema
+
+MESH:
+Atherosclerosis/aorta;Emphysema

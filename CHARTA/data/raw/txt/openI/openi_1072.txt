@@ -1,0 +1,16 @@
+UID: 1107
+
+INDICATION:
+XXXX-year-old female, XXXX, congestion
+
+FINDINGS:
+None
+
+IMPRESSION:
+Small focal opacity in the left upper lobe, differential diagnosis includes subsegmental atelectasis, small infiltrate, scarring, followup recommended. No definite pleural effusion seen. Heart size within normal limits, no typical findings of pulmonary edema. Mediastinal and left hilar calcifications suggest a previous granulomatous process.
+
+PROBLEMS:
+Opacity;Calcinosis;Calcinosis
+
+MESH:
+Opacity/lung/upper lobe/left/focal/small;Calcinosis/lung/hilum/left;Calcinosis/mediastinum

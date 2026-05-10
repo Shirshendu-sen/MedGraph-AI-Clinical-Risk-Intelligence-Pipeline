@@ -1,0 +1,16 @@
+UID: 2642
+
+INDICATION:
+XXXX failure status post ventilator.
+
+FINDINGS:
+None
+
+IMPRESSION:
+1. Tracheostomy tube in satisfactory position with tip in the mid intrathoracic trachea. 2. Ill-defined 2.5 cm x 1.9 cm irregular density in the left lower lung, XXXX lower lobe. This is superimposed on a background of probable emphysematous lung. Although this could be scar, concern is for nodule, and further evaluation XXXX chest is recommended. A message was left with doctor XXXX' service at 142 pm XXXX/11. 3. Mild bilateral costophrenic XXXX blunting XXXX due to small bilateral pleural effusions versus due to the degree of lung hyperinflation. 4. Osteopenia. Minimal loss of XXXX of an upper thoracic vertebra. 5. Irregular 1.8 cm density projecting over the left posterior rib 8 XXXX callus with XXXX similar less severe changes involving the two subjacent ribs posteriorly. 6. Heart size normal.
+
+PROBLEMS:
+Tube, Inserted;Density;Pulmonary Emphysema;Nodule;Costophrenic Angle;Pleural Effusion;Lung;Bone Diseases, Metabolic;Deformity;Density;Deformity
+
+MESH:
+Tube, Inserted/trachea;Density/lung/lower lobe/left/irregular;Pulmonary Emphysema;Nodule/lung/lower lobe/left/irregular;Costophrenic Angle/bilateral/blunted/mild;Pleural Effusion/bilateral/small;Lung/hyperdistention;Bone Diseases, Metabolic;Deformity/thoracic vertebrae;Density/ribs/left/posterior/irregular;Deformity/ribs/left

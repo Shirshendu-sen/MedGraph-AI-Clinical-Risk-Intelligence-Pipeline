@@ -1,0 +1,16 @@
+UID: 3296
+
+INDICATION:
+786.2 XXXX
+
+FINDINGS:
+The lungs are clear. Heart size is normal. No pneumothorax. Calcified left hilar node.
+
+IMPRESSION:
+Clear lungs. No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/left

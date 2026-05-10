@@ -1,0 +1,16 @@
+UID: 3326
+
+INDICATION:
+XXXX-year-old female, dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Exam quality limited by hypoventilation and apical lordotic frontal projection. Considering technical factors heart size XXXX at XXXX mildly enlarged. No focal alveolar consolidation, no definite pleural effusion seen. Bronchovascular crowding without typical findings of pulmonary edema.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Lung;Cardiomegaly;Markings
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Lung/hypoinflation;Cardiomegaly/mild;Markings/bronchovascular

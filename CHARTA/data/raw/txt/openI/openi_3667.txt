@@ -1,0 +1,16 @@
+UID: 3812
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+Normal heart size and mediastinal contour. Atherosclerotic calcification of the aortic XXXX. No abnormal airspace consolidation. No pleural effusion or pneumothorax. Stable biapical lucency and apical scarring, consistent with emphysema. Visualized osseous structures are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Atherosclerosis;Lucency;Cicatrix;Emphysema
+
+MESH:
+Atherosclerosis/aorta;Lucency/lung/apex/bilateral;Cicatrix/lung/apex/bilateral;Emphysema

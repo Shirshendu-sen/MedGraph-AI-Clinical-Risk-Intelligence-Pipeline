@@ -1,0 +1,16 @@
+UID: 2095
+
+INDICATION:
+PTX
+
+FINDINGS:
+Patchy subsegmental atelectasis is seen bibasilar region, no evidence of pneumothorax or pleural effusion is present. The cardiomediastinal silhouette is unremarkable. Old fractures seen the left 9th rib.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Pulmonary Atelectasis;Fractures, Bone
+
+MESH:
+Pulmonary Atelectasis/base/bilateral/patchy;Fractures, Bone/ribs/left/healed

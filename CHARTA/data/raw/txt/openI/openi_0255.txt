@@ -1,0 +1,16 @@
+UID: 266
+
+INDICATION:
+Hypertension, dizzy
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Heart size is mildly enlarged, pulmonary vascularity within normal limits. Atherosclerotic calcifications are present in the aortic XXXX.
+
+IMPRESSION:
+1. No acute pulmonary abnormality. 2. Mild cardiomegaly, atherosclerotic disease.
+
+PROBLEMS:
+Cardiomegaly;Atherosclerosis
+
+MESH:
+Cardiomegaly/mild;Atherosclerosis/aorta

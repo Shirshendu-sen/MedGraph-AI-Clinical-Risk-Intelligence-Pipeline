@@ -1,0 +1,16 @@
+UID: 975
+
+INDICATION:
+Preop, neck infection.
+
+FINDINGS:
+Cardiac silhouette and mediastinal contours are within this. There is no opacity. There is no pneumothorax. No large pleural effusion. Hyperlucent right apex with hyperinflation consistent with emphysematous changes.
+
+IMPRESSION:
+Emphysematous changes without acute cardiopulmonary disease.
+
+PROBLEMS:
+Lung, Hyperlucent;Lung;Pulmonary Emphysema
+
+MESH:
+Lung, Hyperlucent/apex/right;Lung/hyperdistention;Pulmonary Emphysema

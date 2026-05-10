@@ -1,0 +1,16 @@
+UID: 3880
+
+INDICATION:
+XXXX-year-old female, dyspnea.
+
+FINDINGS:
+Unchanged cardiomegaly. Negative for pneumothorax or focal consolidation. No large effusion. Mildly prominent interstitial opacities.
+
+IMPRESSION:
+Stable cardiomegaly with mild pulmonary interstitial edema.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Pulmonary Edema
+
+MESH:
+Cardiomegaly;Opacity/lung/interstitial/prominent/mild;Pulmonary Edema/interstitial/mild

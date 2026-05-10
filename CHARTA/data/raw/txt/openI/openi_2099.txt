@@ -1,0 +1,16 @@
+UID: 2177
+
+INDICATION:
+Morbidly obese patient with dyspnea.
+
+FINDINGS:
+XXXX XXXX and lateral chest examination was obtained. There is enlarged heart silhouette. Decreased lung volumes. Lungs demonstrate bibasilar airspace opacities better visualized on lateral view. There is no effusion or pneumothorax. Degenerative changes of the bilateral XXXX.
+
+IMPRESSION:
+1. Decreased lung volumes. Bibasilar airspace opacities seen on lateral XXXX XXXX be atelectasis or possibly pneumonia.
+
+PROBLEMS:
+Cardiac Shadow;Lung;Opacity;Pulmonary Atelectasis
+
+MESH:
+Cardiac Shadow/enlarged;Lung/hypoinflation;Opacity/lung/base/bilateral;Pulmonary Atelectasis/base/bilateral

@@ -1,0 +1,16 @@
+UID: 3178
+
+INDICATION:
+Short of breath, left shoulder pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size within normal limits. Dense mitral annular calcification. Tortuous and ectatic, atherosclerotic aorta. No edema. Lungs mildly hyperinflated. There is left basilar scarring. No XXXX consolidation, pleural effusion or pneumothorax.
+
+PROBLEMS:
+Calcinosis;Density;Aorta;Atherosclerosis;Lung;Cicatrix
+
+MESH:
+Calcinosis/mitral valve;Density/mitral valve;Aorta/tortuous;Atherosclerosis/aorta;Lung/hyperdistention/mild;Cicatrix/lung/base/left

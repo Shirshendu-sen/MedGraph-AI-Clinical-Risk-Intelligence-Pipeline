@@ -1,0 +1,16 @@
+UID: 2402
+
+INDICATION:
+XXXX-year-old female presenting with DKA
+
+FINDINGS:
+The heart size and mediastinal contours appear within normal limits. There are low lung volumes with left basilar subsegmental atelectasis. No focal airspace consolidation, effusions or pneumothorax. No acute bony abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation;Pulmonary Atelectasis/base/left

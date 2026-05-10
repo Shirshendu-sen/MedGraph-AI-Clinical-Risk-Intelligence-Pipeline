@@ -1,0 +1,16 @@
+UID: 631
+
+INDICATION:
+None
+
+FINDINGS:
+The heart is normal in size. The mediastinum is within normal limits. Dual-lumen right IJ catheter is identified without pneumothorax. The lungs are moderately hypoinflated with bibasilar XXXX opacities XXXX adjacent atelectasis. There is ill-defined density overlying the anterior left 5th rib, possibly healing deformity versus superimposition of structures.
+
+IMPRESSION:
+Moderate hypoinflation with associated bibasilar atelectasis.
+
+PROBLEMS:
+Catheters, Indwelling;Lung;Opacity;Pulmonary Atelectasis;Density
+
+MESH:
+Catheters, Indwelling/right;Lung/hypoinflation/moderate;Opacity/lung/base/bilateral;Pulmonary Atelectasis/base/bilateral;Density/ribs/left/anterior

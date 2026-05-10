@@ -1,0 +1,16 @@
+UID: 3924
+
+INDICATION:
+Preop
+
+FINDINGS:
+Stable cardiomediastinal silhouette. Atherosclerotic calcifications about the aortic XXXX. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Dextroconvex scoliotic curvature of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Atherosclerosis;Scoliosis
+
+MESH:
+Atherosclerosis/aorta;Scoliosis/thoracic vertebrae/right

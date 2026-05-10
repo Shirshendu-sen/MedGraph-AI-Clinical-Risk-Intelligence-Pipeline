@@ -1,0 +1,16 @@
+UID: 1557
+
+INDICATION:
+XXXX-year-old male with a history of partial right lung resection presents for evaluation.
+
+FINDINGS:
+There is interval removal of the tracheostomy tube and right subclavian central venous catheter. The cardiac silhouette is mildly enlarged. There are XXXX XXXX pulmonary opacities with blunting of the bilateral costophrenic XXXX, on the right greater than left, with pleural thickening versus loculated pleural fluid along the peripheral aspect of the right upper lobe. Right perihilar opacities. No pneumothorax identified.
+
+IMPRESSION:
+1. Enlarged cardiac silhouette, possibly consistent with mild cardiomegaly versus a small pericardial effusion. 2. Mild bibasilar atelectasis and/or infiltrates with probable small bilateral pleural effusions, on the right greater than left, and pleural thickening versus loculated pleural fluid along the peripheral aspect of the right upper lobe. .
+
+PROBLEMS:
+Cardiac Shadow;Opacity;Costophrenic Angle;Thickening;Pleural Effusion;Opacity;Pulmonary Atelectasis;Infiltrate;Pleural Effusion
+
+MESH:
+Cardiac Shadow/enlarged/mild;Opacity/lung;Costophrenic Angle/bilateral/blunted;Thickening/pleura/upper lobe/right;Pleural Effusion/upper lobe/right;Opacity/lung/hilum/right;Pulmonary Atelectasis/base/bilateral/mild;Infiltrate/lung/base/bilateral/mild;Pleural Effusion/bilateral/small

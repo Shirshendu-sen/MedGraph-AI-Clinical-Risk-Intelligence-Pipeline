@@ -1,0 +1,16 @@
+UID: 1662
+
+INDICATION:
+XXXX-year-old chest pain and dyspnea.
+
+FINDINGS:
+No focal consolidation. There are prominent interstitial markings, including focally in right upper lobe, which are similar from prior examination. No visualized pneumothorax. The heart size is normal. There are no pleural effusions.
+
+IMPRESSION:
+1. No acute cardiopulmonary findings.
+
+PROBLEMS:
+Markings;Markings
+
+MESH:
+Markings/lung/interstitial/prominent;Markings/lung/upper lobe/right/interstitial/focal

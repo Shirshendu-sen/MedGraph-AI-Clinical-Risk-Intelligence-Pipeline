@@ -1,0 +1,16 @@
+UID: 1944
+
+INDICATION:
+asthma with acute exacerbation
+
+FINDINGS:
+None
+
+IMPRESSION:
+Calcific density measuring approximately 25 mm projecting over right upper lung, seen well on PA view only. This may represent residua of a healed rib fracture, possibly an osteocartilaginous lesion, or conceivably a granuloma which is difficult to see on the lateral view. This could be followed up in 6 months to confirm stability. Azygos fissure incidentally noted. Lungs overall well expanded and clear. Mediastinal contour in normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Calcinosis;Density;Lung
+
+MESH:
+Calcinosis/lung/upper lobe/right;Density/lung/upper lobe/right;Lung/azygos lobe

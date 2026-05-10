@@ -1,0 +1,16 @@
+UID: 2119
+
+INDICATION:
+EVALUATE FOR METASTATIC DISEASE; Pre op for prostatectomy. No chest complaints.
+
+FINDINGS:
+There is a 1 cm nodule within one of the lung bases, seen only on the lateral view. There is a calcified right hilar lymph node and right granuloma. Heart size is normal. No pneumothorax.
+
+IMPRESSION:
+1 cm nodule within the lung base, seen only on the lateral view. Consider imaging correlation with XXXX abdomen study, if available. .
+
+PROBLEMS:
+Nodule;Calcinosis;Granuloma
+
+MESH:
+Nodule/lung/base;Calcinosis/lung/hilum/lymph nodes/right;Granuloma/right

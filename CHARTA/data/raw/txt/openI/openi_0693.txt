@@ -1,0 +1,16 @@
+UID: 713
+
+INDICATION:
+Cystic fibrosis. Decreased pulmonary function XXXX.
+
+FINDINGS:
+Central venous catheter tip in the right atrium. Heart size and shape are normal. Trachea and XXXX bronchi appear normal. The lungs are reasonably well expanded. There XXXX and patchy nodular densities in both lower lung XXXX more marked on the right than the left. There is scattered areas of bronchial wall thickening, well-seen in the left upper lobe. There is loss of definition of part of the left heart XXXX. No effusions no pneumothorax.
+
+IMPRESSION:
+Findings consistent with widespread changes from cystic fibrosis. It is difficult to differentiate acute from chronic change.
+
+PROBLEMS:
+Catheters, Indwelling;Density;Nodule;Thickening;Cystic Fibrosis;Heart
+
+MESH:
+Catheters, Indwelling/right;Density/lung/lower lobe/bilateral/patchy;Nodule/lung/lower lobe/bilateral/patchy;Thickening/lung/upper lobe/bronchi/left/scattered;Cystic Fibrosis;Heart/left/obscured

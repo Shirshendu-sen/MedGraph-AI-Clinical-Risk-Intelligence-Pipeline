@@ -1,0 +1,16 @@
+UID: 2954
+
+INDICATION:
+XXXX-year-old female with XXXX, pulmonary hypertension, dementia.
+
+FINDINGS:
+There is obscuration of the bilateral lung bases with lower lung volumes compared to prior examination. Stable atelectatic/fibrotic changes of the visualized lung, and stable left-sided calcified granuloma. No acute osseous abnormalities identified. Cardiomediastinal silhouette unremarkable.
+
+IMPRESSION:
+Obscuration of the bilateral lung bases, XXXX combination of atelectasis, infiltrate, effusions.
+
+PROBLEMS:
+Lung;Lung;Pulmonary Atelectasis;Pulmonary Fibrosis;Calcified Granuloma;Infiltrate;Pleural Effusion
+
+MESH:
+Lung/base/bilateral/obscured;Lung/hypoinflation;Pulmonary Atelectasis;Pulmonary Fibrosis;Calcified Granuloma/lung/left;Infiltrate/lung/base/bilateral;Pleural Effusion/base/bilateral

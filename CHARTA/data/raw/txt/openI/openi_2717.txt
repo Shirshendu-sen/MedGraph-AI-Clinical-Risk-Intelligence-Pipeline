@@ -1,0 +1,16 @@
+UID: 2821
+
+INDICATION:
+Right-sided chest pain after XXXX
+
+FINDINGS:
+Cardiomediastinal silhouette and pulmonary vasculature are within normal limits. Aortic calcifications and tortuosity. Lungs are clear. No pneumothorax or pleural effusion. No acute osseous findings. Degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Calcinosis;Aorta;Thoracic Vertebrae
+
+MESH:
+Calcinosis/aorta;Aorta/tortuous;Thoracic Vertebrae/degenerative

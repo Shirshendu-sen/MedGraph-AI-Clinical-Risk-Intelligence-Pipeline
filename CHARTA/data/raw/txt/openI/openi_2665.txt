@@ -1,0 +1,16 @@
+UID: 2768
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+XXXX XXXX and lateral chest examination was obtained. The heart silhouette is normal in size and contour. Aortic XXXX appear unremarkable. Lungs demonstrate no acute findings. There is no effusion or pneumothorax.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 3790
+
+INDICATION:
+XXXX-year-old female, pain, seen on XXXX for right-sided pain and XXXX. No improvement.
+
+FINDINGS:
+Low lung volumes. Elevation of the right hemidiaphragm. Patchy opacities right base again noted. Left lung clear. Heart size top normal. Aortic calcification. Granulomas. No evidence of pneumothorax. Blunting of the bilateral costophrenic XXXX. Degenerative changes of the thoracic spine.
+
+IMPRESSION:
+Right lower lobe airspace disease. .
+
+PROBLEMS:
+Lung;Diaphragm;Opacity;Calcinosis;Granuloma;Costophrenic Angle;Thoracic Vertebrae;Airspace Disease
+
+MESH:
+Lung/hypoinflation;Diaphragm/right/elevated;Opacity/lung/base/right/patchy;Calcinosis/aorta;Granuloma/thorax/multiple;Costophrenic Angle/bilateral/blunted;Thoracic Vertebrae/degenerative;Airspace Disease/lung/lower lobe/right

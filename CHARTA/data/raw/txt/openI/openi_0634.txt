@@ -1,0 +1,16 @@
+UID: 653
+
+INDICATION:
+History of testicular cancer, evaluate for metastatic disease
+
+FINDINGS:
+Heart size and vascularity normal. Lungs clear. No effusions or pneumothorax. Limited degenerative change of the spine
+
+IMPRESSION:
+No radiographic evidence for thoracic metastases.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative/mild

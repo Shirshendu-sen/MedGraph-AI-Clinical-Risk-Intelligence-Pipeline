@@ -1,0 +1,16 @@
+UID: 2728
+
+INDICATION:
+Dyspnea.
+
+FINDINGS:
+Lungs remain hyperexpanded. No change in the right middle lobe opacification. No XXXX infiltrates or masses. Pulmonary arteries are prominent centrally.
+
+IMPRESSION:
+XXXX change COPD. Chronic right middle lobe scar and atelectasis. Pulmonary arterial hypertension.
+
+PROBLEMS:
+Lung;Opacity;Pulmonary Congestion;Pulmonary Disease, Chronic Obstructive;Cicatrix;Pulmonary Atelectasis;Hypertension, Pulmonary
+
+MESH:
+Lung/hyperdistention;Opacity/lung/middle lobe/right;Pulmonary Congestion;Pulmonary Disease, Chronic Obstructive;Cicatrix/lung/middle lobe/right/chronic;Pulmonary Atelectasis/middle lobe/right/chronic;Hypertension, Pulmonary

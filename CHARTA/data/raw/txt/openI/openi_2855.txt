@@ -1,0 +1,16 @@
+UID: 2975
+
+INDICATION:
+Dyspnea, leg XXXX, cellulitis.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Moderate enlargement of the heart XXXX. This shows significant interval increase in size from the remote XXXX comparison. XXXX cardiomegaly or pericardial fluid could have this appearance. Minimal patchy infiltrate/atelectasis in medial right base and lingular scarring or subsegmental atelectasis. No pleural effusion or pneumothorax.
+
+PROBLEMS:
+Cardiac Shadow;Infiltrate;Pulmonary Atelectasis;Cicatrix;Pulmonary Atelectasis
+
+MESH:
+Cardiac Shadow/enlarged/moderate;Infiltrate/lung/base/right/patchy/mild;Pulmonary Atelectasis/base/right/mild;Cicatrix/lung/lingula;Pulmonary Atelectasis/lingula

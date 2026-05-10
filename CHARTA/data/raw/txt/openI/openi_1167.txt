@@ -1,0 +1,16 @@
+UID: 1208
+
+INDICATION:
+XXXX-year-old male with XXXX.
+
+FINDINGS:
+The heart size and cardiomediastinal silhouette are normal. There is no focal air space opacity, pleural effusion, or pneumothorax. The osseous structures are intact with mild degenerative changes in thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

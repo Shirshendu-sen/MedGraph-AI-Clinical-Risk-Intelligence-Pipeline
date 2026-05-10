@@ -1,0 +1,16 @@
+UID: 2326
+
+INDICATION:
+XXXX-year-old female, syncope
+
+FINDINGS:
+Heart size mildly enlarged, stable mediastinal and hilar contours. Right hemidiaphragm eventration. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.
+
+IMPRESSION:
+Cardiomegaly, no acute pulmonary findings
+
+PROBLEMS:
+Cardiomegaly;Diaphragmatic Eventration
+
+MESH:
+Cardiomegaly/mild;Diaphragmatic Eventration/right

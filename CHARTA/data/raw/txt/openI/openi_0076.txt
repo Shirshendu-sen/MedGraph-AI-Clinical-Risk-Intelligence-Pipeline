@@ -1,0 +1,16 @@
+UID: 77
+
+INDICATION:
+PAIN;
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable XXXX silhouette. No pneumothorax. No focal consolidation. No large pleural effusion. Unchanged pleural thickening at the visualized lung apices. Mild osteopenia, degenerative changes. No fractures.
+
+PROBLEMS:
+Thickening;Bone Diseases, Metabolic
+
+MESH:
+Thickening/pleura/apex/bilateral;Bone Diseases, Metabolic/degenerative/mild

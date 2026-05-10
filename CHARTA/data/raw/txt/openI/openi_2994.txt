@@ -1,0 +1,16 @@
+UID: 3120
+
+INDICATION:
+Chest pain. Concern for pneumothorax.
+
+FINDINGS:
+The heart is normal in size and contour. There is no mediastinal widening. The lungs are clear bilaterally. No large pleural effusion or pneumothorax. Fractures of the posterior left 4th, 5th, and 6th ribs, age-indeterminate.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities. Specifically, no pneumothorax. 2. Fractures of the posterior left 4th, 5th, and 6th ribs, age-indeterminate.
+
+PROBLEMS:
+Fractures, Bone
+
+MESH:
+Fractures, Bone/ribs/left/posterior/multiple

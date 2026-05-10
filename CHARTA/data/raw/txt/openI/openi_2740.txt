@@ -1,0 +1,16 @@
+UID: 2847
+
+INDICATION:
+XXXX-year-old male with history of femoral artery aneurysm, preoperative evaluation.
+
+FINDINGS:
+The heart size is within normal limits. The thoracic aorta is tortuous, stable from the prior radiograph. Aortic stent graft overlies the descending thoracic aorta and upper abdominal aorta, grossly stable from the prior chest radiograph. There are scattered calcified granulomas. There is no focal airspace consolidation. No pleural effusion or pneumothorax. The left hemidiaphragm remains mildly elevated. There are mild degenerative changes of the spine.
+
+IMPRESSION:
+No acute findings.
+
+PROBLEMS:
+Aorta, Thoracic;Stents;Calcified Granuloma;Diaphragm;Spine
+
+MESH:
+Aorta, Thoracic/tortuous;Stents/aorta;Calcified Granuloma/scattered/multiple;Diaphragm/left/elevated/mild;Spine/degenerative/mild

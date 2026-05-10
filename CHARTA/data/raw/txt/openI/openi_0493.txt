@@ -1,0 +1,16 @@
+UID: 508
+
+INDICATION:
+Positive PPD, please evaluate for pulmonary lesions.
+
+FINDINGS:
+Normal heart size and mediastinal contours. No focal airspace consolidation. No pleural effusion or pneumothorax. Visualized osseous structures are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

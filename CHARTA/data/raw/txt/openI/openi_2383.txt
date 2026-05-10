@@ -1,0 +1,16 @@
+UID: 2469
+
+INDICATION:
+XXXX year-old female with dyspnea.
+
+FINDINGS:
+There is mild XXXX opacification over both XXXX, XXXX secondary to soft tissue attenuation. There are no focal air space opacities. No pleural effusion or pneumothorax. Cardiomediastinal silhouette is within normal limits. Trachea is midline. No free subdiaphragmatic air.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/thorax/mild

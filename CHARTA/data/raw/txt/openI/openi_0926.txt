@@ -1,0 +1,16 @@
+UID: 959
+
+INDICATION:
+XXXX-year-old with syncope.
+
+FINDINGS:
+The heart and mediastinal contours are stable. There is minimal patchy right lower lobe airspace disease identified. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+1. Patchy right lower lobe airspace disease may be due to atelectasis or infiltrate.
+
+PROBLEMS:
+Airspace Disease
+
+MESH:
+Airspace Disease/lung/lower lobe/right/patchy/mild

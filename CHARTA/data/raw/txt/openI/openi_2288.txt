@@ -1,0 +1,16 @@
+UID: 2371
+
+INDICATION:
+Right post thoracic pain.
+
+FINDINGS:
+There are T-spine osteophytes. The cardiomediastinal silhouette and pulmonary vasculature are within normal limits. There is no pneumothorax or pleural effusion. There are no focal areas of consolidation. There are low lung volumes.
+
+IMPRESSION:
+Lung volumes with streaky left basilar opacity consistent with subsegmental atelectasis.
+
+PROBLEMS:
+Osteophyte;Lung;Opacity;Pulmonary Atelectasis
+
+MESH:
+Osteophyte/thoracic vertebrae/multiple;Lung/hypoinflation;Opacity/lung/base/left/streaky;Pulmonary Atelectasis/base/left

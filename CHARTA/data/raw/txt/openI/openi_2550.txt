@@ -1,0 +1,16 @@
+UID: 2645
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Surgical clips within the right upper quadrant. Lungs are clear bilaterally. There is no focal consolidation, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. XXXX are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Surgical Instruments
+
+MESH:
+Surgical Instruments/abdomen/right

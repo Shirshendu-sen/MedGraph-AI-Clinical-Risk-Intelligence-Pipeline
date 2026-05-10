@@ -1,0 +1,16 @@
+UID: 617
+
+INDICATION:
+ASTHMA
+
+FINDINGS:
+Lungs are clear. No pleural effusions or pneumothoraces. heart and mediastinum are stable with normal sized heart. Degenerative changes in the spine.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative

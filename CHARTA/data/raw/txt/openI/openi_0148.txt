@@ -1,0 +1,16 @@
+UID: 152
+
+INDICATION:
+XXXX-year-old female, XXXX not otherwise specified
+
+FINDINGS:
+Stable cardiomediastinal silhouette with mild cardiomegaly and aortic ectasia and tortuosity. No alveolar consolidation, no findings of pleural effusion. Chronic appearing bilateral rib contour deformities compatible with old fractures. No pneumothorax.
+
+IMPRESSION:
+No acute findings.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Deformity;Fractures, Bone
+
+MESH:
+Cardiomegaly/mild;Aorta/tortuous;Deformity/ribs/bilateral/chronic;Fractures, Bone/ribs/bilateral/multiple/healed

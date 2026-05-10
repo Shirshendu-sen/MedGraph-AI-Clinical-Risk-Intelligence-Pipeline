@@ -1,0 +1,16 @@
+UID: 777
+
+INDICATION:
+XXXX-year-old male with productive XXXX.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for appearance. The thoracic aorta is tortuous. No focal areas of pulmonary consolidation. No pneumothorax. No large pleural effusion. Mild degenerative changes and osteopenia of the thoracic spine. Overlying EKG leads.
+
+IMPRESSION:
+1. No acute cardiopulmonary process. .
+
+PROBLEMS:
+Aorta, Thoracic;Bone Diseases, Metabolic;Thoracic Vertebrae;Medical Device
+
+MESH:
+Aorta, Thoracic/tortuous;Bone Diseases, Metabolic/thoracic vertebrae;Thoracic Vertebrae/degenerative/mild;Medical Device

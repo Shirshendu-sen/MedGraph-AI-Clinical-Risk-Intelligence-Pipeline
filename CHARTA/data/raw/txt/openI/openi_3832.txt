@@ -1,0 +1,16 @@
+UID: 3980
+
+INDICATION:
+XXXX-year-old female, chest pain
+
+FINDINGS:
+Heart size moderately enlarged. Mild left costophrenic XXXX blunting. Streaky and patchy bibasilar opacities, left greater than right. Right hemidiaphragm eventration noted. No typical findings of pulmonary edema.
+
+IMPRESSION:
+1. Cardiomegaly and small left pleural effusion versus pleural thickening 2. Streaky and patchy bibasilar opacities may be compatible with atelectasis versus consolidation, aspiration, clinical correlation recommended
+
+PROBLEMS:
+Cardiomegaly;Pleural Effusion;Thickening;Opacity;Costophrenic Angle;Diaphragmatic Eventration
+
+MESH:
+Cardiomegaly/moderate;Pleural Effusion/left/small;Thickening/pleura/left;Opacity/lung/base/bilateral/patchy/streaky;Costophrenic Angle/left/blunted/mild;Diaphragmatic Eventration/right

@@ -1,0 +1,16 @@
+UID: 1702
+
+INDICATION:
+XXXX-year-old woman with chest pain
+
+FINDINGS:
+No acute osseous abnormality. Soft tissues are within normal limits. Borderline enlargement of the heart. Normal hilar vasculature. No focal area of consolidation, pleural effusion, or pneumothorax.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/borderline

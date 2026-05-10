@@ -1,0 +1,16 @@
+UID: 1762
+
+INDICATION:
+tuberculosis in the XXXX +PPD
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Calcified right paratracheal lymph XXXX calcified granuloma in the peripheral portion right upper lobe. No arteriographic evidence of tuberculosis.
+
+PROBLEMS:
+Calcinosis;Calcified Granuloma
+
+MESH:
+Calcinosis/lymph nodes/right/paratracheal;Calcified Granuloma/lung/upper lobe/right

@@ -1,0 +1,16 @@
+UID: 3353
+
+INDICATION:
+XXXX-year-old male with dyspnea.
+
+FINDINGS:
+Stable marked cardiomegaly. Cardiac XXXX generator projects over the left mid hemithorax with a XXXX terminating in the right ventricle. No focal airspace disease. Mild central pulmonary vascular congestion. The heart has the same configuration as seen previously with a pericardial effusion on an abdominal CT in XXXX.
+
+IMPRESSION:
+Cardiomegaly with central pulmonary vascular congestion and no acute cardiopulmonary findings.
+
+PROBLEMS:
+Cardiomegaly;Implanted Medical Device;Pulmonary Congestion;Pericardial Effusion
+
+MESH:
+Cardiomegaly/severe;Implanted Medical Device/left;Pulmonary Congestion/mild;Pericardial Effusion

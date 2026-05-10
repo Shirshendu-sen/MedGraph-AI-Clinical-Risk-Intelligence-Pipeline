@@ -1,0 +1,16 @@
+UID: 3328
+
+INDICATION:
+XXXX and sweats
+
+FINDINGS:
+None
+
+IMPRESSION:
+Minimal cardiomegaly. Prominent pulmonary XXXX. Probable very small pleural effusions and minimal questionable interstitial edema. No pneumonia
+
+PROBLEMS:
+Cardiomegaly;Pleural Effusion
+
+MESH:
+Cardiomegaly/mild;Pleural Effusion/bilateral/small

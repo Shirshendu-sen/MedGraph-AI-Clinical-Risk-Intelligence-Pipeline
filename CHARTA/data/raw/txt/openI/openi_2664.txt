@@ -1,0 +1,16 @@
+UID: 2767
+
+INDICATION:
+Syncope
+
+FINDINGS:
+Lungs are clear. No pleural effusion or pneumothorax. Cardiomediastinal silhouette is normal. There are minimal degenerative changes of the spine.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative/mild

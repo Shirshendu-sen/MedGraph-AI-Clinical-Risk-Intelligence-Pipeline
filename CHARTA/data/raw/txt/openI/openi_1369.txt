@@ -1,0 +1,16 @@
+UID: 1417
+
+INDICATION:
+XXXX-year-old male for preop XXXX of subclavian arterial stent.
+
+FINDINGS:
+Cardiac and mediastinal contours are unremarkable. Pulmonary vascularity is within normal limits. No focal air space opacities, pleural effusion, or pneumothorax. There are increased lucencies in the bilateral apices along with horizontal oblique scarring in the left upper lobe. This could suggest emphysematous bullae. XXXX are grossly unremarkable.
+
+IMPRESSION:
+1. No active disease.
+
+PROBLEMS:
+Lung, Hyperlucent;Lucency;Cicatrix
+
+MESH:
+Lung, Hyperlucent/apex/bilateral;Lucency/lung/apex/bilateral;Cicatrix/lung/upper lobe/left

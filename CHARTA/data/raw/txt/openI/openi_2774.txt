@@ -1,0 +1,16 @@
+UID: 2887
+
+INDICATION:
+Right-sided pneumothorax
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. There are a few XXXX opacities in the lung bases bilaterally. No definitive pneumothorax or pleural effusion. Displaced fracture of the mid one-third of the right clavicle.
+
+IMPRESSION:
+1. Previously identified small right pneumothorax is not visualized on today's exam. 2. Minimal bibasilar atelectasis/airspace disease.
+
+PROBLEMS:
+Opacity;Fractures, Bone;Airspace Disease;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/base/bilateral/multiple;Fractures, Bone/clavicle/right;Airspace Disease/lung/base/bilateral/mild;Pulmonary Atelectasis/base/bilateral/mild

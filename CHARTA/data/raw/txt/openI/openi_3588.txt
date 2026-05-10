@@ -1,0 +1,16 @@
+UID: 3731
+
+INDICATION:
+XXXX and XXXX
+
+FINDINGS:
+Lungs are clear. Heart and mediastinum appear normal. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+Negative chest
+
+PROBLEMS:
+normal
+
+MESH:
+normal

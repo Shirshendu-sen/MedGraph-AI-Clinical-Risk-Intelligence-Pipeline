@@ -1,0 +1,16 @@
+UID: 1444
+
+INDICATION:
+Multiple myeloma, preprocedure evaluation prior to bone marrow transplant
+
+FINDINGS:
+There is a healing fracture involving the left posterolateral 7th rib. There is XXXX deformity of the 8th vertebral body. These bony lesions may be secondary to the patient's known multiple myeloma. The lungs appear clear. The heart and pulmonary XXXX are normal. The pleural spaces are clear. Mediastinal contours are normal.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Fractures, Bone;Deformity
+
+MESH:
+Fractures, Bone/ribs/left/healed;Deformity/spine

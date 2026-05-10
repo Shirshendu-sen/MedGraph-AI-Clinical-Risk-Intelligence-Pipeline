@@ -1,0 +1,16 @@
+UID: 3570
+
+INDICATION:
+XXXX-year-old male, chest pain dyspnea after XXXX.
+
+FINDINGS:
+Normal heart size mediastinal contours. Subsegmental atelectasis versus scarring in the right midlung and left lower lobe. No focal airspace disease. No pleural effusion or pneumothorax. Low lung volumes. Visualized bony structures are unremarkable in appearance.
+
+IMPRESSION:
+1. Low lung volumes with patchy bilateral scarring versus atelectasis. 2. Otherwise, no acute or XXXX pulmonary abnormality.
+
+PROBLEMS:
+Pulmonary Atelectasis;Pulmonary Atelectasis;Cicatrix;Cicatrix;Lung
+
+MESH:
+Pulmonary Atelectasis/middle lobe/right;Pulmonary Atelectasis/lower lobe/left;Cicatrix/lung/middle lobe/right/patchy;Cicatrix/lung/lower lobe/left/patchy;Lung/hypoinflation

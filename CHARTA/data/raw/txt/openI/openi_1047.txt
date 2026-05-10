@@ -1,0 +1,16 @@
+UID: 1082
+
+INDICATION:
+XXXX year old female with abdominal pain.
+
+FINDINGS:
+Stable cardiomegaly. Stable tortuosity of the aorta. No focal airspace opacities, pneumothorax or pleural effusion. Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+Stable cardiomegaly with clear lungs.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Thoracic Vertebrae
+
+MESH:
+Cardiomegaly;Aorta/tortuous;Thoracic Vertebrae/degenerative/mild

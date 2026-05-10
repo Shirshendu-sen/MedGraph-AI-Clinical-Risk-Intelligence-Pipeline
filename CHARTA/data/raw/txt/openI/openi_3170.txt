@@ -1,0 +1,16 @@
+UID: 3300
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+Lungs are clear bilaterally.There is no focal consolidation, pleural effusion, or pneumothoraces. Stable aortic tortuosity. Cardiomediastinal silhouette is otherwise unremarkable. Scoliosis and degenerative changes of the thoracic spine. Stent visualized in the right upper quadrant, XXXX biliary stent.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Aorta;Scoliosis;Thoracic Vertebrae;Stents
+
+MESH:
+Aorta/tortuous;Scoliosis/thoracic vertebrae;Thoracic Vertebrae/degenerative;Stents/abdomen/right

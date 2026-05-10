@@ -1,0 +1,16 @@
+UID: 337
+
+INDICATION:
+left-sided chest pain under left breast. Three days.
+
+FINDINGS:
+Minimal XXXX opacities at the posterior sulci. A few septal lines of the left lateral sulcus. Otherwise, The lungs are clear with granulomas and XXXX sulci. Heart size upper normal thin LV contour.Unfolded calcified aorta. T-spine small osteophytes.
+
+IMPRESSION:
+No pneumothorax. Similar appearance.
+
+PROBLEMS:
+Opacity;Markings;Granuloma;Aorta;Calcinosis;Osteophyte
+
+MESH:
+Opacity/sulcus/posterior/mild;Markings/sulcus/left;Granuloma/lung;Aorta/tortuous;Calcinosis/aorta;Osteophyte/thoracic vertebrae/multiple/small

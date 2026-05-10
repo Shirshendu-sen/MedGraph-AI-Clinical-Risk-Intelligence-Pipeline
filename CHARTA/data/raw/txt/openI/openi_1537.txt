@@ -1,0 +1,16 @@
+UID: 1589
+
+INDICATION:
+XXXX-year-old XXXX, XXXX, preop..
+
+FINDINGS:
+The lungs are hyperinflated with mildly coarsened interstitial markings consistent with chronic lung disease. No focal consolidation, pneumothorax, or effusion identified. The mediastinal silhouette is stable and within normal limits for size. There is redemonstration without significant change in right hilar calcified lymph XXXX. The bony structures of the thorax demonstrate degenerative changes of the right shoulder and a XXXX right humerus consistent with distal humeral amputation. No acute bony abnormality identified.
+
+IMPRESSION:
+Changes of chronic lung disease without acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Lung;Markings;Calcinosis;Shoulder
+
+MESH:
+Lung/hyperdistention;Markings/lung/interstitial/mild;Calcinosis/lung/hilum/lymph nodes/right;Shoulder/right/degenerative

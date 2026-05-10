@@ -1,0 +1,16 @@
+UID: 1867
+
+INDICATION:
+XXXX, fractured femur, preop
+
+FINDINGS:
+Cardiomegaly and tortuous calcified thoracic aorta are unchanged. Normal pulmonary vascularity. Minimal streaky bibasilar opacities. Blunted left costophrenic XXXX. Bony demineralization. Degenerative changes of the spine. Verterbroplasty change near the thoracolumbar junction. Upper abdominal surgical changes. Chronic appearing deformity of the proximal right humerus. Old right rib fractures.
+
+IMPRESSION:
+1. Mild cardiomegaly without pulmonary edema. 2. Minimal bibasal subsegmental atelectasis/scar. 3. Very small left pleural effusion.
+
+PROBLEMS:
+Cardiomegaly;Aorta, Thoracic;Calcinosis;Opacity;Costophrenic Angle;Bone Diseases, Metabolic;Spine;Deformity;Fractures, Bone;Pulmonary Atelectasis;Cicatrix;Pleural Effusion
+
+MESH:
+Cardiomegaly/mild;Aorta, Thoracic/tortuous;Calcinosis/aorta, thoracic;Opacity/lung/base/bilateral/streaky/mild;Costophrenic Angle/left/blunted;Bone Diseases, Metabolic;Spine/degenerative;Deformity/humerus/right/chronic;Fractures, Bone/ribs/right/multiple/healed;Pulmonary Atelectasis/base/bilateral/mild;Cicatrix/lung/base/bilateral/mild;Pleural Effusion/left/small

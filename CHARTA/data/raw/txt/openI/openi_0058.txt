@@ -1,0 +1,16 @@
+UID: 59
+
+INDICATION:
+XXXX-year-old male with history of XXXX cell, back pain
+
+FINDINGS:
+The cardiac silhouette, mediastinum, and pulmonary vasculature are unremarkable. There is stable elevation of the left hemidiaphragm. Lungs are clear. No pleural fluid or pneumothorax is appreciated. Cholecystectomy clips are noted in the right upper quadrant.
+
+IMPRESSION:
+No acute abnormalities are seen. .
+
+PROBLEMS:
+Diaphragm
+
+MESH:
+Diaphragm/left/elevated

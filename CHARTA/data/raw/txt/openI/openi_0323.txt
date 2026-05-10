@@ -1,0 +1,16 @@
+UID: 335
+
+INDICATION:
+Shortness of breath.
+
+FINDINGS:
+A left-sided hemodialysis catheter is in XXXX with its distal tip at the right atrium. The cardiac silhouette and mediastinal contours are within normal limits. There is no focal opacity. There is no pneumothorax. No large pleural effusion.
+
+IMPRESSION:
+Stable position of the left-sided hemodialysis catheter otherwise no acute cardiopulmonary disease.
+
+PROBLEMS:
+Catheters, Indwelling
+
+MESH:
+Catheters, Indwelling/left

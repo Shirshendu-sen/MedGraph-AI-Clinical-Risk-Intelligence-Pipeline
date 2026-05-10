@@ -1,0 +1,16 @@
+UID: 1832
+
+INDICATION:
+XXXX-year-old male, chest pain.
+
+FINDINGS:
+Interval removal of cardiac XXXX generator. Cardiomegaly. Left base streaky opacities again noted. No large focal areas of consolidation. No pleural effusions. Osseous structures intact. No pneumothorax.
+
+IMPRESSION:
+1. Streaky left basilar opacities, XXXX atelectasis versus infiltrate. 2. Cardiomegaly, stable.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Pulmonary Atelectasis;Infiltrate
+
+MESH:
+Cardiomegaly;Opacity/lung/base/left/streaky;Pulmonary Atelectasis;Infiltrate/lung

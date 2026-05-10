@@ -1,0 +1,16 @@
+UID: 776
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Cardiomediastinal silhouette is within normal limits in size and appearance. Pulmonary vascularity is unremarkable. There are prominent coarse interstitial markings throughout the lungs, with more focal streaky bibasilar opacities, seen only on the frontal XXXX, XXXX atelectasis. Negative for focal airspace disease or consolidation. Negative for pneumothorax or pleural effusion. Limited evaluation reveals the XXXX XXXX are grossly intact.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Markings;Opacity;Pulmonary Atelectasis
+
+MESH:
+Markings/lung/interstitial/prominent;Opacity/lung/base/bilateral/focal/streaky;Pulmonary Atelectasis

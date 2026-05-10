@@ -1,0 +1,16 @@
+UID: 218
+
+INDICATION:
+XXXX-year-old female with XXXX
+
+FINDINGS:
+Heart size is unchanged. Aortic calcification is noted. No pneumothorax. No large pleural effusions. There are unchanged XXXX opacities throughout the lungs which XXXX represent scarring. Lungs are hyperexpanded.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities. Stable chronic lung disease. .
+
+PROBLEMS:
+Calcinosis;Opacity;Lung;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Calcinosis/aorta;Opacity/lung/bilateral;Lung/hyperdistention;Pulmonary Disease, Chronic Obstructive

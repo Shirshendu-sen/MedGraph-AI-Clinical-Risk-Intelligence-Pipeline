@@ -1,0 +1,16 @@
+UID: 3940
+
+INDICATION:
+XXXX
+
+FINDINGS:
+There is a stable closure device projected over the heart. The heart and mediastinum are otherwise normal. There is stable XXXX scarring of left mid lung. The lungs are otherwise clear. There is no infiltrate, effusion, mass or pneumothorax.
+
+IMPRESSION:
+Stable appearance of the chest
+
+PROBLEMS:
+Implanted Medical Device;Cicatrix
+
+MESH:
+Implanted Medical Device/heart;Cicatrix/lung/lingula

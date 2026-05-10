@@ -1,0 +1,16 @@
+UID: 93
+
+INDICATION:
+XXXX-year-old female with chest pain
+
+FINDINGS:
+Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Negative for pneumoperitoneum. Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+Negative for acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

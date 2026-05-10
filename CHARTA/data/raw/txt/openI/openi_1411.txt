@@ -1,0 +1,16 @@
+UID: 1459
+
+INDICATION:
+XXXX-year-old male shortness of breath..
+
+FINDINGS:
+No stable cardiomegaly, without focal consolidation, pneumothorax, or pleural effusion. Stable right basilar calcified granuloma. No acute osseous abnormality identified.
+
+IMPRESSION:
+Stable cardiomegaly without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Cardiomegaly
+
+MESH:
+Calcified Granuloma/lung/base/right;Cardiomegaly

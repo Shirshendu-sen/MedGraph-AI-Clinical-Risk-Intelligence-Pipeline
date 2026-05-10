@@ -1,0 +1,16 @@
+UID: 2486
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+The heart size is normal. The mediastinal contour is within normal limits. There are no focal infiltrates. There is prominent epipericardial fat. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. Right 7th and 8th rib deformities are noted. There is no visible free intraperitoneal air under the diaphragm.
+
+IMPRESSION:
+No radiographic evidence of acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Epicardial Fat;Deformity
+
+MESH:
+Epicardial Fat/prominent;Deformity/ribs/right/multiple

@@ -1,0 +1,16 @@
+UID: 1110
+
+INDICATION:
+XXXX-year-old male, chest pain.
+
+FINDINGS:
+Cardiomediastinal contours within normal limits. Pulmonary vascularity is normal. There are scattered calcified testes bilaterally, consistent with prior granulomatous infection, stable. No XXXX focal airspace consolidation. No pleural effusion, no pneumothorax. Bony structures unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. Prior granulomatous infection.
+
+PROBLEMS:
+Granulomatous Disease;Calcinosis
+
+MESH:
+Granulomatous Disease;Calcinosis/bilateral/scattered

@@ -1,0 +1,16 @@
+UID: 3657
+
+INDICATION:
+XXXX.
+
+FINDINGS:
+The heart size is normal. There is vascular congestion in bilateral hilar areas. The lungs are hyperexpanded with flattened diaphragms. No acute bony abnormalities. No effusion or infiltrate. No pneumothorax or pneumomediastinum.
+
+IMPRESSION:
+1. Hyperexpanded lungs. 2. Otherwise normal chest x-XXXX.
+
+PROBLEMS:
+Pulmonary Congestion;Lung;Diaphragm
+
+MESH:
+Pulmonary Congestion/hilum/bilateral;Lung/hyperdistention;Diaphragm/bilateral/flattened

@@ -1,0 +1,16 @@
+UID: 3124
+
+INDICATION:
+XXXX-year-old male with history of pulmonary embolism.
+
+FINDINGS:
+There is persistent, marked enlargement of the pulmonary arteries. Normal heart size. No focal airspace consolidation. No pleural effusion or pneumothorax. Visualized osseous structures are unremarkable in appearance.
+
+IMPRESSION:
+1. Enlarged pulmonary arteries. This may be due to previous/chronic pulmonary embolism or XXXX pulmonary arterial hypertension. 2. No evidence of pneumonia or other acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Pulmonary Artery
+
+MESH:
+Pulmonary Artery/enlarged/severe

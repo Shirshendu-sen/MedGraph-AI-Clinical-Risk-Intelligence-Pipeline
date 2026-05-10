@@ -1,0 +1,16 @@
+UID: 2537
+
+INDICATION:
+Shortest breath
+
+FINDINGS:
+Frontal and lateral views of the chest show an unchanged cardiomediastinal silhouette. Right-sided aortic XXXX. Normal mediastinal contour, pulmonary XXXX and vasculature, central airways and aeration of the lungs. There is right basal XXXX patchy opacity and bibasal atelectasis or scarring. There is no pleural effusion or pneumothorax. Right apical calcified granuloma noted.
+
+IMPRESSION:
+1. Right basal acute airspace disease. Please correlate clinically for pneumonia. 2. Chronic interstitial pattern, may reflect COPD.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Cicatrix;Calcified Granuloma;Airspace Disease;Lung Diseases, Interstitial
+
+MESH:
+Opacity/lung/base/right/patchy;Pulmonary Atelectasis/base/bilateral;Cicatrix/lung/base/bilateral;Calcified Granuloma/lung/apex/right;Airspace Disease/lung/base/right/acute;Lung Diseases, Interstitial

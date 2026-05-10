@@ -1,0 +1,16 @@
+UID: 1649
+
+INDICATION:
+Metastatic ovarian cancer, evaluate pleural effusion
+
+FINDINGS:
+There is a moderate layering left pleural effusion, grossly stable. There is a moderate right pleural effusion, which is partially loculated. There is some pleural fluid tracking along the right XXXX fissure. There is bibasilar airspace disease, possibly passive atelectasis. No pneumothorax is identified. Heart size is within normal limits. Right PICC tip is at the SVC. There are mild degenerative changes of the spine.
+
+IMPRESSION:
+1. Partially loculated right pleural effusion, grossly stable. 2. Stable moderate layering left pleural effusion. 3. Bibasilar airspace disease, possibly atelectasis.
+
+PROBLEMS:
+Pleural Effusion;Airspace Disease;Catheters, Indwelling;Spine
+
+MESH:
+Pleural Effusion/bilateral/focal/moderate;Airspace Disease/lung/base/bilateral;Catheters, Indwelling/right;Spine/degenerative/mild

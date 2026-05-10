@@ -1,0 +1,16 @@
+UID: 353
+
+INDICATION:
+Increased O2 requirement
+
+FINDINGS:
+XXXX XXXX and lateral chest examination was obtained. There is improvement in bilateral pulmonary edema with mild residual. There is minimal right-sided pleural effusion. Heart silhouette is not enlarged. There is calcified mediastinal lymph XXXX. There is no pneumothorax
+
+IMPRESSION:
+1. Improving bilateral interstitial edema pattern. 2. Small right-sided pleural effusion.
+
+PROBLEMS:
+Pulmonary Edema;Pleural Effusion;Calcinosis
+
+MESH:
+Pulmonary Edema/bilateral/interstitial/mild;Pleural Effusion/right/small;Calcinosis/mediastinum/lymph nodes

@@ -1,0 +1,16 @@
+UID: 2143
+
+INDICATION:
+XXXX, XXXX breath. XXXX-year-old female. Tamoxifen use.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Lungs are hyperinflated suggesting underlying emphysema. No XXXX consolidation or pleural effusion. No pneumothorax. Heart size and mediastinal silhouette appear stable. No edema. Couple scattered small calcified nodules compatible with old granulomatous disease.
+
+PROBLEMS:
+Lung;Calcinosis;Nodule;Granulomatous Disease
+
+MESH:
+Lung/hyperdistention;Calcinosis/scattered/multiple/small;Nodule/scattered/multiple/small;Granulomatous Disease

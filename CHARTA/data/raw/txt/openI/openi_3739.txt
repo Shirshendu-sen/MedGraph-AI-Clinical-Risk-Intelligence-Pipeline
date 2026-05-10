@@ -1,0 +1,16 @@
+UID: 3886
+
+INDICATION:
+XXXX-year-old with syncope. Medical XXXX.
+
+FINDINGS:
+None
+
+IMPRESSION:
+[&lt;The heart size and cardiomediastinal silhouette are stable and within normal limits. Pulmonary vasculature appears normal. There is no focal air space consolidation. No pleural effusion or pneumothorax.&gt;] Extensive left upper quadrant splenic calcification may reflect old granulomatous disease
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/abdomen/left/severe

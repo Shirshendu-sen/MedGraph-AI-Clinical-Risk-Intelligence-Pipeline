@@ -1,0 +1,16 @@
+UID: 2482
+
+INDICATION:
+History of chest tube removal
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable 1 cm right apical pneumothorax. Minimal atelectasis left base. Heart size normal
+
+PROBLEMS:
+Pneumothorax;Pulmonary Atelectasis
+
+MESH:
+Pneumothorax/apex/right;Pulmonary Atelectasis/base/left/mild

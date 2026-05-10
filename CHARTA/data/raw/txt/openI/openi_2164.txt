@@ -1,0 +1,16 @@
+UID: 2244
+
+INDICATION:
+,V72.82,305.1 preop chest x-XXXX GYN surgery. XXXX.
+
+FINDINGS:
+None
+
+IMPRESSION:
+No comparison chest x-XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

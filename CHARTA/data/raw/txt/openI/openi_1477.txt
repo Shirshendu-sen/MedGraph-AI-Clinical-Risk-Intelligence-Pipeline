@@ -1,0 +1,16 @@
+UID: 1529
+
+INDICATION:
+XXXX-year-old female with anterior midline chest pain.
+
+FINDINGS:
+The lungs are clear. There is no focal airspace consolidation. No pleural effusion or pneumothorax. Heart size is within normal limits. Right paratracheal density is stable from prior radiographs and may reflect tortuous vasculature. There is aortic atherosclerotic vascular calcification. There are mild degenerative changes of the spine. Surgical clips are noted in the region of the left breast. There is mild diaphragm eventration.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Density;Atherosclerosis;Spine;Surgical Instruments;Diaphragmatic Eventration
+
+MESH:
+Density/right/paratracheal;Atherosclerosis/aorta;Spine/degenerative/mild;Surgical Instruments/breast/left;Diaphragmatic Eventration/mild

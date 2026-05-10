@@ -1,0 +1,16 @@
+UID: 1699
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+There is mild XXXX mentally without pulmonary edema. Tortuous thoracic aorta, unchanged. Stable positioning of the dual-XXXX cardiac XXXX device. No visible pneumothorax. There is a small left pleural effusion. Focal airspace consolidation is visualized in the superior segment of the left lower lobe, XXXX appreciated on lateral projection. Increased retrosternal clear space suggesting chronic obstructive pulmonary disease.
+
+IMPRESSION:
+1. Left lower lobe, superior segment, airspace consolidation, radiographic appearance most typical for pneumonia. Based on patient's age, a followup chest x-XXXX to document resolution is recommended. 2. XXXX left parapneumonic pleural effusion.
+
+PROBLEMS:
+Consolidation;Pneumonia;Pleural Effusion;Aorta, Thoracic;Implanted Medical Device
+
+MESH:
+Consolidation/lung/lower lobe/left/focal;Pneumonia/lower lobe/left;Pleural Effusion/left/small;Aorta, Thoracic/tortuous;Implanted Medical Device

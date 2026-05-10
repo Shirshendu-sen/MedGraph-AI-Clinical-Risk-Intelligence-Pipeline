@@ -1,0 +1,16 @@
+UID: 1399
+
+INDICATION:
+COPD
+
+FINDINGS:
+The cardiac contours are normal. The lungs are clear. Thoracic spondylosis. Partial fusion of 2 vertebral bodies near the thoracolumbar junction.
+
+IMPRESSION:
+No acute process.
+
+PROBLEMS:
+Spinal Fusion;Spinal Fusion;Spondylosis
+
+MESH:
+Spinal Fusion/lumbar vertebrae;Spinal Fusion/thoracic vertebrae;Spondylosis/thoracic vertebrae

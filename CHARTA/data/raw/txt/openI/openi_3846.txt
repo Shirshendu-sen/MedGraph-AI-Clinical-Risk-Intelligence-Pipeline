@@ -1,0 +1,16 @@
+UID: 3995
+
+INDICATION:
+Nausea, vomiting x2 weeks. Dialysis patient.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are mildly hyperinflated with flattening of the diaphragms and expansion of the retrosternal clear space. Compared with prior exam, there has been interval resolution of previously demonstrated bibasilar infiltrates. There is minimal XXXX scarring or atelectasis in the right midlung. There is no XXXX focal airspace disease. There is no pneumothorax or pleural effusion. There are no acute bony findings.
+
+IMPRESSION:
+1. Interval resolution of bibasilar airspace disease. 2. Hyperinflation with chronic changes of emphysema. .
+
+PROBLEMS:
+Lung;Diaphragm;Cicatrix;Pulmonary Atelectasis;Pulmonary Emphysema
+
+MESH:
+Lung/hyperdistention/mild;Diaphragm/bilateral/flattened;Cicatrix/lung/middle lobe/right/mild;Pulmonary Atelectasis/middle lobe/right/mild;Pulmonary Emphysema

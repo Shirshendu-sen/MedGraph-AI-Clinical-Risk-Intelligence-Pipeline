@@ -1,0 +1,16 @@
+UID: 3382
+
+INDICATION:
+The patient is a XXXX-year-old male with chronic shortness of breath.
+
+FINDINGS:
+Prominent interstitial markings. There are small bilateral pleural effusions. No pneumothorax or focal consolidation. Normal heart size. Catheter tubing present in the upper midabdomen. There is bilateral acromioclavicular degenerative joint disease, right greater than left.
+
+IMPRESSION:
+Small bilateral pleural effusions. .
+
+PROBLEMS:
+Markings;Pleural Effusion;Tube, Inserted;Shoulder
+
+MESH:
+Markings/lung/interstitial/prominent;Pleural Effusion/bilateral/small;Tube, Inserted/abdomen;Shoulder/bilateral/degenerative

@@ -1,0 +1,16 @@
+UID: 2656
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. There are residuals of prior granulomatous infection. Lungs otherwise clear. No pleural effusions or pneumothoraces. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+Granulomatous Disease;Thoracic Vertebrae
+
+MESH:
+Granulomatous Disease;Thoracic Vertebrae/degenerative

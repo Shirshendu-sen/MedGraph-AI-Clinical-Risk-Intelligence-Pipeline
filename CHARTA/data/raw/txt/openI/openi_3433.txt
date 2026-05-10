@@ -1,0 +1,16 @@
+UID: 3573
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for appearance. The thoracic aorta is mildly tortuous and calcified. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. Mild degenerative changes of the thoracic spine. Mild levoscoliosis of the thoracolumbar spine.
+
+IMPRESSION:
+1. No acute intrathoracic abnormality.
+
+PROBLEMS:
+Aorta, Thoracic;Calcinosis;Thoracic Vertebrae;Scoliosis;Scoliosis
+
+MESH:
+Aorta, Thoracic/tortuous/mild;Calcinosis/aorta, thoracic/mild;Thoracic Vertebrae/degenerative/mild;Scoliosis/lumbar vertebrae/left/mild;Scoliosis/thoracic vertebrae/left/mild

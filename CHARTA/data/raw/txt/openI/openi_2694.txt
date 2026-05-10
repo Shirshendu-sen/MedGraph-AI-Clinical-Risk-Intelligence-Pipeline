@@ -1,0 +1,16 @@
+UID: 2797
+
+INDICATION:
+The patient is a XXXX-year-old XXXX with chest pain and shortness of breath for one XXXX.
+
+FINDINGS:
+The trachea is midline. The cardiomediastinal silhouette is normal. The lungs are clear, without evidence of acute infiltrate or effusion. There is no pneumothorax. Visualized bony structures reveal no acute abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

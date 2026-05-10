@@ -1,0 +1,16 @@
+UID: 1069
+
+INDICATION:
+XXXX-year-old woman with chest pain.
+
+FINDINGS:
+Heart size within normal limits. There is mild hyperexpansion with flattening diaphragms and bronchovascular crowding in the lung bases compatible with emphysema. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax.
+
+IMPRESSION:
+No acute abnormality.
+
+PROBLEMS:
+Lung;Diaphragm;Markings;Pulmonary Emphysema
+
+MESH:
+Lung/hyperdistention/mild;Diaphragm/bilateral/flattened;Markings/lung/base/bilateral/bronchovascular;Pulmonary Emphysema/base/bilateral

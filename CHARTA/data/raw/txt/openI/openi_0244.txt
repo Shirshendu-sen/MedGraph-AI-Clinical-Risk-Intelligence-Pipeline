@@ -1,0 +1,16 @@
+UID: 254
+
+INDICATION:
+XXXX-year-old female MVA, chest pain
+
+FINDINGS:
+Lungs are clear. Heart size normal. Scattered thoracic spine spurring.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+Osteophyte
+
+MESH:
+Osteophyte/thoracic vertebrae/scattered

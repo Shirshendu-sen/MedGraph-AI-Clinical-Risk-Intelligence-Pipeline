@@ -1,0 +1,16 @@
+UID: 1240
+
+INDICATION:
+Pneumonia
+
+FINDINGS:
+Feeding tube passes below the left hemidiaphragm. Left subclavian central line tip is at the upper SVC. Shunt tubing courses along the anterior left hemithorax. There is grossly stable left lower lobe consolidation. Stable mild residual medial right basilar airspace disease. There is no pneumothorax. Heart size is within normal limits. There is aortic atherosclerotic vascular calcification. There are diffuse degenerative changes of the spine.
+
+IMPRESSION:
+1. Stable left lung consolidation, possibly infectious pneumonia and/or aspiration. Recommend followup radiographs after treatment to ensure complete resolution. 2. Stable mild residual medial right basilar airspace disease.
+
+PROBLEMS:
+Tube, Inserted;Catheters, Indwelling;Consolidation;Airspace Disease;Atherosclerosis;Spine
+
+MESH:
+Tube, Inserted/left;Catheters, Indwelling/left;Consolidation/lung/lower lobe/left;Airspace Disease/lung/base/right/mild;Atherosclerosis/aorta;Spine/degenerative/diffuse

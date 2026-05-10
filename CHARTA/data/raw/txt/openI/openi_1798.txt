@@ -1,0 +1,16 @@
+UID: 1857
+
+INDICATION:
+Syncope.
+
+FINDINGS:
+Mild cardiomegaly. Normal size and mediastinal contours. Clear lungs. No pneumothorax or pleural effusion. Unremarkable XXXX.
+
+IMPRESSION:
+Mild cardiomegaly. Clear lungs. .
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/mild

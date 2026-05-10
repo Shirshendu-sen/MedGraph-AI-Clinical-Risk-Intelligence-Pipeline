@@ -1,0 +1,16 @@
+UID: 702
+
+INDICATION:
+XXXX-year-old woman with lung cancer, shortness of breath..
+
+FINDINGS:
+The left lung is grossly clear. The right lung demonstrates a large right pleural effusion with associated atelectatic collapse of the right middle lobe and partial collapse of the right lower lobe. XXXX opacities are seen within the aerated right lung, XXXX subsegmental atelectasis. No focal consolidation or pneumothorax identified. No acute osseous abnormality. Cardio mediastinal silhouette is stable compared to prior examinations.
+
+IMPRESSION:
+Large right pleural effusion with associated passive atelectasis of the right middle and lower lobes. Grossly clear left lung.
+
+PROBLEMS:
+Pleural Effusion;Pulmonary Atelectasis;Pulmonary Atelectasis;Opacity
+
+MESH:
+Pleural Effusion/right/large;Pulmonary Atelectasis/middle lobe/right;Pulmonary Atelectasis/lower lobe/right;Opacity/lung/right

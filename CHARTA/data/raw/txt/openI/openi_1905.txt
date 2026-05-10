@@ -1,0 +1,16 @@
+UID: 1970
+
+INDICATION:
+XXXX-year-old male. XXXX. Headache. Hypertension.
+
+FINDINGS:
+Apparent cardiomegaly XXXX at XXXX partially accentuated by low lung volumes. No focal consolidation, pneumothorax or large pleural effusion. Right base calcified granuloma. Stable right infrahilar nodular density (lateral view). Negative for acute bone abnormality.
+
+IMPRESSION:
+Borderline cardiomegaly without heart failure.
+
+PROBLEMS:
+Cardiomegaly;Lung;Calcified Granuloma;Density
+
+MESH:
+Cardiomegaly/borderline;Lung/hypoinflation;Calcified Granuloma/lung/base/right;Density/lung/hilum/right/round

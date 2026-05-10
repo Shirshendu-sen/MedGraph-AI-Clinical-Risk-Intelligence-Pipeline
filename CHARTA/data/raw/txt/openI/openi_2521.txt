@@ -1,0 +1,16 @@
+UID: 2615
+
+INDICATION:
+XXXX-year-old male, pain
+
+FINDINGS:
+Moderate cardiomegaly. Mild bilateral costophrenic XXXX blunting and fissural thickening, interstitial opacities greatest in the central lungs and bases with indistinct vascular margination. Dense right lower lobe nodule and right hilar calcifications suggest a previous granulomatous process.
+
+IMPRESSION:
+1. Cardiomegaly and small bilateral pleural effusions 2. Abnormal pulmonary opacities most suggestive of pulmonary edema, primary differential diagnosis atypical infection and inflammation
+
+PROBLEMS:
+Cardiomegaly;Pleural Effusion;Opacity;Pulmonary Edema;Costophrenic Angle;Thickening;Opacity;Opacity;Pulmonary Congestion;Nodule;Density;Calcinosis
+
+MESH:
+Cardiomegaly/moderate;Pleural Effusion/bilateral/small;Opacity/lung/multiple/abnormal;Pulmonary Edema;Costophrenic Angle/bilateral/blunted/mild;Thickening/pleura;Opacity/lung/middle lobe/bilateral/interstitial/multiple;Opacity/lung/base/bilateral/interstitial/multiple;Pulmonary Congestion;Nodule/lung/lower lobe/right;Density/lung/lower lobe/right;Calcinosis/lung/hilum/right

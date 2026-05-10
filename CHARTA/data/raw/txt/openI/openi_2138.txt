@@ -1,0 +1,16 @@
+UID: 2218
+
+INDICATION:
+XXXX year old woman with chest pain.
+
+FINDINGS:
+The opacity at the left lung base appears stable from prior exam. There is elevation of the left hemidiaphragm is stable. The cardiomediastinal silhouette is enlarged but unchanged. XXXX sternotomy XXXX are again noted. There is a large amount of XXXX distending the stomach, which incidentally was also seen on prior exam of 3 years ago. There is no pneumothorax.
+
+IMPRESSION:
+1. Left basilar opacity XXXX represents atelectasis/scarring with associated elevated hemidiaphragm. 2. Stable cardiomegaly. 3. No XXXX airspace disease.
+
+PROBLEMS:
+Opacity;Diaphragm;Cardiac Shadow;Pulmonary Atelectasis;Cicatrix;Cardiomegaly;Abdomen
+
+MESH:
+Opacity/lung/base/left;Diaphragm/left/elevated;Cardiac Shadow/enlarged;Pulmonary Atelectasis/base/left;Cicatrix/lung/base/left;Cardiomegaly;Abdomen/enlarged/severe

@@ -1,0 +1,16 @@
+UID: 2836
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Frontal and lateral views of the chest with overlying external cardiac monitor leads show reduced lung volumes with bronchovascular crowding of basilar atelectasis. No definite focal airspace consolidation or pleural effusion. The cardiac silhouette appears mildly enlarged.
+
+IMPRESSION:
+Mild cardiomegaly. Basilar atelectasis.
+
+PROBLEMS:
+Medical Device;Lung;Markings;Pulmonary Atelectasis;Cardiac Shadow;Cardiomegaly
+
+MESH:
+Medical Device;Lung/hypoinflation;Markings/bronchovascular;Pulmonary Atelectasis/base/bilateral;Cardiac Shadow/enlarged/mild;Cardiomegaly/mild

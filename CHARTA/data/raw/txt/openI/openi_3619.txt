@@ -1,0 +1,16 @@
+UID: 3762
+
+INDICATION:
+XXXX-year-old XXXX, preoperative evaluation for CABG, history of coronary artery disease and dyspnea.
+
+FINDINGS:
+Heart size, mediastinal contour, and pulmonary vascularity are within normal limits. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Calcified left coronary arteries noted. Visualized osseous structures appear intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. Calcified left coronary arteries noted. .
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/coronary vessels/left

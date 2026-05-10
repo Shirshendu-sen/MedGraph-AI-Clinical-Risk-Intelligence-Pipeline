@@ -1,0 +1,16 @@
+UID: 2319
+
+INDICATION:
+786.59,786.09, 34yof with chest pressure,sob with XXXX activity
+
+FINDINGS:
+None
+
+IMPRESSION:
+No comparison chest x-XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

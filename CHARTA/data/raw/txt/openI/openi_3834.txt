@@ -1,0 +1,16 @@
+UID: 3982
+
+INDICATION:
+XXXX-year-old male with epigastric pain.
+
+FINDINGS:
+Normal heart size. No focal airspace consolidation, pneumothorax, pleural effusion, or pulmonary edema. No focal bony abnormality.
+
+IMPRESSION:
+No acute cardiothoracic abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

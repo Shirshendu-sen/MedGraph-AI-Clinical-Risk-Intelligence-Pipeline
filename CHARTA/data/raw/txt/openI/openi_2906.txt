@@ -1,0 +1,16 @@
+UID: 3029
+
+INDICATION:
+XXXX yr old female with dyspnea.
+
+FINDINGS:
+Normal cardiac contour. Clear lung XXXX bilaterally. No pleural effusion or pneumothorax. Degenerative seen throughout cervical spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Cervical Vertebrae
+
+MESH:
+Cervical Vertebrae/degenerative

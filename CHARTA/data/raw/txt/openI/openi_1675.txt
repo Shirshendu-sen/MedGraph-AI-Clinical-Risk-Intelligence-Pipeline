@@ -1,0 +1,16 @@
+UID: 1731
+
+INDICATION:
+XXXX-year-old female with XXXX and weakness..
+
+FINDINGS:
+Low lung volumes bilaterally. The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality..
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/bilateral/hypoinflation

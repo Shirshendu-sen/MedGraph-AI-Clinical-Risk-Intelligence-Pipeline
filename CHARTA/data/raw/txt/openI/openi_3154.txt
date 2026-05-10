@@ -1,0 +1,16 @@
+UID: 3282
+
+INDICATION:
+XXXX-year-old male with shortness of breath..
+
+FINDINGS:
+Low lung volumes bilaterally, with lungs otherwise grossly clear. No focal consolidation, pneumothorax, or large pleural effusion. The cardiomediastinal silhouette is unremarkable. No acute osseous abnormalities identified.
+
+IMPRESSION:
+Low lung volumes without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/bilateral/hypoinflation

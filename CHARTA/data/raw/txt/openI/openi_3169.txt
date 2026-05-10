@@ -1,0 +1,16 @@
+UID: 3299
+
+INDICATION:
+Dyspnea.
+
+FINDINGS:
+The cardiac silhouette and mediastinal contours are within normal limits. There are low lung volumes with bronchovascular crowding. Otherwise the lungs are clear. There is no pneumothorax. No large pleural effusion.
+
+IMPRESSION:
+Low lung volumes with bronchovascular crowding otherwise lungs are clear.
+
+PROBLEMS:
+Lung;Markings
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular

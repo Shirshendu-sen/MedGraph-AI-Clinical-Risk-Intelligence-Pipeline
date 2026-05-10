@@ -1,0 +1,16 @@
+UID: 3935
+
+INDICATION:
+Hemorrhage, post-op change.
+
+FINDINGS:
+Left PICC line remains in XXXX. The tip projects over the upper SVC. It has moved outward since the previous study. The heart size and pulmonary vascularity appear within normal limits. Previously present left base airspace disease has cleared. There is blunting of the right costophrenic XXXX which may represent small amount of pleural effusion or pleural reaction. Some scattered bandlike opacities are present which appear to represent scars. Degenerative changes are present in the right shoulder.
+
+IMPRESSION:
+1. Blunting of the right costophrenic XXXX. This may represent pleural effusion or pleural reaction. 2. Clearing of left base airspace disease. 3. Outward XXXX of PICC line. Tip now projects over upper SVC.
+
+PROBLEMS:
+Catheters, Indwelling;Costophrenic Angle;Opacity;Cicatrix;Shoulder
+
+MESH:
+Catheters, Indwelling/left;Costophrenic Angle/right/blunted;Opacity/scattered/multiple;Cicatrix/scattered/multiple;Shoulder/right/degenerative

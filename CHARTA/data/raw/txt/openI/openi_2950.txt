@@ -1,0 +1,16 @@
+UID: 3075
+
+INDICATION:
+XXXX-year-old woman with abdominal pain
+
+FINDINGS:
+The heart is mildly enlarged. Lung volumes are low. There is no focal consolidation, pneumothorax, or large pleural effusion. Bony structures are within normal limits. There is no free air under the diaphragm. There is a mild amount of XXXX seen in the transverse colon.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Cardiomegaly;Lung
+
+MESH:
+Cardiomegaly/mild;Lung/hypoinflation

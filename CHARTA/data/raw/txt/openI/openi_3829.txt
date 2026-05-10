@@ -1,0 +1,16 @@
+UID: 3977
+
+INDICATION:
+XXXX-year-old male, hypertension, chest pain
+
+FINDINGS:
+Normal heart size. Stable unfolding the thoracic aorta. No focal air space consolidation. No pleural effusion or pneumothorax. Stable calcified granuloma in the left lower lobe. Visualized osseous structures are unremarkable appearance.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Aorta, Thoracic;Calcified Granuloma
+
+MESH:
+Aorta, Thoracic/tortuous;Calcified Granuloma/lung/lower lobe/left

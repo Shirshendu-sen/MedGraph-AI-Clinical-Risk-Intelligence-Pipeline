@@ -1,0 +1,16 @@
+UID: 170
+
+INDICATION:
+XXXX. Status post right total knee arthroplasty
+
+FINDINGS:
+None
+
+IMPRESSION:
+Exam is technically limited by patient's body habitus. Lung volumes are decreased. No evidence of acute airspace disease, large pleural effusion or pneumothorax. Heart size is stable.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Lung
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Lung/hypoinflation

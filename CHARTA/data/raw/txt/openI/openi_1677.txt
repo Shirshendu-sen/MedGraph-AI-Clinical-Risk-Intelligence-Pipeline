@@ -1,0 +1,16 @@
+UID: 1733
+
+INDICATION:
+HYPERTENSION;
+
+FINDINGS:
+None
+
+IMPRESSION:
+Pulmonary detail obscured secondary to body habitus and superimposed soft tissue. Again seen is a left basilar opacity compatible with some effusion and adjacent left basilar atelectasis. Overall, size of effusion appears slightly smaller. Right lung stable and grossly clear. No XXXX acute abnormalities since the previous chest radiograph.
+
+PROBLEMS:
+Lung;Opacity;Pleural Effusion;Pulmonary Atelectasis;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Lung/obscured;Opacity/lung/base/left;Pleural Effusion/left;Pulmonary Atelectasis/base/left;Technical Quality of Image Unsatisfactory

@@ -1,0 +1,16 @@
+UID: 692
+
+INDICATION:
+Pre op Sarcoma
+
+FINDINGS:
+The lungs are clear. There are calcified granulomas. Heart size is normal. No pneumothorax. There are endplate changes in the spine.
+
+IMPRESSION:
+Clear lungs. No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Calcified Granuloma;Spine
+
+MESH:
+Calcified Granuloma;Spine/degenerative

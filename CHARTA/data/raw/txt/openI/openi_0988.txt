@@ -1,0 +1,16 @@
+UID: 1021
+
+INDICATION:
+Right pneumothorax.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Recurrent right pneumothorax, complete collapse of the right lung, near 100%. Right-to-left mediastinal shift is present, suggesting XXXX physiology.
+
+PROBLEMS:
+Pneumothorax;Pulmonary Atelectasis;Shift
+
+MESH:
+Pneumothorax/right;Pulmonary Atelectasis/right;Shift/mediastinum

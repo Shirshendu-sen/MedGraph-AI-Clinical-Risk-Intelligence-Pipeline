@@ -1,0 +1,16 @@
+UID: 409
+
+INDICATION:
+The patient is a XXXX-year-old female with XXXX.
+
+FINDINGS:
+Redemonstration of interstitial opacities, consistent with patient's history of pulmonary fibrosis. Unchanged calcified granulomas at the left greater than right hilum, and in the pretracheal region. No pneumothorax, pleural effusion or focal airspace consolidation. Cardiomediastinal size is the upper limits of normal. Pulmonary vasculature is normal . XXXX XXXX intact.
+
+IMPRESSION:
+Interstitial markings bilaterally, pulmonary fibrosis, unchanged. .
+
+PROBLEMS:
+Opacity;Pulmonary Fibrosis;Calcified Granuloma;Calcified Granuloma;Markings
+
+MESH:
+Opacity/lung/interstitial;Pulmonary Fibrosis;Calcified Granuloma/lung/hilum/bilateral;Calcified Granuloma/paratracheal;Markings/lung/bilateral/interstitial

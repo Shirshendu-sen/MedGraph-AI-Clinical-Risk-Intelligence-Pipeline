@@ -1,0 +1,16 @@
+UID: 2859
+
+INDICATION:
+Pain and difficulty breathing.
+
+FINDINGS:
+There is a rounded dense opacity in the lateral left midlung zone probably the left upper lobe most suggestive of a rounded pneumonia. There is no pleural effusion. The heart and mediastinum are normal. The skeletal structures are normal.
+
+IMPRESSION:
+Opacity XXXX representing left upper lobe pneumonia. Recommend followup radiographically until cleared to ensure that there is no underlying mass.
+
+PROBLEMS:
+Opacity;Density;Pneumonia
+
+MESH:
+Opacity/lung/upper lobe/left/round;Density/lung/upper lobe/left/round;Pneumonia/upper lobe/left/round

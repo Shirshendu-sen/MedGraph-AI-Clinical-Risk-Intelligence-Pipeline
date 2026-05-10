@@ -1,0 +1,16 @@
+UID: 1413
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Heart size is within normal limits for AP technique. Low lung volumes with bronchovascular crowding. No focal infiltrate. No visible pneumothorax. No pleural effusion.
+
+IMPRESSION:
+Low lung volumes with grossly clear lungs.
+
+PROBLEMS:
+Lung;Markings
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular

@@ -1,0 +1,16 @@
+UID: 2962
+
+INDICATION:
+XXXX-year-old female with asthma flare.
+
+FINDINGS:
+Stable mild thoracic levoscoliosis. Stable cardiomegaly. Multiple scattered round calcific densities XXXX represent old granulomatous disease. No pneumothorax or pleural effusion. No focal consolidation. Moderate degenerative changes of the thoracic spine.
+
+IMPRESSION:
+Stable cardiomegaly with no focal airspace disease.
+
+PROBLEMS:
+Scoliosis;Cardiomegaly;Calcinosis;Density;Granulomatous Disease;Thoracic Vertebrae
+
+MESH:
+Scoliosis/thoracic vertebrae/left/mild;Cardiomegaly;Calcinosis/thorax/scattered/round/multiple;Density/thorax/scattered/round/multiple;Granulomatous Disease;Thoracic Vertebrae/degenerative/moderate

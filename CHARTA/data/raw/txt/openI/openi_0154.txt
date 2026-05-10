@@ -1,0 +1,16 @@
+UID: 159
+
+INDICATION:
+productive XXXX; shoulder pain.
+
+FINDINGS:
+Chest. The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. Heart and mediastinum normal. Left and right XXXX. Osteophytes are present at the acromioclavicular joints bilaterally and also on the humeral necks. The right glenohumeral joint is normal, but the left is narrowed. No fractures or bone destruction.
+
+IMPRESSION:
+1. Chest. No active disease. 2. Left and right XXXX. Bilateral degenerative joint disease, left worse than right.
+
+PROBLEMS:
+Osteophyte
+
+MESH:
+Osteophyte/shoulder/bilateral/multiple

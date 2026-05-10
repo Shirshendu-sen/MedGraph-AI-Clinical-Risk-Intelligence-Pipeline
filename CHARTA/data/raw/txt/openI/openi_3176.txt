@@ -1,0 +1,16 @@
+UID: 3306
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+The heart is borderline size. Aorta is atherosclerotic. The mediastinum is stable. The lungs are clear.
+
+IMPRESSION:
+Mild stable cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly;Atherosclerosis
+
+MESH:
+Cardiomegaly/mild;Atherosclerosis/aorta

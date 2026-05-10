@@ -1,0 +1,16 @@
+UID: 2976
+
+INDICATION:
+XXXX, XXXX XXXX
+
+FINDINGS:
+Heart size and vascularity normal. Lungs are hyperexpanded but clear. Mediastinal contour normal. No pleural effusions or pneumothoraces.
+
+IMPRESSION:
+Hyperexpanded lungs, suggesting chronic obstructive pulmonary disease. No acute pulmonary process.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention

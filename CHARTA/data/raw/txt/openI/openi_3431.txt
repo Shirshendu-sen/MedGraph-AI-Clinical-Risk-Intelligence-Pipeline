@@ -1,0 +1,16 @@
+UID: 3571
+
+INDICATION:
+CHF
+
+FINDINGS:
+Heart size and pulmonary vascularity normal. The stomach contour normal. There is right hemidiaphragm elevation. Lungs are clear. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+Right hemidiaphragm elevation. No acute cardiopulmonary process.
+
+PROBLEMS:
+Diaphragm;Thoracic Vertebrae
+
+MESH:
+Diaphragm/right/elevated;Thoracic Vertebrae/degenerative

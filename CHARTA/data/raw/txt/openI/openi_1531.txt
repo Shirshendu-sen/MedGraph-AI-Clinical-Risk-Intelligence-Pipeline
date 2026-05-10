@@ -1,0 +1,16 @@
+UID: 1583
+
+INDICATION:
+XXXX-year-old female, chest pain
+
+FINDINGS:
+Heart size within normal limits. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. Mild spine curvature noted.
+
+IMPRESSION:
+No acute cardiopulmonary findings
+
+PROBLEMS:
+Scoliosis
+
+MESH:
+Scoliosis/mild

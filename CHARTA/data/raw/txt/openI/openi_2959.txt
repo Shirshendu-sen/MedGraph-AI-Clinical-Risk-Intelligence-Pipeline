@@ -1,0 +1,16 @@
+UID: 3084
+
+INDICATION:
+XXXX-year-old female with XXXX
+
+FINDINGS:
+Heart size is normal. No pleural effusions. No pneumothorax. No focal air space opacities. Mild degenerative osteophytes are noted in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Osteophyte
+
+MESH:
+Osteophyte/thoracic vertebrae/degenerative/multiple/mild

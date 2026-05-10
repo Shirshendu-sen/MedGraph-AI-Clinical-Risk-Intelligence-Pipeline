@@ -1,0 +1,16 @@
+UID: 3418
+
+INDICATION:
+XXXX year old female, chest pain.
+
+FINDINGS:
+Prominent interstitial markings. There are no focal areas of consolidation. No suspicious pulmonary opacities. Heart size within normal limits. No pleural effusions. No evidence of pneumothorax.
+
+IMPRESSION:
+Prominent interstitial markings, XXXX represent XXXX bronchiolitis. No focal areas of consolidation. .
+
+PROBLEMS:
+Markings;Bronchiolitis
+
+MESH:
+Markings/lung/interstitial/prominent;Bronchiolitis

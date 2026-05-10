@@ -1,0 +1,16 @@
+UID: 1290
+
+INDICATION:
+None
+
+FINDINGS:
+There is a 22 x 14 mm calcified nodule in the left lower lobe. A moderate hiatal hernia is present. Cardiomediastinal silhouette is normal. Pulmonary vasculature and XXXX are normal. No consolidation, pneumothorax or large pleural effusion. Osseous structures and soft tissues are normal.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease. 2. Calcified left paraesophageal versus intrapulmonary lymph node. 3. Moderate hiatus hernia.
+
+PROBLEMS:
+Calcified Granuloma;Calcinosis;Nodule;Hernia, Hiatal;Calcinosis
+
+MESH:
+Calcified Granuloma/lung/lower lobe/left;Calcinosis/lung/lower lobe/left;Nodule/lung/lower lobe/left;Hernia, Hiatal/moderate;Calcinosis/mediastinum/lymph nodes/left

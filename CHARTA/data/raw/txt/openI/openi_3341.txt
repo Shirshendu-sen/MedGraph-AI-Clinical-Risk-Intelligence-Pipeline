@@ -1,0 +1,16 @@
+UID: 3478
+
+INDICATION:
+AML/bone marrow transplant workup
+
+FINDINGS:
+Lungs are clear. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. scoliosis.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+Scoliosis
+
+MESH:
+Scoliosis

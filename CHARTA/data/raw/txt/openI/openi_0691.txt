@@ -1,0 +1,16 @@
+UID: 711
+
+INDICATION:
+Dyspnea.
+
+FINDINGS:
+Calcified granulomas are noted within the lung bases and stable compared with prior study. The cardiac silhouette and mediastinal contours are within normal limits. There is no pneumothorax. There is no focal opacity. No large pleural effusion. XXXX is minimal retrolisthesis of two lower thoracic vertebral bodies.
+
+IMPRESSION:
+No acute cardiopulmonary disease. Retrolisthesis of two lower thoracic vertebral bodies.
+
+PROBLEMS:
+Calcified Granuloma;Dislocations
+
+MESH:
+Calcified Granuloma/lung/base/bilateral;Dislocations/thoracic vertebrae

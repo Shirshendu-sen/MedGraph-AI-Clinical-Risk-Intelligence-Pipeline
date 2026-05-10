@@ -1,0 +1,16 @@
+UID: 1881
+
+INDICATION:
+XXXX-year-old female. Chest pain.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Aortic atherosclerosis. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.
+
+IMPRESSION:
+Negative. No significant change from XXXX.
+
+PROBLEMS:
+Atherosclerosis
+
+MESH:
+Atherosclerosis/aorta

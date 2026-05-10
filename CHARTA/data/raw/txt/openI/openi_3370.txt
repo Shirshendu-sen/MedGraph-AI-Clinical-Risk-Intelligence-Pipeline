@@ -1,0 +1,16 @@
+UID: 3508
+
+INDICATION:
+METASTATIC TESTICULAR CANCER
+
+FINDINGS:
+The heart is normal in size. The cardiomediastinal contours are stable. There are stable bilateral pleural effusions with partial right-sided loculation. Biapical scarring and pleural thickening appears stable. There is again right-sided superior hilar retraction and mild rightward XXXX deviation. No acute infiltrate is appreciated.
+
+IMPRESSION:
+1. Stable bilateral pleural effusions and pleural thickening, right worse than left, with mild right-sided loculation. 2. Stable appearance of right apical thickening/atelectasis with volume loss, possibly related to prior radiation or surgery. Suggest clinical correlation.
+
+PROBLEMS:
+Pleural Effusion;Pleural Effusion;Cicatrix;Thickening;Deformity;Shift;Thickening;Pulmonary Atelectasis;Volume Loss
+
+MESH:
+Pleural Effusion/left;Pleural Effusion/right/focal/multiple;Cicatrix/lung/apex/bilateral;Thickening/pleura/bilateral;Deformity/lung/hilum/right;Shift/mediastinum/right;Thickening/pleura/apex/right;Pulmonary Atelectasis/apex/right;Volume Loss/lung/right

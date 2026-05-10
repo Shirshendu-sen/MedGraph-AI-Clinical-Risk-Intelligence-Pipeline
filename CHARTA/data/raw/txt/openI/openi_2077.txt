@@ -1,0 +1,16 @@
+UID: 2155
+
+INDICATION:
+XXXX-year-old female with chest pain
+
+FINDINGS:
+Low lung volumes noted. The heart size is within normal limits. Pulmonary vasculature is unremarkable. No focal consolidations, effusions, or pneumothoraces.
+
+IMPRESSION:
+Low lung volumes without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

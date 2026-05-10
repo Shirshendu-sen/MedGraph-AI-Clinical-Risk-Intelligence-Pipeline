@@ -1,0 +1,16 @@
+UID: 567
+
+INDICATION:
+Abdominal pain and wheezing
+
+FINDINGS:
+Heart size upper normal but stable. Mediastinal contours within normal limits.. Minimal right middle lobe atelectasis. No focal airspace consolidation, pleural effusion, or pneumothorax. Degenerative endplate changes of the spine.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Pulmonary Atelectasis;Spine
+
+MESH:
+Pulmonary Atelectasis/middle lobe/right/mild;Spine/degenerative

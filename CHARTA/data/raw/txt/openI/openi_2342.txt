@@ -1,0 +1,16 @@
+UID: 2426
+
+INDICATION:
+XXXX-year-old female with congestion.
+
+FINDINGS:
+The heart is normal in size with normal appearance of the cardiomediastinal silhouette. The lungs are clear without focal airspace opacity, pleural effusion, or pneumothorax. The osseous structures are intact, with mild degenerative changes in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

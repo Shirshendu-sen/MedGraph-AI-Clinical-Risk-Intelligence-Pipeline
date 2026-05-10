@@ -1,0 +1,16 @@
+UID: 630
+
+INDICATION:
+KIDNEY TRANSPLANT XXXX
+
+FINDINGS:
+The lungs appear clear. The heart and pulmonary XXXX are normal. Pleural spaces are clear. Mediastinal contours are normal. Patient status post XXXX sternotomy and CABG.
+
+IMPRESSION:
+No acute cardiopulmonary disease
+
+PROBLEMS:
+normal
+
+MESH:
+normal

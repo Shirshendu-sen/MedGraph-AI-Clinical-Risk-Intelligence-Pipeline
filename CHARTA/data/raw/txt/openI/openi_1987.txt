@@ -1,0 +1,16 @@
+UID: 2060
+
+INDICATION:
+XXXX-year-old female, chest pain.
+
+FINDINGS:
+There is prominence of the left hilum which may represent adenopathy or engorged vasculature. Cardiac silhouette is within normal limits of size and contour. No pneumothorax or large pleural effusion. No acute bone abnormality.
+
+IMPRESSION:
+Prominence of the left hilum may be secondary to adenopathy or enlarged pulmonary vasculature. Chest CT with contrast may be helpful for further clarification.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hilum/left/prominent

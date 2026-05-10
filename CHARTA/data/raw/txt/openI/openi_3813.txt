@@ -1,0 +1,16 @@
+UID: 3961
+
+INDICATION:
+XXXX-year-old male, XXXX.
+
+FINDINGS:
+The heart size is normal. The mediastinal contour is within normal limits. There is a streaky opacity within the right upper lobe. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm.
+
+IMPRESSION:
+Right upper lobe infiltrate consistent with pneumonia.
+
+PROBLEMS:
+Opacity;Infiltrate;Pneumonia
+
+MESH:
+Opacity/lung/upper lobe/right/streaky;Infiltrate/lung/upper lobe/right;Pneumonia/upper lobe/right

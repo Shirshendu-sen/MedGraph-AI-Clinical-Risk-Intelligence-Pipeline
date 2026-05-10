@@ -1,0 +1,16 @@
+UID: 2905
+
+INDICATION:
+History of lung cancer XXXX shortness of breath and decreased breath sounds
+
+FINDINGS:
+None
+
+IMPRESSION:
+Right lung clear. Catheter tip in upper SVC. Heart size appears normal. Patient is a large left effusion extending up to the level of the aortic XXXX. The ordering physician was notified of this finding at the time of the exam and she is trying to arrange admission to XXXX for dyspnea evaluation.
+
+PROBLEMS:
+Catheters, Indwelling;Pleural Effusion
+
+MESH:
+Catheters, Indwelling;Pleural Effusion/left/large

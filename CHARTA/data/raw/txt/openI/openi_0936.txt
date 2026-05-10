@@ -1,0 +1,16 @@
+UID: 969
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Heart size upper limits of normal but stable. Tortuous aorta. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. Osseous structures are within normal limits for patient age..
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Aorta
+
+MESH:
+Aorta/tortuous

@@ -1,0 +1,16 @@
+UID: 2154
+
+INDICATION:
+HYPERTENSION; Pre op for colon surgery,
+
+FINDINGS:
+None
+
+IMPRESSION:
+Well-expanded and clear lungs. Apical oligemia suggestive of some emphysema. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Hypovolemia
+
+MESH:
+Hypovolemia/lung/apex

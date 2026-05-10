@@ -1,0 +1,16 @@
+UID: 379
+
+INDICATION:
+XXXX year old dialysis catheter placement.
+
+FINDINGS:
+There has been interval placement of a dual-lumen dialysis catheter with the distal tip projected over the right atrium. Moderate cardiomegaly is identified. There is mild calcification of the transverse XXXX. XXXX airspace opacities are identified with bilateral pleural effusions.
+
+IMPRESSION:
+1. Interval placement of a dual-lumen dialysis catheter with the distal tip projected over the right atrium. 2. Bibasilar airspace opacities and bilateral pleural effusions.
+
+PROBLEMS:
+Catheters, Indwelling;Cardiomegaly;Opacity;Pleural Effusion;Calcinosis
+
+MESH:
+Catheters, Indwelling/right;Cardiomegaly/moderate;Opacity/lung/base/bilateral;Pleural Effusion/bilateral;Calcinosis/mild

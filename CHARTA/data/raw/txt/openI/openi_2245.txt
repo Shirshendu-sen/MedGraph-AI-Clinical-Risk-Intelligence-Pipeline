@@ -1,0 +1,16 @@
+UID: 2327
+
+INDICATION:
+Decreased oxygen saturation.
+
+FINDINGS:
+There has been interval development of a large right-sided pleural effusion. The left lung is clear. There is no pneumothorax. Heart size mediastinal contours are within normal limits. XXXX deformity is noted at the upper thoracic vertebral body.
+
+IMPRESSION:
+Interval development of large right-sided pleural effusion. XXXX deformity noted at the upper thoracic vertebral body XXXX relates to XXXX deformity described on previous CT scan.
+
+PROBLEMS:
+Pleural Effusion;Deformity
+
+MESH:
+Pleural Effusion/right/large;Deformity/thoracic vertebrae

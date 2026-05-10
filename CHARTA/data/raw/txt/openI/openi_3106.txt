@@ -1,0 +1,16 @@
+UID: 3233
+
+INDICATION:
+XXXX, shortness of breath.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are mildly hyperinflated with flattening of the hemidiaphragms. Coarsened interstitial testes appear chronic and compatible with emphysema. There is minimal XXXX scarring or atelectasis in the left lung base. The lungs are otherwise clear of focal infiltrate, pneumothorax, or pleural effusion. There are no acute bony findings.
+
+IMPRESSION:
+Chronic changes of emphysema. No acute findings. .
+
+PROBLEMS:
+Lung;Diaphragm;Emphysema;Cicatrix;Pulmonary Atelectasis
+
+MESH:
+Lung/hyperdistention/mild;Diaphragm/bilateral/flattened;Emphysema;Cicatrix/lung/base/left/mild;Pulmonary Atelectasis/base/left/mild

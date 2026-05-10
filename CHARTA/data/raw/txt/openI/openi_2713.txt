@@ -1,0 +1,16 @@
+UID: 2817
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Evaluation is limited due to obscuration by the patient's arm on the lateral view. Cardiomediastinal silhouette is within normal limits of size and appearance. Pulmonary vascular is unremarkable. XXXX are chronic, coarse interstitial lung markings. Peripheral opacity along the right mid lung XXXX reflects scar or a small amount of loculated pleural fluid or thickening. Otherwise negative for focal airspace disease or consolidation. Hyperlucent lungs with apical XXXX. Negative for pneumothorax or pleural effusion. Limited evaluation reveals the XXXX XXXX to be grossly intact.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Emphysema.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Markings;Opacity;Cicatrix;Pleural Effusion;Thickening;Lung, Hyperlucent;Emphysema
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Markings/lung/interstitial/chronic;Opacity/lung/middle lobe/right;Cicatrix/lung/middle lobe/right;Pleural Effusion/middle lobe/right/small;Thickening/pleura/middle lobe/right/small;Lung, Hyperlucent;Emphysema

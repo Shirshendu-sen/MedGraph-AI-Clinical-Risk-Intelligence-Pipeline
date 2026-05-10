@@ -1,0 +1,16 @@
+UID: 2543
+
+INDICATION:
+History of XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Cardiomegaly with midlung and lower lobe edema. Shunt catheter overlies the right anterior chest.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Edema;Pulmonary Edema;Catheters, Indwelling
+
+MESH:
+Cardiomegaly;Pulmonary Edema/lower lobe/bilateral;Pulmonary Edema/middle lobe/bilateral;Catheters, Indwelling/thorax/right/anterior

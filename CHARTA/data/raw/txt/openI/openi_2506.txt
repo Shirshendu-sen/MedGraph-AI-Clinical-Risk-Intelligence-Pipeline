@@ -1,0 +1,16 @@
+UID: 2597
+
+INDICATION:
+Sarcoidosis, XXXX CXR
+
+FINDINGS:
+The mediastinal and hilar lymph XXXX are less prominent than previously. Heart size remains normal. Lungs are clear.
+
+IMPRESSION:
+Decreasing bilateral hilar adenopathy. Continued clear lungs.
+
+PROBLEMS:
+Lung;Mediastinum
+
+MESH:
+Lung/hilum/lymph nodes/bilateral/enlarged;Mediastinum/lymph nodes/bilateral/enlarged

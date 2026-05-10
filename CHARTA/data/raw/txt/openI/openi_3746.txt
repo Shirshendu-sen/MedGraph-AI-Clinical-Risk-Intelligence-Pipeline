@@ -1,0 +1,16 @@
+UID: 3893
+
+INDICATION:
+XXXX-year-old male with dyspnea.
+
+FINDINGS:
+There are mildly diminished lung volumes. Cardiac silhouette is normal in size. Normal mediastinal contour and pulmonary vasculature. The lungs are without focal airspace consolidation, large pleural effusion, or pneumothoraces.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation/mild

@@ -1,0 +1,16 @@
+UID: 2393
+
+INDICATION:
+Asthma
+
+FINDINGS:
+Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. Lungs are hyperexpanded but clear. Biapical scarring noted. No pleural effusions or pneumothoraces.
+
+IMPRESSION:
+Hyperexpanded lungs without focal air space disease.
+
+PROBLEMS:
+Lung;Cicatrix
+
+MESH:
+Lung/hyperdistention;Cicatrix/lung/apex/bilateral

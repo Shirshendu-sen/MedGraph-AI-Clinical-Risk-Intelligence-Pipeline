@@ -1,0 +1,16 @@
+UID: 1252
+
+INDICATION:
+hypertension cigarette smoking history of XXXX disease.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is upper limits normal and lungs are clear. No pneumonia, edema, or effusions.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

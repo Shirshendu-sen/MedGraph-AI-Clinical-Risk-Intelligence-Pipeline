@@ -1,0 +1,16 @@
+UID: 1242
+
+INDICATION:
+Shortness of breath, XXXX, sarcoidosis
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable with tortuous aorta. There are chronic changes particularly noted in the lung apices. The XXXX are mildly prominent but stable. No acute infiltrate is seen. There is no pleural effusion.
+
+IMPRESSION:
+Chronic parenchymal changes XXXX reflecting sequela of patient's known sarcoidosis. No acute disease.
+
+PROBLEMS:
+Aorta;Sarcoidosis;Cicatrix
+
+MESH:
+Aorta/tortuous;Sarcoidosis;Cicatrix/lung/apex/bilateral

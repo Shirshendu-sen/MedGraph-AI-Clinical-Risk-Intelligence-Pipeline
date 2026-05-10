@@ -1,0 +1,16 @@
+UID: 836
+
+INDICATION:
+Pain status post XXXX from XXXX.
+
+FINDINGS:
+The XXXX examination consists of frontal supine and lateral radiographs of the chest. Frontal view is lordotic in projection. The cardiomediastinal contours are within normal limits for supine film. No focal consolidation, pleural effusion, or pneumothorax identified. There is a calcified granuloma at the left lung base. The visualized osseous structures and upper abdomen are unremarkable.
+
+IMPRESSION:
+No evidence of acute thoracic XXXX. XXXX chest radiograph is recommended if XXXX is not XXXX.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/base/left

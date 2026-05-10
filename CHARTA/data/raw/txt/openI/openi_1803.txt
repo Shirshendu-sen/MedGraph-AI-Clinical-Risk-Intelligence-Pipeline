@@ -1,0 +1,16 @@
+UID: 1864
+
+INDICATION:
+XXXX-year-old male, pain
+
+FINDINGS:
+Heart size borderline enlarged. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. Dense nodule in the right lower lobe suggests a previous granulomatous process.
+
+IMPRESSION:
+Borderline heart size, no acute pulmonary findings
+
+PROBLEMS:
+Cardiomegaly;Nodule;Density
+
+MESH:
+Cardiomegaly/borderline;Nodule/lung/lower lobe/right;Density/lung/lower lobe/right

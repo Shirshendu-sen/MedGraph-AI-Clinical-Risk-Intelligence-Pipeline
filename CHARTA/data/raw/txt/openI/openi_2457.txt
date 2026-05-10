@@ -1,0 +1,16 @@
+UID: 2547
+
+INDICATION:
+Right upper quadrant abdominal pain and nonproductive XXXX for one XXXX.
+
+FINDINGS:
+Normal heart size and mediastinal contours. There is interval improvement in the right lower lobe airspace disease. There is XXXX mild air space opacity in that distribution. No XXXX airspace disease. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+Improved right lower lobe consolidation with mild residual or recurrent pneumonia. Recommend radiographic follow up after appropriate therapy to confirm resolution. If there is no improvement consider XXXX for further evaluation. .
+
+PROBLEMS:
+Opacity;Consolidation;Pneumonia;Airspace Disease
+
+MESH:
+Opacity/lung/lower lobe/right/mild;Consolidation/lung/lower lobe/right;Pneumonia/lower lobe/right/mild;Airspace Disease/lung/lower lobe/right

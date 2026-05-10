@@ -1,0 +1,16 @@
+UID: 3246
+
+INDICATION:
+Prostate cancer
+
+FINDINGS:
+The cardiac contours are normal. Prominent pulmonary arteries. The lungs are clear. Thoracic spondylosis.
+
+IMPRESSION:
+No acute process.
+
+PROBLEMS:
+Pulmonary Artery;Spondylosis
+
+MESH:
+Pulmonary Artery/prominent;Spondylosis/thoracic vertebrae

@@ -1,0 +1,16 @@
+UID: 1479
+
+INDICATION:
+XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size, mediastinal silhouette, pulmonary vascularity are within normal limits. No focal consolidation or pleural effusion. No pneumothorax. Mild right apex curvature of the upper thoracic spine is nonspecific and could be related to patient positioning. Nodular opacity projecting over the posterior right 9th rib and XXXX reflects granuloma.
+
+PROBLEMS:
+Granuloma;Opacity
+
+MESH:
+Granuloma/ribs/right/posterior;Opacity/ribs/right/posterior/round

@@ -1,0 +1,16 @@
+UID: 681
+
+INDICATION:
+Pleuritic chest pain
+
+FINDINGS:
+Heart size and pulmonary vascularity appear within normal limits. Right PICC line is in XXXX. The tip has moved into the left innominate vein. There has been interval development of several ill-defined focal opacities in the left and right mid lung zones. No pneumothorax or pleural effusion is seen.
+
+IMPRESSION:
+1. Malpositioned right PICC line tip. Now located in left innominate vein. 2. XXXX ill-defined focal opacities. These may represent small areas of pneumonia.
+
+PROBLEMS:
+Catheters, Indwelling;Opacity
+
+MESH:
+Catheters, Indwelling/right;Opacity/lung/middle lobe/bilateral/focal/multiple

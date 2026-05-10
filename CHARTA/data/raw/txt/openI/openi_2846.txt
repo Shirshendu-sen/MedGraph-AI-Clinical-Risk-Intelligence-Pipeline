@@ -1,0 +1,16 @@
+UID: 2965
+
+INDICATION:
+XXXX-year-old female with positive PPD.
+
+FINDINGS:
+Heart size within normal limits. No focal airspace disease. No pleural effusion. No pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary findings. Specifically, no radiographic evidence of tuberculosis.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

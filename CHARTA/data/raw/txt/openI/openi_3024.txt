@@ -1,0 +1,16 @@
+UID: 3150
+
+INDICATION:
+patient XXXX to XXXX XXXX--XXXX to rle out pneumonia/communicable dz.
+
+FINDINGS:
+The trachea is midline. Cardiomediastinal silhouette is normal. The there are XXXX opacities in the left lower lobe of the lung, which are most XXXX dependent atelectasis. There is no pneumothorax. Visualized bony structures reveal no acute abnormalities.
+
+IMPRESSION:
+Left base focal atelectasis, no infiltrates that would suggest active tuberculosis.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/lower lobe/left;Pulmonary Atelectasis/base/left/focal

@@ -1,0 +1,16 @@
+UID: 1894
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. Subtle increased opacity of right mid hemithorax XXXX related to superimposed soft tissues. The lungs are otherwise clear. There is no pleural effusion or pneumothorax.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/thorax/right

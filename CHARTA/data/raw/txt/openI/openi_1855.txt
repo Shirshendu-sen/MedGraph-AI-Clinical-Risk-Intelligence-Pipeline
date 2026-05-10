@@ -1,0 +1,16 @@
+UID: 1919
+
+INDICATION:
+XXXX-year-old male shortness of breath.
+
+FINDINGS:
+Hyperexpansion of the lungs with hyperlucency and flattening of hemidiaphragms suggestive of chronic emphysematous lung disease. Heart size within normal limits. Bibasilar, right greater than left atelectasis/airspace disease noted. No pneumothorax or large pleural effusion. No acute bony abnormality.
+
+IMPRESSION:
+Chronic emphysematous lung disease with mild bibasilar, right greater than left airspace disease/atelectasis.
+
+PROBLEMS:
+Lung;Lung, Hyperlucent;Diaphragm;Pulmonary Atelectasis;Airspace Disease;Pulmonary Emphysema
+
+MESH:
+Lung/hyperdistention;Lung, Hyperlucent;Diaphragm/bilateral/flattened;Pulmonary Atelectasis/base/bilateral/mild;Airspace Disease/lung/base/bilateral/mild;Pulmonary Emphysema/chronic

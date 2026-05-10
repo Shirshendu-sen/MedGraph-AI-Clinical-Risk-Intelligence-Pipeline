@@ -1,0 +1,16 @@
+UID: 3370
+
+INDICATION:
+XXXX-year-old male with XXXX.
+
+FINDINGS:
+Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Bony thorax and soft tissues unremarkable.
+
+IMPRESSION:
+Negative for acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

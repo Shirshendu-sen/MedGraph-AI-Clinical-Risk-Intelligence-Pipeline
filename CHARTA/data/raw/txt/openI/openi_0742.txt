@@ -1,0 +1,16 @@
+UID: 763
+
+INDICATION:
+XXXX-year-old female, preoperative evaluation for hysterectomy
+
+FINDINGS:
+There are scattered calcified granulomas. No focal airspace consolidation. No pleural effusion or pneumothorax. Heart size and mediastinal contour are within normal limits.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/scattered

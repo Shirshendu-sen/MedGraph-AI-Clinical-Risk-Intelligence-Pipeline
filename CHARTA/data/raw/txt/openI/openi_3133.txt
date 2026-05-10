@@ -1,0 +1,16 @@
+UID: 3260
+
+INDICATION:
+Hypoxia.
+
+FINDINGS:
+1. Cardiomegaly and/or pericardial effusion. 2. Right base opacity XXXX combination of pleural effusion and atelectasis/airspace disease. Cannot exclude elevation right hemidiaphragm. 3. Left lung relatively clear. 4. Limited exam due to underpenetrated technique related to large patient habitus. 5. No evidence of pneumothorax.
+
+IMPRESSION:
+None
+
+PROBLEMS:
+Cardiomegaly;Pericardial Effusion;Opacity;Pleural Effusion;Pulmonary Atelectasis;Airspace Disease;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Cardiomegaly;Pericardial Effusion;Opacity/lung/base/right;Pleural Effusion/base/right;Pulmonary Atelectasis/base/right;Airspace Disease/lung/base/right;Technical Quality of Image Unsatisfactory

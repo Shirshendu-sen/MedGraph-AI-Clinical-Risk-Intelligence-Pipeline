@@ -1,0 +1,16 @@
+UID: 3016
+
+INDICATION:
+XXXX XXXX
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. Prior granulomatous disease. The lungs are clear. Thoracic spondylosis.
+
+IMPRESSION:
+No acute findings.
+
+PROBLEMS:
+Granulomatous Disease;Spondylosis
+
+MESH:
+Granulomatous Disease;Spondylosis/thoracic vertebrae

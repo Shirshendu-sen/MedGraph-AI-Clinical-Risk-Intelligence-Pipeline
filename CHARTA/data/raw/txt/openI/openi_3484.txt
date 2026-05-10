@@ -1,0 +1,16 @@
+UID: 3625
+
+INDICATION:
+INDICATION: EVALUATE FOR METASTATIC DISEASE; Pre op for nephrectomy
+
+FINDINGS:
+The lungs appear clear. There are no suspicious pulmonary nodules or masses. The heart and pulmonary XXXX appear normal. Mediastinal contours appear normal. There's no pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

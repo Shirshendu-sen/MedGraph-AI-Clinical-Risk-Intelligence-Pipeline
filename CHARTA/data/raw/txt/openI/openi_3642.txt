@@ -1,0 +1,16 @@
+UID: 3785
+
+INDICATION:
+XXXX-year-old female with one-XXXX history of XXXX and XXXX
+
+FINDINGS:
+No pneumothorax or large pleural effusion. Mildly prominent perihilar opacities, XXXX due to bronchovascular crowding. Heart size within normal limits. Cardiomediastinal silhouette is XXXX. The bony structures appear intact.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Opacity;Markings
+
+MESH:
+Opacity/lung/hilum/multiple/prominent/mild;Markings/bronchovascular

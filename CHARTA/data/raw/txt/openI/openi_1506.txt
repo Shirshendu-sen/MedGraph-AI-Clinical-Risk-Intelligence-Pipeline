@@ -1,0 +1,16 @@
+UID: 1558
+
+INDICATION:
+Shortness of breath, chest pain
+
+FINDINGS:
+Low lung volumes. Cardiomediastinal silhouette is within normal limits of size and appearance. Pulmonary vascularity is within normal limits. Lungs are clear airspace disease. Negative for pneumothorax or pleural effusion. XXXX XXXX are grossly intact.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

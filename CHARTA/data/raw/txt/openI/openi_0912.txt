@@ -1,0 +1,16 @@
+UID: 945
+
+INDICATION:
+chest pain
+
+FINDINGS:
+In the interval, consolidation has developed in the left upper lobe. Also, anterior segment XXXX opacity is present. Right lung remains clear. Heart size is normal.
+
+IMPRESSION:
+Developing left upper lobe consolidation and focal atelectasis, consistent with pneumonitis.
+
+PROBLEMS:
+Consolidation;Opacity;Pulmonary Atelectasis;Pneumonia
+
+MESH:
+Consolidation/lung/upper lobe/left;Opacity/anterior;Pulmonary Atelectasis/focal;Pneumonia

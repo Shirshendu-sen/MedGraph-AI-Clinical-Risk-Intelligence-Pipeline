@@ -1,0 +1,16 @@
+UID: 2723
+
+INDICATION:
+This is a XXXX-year-old woman with midsternal chest pain.
+
+FINDINGS:
+Negative for cardiac enlargement or vascular congestion. Minimal subsegmental atelectasis at the left base otherwise negative for focal confluent airspace disease. The visualized bony structures are intact. There are minimal degenerative disc changes of the mid/lower thoracic spine. No pneumothorax.
+
+IMPRESSION:
+Negative for acute cardiopulmonary process.
+
+PROBLEMS:
+Pulmonary Atelectasis;Thoracic Vertebrae
+
+MESH:
+Pulmonary Atelectasis/base/left;Thoracic Vertebrae/degenerative/mild

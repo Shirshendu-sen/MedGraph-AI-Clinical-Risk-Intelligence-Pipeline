@@ -1,0 +1,16 @@
+UID: 1736
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The cardiomediastinal contours are stable and normal. Mid sternotomy XXXX again noted. Mildly low lung volumes. No significant pulmonary edema, focal lung consolidation, pleural effusions or pneumothorax seen.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation/mild

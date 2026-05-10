@@ -1,0 +1,16 @@
+UID: 2577
+
+INDICATION:
+XXXX-year-old XXXX with syncope.
+
+FINDINGS:
+Cardiomediastinal silhouette within normal limits. No acute bony abnormality. There are XXXX XXXX opacities, atelectasis versus airspace disease. No large effusion or pneumothorax.
+
+IMPRESSION:
+XXXX XXXX atelectasis/airspace disease.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Airspace Disease
+
+MESH:
+Opacity/lung;Pulmonary Atelectasis;Airspace Disease/lung

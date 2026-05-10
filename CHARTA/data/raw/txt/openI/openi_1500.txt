@@ -1,0 +1,16 @@
+UID: 1552
+
+INDICATION:
+XXXX-year-old male with chest pain
+
+FINDINGS:
+Low lung volumes. Cardiac and mediastinal contours are unremarkable. Pulmonary vascularity is within normal limits. No focal air space opacities, pleural effusion, or pneumothorax. Mild left lingular platelike atelectasis. XXXX are grossly unremarkable.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease. Clear lungs.
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation;Pulmonary Atelectasis/lingula/mild

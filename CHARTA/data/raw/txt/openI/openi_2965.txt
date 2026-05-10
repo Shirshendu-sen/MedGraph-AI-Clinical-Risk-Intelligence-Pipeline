@@ -1,0 +1,16 @@
+UID: 3090
+
+INDICATION:
+XXXX-year-old male status post MVC.
+
+FINDINGS:
+Normal cardiac contour. Right sided pleural effusion. Clear left lung XXXX. No pneumothorax.
+
+IMPRESSION:
+1. Right sided pleural effusion.
+
+PROBLEMS:
+Pleural Effusion
+
+MESH:
+Pleural Effusion/right

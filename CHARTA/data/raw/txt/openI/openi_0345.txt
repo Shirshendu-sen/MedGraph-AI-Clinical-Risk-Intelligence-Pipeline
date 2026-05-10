@@ -1,0 +1,16 @@
+UID: 357
+
+INDICATION:
+XXXX-year-old woman with shortness of breath.
+
+FINDINGS:
+Cardiac size, mediastinal contour, and pulmonary vascularity are within normal limits. The right heart XXXX appears obscured and there are streaky right medial basilar airspace opacities, possibly due to airspace disease or atelectasis. Otherwise, no focal consolidation, pleural effusion, or pneumothorax. The visualized osseous structures appear intact.
+
+IMPRESSION:
+Obscured right heart XXXX with streaky right medial basilar airspace opacities, possibly due to airspace disease versus atelectasis. Otherwise, no acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Heart;Opacity
+
+MESH:
+Heart/right/obscured;Opacity/lung/base/right/streaky

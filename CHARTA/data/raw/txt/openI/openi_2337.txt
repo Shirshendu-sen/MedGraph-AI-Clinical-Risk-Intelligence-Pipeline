@@ -1,0 +1,16 @@
+UID: 2421
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+The heart is enlarged. The left subclavian ICD is again identified. There is again hilar enlargement, XXXX superimposes enlarged pulmonary vasculature. XXXX opacities are unchanged and compatible with subsegmental atelectasis or scarring. There is no large pleural effusion or focal consolidation.
+
+IMPRESSION:
+Stable moderate to marked cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly;Implanted Medical Device;Lung;Opacity;Pulmonary Atelectasis;Cicatrix
+
+MESH:
+Cardiomegaly/severe;Implanted Medical Device/left;Lung/hilum/enlarged;Opacity/lung;Pulmonary Atelectasis;Cicatrix/lung

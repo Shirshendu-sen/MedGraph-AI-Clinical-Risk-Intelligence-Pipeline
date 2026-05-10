@@ -1,0 +1,16 @@
+UID: 1015
+
+INDICATION:
+XXXX-year-old female, COPD exacerbation, short of breath
+
+FINDINGS:
+Streaky and patchy bibasilar opacities, triangular density projected over the heart on the lateral view. No definite pleural effusion seen, no typical findings of pulmonary edema. Considering differences in technical factors XXXX stable cardiomediastinal silhouette with normal heart size.
+
+IMPRESSION:
+Bibasilar opacities, right greater than left, features suggest a combination of consolidation and atelectasis
+
+PROBLEMS:
+Opacity;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Opacity/lung/base/bilateral/patchy/streaky;Technical Quality of Image Unsatisfactory

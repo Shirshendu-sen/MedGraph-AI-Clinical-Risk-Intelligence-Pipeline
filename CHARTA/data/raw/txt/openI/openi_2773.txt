@@ -1,0 +1,16 @@
+UID: 2886
+
+INDICATION:
+XXXX-year-old female, XXXX.
+
+FINDINGS:
+Low lung volumes. Question patchy opacity left base. No pneumothorax. Osseous structures intact. Small right effusion.
+
+IMPRESSION:
+1. Patchy opacity left base, may represent evolving infiltrate. 2. Small right pleural effusion. .
+
+PROBLEMS:
+Lung;Pleural Effusion;Opacity
+
+MESH:
+Lung/hypoinflation;Pleural Effusion/right/small;Opacity/lung/base/left/patchy

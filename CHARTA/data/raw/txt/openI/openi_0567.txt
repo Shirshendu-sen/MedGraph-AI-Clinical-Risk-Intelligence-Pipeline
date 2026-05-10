@@ -1,0 +1,16 @@
+UID: 585
+
+INDICATION:
+,786.50 UNSPEC CHEST PAIN, pt states chronic lung infections, pt taking meds for rheumatoid arthritis, no hx ca, nonsmoker
+
+FINDINGS:
+There are prominent epicardial fat pads, unchanged from prior. The cardiomediastinal silhouette and pulmonary vasculature are within normal limits. There is no pneumothorax or pleural effusion. There are no focal areas of consolidation. There is atherosclerosis of the aortic XXXX. Unchanged streaky opacities in the bilateral costophrenic sulci XXXX represent chronic scarring or atelectasis.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Epicardial Fat;Atherosclerosis;Opacity;Cicatrix;Pulmonary Atelectasis
+
+MESH:
+Epicardial Fat/prominent;Atherosclerosis/aorta;Opacity/costophrenic angle/sulcus/bilateral/streaky;Cicatrix/costophrenic angle/sulcus/bilateral/chronic;Pulmonary Atelectasis/costophrenic angle/bilateral

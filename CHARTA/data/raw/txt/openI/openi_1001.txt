@@ -1,0 +1,16 @@
+UID: 1034
+
+INDICATION:
+10 XXXX hx of XXXX, SOB, wheezing in XXXX XXXX
+
+FINDINGS:
+The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. Right middle lobe calcified granuloma is unchanged. Heart and mediastinum unchanged. No change hiatus hernia.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Calcified Granuloma;Hernia, Hiatal
+
+MESH:
+Calcified Granuloma/lung/middle lobe/right;Hernia, Hiatal

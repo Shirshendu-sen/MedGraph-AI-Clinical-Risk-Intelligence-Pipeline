@@ -1,0 +1,16 @@
+UID: 925
+
+INDICATION:
+XXXX-year-old female with dyspnea.
+
+FINDINGS:
+Increased interstitial lung changes with superimposed pulmonary edema. Cardiomegaly. Negative for effusion or pneumothorax. Degenerative changes of the thoracic spine.
+
+IMPRESSION:
+Cardiomegaly with pulmonary edema superimposed on chronic interstitial lung changes.
+
+PROBLEMS:
+Pulmonary Edema;Cardiomegaly;Thoracic Vertebrae
+
+MESH:
+Pulmonary Edema;Cardiomegaly;Thoracic Vertebrae/degenerative

@@ -1,0 +1,16 @@
+UID: 3536
+
+INDICATION:
+MVC, leukocytosis, productive XXXX.
+
+FINDINGS:
+Heart size is enlarged, pulmonary vascularity within normal limits. No visible pneumothorax . XXXX right pleural effusion blunting posterior costophrenic XXXX. There is a XXXX XXXX of subsegmental atelectasis of the left lung base. There is XXXX alveolar airspace disease in the medial right lung base. Multilevel degenerative disease of the visualized portions of the thoracolumbar spine.
+
+IMPRESSION:
+1. Cardiomegaly without pulmonary edema. 2. XXXX right medial basilar airspace disease. 3. Left lower lobe subsegmental atelectasis.
+
+PROBLEMS:
+Cardiomegaly;Airspace Disease;Pulmonary Atelectasis;Pleural Effusion;Costophrenic Angle;Thoracic Vertebrae;Lumbar Vertebrae
+
+MESH:
+Cardiomegaly;Airspace Disease/lung/base/pulmonary alveoli/right;Pulmonary Atelectasis/base/left;Pleural Effusion/right;Costophrenic Angle/right/posterior/blunted;Thoracic Vertebrae/degenerative/multiple;Lumbar Vertebrae/degenerative/multiple

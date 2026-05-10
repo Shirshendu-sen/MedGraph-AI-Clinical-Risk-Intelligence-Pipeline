@@ -1,0 +1,16 @@
+UID: 3878
+
+INDICATION:
+Esophageal carcinoma, shortness of breath in XXXX
+
+FINDINGS:
+Postop changes of CABG with mild cardiomegaly. There is an infiltrate in the right lower lobe. Thoracic spondylosis.
+
+IMPRESSION:
+Right lower lobe infiltrate. In the appropriate clinical setting this appearance is compatible with pneumonia. Consider followup PA and lateral chest x-XXXX in 4-6 weeks to ensure resolution and exclude an underlying mass.
+
+PROBLEMS:
+Cardiomegaly;Infiltrate;Spondylosis
+
+MESH:
+Cardiomegaly/mild;Infiltrate/lung/lower lobe/right;Spondylosis/thoracic vertebrae

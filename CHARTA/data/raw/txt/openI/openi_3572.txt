@@ -1,0 +1,16 @@
+UID: 3715
+
+INDICATION:
+XXXX-year-old with chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Small focal nodular infiltrate in the lingula. Correlate clinically for XXXX of infection/pneumonia. There is no pleural effusion or pneumothorax. No edema. Normal heart size. Mediastinal and right lung calcifications are compatible with old granulomatous disease. Right upper abdominal clips from prior cholecystectomy.
+
+PROBLEMS:
+Infiltrate;Calcinosis;Calcinosis;Granulomatous Disease;Surgical Instruments
+
+MESH:
+Infiltrate/lung/lingula/focal/round/small;Calcinosis/lung/right;Calcinosis/mediastinum;Granulomatous Disease;Surgical Instruments/abdomen/right

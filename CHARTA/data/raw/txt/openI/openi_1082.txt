@@ -1,0 +1,16 @@
+UID: 1117
+
+INDICATION:
+XXXX, XXXX, XXXX.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. There is ill-defined airspace opacity in the posterior left lower lobe. There is focal opacity in the right upper lobe which suggests scar and/or granulomatous calcification. There is no pneumothorax or pleural effusion.
+
+IMPRESSION:
+1. Patchy left lower lobe airspace disease, concerning for pneumonia. 2. Right upper lobe opacity, favoring scarring and/or granulomas. .
+
+PROBLEMS:
+Opacity;Opacity;Airspace Disease
+
+MESH:
+Opacity/lung/lower lobe/left/posterior;Opacity/lung/upper lobe/right/focal;Airspace Disease/lung/lower lobe/left/patchy

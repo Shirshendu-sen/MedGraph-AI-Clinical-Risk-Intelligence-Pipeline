@@ -1,0 +1,16 @@
+UID: 511
+
+INDICATION:
+COPD.
+
+FINDINGS:
+Hyperaerated lungs with flattened hemidiaphragms. Normal heart size. Increased retrosternal airspace. No focal infiltrate. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+No acute findings.
+
+PROBLEMS:
+Lung;Diaphragm
+
+MESH:
+Lung/hyperdistention;Diaphragm/flattened

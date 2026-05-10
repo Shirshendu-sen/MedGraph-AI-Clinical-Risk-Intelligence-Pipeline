@@ -1,0 +1,16 @@
+UID: 517
+
+INDICATION:
+724.1 lung nodule
+
+FINDINGS:
+None
+
+IMPRESSION:
+Calcified right basilar nodule compatible with granuloma / histoplasmoma. A few calcified right hilar lymph XXXX. Lungs overall well expanded and clear. Unremarkable mediastinal contour. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Granuloma;Calcinosis;Nodule;Calcinosis
+
+MESH:
+Granuloma/lung/base/right;Calcinosis/lung/hilum/lymph nodes/right/multiple;Nodule/lung/base/right;Calcinosis/lung/base/right

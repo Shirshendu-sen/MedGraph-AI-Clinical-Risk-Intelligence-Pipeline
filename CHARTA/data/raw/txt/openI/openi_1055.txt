@@ -1,0 +1,16 @@
+UID: 1090
+
+INDICATION:
+chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and the lungs are clear.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

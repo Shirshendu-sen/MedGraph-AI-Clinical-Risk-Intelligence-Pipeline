@@ -1,0 +1,16 @@
+UID: 2191
+
+INDICATION:
+XXXX-year-old with XXXX, crackles, and coarse breath sounds of the left. Also with fevers.
+
+FINDINGS:
+There is no acute osseous abnormality. Soft tissues are within normal limits. Borderline enlargement of the heart. Normal vascular markings. Left basilar retrocardiac opacity. No pneumothorax.
+
+IMPRESSION:
+Findings consistent with left base airspace disease.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Airspace Disease
+
+MESH:
+Cardiomegaly/borderline;Opacity/lung/base/left/retrocardiac;Airspace Disease/lung/base/left

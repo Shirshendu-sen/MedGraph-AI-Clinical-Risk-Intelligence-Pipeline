@@ -1,0 +1,16 @@
+UID: 3803
+
+INDICATION:
+XXXX-year-old female with COPD.
+
+FINDINGS:
+The heart size and cardiomediastinal silhouette are normal. The aorta is tortuous and atherosclerotic. The lungs are hyperexpanded with flattening of hemidiaphragms and increased retrosternal airspace. There is no focal airspace opacity, pleural effusion, or pneumothorax. There are degenerative changes in the thoracic spine.
+
+IMPRESSION:
+1. No acute cardiopulmonary finding. 2. Emphysema and atherosclerosis.
+
+PROBLEMS:
+Aorta;Atherosclerosis;Lung;Diaphragm;Thoracic Vertebrae;Emphysema
+
+MESH:
+Aorta/tortuous;Atherosclerosis/aorta;Lung/hyperdistention;Diaphragm/bilateral/flattened;Thoracic Vertebrae/degenerative;Emphysema

@@ -1,0 +1,16 @@
+UID: 3616
+
+INDICATION:
+Nonproductive XXXX
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. The aorta is atherosclerotic. There are emphysematous changes with increased interstitial markings, particularly in the periphery and lung bases. The lungs are clear of focal infiltrates. There is no pleural effusion.
+
+IMPRESSION:
+Emphysema with increased lung markings markings, possibly superimposed chronic lung disease/fibrosis.
+
+PROBLEMS:
+Atherosclerosis;Emphysema;Markings
+
+MESH:
+Atherosclerosis/aorta;Emphysema;Markings/lung/interstitial

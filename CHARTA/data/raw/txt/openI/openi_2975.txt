@@ -1,0 +1,16 @@
+UID: 3100
+
+INDICATION:
+XXXX XXXX aam XXXX with h/o XXXX, shoulder pain, XXXX loss
+
+FINDINGS:
+Lungs are hyperexpanded but clear. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the spine.
+
+IMPRESSION:
+Hyperexpanded but clear lungs.
+
+PROBLEMS:
+Lung;Spine
+
+MESH:
+Lung/hyperdistention;Spine/degenerative

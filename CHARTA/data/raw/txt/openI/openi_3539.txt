@@ -1,0 +1,16 @@
+UID: 3680
+
+INDICATION:
+XXXX and XXXX.
+
+FINDINGS:
+The heart is normal in size and contour. There is no mediastinal widening. Streaky bibasilar opacities, XXXX atelectasis. Vague opacity in the right midlung. Scattered calcified granulomas. No large pleural effusion or pneumothorax. The XXXX are intact.
+
+IMPRESSION:
+Vague opacity in the right midlung, this could reflect a small focus of atelectasis or infiltrate. Bibasilar airspace opacities, XXXX atelectasis.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Opacity;Calcified Granuloma
+
+MESH:
+Opacity/lung/base/bilateral/streaky;Pulmonary Atelectasis/base/bilateral;Opacity/lung/middle lobe/right;Calcified Granuloma/scattered/multiple

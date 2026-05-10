@@ -1,0 +1,16 @@
+UID: 3411
+
+INDICATION:
+Hypoxia
+
+FINDINGS:
+There are low lung volumes with bronchovascular crowding. There is patchy left lower lobe airspace disease. There are XXXX opacities in the right mid lung, XXXX subsegmental atelectasis. No significant pleural effusion. No pneumothorax. Heart size is within normal limits. There is aortic atherosclerotic vascular calcification.
+
+IMPRESSION:
+1. Patchy left lower lobe airspace disease, possibly atelectasis or pneumonia. 2. Right mid lung subsegmental atelectasis.
+
+PROBLEMS:
+Lung;Markings;Airspace Disease;Opacity;Pulmonary Atelectasis;Atherosclerosis
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Airspace Disease/lung/lower lobe/left/patchy;Opacity/lung/middle lobe/right;Pulmonary Atelectasis/middle lobe/right;Atherosclerosis/aorta

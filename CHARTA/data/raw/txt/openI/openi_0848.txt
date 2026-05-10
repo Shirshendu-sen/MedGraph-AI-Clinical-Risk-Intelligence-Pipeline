@@ -1,0 +1,16 @@
+UID: 878
+
+INDICATION:
+XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Comparison XXXX, XXXX Hyperexpansion and changes of COPD as before. Calcified right lower lung nodule compatible with histoplasmoma as before. Lungs are overall clear. Mediastinal contour stable. No XXXX acute abnormalities since the previous examination..
+
+PROBLEMS:
+Lung;Pulmonary Disease, Chronic Obstructive;Calcinosis;Nodule
+
+MESH:
+Lung/hyperdistention;Pulmonary Disease, Chronic Obstructive;Calcinosis/lung/lower lobe/right;Nodule/lung/lower lobe/right

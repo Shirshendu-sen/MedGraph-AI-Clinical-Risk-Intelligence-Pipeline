@@ -1,0 +1,16 @@
+UID: 3186
+
+INDICATION:
+XXXX-year-old woman with chest pain.
+
+FINDINGS:
+The lungs are hypoventilated. There is no focal consolidation. Cardiomediastinal silhouette is normal in size and contour. There is no pneumothorax or large pleural effusion.
+
+IMPRESSION:
+Hypoventilated lungs, but no focal consolidation.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

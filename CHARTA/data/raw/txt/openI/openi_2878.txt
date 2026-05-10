@@ -1,0 +1,16 @@
+UID: 3000
+
+INDICATION:
+XXXX-year-old male with history renal XXXX, 593.9. Evaluate for metastatic disease.
+
+FINDINGS:
+There are multiple bilateral pulmonary nodules. For example, there is a 12 mm left lower lobe nodule, XXXX seen on the frontal view. There is no pleural effusion or pneumothorax. Heart size is within normal limits. The left hilar contour is prominent. There are diffuse degenerative changes of the spine.
+
+IMPRESSION:
+1. Multiple bilateral pulmonary nodules, concerning for metastatic disease. 2. Prominent left hilum. After correlation with the XXXX scan performed today, findings XXXX reflect enlargement of the left pulmonary artery.
+
+PROBLEMS:
+Nodule;Nodule;Lung;Spine;Pulmonary Artery
+
+MESH:
+Nodule/lung/bilateral/multiple;Nodule/lung/lower lobe/left;Lung/hilum/left/prominent;Spine/degenerative/diffuse;Pulmonary Artery/left/enlarged

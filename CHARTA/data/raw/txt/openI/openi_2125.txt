@@ -1,0 +1,16 @@
+UID: 2205
+
+INDICATION:
+DYSPNEA; XXXX and chest pressure x 2 days, Hx of lung XXXX in XXXX and XXXX
+
+FINDINGS:
+Heart size is normal. Tortuous aorta. Irregular 1.2 cm opacity in the left upper lung is identified both on PA and lateral views and XXXX represents chronic scarring. She has a partial resection of the posterior fourth rib. No pneumothorax. No pleural effusion. No focal infiltrate. Anterior wedging of multiple vertebral bodies including T6, T8, T11 and T12.
+
+IMPRESSION:
+XXXX scarring or pleural plaque in the left upper lobe with partial resection of the posterior fourth rib. No acute findings.
+
+PROBLEMS:
+Aorta;Opacity;Cicatrix;Deformity;Deformity;Thickening
+
+MESH:
+Aorta/tortuous;Opacity/lung/upper lobe/left/irregular;Cicatrix/lung/upper lobe/left/chronic;Deformity/ribs/posterior;Deformity/thoracic vertebrae/anterior/multiple;Thickening/pleura/upper lobe/left

@@ -1,0 +1,16 @@
+UID: 607
+
+INDICATION:
+XXXX-year-old female, lung nodules.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for size and contour. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. Scattered bilateral calcified pulmonary nodules. No acute bone abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+Calcinosis;Nodule
+
+MESH:
+Calcinosis/lung/bilateral/scattered;Nodule/lung/bilateral/scattered

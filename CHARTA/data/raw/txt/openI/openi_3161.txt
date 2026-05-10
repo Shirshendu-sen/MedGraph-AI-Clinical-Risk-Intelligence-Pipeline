@@ -1,0 +1,16 @@
+UID: 3289
+
+INDICATION:
+Syncope.
+
+FINDINGS:
+Normal cardiac size and contour, unremarkable mediastinal silhouette. Normal pulmonary XXXX. Lungs clear, no airspace disease, pleural effusion, or pneumothorax.
+
+IMPRESSION:
+No active or acute cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

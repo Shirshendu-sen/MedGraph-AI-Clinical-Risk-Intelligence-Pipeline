@@ -1,0 +1,16 @@
+UID: 1398
+
+INDICATION:
+XXXX-year-old woman with chest pain.
+
+FINDINGS:
+The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion. Mild right basilar atelectasis and relative elevation of the right hemidiaphragm noted. Cardiomediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Pulmonary Atelectasis;Diaphragm
+
+MESH:
+Pulmonary Atelectasis/base/right/mild;Diaphragm/right/elevated

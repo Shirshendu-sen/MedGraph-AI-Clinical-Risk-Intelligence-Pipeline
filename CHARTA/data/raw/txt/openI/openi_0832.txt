@@ -1,0 +1,16 @@
+UID: 860
+
+INDICATION:
+History of leukocytosis and XXXX.
+
+FINDINGS:
+Chronic increased interstitial markings without evidence of focal infiltrate. Bilateral apical pleural thickening. No pneumothorax. No pleural effusion. Stable heart size. Marked degenerative change of the XXXX, status post remote right humerus fracture. XXXX deformity of a midthoracic vertebral body, also XXXX chronic.
+
+IMPRESSION:
+Chronic lung disease without acute findings.
+
+PROBLEMS:
+Markings;Thickening;Deformity;Fractures, Bone
+
+MESH:
+Markings/lung/interstitial/chronic;Thickening/pleura/apex/bilateral;Deformity/thoracic vertebrae;Fractures, Bone/humerus/right

@@ -1,0 +1,16 @@
+UID: 3521
+
+INDICATION:
+Syncope.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours are within normal limits. There is right greater than left biapical bullous emphysema. No focal consolidation, pleural effusion, or pneumothorax identified. There are XXXX degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No evidence of acute cardiopulmonary process.
+
+PROBLEMS:
+Bullous Emphysema;Thoracic Vertebrae
+
+MESH:
+Bullous Emphysema/lung/apex/bilateral;Thoracic Vertebrae/degenerative

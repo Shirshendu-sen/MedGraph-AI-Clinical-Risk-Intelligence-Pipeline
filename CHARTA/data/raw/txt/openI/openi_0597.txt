@@ -1,0 +1,16 @@
+UID: 615
+
+INDICATION:
+Long history of smoking, now with history of XXXX loss
+
+FINDINGS:
+There is no focal consolidation, pleural effusions, or pneumothoraces. Scattered calcified nodules compatible with granulomatous disease. Cardiomediastinal silhouette is within normal limits. No masses or suspicious nodules. XXXX are unremarkable.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. No suspicious masses or nodules.
+
+PROBLEMS:
+Calcified Granuloma;Granulomatous Disease
+
+MESH:
+Calcified Granuloma/scattered;Granulomatous Disease

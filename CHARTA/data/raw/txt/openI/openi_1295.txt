@@ -1,0 +1,16 @@
+UID: 1343
+
+INDICATION:
+XXXX year old preop assessment.
+
+FINDINGS:
+There is mild cardiomegaly. The transverse XXXX is calcified. There is a moderate hiatal hernia. The lungs are clear without focal infiltrate. No pleural effusion or pneumothorax. Degenerative changes of the thoracic spine are noted.
+
+IMPRESSION:
+1. Mild cardiomegaly and moderate hiatal hernia.
+
+PROBLEMS:
+Cardiomegaly;Calcinosis;Hernia, Hiatal;Thoracic Vertebrae
+
+MESH:
+Cardiomegaly/mild;Calcinosis;Hernia, Hiatal/moderate;Thoracic Vertebrae/degenerative

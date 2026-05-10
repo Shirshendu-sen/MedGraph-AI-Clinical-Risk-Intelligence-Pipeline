@@ -1,0 +1,16 @@
+UID: 1020
+
+INDICATION:
+chest pain
+
+FINDINGS:
+Lung volumes are low. No focal infiltrates. Heart size normal.
+
+IMPRESSION:
+Hypoinflation with no visible active cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

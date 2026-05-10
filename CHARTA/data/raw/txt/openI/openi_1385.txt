@@ -1,0 +1,16 @@
+UID: 1433
+
+INDICATION:
+Preop knee surgery
+
+FINDINGS:
+The cardiac contours are normal. Mild atherosclerosis. The lungs are clear. Thoracic spondylosis.
+
+IMPRESSION:
+No acute preoperative findings.
+
+PROBLEMS:
+Atherosclerosis;Spondylosis
+
+MESH:
+Atherosclerosis/mild;Spondylosis/thoracic vertebrae

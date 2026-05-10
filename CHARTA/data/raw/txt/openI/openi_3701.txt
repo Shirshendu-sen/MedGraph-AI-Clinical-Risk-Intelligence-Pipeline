@@ -1,0 +1,16 @@
+UID: 3846
+
+INDICATION:
+Pleural effusion
+
+FINDINGS:
+Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. The right lung is clear. There is a recurrence moderate-sized left pleural effusion. No pneumothorax. Limited right base stringy density compatible with atelectasis. Dextroscoliosis of the thoracic spine.
+
+IMPRESSION:
+Recurrent moderate sized left pleural effusion.
+
+PROBLEMS:
+Pleural Effusion;Density;Pulmonary Atelectasis;Scoliosis
+
+MESH:
+Pleural Effusion/left/moderate;Density/lung/base/right/streaky/mild;Pulmonary Atelectasis/base/right;Scoliosis/thoracic vertebrae/right

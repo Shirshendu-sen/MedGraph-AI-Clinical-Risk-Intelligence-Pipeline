@@ -1,0 +1,16 @@
+UID: 2461
+
+INDICATION:
+XXXX XXXX XXXX DISEASE;
+
+FINDINGS:
+None
+
+IMPRESSION:
+No comparison chest x-XXXX. No suspicious appearing lung nodules. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

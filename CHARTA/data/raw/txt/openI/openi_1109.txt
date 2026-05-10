@@ -1,0 +1,16 @@
+UID: 1146
+
+INDICATION:
+XXXX doesn't feel well, under a XXXX of XXXX
+
+FINDINGS:
+Heart size is normal. The lungs are clear. There are no focal air space consolidations. No pleural effusions or pneumothoraces. The hilar and mediastinal contours are normal. Calcified lingular pulmonary granuloma. Normal pulmonary vascularity.
+
+IMPRESSION:
+No acute abnormality.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/lingula

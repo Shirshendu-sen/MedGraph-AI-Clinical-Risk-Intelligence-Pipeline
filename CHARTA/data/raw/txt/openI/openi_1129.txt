@@ -1,0 +1,16 @@
+UID: 1166
+
+INDICATION:
+Right-sided chest pain, muscle spasms
+
+FINDINGS:
+Low lung volumes. Cardiomediastinal silhouette and pulmonary vasculature are within normal limits. Streaky bibasilar airspace opacities. No pneumothorax or pleural effusion. No acute osseous findings.
+
+IMPRESSION:
+Low lung volumes with streaky bibasilar opacities, XXXX subsegmental atelectasis over infiltrate.
+
+PROBLEMS:
+Lung;Opacity;Pulmonary Atelectasis;Infiltrate
+
+MESH:
+Lung/hypoinflation;Opacity/lung/base/bilateral/streaky;Pulmonary Atelectasis;Infiltrate/lung

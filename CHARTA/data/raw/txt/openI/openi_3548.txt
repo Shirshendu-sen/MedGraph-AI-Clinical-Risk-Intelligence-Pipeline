@@ -1,0 +1,16 @@
+UID: 3689
+
+INDICATION:
+XXXX-year-old female, chest pain
+
+FINDINGS:
+Normal heart size and mediastinal contours. Calcified aortic XXXX. Calcified granuloma in the anterior segment of the right lower lobe. No pleural effusion or pneumothorax. Degenerative disc disease the thoracic spine. Coronary artery stent.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcinosis;Calcified Granuloma;Thoracic Vertebrae;Stents
+
+MESH:
+Calcinosis/aorta;Calcified Granuloma/lung/lower lobe/right/anterior;Thoracic Vertebrae/degenerative;Stents/coronary vessels

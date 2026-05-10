@@ -1,0 +1,16 @@
+UID: 3421
+
+INDICATION:
+174.6
+
+FINDINGS:
+PA and lateral views of the chest were obtained. The cardiomediastinal silhouette is normal in size and configuration. Mildly tortuous thoracic aorta. The lungs are well aerated. There is no pneumothorax, pleural effusion, or focal air space consolidation. Mild elevation right hemidiaphragm.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease.
+
+PROBLEMS:
+Aorta, Thoracic;Diaphragm
+
+MESH:
+Aorta, Thoracic/tortuous/mild;Diaphragm/right/elevated/mild

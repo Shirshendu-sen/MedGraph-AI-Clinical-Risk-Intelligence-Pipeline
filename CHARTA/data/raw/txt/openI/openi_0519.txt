@@ -1,0 +1,16 @@
+UID: 535
+
+INDICATION:
+COPD exacerbation,
+
+FINDINGS:
+There is S-shaped thoracolumbar scoliosis. There are T-spine osteophytes. XXXX opacity in the left lower lobe XXXX represents atelectasis or scarring. There is no pneumothorax. There is no large pleural effusion. The cardiomediastinal silhouette is within normal limits. There is no lobar pneumonia. There are calcified hilar lymph XXXX.
+
+IMPRESSION:
+XXXX opacity in left lung base XXXX represents atelectasis or scarring.
+
+PROBLEMS:
+Scoliosis;Scoliosis;Osteophyte;Opacity;Cicatrix;Pulmonary Atelectasis;Calcinosis
+
+MESH:
+Scoliosis/thoracic vertebrae;Scoliosis/lumbar vertebrae;Osteophyte/thoracic vertebrae/multiple;Opacity/lung/base/left;Cicatrix/lung/base/left;Pulmonary Atelectasis/base/left;Calcinosis/lung/hilum/lymph nodes

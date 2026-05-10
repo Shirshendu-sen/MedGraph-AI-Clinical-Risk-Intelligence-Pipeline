@@ -1,0 +1,16 @@
+UID: 57
+
+INDICATION:
+XXXX-year-old female with history of pneumonia, followup study
+
+FINDINGS:
+The tracheostomy tube tip is 5 cm above the carina. There are prominent diffuse bilateral interstitial opacities, stable from prior radiographs. There is no focal airspace consolidation. No pleural effusion. No pneumothorax. Heart size is within normal limits. There are mild degenerative changes of the spine.
+
+IMPRESSION:
+1. No focal airspace consolidation. 2. Prominent bilateral interstitial opacities, stable from prior radiographs.
+
+PROBLEMS:
+Tube, Inserted;Opacity;Spine
+
+MESH:
+Tube, Inserted/trachea, carina;Opacity/lung/bilateral/interstitial/diffuse/prominent;Spine/degenerative/mild

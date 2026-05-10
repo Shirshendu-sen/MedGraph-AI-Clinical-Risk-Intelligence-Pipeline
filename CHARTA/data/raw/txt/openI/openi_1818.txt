@@ -1,0 +1,16 @@
+UID: 1880
+
+INDICATION:
+XXXX-year-old with left arm tingling and heaviness. Possible blood clot in the left leg. And tingling and chest. Asthma. History of XXXX calf.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There is an 8mm nodule identified within the left lateral midlung partially overlying the posterior left 7th rib. There are mild degenerative changes of the spine.
+
+IMPRESSION:
+Left midlung pulmonary nodule. Comparison to a previous XXXX would be most helpful alternatively a noncontrast chest CT could be performed in the nonemergent setting for further characterization. No acute disease.
+
+PROBLEMS:
+Nodule;Spine
+
+MESH:
+Nodule/lung/lingula;Spine/degenerative/mild

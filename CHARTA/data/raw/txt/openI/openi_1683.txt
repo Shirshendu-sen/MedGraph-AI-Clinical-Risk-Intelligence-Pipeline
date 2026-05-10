@@ -1,0 +1,16 @@
+UID: 1739
+
+INDICATION:
+Chest pain after XXXX.
+
+FINDINGS:
+There is a cortical irregularity along the anterior margin of the sternum. In addition, there is a focal retrosternal hypodense convexity. The cardiac silhouette is within normal limits. The thoracic aorta is torturous however the mediastinal contours are within normal limits. There is no pneumothorax. There is no large pleural effusion. There is streaky XXXX opacity within the left lung base XXXX representing atelectasis. Otherwise, the lungs are clear. There is thoracic kyphosis. There is hyperinflation of the lungs.
+
+IMPRESSION:
+Core irregularity along the anterior margin of the sternum may represent an age-indeterminate nondisplaced fracture. In addition, focal lentiform hyperdensity along the XXXX aspect of the sternum may represent callus formation. Left basilar atelectasis otherwise clear lungs.
+
+PROBLEMS:
+Deformity;Aorta, Thoracic;Opacity;Pulmonary Atelectasis;Kyphosis;Lung
+
+MESH:
+Deformity/sternum/anterior;Aorta, Thoracic/tortuous;Opacity/lung/base/left/streaky;Pulmonary Atelectasis/base/left;Kyphosis/thoracic vertebrae;Lung/hyperdistention

@@ -1,0 +1,16 @@
+UID: 3950
+
+INDICATION:
+rib pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Catheter tip mid SVC. Heart size is normal. No acute alveolar or interstitial infiltrates. The 9th posterior lateral right rib is slightly expanded and this may be the site of an old healed fracture. Otherwise no acute rib fractures seen. Bone scan may be informative
+
+PROBLEMS:
+Catheters, Indwelling;Ribs
+
+MESH:
+Catheters, Indwelling;Ribs/right/posterior/enlarged/mild

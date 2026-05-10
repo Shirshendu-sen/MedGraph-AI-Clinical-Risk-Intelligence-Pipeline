@@ -1,0 +1,16 @@
+UID: 714
+
+INDICATION:
+hemopytosis
+
+FINDINGS:
+Stable scarring near the right lung apex along the lateral aspect. Lungs are otherwise clear. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the spine.
+
+IMPRESSION:
+Stable appearance of the chest without acute abnormality noted.
+
+PROBLEMS:
+Cicatrix;Spine
+
+MESH:
+Cicatrix/lung/apex/right;Spine/degenerative

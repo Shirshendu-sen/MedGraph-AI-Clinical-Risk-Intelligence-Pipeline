@@ -1,0 +1,16 @@
+UID: 3244
+
+INDICATION:
+XXXX-year-old woman screening for assisted living facility.
+
+FINDINGS:
+Heart size within normal limits. Right paratracheal prominence XXXX represents tortuous XXXX. XXXX lung volumes. Mild streaky bibasilar opacities. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+1. No evidence of pulmonary tuberculosis. 2. Low lung volumes with minimal streaky basilar airspace disease, XXXX atelectasis. 3. Right paratracheal prominence XXXX represents tortuous XXXX. Comparison with prior imaging studies could confirm this if available. .
+
+PROBLEMS:
+Mediastinum;Opacity;Lung;Airspace Disease;Pulmonary Atelectasis
+
+MESH:
+Mediastinum/right/paratracheal/prominent;Opacity/lung/base/bilateral/streaky/mild;Lung/hypoinflation;Airspace Disease/lung/base/bilateral/streaky/mild;Pulmonary Atelectasis

@@ -1,0 +1,16 @@
+UID: 3685
+
+INDICATION:
+XXXX-year-old female, preoperative evaluation.
+
+FINDINGS:
+Calcified thoracic aorta. Mild rightward deviation of the trachea, unchanged from comparison XXXX, XXXX secondary to a goiter. Heart size within normal limits. No focal airspace disease. No pneumothorax or effusions. Advanced degenerative change of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Calcinosis;Shift;Thoracic Vertebrae
+
+MESH:
+Calcinosis/aorta, thoracic;Shift/trachea/right/mild;Thoracic Vertebrae/degenerative/severe

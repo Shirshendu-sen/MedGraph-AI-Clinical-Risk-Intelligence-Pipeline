@@ -1,0 +1,16 @@
+UID: 490
+
+INDICATION:
+Syncope
+
+FINDINGS:
+Patient is slightly rotated. Normal heart size. There is no pulmonary edema. There is no focal consolidation. There are no XXXX of a pleural effusion. There is no evidence of pneumothorax.
+
+IMPRESSION:
+There is no evidence of acute cardiopulmonary disease. .
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory 
+
+MESH:
+Technical Quality of Image Unsatisfactory

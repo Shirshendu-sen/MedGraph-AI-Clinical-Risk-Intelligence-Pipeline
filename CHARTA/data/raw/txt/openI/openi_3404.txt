@@ -1,0 +1,16 @@
+UID: 3542
+
+INDICATION:
+Pancreatic mass. Evaluate for XXXX.
+
+FINDINGS:
+Heart size and mediastinal contours appear within normal limits. Pulmonary vascularity is within normal limits. No focal consolidation, suspicious pulmonary opacity, pneumothorax or definite pleural effusion. Visualized osseous structures appear intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. No radiographic evidence of metastatic disease in the chest.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

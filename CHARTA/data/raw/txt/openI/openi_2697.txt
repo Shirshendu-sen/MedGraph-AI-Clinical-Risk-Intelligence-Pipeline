@@ -1,0 +1,16 @@
+UID: 2801
+
+INDICATION:
+786.2, 53XXXX with XXXX x 6 months
+
+FINDINGS:
+None
+
+IMPRESSION:
+Suboptimal inspiration with mild bibasilar hypoventilation and some subsegmental atelectasis within right middle lobe. otherwise clear lungs with no acute airspace disease seen. No effusions. Stable and unremarkable mediastinal contour. No XXXX acute abnormalities since the previous chest radiograph.
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Lung/base/bilateral/hypoinflation/mild;Pulmonary Atelectasis/middle lobe/right;Technical Quality of Image Unsatisfactory

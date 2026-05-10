@@ -1,0 +1,16 @@
+UID: 1700
+
+INDICATION:
+preop lipoma.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and lungs are clear. Soft tissue density overlying the left lateral upper chest may represent the patient's lipoma.
+
+PROBLEMS:
+Density
+
+MESH:
+Density/thorax/left

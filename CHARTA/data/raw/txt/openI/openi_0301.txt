@@ -1,0 +1,16 @@
+UID: 313
+
+INDICATION:
+Slurred speech, confusion, weakness, shortness of breath.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiac silhouette is moderately enlarged with a cardiothoracic ratio of 16.2/24.7. Diffuse coarse interstitial opacity seen throughout the lungs with perihilar and lower lobe predominance. There is right greater than left bibasilar consolidation. There are small pleural effusions, right larger than left. No evidence of pneumothorax. Dense atherosclerotic calcification seen involving the thoracic and upper abdominal aorta.
+
+IMPRESSION:
+Enlarged cardiac silhouette with coarse perihilar and lower lobe interstitial opacities may be due to diffuse infection or heart failure. Small pleural effusions.
+
+PROBLEMS:
+Cardiac Shadow;Opacity;Opacity;Consolidation;Pleural Effusion;Atherosclerosis
+
+MESH:
+Cardiac Shadow/enlarged/moderate;Opacity/lung/lower lobe/interstitial/diffuse/prominent;Opacity/lung/hilum/interstitial/diffuse/prominent;Consolidation/lung/base/bilateral;Pleural Effusion/bilateral/small;Atherosclerosis/aorta

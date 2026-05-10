@@ -1,0 +1,16 @@
+UID: 1331
+
+INDICATION:
+Positive PPD, hemoptysis
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are hypoinflated. with XXXX opacities in the lung bases, XXXX bronchovascular crowding. No focal consolidation or pleural effusion are seen.
+
+IMPRESSION:
+Low lung volumes with bibasilar opacities XXXX bronchovascular crowding. No acute infiltrate.
+
+PROBLEMS:
+Lung;Opacity;Markings
+
+MESH:
+Lung/hypoinflation;Opacity/lung/base/bilateral;Markings/bronchovascular

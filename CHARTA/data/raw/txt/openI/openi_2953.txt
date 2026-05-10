@@ -1,0 +1,16 @@
+UID: 3078
+
+INDICATION:
+Chills XXXX XXXX
+
+FINDINGS:
+The cardiomediastinal silhouette is normal size and configuration. Pulmonary vasculature within normal limits. There is a right lower lobe pneumonia. No pleural effusion. No pneumothorax.
+
+IMPRESSION:
+Right lower lobe pneumonia. Consider followup radiograph to document resolution. .
+
+PROBLEMS:
+Pneumonia
+
+MESH:
+Pneumonia/lower lobe/right

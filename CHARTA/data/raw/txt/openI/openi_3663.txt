@@ -1,0 +1,16 @@
+UID: 3808
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Heart size and mediastinal contour within normal limits. Atherosclerotic calcification of the aorta. Stable scattered calcified granulomas are noted. No focal airspace consolidation, pneumothorax, or large pleural effusion. No acute osseous abnormality.
+
+IMPRESSION:
+No acute abnormality.
+
+PROBLEMS:
+Atherosclerosis;Calcified Granuloma
+
+MESH:
+Atherosclerosis/aorta;Calcified Granuloma/scattered/multiple

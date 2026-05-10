@@ -1,0 +1,16 @@
+UID: 1653
+
+INDICATION:
+XXXX-year-old female status post pacemaker placement
+
+FINDINGS:
+Pacemaker generator overlying the left chest in stable position with 2 leads terminating in the right atrium and right ventricle in stable position. Stable XXXX sternotomy XXXX. No pneumothorax, pleural effusion, or focal airspace disease. Minimal fluid within the right horizontal fissure.
+
+IMPRESSION:
+Stable pacemaker generator within the left chest with 2 distal leads terminating in the right atrium and right ventricle, also in stable position. No pneumothorax.
+
+PROBLEMS:
+Implanted Medical Device
+
+MESH:
+Implanted Medical Device/left

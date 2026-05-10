@@ -1,0 +1,16 @@
+UID: 1501
+
+INDICATION:
+scapula fx
+
+FINDINGS:
+Chest. Right hemidiaphragm remains elevated. Consolidation and atelectasis are present in the right lung base. Left lung is clear. No pleural air collections. Shoulder and clavicle. Fractures present in the right scapula the base of the glenoid process. It is attached to the coracoid process and a portion of the spine. The humeral head is located within the glenoid articular surface. Cutaneous air is present. Fracture is present in the posterior portion of the right 3rd rib. The acromioclavicular joint and coracoclavicular joints are widened.
+
+IMPRESSION:
+1. Chest. Continued right hemidiaphragm elevation with right lower lobe airspace disease. 2. Right shoulder. Scapular fracture. 3. Clavicle. Acromioclavicular separation.
+
+PROBLEMS:
+Diaphragm;Consolidation;Pulmonary Atelectasis;Airspace Disease
+
+MESH:
+Diaphragm/right/elevated;Consolidation/lung/base/right;Pulmonary Atelectasis/base/right;Airspace Disease/lung/lower lobe/right

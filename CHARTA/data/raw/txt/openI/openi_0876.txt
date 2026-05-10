@@ -1,0 +1,16 @@
+UID: 908
+
+INDICATION:
+MALIGNANT NEOPLASM OF THYROID GLAND
+
+FINDINGS:
+The lungs appear clear. There are calcified nodules projecting in the right upper lung. Mediastinal contours appear normal. The heart pulmonary XXXX appear normal. Pleural spaces are clear. Surgical clips are identified in the right neck and left mediastinum.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Calcinosis;Nodule;Surgical Instruments;Surgical Instruments
+
+MESH:
+Calcinosis/lung/upper lobe/right;Nodule/lung/upper lobe/right;Surgical Instruments/mediastinum/left;Surgical Instruments/neck/right

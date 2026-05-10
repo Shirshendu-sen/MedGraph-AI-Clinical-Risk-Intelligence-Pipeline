@@ -1,0 +1,16 @@
+UID: 1991
+
+INDICATION:
+XXXX and XXXX since XXXX XXXX
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. The lungs are hypoinflated. There are XXXX streaky opacities predominantly in the left lung base possibly related to scarring and atelectasis. XXXX B-lines are also noted. Definite infiltrate is not excluded. There is no large effusion.
+
+IMPRESSION:
+1. Low lung volumes with streaky left basilar opacity, XXXX subsegmental atelectasis and scarring. Infiltrate is XXXX less XXXX but not entirely excluded. 2. Mild central vascular congestion and bronchovascular crowding.
+
+PROBLEMS:
+Lung;Opacity;Pulmonary Atelectasis;Cicatrix;Pulmonary Congestion;Markings
+
+MESH:
+Lung/hypoinflation;Opacity/lung/base/left/streaky;Pulmonary Atelectasis/base/left;Cicatrix/lung/base/left;Pulmonary Congestion/mild;Markings/bronchovascular

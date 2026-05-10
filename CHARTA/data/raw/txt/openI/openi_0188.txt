@@ -1,0 +1,16 @@
+UID: 194
+
+INDICATION:
+XXXX-year-old male, rule out tuberculosis.
+
+FINDINGS:
+Heart size upper limits of normal. Small amount of left basilar airspace disease. The right lung is clear. There are no cavitary lesions seen. No pneumothorax. No pleural effusions.
+
+IMPRESSION:
+Left basilar atelectasis and/or infiltrate, with no radiographic evidence of tuberculosis.
+
+PROBLEMS:
+Airspace Disease;Pulmonary Atelectasis;Infiltrate
+
+MESH:
+Airspace Disease/lung/base/left/mild;Pulmonary Atelectasis/base/left;Infiltrate/lung/base/left

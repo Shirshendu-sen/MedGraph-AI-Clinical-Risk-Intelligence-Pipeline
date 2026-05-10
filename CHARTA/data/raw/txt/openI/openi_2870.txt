@@ -1,0 +1,16 @@
+UID: 2992
+
+INDICATION:
+786.2,V70.0 XXXX.
+
+FINDINGS:
+The lungs are clear. Heart size is normal. No pneumothorax. Calcified granuloma within the right lung base.
+
+IMPRESSION:
+Clear lungs. No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/base/right

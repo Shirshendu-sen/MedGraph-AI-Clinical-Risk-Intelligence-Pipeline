@@ -1,0 +1,16 @@
+UID: 646
+
+INDICATION:
+XXXX vehicle accident.
+
+FINDINGS:
+Clear lungs. Normal heart mediastinum. No pneumothorax. No pleural effusion. No acute bony abnormality. Nipple ring on left.
+
+IMPRESSION:
+Normal chest exam.
+
+PROBLEMS:
+Foreign Bodies
+
+MESH:
+Foreign Bodies/left

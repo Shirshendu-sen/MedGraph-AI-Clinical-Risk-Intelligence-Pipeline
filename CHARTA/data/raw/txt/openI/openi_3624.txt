@@ -1,0 +1,16 @@
+UID: 3767
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size, mediastinal silhouette, pulmonary vascularity are within normal limits. There is no lobar consolidation. No pleural effusion or pneumothorax.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

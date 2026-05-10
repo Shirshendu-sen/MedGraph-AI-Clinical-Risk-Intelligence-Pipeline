@@ -1,0 +1,16 @@
+UID: 1972
+
+INDICATION:
+A XXXX-year-old female follow-up XXXX acquired pneumonia.
+
+FINDINGS:
+There is a XXXX airspace opacity in the left upper lung. Heart size within normal limits. Mild calcification of the aortic XXXX. No pneumothorax or pleural effusions.
+
+IMPRESSION:
+XXXX airspace opacity in the left upper lung which may represent streaky atelectasis or resolving pneumonia.
+
+PROBLEMS:
+Opacity;Calcinosis
+
+MESH:
+Opacity/lung/upper lobe/left;Calcinosis/aorta

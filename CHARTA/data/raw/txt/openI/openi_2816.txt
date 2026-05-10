@@ -1,0 +1,16 @@
+UID: 2935
+
+INDICATION:
+XXXX-year-old female, syncope
+
+FINDINGS:
+Scoliosis and focal eventration of the posterior left hemidiaphragm. No focal alveolar consolidation. Rotated position, considering technical factors heart size XXXX within normal limits. No definite pleural effusion seen, left bronchovascular crowding without typical findings of pulmonary edema. Exaggerated kyphosis with increased AP dimension of the thorax.
+
+IMPRESSION:
+No acute cardiopulmonary findings
+
+PROBLEMS:
+Scoliosis;Diaphragmatic Eventration;Technical Quality of Image Unsatisfactory ;Markings;Kyphosis
+
+MESH:
+Scoliosis;Diaphragmatic Eventration/left/posterior/focal;Technical Quality of Image Unsatisfactory ;Markings/bronchovascular/left;Kyphosis/severe

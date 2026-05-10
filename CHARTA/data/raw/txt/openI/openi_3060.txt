@@ -1,0 +1,16 @@
+UID: 3187
+
+INDICATION:
+XXXX.
+
+FINDINGS:
+PA and lateral views. stable postoperative changes with midline sternotomy XXXX and myocardial revascularization. Cardiac size remains mildly enlarged but stable. There is mild vascular congestion. Small bilateral pleural effusions are present, which are XXXX.
+
+IMPRESSION:
+Mild pulmonary vascular congestion, with XXXX XXXX bilateral effusions. Constellation findings is most compatible with congestive heart failure.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Pleural Effusion;Heart Failure
+
+MESH:
+Cardiomegaly/mild;Pulmonary Congestion/mild;Pleural Effusion/bilateral/small;Heart Failure

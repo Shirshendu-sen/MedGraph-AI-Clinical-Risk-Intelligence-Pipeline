@@ -1,0 +1,16 @@
+UID: 3510
+
+INDICATION:
+XXXX-year-old female, pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size mildly enlarged for technique. No focal alveolar consolidation, no definite pleural effusion seen. Bronchovascular crowding without typical findings of pulmonary edema.
+
+PROBLEMS:
+Cardiomegaly;Markings;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Cardiomegaly/mild;Markings/bronchovascular;Technical Quality of Image Unsatisfactory

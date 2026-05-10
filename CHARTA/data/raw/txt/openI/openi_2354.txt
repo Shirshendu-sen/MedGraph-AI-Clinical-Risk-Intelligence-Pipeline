@@ -1,0 +1,16 @@
+UID: 2439
+
+INDICATION:
+EMPHYSEMIA; thyroidectomy sched in one XXXX.
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are hyperinflated. There is biapical scarring. No acute infiltrate or pleural effusion seen.
+
+IMPRESSION:
+Emphysema without acute disease.
+
+PROBLEMS:
+Lung;Cicatrix;Emphysema
+
+MESH:
+Lung/hyperdistention;Cicatrix/lung/apex/bilateral;Emphysema

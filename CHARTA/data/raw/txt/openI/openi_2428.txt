@@ -1,0 +1,16 @@
+UID: 2516
+
+INDICATION:
+XXXX-year-old male, chest pain
+
+FINDINGS:
+Heart size within normal limits, stable mediastinal and hilar contours. Stable mild hyperinflation, right apical pleural-parenchymal irregularities compatible with scarring. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. No pneumothorax.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Lung;Cicatrix
+
+MESH:
+Lung/hyperdistention/mild;Cicatrix/lung/apex/right

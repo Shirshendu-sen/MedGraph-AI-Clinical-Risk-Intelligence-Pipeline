@@ -1,0 +1,16 @@
+UID: 1619
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are mildly hypoinflated but clear of focal airspace disease, pneumothorax, or pleural effusion. There are multiple XXXX sternotomy XXXX and surgical clips compatible with prior CABG. The most caudal XXXX sternotomy XXXX is fractured. There are no acute bony findings.
+
+IMPRESSION:
+1. Low lung volumes. No acute pulmonary findings. 2. Fractured XXXX sternotomy XXXX, without evidence of complication. .
+
+PROBLEMS:
+Lung;Surgical Instruments;Fractures, Bone
+
+MESH:
+Lung/hypoinflation/mild;Surgical Instruments;Fractures, Bone/sternum

@@ -1,0 +1,16 @@
+UID: 2305
+
+INDICATION:
+XXXX Patient states he has been on antibiotics for approx. 1 XXXX.
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are clear. Slight thoracolumbar curvature is noted.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Scoliosis;Scoliosis
+
+MESH:
+Scoliosis/lumbar vertebrae/mild;Scoliosis/thoracic vertebrae/mild

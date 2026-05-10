@@ -1,0 +1,16 @@
+UID: 1923
+
+INDICATION:
+XXXX-year-old female with XXXX
+
+FINDINGS:
+Lungs are clear without focal consolidation, effusion, or pneumothorax. Hyperinflated lungs. Cardiomegaly. Bony thorax and soft tissues grossly unremarkable
+
+IMPRESSION:
+Cardiomegaly without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Cardiomegaly
+
+MESH:
+Lung/hyperdistention;Cardiomegaly

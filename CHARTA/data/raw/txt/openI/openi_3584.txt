@@ -1,0 +1,16 @@
+UID: 3727
+
+INDICATION:
+Chemotherapy for AML.
+
+FINDINGS:
+Lung volumes are low. No focal infiltrates. Heart and pulmonary XXXX normal. An indwelling catheter from the left has its tip at the superior XXXX XXXX.
+
+IMPRESSION:
+Hypoinflation with no visible active cardiopulmonary disease.
+
+PROBLEMS:
+Lung;Catheters, Indwelling
+
+MESH:
+Lung/hypoinflation;Catheters, Indwelling/left

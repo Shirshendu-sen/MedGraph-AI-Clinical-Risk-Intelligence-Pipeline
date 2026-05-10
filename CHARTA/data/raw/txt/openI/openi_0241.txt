@@ -1,0 +1,16 @@
+UID: 251
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. Mild hyperinflation is noted. There are granulomatous sequela. No acute infiltrate or significant pleural effusion are noted. The costophrenic XXXX are excluded.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Lung;Granulomatous Disease
+
+MESH:
+Lung/hyperdistention/mild;Granulomatous Disease

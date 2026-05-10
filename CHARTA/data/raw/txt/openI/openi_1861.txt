@@ -1,0 +1,16 @@
+UID: 1925
+
+INDICATION:
+postmenopausal bleeding cxr XXXX 786.2
+
+FINDINGS:
+The heart is normal in size. There is bihilar prominence. The lungs are clear.
+
+IMPRESSION:
+Bihilar prominence may be secondary mild lymphoid enlargement. Followup chest x-XXXX versus further imaging XXXX may be indicated. Correlation with prior films would be helpful if available.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hilum/bilateral/prominent

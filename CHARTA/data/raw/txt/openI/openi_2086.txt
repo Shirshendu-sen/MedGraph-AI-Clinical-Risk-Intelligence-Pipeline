@@ -1,0 +1,16 @@
+UID: 2164
+
+INDICATION:
+History of chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear. 5 mm right apical granuloma overlying the anterior first right rib.
+
+PROBLEMS:
+Granuloma
+
+MESH:
+Granuloma/lung/apex/right

@@ -1,0 +1,16 @@
+UID: 2417
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Stable cardiomediastinal silhouette. Calcified granuloma in the left lower lobe. Minimal bibasilar airspace disease. No pneumothorax. Degenerative changes of the thoracic spine.
+
+IMPRESSION:
+Minimal bibasilar airspace disease.
+
+PROBLEMS:
+Calcified Granuloma;Airspace Disease;Thoracic Vertebrae
+
+MESH:
+Calcified Granuloma/lung/lower lobe/left;Airspace Disease/lung/base/bilateral/mild;Thoracic Vertebrae/degenerative

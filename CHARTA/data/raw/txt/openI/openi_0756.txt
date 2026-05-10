@@ -1,0 +1,16 @@
+UID: 778
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+Cardiomediastinal silhouettes are within normal limits. Lungs are clear without focal consolidation, pneumothorax, or pleural effusion. Stable calcified granulomas. Bony thorax is unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma

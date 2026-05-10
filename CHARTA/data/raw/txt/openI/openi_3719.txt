@@ -1,0 +1,16 @@
+UID: 3866
+
+INDICATION:
+Shortness of breath for the XXXX XXXX and half.
+
+FINDINGS:
+Patchy airspace disease is noted within the right middle lobe. Subtle opacities are present within the lingula as well. There is no pneumothorax or pleural effusion. The heart size is normal.
+
+IMPRESSION:
+Patchy right middle lobe and lingular airspace disease compatible with multilobar pneumonia. .
+
+PROBLEMS:
+Airspace Disease;Opacity;Airspace Disease;Pneumonia
+
+MESH:
+Airspace Disease/lung/middle lobe/right/patchy;Opacity/lung/lingula/small;Airspace Disease/lung/lingula/patchy;Pneumonia/multilobar

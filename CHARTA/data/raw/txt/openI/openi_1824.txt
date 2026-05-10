@@ -1,0 +1,16 @@
+UID: 1886
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Heart size and mediastinal contour within normal limits. Atherosclerotic calcification within the aorta. Calcified granulomas in bilateral XXXX and overlying the T9 vertebral body(lateral view). No focal airspace consolidation, pneumothorax, or large pleural effusion. Degenerative changes of thoracic spine. No acute osseous abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Atherosclerosis;Calcified Granuloma;Thoracic Vertebrae
+
+MESH:
+Atherosclerosis/aorta;Calcified Granuloma/bilateral/multiple;Thoracic Vertebrae/degenerative

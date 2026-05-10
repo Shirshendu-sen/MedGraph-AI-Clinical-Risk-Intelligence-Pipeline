@@ -1,0 +1,16 @@
+UID: 1169
+
+INDICATION:
+None
+
+FINDINGS:
+Lung volumes are low. There is vague opacity in the right upper lung near the anterior right first rib on PA view. This may be artifact relating to calcification at the first rib costicartilage junction. There is minimal atelectasis in the right lung base. There is left-sided PICC line, the distal tip in the lower superior vena XXXX. The heart and pulmonary XXXX are normal. These contours are normal.
+
+IMPRESSION:
+1. Vague nodular opacity near the anterior right first rib costicartilage junction. This may be calcification. 2. Minimal streaky atelectasis in the right lung base.
+
+PROBLEMS:
+Lung;Opacity;Opacity;Pulmonary Atelectasis;Catheters, Indwelling
+
+MESH:
+Lung/hypoinflation;Opacity/lung/upper lobe/right/round;Opacity/ribs/anterior;Pulmonary Atelectasis/base/right/mild;Catheters, Indwelling/left

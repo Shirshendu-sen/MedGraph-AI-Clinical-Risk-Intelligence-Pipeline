@@ -1,0 +1,16 @@
+UID: 1693
+
+INDICATION:
+pre-liver transplant
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. The lungs are hypoinflated with scarring in the left lung base. There is no focal consolidation or significant effusion.
+
+IMPRESSION:
+Mild chronic changes in the left lung base without acute disease.
+
+PROBLEMS:
+Lung;Cicatrix
+
+MESH:
+Lung/hypoinflation;Cicatrix/lung/base/left/chronic/mild

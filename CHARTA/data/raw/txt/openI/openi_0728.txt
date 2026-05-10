@@ -1,0 +1,16 @@
+UID: 749
+
+INDICATION:
+This is a XXXX-year-old woman with XXXX productive XXXX for 3 days with shortness of breath.
+
+FINDINGS:
+Negative for cardiac enlargement. Negative for vascular congestion. Bilateral granulomas are seen scattered throughout the lungs. Negative for pneumothorax. Negative for focal air space consolidation. Some minimal streaky opacity at the bilateral bases XXXX relates to subsegmental atelectasis.
+
+IMPRESSION:
+No acute cardiothoracic process.
+
+PROBLEMS:
+Granuloma;Opacity;Pulmonary Atelectasis
+
+MESH:
+Granuloma/lung/bilateral/scattered;Opacity/lung/base/bilateral/streaky/mild;Pulmonary Atelectasis/base/bilateral

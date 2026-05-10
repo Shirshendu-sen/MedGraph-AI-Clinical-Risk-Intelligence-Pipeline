@@ -1,0 +1,16 @@
+UID: 732
+
+INDICATION:
+XXXX-year-old woman with history of breast cancer.
+
+FINDINGS:
+Heart size within normal limits. Negative for focal pulmonary consolidation, pleural effusion or pneumothorax. There is hyperexpansion of the lungs. Mild degenerative changes are present in the spine.
+
+IMPRESSION:
+No evidence of metastatic disease. .
+
+PROBLEMS:
+Lung;Spine
+
+MESH:
+Lung/hyperdistention;Spine/degenerative/mild

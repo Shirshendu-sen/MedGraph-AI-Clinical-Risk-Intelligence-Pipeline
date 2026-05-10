@@ -1,0 +1,16 @@
+UID: 1329
+
+INDICATION:
+History of testicular cancer status post bone marrow transplant
+
+FINDINGS:
+Two nodules are noted in the right XXXX XXXX measuring 13 mm and one measuring 16 mm in diameter. The smaller one appears to be within the right upper lobe and the large XXXX appears to be within the left lower lobe. No focal consolidation and no other pulmonary nodules are identified. However, if a full evaluation for lung nodules is desired consider XXXX for further evaluation. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour.
+
+IMPRESSION:
+At XXXX 2 right lung pulmonary nodules concerning for<BR>metastatic disease
+
+PROBLEMS:
+Nodule;Nodule
+
+MESH:
+Nodule/lung/upper lobe/right;Nodule/lung/lower lobe/left

@@ -1,0 +1,16 @@
+UID: 1892
+
+INDICATION:
+XXXX-year-old female. Chest pain.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Stable right lower lobe calcified granuloma. No focal consolidation, pneumothorax or large pleural effusion. Spurring of the thoracic spine.
+
+IMPRESSION:
+Negative for acute abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Osteophyte
+
+MESH:
+Calcified Granuloma/lung/lower lobe/right;Osteophyte/thoracic vertebrae

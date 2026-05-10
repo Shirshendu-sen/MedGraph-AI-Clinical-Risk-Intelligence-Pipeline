@@ -1,0 +1,16 @@
+UID: 3430
+
+INDICATION:
+XXXX-year-old female, short of breath, SVT
+
+FINDINGS:
+Heart size mildly to moderately enlarged, distal tip dual-lumen catheter near the caval atrial junction. Mild vascular cephalization, no definite interstitial changes of pulmonary edema, no focal alveolar consolidation. No pleural effusion XXXX demonstrated.
+
+IMPRESSION:
+1. Mild to moderate cardiomegaly. 2. Vascular redistribution without definite findings of pulmonary edema
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Catheters, Indwelling
+
+MESH:
+Cardiomegaly/moderate;Pulmonary Congestion;Catheters, Indwelling

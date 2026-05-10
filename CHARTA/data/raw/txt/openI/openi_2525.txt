@@ -1,0 +1,16 @@
+UID: 2619
+
+INDICATION:
+History of sarcoidosis of the skin
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Degenerative spurring of thoracic spine. Calcified right and left hilar lymph XXXX. There is minimal interstitial nodular opacities in the right and left midlung. This could be consistent with sarcoidosis. The small nodular opacities were present on the old CT scan from XXXX
+
+PROBLEMS:
+Osteophyte;Calcinosis;Opacity
+
+MESH:
+Osteophyte/thoracic vertebrae/degenerative;Calcinosis/lung/hilum/lymph nodes/bilateral;Opacity/lung/middle lobe/bilateral/interstitial/round/small/mild

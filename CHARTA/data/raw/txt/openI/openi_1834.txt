@@ -1,0 +1,16 @@
+UID: 1897
+
+INDICATION:
+Kidney transplant evaluation
+
+FINDINGS:
+The heart is normal in size. The mediastinum is within normal limits. Pectus deformity is noted. Left IJ dual-lumen catheter is visualized without pneumothorax. The lungs are clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Deformity;Catheters, Indwelling
+
+MESH:
+Deformity/thorax;Catheters, Indwelling/left

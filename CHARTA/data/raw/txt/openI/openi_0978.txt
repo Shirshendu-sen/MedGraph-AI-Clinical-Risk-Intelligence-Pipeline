@@ -1,0 +1,16 @@
+UID: 1011
+
+INDICATION:
+Chronic XXXX
+
+FINDINGS:
+The heart is top normal in size. The mediastinum is unremarkable. The lungs are clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

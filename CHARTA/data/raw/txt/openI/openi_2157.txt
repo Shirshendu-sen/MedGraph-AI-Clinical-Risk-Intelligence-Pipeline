@@ -1,0 +1,16 @@
+UID: 2237
+
+INDICATION:
+bronchitis. XXXX. XXXX. XXXX. Dyspnea.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear. Stable 5 mm calcified left midlung granuloma. Calcified aortic XXXX.
+
+PROBLEMS:
+Calcified Granuloma;Calcinosis
+
+MESH:
+Calcified Granuloma/lung/lingula;Calcinosis/aorta

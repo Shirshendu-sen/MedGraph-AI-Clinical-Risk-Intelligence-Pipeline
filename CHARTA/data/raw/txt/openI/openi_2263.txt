@@ -1,0 +1,16 @@
+UID: 2345
+
+INDICATION:
+XXXX-year-old male with diabetic ketoacidosis and chest pain
+
+FINDINGS:
+The heart size is at the upper limits of normal. The mediastinum is unremarkable. There is no pleural effusion, pneumothorax, or focal airspace disease. Mild chronic degenerative changes are present within the thoracic spine..
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/chronic/mild

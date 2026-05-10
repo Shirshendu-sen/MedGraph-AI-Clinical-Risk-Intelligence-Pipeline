@@ -1,0 +1,16 @@
+UID: 3636
+
+INDICATION:
+XXXX-year-old woman with chest pain.
+
+FINDINGS:
+Normal cardiomediastinal silhouettes. Mild hyperexpansion of the lungs. Stable appearance of scarring at lung bases. Prominent bilateral interstitial opacities are chronic in XXXX. No focal consolidation, pleural effusion, or pneumothorax. No acute osseous abnormality.
+
+IMPRESSION:
+Chest radiograph. Stable emphysematous changes without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Cicatrix;Opacity;Emphysema
+
+MESH:
+Lung/hyperdistention/mild;Cicatrix/lung/base/bilateral;Opacity/lung/bilateral/interstitial/prominent/chronic;Emphysema

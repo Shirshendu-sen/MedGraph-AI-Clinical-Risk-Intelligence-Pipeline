@@ -1,0 +1,16 @@
+UID: 1160
+
+INDICATION:
+XXXX immigrant. tb overseas is asymptomatic
+
+FINDINGS:
+The left hilum is retracted superiorly. In the collapsed left upper lobe are stranding and pneumatoceles. Additionally, pleural thickening is present in the left apex. No infiltrates are present in the left lower lobe or in the right lung. Heart size is normal. These findings are similar to the previous outside examination.
+
+IMPRESSION:
+Stable left upper lobe collapse associated with parenchymal scarring and pleural thickening. Findings consistent with previous active pulmonary tuberculosis pneumonia.
+
+PROBLEMS:
+Pulmonary Atelectasis;Cysts;Thickening;Cicatrix;Tuberculosis
+
+MESH:
+Pulmonary Atelectasis/upper lobe/left;Cysts/lung/upper lobe/left;Thickening/pleura/apex/left;Cicatrix/lung/upper lobe/left;Tuberculosis/lung/healed

@@ -1,0 +1,16 @@
+UID: 729
+
+INDICATION:
+XXXX-year-old woman with chest pain and shortness of breath..
+
+FINDINGS:
+No focal consolidation, pneumothorax, or pleural effusion identified. However, there is a 1.7 cm nodular opacity within the right hilum, which may represent partially calcified granuloma or lymphadenopathy. Scattered calcified granulomas also seen. Heart size is upper limit normal. No acute bony abnormality.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. 1.7 cm nodular opacity within the right hilum, there is XXXX large lymph node or partially calcified granuloma. Followup XXXX radiograph to assess stability may be of benefit.
+
+PROBLEMS:
+Nodule;Opacity;Calcified Granuloma
+
+MESH:
+Nodule/lung/hilum/right;Opacity/lung/hilum/right;Calcified Granuloma/scattered

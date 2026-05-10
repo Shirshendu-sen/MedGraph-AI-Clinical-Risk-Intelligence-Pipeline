@@ -1,0 +1,16 @@
+UID: 1494
+
+INDICATION:
+History XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Decreasing lung volumes. Probable bilateral pleural effusions and elevation of both hemidiaphragms.
+
+PROBLEMS:
+Lung;Pleural Effusion;Diaphragm
+
+MESH:
+Lung/hypoinflation;Pleural Effusion/bilateral;Diaphragm/bilateral/elevated

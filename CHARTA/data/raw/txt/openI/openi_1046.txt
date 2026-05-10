@@ -1,0 +1,16 @@
+UID: 1081
+
+INDICATION:
+Smoking history
+
+FINDINGS:
+The lungs are hyperexpanded. Heart size normal. No mass or focal opacities seen. Stable degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. No acute cardiopulmonary process. 2. Emphysematous changes in the lungs. .
+
+PROBLEMS:
+Lung;Thoracic Vertebrae;Pulmonary Emphysema
+
+MESH:
+Lung/hyperdistention;Thoracic Vertebrae/degenerative;Pulmonary Emphysema

@@ -1,0 +1,16 @@
+UID: 3753
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+The cardiac silhouette, upper mediastinum and pulmonary vasculature are within normal limits. There is no acute pulmonary consolidation, large effusion or pneumothorax. There is minimal left basilar atelectasis. There are small bilateral pulmonary nodules measure approximately 5 mm in size in the right midlung and left upper lung XXXX. These are not well appreciated on the lateral projection.
+
+IMPRESSION:
+1. No focal pulmonary consolidation or effusion. Minimal left basilar atelectasis. 2. Bilateral pulmonary nodules. These were not present on the prior study and may represent sequela of infection, but could represent neoplastic process. Correlation with history of primary malignancy is recommended. Further evaluation XXXX of the thorax could be performed, if clinically indicated.
+
+PROBLEMS:
+Pulmonary Atelectasis;Nodule;Nodule
+
+MESH:
+Pulmonary Atelectasis/base/left/mild;Nodule/lung/middle lobe/right/multiple/small;Nodule/lung/upper lobe/left/multiple/small

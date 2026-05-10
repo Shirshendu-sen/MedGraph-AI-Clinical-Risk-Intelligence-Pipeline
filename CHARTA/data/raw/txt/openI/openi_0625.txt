@@ -1,0 +1,16 @@
+UID: 644
+
+INDICATION:
+Pneumonia one XXXX ago, worsening clinical symptoms.
+
+FINDINGS:
+The cardiac contours are normal. The lungs are clear. Thoracic spondylosis.
+
+IMPRESSION:
+No evidence of active pulmonary pneumonia on today's exam.
+
+PROBLEMS:
+Spondylosis
+
+MESH:
+Spondylosis/thoracic vertebrae

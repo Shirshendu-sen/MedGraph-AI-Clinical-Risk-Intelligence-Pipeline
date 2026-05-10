@@ -1,0 +1,16 @@
+UID: 102
+
+INDICATION:
+Syncope. XXXX attack.
+
+FINDINGS:
+Normal heart size. Clear, hyperaerated lungs. No pneumothorax. No pleural effusion. XXXX substernal density may be related to a pectus deformity.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Density
+
+MESH:
+Lung/hyperdistention;Density/sternum

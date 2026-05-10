@@ -1,0 +1,16 @@
+UID: 3482
+
+INDICATION:
+XXXX-year-old male with dyspnea
+
+FINDINGS:
+Severe emphysematous disease is again noted. Multifocal areas of scarring are unchanged in appearance. No pneumothorax. Heart size is normal.
+
+IMPRESSION:
+Stable findings consistent with severe emphysema. No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Emphysema;Cicatrix
+
+MESH:
+Emphysema/severe;Cicatrix/lung/focal/multiple

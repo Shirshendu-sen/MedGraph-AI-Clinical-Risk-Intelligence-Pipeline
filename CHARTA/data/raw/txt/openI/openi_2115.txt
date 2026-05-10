@@ -1,0 +1,16 @@
+UID: 2194
+
+INDICATION:
+Increased XXXX XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Stable enlarged cardiomediastinal silhouette. Tortuous aorta. Low lung volumes and left basilar bandlike opacities suggestive of scarring or atelectasis. No overt edema. Question small right pleural effusion versus pleural thickening. No visible pneumothorax.
+
+PROBLEMS:
+Cardiac Shadow;Aorta;Lung;Opacity
+
+MESH:
+Cardiac Shadow/enlarged;Aorta/tortuous;Lung/hypoinflation;Opacity/lung/base/left

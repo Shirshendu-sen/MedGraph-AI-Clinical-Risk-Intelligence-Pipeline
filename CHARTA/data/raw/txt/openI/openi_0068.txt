@@ -1,0 +1,16 @@
+UID: 69
+
+INDICATION:
+XXXX year old chest pain, XXXX, sore throat.
+
+FINDINGS:
+The heart is normal in size and contour. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

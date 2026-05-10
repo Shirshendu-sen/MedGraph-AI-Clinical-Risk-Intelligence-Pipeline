@@ -1,0 +1,16 @@
+UID: 3116
+
+INDICATION:
+XXXX-year-old woman with shortness of breath
+
+FINDINGS:
+The cardiac silhouette is enlarged. There are bibasilar airspace opacities left greater than right with small right pleural effusion. No visualized pneumothorax.
+
+IMPRESSION:
+Bibasilar airspace disease left greater than right with small effusions.
+
+PROBLEMS:
+Cardiac Shadow;Opacity;Pleural Effusion;Airspace Disease
+
+MESH:
+Cardiac Shadow/enlarged;Opacity/lung/base/bilateral;Pleural Effusion/bilateral/small;Airspace Disease/lung/base/bilateral

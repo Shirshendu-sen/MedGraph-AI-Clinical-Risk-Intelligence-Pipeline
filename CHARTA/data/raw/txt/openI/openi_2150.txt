@@ -1,0 +1,16 @@
+UID: 2230
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Mediastinal contours are normal. Heart size is upper limits of normal. Lungs are clear. There is no pneumothorax or large pleural effusion. No bony abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

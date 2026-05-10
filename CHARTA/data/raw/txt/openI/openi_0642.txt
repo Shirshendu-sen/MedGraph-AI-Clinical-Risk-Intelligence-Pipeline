@@ -1,0 +1,16 @@
+UID: 661
+
+INDICATION:
+Vaginal vault pelvic organ prolapse preop for surgery
+
+FINDINGS:
+Spinal stimulator in XXXX. Lungs are clear without focal airspace disease. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+Medical Device;Thoracic Vertebrae
+
+MESH:
+Medical Device/spine;Thoracic Vertebrae/degenerative

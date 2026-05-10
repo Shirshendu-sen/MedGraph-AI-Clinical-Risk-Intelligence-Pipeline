@@ -1,0 +1,16 @@
+UID: 2984
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Frontal and lateral views of the chest show an unchanged cardiomediastinal silhouette. There is a AP XXXX duct is calcified lymph node. The aorta is unfolded. Cardiac silhouette remains moderately enlarged. Low lung volumes due to exaggerated kyphosis. No focal airspace consolidation or pleural effusion. XXXX spine spondylosis.
+
+IMPRESSION:
+Cardiomegaly. No acute pulmonary disease process.
+
+PROBLEMS:
+Calcinosis;Aorta;Cardiac Shadow;Lung;Kyphosis;Spondylosis;Cardiomegaly
+
+MESH:
+Calcinosis/lymph nodes;Aorta/tortuous;Cardiac Shadow/enlarged/moderate;Lung/hypoinflation;Kyphosis/severe;Spondylosis;Cardiomegaly

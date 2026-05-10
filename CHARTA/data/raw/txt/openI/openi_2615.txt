@@ -1,0 +1,16 @@
+UID: 2715
+
+INDICATION:
+ECF placement
+
+FINDINGS:
+Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. There is a 9 mm right lower lobe pulmonary nodule, not seen on prior exams. There are posttraumatic deformities of the right posterior ribs. No focal airspace consolidation or effusion. No pneumothorax.
+
+IMPRESSION:
+1. Right lower lobe pulmonary nodule. XXXX for better characterization. 2. No acute pulmonary process.
+
+PROBLEMS:
+Nodule;Deformity
+
+MESH:
+Nodule/lung/lower lobe/right;Deformity/ribs/right/posterior/multiple

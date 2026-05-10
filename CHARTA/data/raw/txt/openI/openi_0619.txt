@@ -1,0 +1,16 @@
+UID: 638
+
+INDICATION:
+sepsis.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Anterior segment right lower lobe pneumonia. No effusion. Heart size is normal. Lungs otherwise clear.
+
+PROBLEMS:
+Pneumonia
+
+MESH:
+Pneumonia/lower lobe/right/anterior

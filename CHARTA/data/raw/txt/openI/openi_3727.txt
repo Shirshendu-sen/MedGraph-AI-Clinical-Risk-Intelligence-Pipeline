@@ -1,0 +1,16 @@
+UID: 3874
+
+INDICATION:
+XXXX-year-old with dyspnea.
+
+FINDINGS:
+The heart and mediastinum are unremarkable. There is mild calcification of the aortic XXXX, consistent with atherosclerosis. The lung volumes are low, with bronchovascular crowding. The lungs are clear without infiltrate. There is no effusion or pneumothorax. Moderate degenerative changes of the spine.
+
+IMPRESSION:
+1. Low lung volume study, no acute pulmonary process.
+
+PROBLEMS:
+Calcinosis;Atherosclerosis;Lung;Markings;Spine
+
+MESH:
+Calcinosis/aorta/mild;Atherosclerosis/aorta;Lung/hypoinflation;Markings/bronchovascular;Spine/degenerative/moderate

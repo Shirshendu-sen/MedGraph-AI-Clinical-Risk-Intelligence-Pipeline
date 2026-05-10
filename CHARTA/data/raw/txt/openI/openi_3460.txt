@@ -1,0 +1,16 @@
+UID: 3600
+
+INDICATION:
+EtOH, diabetes, altered mental status
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is within normal limits. No edema. Bandlike scarring in the right base. No pleural effusion, lobar consolidation or pneumothorax. Multiple coarse calcifications in the epigastrium are seen on the lateral radiograph, not well localized on the frontal image. Could represent pancreatic parenchymal calcifications of chronic pancreatitis or old granulomatous sequela.
+
+PROBLEMS:
+Cicatrix;Calcinosis
+
+MESH:
+Cicatrix/lung/base/right;Calcinosis/abdomen/multiple

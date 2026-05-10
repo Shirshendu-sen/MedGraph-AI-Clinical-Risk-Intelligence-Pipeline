@@ -1,0 +1,16 @@
+UID: 1302
+
+INDICATION:
+CP
+
+FINDINGS:
+Lungs are clear. No pleural effusions or pneumothoraces. heart and mediastinum are stable with ectasia of the aorta. Heart size is upper limits of normal. Degenerative changes in the spine.
+
+IMPRESSION:
+Stable appearance of the chest without acute abnormality.
+
+PROBLEMS:
+Aorta;Spine
+
+MESH:
+Aorta/tortuous;Spine/degenerative

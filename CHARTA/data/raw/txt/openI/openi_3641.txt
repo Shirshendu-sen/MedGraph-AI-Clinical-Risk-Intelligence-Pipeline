@@ -1,0 +1,16 @@
+UID: 3784
+
+INDICATION:
+-- XXXX
+
+FINDINGS:
+AP view was obtained due to patient condition. Low volume lungs. No focal lung consolidation. The heart is not enlarged. No pleural effusion.
+
+IMPRESSION:
+No acute abnormality.
+
+PROBLEMS:
+Lung;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Lung/hypoinflation;Technical Quality of Image Unsatisfactory

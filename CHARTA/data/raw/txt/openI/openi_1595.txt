@@ -1,0 +1,16 @@
+UID: 1650
+
+INDICATION:
+,719.41,185 XXXX. Prostate cancer.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Comparison XXXX, XXXX. Anticipated senescent findings with grossly clear lungs and stable/unremarkable mediastinal contour. No effusions. No XXXX acute abnormalities since the previous chest radiograph. No destructive bony lesions are seen.
+
+PROBLEMS:
+No Indexing
+
+MESH:
+No Indexing

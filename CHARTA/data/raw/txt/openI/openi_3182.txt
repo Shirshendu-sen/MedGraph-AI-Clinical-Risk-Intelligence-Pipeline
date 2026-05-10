@@ -1,0 +1,16 @@
+UID: 3313
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Lungs are clear. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the spine.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative

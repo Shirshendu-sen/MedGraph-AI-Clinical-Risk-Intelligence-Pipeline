@@ -1,0 +1,16 @@
+UID: 2347
+
+INDICATION:
+XXXX-year-old female. Expiratory wheezing. Lower extremity edema.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Atherosclerosis of the aortic XXXX. No focal consolidation, pneumothorax or large pleural effusion. T-spine osteophytes.
+
+IMPRESSION:
+Negative for acute abnormality.
+
+PROBLEMS:
+Atherosclerosis;Osteophyte
+
+MESH:
+Atherosclerosis/aorta;Osteophyte/thoracic vertebrae/multiple

@@ -1,0 +1,16 @@
+UID: 1474
+
+INDICATION:
+XXXX-year-old female with chest pain
+
+FINDINGS:
+No pneumothorax. Heart size is normal. Granulomas are seen within the right lung. No large pleural effusions. No focal airspace consolidation.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Granuloma
+
+MESH:
+Granuloma/lung/right

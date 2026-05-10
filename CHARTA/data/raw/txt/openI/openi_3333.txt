@@ -1,0 +1,16 @@
+UID: 3469
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Normal heart size and pulmonary vascularity. There are changes of chronic lung disease noticed by hyperinflated lungs and streaky opacities compatible with scar. Interval placement of the chest XXXX with the tip in the superior XXXX XXXX. No focal infiltrate, pneumothorax or pleural effusion is identified.
+
+IMPRESSION:
+Chronic changes with no acute cardiopulmonary disease.
+
+PROBLEMS:
+Lung;Opacity;Cicatrix;Catheters, Indwelling
+
+MESH:
+Lung/hyperdistention;Opacity/lung/streaky;Cicatrix/lung;Catheters, Indwelling

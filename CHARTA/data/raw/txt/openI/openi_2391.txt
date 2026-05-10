@@ -1,0 +1,16 @@
+UID: 2477
+
+INDICATION:
+XXXX-year-old female with increased XXXX.
+
+FINDINGS:
+Intact XXXX sternotomy XXXX. Stable cardiomegaly with grossly unchanged rightward mediastinal shift. Unchanged appearance of left perihilar calcified lymph XXXX and left basilar calcified granuloma. Relatively unchanged appearance of prominent interstitial markings with patchy bibasilar atelectasis. The negative for pneumothorax, focal infiltrate, or large pleural effusion. No acute bony abnormalities.
+
+IMPRESSION:
+1. Stable cardiomegaly with right mediastinal shift. 2. Stable interstitial markings and prominent bibasilar airspace opacities which XXXX represent atelectasis.
+
+PROBLEMS:
+Cardiomegaly;Shift;Calcinosis;Calcified Granuloma;Markings;Pulmonary Atelectasis;Opacity
+
+MESH:
+Cardiomegaly;Shift/mediastinum/right;Calcinosis/lung/hilum/lymph nodes/left;Calcified Granuloma/lung/base/left;Markings/lung/interstitial/prominent;Pulmonary Atelectasis/base/bilateral/patchy;Opacity/lung/base/bilateral/prominent

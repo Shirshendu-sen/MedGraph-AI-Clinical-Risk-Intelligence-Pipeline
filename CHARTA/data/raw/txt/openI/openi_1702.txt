@@ -1,0 +1,16 @@
+UID: 1760
+
+INDICATION:
+Preop
+
+FINDINGS:
+Mild cardiomegaly. Small area of platelike atelectasis in left mid lung. No pneumothorax or pleural effusion. Soft tissue and bony structures unremarkable.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Atelectasis
+
+MESH:
+Cardiomegaly/mild;Pulmonary Atelectasis/lingula/small

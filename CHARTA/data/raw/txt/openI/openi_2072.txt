@@ -1,0 +1,16 @@
+UID: 2150
+
+INDICATION:
+XXXX; MVA
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. Small nodule seen in the left upper lung, possibly granuloma. The lungs are otherwise clear.
+
+IMPRESSION:
+No acute disease. Left lung nodule. Correlate with prior films if available. If none are available, followup imaging in 6 months is suggested.
+
+PROBLEMS:
+Nodule
+
+MESH:
+Nodule/lung/upper lobe/left/small

@@ -1,0 +1,16 @@
+UID: 3892
+
+INDICATION:
+XXXX-year-old with XXXX
+
+FINDINGS:
+Normal heart size. Bibasilar patchy opacities, left greater than right. No pneumothorax or large pleural effusions. Left-sided subclavian central venous catheter with tip in the right atrium. No significant pulmonary edema. Low lung volumes. Exaggeration of the thoracic kyphosis with evidence of lower thoracic vertebral body the deep opacities. Multiple mild vertebral body wedge deformities in the mid thoracic spine. Moderate degenerative changes of the thoracic spine. Multiple bilateral rib fractures, some of which appear old. Interval XXXX deformity of the vertebral body XXXX XXXX the level of the two vertebroplasty XXXX.
+
+IMPRESSION:
+1. Moderate left basilar lung consolidation with mild right basilar opacities, which may represent infection and/or atelectasis. 2. Bilateral rib fractures, most of which appear old. 3. Interval vertebral body XXXX deformity in the lumbar spine since XXXX. .
+
+PROBLEMS:
+Opacity;Catheters, Indwelling;Lung;Kyphosis;Deformity;Thoracic Vertebrae;Fractures, Bone;Consolidation;Opacity;Deformity
+
+MESH:
+Opacity/lung/base/bilateral/patchy;Catheters, Indwelling/left;Lung/hypoinflation;Kyphosis/thoracic vertebrae;Deformity/thoracic vertebrae/multiple/mild;Thoracic Vertebrae/degenerative/moderate;Fractures, Bone/ribs/bilateral/multiple/healed;Consolidation/lung/base/left/moderate;Opacity/lung/base/right/mild;Deformity/lumbar vertebrae

@@ -1,0 +1,16 @@
+UID: 3581
+
+INDICATION:
+Renal cell carcinoma.
+
+FINDINGS:
+Heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. Pectus carinatum is noted. Calcified lymph XXXX and granuloma are noted. No pleural effusion or pneumothorax is seen. Mild XXXX deformity is noted in the lower thoracic spine.
+
+IMPRESSION:
+1. No evidence of active disease. 2. Evidence of previous granulomatous infection. 3. Pectus carinatum.
+
+PROBLEMS:
+Pectus Carinatum;Calcinosis;Calcified Granuloma;Deformity;Granulomatous Disease
+
+MESH:
+Pectus Carinatum;Calcinosis/lymph nodes;Calcified Granuloma/multiple;Deformity/thoracic vertebrae/mild;Granulomatous Disease

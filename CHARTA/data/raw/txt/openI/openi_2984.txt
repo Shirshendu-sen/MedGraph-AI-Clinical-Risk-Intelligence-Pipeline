@@ -1,0 +1,16 @@
+UID: 3110
+
+INDICATION:
+XXXX XXXX XXXX with chronic XXXX
+
+FINDINGS:
+Heart size, mediastinal and aortic contours are within normal limits. Normal pulmonary vasculature. The lungs are clear. No visible pneumothorax or large pleural effusion. Elevated right hemidiaphragm. Mild degenerative changes of the spine.
+
+IMPRESSION:
+1. Elevated right hemidiaphragm. 2. No evidence of active disease.
+
+PROBLEMS:
+Diaphragm;Spine
+
+MESH:
+Diaphragm/right/elevated;Spine/degenerative/mild

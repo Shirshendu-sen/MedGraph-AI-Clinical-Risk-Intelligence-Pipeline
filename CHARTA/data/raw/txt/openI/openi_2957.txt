@@ -1,0 +1,16 @@
+UID: 3082
+
+INDICATION:
+XXXX-year-old with dyspnea.
+
+FINDINGS:
+Cardiomegaly. Interstitial opacities consistent with edema in the lower lobes. No pneumothorax. No large pleural effusion.
+
+IMPRESSION:
+Interstitial pulmonary edema.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Pulmonary Edema
+
+MESH:
+Cardiomegaly;Opacity/lung/bilateral/interstitial;Pulmonary Edema/lower lobe/bilateral/interstitial

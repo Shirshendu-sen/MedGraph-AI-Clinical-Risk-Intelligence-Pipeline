@@ -1,0 +1,16 @@
+UID: 302
+
+INDICATION:
+XXXX-year-old male, pain
+
+FINDINGS:
+Heart size within normal limits, stable mediastinal and hilar contours. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. Mild spine curvature again noted.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Scoliosis
+
+MESH:
+Scoliosis/mild

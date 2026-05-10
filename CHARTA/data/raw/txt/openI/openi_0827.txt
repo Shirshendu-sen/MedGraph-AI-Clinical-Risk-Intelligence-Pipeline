@@ -1,0 +1,16 @@
+UID: 855
+
+INDICATION:
+Chest pain and XXXX
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Lung;Pulmonary Emphysema;Density
+
+MESH:
+Lung/hyperdistention;Pulmonary Emphysema/mild;Density/lung/upper lobe/right/round

@@ -1,0 +1,16 @@
+UID: 163
+
+INDICATION:
+,724.5
+
+FINDINGS:
+There are no airspace opacities to suggest pneumonia. There is a vague nodular like opacity in the right midlung measuring 1.2 cm projecting through the posterior 7th and 8th ribs. This may be artifact. Chest fluoroscopy would confirm this. Heart and pulmonary XXXX appear normal. There are calcified subcarinal and right hilar lymph XXXX. The pleural spaces are clear.
+
+IMPRESSION:
+Nodular density noted on recent PA chest radiograph XXXX represents an artifact. No nodules noted within the lungs on a recent outside XXXX from XXXX.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Calcinosis;Calcinosis
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Calcinosis/lung/hilum/lymph nodes/right;Calcinosis/trachea, carina/lymph nodes

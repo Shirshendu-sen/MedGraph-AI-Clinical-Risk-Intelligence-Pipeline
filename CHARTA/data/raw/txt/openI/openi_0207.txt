@@ -1,0 +1,16 @@
+UID: 215
+
+INDICATION:
+XXXX-year-old female with pulmonary regurgitation.
+
+FINDINGS:
+Stable cardiomegaly. XXXX sternotomy XXXX are intact. No pneumothorax or pleural effusion. XXXX calcific density in the left mid to upper lung XXXX represents old granulomatous disease. No focal consolidation. Stable moderate thoracic levoscoliosis and mild thoracolumbar dextroscoliosis.
+
+IMPRESSION:
+1. Stable cardiomegaly with no focal airspace disease. 2. Stable moderate thoracic levoscoliosis and mild thoracolumbar dextroscoliosis. .
+
+PROBLEMS:
+Cardiomegaly;Calcified Granuloma;Calcified Granuloma;Granulomatous Disease;Scoliosis;Scoliosis;Scoliosis
+
+MESH:
+Cardiomegaly;Calcified Granuloma/lung/lingula;Calcified Granuloma/lung/upper lobe/left;Granulomatous Disease;Scoliosis/thoracic vertebrae/left/moderate;Scoliosis/lumbar vertebrae/right/mild;Scoliosis/thoracic vertebrae/right/mild

@@ -1,0 +1,16 @@
+UID: 3069
+
+INDICATION:
+XXXX/XXXX
+
+FINDINGS:
+Right upper lobe airspace disease consistent with pneumonia given patient's history. The lungs are otherwise clear. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour.
+
+IMPRESSION:
+Right upper lobe pneumonia.
+
+PROBLEMS:
+Airspace Disease;Pneumonia
+
+MESH:
+Airspace Disease/lung/upper lobe/right;Pneumonia/upper lobe/right

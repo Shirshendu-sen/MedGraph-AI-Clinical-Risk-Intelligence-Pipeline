@@ -1,0 +1,16 @@
+UID: 3815
+
+INDICATION:
+XXXX and XXXX for about one XXXX, shortness of breath started 4 days ago, some chest pain.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size and mediastinal contour normal. There is mild diffuse interstitial prominence, worse in the right lung base. This has developed in the interval, and may represent atypical pneumonia. More focal right base airspace disease may represent scar given the stability over time. No lobar consolidation or effusion. No pneumothorax.
+
+PROBLEMS:
+Lung;Lung;Airspace Disease
+
+MESH:
+Lung/interstitial/diffuse/prominent/mild;Lung/base/right/interstitial/prominent;Airspace Disease/lung/base/right/focal

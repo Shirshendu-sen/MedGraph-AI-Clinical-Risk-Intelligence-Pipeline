@@ -1,0 +1,16 @@
+UID: 2982
+
+INDICATION:
+XXXX x 2 XXXX; skin cancer
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. XXXX scarring is noted in the lingula. The lungs are clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Cicatrix
+
+MESH:
+Cicatrix/lung/lingula

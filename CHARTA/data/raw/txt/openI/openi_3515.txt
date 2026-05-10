@@ -1,0 +1,16 @@
+UID: 3656
+
+INDICATION:
+XXXX-year-old female with hyperviscosity syndrome, rule out infiltrate
+
+FINDINGS:
+Heart size borderline enlarged. Stable cardiomediastinal silhouette. No pneumothorax or large pleural effusion. No focal airspace disease. Low lung volumes. Nodular densities consistent with chronic granulomatous disease. Bony structures appear intact. Mild degenerative disease of the thoracic spine.
+
+IMPRESSION:
+Negative for acute cardiopulmonary disease.
+
+PROBLEMS:
+Cardiomegaly;Lung;Density;Granulomatous Disease;Thoracic Vertebrae
+
+MESH:
+Cardiomegaly/borderline;Lung/hypoinflation;Density/thorax/round;Granulomatous Disease/chronic;Thoracic Vertebrae/degenerative/mild

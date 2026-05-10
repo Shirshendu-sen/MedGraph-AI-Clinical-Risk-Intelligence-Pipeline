@@ -1,0 +1,16 @@
+UID: 1882
+
+INDICATION:
+XXXX-year-old female with shortness of breath.
+
+FINDINGS:
+Clear lungs bilaterally. Normal cardiac contours. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

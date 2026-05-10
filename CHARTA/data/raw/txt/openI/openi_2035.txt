@@ -1,0 +1,16 @@
+UID: 2113
+
+INDICATION:
+XXXX-year-old male shortness of breath.
+
+FINDINGS:
+The heart size is normal. The mediastinal contour is within normal limits. The lungs are free of any focal infiltrates. Mild lung hyperinflation. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. Degenerative changes seen within the midthoracic spine. There is no visible free intraperitoneal air under the diaphragm.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Lung;Thoracic Vertebrae
+
+MESH:
+Lung/hyperdistention/mild;Thoracic Vertebrae/degenerative

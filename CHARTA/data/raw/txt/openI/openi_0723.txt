@@ -1,0 +1,16 @@
+UID: 744
+
+INDICATION:
+Hodgkin's disease. XXXX for two weeks.
+
+FINDINGS:
+The heart size and pulmonary vascularity appear within normal limits. Left XXXX-a-XXXX is in XXXX. No pleural effusion or pneumothorax is seen. Right upper lobe area of dense opacity is seen in the medial right apex. On a previous outside XXXX scan (XXXX), the right upper lobe was consolidated. Comparison to the XXXX XXXX from that exam shows this opacity to have decreased. No films were available, however, for direct comparison.
+
+IMPRESSION:
+1. Right upper lobe opacity which appears improved as compared to previous XXXX scan.
+
+PROBLEMS:
+Density;Opacity
+
+MESH:
+Density/lung/apex/right;Opacity/lung/apex/right

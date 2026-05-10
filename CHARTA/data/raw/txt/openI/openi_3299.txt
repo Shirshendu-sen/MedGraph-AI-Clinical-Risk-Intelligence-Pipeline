@@ -1,0 +1,16 @@
+UID: 3433
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+Heart size normal. No pneumothorax, pleural effusion, or focal airspace disease. Bony structures intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

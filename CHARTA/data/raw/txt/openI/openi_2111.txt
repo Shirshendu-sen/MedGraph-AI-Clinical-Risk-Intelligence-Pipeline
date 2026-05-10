@@ -1,0 +1,16 @@
+UID: 2190
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Lungs are clear. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the spine. spinal stimulator is in XXXX with tip overlying the T9 vertebral body.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+Spine;Implanted Medical Device
+
+MESH:
+Spine/degenerative;Implanted Medical Device

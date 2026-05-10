@@ -1,0 +1,16 @@
+UID: 1887
+
+INDICATION:
+Complains of intermittent left arm pain
+
+FINDINGS:
+The lungs are clear. There is no pleural effusion or pneumothorax. The heart is not significantly enlarged. There are atherosclerotic changes of the aorta. Scoliosis and arthritic changes of the skeletal structures are noted. There is increased kyphosis of the thoracic spine similar to the prior study
+
+IMPRESSION:
+Senescent changes no acute pulmonary disease.
+
+PROBLEMS:
+Atherosclerosis;Scoliosis;Arthritis;Kyphosis
+
+MESH:
+Atherosclerosis/aorta;Scoliosis;Arthritis;Kyphosis/thoracic vertebrae

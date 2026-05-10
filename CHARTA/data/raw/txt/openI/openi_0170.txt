@@ -1,0 +1,16 @@
+UID: 175
+
+INDICATION:
+Nausea and vomiting
+
+FINDINGS:
+Mild cardiomegaly unchanged. Stable superior mediastinal contour with tortuous aorta. Normal pulmonary vascularity. Unchanged elevated right hemidiaphragm with minimal right base subsegmental atelectasis. Minimal XXXX left basal airspace opacity. Unchanged blunting of the right lateral costophrenic XXXX, scarring versus XXXX effusion. No pneumothorax. No acute osseous findings.
+
+IMPRESSION:
+Minimal XXXX left base atelectasis/infiltrate. Otherwise, stable exam.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Diaphragm;Pulmonary Atelectasis;Opacity;Costophrenic Angle;Infiltrate
+
+MESH:
+Cardiomegaly/mild;Aorta/tortuous;Diaphragm/right/elevated;Pulmonary Atelectasis/base/bilateral/mild;Opacity/lung/base/left/mild;Costophrenic Angle/right/blunted;Infiltrate/lung/base/bilateral/mild

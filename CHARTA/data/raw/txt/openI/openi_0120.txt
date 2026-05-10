@@ -1,0 +1,16 @@
+UID: 122
+
+INDICATION:
+TRANSPLANT/ EKG
+
+FINDINGS:
+None
+
+IMPRESSION:
+No comparison chest x-XXXX. Minimal lingular scarring. Overall, Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Cicatrix
+
+MESH:
+Cicatrix/lung/lingula/mild

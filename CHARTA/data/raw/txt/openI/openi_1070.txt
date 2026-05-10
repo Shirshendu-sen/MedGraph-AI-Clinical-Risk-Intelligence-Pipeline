@@ -1,0 +1,16 @@
+UID: 1105
+
+INDICATION:
+Patient hallucinating. Weakness and confusion.
+
+FINDINGS:
+Mild cardiomegaly. Mediastinal normal width. Pulmonary vasculature within normal limits. The lungs are well-aerated. There is no pneumothorax, pleural effusion, or focal consolidation. XXXX scarring or atelectasis right midlung.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease. 2. XXXX scarring or atelectasis right midlung. 3. Mild cardiomegaly. .
+
+PROBLEMS:
+Cardiomegaly;Cicatrix;Pulmonary Atelectasis
+
+MESH:
+Cardiomegaly/mild;Cicatrix/lung/middle lobe/right;Pulmonary Atelectasis/middle lobe/right

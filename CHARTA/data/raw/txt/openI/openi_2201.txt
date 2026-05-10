@@ -1,0 +1,16 @@
+UID: 2281
+
+INDICATION:
+XXXX infection chest pain. comparisXXXX/XXXX
+
+FINDINGS:
+Heart size and vascularity normal. Lungs are clear. No effusions or pneumothorax.
+
+IMPRESSION:
+Normal chest.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

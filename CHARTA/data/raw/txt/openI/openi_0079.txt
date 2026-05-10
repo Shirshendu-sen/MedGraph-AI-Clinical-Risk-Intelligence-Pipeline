@@ -1,0 +1,16 @@
+UID: 80
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Heart size and mediastinal contour within normal limits. No focal airspace consolidation, pneumothorax, or large pleural effusion. No acute osseous abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

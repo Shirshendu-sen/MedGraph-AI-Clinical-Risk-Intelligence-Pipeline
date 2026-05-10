@@ -1,0 +1,16 @@
+UID: 1863
+
+INDICATION:
+Left-sided chest pain
+
+FINDINGS:
+Heart size is mildly enlarged. Tortuous aorta. Lung volumes are low with central bronchovascular crowding and patchy basilar atelectasis.. Degenerative changes of the spine.
+
+IMPRESSION:
+1. Low volume study without acute process. 2. Mild cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Lung;Markings;Pulmonary Atelectasis;Spine
+
+MESH:
+Cardiomegaly/mild;Aorta/tortuous;Lung/hypoinflation;Markings/bronchovascular;Pulmonary Atelectasis/base/patchy;Spine/degenerative

@@ -1,0 +1,16 @@
+UID: 803
+
+INDICATION:
+XXXX-year-old female with history of asthma and dyspnea on exertion.
+
+FINDINGS:
+There is a left chest wall cardiac XXXX generator with 2 leads, one projecting over the right atrium and one projecting over the right XXXX. The heart is near top normal in size with normal appearance of the cardiomediastinal silhouette. The lungs are clear without focal air space opacity, pleural effusion, or pneumothorax. There are degenerative changes in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+Implanted Medical Device;Thoracic Vertebrae
+
+MESH:
+Implanted Medical Device/right;Thoracic Vertebrae/degenerative

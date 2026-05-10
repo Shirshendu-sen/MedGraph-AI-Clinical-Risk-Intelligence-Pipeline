@@ -1,0 +1,16 @@
+UID: 1809
+
+INDICATION:
+chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and lungs are clear.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

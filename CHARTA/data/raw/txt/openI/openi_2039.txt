@@ -1,0 +1,16 @@
+UID: 2117
+
+INDICATION:
+XXXX-year-old female history of Hodgkin's lymphoma .
+
+FINDINGS:
+Stable appearance of chest with no findings of disease progression. Heart and mediastinum stable configuration. Stable elevation of left hemidiaphragm. Lungs clear of consolidation. No pneumothorax or pleural effusion. Bony thorax intact. Minimal spondylosis of the lower thoracic spine.
+
+IMPRESSION:
+Stable appearance of chest without active process evident and without evidence of progression of disease in patient with history of Hodgkin's lymphoma . If one would like to discuss this case further, please XXXX. XXXX at XXXX. Thanks.
+
+PROBLEMS:
+Diaphragm;Spondylosis
+
+MESH:
+Diaphragm/left/elevated;Spondylosis/thoracic vertebrae/mild

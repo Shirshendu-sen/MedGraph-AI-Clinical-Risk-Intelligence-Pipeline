@@ -1,0 +1,16 @@
+UID: 769
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Clear lungs. No pneumothorax. No pleural effusion. Normal heart. Mild degenerative changes of the thoracic spine without acute bony abnormality. Prominent right epicardial fat XXXX
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Thoracic Vertebrae;Epicardial Fat
+
+MESH:
+Thoracic Vertebrae/degenerative/mild;Epicardial Fat/right/prominent

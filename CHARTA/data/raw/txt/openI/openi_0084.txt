@@ -1,0 +1,16 @@
+UID: 85
+
+INDICATION:
+Status post cardiac catheterization.
+
+FINDINGS:
+There are scattered calcified granulomas. No focal infiltrate. No pleural effusion or pneumothorax. Heart size and mediastinal contour are within normal limits. There are degenerative changes of the spine.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Calcified Granuloma;Spine
+
+MESH:
+Calcified Granuloma/scattered;Spine/degenerative

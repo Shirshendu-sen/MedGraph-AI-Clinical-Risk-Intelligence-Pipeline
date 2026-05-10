@@ -1,0 +1,16 @@
+UID: 3512
+
+INDICATION:
+XXXX.
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. The lungs are clear. Thoracic spondylosis.
+
+IMPRESSION:
+Negative chest x-XXXX. No evidence of pneumonia.
+
+PROBLEMS:
+Spondylosis
+
+MESH:
+Spondylosis/thoracic vertebrae

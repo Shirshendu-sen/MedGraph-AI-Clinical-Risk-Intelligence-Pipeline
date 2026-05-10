@@ -1,0 +1,16 @@
+UID: 3952
+
+INDICATION:
+The patient is a XXXX-year-old female with chest.
+
+FINDINGS:
+Unchanged elevation of the right hemidiaphragm. The trachea is midline. Negative for pneumothorax, pleural effusion or focal airspace consolidation. The heart size is mildly enlarged. Mild degenerative changes throughout the thoracic spine anterior osteophytes noted inferiorly. Pulmonary artery prominence.
+
+IMPRESSION:
+1. Mild cardiomegaly. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Diaphragm;Cardiomegaly;Thoracic Vertebrae;Osteophyte;Pulmonary Artery
+
+MESH:
+Diaphragm/right/elevated;Cardiomegaly/mild;Thoracic Vertebrae/degenerative/mild;Osteophyte/thoracic vertebrae/multiple;Pulmonary Artery/prominent

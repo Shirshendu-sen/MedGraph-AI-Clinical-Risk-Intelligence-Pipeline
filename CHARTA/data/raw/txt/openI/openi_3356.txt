@@ -1,0 +1,16 @@
+UID: 3494
+
+INDICATION:
+XXXX-year-old with shortness of breath. Evaluate for malignancy.
+
+FINDINGS:
+There are low lung volumes with bronchovascular crowding. There is no focal consolidation. No visualized pneumothorax. Heart size is within normal limits. The cardiomediastinal contours is grossly normal in size and contour.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung;Markings
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular

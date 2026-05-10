@@ -1,0 +1,16 @@
+UID: 3128
+
+INDICATION:
+XXXX-year-old male, rule out pneumonia
+
+FINDINGS:
+Calcified left hilar lymph XXXX XXXX from prior granulomatous disease. The cardiomediastinal silhouette is within normal limits for size. Pulmonary vasculature is within normal limits. No focal consolidations, effusions, or pneumothoraces. No acute bony abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcinosis;Granulomatous Disease
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/left;Granulomatous Disease

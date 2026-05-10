@@ -1,0 +1,16 @@
+UID: 3717
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Low lung volumes. XXXX normal heart size. No pneumothorax. No large effusion. No focal infiltrate.
+
+IMPRESSION:
+Low lung volumes, no acute cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

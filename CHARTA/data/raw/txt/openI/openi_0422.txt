@@ -1,0 +1,16 @@
+UID: 436
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Borderline heart size. Calcified aorta. No active pulmonary edema or lobar pneumonia. Probable large retrocardiac hiatal hernia.
+
+PROBLEMS:
+Calcinosis;Hernia, Hiatal;Cardiomegaly
+
+MESH:
+Calcinosis/aorta;Hernia, Hiatal/retrocardiac/large;Cardiomegaly/borderline

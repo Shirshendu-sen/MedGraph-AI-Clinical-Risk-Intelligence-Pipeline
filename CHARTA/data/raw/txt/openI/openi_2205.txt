@@ -1,0 +1,16 @@
+UID: 2286
+
+INDICATION:
+XXXX-year-old male with weakness
+
+FINDINGS:
+Chronic-appearing XXXX opacities are unchanged and represent emphysema. Heart size is normal. No large pleural effusions. No pneumothorax. No focal airspace opacities.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Opacity;Emphysema
+
+MESH:
+Opacity/multiple/chronic;Emphysema

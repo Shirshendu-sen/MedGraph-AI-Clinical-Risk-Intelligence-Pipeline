@@ -1,0 +1,16 @@
+UID: 3621
+
+INDICATION:
+Continued exacerbations
+
+FINDINGS:
+Lung volumes remain low. No infiltrates. Heart and pulmonary XXXX are normal.
+
+IMPRESSION:
+XXXX change. Hypoinflation with no visible active cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

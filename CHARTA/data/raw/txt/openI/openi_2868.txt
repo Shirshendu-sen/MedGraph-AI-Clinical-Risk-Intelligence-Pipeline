@@ -1,0 +1,16 @@
+UID: 2989
+
+INDICATION:
+XXXX.
+
+FINDINGS:
+Mediastinal contours are within normal limits. Heart size is within normal limits. No focal consolidation, pneumothorax or pleural effusion. Cervical fusion XXXX. Degenerative changes of the spine and the acromioclavicular joints.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Spinal Fusion;Spine;Shoulder
+
+MESH:
+Spinal Fusion/cervical vertebrae;Spine/degenerative;Shoulder/bilateral/degenerative

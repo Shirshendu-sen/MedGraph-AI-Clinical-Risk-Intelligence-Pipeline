@@ -1,0 +1,16 @@
+UID: 3926
+
+INDICATION:
+The patient is a XXXX-year-old woman with dyspnea.
+
+FINDINGS:
+The trachea is midline. The heart XXXX is large, unchanged from prior exam. Slightly widened mediastinum, secondary to cardiomegaly and a tortuous aorta, is accentuated by AP portable technique. There are low lung volumes causing bibasilar atelectasis and bronchovascular crowding. The lungs do not demonstrate focal infiltrate or effusion. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities.
+
+IMPRESSION:
+1. Low volume study without acute cardiopulmonary abnormalities. .
+
+PROBLEMS:
+Cardiomegaly;Mediastinum;Aorta;Lung;Pulmonary Atelectasis;Markings
+
+MESH:
+Cardiomegaly;Mediastinum/prominent/mild;Aorta/tortuous;Lung/hypoinflation;Pulmonary Atelectasis/base/bilateral;Markings/bilateral/bronchovascular

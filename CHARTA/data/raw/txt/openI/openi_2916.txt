@@ -1,0 +1,16 @@
+UID: 3040
+
+INDICATION:
+XXXX-year-old complaining of left arm numbness for 2 weeks.
+
+FINDINGS:
+No focal lung consolidation. Heart size and pulmonary vascularity are within normal limits. No pneumothorax or pleural effusion. Minimal degenerative changes of the thoracic spine. There is anterior fusion XXXX at the cervicothoracic junction.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+Thoracic Vertebrae;Spinal Fusion;Spinal Fusion
+
+MESH:
+Thoracic Vertebrae/degenerative/mild;Spinal Fusion/cervical vertebrae/anterior;Spinal Fusion/thoracic vertebrae/anterior

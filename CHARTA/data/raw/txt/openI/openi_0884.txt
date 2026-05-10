@@ -1,0 +1,16 @@
+UID: 916
+
+INDICATION:
+cp htn
+
+FINDINGS:
+Lungs are clear without focal airspace disease. Numerous XXXX calcifications are again noted. No pleural effusions or pneumothoraces. heart size is upper limits of normal.
+
+IMPRESSION:
+Clear lungs with heart size upper limits of normal.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis

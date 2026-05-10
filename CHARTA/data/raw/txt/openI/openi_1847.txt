@@ -1,0 +1,16 @@
+UID: 1910
+
+INDICATION:
+History of CHF
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Mildly tortuous aorta. No overt edema. No focal consolidation, no pneumothorax. No significant pleural effusion, though the extreme posterior right sulcus is excluded on the lateral image.
+
+PROBLEMS:
+Aorta;Sulcus
+
+MESH:
+Aorta/tortuous/mild;Sulcus/right/posterior/obscured

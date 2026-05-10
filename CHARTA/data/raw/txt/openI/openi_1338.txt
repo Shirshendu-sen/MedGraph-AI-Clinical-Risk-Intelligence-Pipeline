@@ -1,0 +1,16 @@
+UID: 1386
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+The cardiac silhouette and upper mediastinum are within normal limits. There is no pulmonary venous congestion. There is prominence of the pulmonary arteries, right greater than left. There is no acute air space infiltrate, pleural effusion or pneumothorax.
+
+IMPRESSION:
+1. No acute pulmonary infiltrate or effusion. There is no pneumothorax. 2. Prominent bilateral XXXX, right greater than left. This appears slightly increased from the prior studies. Findings could be related to hilar lymph XXXX or enlarged pulmonary arteries. If clinically indicated, further evaluation with contrast-enhanced CT of the thorax could be performed.
+
+PROBLEMS:
+Pulmonary Artery
+
+MESH:
+Pulmonary Artery/bilateral/prominent

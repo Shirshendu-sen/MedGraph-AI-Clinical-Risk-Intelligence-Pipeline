@@ -1,0 +1,16 @@
+UID: 50
+
+INDICATION:
+pt with sob,
+
+FINDINGS:
+A XXXX XXXX lung volumes. Lungs are clear without focal airspace disease. No pleural effusions or pneumothoraces. cardiomegaly. Degenerative changes in the spine.
+
+IMPRESSION:
+Cardiomegaly with low lung volumes which are grossly clear.
+
+PROBLEMS:
+Cardiomegaly;Spine;Lung
+
+MESH:
+Cardiomegaly;Spine/degenerative;Lung/hypoinflation

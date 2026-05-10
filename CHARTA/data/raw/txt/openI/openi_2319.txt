@@ -1,0 +1,16 @@
+UID: 2403
+
+INDICATION:
+XXXX-year-old male with XXXX loss and XXXX.
+
+FINDINGS:
+The heart size and mediastinal silhouette are within normal limits for contour. The lungs are clear. No pneumothorax or pleural effusions. The XXXX are intact. Stable left basilar atelectasis versus scarring.
+
+IMPRESSION:
+Stable left basilar atelectasis versus scarring. No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Pulmonary Atelectasis;Cicatrix
+
+MESH:
+Pulmonary Atelectasis/base/left;Cicatrix/lung/base/left

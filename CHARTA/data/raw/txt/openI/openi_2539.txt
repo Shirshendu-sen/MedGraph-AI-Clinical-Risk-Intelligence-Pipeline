@@ -1,0 +1,16 @@
+UID: 2633
+
+INDICATION:
+XXXX-year-old female, XXXX. Screening exam.
+
+FINDINGS:
+Heart size is normal. Prior calcified granulomatous disease. On the lateral view in the anterior costophrenic XXXX, there is a 2.1 x 2 cm nodular density which seems to be present previously but is more nodular in appearance on this examination. No pleural effusion or pneumothorax. Endplate degenerative changes of the thoracolumbar spine and mild scoliosis are unchanged.
+
+IMPRESSION:
+2.1 cm nodular density in the anterior costophrenic XXXX on the lateral view, which could represent overlapping shadows or actual pulmonary nodule. Recommend followup with chest CT.
+
+PROBLEMS:
+Granulomatous Disease;Density;Thoracic Vertebrae;Lumbar Vertebrae;Scoliosis
+
+MESH:
+Granulomatous Disease;Density/costophrenic angle/anterior/round;Thoracic Vertebrae/degenerative;Lumbar Vertebrae/degenerative;Scoliosis/mild

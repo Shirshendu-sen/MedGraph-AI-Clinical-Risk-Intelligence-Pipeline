@@ -1,0 +1,16 @@
+UID: 1792
+
+INDICATION:
+XXXX-year-old female with C-section 5 days ago, XXXX
+
+FINDINGS:
+The heart size and mediastinal contours appear within normal limits. There are streaky left basilar opacities and blunting of the left costophrenic sulcus XXXX secondary to a small effusion. No pneumothorax. No acute bony abnormalities.
+
+IMPRESSION:
+Small left pleural effusion with left basilar atelectasis.
+
+PROBLEMS:
+Opacity;Costophrenic Angle;Pleural Effusion;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/base/left/streaky;Costophrenic Angle/sulcus/left/blunted;Pleural Effusion/left/small;Pulmonary Atelectasis/base/left

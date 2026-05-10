@@ -1,0 +1,16 @@
+UID: 3208
+
+INDICATION:
+XXXX-year-old female with chest pain
+
+FINDINGS:
+The lungs are clear. There is no focal airspace consolidation. No pleural effusion or pneumothorax. Normal heart size and mediastinal contour.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 3679
+
+INDICATION:
+XXXX-year-old chest pain.
+
+FINDINGS:
+Normal heart. Clear lungs. No pneumothorax. No pleural effusion.
+
+IMPRESSION:
+Normal chest exam.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

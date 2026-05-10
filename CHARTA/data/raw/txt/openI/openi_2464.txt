@@ -1,0 +1,16 @@
+UID: 2554
+
+INDICATION:
+XXXX-year-old woman with chest pain and dyspnea.
+
+FINDINGS:
+This is a stable normal cardiomediastinal silhouette. The lungs are mildly hyperexpanded. Some blunting of the left costophrenic XXXX XXXX represent scarring or atelectasis. No large pneumothorax or effusion. There are no acute osseous abnormalities.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Lung;Costophrenic Angle;Pulmonary Atelectasis;Cicatrix
+
+MESH:
+Lung/hyperdistention/mild;Costophrenic Angle/left/blunted;Pulmonary Atelectasis/left;Cicatrix/lung/left

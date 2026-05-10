@@ -1,0 +1,16 @@
+UID: 786
+
+INDICATION:
+EVALUATE FOR METASTATIC DISEASE;Pt to have surgery for cancer on face/eye.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Small calcified granulomas in in right upper lobe and left lower lobe. No suspicious appearing lung nodules seen. No acute airspace disease, effusions, or CHF.
+
+PROBLEMS:
+Calcified Granuloma;Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/upper lobe/right/small;Calcified Granuloma/lung/lower lobe/left/small

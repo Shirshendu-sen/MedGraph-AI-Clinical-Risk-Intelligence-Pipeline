@@ -1,0 +1,16 @@
+UID: 2398
+
+INDICATION:
+DYSPNEA; Shortness of breath for 4 weeks. Bilateral leg XXXX for one XXXX. Patient on 2 liters of oxygen at home.
+
+FINDINGS:
+Patient is rotated. Mild cardiomegaly. Low lung volumes with elevated hemidiaphragms, greater on the right. This is identified on a thoracic XXXX study from XXXX as well. No pneumothorax. No large pleural effusion. No focal infiltrate.
+
+IMPRESSION:
+Cardiomegaly with elevated right hemidiaphragms and no acute findings.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Cardiomegaly;Lung;Diaphragm
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Cardiomegaly/mild;Lung/hypoinflation;Diaphragm/bilateral/elevated

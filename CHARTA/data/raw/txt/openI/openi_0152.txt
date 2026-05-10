@@ -1,0 +1,16 @@
+UID: 157
+
+INDICATION:
+XXXX XXXX edema and lung XXXX
+
+FINDINGS:
+In the interval, bibasilar interstitial infiltrates and pulmonary venous engorgement have resolved. Heart size is now normal. No XXXX infiltrates.
+
+IMPRESSION:
+Chest. Resolving pulmonary interstitial edema and pulmonary venous hypertension.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

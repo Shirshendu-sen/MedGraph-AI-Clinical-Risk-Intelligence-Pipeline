@@ -1,0 +1,16 @@
+UID: 3840
+
+INDICATION:
+XXXX-year-old woman with tachycardia
+
+FINDINGS:
+No acute osseous abnormality. Degenerative changes throughout the thoracic spine. Soft tissue structures are within normal limits. There is stable enlargement of the heart. Stable prominent mediastinal contours. Central vascular congestion. Mildly low lung volumes bilaterally. Bibasilar and left perihilar airspace opacities. XXXX bilateral pleural effusions. No pneumothorax.
+
+IMPRESSION:
+1. Bilateral airspace disease. 2. Stable enlarged heart and prominent mediastinal contours.
+
+PROBLEMS:
+Thoracic Vertebrae;Cardiomegaly;Mediastinum;Pulmonary Congestion;Lung;Opacity;Opacity;Pleural Effusion;Airspace Disease
+
+MESH:
+Thoracic Vertebrae/degenerative;Cardiomegaly;Mediastinum/prominent;Pulmonary Congestion;Lung/bilateral/hypoinflation/mild;Opacity/lung/base/bilateral;Opacity/lung/hilum/left;Pleural Effusion/bilateral;Airspace Disease/lung/bilateral

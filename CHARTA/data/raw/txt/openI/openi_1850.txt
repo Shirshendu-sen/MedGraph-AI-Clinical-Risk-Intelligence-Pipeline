@@ -1,0 +1,16 @@
+UID: 1913
+
+INDICATION:
+XXXX-year-old male with chest pain dyspnea.
+
+FINDINGS:
+The heart size and cardiopulmonary silhouette is normal. There is no focal airspace opacity, pleural effusion, or pneumothorax. The obstruction are intact with mild degenerative change in the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary finding.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

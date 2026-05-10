@@ -1,0 +1,16 @@
+UID: 126
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+Vague increased opacity which appears to be within the left lower lobe. Question of this could be developing or resolving pneumonia. Lungs are otherwise clear. No pleural effusions or pneumothoraces. heart and mediastinum are stable normal size heart. Atherosclerotic vascular disease. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+Vague opacity at the left lung base which appears to be within the left lower lobe. This may represent resolving or developing pneumonia given the patient's history.
+
+PROBLEMS:
+Opacity;Atherosclerosis;Thoracic Vertebrae
+
+MESH:
+Opacity/lung/base/left;Atherosclerosis;Thoracic Vertebrae/degenerative

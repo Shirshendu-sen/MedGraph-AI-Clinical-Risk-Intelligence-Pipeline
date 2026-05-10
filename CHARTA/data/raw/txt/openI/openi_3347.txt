@@ -1,0 +1,16 @@
+UID: 3485
+
+INDICATION:
+Chronic airway obstruction.
+
+FINDINGS:
+The heart size and pulmonary vascular appear within normal limits. The lungs appear hyperexpanded consistent with emphysema. Calcified lymph XXXX and granuloma are noted. No acute appearing focal airspace disease is seen. No pleural effusion or pneumothorax is noted.
+
+IMPRESSION:
+1. Hyperexpanded lungs consistent with emphysema. No evidence of active disease.
+
+PROBLEMS:
+Lung;Pulmonary Emphysema;Calcinosis;Calcified Granuloma
+
+MESH:
+Lung/hyperdistention;Pulmonary Emphysema;Calcinosis/lymph nodes;Calcified Granuloma

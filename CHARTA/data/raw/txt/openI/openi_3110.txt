@@ -1,0 +1,16 @@
+UID: 3237
+
+INDICATION:
+XXXX, XXXX pain.
+
+FINDINGS:
+Heart size is enlarged, pulmonary vascularity within normal limits. Cardiac defibrillator generator projects over the left mid lateral lung. No visible pneumothorax or pleural effusion. Minimal streaky airspace opacities in the lower lobes.
+
+IMPRESSION:
+1. Cardiomegaly without pulmonary edema. 2. Minimal bibasilar opacities which may reflect atelectasis or infiltrate.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Implanted Medical Device
+
+MESH:
+Cardiomegaly;Opacity/lung/base/bilateral/streaky/mild;Implanted Medical Device

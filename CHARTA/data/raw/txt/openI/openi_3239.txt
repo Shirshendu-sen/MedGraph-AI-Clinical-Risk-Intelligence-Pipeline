@@ -1,0 +1,16 @@
+UID: 3371
+
+INDICATION:
+XXXX-year-old XXXX with chest pain.
+
+FINDINGS:
+Heart size within normal limits. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax. Calcified right hilar lymph XXXX noted.
+
+IMPRESSION:
+No acute abnormality.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/right

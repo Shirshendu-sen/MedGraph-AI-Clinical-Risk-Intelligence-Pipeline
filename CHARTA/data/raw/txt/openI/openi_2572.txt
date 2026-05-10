@@ -1,0 +1,16 @@
+UID: 2667
+
+INDICATION:
+XXXX-year-old male with XXXX, XXXX, and XXXX.
+
+FINDINGS:
+Heart size normal. No focal airspace disease. No pneumothorax or effusions. No bony abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

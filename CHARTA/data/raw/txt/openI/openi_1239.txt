@@ -1,0 +1,16 @@
+UID: 1284
+
+INDICATION:
+OTHER;
+
+FINDINGS:
+Left-sided dual-XXXX cardiac XXXX in stable position. The heart is of normal size. Interval decrease and left basilar opacity. Increase in XXXX opacities in the right lung base. No pneumothorax or large effusion. The pulmonary vascularity is unremarkable. Calcification of the thoracic aorta.
+
+IMPRESSION:
+1. Cardiac XXXX in stable position. 2. Increase in right and decrease in left basilar atelectasis.
+
+PROBLEMS:
+Implanted Medical Device;Opacity;Calcinosis;Pulmonary Atelectasis
+
+MESH:
+Implanted Medical Device/left;Opacity/lung/base/bilateral;Calcinosis/aorta, thoracic;Pulmonary Atelectasis/base/bilateral

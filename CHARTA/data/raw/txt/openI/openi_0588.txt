@@ -1,0 +1,16 @@
+UID: 606
+
+INDICATION:
+XXXX-year-old male with chest pain.
+
+FINDINGS:
+XXXX sternotomy XXXX are in XXXX and intact. Normal cardiomediastinal silhouette. The bilateral costophrenic XXXX are excluded from the image on the PA view. Lungs are clear without focal areas of consolidation, pleural effusion, or pneumothorax. XXXX XXXX are intact without acute osseous abnormality. Mild degenerative changes throughout the thoracic spine.
+
+IMPRESSION:
+Chest radiograph. 1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Costophrenic Angle;Thoracic Vertebrae
+
+MESH:
+Costophrenic Angle/bilateral/obscured;Thoracic Vertebrae/degenerative/mild

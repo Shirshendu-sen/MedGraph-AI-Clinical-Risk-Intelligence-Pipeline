@@ -1,0 +1,16 @@
+UID: 1769
+
+INDICATION:
+Patient with dyspnea and XXXX
+
+FINDINGS:
+Consolidation and some atelectasis are present in the left lower lobe. Patchy interstitial infiltrates are also present in the right lower lobe. Bilateral costophrenic XXXX blunting is present. Heart and pulmonary XXXX are normal.
+
+IMPRESSION:
+Bibasilar airspace disease, left worse right. Bilateral pleural fluid.
+
+PROBLEMS:
+Consolidation;Pulmonary Atelectasis;Infiltrate;Costophrenic Angle;Airspace Disease;Pleural Effusion
+
+MESH:
+Consolidation/lung/lower lobe/left;Pulmonary Atelectasis/lower lobe/left;Infiltrate/lung/lower lobe/right/interstitial/patchy;Costophrenic Angle/bilateral/blunted;Airspace Disease/lung/base/bilateral;Pleural Effusion/bilateral

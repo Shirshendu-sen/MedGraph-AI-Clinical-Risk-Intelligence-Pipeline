@@ -1,0 +1,16 @@
+UID: 1709
+
+INDICATION:
+Syncope, loss of consciousness on XXXX XXXX.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. There is minimal XXXX opacity in the lung bases. The lungs are otherwise grossly clear. There are no acute bony findings.
+
+IMPRESSION:
+No acute cardiopulmonary findings. .
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/base/bilateral/mild

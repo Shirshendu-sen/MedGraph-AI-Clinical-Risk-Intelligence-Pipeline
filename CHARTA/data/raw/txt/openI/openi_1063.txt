@@ -1,0 +1,16 @@
+UID: 1098
+
+INDICATION:
+Feet XXXX.
+
+FINDINGS:
+The lungs are hyperinflated with coarse interstitial markings compatible with obstructive pulmonary disease and emphysema. There is chronic pleural-parenchymal scarring within the lung bases. No lobar consolidation is seen. No pleural effusion or pneumothorax. Heart size is normal.
+
+IMPRESSION:
+Emphysema.
+
+PROBLEMS:
+Lung;Markings;Emphysema;Pulmonary Disease, Chronic Obstructive;Cicatrix
+
+MESH:
+Lung/hyperdistention;Markings/lung/interstitial;Emphysema;Pulmonary Disease, Chronic Obstructive;Cicatrix/pleura/base/bilateral/chronic

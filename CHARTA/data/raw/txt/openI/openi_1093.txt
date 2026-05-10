@@ -1,0 +1,16 @@
+UID: 1129
+
+INDICATION:
+XXXX, XXXX, left rib XXXX pain.
+
+FINDINGS:
+There is mild cardiomegaly. Pulmonary vasculature is normal in caliber. There are mild XXXX opacities bilaterally, favoring scar or atelectasis. The lungs are otherwise clear. There is no pneumothorax or pleural effusion. No acute, displaced rib fractures are demonstrated. Visualized vertebral body XXXX are grossly intact.
+
+IMPRESSION:
+1. Mild cardiomegaly. 2. No acute cardiopulmonary findings. Specifically, no displaced rib fractures demonstrated. .
+
+PROBLEMS:
+Cardiomegaly;Opacity
+
+MESH:
+Cardiomegaly/mild;Opacity/lung/bilateral/mild

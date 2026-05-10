@@ -1,0 +1,16 @@
+UID: 2557
+
+INDICATION:
+XXXX-year-old, syncope
+
+FINDINGS:
+None
+
+IMPRESSION:
+Mild cardiomegaly. No overt edema. Lateral image is degraded by motion but there suggestion of minimal bibasilar airspace disease/atelectasis. No appreciable pleural effusion or pneumothorax.
+
+PROBLEMS:
+Cardiomegaly;Technical Quality of Image Unsatisfactory 
+
+MESH:
+Cardiomegaly/mild;Technical Quality of Image Unsatisfactory

@@ -1,0 +1,16 @@
+UID: 2507
+
+INDICATION:
+XXXX .
+
+FINDINGS:
+There is bibasilar airspace disease. Cardiac silhouette is within normal limits and stable. There is blunting of the right costophrenic XXXX unchanged XXXX scarring. No pneumothorax.
+
+IMPRESSION:
+Bibasilar airspace disease.
+
+PROBLEMS:
+Airspace Disease;Costophrenic Angle;Cicatrix
+
+MESH:
+Airspace Disease/lung/base/bilateral;Costophrenic Angle/right/blunted;Cicatrix/lung/right

@@ -1,0 +1,16 @@
+UID: 1905
+
+INDICATION:
+Routine medical exam
+
+FINDINGS:
+Enlarged cardiac contour, stable. Calcified vasculature. Sequelae of prior granulomatous disease. No confluent consolidation, pleural effusion, or overt pulmonary edema. Mild thoracic spondylosis.
+
+IMPRESSION:
+No acute findings. Stable cardiac enlargement.
+
+PROBLEMS:
+Cardiac Shadow;Calcinosis;Granulomatous Disease;Spondylosis
+
+MESH:
+Cardiac Shadow/enlarged;Calcinosis/blood vessels;Granulomatous Disease;Spondylosis/thoracic vertebrae/mild

@@ -1,0 +1,16 @@
+UID: 706
+
+INDICATION:
+XXXX-year-old male, CVA symptoms
+
+FINDINGS:
+Stable cardiomediastinal silhouette with normal heart size and aortic ectasia/tortuosity. No focal alveolar consolidation, no definite pleural effusion seen. Mild bronchovascular crowding without typical findings of pulmonary edema. Distal clavicle shortening also present on the previous exam, possibly posttraumatic or postsurgical.
+
+IMPRESSION:
+No acute findings
+
+PROBLEMS:
+Aorta;Markings;Deformity
+
+MESH:
+Aorta/tortuous;Markings/bronchovascular/mild;Deformity/clavicle

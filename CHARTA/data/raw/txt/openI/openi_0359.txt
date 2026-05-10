@@ -1,0 +1,16 @@
+UID: 372
+
+INDICATION:
+XXXX-year-old male with chest pain. History of cancer.
+
+FINDINGS:
+Left retrocardiac airspace disease with blunted posterior costophrenic XXXX on lateral view suggesting small pleural effusion. Normal heart size. Right PICC is unchanged with tip at the caval atrial junction.
+
+IMPRESSION:
+Left retrocardiac airspace disease could reflect atelectasis and possible scarring. Small left pleural effusion.
+
+PROBLEMS:
+Airspace Disease;Costophrenic Angle;Catheters, Indwelling;Pleural Effusion
+
+MESH:
+Airspace Disease/lung/left/retrocardiac;Costophrenic Angle/posterior/blunted;Catheters, Indwelling/right;Pleural Effusion/left/small

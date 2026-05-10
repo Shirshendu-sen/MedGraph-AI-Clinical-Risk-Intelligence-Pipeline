@@ -1,0 +1,16 @@
+UID: 3744
+
+INDICATION:
+CHEST XXXX XXXX reads screening- bacterial dis, pt does not XXXX XXXX, unable to obtain history
+
+FINDINGS:
+None
+
+IMPRESSION:
+Normal heart size. Normal pulmonary vasculature. Normal mediastinal contours. Lung parenchyma is clear. No airspace disease. No pulmonary edema. No XXXX of pleural effusions. No XXXX of active cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

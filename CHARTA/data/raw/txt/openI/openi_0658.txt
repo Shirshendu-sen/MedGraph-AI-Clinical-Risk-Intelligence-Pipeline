@@ -1,0 +1,16 @@
+UID: 677
+
+INDICATION:
+Strep viridans bacteremia. Known neutropenia, XXXX and leukemia. Right upper quadrant pain
+
+FINDINGS:
+PICC line catheter tip XXXX in the right atrium. Heart is not enlarged. Trachea and XXXX bronchi appear normal. Lungs are mildly under expanded. No pneumothorax. There are small areas of patchy density in the left lower lung XXXX. There is a larger area of XXXX patchy density in the right mid and lower lungs with right-sided pleural effusion.
+
+IMPRESSION:
+In view of the history findings are strongly suggestive of XXXX acute pneumonia with right-sided pleural effusion.
+
+PROBLEMS:
+Catheters, Indwelling;Lung;Density;Density;Density;Pleural Effusion;Pneumonia
+
+MESH:
+Catheters, Indwelling/right;Lung/hypoinflation/mild;Density/lung/lower lobe/left/patchy/small;Density/lung/lower lobe/right/patchy;Density/lung/middle lobe/right/patchy;Pleural Effusion/right;Pneumonia

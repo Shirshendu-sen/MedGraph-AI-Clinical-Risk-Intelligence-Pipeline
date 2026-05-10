@@ -1,0 +1,16 @@
+UID: 3964
+
+INDICATION:
+60XXXX XXXX with XXXX and XXXX loss
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are hyperinflated compatible with emphysema. There is biapical scarring. No acute infiltrate is seen.
+
+IMPRESSION:
+Emphysema without acute disease.
+
+PROBLEMS:
+Lung;Pulmonary Emphysema;Cicatrix
+
+MESH:
+Lung/hyperdistention;Pulmonary Emphysema;Cicatrix/lung/apex/bilateral

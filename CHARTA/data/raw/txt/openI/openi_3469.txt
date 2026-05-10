@@ -1,0 +1,16 @@
+UID: 3609
+
+INDICATION:
+XXXX-year-old male with history of mitral valve XXXX
+
+FINDINGS:
+There is borderline cardiomegaly. Mediastinum and pulmonary vasculature are unremarkable. Lungs are clear. No pleural fluid or pneumothorax is appreciated.
+
+IMPRESSION:
+Borderline cardiomegaly. Otherwise unremarkable exam.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/borderline

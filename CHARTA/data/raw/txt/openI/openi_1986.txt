@@ -1,0 +1,16 @@
+UID: 2059
+
+INDICATION:
+XXXX-year-old female, XXXX, XXXX, chest pain.
+
+FINDINGS:
+Right lower lobe patchy opacities noted. Heart size within normal limits. No pleural effusions. No evidence of pneumothorax. Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+Patchy right lower lobe opacities, XXXX infectious infiltrate.
+
+PROBLEMS:
+Opacity;Thoracic Vertebrae;Infiltrate
+
+MESH:
+Opacity/lung/lower lobe/right/patchy;Thoracic Vertebrae/degenerative/mild;Infiltrate/lung/lower lobe/right

@@ -1,0 +1,16 @@
+UID: 1889
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Stable cardiomediastinal silhouette. Elevated right hemidiaphragm. XXXX atelectasis in the right lung base. No focal pulmonary consolidation, pleural effusion or pneumothorax. No acute bony abnormality. Degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. XXXX atelectasis in the right lung base. Elevated right hemidiaphragm. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Diaphragm;Pulmonary Atelectasis;Thoracic Vertebrae
+
+MESH:
+Diaphragm/right/elevated;Pulmonary Atelectasis/base/right;Thoracic Vertebrae/degenerative

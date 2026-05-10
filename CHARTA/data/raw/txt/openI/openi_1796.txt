@@ -1,0 +1,16 @@
+UID: 1855
+
+INDICATION:
+XXXX-year-old male with pneumonia.
+
+FINDINGS:
+Heart size within normal limits. There is focal left lateral base airspace disease. There is a 6 mm nodular opacity in the right midlung. No pneumothorax. No pleural effusion. No displaced rib fractures. There is an apparent deformity of the right humeral surgical neck. This is not seen on the comparison. Correlate clinically with history of fracture.
+
+IMPRESSION:
+Left base airspace disease and nodular opacity in the right midlung.
+
+PROBLEMS:
+Airspace Disease;Opacity;Deformity
+
+MESH:
+Airspace Disease/lung/base/left/focal;Opacity/lung/middle lobe/right/round;Deformity/humerus/right

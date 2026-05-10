@@ -1,0 +1,16 @@
+UID: 1675
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+Lung volumes remain low. No infiltrates. Heart and pulmonary XXXX remain normal.
+
+IMPRESSION:
+XXXX change. Hypoinflation with no visible active cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

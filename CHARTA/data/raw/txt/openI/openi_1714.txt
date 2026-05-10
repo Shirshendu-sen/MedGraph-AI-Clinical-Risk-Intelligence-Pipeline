@@ -1,0 +1,16 @@
+UID: 1773
+
+INDICATION:
+PDA
+
+FINDINGS:
+None
+
+IMPRESSION:
+Presumed closure device at the level of the ligamentum arteriosum. Normal cardiac silhouette and clear lungs, with no evidence of left-to-right shunt.
+
+PROBLEMS:
+Implanted Medical Device
+
+MESH:
+Implanted Medical Device/pulmonary artery

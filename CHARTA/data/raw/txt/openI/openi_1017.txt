@@ -1,0 +1,16 @@
+UID: 1050
+
+INDICATION:
+XXXX-year-old male with complaints of XXXX and headache
+
+FINDINGS:
+Technically limited study secondary to patient XXXX. Decreased lung volumes with associated bronchopulmonary crowding without evidence of focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Visualized osseous structures appear intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. Mild nonspecific prominence of mediastinum, consider repeat CXR XXXX if any concern for vascular process.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Lung;Markings;Mediastinum
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Lung/hypoinflation;Markings/bronchovascular;Mediastinum/prominent/mild

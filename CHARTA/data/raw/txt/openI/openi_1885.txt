@@ -1,0 +1,16 @@
+UID: 1949
+
+INDICATION:
+CHRONIC BRONCHITIS WITH ACUTE ACACERBATI chronic bronchitis with acute exacerbation
+
+FINDINGS:
+None
+
+IMPRESSION:
+There are chronic changes in both lungs with appearance of emphysema. No acute airspace disease. No pulmonary edema. No XXXX of pleural effusions. Findings are grossly unchanged compared with prior chest CT from XXXX.
+
+PROBLEMS:
+Pulmonary Emphysema
+
+MESH:
+Pulmonary Emphysema

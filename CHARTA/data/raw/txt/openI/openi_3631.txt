@@ -1,0 +1,16 @@
+UID: 3774
+
+INDICATION:
+XXXX-year-old XXXX with chest pain.
+
+FINDINGS:
+Heart size is within normal limits. Tortuous aorta. Clear lungs. No pneumothorax. No pleural effusion. Atherosclerotic calcification within the aorta. Right lower lung granuloma.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Aorta;Atherosclerosis;Granuloma
+
+MESH:
+Aorta/tortuous;Atherosclerosis/aorta;Granuloma/lung/lower lobe/right

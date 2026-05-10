@@ -1,0 +1,16 @@
+UID: 264
+
+INDICATION:
+Productive XXXX
+
+FINDINGS:
+Heart XXXX, mediastinum, XXXX, bony structures and lung XXXX are unremarkable. No significant interval change compared to prior study, no XXXX infiltrates noted.
+
+IMPRESSION:
+No radiographic evidence of acute cardiopulmonary disease
+
+PROBLEMS:
+normal
+
+MESH:
+normal

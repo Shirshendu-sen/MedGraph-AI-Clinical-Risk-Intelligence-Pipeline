@@ -1,0 +1,16 @@
+UID: 3833
+
+INDICATION:
+XXXX-year-old male with possible aspiration..
+
+FINDINGS:
+No focal consolidation, pneumothorax, or large pleural effusion identified. Stable blunting of the right costophrenic XXXX XXXX due to pleural thickening/sclerosis. Redemonstration and stable appearance of bilateral calcified granulomas/lymph XXXX. Changes in the lungs consistent with COPD/emphysema. Cardiomediastinal silhouette stable and unremarkable. No acute osseous abnormalities identified. Opacity in the left apex consistent with radiation change seen on prior CT.
+
+IMPRESSION:
+1. No acute cardiopulmonary process identified. Specifically, no radiographic evidence of aspiration. 2. Stable emphysematous changes, right costophrenic XXXX pleural thickening, and bilateral calcified granulomas/lymph XXXX.
+
+PROBLEMS:
+Costophrenic Angle;Thickening;Sclerosis;Calcified Granuloma;Calcinosis;Pulmonary Disease, Chronic Obstructive;Pulmonary Emphysema;Opacity
+
+MESH:
+Costophrenic Angle/right/blunted;Thickening/pleura/right;Sclerosis/pleura/right;Calcified Granuloma/lung/bilateral/multiple;Calcinosis/lung/lymph nodes/bilateral/multiple;Pulmonary Disease, Chronic Obstructive;Pulmonary Emphysema;Opacity/lung/apex/left

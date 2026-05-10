@@ -1,0 +1,16 @@
+UID: 954
+
+INDICATION:
+XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Hyperinflated appearing lungs as before with some stable slightly prominent appearing interstitial markings most XXXX representing mild chronic inflammatory change. Stable biapical chronic inflammatory change with pleural thickening. No acute airspace disease, effusions, or CHF. Stable mediastinal contour. No XXXX acute abnormalities since the previous chest radiograph.
+
+PROBLEMS:
+Lung;Markings;Thickening
+
+MESH:
+Lung/hyperdistention;Markings/lung/interstitial/prominent/mild;Thickening/pleura/apex/bilateral/chronic

@@ -1,0 +1,16 @@
+UID: 333
+
+INDICATION:
+Productive XXXX
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Lungs are mildly hyperexpanded. Heart size and pulmonary vascularity within normal limits.
+
+IMPRESSION:
+1. No acute pulmonary abnormality.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention/mild

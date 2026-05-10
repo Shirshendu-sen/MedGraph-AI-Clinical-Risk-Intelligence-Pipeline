@@ -1,0 +1,16 @@
+UID: 394
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+There is a large airspace opacity in the right lower and middle lobes. There is no pneumothorax. Heart size is normal. Soft tissue and bony structures unremarkable.
+
+IMPRESSION:
+Multilobar airspace consolidation.
+
+PROBLEMS:
+Opacity;Opacity;Consolidation
+
+MESH:
+Opacity/lung/lower lobe/right/large;Opacity/lung/middle lobe/right/large;Consolidation/lung/multilobar

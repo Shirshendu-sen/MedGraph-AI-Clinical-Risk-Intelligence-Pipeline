@@ -1,0 +1,16 @@
+UID: 3365
+
+INDICATION:
+XXXX-year-old male with chest pain
+
+FINDINGS:
+No large pleural effusions. No pneumothorax. No focal airspace opacities. Heart size is normal.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

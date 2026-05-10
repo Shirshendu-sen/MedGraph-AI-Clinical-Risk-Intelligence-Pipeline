@@ -1,0 +1,16 @@
+UID: 397
+
+INDICATION:
+Prostate cancer
+
+FINDINGS:
+There is a XXXX 7 XXXX nodular density at the left lung base. Lungs are otherwise clear. The CT scan without IV contrast could be performed for further evaluation. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the thoracic spine.
+
+IMPRESSION:
+XXXX 7 XXXX nodular density at the left costophrenic XXXX. Recommend CT scan for further evaluation.
+
+PROBLEMS:
+Density;Thoracic Vertebrae;Density
+
+MESH:
+Density/lung/base/left/round;Thoracic Vertebrae/degenerative;Density/costophrenic angle/left/round

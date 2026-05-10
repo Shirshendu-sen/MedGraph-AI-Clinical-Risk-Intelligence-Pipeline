@@ -1,0 +1,16 @@
+UID: 1623
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Normal cardiomediastinal contours. No pneumothorax, pleural effusions or focal lung consolidation.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

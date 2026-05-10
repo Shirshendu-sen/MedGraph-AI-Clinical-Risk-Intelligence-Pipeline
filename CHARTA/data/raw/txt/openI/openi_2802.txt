@@ -1,0 +1,16 @@
+UID: 2921
+
+INDICATION:
+h/o dyspnea
+
+FINDINGS:
+Minimal left costophrenic XXXX airspace disease and/or pleural effusion. Lungs are otherwise clear. No pneumothorax. Heart and mediastinum are stable with normal sized heart. There is tortuosity and ectasia of the aorta. Degenerative changes in the spine.
+
+IMPRESSION:
+Minimal left costophrenic XXXX airspace disease and/or pleural effusion.
+
+PROBLEMS:
+Airspace Disease;Pleural Effusion;Aorta;Spine
+
+MESH:
+Airspace Disease/lung/costophrenic angle/left/mild;Pleural Effusion/costophrenic angle/left/mild;Aorta/tortuous;Spine/degenerative

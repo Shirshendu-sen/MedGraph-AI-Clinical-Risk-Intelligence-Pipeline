@@ -1,0 +1,16 @@
+UID: 1087
+
+INDICATION:
+XXXX XXXX and flulike symptoms.
+
+FINDINGS:
+There is a calcified granuloma in the left upper lobe. Lungs otherwise are believed to be clear. The heart is normal. There are calcified left hilar and mediastinal lymph XXXX. The skeletal structures show some senescent changes.
+
+IMPRESSION:
+Old granulomatous disease. No acute pulmonary disease.
+
+PROBLEMS:
+Calcified Granuloma;Calcinosis;Calcinosis;Granulomatous Disease
+
+MESH:
+Calcified Granuloma/lung/upper lobe/left;Calcinosis/lung/hilum/lymph nodes/left;Calcinosis/mediastinum/lymph nodes;Granulomatous Disease

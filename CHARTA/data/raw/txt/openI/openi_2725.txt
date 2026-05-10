@@ -1,0 +1,16 @@
+UID: 2830
+
+INDICATION:
+asthma worsening
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal and lungs are clear. No infiltrates or atelectasis. Gallbladder XXXX clips.
+
+PROBLEMS:
+Surgical Instruments
+
+MESH:
+Surgical Instruments/abdomen

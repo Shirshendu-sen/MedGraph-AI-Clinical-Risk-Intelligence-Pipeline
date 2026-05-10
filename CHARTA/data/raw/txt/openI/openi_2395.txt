@@ -1,0 +1,16 @@
+UID: 2481
+
+INDICATION:
+Preoperative evaluation
+
+FINDINGS:
+Heart size is upper limits of normal. Aorta is tortuous. There is elevation of the left hemidiaphragm. There is a posterior basilar XXXX opacity seen on lateral XXXX XXXX representing subsegmental atelectasis, XXXX visualized on lateral view. No large pleural effusion or pneumothorax is identified. Scoliosis of the spine.
+
+IMPRESSION:
+1. Posterior basilar XXXX opacity XXXX representing subsegmental atelectasis. The lungs are otherwise clear.
+
+PROBLEMS:
+Aorta;Diaphragm;Opacity;Pulmonary Atelectasis;Scoliosis
+
+MESH:
+Aorta/tortuous;Diaphragm/left/elevated;Opacity/lung/base/posterior;Pulmonary Atelectasis/base/posterior;Scoliosis

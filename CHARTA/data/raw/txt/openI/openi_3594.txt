@@ -1,0 +1,16 @@
+UID: 3737
+
+INDICATION:
+XXXX-year-old female chest pain.
+
+FINDINGS:
+Heart size within normal limits. No focal airspace disease. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

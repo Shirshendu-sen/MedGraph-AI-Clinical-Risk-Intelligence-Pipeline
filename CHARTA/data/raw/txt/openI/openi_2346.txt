@@ -1,0 +1,16 @@
+UID: 2431
+
+INDICATION:
+XXXX XXXX female. Evaluate for metastatic disease
+
+FINDINGS:
+Lungs are clear. No focal airspace consolidation or pleural effusion. Heart size is normal. No pneumothorax. Calcified lymph XXXX.
+
+IMPRESSION:
+Clear lungs. No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/lymph nodes

@@ -1,0 +1,16 @@
+UID: 1423
+
+INDICATION:
+Chest pain for 3-4 days, now shortness of breath
+
+FINDINGS:
+Heart size upper limits normal. Vascularity normal.Calcified breast implants obscure some detail. Lungs are clear. Vascular calcifications aorta. No pleural effusions or pneumothoraces.
+
+IMPRESSION:
+Borderline cardiomegaly, otherwise unremarkable exam.
+
+PROBLEMS:
+Calcinosis;Calcinosis;Cardiomegaly
+
+MESH:
+Calcinosis/breast implants;Calcinosis/aorta;Cardiomegaly/borderline

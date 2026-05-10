@@ -1,0 +1,16 @@
+UID: 3305
+
+INDICATION:
+XXXX-year-old female with history of osteomyelitis. XXXX.
+
+FINDINGS:
+There is a right PICC with tip overlying the right brachiocephalic vein. The cardiac silhouette is enlarged. No overt pulmonary edema. There are streaky bibasilar opacities. No large pleural effusion. The right hemidiaphragm is elevated. No pneumothorax is identified. There are degenerative changes of the spine. Bilateral surgical clips are noted.
+
+IMPRESSION:
+1. Streaky bibasilar opacities; the appearance XXXX subsegmental atelectasis. 2. Enlarged cardiac silhouette. 3. Mildly elevated right hemidiaphragm.
+
+PROBLEMS:
+Catheters, Indwelling;Cardiac Shadow;Opacity;Diaphragm;Spine;Surgical Instruments;Pulmonary Atelectasis
+
+MESH:
+Catheters, Indwelling/right;Cardiac Shadow/enlarged;Opacity/lung/base/bilateral/streaky;Diaphragm/right/elevated/mild;Spine/degenerative;Surgical Instruments/bilateral;Pulmonary Atelectasis/base/bilateral

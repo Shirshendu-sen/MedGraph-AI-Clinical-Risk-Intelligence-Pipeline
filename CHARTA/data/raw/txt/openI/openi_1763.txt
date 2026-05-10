@@ -1,0 +1,16 @@
+UID: 1822
+
+INDICATION:
+XXXX. Chest pain.
+
+FINDINGS:
+The heart is normal in size and contour. There is no mediastinal widening. No focal air space disease. Prominent hilar XXXX. No large pleural effusion or pneumothorax. The XXXX are intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hilum/prominent

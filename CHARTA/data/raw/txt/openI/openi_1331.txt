@@ -1,0 +1,16 @@
+UID: 1379
+
+INDICATION:
+XXXX-year-old male with XXXX.
+
+FINDINGS:
+Heart size is within normal limits. No focal airspace disease. No pneumothorax or effusion.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

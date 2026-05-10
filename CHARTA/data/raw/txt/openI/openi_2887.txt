@@ -1,0 +1,16 @@
+UID: 3010
+
+INDICATION:
+XXXX-year-old woman with syncopal episode.
+
+FINDINGS:
+Heart and mediastinum are at the upper limits of normal size. There is no focal consolidation, pneumothorax, or large pleural effusion. There is no acute, displaced rib fracture. Bony structures are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

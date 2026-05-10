@@ -1,0 +1,16 @@
+UID: 3798
+
+INDICATION:
+XXXX-year-old male chest pain.
+
+FINDINGS:
+The heart is normal in size. The pulmonary vascularity is within normal limits in appearance. No pneumothorax or pleural effusion. Patchy right lower lung opacification is noted.
+
+IMPRESSION:
+Right basilar airspace disease.
+
+PROBLEMS:
+Opacity;Airspace Disease
+
+MESH:
+Opacity/lung/lower lobe/right/patchy;Airspace Disease/lung/base/right

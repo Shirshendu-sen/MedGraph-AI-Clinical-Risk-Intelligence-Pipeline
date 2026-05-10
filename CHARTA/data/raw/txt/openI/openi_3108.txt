@@ -1,0 +1,16 @@
+UID: 3235
+
+INDICATION:
+Chest pain shortness of breath.
+
+FINDINGS:
+Heart size is normal. The lungs are clear. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+Normal chest exam.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

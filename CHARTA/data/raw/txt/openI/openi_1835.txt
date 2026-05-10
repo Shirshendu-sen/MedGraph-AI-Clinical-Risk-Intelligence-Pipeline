@@ -1,0 +1,16 @@
+UID: 1898
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+The aortic XXXX, cardiac apex, and stomach are left-sided. The cardiomediastinal silhouette is significantly enlarged. Pulmonary vascular markings centrally are within normal limits and symmetric. Increased interstitial markings bilaterally at the lung bases. This may be related to chronic interstitial changes or edema. No focal airspace disease. No pleural effusion or pneumothorax. No acute bony abnormality.
+
+IMPRESSION:
+1. Marked cardiomegaly. 2. Increased interstitial markings in the lower lungs, edema versus chronic interstitial changes.
+
+PROBLEMS:
+Cardiac Shadow;Markings;Cardiomegaly;Pulmonary Edema
+
+MESH:
+Cardiac Shadow/enlarged/severe;Markings/lung/base/bilateral/interstitial;Cardiomegaly/severe;Pulmonary Edema/base/bilateral

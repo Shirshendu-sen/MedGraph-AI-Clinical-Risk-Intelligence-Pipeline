@@ -1,0 +1,16 @@
+UID: 580
+
+INDICATION:
+None
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. Atherosclerotic calcifications of the aortic XXXX are noted. The lungs are clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Atherosclerosis
+
+MESH:
+Atherosclerosis/aorta

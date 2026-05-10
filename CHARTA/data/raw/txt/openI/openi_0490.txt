@@ -1,0 +1,16 @@
+UID: 505
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+No focal consolidation, suspicious pulmonary opacity, pneumothorax or definite pleural effusion. Heart size and pulmonary vascularity within normal limits, visualized osseous structures appear intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

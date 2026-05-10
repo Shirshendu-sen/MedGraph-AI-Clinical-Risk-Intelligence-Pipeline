@@ -1,0 +1,16 @@
+UID: 2418
+
+INDICATION:
+The patient is an XXXX-year-old woman who XXXX XXXX stepping XXXX a ladder. The patient complains of right hip and right femur pain.
+
+FINDINGS:
+The trachea is midline. The cardiomediastinal silhouette is normal. Note is XXXX of calcifications in the aortic XXXX. The lungs are clear, without evidence of focal infiltrate or effusion. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities. There is calcification of the chondral portions of the ribs.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities. 2. No displaced rib fractures are seen. .
+
+PROBLEMS:
+Calcinosis;Calcinosis
+
+MESH:
+Calcinosis/aorta;Calcinosis/ribs

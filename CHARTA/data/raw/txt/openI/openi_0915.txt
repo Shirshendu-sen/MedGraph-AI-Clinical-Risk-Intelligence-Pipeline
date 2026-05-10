@@ -1,0 +1,16 @@
+UID: 948
+
+INDICATION:
+Status post XXXX, pain
+
+FINDINGS:
+The heart is top normal in size. The mediastinum is stable. The lungs are clear.
+
+IMPRESSION:
+Borderline cardiomegaly without acute disease.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/borderline

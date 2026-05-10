@@ -1,0 +1,16 @@
+UID: 1006
+
+INDICATION:
+,786.05 XXXX XXXX to XXXX
+
+FINDINGS:
+The lungs appear clear. There are no focal airspace opacities to suggest pneumonia. The pleural spaces are clear. The heart and pulmonary XXXX are normal. Mediastinal contours are normal. There is no pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

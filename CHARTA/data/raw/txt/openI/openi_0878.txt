@@ -1,0 +1,16 @@
+UID: 910
+
+INDICATION:
+XXXX-year-old with osteoarthritis of the left hip. Preop evaluation for hip replacement.
+
+FINDINGS:
+The heart size is moderately enlarged. There is evidence of previous aortic valve replacement. XXXX sternotomy XXXX are grossly intact. The pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There are chronically increased interstitial lung markings without superimposed focal airspace disease identified. There are degenerative changes of the spine.
+
+IMPRESSION:
+Cardiomegaly without superimposed acute disease noted.
+
+PROBLEMS:
+Cardiomegaly;Implanted Medical Device;Markings;Spine
+
+MESH:
+Cardiomegaly/moderate;Implanted Medical Device/aortic valve;Markings/lung/interstitial/chronic;Spine/degenerative

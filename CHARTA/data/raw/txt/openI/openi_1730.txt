@@ -1,0 +1,16 @@
+UID: 1789
+
+INDICATION:
+History of syncope
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear. Elevated right diaphragm, unchanged
+
+PROBLEMS:
+Diaphragm
+
+MESH:
+Diaphragm/right/elevated

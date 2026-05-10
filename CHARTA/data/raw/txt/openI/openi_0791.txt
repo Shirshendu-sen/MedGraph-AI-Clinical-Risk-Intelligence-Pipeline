@@ -1,0 +1,16 @@
+UID: 815
+
+INDICATION:
+tuberculosis +PPD
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear. No evidence of tuberculosis.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

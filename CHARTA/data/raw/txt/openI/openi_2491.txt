@@ -1,0 +1,16 @@
+UID: 2582
+
+INDICATION:
+XXXX-year-old female, dyspnea
+
+FINDINGS:
+Low lung volumes with bronchovascular crowding. Otherwise, no focal alveolar consolidation, no definite pleural effusion seen. A dense nodule in the right base suggest a previous granulomatous process. Heart size within normal limits, bronchovascular crowding without typical findings of pulmonary edema.
+
+IMPRESSION:
+Low lung volumes with no definite acute findings.
+
+PROBLEMS:
+Lung;Markings;Nodule;Density
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Nodule/lung/base/right;Density/lung/base/right

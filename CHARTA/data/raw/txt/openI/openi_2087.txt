@@ -1,0 +1,16 @@
+UID: 2165
+
+INDICATION:
+Low oxygen saturation.
+
+FINDINGS:
+Low lung volumes are present. The heart size and pulmonary vascularity appear within normal limits. There has been interval development of bibasilar opacities. The appearance of the right base opacity XXXX atelectasis. The left base opacities could represent early pneumonia or areas of atelectasis. No pneumothorax or pleural effusion is seen.
+
+IMPRESSION:
+1. Low lung volumes. 2. XXXX XXXX opacities. Right base appears to represent atelectasis. Left base could be atelectasis or pneumonia.
+
+PROBLEMS:
+Lung;Opacity;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation;Opacity/lung/base/bilateral;Pulmonary Atelectasis/base/right

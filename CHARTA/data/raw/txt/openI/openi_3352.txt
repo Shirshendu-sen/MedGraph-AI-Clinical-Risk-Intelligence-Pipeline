@@ -1,0 +1,16 @@
+UID: 3490
+
+INDICATION:
+Kidney transplant evaluation
+
+FINDINGS:
+None
+
+IMPRESSION:
+There is a near spherical XXXX shaped calcification projecting over the right upper quadrant, apparently within the anterior-superior aspect of liver, measuring approximately 6 cm in diameter. This may represent a calcified hepatic cyst. Could be further evaluated with CT if clinically indicated. Slight elevation of right hemidiaphragm with some mild right basilar hypoventilation. Overall clear lungs. Normal mediastinal contour. No effusions.
+
+PROBLEMS:
+Calcinosis;Diaphragm;Lung
+
+MESH:
+Calcinosis/abdomen/right/round;Diaphragm/right/elevated/mild;Lung/base/right/hypoinflation/mild

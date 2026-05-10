@@ -1,0 +1,16 @@
+UID: 3565
+
+INDICATION:
+XXXX-year-old female with a history of pneumonia presents for followup.
+
+FINDINGS:
+The cardiomediastinal silhouette is stable in appearance. There is redemonstration of complete opacification of the right middle lobe no significant associated volume loss. The left lung appears clear. No pneumothorax or pleural effusion demonstrated. The thoracic spine appears intact.
+
+IMPRESSION:
+1. Stable right middle lobe consolidation, most consistent with pneumonia.
+
+PROBLEMS:
+Opacity;Consolidation;Pneumonia
+
+MESH:
+Opacity/lung/middle lobe/right/severe;Consolidation/lung/middle lobe/right;Pneumonia/middle lobe/right

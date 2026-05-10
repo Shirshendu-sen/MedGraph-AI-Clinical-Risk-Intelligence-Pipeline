@@ -1,0 +1,16 @@
+UID: 2220
+
+INDICATION:
+Chest pain and shortness of breath.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. There low lung volumes. There is pulmonary vascular congestion and indistinctness. Bibasilar airspace disease is also present. Probable XXXX left pleural effusion. No evidence of pneumothorax. Cardiac silhouette is upper lungs are normally accentuated due to low lung volumes.
+
+IMPRESSION:
+Mild heart failure versus volume overload.
+
+PROBLEMS:
+Lung;Pulmonary Congestion;Airspace Disease;Pleural Effusion;Heart Failure
+
+MESH:
+Lung/hypoinflation;Pulmonary Congestion;Airspace Disease/lung/base/bilateral;Pleural Effusion/left;Heart Failure/mild

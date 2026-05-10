@@ -1,0 +1,16 @@
+UID: 3702
+
+INDICATION:
+History of pulmonary embolus 6 weeks ago.
+
+FINDINGS:
+Lungs are overall hyperexpanded with flattening of the diaphragms. Lungs are clear without focal airspace disease. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. degenerative changes within the spine. There are expansile changes within the right clavicle which were seen on the previous XXXX/CT. Findings are consistent with changes of multiple myeloma.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+Lung;Diaphragm;Spine;Deformity
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened;Spine/degenerative;Deformity/clavicle/right

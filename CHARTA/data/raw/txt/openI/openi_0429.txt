@@ -1,0 +1,16 @@
+UID: 443
+
+INDICATION:
+Positive PPD
+
+FINDINGS:
+Heart size and mediastinal contour within normal limits. No focal airspace consolidation, pneumothorax, or large pleural effusion. Degenerative changes of thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality, specifically no evidence for acute tuberculosis.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative

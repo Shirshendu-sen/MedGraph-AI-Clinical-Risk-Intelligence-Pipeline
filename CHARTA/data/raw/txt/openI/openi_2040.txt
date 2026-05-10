@@ -1,0 +1,16 @@
+UID: 2118
+
+INDICATION:
+XXXX-year-old female history of sarcoidosis, ICD placement.
+
+FINDINGS:
+There is redemonstration of an AICD with the left chest wall with stable intact XXXX placement. Surgical cervical XXXX is redemonstrated. Cardiac and mediastinal XXXX appear normal. XXXX opacity in the left upper lobe, XXXX atelectasis or scarring. No visible pneumothorax or pleural effusion is seen. No visible free air under the diaphragm. The osseous structures appear intact.
+
+IMPRESSION:
+1. Stable AICD with intact XXXX replacement. 2. No acute radiographic cardiopulmonary process. .
+
+PROBLEMS:
+Implanted Medical Device;Opacity;Pulmonary Atelectasis;Cicatrix
+
+MESH:
+Implanted Medical Device/left;Opacity/lung/upper lobe/left;Pulmonary Atelectasis/upper lobe/left;Cicatrix/lung/upper lobe/left

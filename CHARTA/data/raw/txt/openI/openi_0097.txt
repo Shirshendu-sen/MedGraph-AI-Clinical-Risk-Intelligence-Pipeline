@@ -1,0 +1,16 @@
+UID: 98
+
+INDICATION:
+Chest pain shortness of breath for 3 days. The patient's lower abdomen was shielded for this exam.
+
+FINDINGS:
+Frontal and lateral views of the chest show an unchanged cardiomediastinal silhouette. Reduced lung volumes with basilar atelectasis. No XXXX focal airspace consolidation or pleural effusion.
+
+IMPRESSION:
+No acute or active cardiac, pulmonary or pleural disease.
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation;Pulmonary Atelectasis/base

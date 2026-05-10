@@ -1,0 +1,16 @@
+UID: 3369
+
+INDICATION:
+dyspnea
+
+FINDINGS:
+A large pleural air collection is present on the right. Mediastinum is shifted to the left as compared to the previous examination. The right lower lobe is totally opaque.
+
+IMPRESSION:
+Large right XXXX pneumothorax with associated complete collapse of the right lower lobe.
+
+PROBLEMS:
+Pneumothorax;Shift;Opacity;Pulmonary Atelectasis
+
+MESH:
+Pneumothorax/right/large;Shift/mediastinum/left;Opacity/lung/lower lobe/right/severe;Pulmonary Atelectasis/lower lobe/right/severe

@@ -1,0 +1,16 @@
+UID: 481
+
+INDICATION:
+PICC line placement.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Left PICC line tip near junction of brachiocephalic vein and SVC; repositioning with a slight advancement may be helpful. There is a tortuous atherosclerotic aorta. Large lung volumes with widened AP diameter of the chest, XXXX due to COPD; recommend clinical correlation. Diffuse XXXX bronchial calcification and with mild atherosclerotic calcification. No evidence of pulmonary consolidation, large pleural effusion/pneumothorax. there is degenerative changes at the XXXX joints. Osteopenia. Degenerative changes of the cervical spine with possible fusion in the lower cervical region.
+
+PROBLEMS:
+Catheters, Indwelling;Atherosclerosis;Lung;Calcinosis;Bone Diseases, Metabolic;Cervical Vertebrae;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Catheters, Indwelling/left;Atherosclerosis/aorta;Lung/hyperdistention;Calcinosis/bronchi/diffuse;Bone Diseases, Metabolic;Cervical Vertebrae/degenerative;Pulmonary Disease, Chronic Obstructive

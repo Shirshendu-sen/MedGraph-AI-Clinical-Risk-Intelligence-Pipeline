@@ -1,0 +1,16 @@
+UID: 1028
+
+INDICATION:
+Preop chest x-XXXX.
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. The lungs are clear. Acromioclavicular arthritis is present, XXXX severe.
+
+IMPRESSION:
+No acute preoperative findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

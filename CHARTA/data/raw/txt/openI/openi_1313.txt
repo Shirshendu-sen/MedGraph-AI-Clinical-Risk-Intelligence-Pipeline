@@ -1,0 +1,16 @@
+UID: 1361
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Mild cardiomegaly. Tortuous aorta. No XXXX consolidation, pleural effusion or pneumothorax. Stable right paratracheal opacity. XXXX correlated XXXX of the chest XXXX, XXXX this represents vascular shadows. Mild right apex curvature of the lower thoracic spine. Degenerative endplate spurring mid and lower thoracic spine with minimal grade 1 anterolisthesis of a lower thoracic vertebral level, XXXX T10 on T11.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Opacity;Scoliosis;Osteophyte;Spondylosis
+
+MESH:
+Cardiomegaly/mild;Aorta/tortuous;Opacity/right/paratracheal;Scoliosis/thoracic vertebrae/right/mild;Osteophyte/thoracic vertebrae/degenerative;Spondylosis/thoracic vertebrae

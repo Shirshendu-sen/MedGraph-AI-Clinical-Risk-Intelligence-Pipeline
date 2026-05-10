@@ -1,0 +1,16 @@
+UID: 3286
+
+INDICATION:
+chest pain , bilateral leg XXXX
+
+FINDINGS:
+Lung volumes are low. The heart is large, the pulmonary XXXX are engorged. No infiltrates. XXXX opacity is present in the left midlung.
+
+IMPRESSION:
+Hypoinflation with cardiomegaly and pulmonary venous hypertension. Left mid lung focal atelectasis.
+
+PROBLEMS:
+Lung;Cardiomegaly;Opacity;Hypertension, Pulmonary;Pulmonary Atelectasis;Pulmonary Congestion
+
+MESH:
+Lung/hypoinflation;Cardiomegaly;Opacity/lung/lingula;Hypertension, Pulmonary;Pulmonary Atelectasis/lingula/focal;Pulmonary Congestion

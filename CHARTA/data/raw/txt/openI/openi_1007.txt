@@ -1,0 +1,16 @@
+UID: 1040
+
+INDICATION:
+MVC.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Mediastinal width is within normal limits for supine AP technique. No edema. No focal infiltrate. No pleural effusion or pneumothorax. Right hilar and right lung base calcifications are compatible with old granulomatous disease. There is a very mild anterior wedge deformity of a midthoracic vertebrae, possibly T7, age-indeterminate. Correlate for midthoracic tenderness. No displaced, acute rib fractures are identified.
+
+PROBLEMS:
+Calcinosis;Calcinosis;Granulomatous Disease;Deformity
+
+MESH:
+Calcinosis/lung/hilum/right;Calcinosis/lung/base/right;Granulomatous Disease;Deformity/thoracic vertebrae/anterior/mild

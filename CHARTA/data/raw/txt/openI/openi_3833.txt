@@ -1,0 +1,16 @@
+UID: 3981
+
+INDICATION:
+XXXX vehicle accident with left shoulder pain.
+
+FINDINGS:
+The lungs are clear. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

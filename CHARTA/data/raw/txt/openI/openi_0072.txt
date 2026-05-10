@@ -1,0 +1,16 @@
+UID: 73
+
+INDICATION:
+cirrhosis.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Improved basilar aeration. Persistent small bilateral pleural effusions, XXXX on the right, small on the left with some associated left basilar atelectasis. Lungs otherwise clear. Unremarkable mediastinal contour. Changes of emphysema. No XXXX acute abnormalities since the previous chest radiograph.
+
+PROBLEMS:
+Pleural Effusion;Pulmonary Atelectasis;Emphysema
+
+MESH:
+Pleural Effusion/bilateral/small;Pulmonary Atelectasis/base/left;Emphysema

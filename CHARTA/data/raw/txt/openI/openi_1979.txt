@@ -1,0 +1,16 @@
+UID: 2050
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+1. Stable appearance of XXXX scarring in the right upper lung associated with numerous XXXX XXXX granulomas. There are calcified right hilar lymph XXXX as XXXX. 2. XXXX opacities in the left lung base, XXXX atelectasis or scarring 3. Low lung volumes 4. No focal air space opacities to suggest pneumonia.
+
+PROBLEMS:
+Cicatrix;Granuloma;Calcinosis;Opacity;Pulmonary Atelectasis;Cicatrix;Lung
+
+MESH:
+Cicatrix/lung/upper lobe/right;Granuloma/lung/upper lobe/right/multiple;Calcinosis/lung/hilum/lymph nodes/right;Opacity/lung/base/left;Pulmonary Atelectasis/base/left;Cicatrix/lung/base/left;Lung/hypoinflation

@@ -1,0 +1,16 @@
+UID: 288
+
+INDICATION:
+XXXX.
+
+FINDINGS:
+Heart size appears within normal limits. Pulmonary vasculature appears within normal limits. Radiodensity overlying the middle cardiac silhouette, XXXX representing a hiatal hernia. No focal consolidation, pleural effusion or pneumothorax. No acute bony abnormality.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Hernia, Hiatal;Density
+
+MESH:
+Hernia, Hiatal;Density/thorax

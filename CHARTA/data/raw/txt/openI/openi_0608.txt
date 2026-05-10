@@ -1,0 +1,16 @@
+UID: 627
+
+INDICATION:
+Shortness of breath.
+
+FINDINGS:
+Stable cardiomegaly. Thoracic aortic atherosclerotic calcifications are noted. There is a prominence of the pulmonary vasculature. No consolidating airspace disease is seen. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+Cardiomegaly and pulmonary vascular congestion.
+
+PROBLEMS:
+Cardiomegaly;Atherosclerosis;Pulmonary Congestion
+
+MESH:
+Cardiomegaly;Atherosclerosis/aorta, thoracic;Pulmonary Congestion

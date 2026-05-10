@@ -1,0 +1,16 @@
+UID: 1362
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Marked elevation left diaphragm with atelectasis in the left base. Mild atelectasis in the right base. Stable or line cardiac enlargement with atherosclerotic aorta. Obscured left heart XXXX. Kyphotic degenerated thoracic spine with osteopenia multilevel XXXX deformities, poorly defined due to the extensive osteopenia.
+
+PROBLEMS:
+Diaphragm;Pulmonary Atelectasis;Pulmonary Atelectasis;Cardiomegaly;Atherosclerosis;Heart;Kyphosis;Bone Diseases, Metabolic;Deformity;Thoracic Vertebrae
+
+MESH:
+Diaphragm/left/elevated;Pulmonary Atelectasis/base/left;Pulmonary Atelectasis/base/right/mild;Cardiomegaly;Atherosclerosis/aorta;Heart/left/obscured;Kyphosis/thoracic vertebrae;Bone Diseases, Metabolic/thoracic vertebrae;Deformity/thoracic vertebrae/multiple;Thoracic Vertebrae/degenerative

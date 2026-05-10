@@ -1,0 +1,16 @@
+UID: 3006
+
+INDICATION:
+Melanoma.
+
+FINDINGS:
+Cardiomegaly is present. The pulmonary vascularity appears within normal limits. Thoracic aorta is tortuous. Patient is status post XXXX sternotomy. Surgical clips are present in the left axilla. Lungs are free of focal airspace disease. No pneumothorax or pleural effusion is seen. There is eventration of the right hemidiaphragm. Degenerative changes are present in the spine.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Cardiomegaly;Aorta, Thoracic;Surgical Instruments;Diaphragmatic Eventration;Spine
+
+MESH:
+Cardiomegaly;Aorta, Thoracic/tortuous;Surgical Instruments/left;Diaphragmatic Eventration/right;Spine/degenerative

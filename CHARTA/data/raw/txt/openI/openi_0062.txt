@@ -1,0 +1,16 @@
+UID: 63
+
+INDICATION:
+XXXX-year-old female, pain, short of breath
+
+FINDINGS:
+Stable flattening of the posterior diaphragm and scattered chronic appearing irregular interstitial markings with no focal alveolar consolidation. Stable cardiomediastinal silhouette with normal heart size and aortic ectasia/tortuosity, stable mediastinal contours. No definite pleural effusion seen, no typical findings of pulmonary edema. Following spine ossifications and marginal osteophytes again noted.
+
+IMPRESSION:
+Chronic changes as described, no acute findings
+
+PROBLEMS:
+Diaphragm;Markings;Aorta;Osteophyte;Calcinosis
+
+MESH:
+Diaphragm/posterior/flattened;Markings/lung/interstitial/scattered/irregular/chronic;Aorta/tortuous;Osteophyte/spine/multiple/mild;Calcinosis/spine

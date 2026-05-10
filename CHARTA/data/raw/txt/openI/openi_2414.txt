@@ -1,0 +1,16 @@
+UID: 2501
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Cardiomediastinal silhouette is within normal limits for size and contour. Lungs are hyperinflated with flattening of the diaphragms consistent with emphysematous change. No evidence of focal airspace disease, pleural effusion, or pneumothorax. Multilevel degenerative changes of the spine are noted.
+
+IMPRESSION:
+1. Emphysematous change without evidence of acute cardiopulmonary process.
+
+PROBLEMS:
+Lung;Diaphragm;Pulmonary Emphysema;Spine
+
+MESH:
+Lung/hyperdistention;Diaphragm/bilateral/flattened;Pulmonary Emphysema;Spine/degenerative/multiple

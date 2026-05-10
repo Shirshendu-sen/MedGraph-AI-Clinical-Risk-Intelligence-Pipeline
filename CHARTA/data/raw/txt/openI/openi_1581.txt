@@ -1,0 +1,16 @@
+UID: 1636
+
+INDICATION:
+Chest pain, re: XXXX/ altercation
+
+FINDINGS:
+Lungs are clear. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour.
+
+IMPRESSION:
+Clear lungs.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

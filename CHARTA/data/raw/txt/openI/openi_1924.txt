@@ -1,0 +1,16 @@
+UID: 1990
+
+INDICATION:
+Preop. Bariatric surgery
+
+FINDINGS:
+PA and lateral views of the chest were obtained. Tracheostomy tube. Probable mild cardiomegaly. Prominence of the central vasculature, unchanged. No pneumothorax pleural effusion or focal consolidation.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease. 2. Stable mild cardiomegaly. 3. Prominent central vasculature.
+
+PROBLEMS:
+Tube, Inserted;Cardiomegaly;Pulmonary Congestion
+
+MESH:
+Tube, Inserted/trachea;Cardiomegaly/mild;Pulmonary Congestion

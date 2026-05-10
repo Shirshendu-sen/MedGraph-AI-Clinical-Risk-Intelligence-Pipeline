@@ -1,0 +1,16 @@
+UID: 2395
+
+INDICATION:
+XXXX-year-old with dyspnea.
+
+FINDINGS:
+Normal cardiomediastinal contours. Lungs are clear. No pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

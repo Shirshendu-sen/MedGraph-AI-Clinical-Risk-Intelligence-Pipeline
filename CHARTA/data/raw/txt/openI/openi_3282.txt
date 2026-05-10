@@ -1,0 +1,16 @@
+UID: 3415
+
+INDICATION:
+XXXX-year-old XXXX with XXXX. Preop examination.
+
+FINDINGS:
+No acute osseous abnormality. Mild degenerative changes of the thoracic spine. Stable normal cardiomediastinal silhouette and hilar contours. Prominence of superior mediastinal, XXXX superimposed structures. No focal area of consolidation, pleural effusion, or pneumothorax. Mild bibasilar atelectasis.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Thoracic Vertebrae;Pulmonary Atelectasis;Mediastinum
+
+MESH:
+Thoracic Vertebrae/degenerative/mild;Pulmonary Atelectasis/base/bilateral/mild;Mediastinum/prominent

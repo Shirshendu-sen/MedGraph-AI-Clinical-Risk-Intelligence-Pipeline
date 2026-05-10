@@ -1,0 +1,16 @@
+UID: 1524
+
+INDICATION:
+Preop right knee total knee replacement
+
+FINDINGS:
+Heart size is normal. The aorta is tortuous, and cannot exclude ascending aortic aneurysm. The pulmonary vascularity is normal. There residual to prior granulomatous infection. Lungs are otherwise clear. Degenerative change of the spine.
+
+IMPRESSION:
+1. No acute cardiopulmonary process. 2. Tortuous aorta, cannot exclude ascending aortic aneurysm.
+
+PROBLEMS:
+Aorta;Granulomatous Disease;Spine
+
+MESH:
+Aorta/tortuous;Granulomatous Disease;Spine/degenerative

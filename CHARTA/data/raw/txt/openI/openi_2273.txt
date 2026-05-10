@@ -1,0 +1,16 @@
+UID: 2356
+
+INDICATION:
+XXXX-year-old female with abdominal pain
+
+FINDINGS:
+Low lung volumes. No focal consolidation, effusion, or pneumothorax. Normal heart size. Bony thorax and soft tissues grossly unremarkable
+
+IMPRESSION:
+No radiographic evidence of acute cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

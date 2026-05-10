@@ -1,0 +1,16 @@
+UID: 285
+
+INDICATION:
+Altered mental status
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is top normal. Tortuous aorta. No edema. Patchy left upper right basilar atelectasis. No pneumothorax. Right hilar surgical clips.
+
+PROBLEMS:
+Aorta;Pulmonary Atelectasis;Pulmonary Atelectasis;Pulmonary Atelectasis;Surgical Instruments
+
+MESH:
+Aorta/tortuous;Pulmonary Atelectasis/left/patchy;Pulmonary Atelectasis/upper lobe/right;Pulmonary Atelectasis/base/right;Surgical Instruments/lung/hilum/right

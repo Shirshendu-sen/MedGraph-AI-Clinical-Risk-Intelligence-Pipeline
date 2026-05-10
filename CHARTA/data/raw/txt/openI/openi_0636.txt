@@ -1,0 +1,16 @@
+UID: 655
+
+INDICATION:
+Chest pain. Shortness of breath worse at XXXX for 3 days.
+
+FINDINGS:
+Normal heart size and mediastinal contours. The lungs are hyperinflated but clear. No pneumothorax or pleural effusion. No acute bony abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary process. .
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hyperdistention

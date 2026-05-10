@@ -1,0 +1,16 @@
+UID: 41
+
+INDICATION:
+XXXX-year-old male with history of idiopathic pulmonary fibrosis presents for evaluation.
+
+FINDINGS:
+The cardiomediastinal silhouette is stable in appearance. No interval change in the diffuse increased bilateral pulmonary interstitial markings, greatest in the peripheral aspect of the left lung and left lung base. These opacities appear slightly increased as compared to prior examination. Mild left-sided volume loss redemonstrated, unchanged. No pneumothorax or pleural effusion. The thoracic spine appears intact.
+
+IMPRESSION:
+1. Slight interval worsening of the diffusely increased bilateral pulmonary interstitial markings, greatest in the peripheral aspect of the left lung and the left lung base. These findings are most consistent with slight interval worsening of the patient's known interstitial lung disease. 2. Stable, mild left-sided volume loss. .
+
+PROBLEMS:
+Opacity;Opacity;Volume Loss;Lung Diseases, Interstitial
+
+MESH:
+Opacity/lung/bilateral/interstitial/diffuse;Opacity/lung/base/left/interstitial/diffuse;Volume Loss/lung/left/mild;Lung Diseases, Interstitial

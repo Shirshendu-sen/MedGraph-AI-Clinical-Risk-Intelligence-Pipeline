@@ -1,0 +1,16 @@
+UID: 439
+
+INDICATION:
+Sarcoid Hx sarcoidosis; Occasional XXXX/SOB; No cp/previous injury/surgery; Non-XXXX.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Small calcification right lung base with appearance of old granulomatous disease. Also small perihilar calcified lymph XXXX. Lungs are clear. No active parenchymal disease. No XXXX of pleural effusions. No pulmonary edema. Normal heart size. No XXXX of active cardiopulmonary disease. Unchanged.
+
+PROBLEMS:
+Calcinosis;Granulomatous Disease;Calcinosis
+
+MESH:
+Calcinosis/lung/base/right/small;Granulomatous Disease;Calcinosis/lung/hilum/lymph nodes/small

@@ -1,0 +1,16 @@
+UID: 1457
+
+INDICATION:
+COPD
+
+FINDINGS:
+Normal heart size. Stable position of 2 pacemaker electrodes, with a XXXX tip in the expected region of the right atrium and another XXXX tip in the expected region of the right ventricle. There is no pulmonary edema. There is no focal consolidation. There are no XXXX of pleural effusion. There is no evidence of pneumothorax. XXXX are unremarkable.
+
+IMPRESSION:
+There is no evidence of acute cardiopulmonary disease. .
+
+PROBLEMS:
+Implanted Medical Device
+
+MESH:
+Implanted Medical Device

@@ -1,0 +1,16 @@
+UID: 3591
+
+INDICATION:
+XXXX year old XXXX by ambulance for chest pain.
+
+FINDINGS:
+The heart and mediastinal contours are unchanged. There is a moderate hiatal hernia. The lungs are clear without focal infiltrate. No effusion or pneumothorax.
+
+IMPRESSION:
+1. Stable appearance of the chest with moderate hiatal hernia. No acute pulmonary disease.
+
+PROBLEMS:
+Hernia, Hiatal
+
+MESH:
+Hernia, Hiatal/moderate

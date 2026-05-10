@@ -1,0 +1,16 @@
+UID: 3925
+
+INDICATION:
+Chest pain due to indigestion.
+
+FINDINGS:
+The lungs are clear. There is no pleural effusion or pneumothorax. The heart is not significantly enlarged. There are calcified right hilar and mediastinal lymph XXXX. There are atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures are noted.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+Calcinosis;Calcinosis;Atherosclerosis;Arthritis
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/right;Calcinosis/mediastinum/lymph nodes;Atherosclerosis/aorta;Arthritis

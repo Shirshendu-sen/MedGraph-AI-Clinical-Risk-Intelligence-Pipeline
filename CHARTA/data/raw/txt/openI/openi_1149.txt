@@ -1,0 +1,16 @@
+UID: 1189
+
+INDICATION:
+XXXX-year-old with chest pain.
+
+FINDINGS:
+Normal heart size and hilar vascular markings. Evidence of prior granulomatous disease. The lungs are clear without focal area of consolidation, pleural effusion, or pneumothorax. There are no acute osseous abnormalities present. Mild degenerative changes of the thoracic spine. The soft tissues are within normal limits.
+
+IMPRESSION:
+1. No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Granulomatous Disease;Thoracic Vertebrae
+
+MESH:
+Granulomatous Disease;Thoracic Vertebrae/degenerative/mild

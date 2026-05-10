@@ -1,0 +1,16 @@
+UID: 3813
+
+INDICATION:
+Wheezing
+
+FINDINGS:
+There is XXXX opacity left lung base may represent atelectasis or early infiltrate. The cardiomediastinal silhouette is within normal limits. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+XXXX opacity left lung base..
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/base/left

@@ -1,0 +1,16 @@
+UID: 2070
+
+INDICATION:
+XXXX-year-old woman with chest pain.
+
+FINDINGS:
+There are no acute osseous abnormalities. Questionable old left posterior third and fourth rib fractures. Visualized soft tissues are within normal limits. Normal heart size. Normal hilar vascular markings. Subtle prominence of interstitial markings in the bases, left worse than right. No focal area of consolidation, pleural effusion, or pneumothorax.
+
+IMPRESSION:
+Subtle interstitial markings bilateral, may represent mild pulmonary edema or chronic interstitial changes.
+
+PROBLEMS:
+Markings
+
+MESH:
+Markings/lung/base/bilateral/interstitial/prominent/mild

@@ -1,0 +1,16 @@
+UID: 49
+
+INDICATION:
+XXXX-year-old with osteoarthritis of the hip scheduled for total hip replacement. Preoperative evaluation.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There are degenerative changes of the thoracic spine. There is a calcified granuloma identified in the right suprahilar region. The aorta is mildly tortuous and ectatic. There is asymmetric right apical smooth pleural thickening. There are severe degenerative changes of the XXXX.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Thoracic Vertebrae;Calcified Granuloma;Aorta;Thickening
+
+MESH:
+Thoracic Vertebrae/degenerative;Calcified Granuloma/lung/hilum/right;Aorta/tortuous/mild;Thickening/pleura/apex/right

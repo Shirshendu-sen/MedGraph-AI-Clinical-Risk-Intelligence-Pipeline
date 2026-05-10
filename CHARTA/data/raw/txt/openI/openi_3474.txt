@@ -1,0 +1,16 @@
+UID: 3614
+
+INDICATION:
+Dyspnea seen impression
+
+FINDINGS:
+AP and lateral views were obtained. Bibasilar atelectasis and small left-sided pleural effusion. Stable cardiomegaly. No pneumothorax. Mild pulmonary vascular congestion.
+
+IMPRESSION:
+None
+
+PROBLEMS:
+Pulmonary Atelectasis;Pleural Effusion;Cardiomegaly;Pulmonary Congestion
+
+MESH:
+Pulmonary Atelectasis/base/bilateral;Pleural Effusion/left/small;Cardiomegaly;Pulmonary Congestion/mild

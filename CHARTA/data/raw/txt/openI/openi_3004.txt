@@ -1,0 +1,16 @@
+UID: 3130
+
+INDICATION:
+Shortness of breath. XXXX for 2 weeks.
+
+FINDINGS:
+2 images. Heart size is enlarged, stable. Thoracic aortic atherosclerotic calcifications are present. There is XXXX dense consolidation within the retrocardiac left lower lobe. There is also patchy airspace opacity within the perihilar right lung. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+Left lower lobe and right perihilar airspace disease. In the appropriate clinical setting, this is compatible with infection/pneumonia and followup radiography is recommended following treatment to document resolution. If clinical findings are discordant, a XXXX is recommended.
+
+PROBLEMS:
+Cardiomegaly;Atherosclerosis;Consolidation;Density;Opacity;Airspace Disease;Airspace Disease
+
+MESH:
+Cardiomegaly;Atherosclerosis/aorta, thoracic;Consolidation/lung/lower lobe/left/retrocardiac;Density/lung/lower lobe/left/retrocardiac;Opacity/lung/hilum/right/patchy;Airspace Disease/lung/lower lobe/left;Airspace Disease/lung/hilum/right

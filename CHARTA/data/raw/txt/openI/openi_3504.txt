@@ -1,0 +1,16 @@
+UID: 3645
+
+INDICATION:
+EVALUATE FOR DISEASE;
+
+FINDINGS:
+None
+
+IMPRESSION:
+Slight basilar prominence of lung markings most XXXX representing some mild chronic inflammatory change. No acute airspace disease or effusions. Mediastinal contour within normal limits.
+
+PROBLEMS:
+Markings
+
+MESH:
+Markings/lung/base/prominent/mild

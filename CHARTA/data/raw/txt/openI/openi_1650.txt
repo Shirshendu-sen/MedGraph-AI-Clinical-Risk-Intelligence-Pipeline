@@ -1,0 +1,16 @@
+UID: 1706
+
+INDICATION:
+Positive PPD
+
+FINDINGS:
+Cardiac silhouette and mediastinal contours are within normal limits. There are low lung volumes. There is no focal opacities. No pneumothorax. No large pleural effusion.
+
+IMPRESSION:
+Low lung volumes without acute cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

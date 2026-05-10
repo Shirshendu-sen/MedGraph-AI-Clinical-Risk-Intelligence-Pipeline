@@ -1,0 +1,16 @@
+UID: 799
+
+INDICATION:
+XXXX-year-old female with history of endometrial cancer; routine followup.
+
+FINDINGS:
+Heart size and mediastinal contours are within normal limits. No focal airspace consolidation. No suspicious pulmonary nodules or masses. No evidence of pleural effusion or pneumothorax. No evidence of acute osseous abnormality.
+
+IMPRESSION:
+1. No evidence of active cardiopulmonary disease. 2. No suspicious pulmonary nodules or masses.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

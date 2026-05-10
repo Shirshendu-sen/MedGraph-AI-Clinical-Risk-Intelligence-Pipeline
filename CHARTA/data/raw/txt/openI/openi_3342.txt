@@ -1,0 +1,16 @@
+UID: 3479
+
+INDICATION:
+Hypoxia.
+
+FINDINGS:
+Soft tissue neck. The airway is XXXX. No laryngeal edema. Laryngeal XXXX intact. Cervical spine intact. Chest. The heart is large. Diffuse parahilar and alveolar consolidations are present. Bilateral costophrenic XXXX blunting is present.
+
+IMPRESSION:
+1. Soft tissue neck negative. 2. Chest. Heart failure with pulmonary alveolar edema and pleural effusion.
+
+PROBLEMS:
+Cardiomegaly;Consolidation;Consolidation;Costophrenic Angle;Heart Failure;Pulmonary Edema;Pleural Effusion
+
+MESH:
+Cardiomegaly;Consolidation/lung/hilum/diffuse;Consolidation/pulmonary alveoli;Costophrenic Angle/bilateral/blunted;Heart Failure;Pulmonary Edema/pulmonary alveoli;Pleural Effusion

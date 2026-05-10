@@ -1,0 +1,16 @@
+UID: 1353
+
+INDICATION:
+XXXX-year-old female with XXXX.
+
+FINDINGS:
+There is diffuse right-sided airspace disease, with dense consolidation in the right base. A right upper extremity PICC is seen with the tip in the right brachiocephalic vein, representing an interval retraction of approximately 6 cm. No pneumothorax or large effusions. Heart size within normal limits.
+
+IMPRESSION:
+Multifocal right-sided pneumonia.
+
+PROBLEMS:
+Airspace Disease;Consolidation;Catheters, Indwelling;Pneumonia
+
+MESH:
+Airspace Disease/lung/right/diffuse;Consolidation/lung/base/right;Catheters, Indwelling/right;Pneumonia/right/focal/multiple

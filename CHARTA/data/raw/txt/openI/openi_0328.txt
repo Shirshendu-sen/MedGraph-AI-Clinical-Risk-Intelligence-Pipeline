@@ -1,0 +1,16 @@
+UID: 340
+
+INDICATION:
+XXXX-year-old female, left arm pain and nausea
+
+FINDINGS:
+Heart size moderately enlarged, stable mediastinal contours. Lateral view curvilinear densities over the heart suggestive of coronary artery stents. Diaphragm eventration. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.
+
+IMPRESSION:
+Cardiomegaly, no acute pulmonary findings
+
+PROBLEMS:
+Cardiomegaly;Diaphragmatic Eventration;Density
+
+MESH:
+Cardiomegaly/moderate;Diaphragmatic Eventration;Density/heart

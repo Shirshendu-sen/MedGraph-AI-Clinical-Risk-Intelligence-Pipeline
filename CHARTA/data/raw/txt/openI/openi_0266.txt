@@ -1,0 +1,16 @@
+UID: 277
+
+INDICATION:
+Breast cancer, XXXX r/o XXXX
+
+FINDINGS:
+The heart is normal in size. The mediastinum is stable. Mild biapical scarring is identified. There is a nodular density in the right midlung which is stable from prior studies and noted to represent a granuloma on XXXX of XXXX. However, additional foci in the right upper lung are questioned. There is no acute infiltrate or pleural effusion.
+
+IMPRESSION:
+No acute disease. Vague right upper/mid lung nodular densities versus scarring and superimposed structures. CT may be warranted given patient's history.
+
+PROBLEMS:
+Cicatrix;Granuloma;Density;Density
+
+MESH:
+Cicatrix/lung/apex/bilateral/mild;Granuloma/lung/middle lobe/right;Density/lung/upper lobe/right/round;Density/lung/middle lobe/right/round

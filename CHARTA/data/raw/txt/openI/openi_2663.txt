@@ -1,0 +1,16 @@
+UID: 2766
+
+INDICATION:
+Syncope.
+
+FINDINGS:
+None
+
+IMPRESSION:
+There is mild to moderate cardiomegaly. Tortuous and ectatic appearing aorta. No overt edema. No focal infiltrate. No pleural effusion or pneumothorax is seen.
+
+PROBLEMS:
+Cardiomegaly;Aorta
+
+MESH:
+Cardiomegaly/moderate;Aorta/tortuous

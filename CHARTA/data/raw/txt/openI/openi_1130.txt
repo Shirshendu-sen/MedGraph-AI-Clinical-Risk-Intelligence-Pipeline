@@ -1,0 +1,16 @@
+UID: 1167
+
+INDICATION:
+XXXX, lung transplant evaluation.
+
+FINDINGS:
+The lungs are hyperexpanded. There are XXXX opacities in the lingula, XXXX subsegmental atelectasis or scarring. There is no focal airspace consolidation. No pleural effusion or pneumothorax. Heart size is within normal limits. There is aortic atherosclerotic vascular calcification. There are degenerative changes of the spine.
+
+IMPRESSION:
+1. No focal airspace consolidation. 2. Hyperexpanded lungs, suggestive of emphysema. 3. Lingular subsegmental atelectasis or scarring.
+
+PROBLEMS:
+Lung;Opacity;Pulmonary Atelectasis;Cicatrix;Atherosclerosis;Spine;Calcinosis
+
+MESH:
+Lung/hyperdistention;Opacity/lung/lingula;Pulmonary Atelectasis/lingula;Cicatrix/lung/lingula;Atherosclerosis/aorta;Spine/degenerative;Calcinosis/blood vessels

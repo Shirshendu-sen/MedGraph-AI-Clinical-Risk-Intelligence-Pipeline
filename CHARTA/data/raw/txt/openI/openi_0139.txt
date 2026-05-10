@@ -1,0 +1,16 @@
+UID: 142
+
+INDICATION:
+Screening for pulmonary tuberculosis
+
+FINDINGS:
+Cardiomediastinal silhouette and pulmonary vasculature are stable and within normal limits. Lungs are clear. No pneumothorax or pleural effusion. No acute osseous findings.
+
+IMPRESSION:
+No acute cardiopulmonary findings. Specifically, no radiographic evidence of active tuberculosis.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

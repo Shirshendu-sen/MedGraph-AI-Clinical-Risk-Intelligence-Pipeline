@@ -1,0 +1,16 @@
+UID: 1484
+
+INDICATION:
+XXXX-year-old male, congestion.
+
+FINDINGS:
+Calcified left lower lobe granuloma. No focal areas of consolidation. No pleural effusions. No pneumothorax. Degenerative changes noted of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Calcified Granuloma;Thoracic Vertebrae
+
+MESH:
+Calcified Granuloma/lung/lower lobe/left;Thoracic Vertebrae/degenerative

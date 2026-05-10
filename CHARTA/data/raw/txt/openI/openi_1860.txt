@@ -1,0 +1,16 @@
+UID: 1924
+
+INDICATION:
+XXXX-year-old female, back pain
+
+FINDINGS:
+Rotated apical lordotic frontal projection, mild bronchovascular crowding and scattered chronic appearing irregular interstitial markings. No definite focal alveolar consolidation or pleural effusion seen. Accounting for technical factors heart size XXXX within normal limits, heavily calcified and mildly tortuous aorta. No typical findings of pulmonary edema.
+
+IMPRESSION:
+Limited quality exam shows no definite acute findings.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Markings;Markings;Calcinosis;Aorta
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Markings/bronchovascular/mild;Markings/lung/interstitial/scattered/irregular/chronic;Calcinosis/aorta/severe;Aorta/tortuous/mild

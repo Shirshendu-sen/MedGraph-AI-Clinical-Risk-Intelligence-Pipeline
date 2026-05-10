@@ -1,0 +1,16 @@
+UID: 1860
+
+INDICATION:
+XXXX-year-old female, bone marrow transplant workup. Productive XXXX for one XXXX.
+
+FINDINGS:
+The cardiac and mediastinal silhouettes are normal. The lungs are well-expanded and clear. There is no focal airspace opacity. There is no pneumothorax or effusion. There is dextrocurvature of the thoracic spine. There is XXXX deformity of the T9 vertebral body. Levocurvature of the lumbar spine with significant degenerative change is also noted.
+
+IMPRESSION:
+1. No evidence of acute cardiopulmonary process. 2. Scoliotic curvature of the spine with XXXX deformity of the T9 vertebral body.
+
+PROBLEMS:
+Scoliosis;Scoliosis;Deformity;Lumbar Vertebrae
+
+MESH:
+Scoliosis/lumbar vertebrae/left;Scoliosis/thoracic vertebrae/right;Deformity/thoracic vertebrae;Lumbar Vertebrae/degenerative/severe

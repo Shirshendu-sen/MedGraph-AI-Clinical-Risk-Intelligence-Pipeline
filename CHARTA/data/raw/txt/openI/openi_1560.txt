@@ -1,0 +1,16 @@
+UID: 1614
+
+INDICATION:
+Hypoxia
+
+FINDINGS:
+None
+
+IMPRESSION:
+Borderline cardiac enlargement. Tortuous aorta. Prominent hilar contours. Worsening patchy peripheral opacification in the right midlung, somewhat pleural based. A pneumonia superimposed on changes of emphysema and parenchymal scarring would be a consideration. A followup study and 4 to 6 weeks could be considered to evaluate for resolution. If this area does not resolve, further characterization with XXXX may be warranted.
+
+PROBLEMS:
+Cardiomegaly;Aorta;Lung;Opacity
+
+MESH:
+Cardiomegaly/borderline;Aorta/tortuous;Lung/hilum/prominent;Opacity/lung/middle lobe/right/patchy

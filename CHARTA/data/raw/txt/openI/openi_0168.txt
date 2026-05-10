@@ -1,0 +1,16 @@
+UID: 173
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Low lung volumes. Cardiomediastinal silhouette and pulmonary vasculature are within normal limits. Lungs are clear. No pneumothorax or pleural effusion. Calcified bilateral hilar lymph XXXX, greater on the left. No acute osseous findings.
+
+IMPRESSION:
+Low lung volumes. No acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung;Calcinosis
+
+MESH:
+Lung/hypoinflation;Calcinosis/lung/hilum/lymph nodes/bilateral

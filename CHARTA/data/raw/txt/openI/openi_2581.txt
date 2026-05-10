@@ -1,0 +1,16 @@
+UID: 2677
+
+INDICATION:
+XXXX-year-old XXXX with chest pain.
+
+FINDINGS:
+Heart size normal. Mild tortuosity of the thoracic aorta. There is no focal consolidation, pneumothorax, or pleural effusion identified. A bullet is noted in the soft tissues of the inferior right chest wall. No acute bony abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Aorta, Thoracic;Foreign Bodies
+
+MESH:
+Aorta, Thoracic/tortuous/mild;Foreign Bodies/thorax/right

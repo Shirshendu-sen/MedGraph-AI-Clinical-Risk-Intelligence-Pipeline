@@ -1,0 +1,16 @@
+UID: 52
+
+INDICATION:
+XXXX-year-old male with chest pain
+
+FINDINGS:
+The heart is normal size. The mediastinum is unremarkable. There is no pleural effusion, pneumothorax, or focal airspace disease. The XXXX are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

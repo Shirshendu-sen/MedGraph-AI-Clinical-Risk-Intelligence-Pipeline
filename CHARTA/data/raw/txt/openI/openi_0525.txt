@@ -1,0 +1,16 @@
+UID: 541
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Cardiomediastinal contour and pulmonary vascularity within normal limits. Clear lungs. No pleural effusion or pneumothorax. Mild age-indeterminate anterior wedging of a lower thoracic or upper lumbar vertebra on lateral view. Left-sided rib deformities consistent with old fractures. Mild degenerative changes about the thoracolumbar junction.
+
+IMPRESSION:
+1. No acute cardiopulmonary findings. 2. Age-indeterminate mild anterior wedge deformity of a lower thoracic or upper lumbar vertebra. Correlate for focal tenderness and with prior imaging, if possible.
+
+PROBLEMS:
+Lumbar Vertebrae;Thoracic Vertebrae;Deformity;Deformity;Deformity;Fractures, Bone
+
+MESH:
+Lumbar Vertebrae/degenerative/mild;Thoracic Vertebrae/degenerative/mild;Deformity/lumbar vertebrae/anterior/mild;Deformity/thoracic vertebrae/anterior/mild;Deformity/ribs/left/multiple;Fractures, Bone/ribs/left/multiple/healed

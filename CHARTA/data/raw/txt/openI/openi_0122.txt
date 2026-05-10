@@ -1,0 +1,16 @@
+UID: 124
+
+INDICATION:
+XXXX-year-old female, short of breath, hypoxia
+
+FINDINGS:
+None
+
+IMPRESSION:
+Large left pleural effusion with minimal residual left lung aeration. Small right pleural effusion. Right lung bronchovascular crowding and indistinct vascular margination which may be secondary to crowding, infiltrates or pulmonary edema. Limited assessment of heart size due to obscured heart XXXX.
+
+PROBLEMS:
+Pleural Effusion;Lung;Pleural Effusion;Markings;Pulmonary Congestion
+
+MESH:
+Pleural Effusion/left/large;Lung/left/hypoinflation;Pleural Effusion/right/small;Markings/lung/right/bronchovascular;Pulmonary Congestion/right

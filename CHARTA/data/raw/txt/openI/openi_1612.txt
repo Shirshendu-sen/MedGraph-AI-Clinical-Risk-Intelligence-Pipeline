@@ -1,0 +1,16 @@
+UID: 1667
+
+INDICATION:
+XXXX-year-old male with preoperative prostate surgery. No chest complaints. Hypertension.
+
+FINDINGS:
+The cardiac and mediastinal silhouettes are normal. The lungs are well-expanded and clear. There is no focal airspace opacity. There is no pneumothorax or effusion. There is irregularity of the 7th posterior right rib with underlying pleural thickening.
+
+IMPRESSION:
+1. No evidence of acute cardiopulmonary process. 2. Irregularity of the posterior right 7th rib with underlying pleural thickening. This may be related to XXXX XXXX, however, if there is no known history, consider comparison with prior studies if available XXXX of the chest for further evaluation
+
+PROBLEMS:
+Thickening;Deformity
+
+MESH:
+Thickening/pleura;Deformity/ribs/right/posterior

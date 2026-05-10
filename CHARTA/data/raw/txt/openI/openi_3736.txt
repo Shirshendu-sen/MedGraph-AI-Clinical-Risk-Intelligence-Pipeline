@@ -1,0 +1,16 @@
+UID: 3883
+
+INDICATION:
+The patient is a XXXX-year-old female with left-sided chest pain.
+
+FINDINGS:
+No pneumothorax, pleural effusion or airspace consolidation. Heart size and pulmonary vasculature appear within normal limits. XXXX XXXX are intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

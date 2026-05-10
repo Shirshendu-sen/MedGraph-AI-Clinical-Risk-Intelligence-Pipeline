@@ -1,0 +1,16 @@
+UID: 3056
+
+INDICATION:
+XXXX-year-old woman, vomiting
+
+FINDINGS:
+There is a XXXX moderate layering right pleural effusion with air fluid level noted. XXXX airspace opacity at the superior segment of the right lower lobe. No visualized pneumothorax. The right lateral heart XXXX is obscured. The left lung is clear without focal consolidation. No visualized pneumothorax. No acute bone abnormality.
+
+IMPRESSION:
+XXXX airspace disease within the superior segment of the right lower lobe with moderate layering right pleural effusion with air fluid level. Follow up to resolution or cross sectional imaging of the chest recommended to rule out malignancy.
+
+PROBLEMS:
+Pleural Effusion;Opacity;Heart;Airspace Disease;Hydropneumothorax
+
+MESH:
+Pleural Effusion/right/moderate;Opacity/lung/lower lobe/right;Heart/right/obscured;Airspace Disease/lung/lower lobe/right;Hydropneumothorax/right

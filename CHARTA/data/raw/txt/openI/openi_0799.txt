@@ -1,0 +1,16 @@
+UID: 825
+
+INDICATION:
+Shortness of breath
+
+FINDINGS:
+None
+
+IMPRESSION:
+Patchy bilateral airspace disease with pulmonary XXXX, XXXX a combination of atelectasis and consolidation. Borderline cardiac enlargement. Tracheostomy tube tip 6.4 cm above the carina.
+
+PROBLEMS:
+Airspace Disease;Pulmonary Atelectasis;Consolidation;Cardiomegaly;Tube, Inserted
+
+MESH:
+Airspace Disease/lung/bilateral/patchy;Pulmonary Atelectasis/bilateral;Consolidation/lung/bilateral;Cardiomegaly/borderline;Tube, Inserted/trachea, carina

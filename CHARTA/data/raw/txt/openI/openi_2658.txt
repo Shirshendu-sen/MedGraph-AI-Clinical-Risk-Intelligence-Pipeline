@@ -1,0 +1,16 @@
+UID: 2761
+
+INDICATION:
+XXXX-year-old male with shortness of breath.
+
+FINDINGS:
+Stable, normal cardiac size, mediastinum, and central pulmonary vasculature. Interval development of mild patchy airspace opacities within the posterior aspect of the right upper lobe, concerning for underlying pneumonia. Stable mild background chronic interstitial changes. No evidence of associated pleural effusion or pneumothorax. Multilevel midthoracic degenerative changes, with prominent anterolateral marginal osteophytes.
+
+IMPRESSION:
+1. Suspected mild patchy right upper lobe pneumonia, for which clinical correlation is recommended.
+
+PROBLEMS:
+Opacity;Lung Diseases, Interstitial;Thoracic Vertebrae;Osteophyte
+
+MESH:
+Opacity/lung/upper lobe/right/posterior/patchy/mild;Lung Diseases, Interstitial/chronic/mild;Thoracic Vertebrae/degenerative/multiple;Osteophyte/thoracic vertebrae/prominent/multiple

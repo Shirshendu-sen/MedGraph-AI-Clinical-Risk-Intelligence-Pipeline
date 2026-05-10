@@ -1,0 +1,16 @@
+UID: 2424
+
+INDICATION:
+Left chest pain rule out rib fracture
+
+FINDINGS:
+The lungs are clear. There is no pleural effusion or pneumothorax. The heart is not significantly enlarged. The mediastinum is normal. Arthritic changes of the skeletal structures are noted.
+
+IMPRESSION:
+No acute pulmonary disease. No gross evidence for rib fracture.
+
+PROBLEMS:
+Arthritis
+
+MESH:
+Arthritis

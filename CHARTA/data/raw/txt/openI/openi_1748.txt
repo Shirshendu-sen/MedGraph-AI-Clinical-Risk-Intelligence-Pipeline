@@ -1,0 +1,16 @@
+UID: 1807
+
+INDICATION:
+Dyspnea
+
+FINDINGS:
+The heart is mild enlarged. Central pulmonary vascularity is again accentuated. There are also mild increased interstitial markings without focal consolidation or pleural effusion.
+
+IMPRESSION:
+Mild stable cardiomegaly with mild central pulmonary vascular congestion and interstitial accentuation, XXXX edema.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Markings;Pulmonary Edema
+
+MESH:
+Cardiomegaly/mild;Pulmonary Congestion/mild;Markings/lung/interstitial/mild;Pulmonary Edema

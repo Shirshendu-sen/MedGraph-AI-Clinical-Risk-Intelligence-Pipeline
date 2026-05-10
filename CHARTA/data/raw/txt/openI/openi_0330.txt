@@ -1,0 +1,16 @@
+UID: 342
+
+INDICATION:
+Preoperative renal transplant.
+
+FINDINGS:
+The lungs and pleural spaces show no acute abnormality. Stable left upper lobe calcified granuloma. Heart size is mildly enlarged, pulmonary vascularity within normal limits. Mild tortuosity of the descending thoracic aorta.
+
+IMPRESSION:
+1. No acute pulmonary findings. 2. Mild cardiomegaly.
+
+PROBLEMS:
+Cardiomegaly;Calcified Granuloma;Aorta, Thoracic
+
+MESH:
+Cardiomegaly/mild;Calcified Granuloma/lung/upper lobe/left;Aorta, Thoracic/tortuous/mild

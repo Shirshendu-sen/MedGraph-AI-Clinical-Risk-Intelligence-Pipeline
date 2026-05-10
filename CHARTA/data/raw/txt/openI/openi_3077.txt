@@ -1,0 +1,16 @@
+UID: 3204
+
+INDICATION:
+Preop for back surgery, XXXX.
+
+FINDINGS:
+The lungs are clear. There is no pleural effusion. The heart is normal. There are atherosclerotic changes of the aorta. Senescent changes of the spine are seen.
+
+IMPRESSION:
+No acute pulmonary disease.
+
+PROBLEMS:
+Atherosclerosis
+
+MESH:
+Atherosclerosis/aorta

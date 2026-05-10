@@ -1,0 +1,16 @@
+UID: 1174
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+Normal cardiac contours. No pneumothorax or pleural effusions. Clear left lung XXXX. Right middle lobe with increased opacities, XXXX representative of infiltrate.
+
+IMPRESSION:
+1. No pneumothorax or pleural effusion. 2. Right middle lobe infiltrate.
+
+PROBLEMS:
+Opacity;Infiltrate
+
+MESH:
+Opacity/lung/middle lobe/right;Infiltrate/lung/middle lobe/right

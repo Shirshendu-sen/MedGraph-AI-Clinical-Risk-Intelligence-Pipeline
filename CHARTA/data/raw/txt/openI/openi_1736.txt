@@ -1,0 +1,16 @@
+UID: 1795
+
+INDICATION:
+XXXX-year-old female, CHF
+
+FINDINGS:
+There is moderate cardiomegaly. No interstitial edema or pleural effusion. No focal airspace consolidation. No pneumothorax. There is mild degenerative disc disease of the thoracic spine.
+
+IMPRESSION:
+1. Cardiomegaly without radiographic evidence of heart failure. 2. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Cardiomegaly;Thoracic Vertebrae
+
+MESH:
+Cardiomegaly/moderate;Thoracic Vertebrae/degenerative/mild

@@ -1,0 +1,16 @@
+UID: 3797
+
+INDICATION:
+Left rib fractures
+
+FINDINGS:
+XXXX XXXX and lateral chest examination was obtained. The heart silhouette and mediastinal contours are not enlarged. Lungs demonstrate left lower lobe air space opacity with XXXX atelectasis without significant change. There is no effusion or pneumothorax.
+
+IMPRESSION:
+1. Left lower lobe air space opacities without significant change.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/lower lobe/left;Pulmonary Atelectasis/lower lobe/left

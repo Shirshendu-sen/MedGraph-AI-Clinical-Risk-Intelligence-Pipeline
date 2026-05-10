@@ -1,0 +1,16 @@
+UID: 3896
+
+INDICATION:
+XXXX-year-old female with nausea. History of Hodgkin's lymphoma.
+
+FINDINGS:
+There are low lung volumes. The lungs are clear. No focal airspace consolidation. No pleural effusion or pneumothorax. Heart size and mediastinal contour appear within normal limits.
+
+IMPRESSION:
+No acute abnormality demonstrated.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

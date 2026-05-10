@@ -1,0 +1,16 @@
+UID: 1605
+
+INDICATION:
+XXXX pleuritic pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+No comparison chest x-XXXX. Clear lungs. No effusions. Unremarkable mediastinal contour. No acute cardiopulmonary abnormality identified..
+
+PROBLEMS:
+normal
+
+MESH:
+normal

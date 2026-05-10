@@ -1,0 +1,16 @@
+UID: 2647
+
+INDICATION:
+XXXX-year-old XXXX with shortness of breath.
+
+FINDINGS:
+The lungs are clear, and without focal airspace opacity. The cardiomediastinal silhouette is normal in size and contour, and stable. There is no pneumothorax or large pleural effusion. XXXX foreign body in the posterior soft tissues appear stable.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Foreign Bodies
+
+MESH:
+Foreign Bodies/posterior

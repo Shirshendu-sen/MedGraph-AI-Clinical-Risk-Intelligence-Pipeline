@@ -1,0 +1,16 @@
+UID: 1075
+
+INDICATION:
+Shortness of breath.
+
+FINDINGS:
+Lungs are hyperinflated with interstitial changes of severe emphysema. There is an ill-defined pleural parenchymal opacity in the left upper lobe. This may represent scarring but is incompletely evaluated on the outside study, without coronal and sagittal reformats. There is mild XXXX scarring and/or atelectasis in the lung bases. Lungs otherwise grossly clear. There is no pneumothorax or pleural effusion. Heart size is normal. There are mild degenerative endplate changes in the thoracic spine. There is generalized osteopenia.
+
+IMPRESSION:
+1. Severe emphysema. 2. Irregular, pleural-parenchymal opacity in left upper lobe. This may irregular pleural-parenchymal scarring, however, recommend comparison with more remote outside imaging, if available to determine long-term stability. If none are available, recommend short-term XXXX in 3 to 4 months. Evaluation of coronal and sagittal reformatted images from the outside study would also be helpful. These were not XXXX available at the outside institution. Malignancy cannot be confidently excluded on the available images.
+
+PROBLEMS:
+Lung;Pulmonary Emphysema;Opacity;Cicatrix;Pulmonary Atelectasis;Thoracic Vertebrae;Bone Diseases, Metabolic
+
+MESH:
+Lung/hyperdistention;Pulmonary Emphysema/severe;Opacity/pleura/upper lobe/left/irregular;Cicatrix/lung/base/bilateral/mild;Pulmonary Atelectasis/base/bilateral/mild;Thoracic Vertebrae/degenerative/mild;Bone Diseases, Metabolic

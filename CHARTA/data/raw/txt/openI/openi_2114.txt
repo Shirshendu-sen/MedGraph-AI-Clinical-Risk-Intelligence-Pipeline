@@ -1,0 +1,16 @@
+UID: 2193
+
+INDICATION:
+Kidney transplant evaluation
+
+FINDINGS:
+Again noted and is blunting of the right pleural space, XXXX a XXXX effusion or scarring. Opacity in the right lung base also appears unchanged, XXXX scarring. Heart size appears normal, improved from prior study. There is no vascular congestion or edema. There's no pneumothorax.
+
+IMPRESSION:
+1. Stable right basilar scarring and right pleural thickening
+
+PROBLEMS:
+Pleura;Pleural Effusion;Cicatrix;Opacity;Cicatrix;Thickening
+
+MESH:
+Pleura/right/blunted;Pleural Effusion/right;Cicatrix/pleura/right;Opacity/lung/base/right;Cicatrix/lung/base/right;Thickening/pleura/right

@@ -1,0 +1,16 @@
+UID: 834
+
+INDICATION:
+Exertional chest pain
+
+FINDINGS:
+The cardiac silhouette pulmonary vascularity are normal. The lungs are clear. There is no evidence of pleural effusion or pneumothorax. Mild degenerative changes are present in the XXXX spine.
+
+IMPRESSION:
+No evidence of acute cardiopulmonary disease.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative/mild

@@ -1,0 +1,16 @@
+UID: 178
+
+INDICATION:
+XXXX-year-old woman, hypoxia.
+
+FINDINGS:
+Cardiomediastinal silhouette stable with atherosclerosis of the thoracic aorta. Diffusely coarsened interstitial markings are noted consistent with chronic lung disease, with worsened patchy opacities and a left apex and right base. No pneumothorax or pleural effusion. No acute bony abnormality.
+
+IMPRESSION:
+Changes of chronic interstitial lung disease with ill-defined patchy left apical and right basilar airspace disease. PA and lateral chest radiograph may be of benefit XXXX clinically feasible.
+
+PROBLEMS:
+Atherosclerosis;Markings;Lung Diseases, Interstitial;Opacity;Opacity;Airspace Disease;Airspace Disease
+
+MESH:
+Atherosclerosis/aorta, thoracic;Markings/lung/interstitial/diffuse;Lung Diseases, Interstitial/chronic;Opacity/lung/apex/left/patchy;Opacity/lung/base/right/patchy;Airspace Disease/lung/apex/left/patchy;Airspace Disease/lung/base/right/patchy

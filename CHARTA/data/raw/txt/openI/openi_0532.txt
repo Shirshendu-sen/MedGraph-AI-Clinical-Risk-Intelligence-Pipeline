@@ -1,0 +1,16 @@
+UID: 548
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+Cardiomediastinal silhouette is within normal limits in overall size and appearance. Central vascular markings are symmetric and within normal limits. The lungs are normally inflated with no focal airspace disease, pleural effusion or pneumothorax. No acute bony abnormality. Stable scarring in the right lung apex.
+
+IMPRESSION:
+1. No acute cardiopulmonary process.
+
+PROBLEMS:
+Cicatrix
+
+MESH:
+Cicatrix/lung/apex/right

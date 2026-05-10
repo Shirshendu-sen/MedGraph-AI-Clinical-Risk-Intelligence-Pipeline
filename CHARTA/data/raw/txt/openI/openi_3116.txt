@@ -1,0 +1,16 @@
+UID: 3243
+
+INDICATION:
+XXXX, history of renal transplant
+
+FINDINGS:
+Normal heart size. Diffuse bilateral reticulonodular interstitial opacities. There are no XXXX of a large pleural effusion. There is no evidence of pneumothorax. Heart is not enlarged. XXXX are unremarkable.
+
+IMPRESSION:
+Compared to XXXX, there are XXXX extensive bilateral reticulonodular interstitial opacities, concerning for atypical infection. Result notification XXXX Primordial. .
+
+PROBLEMS:
+Opacity
+
+MESH:
+Opacity/lung/bilateral/interstitial/diffuse/reticular/round/severe

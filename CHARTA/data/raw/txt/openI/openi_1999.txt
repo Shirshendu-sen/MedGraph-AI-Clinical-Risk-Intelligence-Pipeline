@@ -1,0 +1,16 @@
+UID: 2073
+
+INDICATION:
+History XXXX with rhonchi bone pain and nosebleed.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Lungs are clear. Tortuous aorta. Prominent first ribs. No nodules, masses, or adenopathy.
+
+PROBLEMS:
+Aorta;Ribs
+
+MESH:
+Aorta/tortuous;Ribs/prominent

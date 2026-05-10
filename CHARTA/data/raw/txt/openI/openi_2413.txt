@@ -1,0 +1,16 @@
+UID: 2499
+
+INDICATION:
+XXXX-year-old male with dyspnea
+
+FINDINGS:
+Low lung volumes bilaterally with bibasilar airspace opacities, right greater than left. There is blunting of the bilateral costophrenic sulci. Cardiac device overlies left chest, leads intact, tips overlying right atrium and right ventricle. No pneumothorax. Cardiomegaly. Degenerative changes of the spine.
+
+IMPRESSION:
+Cardiomegaly with bibasilar airspace disease and bilateral pleural effusions, right greater than left. .
+
+PROBLEMS:
+Lung;Opacity;Costophrenic Angle;Implanted Medical Device;Cardiomegaly;Spine;Airspace Disease;Pleural Effusion
+
+MESH:
+Lung/bilateral/hypoinflation;Opacity/lung/base/bilateral;Costophrenic Angle/sulcus/bilateral/blunted;Implanted Medical Device/left;Cardiomegaly;Spine/degenerative;Airspace Disease/lung/base/bilateral;Pleural Effusion/bilateral

@@ -1,0 +1,16 @@
+UID: 1752
+
+INDICATION:
+dx with lung mass
+
+FINDINGS:
+Size is normal limits. Cardiomediastinal silhouette has normal contour. There is a vague opacity in the right infrahilar region. There is also a 5 mm well circumscribed nodule in the right upper lung XXXX. It is not well visualized on lateral view.
+
+IMPRESSION:
+1. Right perihilar lung nodule. Recommend CT thorax with contrast to further assess. Dr. XXXX XXXX the findings XXXX.
+
+PROBLEMS:
+Opacity;Nodule
+
+MESH:
+Opacity/lung/hilum/right;Nodule/lung/upper lobe/hilum/right

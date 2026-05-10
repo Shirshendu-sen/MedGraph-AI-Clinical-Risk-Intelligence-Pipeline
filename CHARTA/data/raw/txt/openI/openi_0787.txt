@@ -1,0 +1,16 @@
+UID: 811
+
+INDICATION:
+XXXX-year-old female with chest pain
+
+FINDINGS:
+The heart is normal size. The mediastinum is unremarkable. There is no pleural effusion, pneumothorax, or focal airspace disease. There is stable irregularity of the posterior left 6th rib which XXXX represents an old fracture..
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Fractures, Bone
+
+MESH:
+Fractures, Bone/ribs/left/healed

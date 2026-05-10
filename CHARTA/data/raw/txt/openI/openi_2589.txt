@@ -1,0 +1,16 @@
+UID: 2687
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+The heart size and mediastinal contours appear within normal limits. No focal airspace consolidation, pleural effusions or pneumothorax. Surgical clips overlying the left breast soft tissues. Multilevel degenerative changes of the thoracic spine. No acute bony abnormalities.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Surgical Instruments;Thoracic Vertebrae
+
+MESH:
+Surgical Instruments/breast/left;Thoracic Vertebrae/degenerative/multiple

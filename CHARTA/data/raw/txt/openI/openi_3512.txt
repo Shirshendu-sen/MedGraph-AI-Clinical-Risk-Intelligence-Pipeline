@@ -1,0 +1,16 @@
+UID: 3653
+
+INDICATION:
+Dyspnea, XXXX and chills.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. There are diminished lung volumes with XXXX XXXX atelectasis. The cardiac silhouette is unchanged. There is mild to moderate tortuosity of the thoracic aorta. No focal consolidation, pleural effusion, or pneumothorax identified. Thoracic spondylosis is again seen.
+
+IMPRESSION:
+Low lung volumes with minimal bibasilar atelectasis. Overall no significant interval change.
+
+PROBLEMS:
+Lung;Pulmonary Atelectasis;Aorta, Thoracic;Spondylosis
+
+MESH:
+Lung/hypoinflation;Pulmonary Atelectasis/base/bilateral/mild;Aorta, Thoracic/tortuous/moderate;Spondylosis/thoracic vertebrae

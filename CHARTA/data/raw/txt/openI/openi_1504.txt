@@ -1,0 +1,16 @@
+UID: 1556
+
+INDICATION:
+XXXX-year-old male with history of XXXX.
+
+FINDINGS:
+Heart size appears upper limits of normal. Tortuous aorta. Otherwise normal mediastinum. Confluent and XXXX opacities seen within the left base. There are no visible nodules or masses. No visible pneumothorax. The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm.
+
+IMPRESSION:
+1. Left basilar mixed interstitial and alveolar infiltrate. Interval followup to resolution is recommended.
+
+PROBLEMS:
+Aorta;Opacity;Infiltrate;Infiltrate
+
+MESH:
+Aorta/tortuous;Opacity/lung/base/left/multiple;Infiltrate/lung/base/left/interstitial;Infiltrate/lung/base/pulmonary alveoli/left

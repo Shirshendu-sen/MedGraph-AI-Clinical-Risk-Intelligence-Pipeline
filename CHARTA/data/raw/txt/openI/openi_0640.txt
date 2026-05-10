@@ -1,0 +1,16 @@
+UID: 659
+
+INDICATION:
+XXXX year old female chest pain.
+
+FINDINGS:
+Heart size within normal limits. Tortuous aorta. Low lung volumes with no focal consolidations. No pneumothorax or effusion. Moderate degenerative disc disease in the midthoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Aorta;Lung;Thoracic Vertebrae
+
+MESH:
+Aorta/tortuous;Lung/hypoinflation;Thoracic Vertebrae/degenerative/moderate

@@ -1,0 +1,16 @@
+UID: 2411
+
+INDICATION:
+XXXX-year-old female, pain, short of breath
+
+FINDINGS:
+Mild cardiomegaly, stable mediastinal contours. No focal alveolar consolidation, no definite pleural effusion seen. Mild bronchovascular crowding without typical findings of pulmonary edema.
+
+IMPRESSION:
+Mild cardiomegaly, no acute pulmonary findings
+
+PROBLEMS:
+Cardiomegaly;Markings
+
+MESH:
+Cardiomegaly/mild;Markings/bronchovascular/mild

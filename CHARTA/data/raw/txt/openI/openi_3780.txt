@@ -1,0 +1,16 @@
+UID: 3928
+
+INDICATION:
+Cardiac stents, preop
+
+FINDINGS:
+The cardiac contours are normal. Aortic calcification. Prior granulomatous disease. The lungs are clear. Thoracic spondylosis.
+
+IMPRESSION:
+No acute process.
+
+PROBLEMS:
+Calcinosis;Granulomatous Disease;Spondylosis
+
+MESH:
+Calcinosis/aorta;Granulomatous Disease;Spondylosis/thoracic vertebrae

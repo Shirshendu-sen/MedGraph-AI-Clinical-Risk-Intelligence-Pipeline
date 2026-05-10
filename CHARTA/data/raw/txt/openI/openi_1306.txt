@@ -1,0 +1,16 @@
+UID: 1354
+
+INDICATION:
+XXXX year old with chest pain.
+
+FINDINGS:
+The heart is normal in size and contour. The lung volumes are low with bronchovascular crowding. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Lung;Markings
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular

@@ -1,0 +1,16 @@
+UID: 2974
+
+INDICATION:
+XXXX year-old male with esophageal dyskinesia. Esophageal surgery performed 3 weeks ago.
+
+FINDINGS:
+Postsurgical changes are noted in the mediastinum. There is tortuosity and/or ectasia of the thoracic and upper abdominal aorta. No consolidative airspace opacities. Blunting of the lateral and posterior left costophrenic sulcus may represent residual postsurgical effusion or pleural-parenchymal scarring. No demonstrable pneumothorax. Cardiomediastinal silhouette within normal limits. Multilevel anterior osteophytes of the thoracic spine.
+
+IMPRESSION:
+1. Small left basilar parenchymal scarring and/or effusion. 2. Postsurgical changes of the mediastinum. 3. Otherwise unremarkable chest radiograph.
+
+PROBLEMS:
+Aorta;Costophrenic Angle;Osteophyte;Cicatrix;Pleural Effusion
+
+MESH:
+Aorta/tortuous;Costophrenic Angle/sulcus/left/posterior/blunted;Osteophyte/thoracic vertebrae/anterior/multiple;Cicatrix/lung/base/left/small;Pleural Effusion/base/left/small

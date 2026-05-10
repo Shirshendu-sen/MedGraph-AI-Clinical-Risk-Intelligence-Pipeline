@@ -1,0 +1,16 @@
+UID: 590
+
+INDICATION:
+Abdominal pain. Recent pneumonia.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal size and configuration. Pulmonary vasculature within normal limits. There is right middle lobe airspace disease, may reflect atelectasis or pneumonia. No pleural effusion. No pneumothorax. Elevated right hemidiaphragm.
+
+IMPRESSION:
+Right middle lobe airspace disease may reflect atelectasis or pneumonia. .
+
+PROBLEMS:
+Airspace Disease;Diaphragm
+
+MESH:
+Airspace Disease/lung/middle lobe/right;Diaphragm/right/elevated

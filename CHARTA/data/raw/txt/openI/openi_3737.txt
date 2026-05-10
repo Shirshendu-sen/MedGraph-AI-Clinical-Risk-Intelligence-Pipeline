@@ -1,0 +1,16 @@
+UID: 3884
+
+INDICATION:
+XXXX-year-old female with shortness of breath.
+
+FINDINGS:
+Diffuse, right greater than left, interstitial opacities. Central vascular congestion. No pneumothorax or focal consolidation. No pleural effusion. Heart size normal.
+
+IMPRESSION:
+Bilateral interstitial opacities and central vascular congestion XXXX interstitial edema.
+
+PROBLEMS:
+Opacity;Pulmonary Congestion;Pulmonary Edema
+
+MESH:
+Opacity/lung/bilateral/interstitial/diffuse;Pulmonary Congestion;Pulmonary Edema/interstitial

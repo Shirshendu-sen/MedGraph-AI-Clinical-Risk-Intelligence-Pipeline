@@ -1,0 +1,16 @@
+UID: 3394
+
+INDICATION:
+Preop anesthesia XXXX for temporal cancer.
+
+FINDINGS:
+The cardiac contours are normal. XXXX scarring left base. The lungs are clear. Thoracic spondylosis.
+
+IMPRESSION:
+No acute preoperative process.
+
+PROBLEMS:
+Cicatrix;Spondylosis
+
+MESH:
+Cicatrix/lung/base/left;Spondylosis/thoracic vertebrae

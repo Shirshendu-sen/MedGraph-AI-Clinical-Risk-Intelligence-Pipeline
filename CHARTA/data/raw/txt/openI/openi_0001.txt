@@ -1,0 +1,16 @@
+UID: 2
+
+INDICATION:
+Preop bariatric surgery.
+
+FINDINGS:
+Borderline cardiomegaly. Midline sternotomy XXXX. Enlarged pulmonary arteries. Clear lungs. Inferior XXXX XXXX XXXX.
+
+IMPRESSION:
+No acute pulmonary findings.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Artery
+
+MESH:
+Cardiomegaly/borderline;Pulmonary Artery/enlarged

@@ -1,0 +1,16 @@
+UID: 1317
+
+INDICATION:
+The left lateral rib pain, XXXX, gunshot wound 40 years ago
+
+FINDINGS:
+Lungs are clear. There is minimal atelectasis in the left base. No effusion or pneumothorax. Heart and mediastinal contours within normal limits. XXXX density foreign body present in the soft tissues overlying the left lateral chest wall. Visualized osseous structures intact.
+
+IMPRESSION:
+Minimal atelectasis left base, no acute abnormality.
+
+PROBLEMS:
+Pulmonary Atelectasis;Foreign Bodies;Density
+
+MESH:
+Pulmonary Atelectasis/base/left/mild;Foreign Bodies/thorax/left;Density/thorax/left

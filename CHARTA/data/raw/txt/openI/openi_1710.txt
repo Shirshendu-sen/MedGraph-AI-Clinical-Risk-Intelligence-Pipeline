@@ -1,0 +1,16 @@
+UID: 1768
+
+INDICATION:
+786.2 XXXX
+
+FINDINGS:
+There is minimal scarring in the lung apices. The lungs are otherwise clear. Heart size is normal. No pneumothorax. There is dextrocurvature within the spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Cicatrix;Scoliosis
+
+MESH:
+Cicatrix/lung/apex/bilateral/mild;Scoliosis/right

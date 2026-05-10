@@ -1,0 +1,16 @@
+UID: 1527
+
+INDICATION:
+Dyspnea and weakness
+
+FINDINGS:
+Heart size slightly upper normal. Atherosclerotic calcifications within the aorta.. Lungs are hyperexpanded with flattening of the diaphragms consistent with emphysematous change. No focal airspace disease, pleural effusion, or pneumothorax. Degenerative changes of the spine are noted.
+
+IMPRESSION:
+1. Emphysematous change without acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Pulmonary Emphysema;Atherosclerosis;Lung;Diaphragm;Spine
+
+MESH:
+Pulmonary Emphysema;Atherosclerosis/aorta;Lung/hyperdistention;Diaphragm/flattened;Spine/degenerative

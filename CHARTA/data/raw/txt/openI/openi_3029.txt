@@ -1,0 +1,16 @@
+UID: 3155
+
+INDICATION:
+XXXX-year-old male, pain
+
+FINDINGS:
+Heart size mildly enlarged with enlarged right atrium. No focal alveolar consolidation, no definite pleural effusion seen. No pneumothorax.
+
+IMPRESSION:
+Cardiomegaly, no acute pulmonary findings
+
+PROBLEMS:
+Cardiomegaly;Heart Atria
+
+MESH:
+Cardiomegaly/mild;Heart Atria/right/enlarged

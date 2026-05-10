@@ -1,0 +1,16 @@
+UID: 3826
+
+INDICATION:
+XXXX-year-old male with pain.
+
+FINDINGS:
+Heart size and cardiomediastinal contours are normal. Lungs are clear without focal air space opacity, pleural effusion, or pneumothorax. Osseous structures are intact.
+
+IMPRESSION:
+Negative for acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

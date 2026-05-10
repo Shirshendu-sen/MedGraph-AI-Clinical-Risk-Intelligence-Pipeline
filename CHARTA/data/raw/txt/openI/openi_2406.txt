@@ -1,0 +1,16 @@
+UID: 2492
+
+INDICATION:
+Preoperative exam for hip surgery
+
+FINDINGS:
+The The cardiac silhouette and pulmonary vascularity are normal. Atherosclerotic changes are present in the thoracic aorta. The lungs are clear with no evidence of pleural effusion or pneumothorax . Deformity of multiple left anterior ribs are present from previous fractures. Lumbar scoliosis is noted.
+
+IMPRESSION:
+No evidence of acute cardiopulmonary disease.
+
+PROBLEMS:
+Atherosclerosis;Deformity;Fractures, Bone;Scoliosis
+
+MESH:
+Atherosclerosis/aorta, thoracic;Deformity/ribs/left/anterior/multiple;Fractures, Bone/ribs/left/anterior/multiple;Scoliosis/lumbar vertebrae

@@ -1,0 +1,16 @@
+UID: 555
+
+INDICATION:
+XXXX-year-old female dyspnea.
+
+FINDINGS:
+Heart size normal. No focal airspace consolidations. No pneumothorax or effusion. Degenerative changes in the midthoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative

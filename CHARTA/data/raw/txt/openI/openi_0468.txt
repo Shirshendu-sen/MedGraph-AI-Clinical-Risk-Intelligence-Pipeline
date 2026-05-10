@@ -1,0 +1,16 @@
+UID: 483
+
+INDICATION:
+Pneumonia
+
+FINDINGS:
+There is flattening of hemidiaphragms. There are prominent interstitial markings. There is no focal consolidation to suggest pneumonia. There are atherosclerotic institutions of the aorta. The heart is of the first limits of normal size. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+1. Hyperexpanded lungs with flattened hemidiaphragm suggesting COPD. 2. Borderline enlarged heart. 3. No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Diaphragm;Markings;Atherosclerosis;Lung;Cardiomegaly
+
+MESH:
+Diaphragm/flattened;Markings/lung/interstitial/prominent;Atherosclerosis/aorta;Lung/hyperdistention;Cardiomegaly/borderline

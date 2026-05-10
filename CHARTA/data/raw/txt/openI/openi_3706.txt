@@ -1,0 +1,16 @@
+UID: 3851
+
+INDICATION:
+XXXX-year-old male with right substernal chest pain
+
+FINDINGS:
+No pneumothorax, pleural effusion, or focal airspace disease. Nodular densities consistent with chronic granulomatous disease. Bony structures appear intact. Heart size normal.
+
+IMPRESSION:
+Negative for acute cardiopulmonary disease.
+
+PROBLEMS:
+Density;Granulomatous Disease
+
+MESH:
+Density/lung/round/multiple;Granulomatous Disease/chronic

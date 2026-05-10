@@ -1,0 +1,16 @@
+UID: 2802
+
+INDICATION:
+XXXX-year-old female with XXXX
+
+FINDINGS:
+Hyperexpanded lungs. Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Multiple surgical clips overlie the midabdomen.
+
+IMPRESSION:
+Negative for acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung;Surgical Instruments
+
+MESH:
+Lung/hyperdistention;Surgical Instruments/abdomen/multiple

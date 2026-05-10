@@ -1,0 +1,16 @@
+UID: 2622
+
+INDICATION:
+XXXX-year-old male, history of head and neck cancer
+
+FINDINGS:
+Normal heart size and mediastinal contours. No focal airspace consolidation. Tracheostomy tip approximately 5 cm above the carina. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Tube, Inserted
+
+MESH:
+Tube, Inserted/trachea, carina

@@ -1,0 +1,16 @@
+UID: 3175
+
+INDICATION:
+Evaluate for tuberculosis, starting immunosuppressive medication for rheumatoid arthritis
+
+FINDINGS:
+Stable obscuration of the left cardiac XXXX, XXXX representing left pleural thickening. Stable nodular opacity within the left midlung. The lungs are clear bilaterally with no focal consolidation, pleural effusions, or pneumothoraces. Cardiomediastinal silhouette is stable. XXXX are unremarkable.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. No evidence of tuberculosis.
+
+PROBLEMS:
+Heart;Thickening;Opacity
+
+MESH:
+Heart/left/obscured;Thickening/pleura/left;Opacity/lung/lingula/round

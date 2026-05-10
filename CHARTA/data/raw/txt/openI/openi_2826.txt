@@ -1,0 +1,16 @@
+UID: 2945
+
+INDICATION:
+XXXX-year-old male, lightheaded.
+
+FINDINGS:
+Diffuse bilateral coarse interstitial markings are unchanged. No focal consolidation, pleural effusion, pneumothoraces. Cardiomediastinal silhouette is within normal limits. Degenerative changes of the shoulder. Soft tissues are unremarkable..
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Markings;Shoulder
+
+MESH:
+Markings/lung/bilateral/interstitial/diffuse;Shoulder/degenerative

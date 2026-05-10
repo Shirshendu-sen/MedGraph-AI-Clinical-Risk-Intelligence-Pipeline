@@ -1,0 +1,16 @@
+UID: 2044
+
+INDICATION:
+XXXX and blood streak sputum
+
+FINDINGS:
+Low lung volumes with bronchovascular crowding at the bases. No focal opacity. No pneumothorax. No large pleural effusion. Cardiac silhouette mediastinal contours within normal limits.
+
+IMPRESSION:
+Low lung volumes without acute cardiopulmonary disease.
+
+PROBLEMS:
+Lung;Markings
+
+MESH:
+Lung/hypoinflation;Markings/lung/base/bilateral/bronchovascular

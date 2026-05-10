@@ -1,0 +1,16 @@
+UID: 113
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The heart and mediastinum are unremarkable. There are two subcentimeter hyperdense nodular opacities are noted within the right lung. These may represent XXXX on end or alternatively, calcified granulomas. The lungs are clear without infiltrate. There is no effusion or pneumothorax.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease.
+
+PROBLEMS:
+Opacity;Density;Nodule
+
+MESH:
+Opacity/lung/right;Density/lung/right;Nodule/lung/right

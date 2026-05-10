@@ -1,0 +1,16 @@
+UID: 1721
+
+INDICATION:
+XXXX-year-old with XXXX chest pain.
+
+FINDINGS:
+The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. The patient was shielded.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

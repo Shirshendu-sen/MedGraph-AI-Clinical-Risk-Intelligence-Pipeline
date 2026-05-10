@@ -1,0 +1,16 @@
+UID: 3862
+
+INDICATION:
+History of syncope
+
+FINDINGS:
+None
+
+IMPRESSION:
+Clear lungs. Enlarged left ventricle. A tortuous dilated aorta. No pneumonia
+
+PROBLEMS:
+Heart Ventricles;Aorta
+
+MESH:
+Heart Ventricles/left/enlarged;Aorta/tortuous

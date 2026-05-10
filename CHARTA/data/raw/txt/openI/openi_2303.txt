@@ -1,0 +1,16 @@
+UID: 2386
+
+INDICATION:
+XXXX-year-old female, rule out mass or TB.
+
+FINDINGS:
+Heart size is normal. No pneumothorax or pleural effusions. There is an 8 mm calcified nodule in the left midlung. There is also a 7 mm calcified nodule near the left hilum. Hyperexpanded lungs consistent with chronic obstructive pulmonary disease.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Calcinosis;Nodule;Calcinosis;Nodule;Lung;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Calcinosis/lung/lingula;Nodule/lung/lingula;Calcinosis/lung/hilum/left;Nodule/lung/hilum/left;Lung/hyperdistention;Pulmonary Disease, Chronic Obstructive

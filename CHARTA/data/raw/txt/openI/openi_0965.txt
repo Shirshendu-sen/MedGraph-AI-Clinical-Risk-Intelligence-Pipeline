@@ -1,0 +1,16 @@
+UID: 998
+
+INDICATION:
+XXXX-year-old XXXX with pain.
+
+FINDINGS:
+Cardiomediastinal silhouette demonstrates normal heart size with tortuosity and atherosclerosis of the thoracic aorta. No focal consolidation, pneumothorax, or pleural effusion. No acute bony abnormality identified. Multilevel degenerative disc disease of the thoracic spine noted.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Atherosclerosis;Aorta, Thoracic;Thoracic Vertebrae
+
+MESH:
+Atherosclerosis/aorta, thoracic;Aorta, Thoracic/tortuous;Thoracic Vertebrae/degenerative/multiple

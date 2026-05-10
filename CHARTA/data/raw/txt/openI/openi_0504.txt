@@ -1,0 +1,16 @@
+UID: 519
+
+INDICATION:
+The patient is a XXXX-year-old male with XXXX, shortness of breath. History of smoking 30 years ago.
+
+FINDINGS:
+No pneumothorax, pleural effusion or airspace consolidation. Cardiomediastinal size is within normal limits. XXXX XXXX intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+normal
+
+MESH:
+normal

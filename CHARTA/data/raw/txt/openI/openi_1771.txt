@@ -1,0 +1,16 @@
+UID: 1830
+
+INDICATION:
+XXXX-year-old male. Shortness of breath. Back pain.
+
+FINDINGS:
+Left anterior chest wall pacemaker/defibrillator. Stable cardiomediastinal silhouette. No focal consolidation, pneumothorax or large pleural effusion. Exaggerated thoracic kyphosis. Spurring of thoracic spine.
+
+IMPRESSION:
+Negative for acute abnormality.
+
+PROBLEMS:
+Implanted Medical Device;Kyphosis;Osteophyte
+
+MESH:
+Implanted Medical Device/left;Kyphosis/thoracic vertebrae/severe;Osteophyte/thoracic vertebrae

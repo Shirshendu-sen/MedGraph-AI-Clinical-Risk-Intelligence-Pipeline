@@ -1,0 +1,16 @@
+UID: 930
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+Lung volumes are low. No focal infiltrates. Pulmonary XXXX are normal.
+
+IMPRESSION:
+XXXX change. Hypoinflation with no visible active cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

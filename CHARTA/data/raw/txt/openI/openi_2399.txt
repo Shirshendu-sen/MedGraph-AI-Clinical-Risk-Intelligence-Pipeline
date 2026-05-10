@@ -1,0 +1,16 @@
+UID: 2485
+
+INDICATION:
+Hypoxic with low-grade XXXX.
+
+FINDINGS:
+There is bilateral lower lung airspace disease. There are small to moderate sized bilateral pleural effusions, left greater than right. There is no pneumothorax. Mediastinal silhouette normal. Calcified left hilar lymph XXXX.
+
+IMPRESSION:
+Small to moderate sized bilateral pleural effusions with adjacent infiltrate or atelectasis.
+
+PROBLEMS:
+Airspace Disease;Pleural Effusion;Calcinosis;Infiltrate;Pulmonary Atelectasis
+
+MESH:
+Airspace Disease/lung/lower lobe/bilateral;Pleural Effusion/bilateral/moderate;Calcinosis/lung/hilum/lymph nodes/left;Infiltrate/lung/bilateral;Pulmonary Atelectasis/bilateral

@@ -1,0 +1,16 @@
+UID: 3153
+
+INDICATION:
+pain at xiphoid
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal. Hyperexpanded lungs with minimal interstitial prominence. Most XXXX represents XXXX's lung. No nodules or masses. Bilateral nipple shadows seen
+
+PROBLEMS:
+Lung;Lung;Nipple Shadow
+
+MESH:
+Lung/hyperdistention;Lung/interstitial/prominent/mild;Nipple Shadow/bilateral

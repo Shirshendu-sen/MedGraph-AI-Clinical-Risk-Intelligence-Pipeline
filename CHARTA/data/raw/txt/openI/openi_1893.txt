@@ -1,0 +1,16 @@
+UID: 1958
+
+INDICATION:
+PRE OP EVALUATION -- pre op for colostomy takedown prev hx bilat pleural effusions x 6 XXXX ago, XXXX with chronic dyspnea. Left pneumothorax.
+
+FINDINGS:
+The lungs are hyperaerated suggestive of chronic obstructive pulmonary disease. No focal lung consolidation. No pleural effusion. No definite pneumothorax. Heart is not enlarged. Postsurgical changes with mediastinal clips and XXXX XXXX.
+
+IMPRESSION:
+COPD. No acute abnormality.
+
+PROBLEMS:
+Lung;Surgical Instruments;Pulmonary Disease, Chronic Obstructive
+
+MESH:
+Lung/hyperdistention;Surgical Instruments/mediastinum;Pulmonary Disease, Chronic Obstructive

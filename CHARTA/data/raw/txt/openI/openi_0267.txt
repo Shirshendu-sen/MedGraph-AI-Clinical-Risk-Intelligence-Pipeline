@@ -1,0 +1,16 @@
+UID: 278
+
+INDICATION:
+XXXX-year-old female with XXXX
+
+FINDINGS:
+No pneumothorax, pleural effusion, or focal airspace disease. Heart size normal. Stable cardiomediastinal silhouette. Nodular opacities consistent with chronic granulomatous disease. Bony structures intact.
+
+IMPRESSION:
+Negative for acute cardiopulmonary disease.
+
+PROBLEMS:
+Opacity;Granulomatous Disease;Nodule
+
+MESH:
+Opacity;Granulomatous Disease;Nodule

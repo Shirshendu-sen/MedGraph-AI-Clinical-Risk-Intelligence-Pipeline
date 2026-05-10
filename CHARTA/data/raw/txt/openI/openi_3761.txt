@@ -1,0 +1,16 @@
+UID: 3908
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours are within normal limits. Pulmonary vascularity is within normal limits. No focal consolidation, pleural effusion, or pneumothorax identified. Multilevel thoracic spondylosis is again demonstrated..
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Spondylosis
+
+MESH:
+Spondylosis/thoracic vertebrae/multiple

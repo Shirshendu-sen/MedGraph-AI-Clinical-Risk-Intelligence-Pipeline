@@ -1,0 +1,16 @@
+UID: 773
+
+INDICATION:
+XXXX-year-old female. Chest pain.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal in size and contour. Right suprahilar calcified lymph XXXX. Right lung base calcified granuloma. No focal consolidation, pneumothorax or large pleural effusion. Mildly hyperexpanded lungs. Negative for acute bone abnormality.
+
+IMPRESSION:
+Prior granulomatous disease. Negative for acute abnormality.
+
+PROBLEMS:
+Calcinosis;Calcified Granuloma;Lung;Granulomatous Disease
+
+MESH:
+Calcinosis/lung/hilum/lymph nodes/right;Calcified Granuloma/lung/base/right;Lung/hyperdistention/mild;Granulomatous Disease

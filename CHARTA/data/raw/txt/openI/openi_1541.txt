@@ -1,0 +1,16 @@
+UID: 1593
+
+INDICATION:
+XXXX-year-old male with dyspnea.
+
+FINDINGS:
+Moderate sized right loculated pleural effusion with right lower lobe atelectasis. Normal cardiac contour with atherosclerotic changes throughout the aorta. Clear left lung XXXX.
+
+IMPRESSION:
+1. Moderate right pleural effusion.
+
+PROBLEMS:
+Pleural Effusion;Pulmonary Atelectasis;Atherosclerosis
+
+MESH:
+Pleural Effusion/right/moderate;Pulmonary Atelectasis/lower lobe/right;Atherosclerosis/aorta

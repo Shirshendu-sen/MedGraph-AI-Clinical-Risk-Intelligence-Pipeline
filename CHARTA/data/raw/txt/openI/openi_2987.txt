@@ -1,0 +1,16 @@
+UID: 3113
+
+INDICATION:
+Possible XXXX tumor left arm pain and weakness for 3 weeks.
+
+FINDINGS:
+The lungs are clear. There is no pleural effusion or pneumothorax. There is no evidence for mass lung apices. The heart is normal. There are atherosclerotic changes of the aorta. The skeletal structures are unremarkable.
+
+IMPRESSION:
+1. No acute pulmonary disease. No evidence for apical mass.
+
+PROBLEMS:
+Atherosclerosis
+
+MESH:
+Atherosclerosis/aorta

@@ -1,0 +1,16 @@
+UID: 2957
+
+INDICATION:
+pt with XXXX and difficulty
+
+FINDINGS:
+The heart is mildly enlarged. Pulmonary vascularity is increased. There is again mild elevation of the right hemidiaphragm. Air space disease and/or atelectasis is noted in right lung base. There is also XXXX streaky opacity in the left base. The costophrenic XXXX are blunted.
+
+IMPRESSION:
+1. Cardiomegaly and pulmonary vascular congestion. 2. Eventration of right hemidiaphragm with basilar atelectasis.
+
+PROBLEMS:
+Cardiomegaly;Pulmonary Congestion;Diaphragm;Airspace Disease;Pulmonary Atelectasis;Opacity;Costophrenic Angle;Diaphragmatic Eventration
+
+MESH:
+Cardiomegaly/mild;Pulmonary Congestion;Diaphragm/right/elevated/mild;Airspace Disease/lung/base/right;Pulmonary Atelectasis/base/right;Opacity/lung/base/left/streaky;Costophrenic Angle/bilateral/blunted;Diaphragmatic Eventration/right

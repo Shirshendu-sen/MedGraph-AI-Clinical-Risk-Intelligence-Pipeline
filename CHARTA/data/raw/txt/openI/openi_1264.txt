@@ -1,0 +1,16 @@
+UID: 1311
+
+INDICATION:
+The patient is a XXXX-year-old female with history of a mild PPD reaction, screening x-XXXX..
+
+FINDINGS:
+Low lung volumes with redemonstrated bronchovascular crowding. The trachea is midline. Negative for pneumothorax, pleural effusion or focal airspace consolidation. The cardiac silhouette size is borderline enlarged.
+
+IMPRESSION:
+1. Borderline enlargement of cardiac silhouette, otherwise no acute cardiopulmonary abnormality. No evidence for active TB.
+
+PROBLEMS:
+Lung;Markings;Cardiac Shadow
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Cardiac Shadow/enlarged/borderline

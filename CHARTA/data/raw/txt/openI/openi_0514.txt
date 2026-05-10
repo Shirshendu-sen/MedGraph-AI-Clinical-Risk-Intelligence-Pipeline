@@ -1,0 +1,16 @@
+UID: 530
+
+INDICATION:
+chest pain dyspnea
+
+FINDINGS:
+None
+
+IMPRESSION:
+Slight cardiomegaly. Clear lungs. No effusion
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/mild

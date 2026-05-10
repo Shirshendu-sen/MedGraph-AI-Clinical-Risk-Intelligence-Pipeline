@@ -1,0 +1,16 @@
+UID: 1562
+
+INDICATION:
+XXXX-year-old female with dyspnea
+
+FINDINGS:
+Low lung volumes with magnified appearance of the heart, XXXX normal heart size. Negative for consolidation, effusion, or pneumothorax. Bony thorax and soft tissues grossly unremarkable.
+
+IMPRESSION:
+Negative for acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

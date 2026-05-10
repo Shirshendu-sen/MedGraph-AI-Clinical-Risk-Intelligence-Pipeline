@@ -1,0 +1,16 @@
+UID: 549
+
+INDICATION:
+XXXX
+
+FINDINGS:
+Stable appearance of the left upper lung lobe with scarring, volume loss, and pleural thickening. Cardiomediastinal silhouette is within normal limits normal appearance, similar to prior. Volume loss in the left lung, stable. Right lung is clear. There is no XXXX focal airspace disease, pleural effusion, or pneumothorax. Mild scarring at the right apex. No acute bony abnormality.
+
+IMPRESSION:
+1. No acute cardiopulmonary process. 2. Stable appearance of the left upper lobe.
+
+PROBLEMS:
+Cicatrix;Thickening;Volume Loss;Cicatrix
+
+MESH:
+Cicatrix/lung/upper lobe/left;Thickening/pleura/left;Volume Loss/lung/upper lobe/left;Cicatrix/lung/apex/right/mild

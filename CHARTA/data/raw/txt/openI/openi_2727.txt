@@ -1,0 +1,16 @@
+UID: 2832
+
+INDICATION:
+XXXX-year-old female with shortness of breath
+
+FINDINGS:
+There is stable cardiomegaly. The mediastinum is unremarkable. Atherosclerotic calcifications are present within the thoracic aorta. There is no pleural effusion, pneumothorax, or focal airspace disease. Chronic degenerative changes are present in the thoracic spine.
+
+IMPRESSION:
+1. Stable cardiomegaly without acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Cardiomegaly;Atherosclerosis;Thoracic Vertebrae
+
+MESH:
+Cardiomegaly;Atherosclerosis/aorta, thoracic;Thoracic Vertebrae/degenerative/chronic

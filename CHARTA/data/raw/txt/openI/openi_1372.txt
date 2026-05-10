@@ -1,0 +1,16 @@
+UID: 1420
+
+INDICATION:
+XXXX-year-old male, dyspnea, XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+No focal alveolar consolidation, no definite pleural effusion seen, left hilar calcifications and dense nodule in the left lung suggest a previous granulomatous process. Considering differences in technical factors XXXX stable cardiomediastinal silhouette with normal heart size, bronchovascular crowding without typical findings of pulmonary edema.
+
+PROBLEMS:
+Calcinosis;Nodule;Markings
+
+MESH:
+Calcinosis/lung/hilum/left;Nodule/lung/left;Markings/bronchovascular

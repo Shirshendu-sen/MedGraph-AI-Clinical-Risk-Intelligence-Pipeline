@@ -1,0 +1,16 @@
+UID: 2769
+
+INDICATION:
+XXXX-year-old female with XXXX.
+
+FINDINGS:
+Cardiomediastinal silhouette are normal in size and contour. Again demonstrated are biapical bullous emphysematous changes. No focal consolidation, pneumothorax, or pleural effusion. Mild multilevel degenerative changes of the thoracic spine.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Stable bullous emphysematous changes.
+
+PROBLEMS:
+Bullous Emphysema;Thoracic Vertebrae
+
+MESH:
+Bullous Emphysema/lung/apex/bilateral;Thoracic Vertebrae/degenerative/multiple/mild

@@ -1,0 +1,16 @@
+UID: 1035
+
+INDICATION:
+Cystic fibrosis, shortness of breath.
+
+FINDINGS:
+Right XXXX-A-XXXX is in XXXX. The heart size and pulmonary vascularity appear within normal limits. Some prominent perihilar opacities are present. Some vague small nodular opacities are present in the right upper lung zone. These are slightly more prominent than on the previous study. No pleural effusion or pneumothorax is seen.
+
+IMPRESSION:
+Perihilar opacities which may represent changes due to bronchiectasis. Vague nodular opacities in the right lung zone may represent dilated bronchi filled with mucous or possibly focal areas of peribronchial pneumonia.
+
+PROBLEMS:
+Opacity;Opacity
+
+MESH:
+Opacity/lung/hilum/prominent;Opacity/lung/upper lobe/right/round/small

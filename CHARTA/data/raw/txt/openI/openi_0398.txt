@@ -1,0 +1,16 @@
+UID: 412
+
+INDICATION:
+XXXX-year-old female, hypoxia.
+
+FINDINGS:
+Bilateral emphysematous again noted and lower lobe fibrotic changes. Postsurgical changes of the chest including CABG procedure, stable. Stable valve artifact. There are no focal areas of consolidation. No large pleural effusions. No evidence of pneumothorax. Degenerative changes noted of the visualized thoracic spine. Nodular right lower lobe opacity, XXXX nipple XXXX. Contour abnormality of the posterior aspect of the right 7th rib again noted, stable.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormality. 2. Stable bilateral emphysematous and lower lobe fibrotic changes.
+
+PROBLEMS:
+Pulmonary Emphysema;Pulmonary Fibrosis;Thoracic Vertebrae;Opacity;Nodule;Deformity
+
+MESH:
+Pulmonary Emphysema/bilateral;Pulmonary Fibrosis/lower lobe/bilateral;Thoracic Vertebrae/degenerative;Opacity/lung/lower lobe/right;Nodule/lung/lower lobe/right;Deformity/ribs/right/posterior

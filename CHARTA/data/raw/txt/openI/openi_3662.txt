@@ -1,0 +1,16 @@
+UID: 3807
+
+INDICATION:
+XXXX-year-old XXXX with history of lung cancer, status post surgery. Carcinoid tumor.
+
+FINDINGS:
+There are stable postoperative changes of left thoracotomy and left upper lobectomy. The lungs are clear. No focal airspace consolidation. No suspicious pulmonary mass or nodule is seen. There is no pleural effusion or pneumothorax. Stable elevation of the left hemidiaphragm. Normal heart size and mediastinal contour.
+
+IMPRESSION:
+Postoperative changes of left upper lobectomy. No acute findings.
+
+PROBLEMS:
+Pneumonectomy;Diaphragm
+
+MESH:
+Pneumonectomy/lung/upper lobe/left;Diaphragm/left/elevated

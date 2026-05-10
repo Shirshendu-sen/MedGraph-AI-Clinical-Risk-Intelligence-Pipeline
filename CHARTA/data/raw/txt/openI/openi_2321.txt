@@ -1,0 +1,16 @@
+UID: 2405
+
+INDICATION:
+testis cancer
+
+FINDINGS:
+None
+
+IMPRESSION:
+Right apical scarring as before. Right midlung granuloma. No suspicious appearing nodules identified. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.
+
+PROBLEMS:
+Cicatrix;Granuloma
+
+MESH:
+Cicatrix/lung/apex/right;Granuloma/lung/middle lobe/right

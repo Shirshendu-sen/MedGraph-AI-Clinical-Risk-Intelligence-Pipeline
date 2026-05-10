@@ -1,0 +1,16 @@
+UID: 2625
+
+INDICATION:
+XXXX-year-old with chest pain and sternum pain. XXXX.
+
+FINDINGS:
+Heart size and pulmonary vasculature are normal. Lungs are clear. No pneumothorax large effusion. No acute bony abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

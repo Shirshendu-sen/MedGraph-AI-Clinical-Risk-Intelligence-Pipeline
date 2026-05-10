@@ -1,0 +1,16 @@
+UID: 426
+
+INDICATION:
+Pain.
+
+FINDINGS:
+Normal heart size. Tortuosity of the thoracic aorta. The lungs are free of any focal airspace disease. There is no pneumothorax or pleural effusion. Degenerative changes are present in the spine.
+
+IMPRESSION:
+No acute cardiopulmonary process. .
+
+PROBLEMS:
+Aorta, Thoracic;Spine
+
+MESH:
+Aorta, Thoracic/tortuous;Spine/degenerative

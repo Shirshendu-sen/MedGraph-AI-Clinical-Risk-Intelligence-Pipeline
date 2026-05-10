@@ -1,0 +1,16 @@
+UID: 802
+
+INDICATION:
+XXXX year old female, infection, XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Exam quality limited by very low lung volumes on the frontal view and rotation. Cardiomediastinal silhouette accentuated by technical factors, heart size XXXX mildly enlarged. Marked bronchovascular crowding, indistinct vascular margination may be secondary to crowding, mild pulmonary edema, interstitial infiltrates difficult to exclude. No definite pleural effusion seen. Osseous demineralization and exaggerated kyphosis, VP shunt tubing noted.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Lung;Cardiomegaly;Markings;Pulmonary Congestion;Infiltrate;Kyphosis;Bone Diseases, Metabolic;Catheters, Indwelling;Pulmonary Edema
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Lung/hypoinflation/severe;Cardiomegaly/mild;Markings/bronchovascular/severe;Pulmonary Congestion;Infiltrate/lung/interstitial;Kyphosis/severe;Bone Diseases, Metabolic;Catheters, Indwelling;Pulmonary Edema/mild

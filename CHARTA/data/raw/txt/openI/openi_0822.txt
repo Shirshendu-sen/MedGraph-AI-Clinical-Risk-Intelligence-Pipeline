@@ -1,0 +1,16 @@
+UID: 849
+
+INDICATION:
+Abdominal pain.
+
+FINDINGS:
+Normal heart size and mediastinal contours. The lungs are free of any focal airspace disease. In the left lung base, there is a 9 mm nodule that not definitively calcified. No pneumothorax or pleural effusion. No acute bony abnormalities.
+
+IMPRESSION:
+1. No acute cardiopulmonary process. 2. 9 mm left lower lobe pulmonary nodule not definitively calcified. Recommend comparison with prior images to document stability. If none are available consider nonemergent XXXX chest for further characterization. .
+
+PROBLEMS:
+Nodule
+
+MESH:
+Nodule/lung/base/left

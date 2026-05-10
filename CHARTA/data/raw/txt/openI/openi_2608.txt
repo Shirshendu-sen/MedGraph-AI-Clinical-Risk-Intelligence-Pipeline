@@ -1,0 +1,16 @@
+UID: 2708
+
+INDICATION:
+XXXX-year-old male with left upper quadrant pain, chest pain.
+
+FINDINGS:
+The cardiac and mediastinal contours are within normal limits. There are calcified mediastinal lymph XXXX, with a calcified right lower lobe pulmonary nodule. The lungs are well-inflated and clear. There is no focal consolidation, pneumothorax, or effusion. There are degenerative changes of the first costochondral joints bilaterally. No acute bony abnormalities are seen.
+
+IMPRESSION:
+1. No evidence of acute cardiopulmonary process. Stable appearance of the chest. 2. Evidence of prior granulomatous disease and degenerative changes of the costochondral junctions.
+
+PROBLEMS:
+Calcinosis;Calcinosis;Nodule;Ribs;Granulomatous Disease
+
+MESH:
+Calcinosis/mediastinum/lymph nodes;Calcinosis/lung/lower lobe/right;Nodule/lung/lower lobe/right;Ribs/bilateral/degenerative;Granulomatous Disease

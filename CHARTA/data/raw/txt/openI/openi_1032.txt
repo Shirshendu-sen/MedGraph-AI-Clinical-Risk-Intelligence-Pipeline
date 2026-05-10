@@ -1,0 +1,16 @@
+UID: 1065
+
+INDICATION:
+XXXX-year-old male, history of laryngeal carcinoma, surveillance
+
+FINDINGS:
+There has been interval CABG. Sternotomy and XXXX cerclage XXXX appear intact. No focal air space opacity. No pleural effusion or pneumothorax. Stable, mild degenerative disc disease of the thoracic spine. Visualized bony structures are otherwise unremarkable in appearance. Atherosclerotic calcifications of the thoracic aorta.
+
+IMPRESSION:
+1. Clear lungs. No acute chest findings. 2. Peripheral vascular disease.
+
+PROBLEMS:
+Thoracic Vertebrae;Atherosclerosis
+
+MESH:
+Thoracic Vertebrae/degenerative/mild;Atherosclerosis/aorta, thoracic

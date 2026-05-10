@@ -1,0 +1,16 @@
+UID: 2860
+
+INDICATION:
+XXXX-year-old woman with hemoptysis
+
+FINDINGS:
+No acute osseous abnormality. Scattered degenerative changes of the thoracic spine. Surgical clips overlying the right upper quadrant. Anterior cervical fusion XXXX. Tortuous and ectatic aorta. No focal area of consolidation, pleural effusion, or pneumothorax.
+
+IMPRESSION:
+No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Thoracic Vertebrae;Surgical Instruments;Spinal Fusion;Aorta
+
+MESH:
+Thoracic Vertebrae/scattered/degenerative;Surgical Instruments/abdomen/right;Spinal Fusion/cervical vertebrae/anterior;Aorta/tortuous

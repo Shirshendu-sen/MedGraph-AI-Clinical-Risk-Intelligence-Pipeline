@@ -1,0 +1,16 @@
+UID: 1626
+
+INDICATION:
+XXXX x 6 months, XXXX; history brain tumor
+
+FINDINGS:
+The heart is normal in size. The mediastinal contours are within normal limits. There are numerous bilateral pulmonary nodules of varying sizes. The largest is noted in the left lower lobe, posteriorly measuring approximately 7.0 cm. No acute infiltrate or pleural effusion are appreciated.
+
+IMPRESSION:
+Numerous bilateral pulmonary nodules with dominant nodule/mass in the left lower lung. Diagnostic considerations would include primary lung carcinoma with metastatic nodules versus secondary metastatic disease from known brain tumor. Suggest clinical correlation and further imaging XXXX examination.
+
+PROBLEMS:
+Nodule;Nodule
+
+MESH:
+Nodule/lung/bilateral/multiple;Nodule/lung/lower lobe/left

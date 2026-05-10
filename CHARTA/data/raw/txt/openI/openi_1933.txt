@@ -1,0 +1,16 @@
+UID: 2001
+
+INDICATION:
+XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Lordotic film. Low lung volumes. Heart size within normal limits for this projection. Lower thoracic spine fusion. Small area of atelectasis or infiltrate adjacent to the right inferior hilum. This may be projectional followup films may be helpful.
+
+PROBLEMS:
+Lung;Spinal Fusion;Pulmonary Atelectasis;Infiltrate
+
+MESH:
+Lung/hypoinflation;Spinal Fusion/thoracic vertebrae;Pulmonary Atelectasis/hilum/right/mild;Infiltrate/lung/hilum/right/mild

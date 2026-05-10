@@ -1,0 +1,16 @@
+UID: 2657
+
+INDICATION:
+heart failure. Myopericarditis.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size is normal. Small bilateral pleural effusions right greater than left. Probable interstitial edema, less XXXX fibrosis.
+
+PROBLEMS:
+Pleural Effusion;Pulmonary Edema
+
+MESH:
+Pleural Effusion/bilateral/small;Pulmonary Edema/interstitial

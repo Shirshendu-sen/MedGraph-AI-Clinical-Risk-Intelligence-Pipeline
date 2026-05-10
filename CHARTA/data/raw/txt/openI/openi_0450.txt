@@ -1,0 +1,16 @@
+UID: 465
+
+INDICATION:
+XXXX-year-old status post thoracentesis
+
+FINDINGS:
+Normal cardiomediastinal contours. Right lower lung patchy opacities. Small right pneumothorax. Small right pleural effusion.
+
+IMPRESSION:
+1. Small right apical pneumothorax. 2. Right middle and lower lobe patchy opacities, XXXX residual atelectasis. 3. Near-complete resolution of right-sided pleural effusion with XXXX residual. .
+
+PROBLEMS:
+Opacity;Opacity;Pneumothorax;Pleural Effusion;Pulmonary Atelectasis;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/lower lobe/right/patchy;Opacity/lung/middle lobe/right/patchy;Pneumothorax/apex/right/small;Pleural Effusion/right/small;Pulmonary Atelectasis/lower lobe/right;Pulmonary Atelectasis/middle lobe/right

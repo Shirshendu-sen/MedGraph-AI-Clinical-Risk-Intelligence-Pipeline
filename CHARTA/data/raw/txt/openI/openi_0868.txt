@@ -1,0 +1,16 @@
+UID: 900
+
+INDICATION:
+ALLOGENEIC BMT W/U LAB;
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. Right chest XXXX tip is visualized in the distal SVC. There is no pneumothorax. The right cardiac margin is partially obscured and may be secondary to overlying cardiophrenic fat. The lungs are otherwise clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Catheters, Indwelling;Heart
+
+MESH:
+Catheters, Indwelling/right;Heart/obscured

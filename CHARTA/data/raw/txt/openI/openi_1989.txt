@@ -1,0 +1,16 @@
+UID: 2062
+
+INDICATION:
+The patient is a XXXX-year-old male admitted for ureteral calculi, renal calculi. Examination to assess line position..
+
+FINDINGS:
+Right subclavian catheter, distal tip posterior to the head of the clavicle, the level of the subclavian vein. Low lung volumes. No pleural effusion. Left lower lobe airspace disease, XXXX atelectasis. Cardiomediastinal size is within normal limits. Pulmonary vasculature is normal . XXXX XXXX intact.
+
+IMPRESSION:
+1. Right subclavian catheter, distal tip in the region of the subclavian vein at the level of clavicular head. 2. Low lung volumes, with left lower lung atelectasis. .
+
+PROBLEMS:
+Catheters, Indwelling;Lung;Airspace Disease;Pulmonary Atelectasis
+
+MESH:
+Catheters, Indwelling/right;Lung/hypoinflation;Airspace Disease/lung/lower lobe/left;Pulmonary Atelectasis/lower lobe/left

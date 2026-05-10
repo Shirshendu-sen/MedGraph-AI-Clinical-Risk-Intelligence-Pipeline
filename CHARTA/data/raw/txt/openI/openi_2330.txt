@@ -1,0 +1,16 @@
+UID: 2414
+
+INDICATION:
+Hypoxemia
+
+FINDINGS:
+Again, the patient is mildly rotated, and there is a mild XXXX curvature of the thoracic spine. Stable borderline cardiac enlargement. In the left lower lobe on the lateral view, there appears to be some patchy airspace disease which is probably mostly atelectasis from an elevated left diaphragm. The be difficult to completely exclude a superimposed pneumonia. No significant pleural effusion or pneumothorax. There is an extensive fusion of the posterior cervical spine.
+
+IMPRESSION:
+Underinflated lungs with elevation of the left diaphragm and patchy airspace disease in the left base, probably mostly atelectasis. It would be difficult to completely exclude a superimposed pneumonia. No pleural effusion.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Scoliosis;Cardiomegaly;Spinal Fusion;Lung;Diaphragm;Airspace Disease;Pulmonary Atelectasis
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Scoliosis/thoracic vertebrae/mild;Cardiomegaly/borderline;Spinal Fusion/cervical vertebrae/posterior/severe;Lung/hypoinflation;Diaphragm/left/elevated;Airspace Disease/lung/base/left/patchy;Pulmonary Atelectasis/base/left

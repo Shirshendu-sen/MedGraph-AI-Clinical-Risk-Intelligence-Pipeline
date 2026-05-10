@@ -1,0 +1,16 @@
+UID: 2052
+
+INDICATION:
+XXXX-year-old with XXXX.
+
+FINDINGS:
+Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Scattered granulomatous changes. Mild unfolding of the thoracic aorta. Bony thorax is unremarkable
+
+IMPRESSION:
+Negative for acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Granuloma;Aorta, Thoracic
+
+MESH:
+Granuloma/scattered/multiple;Aorta, Thoracic/tortuous/mild

@@ -1,0 +1,16 @@
+UID: 3869
+
+INDICATION:
+XXXX-year-old XXXX with dyspnea.
+
+FINDINGS:
+There are changes of prior midline sternotomy with surgical clips consistent with CABG, and stable mild cardiomegaly. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Visualized osseous structures appear intact.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Surgical Instruments;Cardiomegaly
+
+MESH:
+Surgical Instruments/thorax;Cardiomegaly/mild

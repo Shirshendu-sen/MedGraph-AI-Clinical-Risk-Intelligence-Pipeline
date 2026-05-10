@@ -1,0 +1,16 @@
+UID: 3850
+
+INDICATION:
+History of tonsillar cancer in XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+No heart size is normal. The lungs are clear. No nodules or masses. Bilateral nipple shadows seen overlying the anterior 6th ribs. Minimal fibrosis in the right apex, may be due to XXXX radiation treatment.
+
+PROBLEMS:
+Nipple Shadow;Pulmonary Fibrosis
+
+MESH:
+Nipple Shadow/bilateral;Pulmonary Fibrosis/apex/right/mild

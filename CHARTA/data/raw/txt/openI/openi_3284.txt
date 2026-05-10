@@ -1,0 +1,16 @@
+UID: 3417
+
+INDICATION:
+XXXX-year-old with dyspnea.
+
+FINDINGS:
+The lungs are hyperexpanded, consistent with COPD. Mild cardiomegaly. No focal lung consolidation. No pneumothorax or pleural effusion. Pulmonary vascularity is within normal limits. Mild degenerative changes of the thoracic spine. Aortic calcifications consistent with atherosclerotic disease.
+
+IMPRESSION:
+No focal lung consolidation. COPD.
+
+PROBLEMS:
+Lung;Pulmonary Disease, Chronic Obstructive;Cardiomegaly;Thoracic Vertebrae;Atherosclerosis
+
+MESH:
+Lung/hyperdistention;Pulmonary Disease, Chronic Obstructive;Cardiomegaly/mild;Thoracic Vertebrae/degenerative/mild;Atherosclerosis/aorta

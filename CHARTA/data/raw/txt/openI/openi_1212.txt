@@ -1,0 +1,16 @@
+UID: 1257
+
+INDICATION:
+XXXX-year-old woman with XXXX onset of chest pain.
+
+FINDINGS:
+Mild cardiomegaly. Hypoinflation of the lungs. Right basilar XXXX opacity may represent atelectasis. Lungs are otherwise clear without focal consolidation, pleural effusion, or pneumothorax. Sclerosis of the humeral XXXX bilateral, XXXX from prior AVN. Sclerotic vertebral body endplates with central depression. Calcifications in the right hemiabdomen may represent calcified gallstones.
+
+IMPRESSION:
+1. Right basilar opacities favored to represent atelectasis. 2. Stigmata of XXXX cell disease. 3. Cholelithiasis.
+
+PROBLEMS:
+Cardiomegaly;Lung;Opacity;Sclerosis;Sclerosis;Calcinosis;Pulmonary Atelectasis;Cholelithiasis
+
+MESH:
+Cardiomegaly/mild;Lung/hypoinflation;Opacity/lung/base/right;Sclerosis/humerus/bilateral;Sclerosis/spine;Calcinosis/abdomen;Pulmonary Atelectasis;Cholelithiasis

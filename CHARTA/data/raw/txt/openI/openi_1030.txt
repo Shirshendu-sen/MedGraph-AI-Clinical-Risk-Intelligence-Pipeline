@@ -1,0 +1,16 @@
+UID: 1063
+
+INDICATION:
+491.21
+
+FINDINGS:
+There is minimal XXXX opacity in the left lung base, XXXX representing atelectasis. The lungs are otherwise clear. Heart size is normal. No pneumothorax.
+
+IMPRESSION:
+Left base atelectasis. Lungs otherwise clear. .
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/base/left/mild;Pulmonary Atelectasis/base/left

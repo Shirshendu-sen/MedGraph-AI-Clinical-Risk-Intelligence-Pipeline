@@ -1,0 +1,16 @@
+UID: 1000
+
+INDICATION:
+XXXX-year-old male, XXXX.
+
+FINDINGS:
+There is XXXX increased opacity within the right upper lobe with possible mass and associated area of atelectasis or focal consolidation. The cardiac silhouette is within normal limits. XXXX opacity in the left midlung overlying the posterior left 5th rib may represent focal airspace disease. No pleural effusion or pneumothorax. No acute bone abnormality.
+
+IMPRESSION:
+1. Increased opacity in the right upper lobe with XXXX associated atelectasis may represent focal consolidation or mass lesion with atelectasis. Recommend chest CT for further evaluation. 2. XXXX opacity overlying the left 5th rib may represent focal airspace disease.
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Opacity
+
+MESH:
+Opacity/lung/upper lobe/right;Pulmonary Atelectasis/upper lobe/right;Opacity/lung/lingula

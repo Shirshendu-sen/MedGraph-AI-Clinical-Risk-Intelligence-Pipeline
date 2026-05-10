@@ -1,0 +1,16 @@
+UID: 2322
+
+INDICATION:
+chronic XXXX
+
+FINDINGS:
+Lung volumes remain XXXX. XXXX opacity is present in the right middle lobe. No focal infiltrates. Heart size normal.
+
+IMPRESSION:
+Continued hypoinflation with right middle lobe focal atelectasis.
+
+PROBLEMS:
+Opacity;Lung;Pulmonary Atelectasis
+
+MESH:
+Opacity/lung/middle lobe/right;Lung/hypoinflation;Pulmonary Atelectasis/middle lobe/right/focal

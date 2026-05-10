@@ -1,0 +1,16 @@
+UID: 440
+
+INDICATION:
+Hemorrhagic infarct. Increased BNP.
+
+FINDINGS:
+Heart size is within normal limits. Emphysematous changes. Focal pleural thickening in the left apex is XXXX scarring. Atherosclerotic calcifications of the aortic XXXX. There is no focal infiltrate. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+Emphysema without acute cardiopulmonary findings.
+
+PROBLEMS:
+Emphysema;Thickening;Cicatrix;Atherosclerosis
+
+MESH:
+Emphysema;Thickening/pleura/apex/left/focal;Cicatrix/pleura/apex/left;Atherosclerosis/aorta

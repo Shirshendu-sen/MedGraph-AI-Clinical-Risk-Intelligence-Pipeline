@@ -1,0 +1,16 @@
+UID: 476
+
+INDICATION:
+Prostate cancer with prostatectomy.
+
+FINDINGS:
+The lungs are clear. No pleural effusion is identified. The heart is normal. There are calcifications of the aortic XXXX. The skeletal structures are normal.
+
+IMPRESSION:
+No active disease.
+
+PROBLEMS:
+Calcinosis
+
+MESH:
+Calcinosis/aorta

@@ -1,0 +1,16 @@
+UID: 2946
+
+INDICATION:
+XXXX chest pain, XXXX, history of acid reflux.
+
+FINDINGS:
+The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. Lungs are clear of focal airspace disease. There is no pneumothorax. There is mild blunting of the right costophrenic XXXX, without definite pleural effusion.
+
+IMPRESSION:
+1. Clear lungs. 2. Mildly blunted right costophrenic XXXX without definite pleural effusion.
+
+PROBLEMS:
+Costophrenic Angle
+
+MESH:
+Costophrenic Angle/right/blunted/mild

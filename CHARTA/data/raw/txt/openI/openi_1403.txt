@@ -1,0 +1,16 @@
+UID: 1451
+
+INDICATION:
+Pleuritic chest pain and XXXX
+
+FINDINGS:
+Left lower lobe calcified granuloma. Heart size normal. No pleural effusion or pneumothorax. Mild medial right atelectasis. Mild emphysema.
+
+IMPRESSION:
+Emphysema and mild medial right atelectasis. No acute process.
+
+PROBLEMS:
+Calcified Granuloma;Pulmonary Atelectasis;Emphysema
+
+MESH:
+Calcified Granuloma/lung/lower lobe/left;Pulmonary Atelectasis/right/mild;Emphysema/mild

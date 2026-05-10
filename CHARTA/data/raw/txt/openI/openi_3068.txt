@@ -1,0 +1,16 @@
+UID: 3195
+
+INDICATION:
+XXXX XXXX WALKING, RE-EVALUATION OF OXYGENATION;
+
+FINDINGS:
+There is a left base opacity. The right lung is grossly clear. Heart size is normal. Left venous catheter with tip in the right atrium. There is no pneumothorax.
+
+IMPRESSION:
+1. Left base airspace disease. 2. Left venous catheter with tip in the right atrium.
+
+PROBLEMS:
+Opacity;Catheters, Indwelling;Airspace Disease
+
+MESH:
+Opacity/lung/base/left;Catheters, Indwelling/left;Airspace Disease/lung/base/left

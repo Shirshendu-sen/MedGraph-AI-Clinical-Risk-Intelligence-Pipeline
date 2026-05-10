@@ -1,0 +1,16 @@
+UID: 1180
+
+INDICATION:
+Melanoma
+
+FINDINGS:
+Heart size and pulmonary vascularity appear within normal limits. There is mild tortuosity to the descending thoracic aorta. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. No discrete nodules or adenopathy are noted. Degenerative changes are present in the spine.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Aorta, Thoracic;Spine
+
+MESH:
+Aorta, Thoracic/tortuous/mild;Spine/degenerative

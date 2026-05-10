@@ -1,0 +1,16 @@
+UID: 2184
+
+INDICATION:
+XXXX-year-old woman with XXXX and leukocytosis.
+
+FINDINGS:
+The heart is mildly enlarged. Mediastinal contour and pulmonary vascularity are within normal limits. There are streaky left basilar airspace opacities, compatible with atelectasis as seen on comparison abdomen and pelvis CT. There is a left upper lung granuloma. Otherwise, no focal consolidation, large pleural effusion, or pneumothorax. XXXX appear intact.
+
+IMPRESSION:
+Left basilar atelectasis. No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Cardiomegaly;Opacity;Pulmonary Atelectasis;Granuloma
+
+MESH:
+Cardiomegaly/mild;Opacity/lung/base/left/streaky;Pulmonary Atelectasis/base/left;Granuloma/lung/upper lobe/left

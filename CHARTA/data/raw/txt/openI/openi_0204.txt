@@ -1,0 +1,16 @@
+UID: 211
+
+INDICATION:
+XXXX-year-old woman with pain and decreased range of motion.
+
+FINDINGS:
+Normal heart size. Clear lungs. Trachea is midline. No pneumothorax. No pleural effusion.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

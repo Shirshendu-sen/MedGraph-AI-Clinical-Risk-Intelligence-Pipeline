@@ -1,0 +1,16 @@
+UID: 3891
+
+INDICATION:
+Left chest tube removal
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size normal.No significant change in left base airspace disease and small effusion. Small residual right pneumothorax. Increased right base atelectasis.Catheter overlying the right mediastinum may be outside the patient is.
+
+PROBLEMS:
+Airspace Disease;Pleural Effusion;Pneumothorax;Pulmonary Atelectasis;Medical Device
+
+MESH:
+Airspace Disease/lung/base/left;Pleural Effusion/base/left/small;Pneumothorax/right/small;Pulmonary Atelectasis/base/right;Medical Device/right

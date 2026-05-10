@@ -1,0 +1,16 @@
+UID: 153
+
+INDICATION:
+XXXX-year-old male with HIV and syphilis on hemodialysis now with XXXX.
+
+FINDINGS:
+There is a right IJ central venous catheter with tip overlying the inferior SVC. Cardiac silhouette is normal size. Normal mediastinal contour and pulmonary vasculature. There is a small right pleural effusion. Otherwise, lungs are without focal airspace disease.
+
+IMPRESSION:
+XXXX XXXX right pleural effusion.
+
+PROBLEMS:
+Catheters, Indwelling;Pleural Effusion
+
+MESH:
+Catheters, Indwelling;Pleural Effusion/right/small

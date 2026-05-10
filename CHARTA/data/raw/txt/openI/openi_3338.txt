@@ -1,0 +1,16 @@
+UID: 3474
+
+INDICATION:
+XXXX-year-old female, abnormal involuntary movements, XXXX. Shortness of breath, XXXX.
+
+FINDINGS:
+Crowded bronchovascular markings in the hilar and perihilar region, right lower lung zones. Low lung volumes. No noncalcified pulmonary nodules seen. No pleural effusion or pneumothorax. No small heart size. There is a right diaphragmatic hump. The soft tissues seen in the left cardiophrenic XXXX, could represent an ectatic descending aorta or hiatal hernia. Visualized XXXX of the chest XXXX are within normal limits. Degenerative changes demonstrated within the visualized thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+Markings;Lung;Diaphragm;Thoracic Vertebrae
+
+MESH:
+Markings/lung/lower lobe/hilum/right/bronchovascular;Lung/hypoinflation;Diaphragm/right/elevated;Thoracic Vertebrae/degenerative

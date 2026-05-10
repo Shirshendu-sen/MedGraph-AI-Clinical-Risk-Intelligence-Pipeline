@@ -1,0 +1,16 @@
+UID: 2614
+
+INDICATION:
+XXXX-year-old female with dyspnea
+
+FINDINGS:
+The heart size is within normal limits. Prominent right paratracheal soft tissues XXXX representing adenopathy. No focal airspace consolidation, pleural effusions or pneumothorax. No acute bony abnormalities.
+
+IMPRESSION:
+1. Clear lungs. 2. Prominent right paratracheal opacities XXXX representing adenopathy.
+
+PROBLEMS:
+Opacity;Lymph Nodes
+
+MESH:
+Opacity/right/paratracheal/prominent;Lymph Nodes/right/paratracheal/enlarged

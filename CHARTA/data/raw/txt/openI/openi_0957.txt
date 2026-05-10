@@ -1,0 +1,16 @@
+UID: 990
+
+INDICATION:
+XXXX-year-old male with altered mental status.
+
+FINDINGS:
+Heart size within normal limits. No focal airspace consolidations. No pneumothorax or effusions.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 881
+
+INDICATION:
+XXXX-year-old XXXX with dyspnea.
+
+FINDINGS:
+The lungs are without focal air space opacity. There is no pneumothorax or large pleural effusion. The cardiomediastinal silhouette is normal in size and contour.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

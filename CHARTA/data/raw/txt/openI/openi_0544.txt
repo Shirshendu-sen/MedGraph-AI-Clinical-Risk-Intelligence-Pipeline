@@ -1,0 +1,16 @@
+UID: 560
+
+INDICATION:
+XXXX-year-old XXXX with chest pain
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits. The lungs are clear without areas of focal consolidation. No pneumothorax or large pleural effusion. No acute bone abnormality.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

@@ -1,0 +1,16 @@
+UID: 3993
+
+INDICATION:
+Edema
+
+FINDINGS:
+The heart is mildly enlarged. Left hemidiaphragm is elevated. There is no acute infiltrate or pleural effusion. The mediastinum is unremarkable.
+
+IMPRESSION:
+Borderline cardiomegaly without acute disease.
+
+PROBLEMS:
+Cardiomegaly;Diaphragm
+
+MESH:
+Cardiomegaly/mild;Diaphragm/left/elevated

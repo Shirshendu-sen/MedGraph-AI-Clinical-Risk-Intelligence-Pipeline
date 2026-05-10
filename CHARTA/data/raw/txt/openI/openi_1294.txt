@@ -1,0 +1,16 @@
+UID: 1342
+
+INDICATION:
+XXXX-year-old female, XXXX distress
+
+FINDINGS:
+Mildly hyperinflated lungs with flattened posterior diaphragm. No alveolar consolidation, no findings of pleural effusion or pulmonary edema. Heart size within normal limits. No pneumothorax.
+
+IMPRESSION:
+Mildly hyperinflated lungs, air trapping versus inspiratory XXXX.
+
+PROBLEMS:
+Lung;Diaphragm
+
+MESH:
+Lung/hyperdistention/mild;Diaphragm/posterior/flattened

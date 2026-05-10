@@ -1,0 +1,16 @@
+UID: 1472
+
+INDICATION:
+XXXX-year-old male with shortness of breath and XXXX.
+
+FINDINGS:
+Normal cardiac contour. Clear hyperexpanded lungs bilaterally with no pneumothorax or pleural effusion.
+
+IMPRESSION:
+1. No acute cardiopulmonary abnormalities.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/bilateral/hyperdistention

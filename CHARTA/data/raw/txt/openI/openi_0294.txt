@@ -1,0 +1,16 @@
+UID: 305
+
+INDICATION:
+XXXX-year-old with chest pain on and XXXX since having stent placed last XXXX.
+
+FINDINGS:
+Heart size is mildly enlarged. The pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Cardiomegaly
+
+MESH:
+Cardiomegaly/mild

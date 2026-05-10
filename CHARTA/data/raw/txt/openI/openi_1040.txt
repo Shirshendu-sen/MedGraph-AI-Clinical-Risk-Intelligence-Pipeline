@@ -1,0 +1,16 @@
+UID: 1074
+
+INDICATION:
+XXXX-year-old woman with chest pain.
+
+FINDINGS:
+The cardiomediastinal silhouette is stable. Lung volumes remain low. There is no pleural line to suggest pneumothorax or costophrenic XXXX blunting to suggest large pleural effusion. Bony structures are within normal limits.
+
+IMPRESSION:
+Low lung volumes. No acute cardiopulmonary findings.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

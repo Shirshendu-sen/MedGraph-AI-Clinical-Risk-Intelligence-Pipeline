@@ -1,0 +1,16 @@
+UID: 2058
+
+INDICATION:
+53yof pre-op x-XXXX
+
+FINDINGS:
+The heart is normal in size. The mediastinum is unremarkable. The lungs are mildly hypoinflated but clear.
+
+IMPRESSION:
+No acute disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation/mild

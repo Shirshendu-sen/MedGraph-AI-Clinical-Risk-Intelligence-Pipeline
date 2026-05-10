@@ -1,0 +1,16 @@
+UID: 396
+
+INDICATION:
+XXXX-year-old female, nonsmoker, preoperative evaluation, prolapse
+
+FINDINGS:
+The lungs are clear. There is no focal airspace consolidation. No pleural effusion or pneumothorax. Normal cardiomediastinal silhouette. There are minimal degenerative changes of the spine.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Spine
+
+MESH:
+Spine/degenerative/mild

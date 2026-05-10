@@ -1,0 +1,16 @@
+UID: 636
+
+INDICATION:
+Sore throat. XXXX. Chest pain.
+
+FINDINGS:
+Heart size is normal. Right lung is clear. Granulomatous disease in the bilateral. Subsegmental atelectasis in the left lower lung. No pneumothorax. No pleural effusion.
+
+IMPRESSION:
+Subsegmental atelectasis in the left lower lobe.
+
+PROBLEMS:
+Granulomatous Disease;Pulmonary Atelectasis
+
+MESH:
+Granulomatous Disease;Pulmonary Atelectasis/lower lobe/left

@@ -1,0 +1,16 @@
+UID: 248
+
+INDICATION:
+The patient is a XXXX-year-old male with left upper abdominal pain.
+
+FINDINGS:
+No pneumothorax, pleural effusion or airspace consolidation. Heart size and pulmonary vasculature appear within normal limits. XXXX XXXX are intact. There is a small calcified granuloma in the right midlung.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality. .
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/middle lobe/right/small

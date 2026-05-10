@@ -1,0 +1,16 @@
+UID: 2691
+
+INDICATION:
+XXXX-year-old female, hypoxia, XXXX
+
+FINDINGS:
+None
+
+IMPRESSION:
+Exam quality limited by hypoinflation and rotation. Considering technical factors heart size XXXX mildly enlarged, aortic calcifications and ectasia/tortuosity, mediastinal calcifications suggest a previous granulomatous process. No focal alveolar consolidation, no definite pleural effusion seen. Bronchovascular crowding without typical findings of pulmonary edema.
+
+PROBLEMS:
+Technical Quality of Image Unsatisfactory ;Lung;Cardiomegaly;Calcinosis;Aorta;Calcinosis;Markings
+
+MESH:
+Technical Quality of Image Unsatisfactory ;Lung/hypoinflation;Cardiomegaly/mild;Calcinosis/aorta;Aorta/tortuous;Calcinosis/mediastinum;Markings/bronchovascular

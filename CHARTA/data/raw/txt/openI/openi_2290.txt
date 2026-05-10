@@ -1,0 +1,16 @@
+UID: 2373
+
+INDICATION:
+Increased dyspnea on exertion, XXXX with COPD on home oxygen
+
+FINDINGS:
+Normal heart size. Dilated pulmonary arteries. Atherosclerotic calcifications of the aorta. No focal airspace consolidation. Decreased biapical vascular markings with moderate hyperexpansion the lungs, consistent with obstructive pulmonary disease. No pleural effusion or pneumothorax.
+
+IMPRESSION:
+1. Moderate hyperinflation of the lungs. 2. Dilated pulmonary arteries. This may reflect pulmonary hypertension.
+
+PROBLEMS:
+Pulmonary Artery;Atherosclerosis;Lung;Pulmonary Disease, Chronic Obstructive;Markings
+
+MESH:
+Pulmonary Artery/enlarged;Atherosclerosis/aorta;Lung/hyperdistention/moderate;Pulmonary Disease, Chronic Obstructive;Markings/lung/apex/bilateral

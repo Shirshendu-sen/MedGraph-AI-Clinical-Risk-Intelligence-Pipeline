@@ -1,0 +1,16 @@
+UID: 813
+
+INDICATION:
+Chest pain.
+
+FINDINGS:
+The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours are unchanged. There are diminished lung volumes with central bronchovascular crowding. Minimal atelectasis versus scarring seen in the left lung base. Right lung is clear. No focal consolidation, pleural effusion, or pneumothorax identified. There are XXXX degenerative changes of the thoracic spine.
+
+IMPRESSION:
+Low lung volumes with minimal left basilar atelectasis versus scarring.
+
+PROBLEMS:
+Lung;Markings;Pulmonary Atelectasis;Thoracic Vertebrae;Cicatrix
+
+MESH:
+Lung/hypoinflation;Markings/bronchovascular;Pulmonary Atelectasis/base/left;Thoracic Vertebrae/degenerative;Cicatrix/lung/base/left

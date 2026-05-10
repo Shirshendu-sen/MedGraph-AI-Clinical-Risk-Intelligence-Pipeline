@@ -1,0 +1,16 @@
+UID: 74
+
+INDICATION:
+Bilateral rib pain and shortness of breath.
+
+FINDINGS:
+Lungs appear to be clear other than a calcified granuloma on left. Heart is not enlarged. There are atherosclerotic changes of the aorta. There is increased kyphosis of the thoracic spine and there are multiple XXXX deformities. A stimulator is seen.
+
+IMPRESSION:
+No acute pulmonary disease. Multiple thoracic XXXX deformities XXXX due to osteoporosis.
+
+PROBLEMS:
+Calcified Granuloma;Atherosclerosis;Kyphosis;Deformity;Osteoporosis;Implanted Medical Device
+
+MESH:
+Calcified Granuloma/lung/left;Atherosclerosis/aorta;Kyphosis/thoracic vertebrae;Deformity/thoracic vertebrae/multiple;Osteoporosis;Implanted Medical Device

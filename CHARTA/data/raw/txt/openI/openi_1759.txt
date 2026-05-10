@@ -1,0 +1,16 @@
+UID: 1818
+
+INDICATION:
+Chest pain
+
+FINDINGS:
+None
+
+IMPRESSION:
+Very low lung volumes, bronchovascular crowding and bibasilar areas of atelectasis. No lobar consolidation. No appreciable pleural effusion or pneumothorax. Heart size within normal limits.
+
+PROBLEMS:
+Lung;Markings;Pulmonary Atelectasis
+
+MESH:
+Lung/hypoinflation/severe;Markings/bronchovascular;Pulmonary Atelectasis/base/bilateral

@@ -1,0 +1,16 @@
+UID: 835
+
+INDICATION:
+XXXX-year-old female with history of XXXX for 3 days, questionable blood in sputum.
+
+FINDINGS:
+The heart size is normal. The mediastinal contour is within normal limits. The lungs are free of any focal infiltrates. There are no nodules or masses. There is no pneumothorax. There is no pleural effusion. There is redemonstration of right rib deformities XXXX from old XXXX. XXXX of mild dextroscoliosis of the thoracic spine. There is no free intraperitoneal air under the diaphragm.
+
+IMPRESSION:
+No acute radiographic cardiopulmonary process.
+
+PROBLEMS:
+Scoliosis;Deformity
+
+MESH:
+Scoliosis/thoracic vertebrae/right/mild;Deformity/ribs/right/multiple

@@ -1,0 +1,16 @@
+UID: 3564
+
+INDICATION:
+Breast cancer
+
+FINDINGS:
+The heart is top normal in size. The mediastinum is stable. Surgical clips again seen overlying the superior mediastinum.There is an retrocardiac density compatible hiatal hernia. The lungs are mildly hypoinflated. No acute infiltrate or pleural effusion are seen.
+
+IMPRESSION:
+1. Mild hypoinflation without acute disease. 2. Retrocardiac density compatible with hiatal hernia.
+
+PROBLEMS:
+Surgical Instruments;Density;Hernia, Hiatal;Lung
+
+MESH:
+Surgical Instruments/mediastinum;Density/retrocardiac;Hernia, Hiatal;Lung/hypoinflation/mild

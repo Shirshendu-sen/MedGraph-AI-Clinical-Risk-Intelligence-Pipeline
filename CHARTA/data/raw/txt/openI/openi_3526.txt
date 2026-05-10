@@ -1,0 +1,16 @@
+UID: 3667
+
+INDICATION:
+INDICATION: HYPERTENSION;
+
+FINDINGS:
+Density in the left upper lung on PA XXXX XXXX represents superimposed bony and vascular structures. There is calcification of the first rib costicartilage junction which XXXX contributes to this appearance. The lungs otherwise appear clear. The heart and pulmonary XXXX appear normal. In the pleural spaces are clear. The mediastinal contour is normal. There are degenerative changes of thoracic spine. There is an electronic cardiac device overlying the left chest wall with intact distal leads in the right heart.
+
+IMPRESSION:
+1. Irregular density in the left upper lung on PA XXXX, XXXX artifact related to superimposed vascular bony structures. Chest fluoroscopy or XXXX would confirm this 2. Otherwise, no acute cardiopulmonary disease.
+
+PROBLEMS:
+Density;Calcinosis;Thoracic Vertebrae;Implanted Medical Device
+
+MESH:
+Density/lung/upper lobe/left/irregular;Calcinosis/ribs;Thoracic Vertebrae/degenerative;Implanted Medical Device/thorax/left

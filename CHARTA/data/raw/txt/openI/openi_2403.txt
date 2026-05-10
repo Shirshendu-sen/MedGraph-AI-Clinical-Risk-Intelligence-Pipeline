@@ -1,0 +1,16 @@
+UID: 2489
+
+INDICATION:
+XXXX-year-old with left lateral chest wall contusion.
+
+FINDINGS:
+The heart and mediastinum are unremarkable. The lung volumes are low. There is a calcified granuloma in the right hilum. Minimal XXXX atelectasis or scarring in the left lower lobe. There is no effusion or pneumothorax.
+
+IMPRESSION:
+1. No acute cardiopulmonary disease.
+
+PROBLEMS:
+Lung;Calcified Granuloma;Pulmonary Atelectasis;Cicatrix
+
+MESH:
+Lung/hypoinflation;Calcified Granuloma/lung/hilum/right;Pulmonary Atelectasis/lower lobe/left/mild;Cicatrix/lung/lower lobe/left/mild

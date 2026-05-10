@@ -1,0 +1,16 @@
+UID: 3793
+
+INDICATION:
+XXXX-year-old XXXX with shortness of breath.
+
+FINDINGS:
+No acute osseous abnormality. Scattered degenerative changes throughout the thoracic spine. Normal heart size. Tortuous and dilated aorta. Chronic interstitial markings. Left base opacity. No pneumothorax or pleural effusion.
+
+IMPRESSION:
+Left basilar airspace disease.
+
+PROBLEMS:
+Thoracic Vertebrae;Aorta;Markings;Opacity;Airspace Disease
+
+MESH:
+Thoracic Vertebrae/scattered/degenerative;Aorta/tortuous;Markings/lung/interstitial/chronic;Opacity/lung/base/left;Airspace Disease/lung/base/left

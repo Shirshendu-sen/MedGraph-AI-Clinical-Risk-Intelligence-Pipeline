@@ -1,0 +1,16 @@
+UID: 1651
+
+INDICATION:
+tuberculosis positive PPD in the XXXX. Patient is" allergic"' to PPD serum
+
+FINDINGS:
+None
+
+IMPRESSION:
+Heart size or great lungs are clear. Calcified 5 mm granuloma in the right upper lobe underneath the second anterior rib end.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/lung/upper lobe/right

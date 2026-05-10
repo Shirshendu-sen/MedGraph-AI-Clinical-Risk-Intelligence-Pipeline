@@ -1,0 +1,16 @@
+UID: 1430
+
+INDICATION:
+SOB on exertion
+
+FINDINGS:
+Minimal patchy bibasilar airspace opacities, XXXX atelectasis or evolving pneumonia. The heart pulmonary XXXX appear normal. Is minimal blunting of the pleural spaces, XXXX XXXX effusions.
+
+IMPRESSION:
+1. Minimal patchy bibasilar opacities, XXXX evolving pneumonia or atelectasis 2. XXXX bilateral pleural effusions
+
+PROBLEMS:
+Opacity;Pulmonary Atelectasis;Pneumonia;Pleura;Pleural Effusion
+
+MESH:
+Opacity/lung/base/bilateral/patchy/mild;Pulmonary Atelectasis;Pneumonia;Pleura/blunted/mild;Pleural Effusion/bilateral

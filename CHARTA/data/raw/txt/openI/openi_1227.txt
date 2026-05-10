@@ -1,0 +1,16 @@
+UID: 1272
+
+INDICATION:
+XXXX-year-old XXXX with polyarthralgia, evaluate for infection
+
+FINDINGS:
+There are scattered calcified granulomas. The lungs are otherwise clear. No focal airspace consolidation. No pleural effusion or pneumothorax. Normal heart size and mediastinal contour. Right humeral internal fixation XXXX is noted.
+
+IMPRESSION:
+No evidence of active disease.
+
+PROBLEMS:
+Calcified Granuloma;Implanted Medical Device
+
+MESH:
+Calcified Granuloma/scattered/multiple;Implanted Medical Device/humerus/right

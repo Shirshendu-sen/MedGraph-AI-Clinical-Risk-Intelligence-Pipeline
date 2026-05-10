@@ -1,0 +1,16 @@
+UID: 3999
+
+INDICATION:
+This is a XXXX-year-old female patient with shortness of breath.
+
+FINDINGS:
+None
+
+IMPRESSION:
+The cardiac silhouette is normal in size and configuration. The mediastinum and perihilar structures appear unremarkable. The lungs appear clear. The osseous structures are within normal limits.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

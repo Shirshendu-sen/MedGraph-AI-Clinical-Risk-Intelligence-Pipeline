@@ -1,0 +1,16 @@
+UID: 1358
+
+INDICATION:
+XXXX-year-old female with chest pain.
+
+FINDINGS:
+The heart size and cardiomediastinal silhouette are normal. There is no focal airspace opacity, pleural effusion, or pneumothorax. There are moderate degenerative changes in the thoracic spine. There are postsurgical clips in the right upper quadrant.
+
+IMPRESSION:
+No acute cardiopulmonary findings.
+
+PROBLEMS:
+Thoracic Vertebrae;Surgical Instruments
+
+MESH:
+Thoracic Vertebrae/degenerative/moderate;Surgical Instruments/right

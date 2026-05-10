@@ -1,0 +1,16 @@
+UID: 3212
+
+INDICATION:
+XXXX-year-old male with mitomyopathy and tachycardia
+
+FINDINGS:
+Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Bony thorax grossly unremarkable.
+
+IMPRESSION:
+Negative for acute cardiopulmonary abnormality.
+
+PROBLEMS:
+normal
+
+MESH:
+normal

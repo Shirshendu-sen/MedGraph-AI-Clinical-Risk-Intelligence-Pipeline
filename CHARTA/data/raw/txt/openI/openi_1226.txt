@@ -1,0 +1,16 @@
+UID: 1271
+
+INDICATION:
+XXXX year old syncope, XXXX today.
+
+FINDINGS:
+The heart is XXXX within normal limits in size given the low lung volumes an AP portable technique. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Lung
+
+MESH:
+Lung/hypoinflation

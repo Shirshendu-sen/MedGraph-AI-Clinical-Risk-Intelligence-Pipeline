@@ -1,0 +1,16 @@
+UID: 2773
+
+INDICATION:
+XXXX year old with chest pain.
+
+FINDINGS:
+The heart is normal in size and contour. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion. Mild degenerative changes at the lower thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary disease.
+
+PROBLEMS:
+Thoracic Vertebrae
+
+MESH:
+Thoracic Vertebrae/degenerative/mild

@@ -1,0 +1,16 @@
+UID: 2700
+
+INDICATION:
+Preop XXXX
+
+FINDINGS:
+Cardiac and mediastinal contours are within normal limits. Granulomatous calcifications and mediastinum. The lungs are clear. Bony structures are intact.
+
+IMPRESSION:
+No acute findings.
+
+PROBLEMS:
+Calcified Granuloma
+
+MESH:
+Calcified Granuloma/mediastinum/multiple

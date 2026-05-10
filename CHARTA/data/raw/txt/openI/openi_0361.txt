@@ -1,0 +1,16 @@
+UID: 374
+
+INDICATION:
+dyspnea.
+
+FINDINGS:
+None
+
+IMPRESSION:
+Cardiomegaly. Left lung clear. Large right effusion. Compressive atelectasis or infiltrate in the right base
+
+PROBLEMS:
+Cardiomegaly;Pleural Effusion;Pulmonary Atelectasis;Infiltrate
+
+MESH:
+Cardiomegaly;Pleural Effusion/right/large;Pulmonary Atelectasis/base/right;Infiltrate/lung/base/right
