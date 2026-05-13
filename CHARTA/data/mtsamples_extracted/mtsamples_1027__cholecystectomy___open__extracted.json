@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1027__cholecystectomy___open_.txt",
+    "file_name": "mtsamples_1027__cholecystectomy___open_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3456,
+    "processed_at": "2026-05-09T09:53:31.624474"
+  },
+  "entities": [
+    {
+      "text": "gangrenous",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 27,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gangrenous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "friable",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 73,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "friable",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 56,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

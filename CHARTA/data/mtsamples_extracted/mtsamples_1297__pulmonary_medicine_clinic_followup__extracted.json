@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1297__pulmonary_medicine_clinic_followup_.txt",
+    "file_name": "mtsamples_1297__pulmonary_medicine_clinic_followup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2325,
+    "processed_at": "2026-05-09T09:53:38.709642"
+  },
+  "entities": [
+    {
+      "text": "chronic obstructive pulmonary disease",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 130,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic obstructive pulmonary disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "emphysema",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 144,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "emphysema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "psychiatric",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 58,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "psychiatric",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ill",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 132,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ill",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary disease",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 80,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 30,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 8,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chills",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 18,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "agitated depression",
+      "label": "DISEASE",
+      "start_char": 180,
+      "end_char": 199,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "agitated depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palpable",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 51,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palpable",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Chronic obstructive pulmonary disease/emphysema",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 47,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chronic obstructive pulmonary disease/emphysema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypoxemia",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 14,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypoxemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 31,
+      "sentence_idx": 12,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 21,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 47,
+      "sentence_idx": 14,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

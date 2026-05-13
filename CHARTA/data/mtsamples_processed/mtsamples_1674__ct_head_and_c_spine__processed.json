@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1674__ct_head_and_c_spine_.txt",
+    "file_name": "mtsamples_1674__ct_head_and_c_spine_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1398,
+    "processed_at": "2026-05-09T09:53:48.119668"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1674__ct_head_and_c_spine_.txt",
+    "text": "CT HEAD WITHOUT CONTRAST AND CT CERVICAL SPINE WITHOUT CONTRAST,REASON FOR EXAM: , Motor vehicle collision.,CT HEAD WITHOUT CONTRAST,TECHNIQUE:,  Noncontrast axial CT images of the head were obtained.,FINDINGS: , There is no acute intracranial hemorrhage, mass effect, midline shift, or extra-axial fluid collection.  The ventricles and cortical sulci are normal in shape and configuration.  The gray/white matter junctions are well preserved.  There is no calvarial fracture.  The visualized paranasal sinuses and mastoid air cells are clear.,IMPRESSION: , Negative for acute intracranial disease.,CT CERVICAL SPINE,TECHNIQUE:  ,Noncontrast axial CT images of the cervical spine were obtained.  Sagittal and coronal images were obtained.,FINDINGS:,  Straightening of the normal cervical lordosis is compatible with patient position versus muscle spasms.  No fracture or subluxation is seen.  Anterior and posterior osteophyte formation is seen at C5-C6.  No abnormal anterior cervical soft tissue swelling is seen.  No spinal compression is noted.  The atlanto-dens interval is normal.  There is a large retention cyst versus polyp within the right maxillary sinus.,IMPRESSION:,1.  Straightening of the normal cervical lordosis compatible with patient positioning versus muscle spasms.,2.  Degenerative disk and joint disease at C5-C6.,3.  Retention cyst versus polyp of the right maxillary sinus.",
+    "char_count": 1398,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "CT HEAD WITHOUT CONTRAST AND CT CERVICAL SPINE WITHOUT CONTRAST,REASON FOR EXAM: , Motor vehicle collision.,CT HEAD WITHOUT CONTRAST,TECHNIQUE:, Noncontrast axial CT images of the head were obtained.,FINDINGS: , There is no acute intracranial hemorrhage, mass effect, midline shift, or extra-axial fluid collection. The ventricles and cortical sulci are normal in shape and configuration. The gray/white matter junctions are well preserved. There is no calvarial fracture. The visualized paranasal sinuses and mastoid air cells are clear.,IMPRESSION: , Negative for acute intracranial disease.,CT CERVICAL SPINE,TECHNIQUE: ,Noncontrast axial CT images of the cervical spine were obtained. Sagittal and coronal images were obtained.,FINDINGS:, Straightening of the normal cervical lordosis is compatible with patient position versus muscle spasms. No fracture or subluxation is seen. Anterior and posterior osteophyte formation is seen at C5-C6. No abnormal anterior cervical soft tissue swelling is seen. No spinal compression is noted. The atlanto-dens interval is normal. There is a large retention cyst versus polyp within the right maxillary sinus.,IMPRESSION:,1. Straightening of the normal cervical lordosis compatible with patient positioning versus muscle spasms.,2. Degenerative disk and joint disease at C5-C6.,3. Retention cyst versus polyp of the right maxillary sinus.",
+    "sentences": [
+      "CT HEAD WITHOUT CONTRAST AND CT CERVICAL SPINE WITHOUT CONTRAST,REASON FOR EXAM: , Motor vehicle collision.,CT HEAD WITHOUT CONTRAST,TECHNIQUE:, Noncontrast axial CT images of the head were obtained.,FINDINGS: , There is no acute intracranial hemorrhage, mass effect, midline shift, or extra-axial fluid collection.",
+      "The ventricles and cortical sulci are normal in shape and configuration.",
+      "The gray/white matter junctions are well preserved.",
+      "There is no calvarial fracture.",
+      "The visualized paranasal sinuses and mastoid air cells are clear.,IMPRESSION: , Negative for acute intracranial disease.,CT CERVICAL SPINE,TECHNIQUE: ,Noncontrast axial CT images of the cervical spine were obtained.",
+      "Sagittal and coronal images were obtained.,FINDINGS:, Straightening of the normal cervical lordosis is compatible with patient position versus muscle spasms.",
+      "No fracture or subluxation is seen.",
+      "Anterior and posterior osteophyte formation is seen at C5-C6.",
+      "No abnormal anterior cervical soft tissue swelling is seen.",
+      "No spinal compression is noted.",
+      "The atlanto-dens interval is normal.",
+      "There is a large retention cyst versus polyp within the right maxillary sinus.,IMPRESSION:,1.",
+      "Straightening of the normal cervical lordosis compatible with patient positioning versus muscle spasms.,2.",
+      "Degenerative disk and joint disease at C5-C6.,3.",
+      "Retention cyst versus polyp of the right maxillary sinus."
+    ],
+    "sentence_count": 15,
+    "original_length": 1398,
+    "cleaned_length": 1381,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "CT HEAD WITHOUT CONTRAST AND CT CERVICAL SPINE WITHOUT CONTRAST,REASON FOR EXAM: , Motor vehicle collision.,CT HEAD WITHOUT CONTRAST,TECHNIQUE:,  Noncontrast axial CT images of the head were obtained.,FINDINGS: , There is no acute intracranial hemorrhage, mass effect, midline shift, or extra-axial fluid collection.  The ventricles and cortical sulci are normal in shape and configuration.  The gray/white matter junctions are well preserved.  There is no calvarial fracture.  The visualized paranasal sinuses and mastoid air cells are clear.,IMPRESSION: , Negative for acute intracranial disease.,CT CERVICAL SPINE,TECHNIQUE:  ,Noncontrast axial CT images of the cervical spine were obtained.  Sagittal and coronal images were obtained.,FINDINGS:,  Straightening of the normal cervical lordosis is compatible with patient position versus muscle spasms.  No fracture or subluxation is seen.  Anterior and posterior osteophyte formation is seen at C5-C6.  No abnormal anterior cervical soft tissue swelling is seen.  No spinal compression is noted.  The atlanto-dens interval is normal.  There is a large retention cyst versus polyp within the right maxillary sinus.,IMPRESSION:,1.  Straightening of the normal cervical lordosis compatible with patient positioning versus muscle spasms.,2.  Degenerative disk and joint disease at C5-C6.,3.  Retention cyst versus polyp of the right maxillary sinus.",
+    "cleaned_text": "CT HEAD WITHOUT CONTRAST AND CT CERVICAL SPINE WITHOUT CONTRAST,REASON FOR EXAM: , Motor vehicle collision.,CT HEAD WITHOUT CONTRAST,TECHNIQUE:, Noncontrast axial CT images of the head were obtained.,FINDINGS: , There is no acute intracranial hemorrhage, mass effect, midline shift, or extra-axial fluid collection. The ventricles and cortical sulci are normal in shape and configuration. The gray/white matter junctions are well preserved. There is no calvarial fracture. The visualized paranasal sinuses and mastoid air cells are clear.,IMPRESSION: , Negative for acute intracranial disease.,CT CERVICAL SPINE,TECHNIQUE: ,Noncontrast axial CT images of the cervical spine were obtained. Sagittal and coronal images were obtained.,FINDINGS:, Straightening of the normal cervical lordosis is compatible with patient position versus muscle spasms. No fracture or subluxation is seen. Anterior and posterior osteophyte formation is seen at C5-C6. No abnormal anterior cervical soft tissue swelling is seen. No spinal compression is noted. The atlanto-dens interval is normal. There is a large retention cyst versus polyp within the right maxillary sinus.,IMPRESSION:,1. Straightening of the normal cervical lordosis compatible with patient positioning versus muscle spasms.,2. Degenerative disk and joint disease at C5-C6.,3. Retention cyst versus polyp of the right maxillary sinus.",
+    "sentences": [
+      "CT HEAD WITHOUT CONTRAST AND CT CERVICAL SPINE WITHOUT CONTRAST,REASON FOR EXAM: , Motor vehicle collision.,CT HEAD WITHOUT CONTRAST,TECHNIQUE:, Noncontrast axial CT images of the head were obtained.,FINDINGS: , There is no acute intracranial hemorrhage, mass effect, midline shift, or extra-axial fluid collection.",
+      "The ventricles and cortical sulci are normal in shape and configuration.",
+      "The gray/white matter junctions are well preserved.",
+      "There is no calvarial fracture.",
+      "The visualized paranasal sinuses and mastoid air cells are clear.,IMPRESSION: , Negative for acute intracranial disease.,CT CERVICAL SPINE,TECHNIQUE: ,Noncontrast axial CT images of the cervical spine were obtained.",
+      "Sagittal and coronal images were obtained.,FINDINGS:, Straightening of the normal cervical lordosis is compatible with patient position versus muscle spasms.",
+      "No fracture or subluxation is seen.",
+      "Anterior and posterior osteophyte formation is seen at C5-C6.",
+      "No abnormal anterior cervical soft tissue swelling is seen.",
+      "No spinal compression is noted.",
+      "The atlanto-dens interval is normal.",
+      "There is a large retention cyst versus polyp within the right maxillary sinus.,IMPRESSION:,1.",
+      "Straightening of the normal cervical lordosis compatible with patient positioning versus muscle spasms.,2.",
+      "Degenerative disk and joint disease at C5-C6.,3.",
+      "Retention cyst versus polyp of the right maxillary sinus."
+    ],
+    "sentence_count": 15
+  }
+}

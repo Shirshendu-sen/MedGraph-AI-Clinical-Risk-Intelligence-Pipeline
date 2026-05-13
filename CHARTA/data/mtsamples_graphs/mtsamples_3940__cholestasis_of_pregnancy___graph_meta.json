@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_3940__cholestasis_of_pregnancy__",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 33,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699203": 1,
+    "C0699142": 2,
+    "C0030346": 3,
+    "C0025270": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3940__cholestasis_of_pregnancy___graph.pt",
+  "source_dataset": "mtsamples_3940__cholestasis_of_pregnancy_"
+}

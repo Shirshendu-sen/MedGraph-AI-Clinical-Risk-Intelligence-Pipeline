@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1036__chest_tube_removal_.txt",
+    "file_name": "mtsamples_1036__chest_tube_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1167,
+    "processed_at": "2026-05-09T09:53:31.938125"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1036__chest_tube_removal_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Bilateral pleural effusion.,POSTOPERATIVE DIAGNOSIS: , Bilateral pleural effusion.,PROCEDURE PERFORMED: ,Removal of bilateral #32-French chest tubes with closure of wound.,COMPLICATIONS:,  None.,INDICATIONS FOR PROCEDURE: , The patient is a 66-year-old African-American male who has been in the intensive care unit for over a month with bilateral chest tubes for chronic draining pleural effusions with serous drainage.  A decision was made to proceed with removal of these chest tubes and because of the fistulous tracts, this necessitated to close the wounds with sutures.  The patient was agreeable to proceed.,OPERATIVE PROCEDURE:  ,The patient was prepped and draped at the bedside over both chest tube sites.  The pressures applied over the sites and the skin was closed with interrupted #3-0 Ethilon sutures.  The skin was then cleansed and Vaseline occlusive dressing was applied over the sites.  The same procedure was performed on the other side.  The chest tubes were removed on full inspiration.  Vital signs remained stable throughout the procedure.  The patient will remain in the intensive care unit for continued monitoring.,",
+    "char_count": 1167,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Bilateral pleural effusion.,POSTOPERATIVE DIAGNOSIS: , Bilateral pleural effusion.,PROCEDURE PERFORMED: ,Removal of bilateral #32-French chest tubes with closure of wound.,COMPLICATIONS:, None.,INDICATIONS FOR PROCEDURE: , The patient is a 66-year-old African-American male who has been in the intensive care unit for over a month with bilateral chest tubes for chronic draining pleural effusions with serous drainage. A decision was made to proceed with removal of these chest tubes and because of the fistulous tracts, this necessitated to close the wounds with sutures. The patient was agreeable to proceed.,OPERATIVE PROCEDURE: ,The patient was prepped and draped at the bedside over both chest tube sites. The pressures applied over the sites and the skin was closed with interrupted #3-0 Ethilon sutures. The skin was then cleansed and Vaseline occlusive dressing was applied over the sites. The same procedure was performed on the other side. The chest tubes were removed on full inspiration. Vital signs remained stable throughout the procedure. The patient will remain in the intensive care unit for continued monitoring.,",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Bilateral pleural effusion.,POSTOPERATIVE DIAGNOSIS: , Bilateral pleural effusion.,PROCEDURE PERFORMED: ,Removal of bilateral #32-French chest tubes with closure of wound.,COMPLICATIONS:, None.,INDICATIONS FOR PROCEDURE: , The patient is a 66-year-old African-American male who has been in the intensive care unit for over a month with bilateral chest tubes for chronic draining pleural effusions with serous drainage.",
+      "A decision was made to proceed with removal of these chest tubes and because of the fistulous tracts, this necessitated to close the wounds with sutures.",
+      "The patient was agreeable to proceed.,OPERATIVE PROCEDURE: ,The patient was prepped and draped at the bedside over both chest tube sites.",
+      "The pressures applied over the sites and the skin was closed with interrupted #3-0 Ethilon sutures.",
+      "The skin was then cleansed and Vaseline occlusive dressing was applied over the sites.",
+      "The same procedure was performed on the other side.",
+      "The chest tubes were removed on full inspiration.",
+      "Vital signs remained stable throughout the procedure.",
+      "The patient will remain in the intensive care unit for continued monitoring.,"
+    ],
+    "sentence_count": 9,
+    "original_length": 1167,
+    "cleaned_length": 1157,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Bilateral pleural effusion.,POSTOPERATIVE DIAGNOSIS: , Bilateral pleural effusion.,PROCEDURE PERFORMED: ,Removal of bilateral #32-French chest tubes with closure of wound.,COMPLICATIONS:,  None.,INDICATIONS FOR PROCEDURE: , The patient is a 66-year-old African-American male who has been in the intensive care unit for over a month with bilateral chest tubes for chronic draining pleural effusions with serous drainage.  A decision was made to proceed with removal of these chest tubes and because of the fistulous tracts, this necessitated to close the wounds with sutures.  The patient was agreeable to proceed.,OPERATIVE PROCEDURE:  ,The patient was prepped and draped at the bedside over both chest tube sites.  The pressures applied over the sites and the skin was closed with interrupted #3-0 Ethilon sutures.  The skin was then cleansed and Vaseline occlusive dressing was applied over the sites.  The same procedure was performed on the other side.  The chest tubes were removed on full inspiration.  Vital signs remained stable throughout the procedure.  The patient will remain in the intensive care unit for continued monitoring.,",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Bilateral pleural effusion.,POSTOPERATIVE DIAGNOSIS: , Bilateral pleural effusion.,PROCEDURE PERFORMED: ,Removal of bilateral #32-French chest tubes with closure of wound.,COMPLICATIONS:, None.,INDICATIONS FOR PROCEDURE: , The patient is a 66-year-old African-American male who has been in the intensive care unit for over a month with bilateral chest tubes for chronic draining pleural effusions with serous drainage. A decision was made to proceed with removal of these chest tubes and because of the fistulous tracts, this necessitated to close the wounds with sutures. The patient was agreeable to proceed.,OPERATIVE PROCEDURE: ,The patient was prepped and draped at the bedside over both chest tube sites. The pressures applied over the sites and the skin was closed with interrupted #3-0 Ethilon sutures. The skin was then cleansed and Vaseline occlusive dressing was applied over the sites. The same procedure was performed on the other side. The chest tubes were removed on full inspiration. Vital signs remained stable throughout the procedure. The patient will remain in the intensive care unit for continued monitoring.,",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Bilateral pleural effusion.,POSTOPERATIVE DIAGNOSIS: , Bilateral pleural effusion.,PROCEDURE PERFORMED: ,Removal of bilateral #32-French chest tubes with closure of wound.,COMPLICATIONS:, None.,INDICATIONS FOR PROCEDURE: , The patient is a 66-year-old African-American male who has been in the intensive care unit for over a month with bilateral chest tubes for chronic draining pleural effusions with serous drainage.",
+      "A decision was made to proceed with removal of these chest tubes and because of the fistulous tracts, this necessitated to close the wounds with sutures.",
+      "The patient was agreeable to proceed.,OPERATIVE PROCEDURE: ,The patient was prepped and draped at the bedside over both chest tube sites.",
+      "The pressures applied over the sites and the skin was closed with interrupted #3-0 Ethilon sutures.",
+      "The skin was then cleansed and Vaseline occlusive dressing was applied over the sites.",
+      "The same procedure was performed on the other side.",
+      "The chest tubes were removed on full inspiration.",
+      "Vital signs remained stable throughout the procedure.",
+      "The patient will remain in the intensive care unit for continued monitoring.,"
+    ],
+    "sentence_count": 9
+  }
+}

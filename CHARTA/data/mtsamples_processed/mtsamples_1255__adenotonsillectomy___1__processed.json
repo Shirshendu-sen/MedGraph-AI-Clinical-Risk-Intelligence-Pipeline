@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1255__adenotonsillectomy___1_.txt",
+    "file_name": "mtsamples_1255__adenotonsillectomy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 967,
+    "processed_at": "2026-05-09T09:53:38.025164"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1255__adenotonsillectomy___1_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Recurrent tonsillitis.,POSTOPERATIVE DIAGNOSIS: , Recurrent tonsillitis.,PROCEDURE:  ,Adenotonsillectomy.,COMPLICATIONS:,  None.,PROCEDURE DETAILS:, The patient was brought to the operating room and, under general endotracheal anesthesia in supine position, the table turned and a McIvor mouthgag placed.  The adenoid bed was examined and was moderately hypertrophied.  Adenoid curettes were used to remove this tissue and packs placed.  Next, the right tonsil was grasped with a curved Allis and, using the gold laser, the anterior tonsillar pillar incised and, with this laser, dissection carried from the superior pole to the inferior pole and removed off the tonsillar muscular bed.  A similar procedure was performed on the contralateral tonsil.  Following meticulous hemostasis, saline was used to irrigate and no further bleeding noted.  The patient was then allowed to awaken and was brought to the recovery room in stable condition.",
+    "char_count": 967,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Recurrent tonsillitis.,POSTOPERATIVE DIAGNOSIS: , Recurrent tonsillitis.,PROCEDURE: ,Adenotonsillectomy.,COMPLICATIONS:, None.,PROCEDURE DETAILS:, The patient was brought to the operating room and, under general endotracheal anesthesia in supine position, the table turned and a McIvor mouthgag placed. The adenoid bed was examined and was moderately hypertrophied. Adenoid curettes were used to remove this tissue and packs placed. Next, the right tonsil was grasped with a curved Allis and, using the gold laser, the anterior tonsillar pillar incised and, with this laser, dissection carried from the superior pole to the inferior pole and removed off the tonsillar muscular bed. A similar procedure was performed on the contralateral tonsil. Following meticulous hemostasis, saline was used to irrigate and no further bleeding noted. The patient was then allowed to awaken and was brought to the recovery room in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Recurrent tonsillitis.,POSTOPERATIVE DIAGNOSIS: , Recurrent tonsillitis.,PROCEDURE: ,Adenotonsillectomy.,COMPLICATIONS:, None.,PROCEDURE DETAILS:, The patient was brought to the operating room and, under general endotracheal anesthesia in supine position, the table turned and a McIvor mouthgag placed.",
+      "The adenoid bed was examined and was moderately hypertrophied.",
+      "Adenoid curettes were used to remove this tissue and packs placed.",
+      "Next, the right tonsil was grasped with a curved Allis and, using the gold laser, the anterior tonsillar pillar incised and, with this laser, dissection carried from the superior pole to the inferior pole and removed off the tonsillar muscular bed.",
+      "A similar procedure was performed on the contralateral tonsil.",
+      "Following meticulous hemostasis, saline was used to irrigate and no further bleeding noted.",
+      "The patient was then allowed to awaken and was brought to the recovery room in stable condition."
+    ],
+    "sentence_count": 7,
+    "original_length": 967,
+    "cleaned_length": 959,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Recurrent tonsillitis.,POSTOPERATIVE DIAGNOSIS: , Recurrent tonsillitis.,PROCEDURE:  ,Adenotonsillectomy.,COMPLICATIONS:,  None.,PROCEDURE DETAILS:, The patient was brought to the operating room and, under general endotracheal anesthesia in supine position, the table turned and a McIvor mouthgag placed.  The adenoid bed was examined and was moderately hypertrophied.  Adenoid curettes were used to remove this tissue and packs placed.  Next, the right tonsil was grasped with a curved Allis and, using the gold laser, the anterior tonsillar pillar incised and, with this laser, dissection carried from the superior pole to the inferior pole and removed off the tonsillar muscular bed.  A similar procedure was performed on the contralateral tonsil.  Following meticulous hemostasis, saline was used to irrigate and no further bleeding noted.  The patient was then allowed to awaken and was brought to the recovery room in stable condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Recurrent tonsillitis.,POSTOPERATIVE DIAGNOSIS: , Recurrent tonsillitis.,PROCEDURE: ,Adenotonsillectomy.,COMPLICATIONS:, None.,PROCEDURE DETAILS:, The patient was brought to the operating room and, under general endotracheal anesthesia in supine position, the table turned and a McIvor mouthgag placed. The adenoid bed was examined and was moderately hypertrophied. Adenoid curettes were used to remove this tissue and packs placed. Next, the right tonsil was grasped with a curved Allis and, using the gold laser, the anterior tonsillar pillar incised and, with this laser, dissection carried from the superior pole to the inferior pole and removed off the tonsillar muscular bed. A similar procedure was performed on the contralateral tonsil. Following meticulous hemostasis, saline was used to irrigate and no further bleeding noted. The patient was then allowed to awaken and was brought to the recovery room in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Recurrent tonsillitis.,POSTOPERATIVE DIAGNOSIS: , Recurrent tonsillitis.,PROCEDURE: ,Adenotonsillectomy.,COMPLICATIONS:, None.,PROCEDURE DETAILS:, The patient was brought to the operating room and, under general endotracheal anesthesia in supine position, the table turned and a McIvor mouthgag placed.",
+      "The adenoid bed was examined and was moderately hypertrophied.",
+      "Adenoid curettes were used to remove this tissue and packs placed.",
+      "Next, the right tonsil was grasped with a curved Allis and, using the gold laser, the anterior tonsillar pillar incised and, with this laser, dissection carried from the superior pole to the inferior pole and removed off the tonsillar muscular bed.",
+      "A similar procedure was performed on the contralateral tonsil.",
+      "Following meticulous hemostasis, saline was used to irrigate and no further bleeding noted.",
+      "The patient was then allowed to awaken and was brought to the recovery room in stable condition."
+    ],
+    "sentence_count": 7
+  }
+}

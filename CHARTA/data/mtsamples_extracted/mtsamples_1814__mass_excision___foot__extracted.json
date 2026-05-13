@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1814__mass_excision___foot_.txt",
+    "file_name": "mtsamples_1814__mass_excision___foot_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5543,
+    "processed_at": "2026-05-09T09:53:50.841803"
+  },
+  "entities": [
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 140,
+      "end_char": 149,
+      "sentence_idx": 6,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 172,
+      "end_char": 180,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "Solu-Medrol",
+      "label": "CHEMICAL",
+      "start_char": 201,
+      "end_char": 212,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Solu-Medrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "brevis muscle",
+      "label": "DISEASE",
+      "start_char": 165,
+      "end_char": 178,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "brevis muscle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "brevis muscle",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 67,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "brevis muscle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 47,
+      "sentence_idx": 27,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "hyperemia",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 129,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 131,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 140,
+      "sentence_idx": 33,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "Vicoprofen",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 49,
+      "sentence_idx": 36,
+      "concept_id": "C0724280",
+      "concept_name": "Vicoprofen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9762079119682312,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 108,
+      "sentence_idx": 36,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "Keflex",
+      "label": "CHEMICAL",
+      "start_char": 135,
+      "end_char": 141,
+      "sentence_idx": 36,
+      "concept_id": "C0700517",
+      "concept_name": "Keflex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9780697822570801,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "b.i.d",
+      "label": "CHEMICAL",
+      "start_char": 173,
+      "end_char": 178,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "b.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 114,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/26/03",
+      "start_char": 4987,
+      "end_char": 4995
+    }
+  ]
+}

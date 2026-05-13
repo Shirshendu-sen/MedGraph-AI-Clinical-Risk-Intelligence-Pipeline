@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2580__hysterectomy___laparoscopic_supracervical_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 6,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0037129": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2580__hysterectomy___laparoscopic_supracervical__graph.pt",
+  "source_dataset": "mtsamples_2580__hysterectomy___laparoscopic_supracervical"
+}

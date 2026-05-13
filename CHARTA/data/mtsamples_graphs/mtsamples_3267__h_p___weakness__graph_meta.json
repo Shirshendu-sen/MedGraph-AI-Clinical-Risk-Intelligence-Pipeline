@@ -1,0 +1,29 @@
+{
+  "patient_id": "mtsamples_3267__h_p___weakness_",
+  "num_entities": 16,
+  "num_visits": 1,
+  "num_edges": 140,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0699194": 2,
+    "C0719751": 3,
+    "C0875954": 4,
+    "C0017642": 5,
+    "C0699992": 6,
+    "C0700776": 7,
+    "C1579761": 8,
+    "C0037688": 9,
+    "C0284660": 10,
+    "C0010294": 11,
+    "C0017725": 12,
+    "C0008161": 13,
+    "C0007561": 14,
+    "C0019134": 15
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3267__h_p___weakness__graph.pt",
+  "source_dataset": "mtsamples_3267__h_p___weakness"
+}

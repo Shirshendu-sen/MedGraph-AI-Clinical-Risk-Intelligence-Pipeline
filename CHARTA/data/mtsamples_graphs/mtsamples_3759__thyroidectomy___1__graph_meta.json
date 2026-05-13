@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3759__thyroidectomy___1_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 20,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1,
+    "C0014563": 2,
+    "C0004599": 3
+  },
+  "visit_dates": [
+    "2003-09-04"
+  ],
+  "graph_file": "mtsamples_3759__thyroidectomy___1__graph.pt",
+  "source_dataset": "mtsamples_3759__thyroidectomy___1"
+}

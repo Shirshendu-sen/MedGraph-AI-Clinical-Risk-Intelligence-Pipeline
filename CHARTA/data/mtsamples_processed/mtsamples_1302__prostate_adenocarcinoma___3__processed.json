@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1302__prostate_adenocarcinoma___3_.txt",
+    "file_name": "mtsamples_1302__prostate_adenocarcinoma___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1102,
+    "processed_at": "2026-05-09T09:53:38.781331"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1302__prostate_adenocarcinoma___3_.txt",
+    "text": "PHYSICAL EXAMINATION: , The patient is a 63-year-old executive who was seen by his physician for a company physical.  He stated that he was in excellent health and led an active life.  His physical examination was normal for a man of his age.  Chest x-ray and chemical screening blood work were within normal limits.  His PSA was elevated.,IMAGING:,Chest x-ray:  Normal.,CT scan of abdomen and pelvis:  No abnormalities.,LABORATORY:,  PSA 14.6.,PROCEDURES: , Ultrasound guided sextant biopsy of prostate:  Digital rectal exam performed at the time of the biopsy showed a 1+ enlarged prostate with normal seminal vesicles.,PATHOLOGY:  ,Prostate biopsy:  Left apex:  adenocarcinoma, moderately differentiated, Gleason's score 3 + 4 = 7/10.  Maximum linear extent in apex of tumor was 6 mm.  Left mid region prostate:  moderately differentiated adenocarcinoma, Gleason's 3 + 2 = 5/10.  Left base, right apex, and right mid-region and right base:  negative for carcinoma.,TREATMENT:,  The patient opted for low dose rate interstitial prostatic implants of I-125.  It was performed as an outpatient on 8/10.",
+    "char_count": 1102,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PHYSICAL EXAMINATION: , The patient is a 63-year-old executive who was seen by his physician for a company physical. He stated that he was in excellent health and led an active life. His physical examination was normal for a man of his age. Chest x-ray and chemical screening blood work were within normal limits. His PSA was elevated.,IMAGING:,Chest x-ray: Normal.,CT scan of abdomen and pelvis: No abnormalities.,LABORATORY:, PSA 14.6.,PROCEDURES: , Ultrasound guided sextant biopsy of prostate: Digital rectal exam performed at the time of the biopsy showed a 1+ enlarged prostate with normal seminal vesicles.,PATHOLOGY: ,Prostate biopsy: Left apex: adenocarcinoma, moderately differentiated, Gleason's score 3 + 4 = 7/10. Maximum linear extent in apex of tumor was 6 mm. Left mid region prostate: moderately differentiated adenocarcinoma, Gleason's 3 + 2 = 5/10. Left base, right apex, and right mid-region and right base: negative for carcinoma.,TREATMENT:, The patient opted for low dose rate interstitial prostatic implants of I-125. It was performed as an outpatient on 8/10.",
+    "sentences": [
+      "PHYSICAL EXAMINATION: , The patient is a 63-year-old executive who was seen by his physician for a company physical.",
+      "He stated that he was in excellent health and led an active life.",
+      "His physical examination was normal for a man of his age.",
+      "Chest x-ray and chemical screening blood work were within normal limits.",
+      "His PSA was elevated.,IMAGING:,Chest x-ray: Normal.,CT scan of abdomen and pelvis: No abnormalities.,LABORATORY:, PSA 14.6.,PROCEDURES: , Ultrasound guided sextant biopsy of prostate: Digital rectal exam performed at the time of the biopsy showed a 1+ enlarged prostate with normal seminal vesicles.,PATHOLOGY: ,Prostate biopsy: Left apex: adenocarcinoma, moderately differentiated, Gleason's score 3 + 4 = 7/10.",
+      "Maximum linear extent in apex of tumor was 6 mm.",
+      "Left mid region prostate: moderately differentiated adenocarcinoma, Gleason's 3 + 2 = 5/10.",
+      "Left base, right apex, and right mid-region and right base: negative for carcinoma.,TREATMENT:, The patient opted for low dose rate interstitial prostatic implants of I-125.",
+      "It was performed as an outpatient on 8/10."
+    ],
+    "sentence_count": 9,
+    "original_length": 1102,
+    "cleaned_length": 1084,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PHYSICAL EXAMINATION: , The patient is a 63-year-old executive who was seen by his physician for a company physical.  He stated that he was in excellent health and led an active life.  His physical examination was normal for a man of his age.  Chest x-ray and chemical screening blood work were within normal limits.  His PSA was elevated.,IMAGING:,Chest x-ray:  Normal.,CT scan of abdomen and pelvis:  No abnormalities.,LABORATORY:,  PSA 14.6.,PROCEDURES: , Ultrasound guided sextant biopsy of prostate:  Digital rectal exam performed at the time of the biopsy showed a 1+ enlarged prostate with normal seminal vesicles.,PATHOLOGY:  ,Prostate biopsy:  Left apex:  adenocarcinoma, moderately differentiated, Gleason's score 3 + 4 = 7/10.  Maximum linear extent in apex of tumor was 6 mm.  Left mid region prostate:  moderately differentiated adenocarcinoma, Gleason's 3 + 2 = 5/10.  Left base, right apex, and right mid-region and right base:  negative for carcinoma.,TREATMENT:,  The patient opted for low dose rate interstitial prostatic implants of I-125.  It was performed as an outpatient on 8/10.",
+    "cleaned_text": "PHYSICAL EXAMINATION: , The patient is a 63-year-old executive who was seen by his physician for a company physical. He stated that he was in excellent health and led an active life. His physical examination was normal for a man of his age. Chest x-ray and chemical screening blood work were within normal limits. His PSA was elevated.,IMAGING:,Chest x-ray: Normal.,CT scan of abdomen and pelvis: No abnormalities.,LABORATORY:, PSA 14.6.,PROCEDURES: , Ultrasound guided sextant biopsy of prostate: Digital rectal exam performed at the time of the biopsy showed a 1+ enlarged prostate with normal seminal vesicles.,PATHOLOGY: ,Prostate biopsy: Left apex: adenocarcinoma, moderately differentiated, Gleason's score 3 + 4 = 7/10. Maximum linear extent in apex of tumor was 6 mm. Left mid region prostate: moderately differentiated adenocarcinoma, Gleason's 3 + 2 = 5/10. Left base, right apex, and right mid-region and right base: negative for carcinoma.,TREATMENT:, The patient opted for low dose rate interstitial prostatic implants of I-125. It was performed as an outpatient on 8/10.",
+    "sentences": [
+      "PHYSICAL EXAMINATION: , The patient is a 63-year-old executive who was seen by his physician for a company physical.",
+      "He stated that he was in excellent health and led an active life.",
+      "His physical examination was normal for a man of his age.",
+      "Chest x-ray and chemical screening blood work were within normal limits.",
+      "His PSA was elevated.,IMAGING:,Chest x-ray: Normal.,CT scan of abdomen and pelvis: No abnormalities.,LABORATORY:, PSA 14.6.,PROCEDURES: , Ultrasound guided sextant biopsy of prostate: Digital rectal exam performed at the time of the biopsy showed a 1+ enlarged prostate with normal seminal vesicles.,PATHOLOGY: ,Prostate biopsy: Left apex: adenocarcinoma, moderately differentiated, Gleason's score 3 + 4 = 7/10.",
+      "Maximum linear extent in apex of tumor was 6 mm.",
+      "Left mid region prostate: moderately differentiated adenocarcinoma, Gleason's 3 + 2 = 5/10.",
+      "Left base, right apex, and right mid-region and right base: negative for carcinoma.,TREATMENT:, The patient opted for low dose rate interstitial prostatic implants of I-125.",
+      "It was performed as an outpatient on 8/10."
+    ],
+    "sentence_count": 9
+  }
+}

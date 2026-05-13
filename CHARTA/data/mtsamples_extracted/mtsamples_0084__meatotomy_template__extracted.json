@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0084__meatotomy_template_.txt",
+    "file_name": "mtsamples_0084__meatotomy_template_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 935,
+    "processed_at": "2026-05-09T09:53:05.752191"
+  },
+  "entities": [
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 59,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1487__ultrasound___neck_soft_tissue_.txt",
+    "file_name": "mtsamples_1487__ultrasound___neck_soft_tissue_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 517,
+    "processed_at": "2026-05-09T09:53:43.170259"
+  },
+  "entities": [
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 80,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "phlegmonous",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 43,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "phlegmonous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "phlegmonous",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 145,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "phlegmonous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

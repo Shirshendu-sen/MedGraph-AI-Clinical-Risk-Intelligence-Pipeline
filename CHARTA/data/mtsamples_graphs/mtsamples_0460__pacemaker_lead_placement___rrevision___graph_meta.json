@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_0460__pacemaker_lead_placement___rrevision__",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 10,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0015846": 1,
+    "C0014563": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0460__pacemaker_lead_placement___rrevision___graph.pt",
+  "source_dataset": "mtsamples_0460__pacemaker_lead_placement___rrevision_"
+}

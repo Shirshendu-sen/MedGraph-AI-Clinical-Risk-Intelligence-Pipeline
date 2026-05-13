@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2687__cystic_suprasellar_tumor_resection_.txt",
+    "file_name": "mtsamples_2687__cystic_suprasellar_tumor_resection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1891,
+    "processed_at": "2026-05-09T09:54:06.103498"
+  },
+  "entities": [
+    {
+      "text": "head injury",
+      "label": "DISEASE",
+      "start_char": 174,
+      "end_char": 185,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 228,
+      "end_char": 236,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "horseshoe head rest",
+      "label": "DISEASE",
+      "start_char": 264,
+      "end_char": 283,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "horseshoe head rest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pituitary calcifications",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 114,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pituitary calcifications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CSF leak",
+      "label": "DISEASE",
+      "start_char": 195,
+      "end_char": 203,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CSF leak",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 227,
+      "end_char": 232,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 62,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

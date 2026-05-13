@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0699__i_d___open_reduction___forearm_.txt",
+    "file_name": "mtsamples_0699__i_d___open_reduction___forearm_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4038,
+    "processed_at": "2026-05-09T09:53:22.673675"
+  },
+  "entities": [
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 50,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 171,
+      "end_char": 179,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bone forearm fracture",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 48,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bone forearm fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bone forearm fracture",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 86,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bone forearm fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 33,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 123,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary embolism",
+      "label": "DISEASE",
+      "start_char": 273,
+      "end_char": 291,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "myocardial infarction",
+      "label": "DISEASE",
+      "start_char": 293,
+      "end_char": 314,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myocardial infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "death",
+      "label": "DISEASE",
+      "start_char": 328,
+      "end_char": 333,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "death",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 74,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "angulation",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 41,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "angulation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

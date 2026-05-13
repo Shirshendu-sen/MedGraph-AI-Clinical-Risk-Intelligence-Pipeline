@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3087__care_conference_with_family_.txt",
+    "file_name": "mtsamples_3087__care_conference_with_family_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2717,
+    "processed_at": "2026-05-09T09:54:14.735649"
+  },
+  "entities": [
+    {
+      "text": "hyponatremia",
+      "label": "DISEASE",
+      "start_char": 377,
+      "end_char": 389,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyponatremia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 73,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ovarian malignancy",
+      "label": "DISEASE",
+      "start_char": 183,
+      "end_char": 201,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ovarian malignancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 176,
+      "end_char": 185,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 187,
+      "end_char": 199,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tachycardia",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 40,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tachycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coarse breath",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 23,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coarse breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "morphine",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 47,
+      "sentence_idx": 17,
+      "concept_id": "C0026549",
+      "concept_name": "morphine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9600629210472107,
+      "timestamp": null
+    },
+    {
+      "text": "likely terminal illness",
+      "label": "DISEASE",
+      "start_char": 316,
+      "end_char": 339,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "likely terminal illness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ovarian cancer",
+      "label": "DISEASE",
+      "start_char": 345,
+      "end_char": 359,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ovarian cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

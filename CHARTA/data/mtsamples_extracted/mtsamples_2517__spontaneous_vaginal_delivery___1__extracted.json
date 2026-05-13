@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2517__spontaneous_vaginal_delivery___1_.txt",
+    "file_name": "mtsamples_2517__spontaneous_vaginal_delivery___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2104,
+    "processed_at": "2026-05-09T09:54:03.596491"
+  },
+  "entities": [
+    {
+      "text": "vaginal delivery.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 97,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vaginal delivery.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "meconium",
+      "label": "CHEMICAL",
+      "start_char": 179,
+      "end_char": 187,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ROA",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 81,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ROA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "artificial rupture",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 26,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "artificial rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 19,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": null
+    },
+    {
+      "text": "meconium",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ROA",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 66,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ROA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "meconium",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 31,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

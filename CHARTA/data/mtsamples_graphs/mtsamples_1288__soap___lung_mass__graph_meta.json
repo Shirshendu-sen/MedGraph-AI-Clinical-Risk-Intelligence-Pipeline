@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_1288__soap___lung_mass_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0700940": 1,
+    "C0012265": 2,
+    "C0699129": 3,
+    "C3536832": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1288__soap___lung_mass__graph.pt",
+  "source_dataset": "mtsamples_1288__soap___lung_mass"
+}

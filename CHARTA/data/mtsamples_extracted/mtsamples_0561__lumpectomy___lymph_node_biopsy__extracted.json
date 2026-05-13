@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0561__lumpectomy___lymph_node_biopsy_.txt",
+    "file_name": "mtsamples_0561__lumpectomy___lymph_node_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2795,
+    "processed_at": "2026-05-09T09:53:19.129771"
+  },
+  "entities": [
+    {
+      "text": "breast ductal carcinoma",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 51,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breast ductal carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breast ductal carcinoma",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 113,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breast ductal carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "situ.,PROCEDURES",
+      "label": "CHEMICAL",
+      "start_char": 117,
+      "end_char": 133,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "situ.,PROCEDURES",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ductal hyperplasia",
+      "label": "DISEASE",
+      "start_char": 386,
+      "end_char": 404,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ductal hyperplasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "necrosis",
+      "label": "DISEASE",
+      "start_char": 418,
+      "end_char": 426,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "methylene blue",
+      "label": "CHEMICAL",
+      "start_char": 88,
+      "end_char": 102,
+      "sentence_idx": 7,
+      "concept_id": "C0025746",
+      "concept_name": "methylthioninium chloride",
+      "kb_source": "rxnorm",
+      "link_score": 0.957680344581604,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

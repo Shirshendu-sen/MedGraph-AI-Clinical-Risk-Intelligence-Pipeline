@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1230__anterior_cervical_discectomy___fusion___4_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 46,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0040302": 1,
+    "C0740057": 2,
+    "C0004599": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1230__anterior_cervical_discectomy___fusion___4__graph.pt",
+  "source_dataset": "mtsamples_1230__anterior_cervical_discectomy___fusion___4"
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1985__depo_medrol_injection_.txt",
+    "file_name": "mtsamples_1985__depo_medrol_injection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1520,
+    "processed_at": "2026-05-09T09:53:54.205203"
+  },
+  "entities": [
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 54,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Depo-Medrol",
+      "label": "CHEMICAL",
+      "start_char": 80,
+      "end_char": 91,
+      "sentence_idx": 0,
+      "concept_id": "C0057476",
+      "concept_name": "Depo-Medrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9515208005905151,
+      "timestamp": null
+    },
+    {
+      "text": "back pain",
+      "label": "DISEASE",
+      "start_char": 176,
+      "end_char": 185,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

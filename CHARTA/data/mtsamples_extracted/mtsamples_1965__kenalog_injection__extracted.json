@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1965__kenalog_injection_.txt",
+    "file_name": "mtsamples_1965__kenalog_injection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1874,
+    "processed_at": "2026-05-09T09:53:53.876523"
+  },
+  "entities": [
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 51,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Kenalog",
+      "label": "CHEMICAL",
+      "start_char": 76,
+      "end_char": 83,
+      "sentence_idx": 0,
+      "concept_id": "C0699689",
+      "concept_name": "Kenalog",
+      "kb_source": "rxnorm",
+      "link_score": 0.9883806109428406,
+      "timestamp": null
+    },
+    {
+      "text": "back pain",
+      "label": "DISEASE",
+      "start_char": 168,
+      "end_char": 177,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "foraminal stenosis",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 86,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "foraminal stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 72,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

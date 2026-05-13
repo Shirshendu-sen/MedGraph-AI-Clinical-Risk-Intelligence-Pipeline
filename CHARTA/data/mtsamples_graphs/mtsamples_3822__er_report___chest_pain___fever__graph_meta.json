@@ -1,0 +1,32 @@
+{
+  "patient_id": "mtsamples_3822__er_report___chest_pain___fever_",
+  "num_entities": 19,
+  "num_visits": 1,
+  "num_edges": 119,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0028156": 1,
+    "C0017725": 2,
+    "C0010294": 3,
+    "C0037473": 4,
+    "C0032821": 5,
+    "C0596019": 6,
+    "C0973231": 7,
+    "C0030346": 8,
+    "C0723893": 9,
+    "C0004057": 10,
+    "C0592278": 11,
+    "C0065374": 12,
+    "C0592680": 13,
+    "C0025598": 14,
+    "C0700187": 15,
+    "C0678181": 16,
+    "C0591437": 17,
+    "C1636686": 18
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3822__er_report___chest_pain___fever__graph.pt",
+  "source_dataset": "mtsamples_3822__er_report___chest_pain___fever"
+}

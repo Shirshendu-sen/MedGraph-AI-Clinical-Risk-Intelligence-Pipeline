@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2832__lumbar_puncture_.txt",
+    "file_name": "mtsamples_2832__lumbar_puncture_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3039,
+    "processed_at": "2026-05-09T09:54:09.357393"
+  },
+  "entities": [
+    {
+      "text": "malignancy",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 111,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malignancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-01"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 37,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-01"
+    },
+    {
+      "text": "lung cancer",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 32,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lung cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-01"
+    },
+    {
+      "text": "Wilson",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Wilson",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-01"
+    },
+    {
+      "text": "non-small cell lung cancer of the left upper lobe of the lung",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 109,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-small cell lung cancer of the left upper lobe of the lung",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-01"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 37,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-01"
+    },
+    {
+      "text": "hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 97,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-01"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 17,
+      "sentence_idx": 12,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2009-12-01"
+    },
+    {
+      "text": "CPT",
+      "label": "CHEMICAL",
+      "start_char": 423,
+      "end_char": 426,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CPT",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2009-12-01"
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 619,
+      "end_char": 628,
+      "sentence_idx": 12,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": "2009-12-01"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 124,
+      "sentence_idx": 15,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2009-12-01"
+    },
+    {
+      "text": "glucose",
+      "label": "CHEMICAL",
+      "start_char": 253,
+      "end_char": 260,
+      "sentence_idx": 17,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": "2009-12-01"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/01/2009",
+      "start_char": 768,
+      "end_char": 778
+    },
+    {
+      "raw_text": "11/18/2009",
+      "start_char": 1012,
+      "end_char": 1022
+    }
+  ]
+}

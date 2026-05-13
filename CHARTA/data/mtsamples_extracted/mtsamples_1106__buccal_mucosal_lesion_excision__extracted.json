@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1106__buccal_mucosal_lesion_excision_.txt",
+    "file_name": "mtsamples_1106__buccal_mucosal_lesion_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4314,
+    "processed_at": "2026-05-09T09:53:34.266351"
+  },
+  "entities": [
+    {
+      "text": "buccal mucosal verrucous squamous cell carcinoma.,POSTOPERATIVE DIAGNOSIS: , Left buccal mucosal verrucous squamous cell carcinoma.,PROCEDURE PERFORMED:,1",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 185,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "buccal mucosal verrucous squamous cell carcinoma.,POSTOPERATIVE DIAGNOSIS: , Left buccal mucosal verrucous squamous cell carcinoma.,PROCEDURE PERFORMED:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left verrucous squamous cell carcinoma of the buccal mucosa",
+      "label": "DISEASE",
+      "start_char": 232,
+      "end_char": 291,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left verrucous squamous cell carcinoma of the buccal mucosa",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 94,
+      "end_char": 103,
+      "sentence_idx": 7,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 120,
+      "sentence_idx": 7,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 38,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 22,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 84,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 93,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

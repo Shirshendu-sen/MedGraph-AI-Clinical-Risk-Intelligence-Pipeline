@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3457__open_cholecystectomy_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 18,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1
+  },
+  "visit_dates": [
+    "2003-07-23"
+  ],
+  "graph_file": "mtsamples_3457__open_cholecystectomy__graph.pt",
+  "source_dataset": "mtsamples_3457__open_cholecystectomy"
+}

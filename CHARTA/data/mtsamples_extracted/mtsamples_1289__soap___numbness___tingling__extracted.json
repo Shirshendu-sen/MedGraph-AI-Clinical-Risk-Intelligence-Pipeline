@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1289__soap___numbness___tingling_.txt",
+    "file_name": "mtsamples_1289__soap___numbness___tingling_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2201,
+    "processed_at": "2026-05-09T09:53:38.569670"
+  },
+  "entities": [
+    {
+      "text": "numb",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 43,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numb",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 17,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "arthritis.,OBJECTIVE",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 45,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthritis.,OBJECTIVE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tinel",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 22,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tinel",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Numbness",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 110,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Anaprox",
+      "label": "CHEMICAL",
+      "start_char": 69,
+      "end_char": 76,
+      "sentence_idx": 18,
+      "concept_id": "C0699095",
+      "concept_name": "Anaprox",
+      "kb_source": "rxnorm",
+      "link_score": 0.9780402779579163,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 87,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

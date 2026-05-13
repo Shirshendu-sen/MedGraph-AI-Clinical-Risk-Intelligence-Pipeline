@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2570__intrauterine_pregnancy___discharge_summary_.txt",
+    "file_name": "mtsamples_2570__intrauterine_pregnancy___discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1982,
+    "processed_at": "2026-05-09T09:54:04.417457"
+  },
+  "entities": [
+    {
+      "text": "2, para 1-0-0-1 with",
+      "label": "CHEMICAL",
+      "start_char": 121,
+      "end_char": 141,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "2, para 1-0-0-1 with",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "intrauterine pregnancy",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 164,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "pregnancy.,PAST",
+      "label": "CHEMICAL",
+      "start_char": 93,
+      "end_char": 108,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pregnancy.,PAST",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 155,
+      "end_char": 165,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "vitamins",
+      "label": "CHEMICAL",
+      "start_char": 277,
+      "end_char": 285,
+      "sentence_idx": 6,
+      "concept_id": "C0025270",
+      "concept_name": "menadione",
+      "kb_source": "rxnorm",
+      "link_score": 0.8269627094268799,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "non-irritable",
+      "label": "DISEASE",
+      "start_char": 392,
+      "end_char": 405,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-irritable",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 37,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "Motrin",
+      "label": "CHEMICAL",
+      "start_char": 117,
+      "end_char": 123,
+      "sentence_idx": 16,
+      "concept_id": "C0699203",
+      "concept_name": "Motrin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9656757116317749,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "Percocet",
+      "label": "CHEMICAL",
+      "start_char": 128,
+      "end_char": 136,
+      "sentence_idx": 16,
+      "concept_id": "C0086787",
+      "concept_name": "Percocet",
+      "kb_source": "rxnorm",
+      "link_score": 0.9522022008895874,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 145,
+      "sentence_idx": 16,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "Paxil",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 17,
+      "concept_id": "C0376414",
+      "concept_name": "Paxil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9697400331497192,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 31,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 140,
+      "end_char": 144,
+      "sentence_idx": 18,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 160,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-08-30"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 162,
+      "end_char": 167,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-08-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/30/09",
+      "start_char": 398,
+      "end_char": 406
+    }
+  ]
+}

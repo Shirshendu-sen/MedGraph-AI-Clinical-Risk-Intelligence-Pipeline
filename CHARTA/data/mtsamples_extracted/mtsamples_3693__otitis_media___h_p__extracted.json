@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3693__otitis_media___h_p_.txt",
+    "file_name": "mtsamples_3693__otitis_media___h_p_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3265,
+    "processed_at": "2026-05-09T09:54:26.266416"
+  },
+  "entities": [
+    {
+      "text": "infections",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 96,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infections",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 197,
+      "end_char": 202,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 204,
+      "end_char": 209,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "irritability",
+      "label": "DISEASE",
+      "start_char": 211,
+      "end_char": 223,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irritability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 72,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 44,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "Alzheimer's disease",
+      "label": "DISEASE",
+      "start_char": 315,
+      "end_char": 334,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Alzheimer's disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 101,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 432,
+      "end_char": 438,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "hypertrophy",
+      "label": "DISEASE",
+      "start_char": 459,
+      "end_char": 470,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "pyorrhea, healthy gums, healthy teeth",
+      "label": "CHEMICAL",
+      "start_char": 475,
+      "end_char": 512,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pyorrhea, healthy gums, healthy teeth",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "abnormalities.,Examination of nasopharynx reveals adenoid hypertrophy.,Neck",
+      "label": "DISEASE",
+      "start_char": 655,
+      "end_char": 730,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormalities.,Examination of nasopharynx reveals adenoid hypertrophy.,Neck",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "supraclavicular lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 790,
+      "end_char": 821,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraclavicular lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "hearing loss",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 113,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hearing loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "suppurative",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 180,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "suppurative",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 201,
+      "end_char": 208,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "Adenoid hyperplasia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 19,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Adenoid hyperplasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 154,
+      "end_char": 163,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "Augmentin",
+      "label": "CHEMICAL",
+      "start_char": 214,
+      "end_char": 223,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Augmentin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    },
+    {
+      "text": "Q8h",
+      "label": "CHEMICAL",
+      "start_char": 288,
+      "end_char": 291,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Q8h",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-07"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/07/2003",
+      "start_char": 2694,
+      "end_char": 2704
+    }
+  ]
+}

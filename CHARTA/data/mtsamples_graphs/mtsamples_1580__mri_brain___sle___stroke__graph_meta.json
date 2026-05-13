@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_1580__mri_brain___sle___stroke_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 87,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0019134": 1,
+    "C0032952": 2,
+    "C0376325": 3,
+    "C0302583": 4,
+    "C0043031": 5,
+    "C0699177": 6
+  },
+  "visit_dates": [
+    "1996-03-03"
+  ],
+  "graph_file": "mtsamples_1580__mri_brain___sle___stroke__graph.pt",
+  "source_dataset": "mtsamples_1580__mri_brain___sle___stroke"
+}

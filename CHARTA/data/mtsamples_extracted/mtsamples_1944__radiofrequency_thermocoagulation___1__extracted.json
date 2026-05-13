@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1944__radiofrequency_thermocoagulation___1_.txt",
+    "file_name": "mtsamples_1944__radiofrequency_thermocoagulation___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1648,
+    "processed_at": "2026-05-09T09:53:53.539995"
+  },
+  "entities": [
+    {
+      "text": "INT",
+      "label": "CHEMICAL",
+      "start_char": 195,
+      "end_char": 198,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "INT",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 3,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 35,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Depo-Medrol",
+      "label": "CHEMICAL",
+      "start_char": 50,
+      "end_char": 61,
+      "sentence_idx": 6,
+      "concept_id": "C0057476",
+      "concept_name": "Depo-Medrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9515208005905151,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

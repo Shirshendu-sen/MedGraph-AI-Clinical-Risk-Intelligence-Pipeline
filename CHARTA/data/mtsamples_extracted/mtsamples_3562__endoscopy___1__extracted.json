@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3562__endoscopy___1_.txt",
+    "file_name": "mtsamples_3562__endoscopy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1382,
+    "processed_at": "2026-05-09T09:54:23.627938"
+  },
+  "entities": [
+    {
+      "text": "GERD",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 4,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "GERD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Distal esophageal reflux-induced stricture",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 42,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Distal esophageal reflux-induced stricture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 57,
+      "sentence_idx": 3,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 70,
+      "end_char": 76,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 158,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cetacaine",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 41,
+      "sentence_idx": 4,
+      "concept_id": "C0055141",
+      "concept_name": "Cetacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9606422781944275,
+      "timestamp": null
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 112,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "reflux disease",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 31,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "reflux disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "biopsied.,2",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 44,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "biopsied.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Distal esophageal reflux-induced stricture",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 42,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Distal esophageal reflux-induced stricture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Aciphex",
+      "label": "CHEMICAL",
+      "start_char": 45,
+      "end_char": 52,
+      "sentence_idx": 15,
+      "concept_id": "C0875952",
+      "concept_name": "Aciphex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9719229340553284,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

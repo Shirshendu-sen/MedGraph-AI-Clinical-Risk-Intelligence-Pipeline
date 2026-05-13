@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2464__nephrology_office_visit___2_.txt",
+    "file_name": "mtsamples_2464__nephrology_office_visit___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 654,
+    "processed_at": "2026-05-09T09:54:02.174007"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2464__nephrology_office_visit___2_.txt",
+    "text": "HISTORY OF PRESENT ILLNESS:,  This is a 79-year-old white male who presents for a nephrology followup for his chronic kidney disease secondary to nephrosclerosis and nonfunctioning right kidney.  His most recent BUN and creatinine on 04/04/06 are 40/2.0, which is stable.  He denies any chest pain or tightness in his chest.  He denies any shortness of breath, nausea, or vomiting.  He denies any change to his appetite.  He denies any fevers, chills, dysuria, or hematuria.  He does report his blood pressure being checked at the senior center and reporting that it is improved.  The patient has stage III chronic kidney disease. ,PAST MEDICAL HISTORY:,",
+    "char_count": 654,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "HISTORY OF PRESENT ILLNESS:, This is a 79-year-old white male who presents for a nephrology followup for his chronic kidney disease secondary to nephrosclerosis and nonfunctioning right kidney. His most recent BUN and creatinine on 04/04/06 are 40/2.0, which is stable. He denies any chest pain or tightness in his chest. He denies any shortness of breath, nausea, or vomiting. He denies any change to his appetite. He denies any fevers, chills, dysuria, or hematuria. He does report his blood pressure being checked at the senior center and reporting that it is improved. The patient has stage III chronic kidney disease. ,PAST MEDICAL HISTORY:,",
+    "sentences": [
+      "HISTORY OF PRESENT ILLNESS:, This is a 79-year-old white male who presents for a nephrology followup for his chronic kidney disease secondary to nephrosclerosis and nonfunctioning right kidney.",
+      "His most recent BUN and creatinine on 04/04/06 are 40/2.0, which is stable.",
+      "He denies any chest pain or tightness in his chest.",
+      "He denies any shortness of breath, nausea, or vomiting.",
+      "He denies any change to his appetite.",
+      "He denies any fevers, chills, dysuria, or hematuria.",
+      "He does report his blood pressure being checked at the senior center and reporting that it is improved.",
+      "The patient has stage III chronic kidney disease. ,PAST MEDICAL HISTORY:,"
+    ],
+    "sentence_count": 8,
+    "original_length": 654,
+    "cleaned_length": 646,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "HISTORY OF PRESENT ILLNESS:,  This is a 79-year-old white male who presents for a nephrology followup for his chronic kidney disease secondary to nephrosclerosis and nonfunctioning right kidney.  His most recent BUN and creatinine on 04/04/06 are 40/2.0, which is stable.  He denies any chest pain or tightness in his chest.  He denies any shortness of breath, nausea, or vomiting.  He denies any change to his appetite.  He denies any fevers, chills, dysuria, or hematuria.  He does report his blood pressure being checked at the senior center and reporting that it is improved.  The patient has stage III chronic kidney disease. ,PAST MEDICAL HISTORY:,",
+    "cleaned_text": "HISTORY OF PRESENT ILLNESS:, This is a 79-year-old white male who presents for a nephrology followup for his chronic kidney disease secondary to nephrosclerosis and nonfunctioning right kidney. His most recent BUN and creatinine on 04/04/06 are 40/2.0, which is stable. He denies any chest pain or tightness in his chest. He denies any shortness of breath, nausea, or vomiting. He denies any change to his appetite. He denies any fevers, chills, dysuria, or hematuria. He does report his blood pressure being checked at the senior center and reporting that it is improved. The patient has stage III chronic kidney disease. ,PAST MEDICAL HISTORY:,",
+    "sentences": [
+      "HISTORY OF PRESENT ILLNESS:, This is a 79-year-old white male who presents for a nephrology followup for his chronic kidney disease secondary to nephrosclerosis and nonfunctioning right kidney.",
+      "His most recent BUN and creatinine on 04/04/06 are 40/2.0, which is stable.",
+      "He denies any chest pain or tightness in his chest.",
+      "He denies any shortness of breath, nausea, or vomiting.",
+      "He denies any change to his appetite.",
+      "He denies any fevers, chills, dysuria, or hematuria.",
+      "He does report his blood pressure being checked at the senior center and reporting that it is improved.",
+      "The patient has stage III chronic kidney disease. ,PAST MEDICAL HISTORY:,"
+    ],
+    "sentence_count": 8
+  }
+}

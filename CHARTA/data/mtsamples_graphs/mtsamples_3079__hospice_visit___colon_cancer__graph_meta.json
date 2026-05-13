@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_3079__hospice_visit___colon_cancer_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 54,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C2723006": 1,
+    "C0699992": 2,
+    "C0034665": 3,
+    "C0032821": 4,
+    "C0700899": 5,
+    "C0700517": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3079__hospice_visit___colon_cancer__graph.pt",
+  "source_dataset": "mtsamples_3079__hospice_visit___colon_cancer"
+}

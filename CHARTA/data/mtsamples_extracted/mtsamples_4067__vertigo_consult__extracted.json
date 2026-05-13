@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4067__vertigo_consult_.txt",
+    "file_name": "mtsamples_4067__vertigo_consult_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 799,
+    "processed_at": "2026-05-09T09:54:32.878888"
+  },
+  "entities": [
+    {
+      "text": "nystagmus",
+      "label": "DISEASE",
+      "start_char": 352,
+      "end_char": 361,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nystagmus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "betahistine",
+      "label": "CHEMICAL",
+      "start_char": 671,
+      "end_char": 682,
+      "sentence_idx": 0,
+      "concept_id": "C0005301",
+      "concept_name": "betahistine",
+      "kb_source": "rxnorm",
+      "link_score": 0.931712806224823,
+      "timestamp": null
+    },
+    {
+      "text": "vestibular hypofunction",
+      "label": "DISEASE",
+      "start_char": 770,
+      "end_char": 793,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vestibular hypofunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

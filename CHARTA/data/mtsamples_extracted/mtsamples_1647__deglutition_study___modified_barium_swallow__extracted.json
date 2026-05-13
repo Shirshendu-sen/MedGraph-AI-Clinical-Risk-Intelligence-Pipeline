@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1647__deglutition_study___modified_barium_swallow_.txt",
+    "file_name": "mtsamples_1647__deglutition_study___modified_barium_swallow_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 651,
+    "processed_at": "2026-05-09T09:53:47.463119"
+  },
+  "entities": [
+    {
+      "text": "barium",
+      "label": "CHEMICAL",
+      "start_char": 17,
+      "end_char": 23,
+      "sentence_idx": 0,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9710781574249268,
+      "timestamp": null
+    },
+    {
+      "text": "Dysphagia",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 52,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 79,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "weakness of the oral phase of deglutition",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 152,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness of the oral phase of deglutition",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

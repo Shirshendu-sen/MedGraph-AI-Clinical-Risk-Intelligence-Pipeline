@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0381__release_of_a1_pulley___1_.txt",
+    "file_name": "mtsamples_0381__release_of_a1_pulley___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2276,
+    "processed_at": "2026-05-09T09:53:14.423189"
+  },
+  "entities": [
+    {
+      "text": "tendinosis",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-21"
+    },
+    {
+      "text": "finger).,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 91,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "finger).,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-21"
+    },
+    {
+      "text": "tendinosis",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 125,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-21"
+    },
+    {
+      "text": "fibrous",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 19,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-21"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 210,
+      "end_char": 214,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-21"
+    },
+    {
+      "text": "tendinosis",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 43,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-21"
+    },
+    {
+      "text": "Fibrous nodule was noted within the tendon",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 42,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fibrous nodule was noted within the tendon",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-21"
+    },
+    {
+      "text": "Prognosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prognosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-21"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/21/03",
+      "start_char": 999,
+      "end_char": 1007
+    }
+  ]
+}

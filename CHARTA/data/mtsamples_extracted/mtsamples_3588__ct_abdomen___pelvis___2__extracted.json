@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3588__ct_abdomen___pelvis___2_.txt",
+    "file_name": "mtsamples_3588__ct_abdomen___pelvis___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1299,
+    "processed_at": "2026-05-09T09:54:24.547995"
+  },
+  "entities": [
+    {
+      "text": "Isovue",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 25,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Isovue",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "extrahepatic ductal dilatation.,The gallbladder",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 101,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "extrahepatic ductal dilatation.,The gallbladder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydronephrosis",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 26,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydronephrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticula",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 97,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticulitis",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 49,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticulitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ascites",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 19,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ascites",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticulitis",
+      "label": "DISEASE",
+      "start_char": 208,
+      "end_char": 222,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticulitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

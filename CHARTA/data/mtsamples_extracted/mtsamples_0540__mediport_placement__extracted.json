@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0540__mediport_placement_.txt",
+    "file_name": "mtsamples_0540__mediport_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1603,
+    "processed_at": "2026-05-09T09:53:18.674589"
+  },
+  "entities": [
+    {
+      "text": "Rhabdomyosarcoma",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 41,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Rhabdomyosarcoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Rhabdomyosarcoma",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 103,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Rhabdomyosarcoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rhabdomyosarcoma of the left orbit",
+      "label": "DISEASE",
+      "start_char": 289,
+      "end_char": 323,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rhabdomyosarcoma of the left orbit",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 100,
+      "end_char": 107,
+      "sentence_idx": 12,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

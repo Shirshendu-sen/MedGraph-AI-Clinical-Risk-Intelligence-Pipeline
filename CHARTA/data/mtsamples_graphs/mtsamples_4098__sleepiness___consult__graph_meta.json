@@ -1,0 +1,26 @@
+{
+  "patient_id": "mtsamples_4098__sleepiness___consult_",
+  "num_entities": 13,
+  "num_visits": 1,
+  "num_edges": 123,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0020264": 2,
+    "C0699034": 3,
+    "C0033497": 4,
+    "C0069805": 5,
+    "C1330412": 6,
+    "C0527315": 7,
+    "C0060926": 8,
+    "C0086787": 9,
+    "C0026549": 10,
+    "C0006675": 11,
+    "C0042866": 12
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4098__sleepiness___consult__graph.pt",
+  "source_dataset": "mtsamples_4098__sleepiness___consult"
+}

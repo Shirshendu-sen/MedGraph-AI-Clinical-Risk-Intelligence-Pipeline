@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4078__tethered_cord_evaluation_.txt",
+    "file_name": "mtsamples_4078__tethered_cord_evaluation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1310,
+    "processed_at": "2026-05-09T09:54:33.064472"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 71,
+      "sentence_idx": 3,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Advil",
+      "label": "CHEMICAL",
+      "start_char": 133,
+      "end_char": 138,
+      "sentence_idx": 3,
+      "concept_id": "C0593507",
+      "concept_name": "Advil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9754316210746765,
+      "timestamp": null
+    },
+    {
+      "text": "Motrin",
+      "label": "CHEMICAL",
+      "start_char": 140,
+      "end_char": 146,
+      "sentence_idx": 3,
+      "concept_id": "C0699203",
+      "concept_name": "Motrin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9656757116317749,
+      "timestamp": null
+    },
+    {
+      "text": "Tylenol",
+      "label": "CHEMICAL",
+      "start_char": 158,
+      "end_char": 165,
+      "sentence_idx": 3,
+      "concept_id": "C0699142",
+      "concept_name": "Tylenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9819504022598267,
+      "timestamp": null
+    },
+    {
+      "text": "bladder dysfunction",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 213,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Singulair",
+      "label": "CHEMICAL",
+      "start_char": 63,
+      "end_char": 72,
+      "sentence_idx": 4,
+      "concept_id": "C0595724",
+      "concept_name": "Singulair",
+      "kb_source": "rxnorm",
+      "link_score": 0.9818841218948364,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

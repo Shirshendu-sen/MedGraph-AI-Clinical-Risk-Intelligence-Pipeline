@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0132__electrofulguration___bladder_tumor_.txt",
+    "file_name": "mtsamples_0132__electrofulguration___bladder_tumor_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 928,
+    "processed_at": "2026-05-09T09:53:07.147380"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0132__electrofulguration___bladder_tumor_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Recurrent bladder tumors.,POSTOPERATIVE DIAGNOSIS:,  Recurrent bladder tumors.,OPERATION: , Cystoscopy, TUR, and electrofulguration of recurrent bladder tumors.,ANESTHESIA:,  General.,INDICATIONS: , A 79-year-old woman with recurrent bladder tumors of the bladder neck.,DESCRIPTION OF PROCEDURE:  ,The patient was brought to the operating room, prepped and draped in lithotomy position under satisfactory general anesthesia.  A #21-French cystourethroscope was inserted into the bladder.  Examination of the bladder showed approximately a 3-cm area of erythema and recurrent papillomatosis just above and lateral to the left ureteral orifice.  No other lesions were noted.  Using a cold punch biopsy forceps, a random biopsy was obtained.  The entire area was electrofulgurated using the Bugbee electrode.  The patient tolerated the procedure well and left the operating room in satisfactory condition.",
+    "char_count": 928,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Recurrent bladder tumors.,POSTOPERATIVE DIAGNOSIS:, Recurrent bladder tumors.,OPERATION: , Cystoscopy, TUR, and electrofulguration of recurrent bladder tumors.,ANESTHESIA:, General.,INDICATIONS: , A 79-year-old woman with recurrent bladder tumors of the bladder neck.,DESCRIPTION OF PROCEDURE: ,The patient was brought to the operating room, prepped and draped in lithotomy position under satisfactory general anesthesia. A #21-French cystourethroscope was inserted into the bladder. Examination of the bladder showed approximately a 3-cm area of erythema and recurrent papillomatosis just above and lateral to the left ureteral orifice. No other lesions were noted. Using a cold punch biopsy forceps, a random biopsy was obtained. The entire area was electrofulgurated using the Bugbee electrode. The patient tolerated the procedure well and left the operating room in satisfactory condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Recurrent bladder tumors.,POSTOPERATIVE DIAGNOSIS:, Recurrent bladder tumors.,OPERATION: , Cystoscopy, TUR, and electrofulguration of recurrent bladder tumors.,ANESTHESIA:, General.,INDICATIONS: , A 79-year-old woman with recurrent bladder tumors of the bladder neck.,DESCRIPTION OF PROCEDURE: ,The patient was brought to the operating room, prepped and draped in lithotomy position under satisfactory general anesthesia.",
+      "A #21-French cystourethroscope was inserted into the bladder.",
+      "Examination of the bladder showed approximately a 3-cm area of erythema and recurrent papillomatosis just above and lateral to the left ureteral orifice.",
+      "No other lesions were noted.",
+      "Using a cold punch biopsy forceps, a random biopsy was obtained.",
+      "The entire area was electrofulgurated using the Bugbee electrode.",
+      "The patient tolerated the procedure well and left the operating room in satisfactory condition."
+    ],
+    "sentence_count": 7,
+    "original_length": 928,
+    "cleaned_length": 919,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Recurrent bladder tumors.,POSTOPERATIVE DIAGNOSIS:,  Recurrent bladder tumors.,OPERATION: , Cystoscopy, TUR, and electrofulguration of recurrent bladder tumors.,ANESTHESIA:,  General.,INDICATIONS: , A 79-year-old woman with recurrent bladder tumors of the bladder neck.,DESCRIPTION OF PROCEDURE:  ,The patient was brought to the operating room, prepped and draped in lithotomy position under satisfactory general anesthesia.  A #21-French cystourethroscope was inserted into the bladder.  Examination of the bladder showed approximately a 3-cm area of erythema and recurrent papillomatosis just above and lateral to the left ureteral orifice.  No other lesions were noted.  Using a cold punch biopsy forceps, a random biopsy was obtained.  The entire area was electrofulgurated using the Bugbee electrode.  The patient tolerated the procedure well and left the operating room in satisfactory condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Recurrent bladder tumors.,POSTOPERATIVE DIAGNOSIS:, Recurrent bladder tumors.,OPERATION: , Cystoscopy, TUR, and electrofulguration of recurrent bladder tumors.,ANESTHESIA:, General.,INDICATIONS: , A 79-year-old woman with recurrent bladder tumors of the bladder neck.,DESCRIPTION OF PROCEDURE: ,The patient was brought to the operating room, prepped and draped in lithotomy position under satisfactory general anesthesia. A #21-French cystourethroscope was inserted into the bladder. Examination of the bladder showed approximately a 3-cm area of erythema and recurrent papillomatosis just above and lateral to the left ureteral orifice. No other lesions were noted. Using a cold punch biopsy forceps, a random biopsy was obtained. The entire area was electrofulgurated using the Bugbee electrode. The patient tolerated the procedure well and left the operating room in satisfactory condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Recurrent bladder tumors.,POSTOPERATIVE DIAGNOSIS:, Recurrent bladder tumors.,OPERATION: , Cystoscopy, TUR, and electrofulguration of recurrent bladder tumors.,ANESTHESIA:, General.,INDICATIONS: , A 79-year-old woman with recurrent bladder tumors of the bladder neck.,DESCRIPTION OF PROCEDURE: ,The patient was brought to the operating room, prepped and draped in lithotomy position under satisfactory general anesthesia.",
+      "A #21-French cystourethroscope was inserted into the bladder.",
+      "Examination of the bladder showed approximately a 3-cm area of erythema and recurrent papillomatosis just above and lateral to the left ureteral orifice.",
+      "No other lesions were noted.",
+      "Using a cold punch biopsy forceps, a random biopsy was obtained.",
+      "The entire area was electrofulgurated using the Bugbee electrode.",
+      "The patient tolerated the procedure well and left the operating room in satisfactory condition."
+    ],
+    "sentence_count": 7
+  }
+}

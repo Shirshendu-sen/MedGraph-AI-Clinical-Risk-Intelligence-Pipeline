@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0224__true_cut_needle_biopsy___breast_.txt",
+    "file_name": "mtsamples_0224__true_cut_needle_biopsy___breast_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 953,
+    "processed_at": "2026-05-09T09:53:09.584692"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0224__true_cut_needle_biopsy___breast_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS:,  Carcinoma of the left breast.,POSTOPERATIVE DIAGNOSIS:,  Carcinoma of the left breast.,PROCEDURE PERFORMED: , True cut needle biopsy of the breast.,GROSS FINDINGS:  ,This 65-year-old female on exam was noted to have dimpling and puckering of the skin associated with nipple discharge.  On exam, she has a noticeable carcinoma of the left breast with dimpling, puckering, and erosion through the skin.  At this time, a true cut needle biopsy was performed.,PROCEDURE: , The patient was taken to operating room, is laid in the supine position, sterilely prepped and draped in the usual fashion.  The area over the left breast was infiltrated with 1:1 mixture of 0.25% Marcaine and 1% Xylocaine.  Using a #18 gauge automatic true cut needle core biopsy, five biopsies were taken of the left breast in core fashion.  Hemostasis was controlled with pressure.  The patient tolerated the procedure well, pending the results of biopsy.",
+    "char_count": 953,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS:, Carcinoma of the left breast.,POSTOPERATIVE DIAGNOSIS:, Carcinoma of the left breast.,PROCEDURE PERFORMED: , True cut needle biopsy of the breast.,GROSS FINDINGS: ,This 65-year-old female on exam was noted to have dimpling and puckering of the skin associated with nipple discharge. On exam, she has a noticeable carcinoma of the left breast with dimpling, puckering, and erosion through the skin. At this time, a true cut needle biopsy was performed.,PROCEDURE: , The patient was taken to operating room, is laid in the supine position, sterilely prepped and draped in the usual fashion. The area over the left breast was infiltrated with 1:1 mixture of 0.25% Marcaine and 1% Xylocaine. Using a #18 gauge automatic true cut needle core biopsy, five biopsies were taken of the left breast in core fashion. Hemostasis was controlled with pressure. The patient tolerated the procedure well, pending the results of biopsy.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS:, Carcinoma of the left breast.,POSTOPERATIVE DIAGNOSIS:, Carcinoma of the left breast.,PROCEDURE PERFORMED: , True cut needle biopsy of the breast.,GROSS FINDINGS: ,This 65-year-old female on exam was noted to have dimpling and puckering of the skin associated with nipple discharge.",
+      "On exam, she has a noticeable carcinoma of the left breast with dimpling, puckering, and erosion through the skin.",
+      "At this time, a true cut needle biopsy was performed.,PROCEDURE: , The patient was taken to operating room, is laid in the supine position, sterilely prepped and draped in the usual fashion.",
+      "The area over the left breast was infiltrated with 1:1 mixture of 0.25% Marcaine and 1% Xylocaine.",
+      "Using a #18 gauge automatic true cut needle core biopsy, five biopsies were taken of the left breast in core fashion.",
+      "Hemostasis was controlled with pressure.",
+      "The patient tolerated the procedure well, pending the results of biopsy."
+    ],
+    "sentence_count": 7,
+    "original_length": 953,
+    "cleaned_length": 944,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS:,  Carcinoma of the left breast.,POSTOPERATIVE DIAGNOSIS:,  Carcinoma of the left breast.,PROCEDURE PERFORMED: , True cut needle biopsy of the breast.,GROSS FINDINGS:  ,This 65-year-old female on exam was noted to have dimpling and puckering of the skin associated with nipple discharge.  On exam, she has a noticeable carcinoma of the left breast with dimpling, puckering, and erosion through the skin.  At this time, a true cut needle biopsy was performed.,PROCEDURE: , The patient was taken to operating room, is laid in the supine position, sterilely prepped and draped in the usual fashion.  The area over the left breast was infiltrated with 1:1 mixture of 0.25% Marcaine and 1% Xylocaine.  Using a #18 gauge automatic true cut needle core biopsy, five biopsies were taken of the left breast in core fashion.  Hemostasis was controlled with pressure.  The patient tolerated the procedure well, pending the results of biopsy.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS:, Carcinoma of the left breast.,POSTOPERATIVE DIAGNOSIS:, Carcinoma of the left breast.,PROCEDURE PERFORMED: , True cut needle biopsy of the breast.,GROSS FINDINGS: ,This 65-year-old female on exam was noted to have dimpling and puckering of the skin associated with nipple discharge. On exam, she has a noticeable carcinoma of the left breast with dimpling, puckering, and erosion through the skin. At this time, a true cut needle biopsy was performed.,PROCEDURE: , The patient was taken to operating room, is laid in the supine position, sterilely prepped and draped in the usual fashion. The area over the left breast was infiltrated with 1:1 mixture of 0.25% Marcaine and 1% Xylocaine. Using a #18 gauge automatic true cut needle core biopsy, five biopsies were taken of the left breast in core fashion. Hemostasis was controlled with pressure. The patient tolerated the procedure well, pending the results of biopsy.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS:, Carcinoma of the left breast.,POSTOPERATIVE DIAGNOSIS:, Carcinoma of the left breast.,PROCEDURE PERFORMED: , True cut needle biopsy of the breast.,GROSS FINDINGS: ,This 65-year-old female on exam was noted to have dimpling and puckering of the skin associated with nipple discharge.",
+      "On exam, she has a noticeable carcinoma of the left breast with dimpling, puckering, and erosion through the skin.",
+      "At this time, a true cut needle biopsy was performed.,PROCEDURE: , The patient was taken to operating room, is laid in the supine position, sterilely prepped and draped in the usual fashion.",
+      "The area over the left breast was infiltrated with 1:1 mixture of 0.25% Marcaine and 1% Xylocaine.",
+      "Using a #18 gauge automatic true cut needle core biopsy, five biopsies were taken of the left breast in core fashion.",
+      "Hemostasis was controlled with pressure.",
+      "The patient tolerated the procedure well, pending the results of biopsy."
+    ],
+    "sentence_count": 7
+  }
+}

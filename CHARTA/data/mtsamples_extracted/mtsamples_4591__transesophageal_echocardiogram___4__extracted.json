@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4591__transesophageal_echocardiogram___4_.txt",
+    "file_name": "mtsamples_4591__transesophageal_echocardiogram___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1160,
+    "processed_at": "2026-05-09T09:54:41.855831"
+  },
+  "entities": [
+    {
+      "text": "Cetacaine",
+      "label": "CHEMICAL",
+      "start_char": 60,
+      "end_char": 69,
+      "sentence_idx": 2,
+      "concept_id": "C0055141",
+      "concept_name": "Cetacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9606422781944275,
+      "timestamp": null
+    },
+    {
+      "text": "mitral regurgitation",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 25,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left ventricular thrombus.,7",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 31,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left ventricular thrombus.,7",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "patent foramen ovale",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 41,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patent foramen ovale",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 18,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "patent foramen ovale",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 106,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patent foramen ovale",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

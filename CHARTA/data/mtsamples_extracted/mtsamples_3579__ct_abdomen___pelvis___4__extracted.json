@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3579__ct_abdomen___pelvis___4_.txt",
+    "file_name": "mtsamples_3579__ct_abdomen___pelvis___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1737,
+    "processed_at": "2026-05-09T09:54:23.917478"
+  },
+  "entities": [
+    {
+      "text": "left renal pelvis and proximal ureteral dilatation",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 78,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left renal pelvis and proximal ureteral dilatation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticula",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 71,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticula",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 31,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticulitis",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 75,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticulitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bibasilar atelectatic changes.,Given",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 75,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bibasilar atelectatic changes.,Given",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left renal pelvic dilatation",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 163,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left renal pelvic dilatation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "advised.,2.Diverticulosis.,3.Moderate",
+      "label": "CHEMICAL",
+      "start_char": 24,
+      "end_char": 61,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "advised.,2.Diverticulosis.,3.Moderate",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_0471__pacemaker__single_chamber__",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0700899": 1,
+    "C0023660": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0471__pacemaker__single_chamber___graph.pt",
+  "source_dataset": "mtsamples_0471__pacemaker__single_chamber_"
+}

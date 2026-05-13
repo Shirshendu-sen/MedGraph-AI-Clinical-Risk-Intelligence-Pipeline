@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0768__frontotemporoparietal_craniotomy_.txt",
+    "file_name": "mtsamples_0768__frontotemporoparietal_craniotomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2670,
+    "processed_at": "2026-05-09T09:53:25.203422"
+  },
+  "entities": [
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "herniation syndrome.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 97,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation syndrome.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 134,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 148,
+      "end_char": 158,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "herniation syndrome",
+      "label": "DISEASE",
+      "start_char": 377,
+      "end_char": 396,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 417,
+      "end_char": 425,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "temporalis muscle",
+      "label": "DISEASE",
+      "start_char": 217,
+      "end_char": 234,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "temporalis muscle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 66,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar electrocautery",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 116,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar electrocautery",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeders",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 159,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeders",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "temporalis muscle",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 54,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "temporalis muscle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subgaleal",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 99,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subgaleal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "contusion",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 61,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss 400",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 24,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss 400",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

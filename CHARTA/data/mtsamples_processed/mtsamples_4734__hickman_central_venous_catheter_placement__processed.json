@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4734__hickman_central_venous_catheter_placement_.txt",
+    "file_name": "mtsamples_4734__hickman_central_venous_catheter_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1651,
+    "processed_at": "2026-05-09T09:54:43.977455"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4734__hickman_central_venous_catheter_placement_.txt",
+    "text": "PROCEDURE PERFORMED,1.  Placement of a subclavian single-lumen tunneled Hickman central venous catheter.,2.  Surgeon-interpreted fluoroscopy.,OPERATION IN DETAIL:,  After obtaining informed consent from the patient, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and anesthesia was administered.  Next, a #18-gauge needle was used to locate the subclavian vein.  After aspiration of venous blood, a J wire was inserted through the needle using Seldinger technique.  The needle was withdrawn.  The distal tip location of the J wire was confirmed to be in adequate position with surgeon-interpreted fluoroscopy.  Next, a separate stab incision was made approximately 3 fingerbreadths below the wire exit site.  A subcutaneous tunnel was created, and the distal tip of the Hickman catheter was pulled through the tunnel to the level of the cuff.  The catheter was cut to the appropriate length.  A dilator and sheath were passed over the J wire.  The dilator and J wire were removed, and the distal tip of the Hickman catheter was threaded through the sheath, which was simultaneously withdrawn.  The catheter was flushed and aspirated without difficulty.  The distal tip was confirmed to be in good location with surgeon-interpreted fluoroscopy.  A 2-0 nylon was used to secure the cuff down to the catheter at the skin level.  The skin stab site was closed with a 4-0 Monocryl.  The instrument and sponge count was correct at the end of the case.  The patient tolerated the procedure well and was transferred to the postanesthesia recovery area in good condition.",
+    "char_count": 1651,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE PERFORMED,1. Placement of a subclavian single-lumen tunneled Hickman central venous catheter.,2. Surgeon-interpreted fluoroscopy.,OPERATION IN DETAIL:, After obtaining informed consent from the patient, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and anesthesia was administered. Next, a #18-gauge needle was used to locate the subclavian vein. After aspiration of venous blood, a J wire was inserted through the needle using Seldinger technique. The needle was withdrawn. The distal tip location of the J wire was confirmed to be in adequate position with surgeon-interpreted fluoroscopy. Next, a separate stab incision was made approximately 3 fingerbreadths below the wire exit site. A subcutaneous tunnel was created, and the distal tip of the Hickman catheter was pulled through the tunnel to the level of the cuff. The catheter was cut to the appropriate length. A dilator and sheath were passed over the J wire. The dilator and J wire were removed, and the distal tip of the Hickman catheter was threaded through the sheath, which was simultaneously withdrawn. The catheter was flushed and aspirated without difficulty. The distal tip was confirmed to be in good location with surgeon-interpreted fluoroscopy. A 2-0 nylon was used to secure the cuff down to the catheter at the skin level. The skin stab site was closed with a 4-0 Monocryl. The instrument and sponge count was correct at the end of the case. The patient tolerated the procedure well and was transferred to the postanesthesia recovery area in good condition.",
+    "sentences": [
+      "PROCEDURE PERFORMED,1.",
+      "Placement of a subclavian single-lumen tunneled Hickman central venous catheter.,2.",
+      "Surgeon-interpreted fluoroscopy.,OPERATION IN DETAIL:, After obtaining informed consent from the patient, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and anesthesia was administered.",
+      "Next, a #18-gauge needle was used to locate the subclavian vein.",
+      "After aspiration of venous blood, a J wire was inserted through the needle using Seldinger technique.",
+      "The needle was withdrawn.",
+      "The distal tip location of the J wire was confirmed to be in adequate position with surgeon-interpreted fluoroscopy.",
+      "Next, a separate stab incision was made approximately 3 fingerbreadths below the wire exit site.",
+      "A subcutaneous tunnel was created, and the distal tip of the Hickman catheter was pulled through the tunnel to the level of the cuff.",
+      "The catheter was cut to the appropriate length.",
+      "A dilator and sheath were passed over the J wire.",
+      "The dilator and J wire were removed, and the distal tip of the Hickman catheter was threaded through the sheath, which was simultaneously withdrawn.",
+      "The catheter was flushed and aspirated without difficulty.",
+      "The distal tip was confirmed to be in good location with surgeon-interpreted fluoroscopy.",
+      "A 2-0 nylon was used to secure the cuff down to the catheter at the skin level.",
+      "The skin stab site was closed with a 4-0 Monocryl.",
+      "The instrument and sponge count was correct at the end of the case.",
+      "The patient tolerated the procedure well and was transferred to the postanesthesia recovery area in good condition."
+    ],
+    "sentence_count": 18,
+    "original_length": 1651,
+    "cleaned_length": 1633,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE PERFORMED,1.  Placement of a subclavian single-lumen tunneled Hickman central venous catheter.,2.  Surgeon-interpreted fluoroscopy.,OPERATION IN DETAIL:,  After obtaining informed consent from the patient, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and anesthesia was administered.  Next, a #18-gauge needle was used to locate the subclavian vein.  After aspiration of venous blood, a J wire was inserted through the needle using Seldinger technique.  The needle was withdrawn.  The distal tip location of the J wire was confirmed to be in adequate position with surgeon-interpreted fluoroscopy.  Next, a separate stab incision was made approximately 3 fingerbreadths below the wire exit site.  A subcutaneous tunnel was created, and the distal tip of the Hickman catheter was pulled through the tunnel to the level of the cuff.  The catheter was cut to the appropriate length.  A dilator and sheath were passed over the J wire.  The dilator and J wire were removed, and the distal tip of the Hickman catheter was threaded through the sheath, which was simultaneously withdrawn.  The catheter was flushed and aspirated without difficulty.  The distal tip was confirmed to be in good location with surgeon-interpreted fluoroscopy.  A 2-0 nylon was used to secure the cuff down to the catheter at the skin level.  The skin stab site was closed with a 4-0 Monocryl.  The instrument and sponge count was correct at the end of the case.  The patient tolerated the procedure well and was transferred to the postanesthesia recovery area in good condition.",
+    "cleaned_text": "PROCEDURE PERFORMED,1. Placement of a subclavian single-lumen tunneled Hickman central venous catheter.,2. Surgeon-interpreted fluoroscopy.,OPERATION IN DETAIL:, After obtaining informed consent from the patient, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and anesthesia was administered. Next, a #18-gauge needle was used to locate the subclavian vein. After aspiration of venous blood, a J wire was inserted through the needle using Seldinger technique. The needle was withdrawn. The distal tip location of the J wire was confirmed to be in adequate position with surgeon-interpreted fluoroscopy. Next, a separate stab incision was made approximately 3 fingerbreadths below the wire exit site. A subcutaneous tunnel was created, and the distal tip of the Hickman catheter was pulled through the tunnel to the level of the cuff. The catheter was cut to the appropriate length. A dilator and sheath were passed over the J wire. The dilator and J wire were removed, and the distal tip of the Hickman catheter was threaded through the sheath, which was simultaneously withdrawn. The catheter was flushed and aspirated without difficulty. The distal tip was confirmed to be in good location with surgeon-interpreted fluoroscopy. A 2-0 nylon was used to secure the cuff down to the catheter at the skin level. The skin stab site was closed with a 4-0 Monocryl. The instrument and sponge count was correct at the end of the case. The patient tolerated the procedure well and was transferred to the postanesthesia recovery area in good condition.",
+    "sentences": [
+      "PROCEDURE PERFORMED,1.",
+      "Placement of a subclavian single-lumen tunneled Hickman central venous catheter.,2.",
+      "Surgeon-interpreted fluoroscopy.,OPERATION IN DETAIL:, After obtaining informed consent from the patient, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and anesthesia was administered.",
+      "Next, a #18-gauge needle was used to locate the subclavian vein.",
+      "After aspiration of venous blood, a J wire was inserted through the needle using Seldinger technique.",
+      "The needle was withdrawn.",
+      "The distal tip location of the J wire was confirmed to be in adequate position with surgeon-interpreted fluoroscopy.",
+      "Next, a separate stab incision was made approximately 3 fingerbreadths below the wire exit site.",
+      "A subcutaneous tunnel was created, and the distal tip of the Hickman catheter was pulled through the tunnel to the level of the cuff.",
+      "The catheter was cut to the appropriate length.",
+      "A dilator and sheath were passed over the J wire.",
+      "The dilator and J wire were removed, and the distal tip of the Hickman catheter was threaded through the sheath, which was simultaneously withdrawn.",
+      "The catheter was flushed and aspirated without difficulty.",
+      "The distal tip was confirmed to be in good location with surgeon-interpreted fluoroscopy.",
+      "A 2-0 nylon was used to secure the cuff down to the catheter at the skin level.",
+      "The skin stab site was closed with a 4-0 Monocryl.",
+      "The instrument and sponge count was correct at the end of the case.",
+      "The patient tolerated the procedure well and was transferred to the postanesthesia recovery area in good condition."
+    ],
+    "sentence_count": 18
+  }
+}

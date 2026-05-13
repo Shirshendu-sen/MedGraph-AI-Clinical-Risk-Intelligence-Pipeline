@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_3329__gen_med_consult___33_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 82,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0004057": 1,
+    "C1505021": 2,
+    "C0015772": 3,
+    "C0028978": 4,
+    "C0074554": 5,
+    "C0040235": 6,
+    "C0699142": 7,
+    "C0593887": 8,
+    "C0030346": 9
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3329__gen_med_consult___33__graph.pt",
+  "source_dataset": "mtsamples_3329__gen_med_consult___33"
+}

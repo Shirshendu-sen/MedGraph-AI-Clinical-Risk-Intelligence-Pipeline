@@ -1,0 +1,27 @@
+{
+  "patient_id": "mtsamples_3084__hospice_visit___ca_of_cervix_",
+  "num_entities": 14,
+  "num_visits": 1,
+  "num_edges": 118,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0025605": 2,
+    "C0009011": 3,
+    "C0527258": 4,
+    "C0030054": 5,
+    "C0022251": 6,
+    "C0171023": 7,
+    "C0037688": 8,
+    "C0011892": 9,
+    "C0657912": 10,
+    "C0700004": 11,
+    "C0009074": 12,
+    "C0991534": 13
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3084__hospice_visit___ca_of_cervix__graph.pt",
+  "source_dataset": "mtsamples_3084__hospice_visit___ca_of_cervix"
+}

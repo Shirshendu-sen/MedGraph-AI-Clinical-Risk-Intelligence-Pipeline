@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0584__low_transverse_c_section_.txt",
+    "file_name": "mtsamples_0584__low_transverse_c_section_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3713,
+    "processed_at": "2026-05-09T09:53:19.960787"
+  },
+  "entities": [
+    {
+      "text": "Arrest",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Arrest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Arrest",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Arrest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "OP",
+      "label": "CHEMICAL",
+      "start_char": 214,
+      "end_char": 216,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "OP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "1, para 0 female",
+      "label": "CHEMICAL",
+      "start_char": 97,
+      "end_char": 113,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1, para 0 female",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "active labor",
+      "label": "DISEASE",
+      "start_char": 160,
+      "end_char": 172,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "active labor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 54,
+      "sentence_idx": 7,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 160,
+      "end_char": 168,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 170,
+      "end_char": 179,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injury to surrounding organs, and possible need for further surgery",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 248,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury to surrounding organs, and possible need for further surgery",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nose and mouth",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 18,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nose and mouth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0647__laparoscopic_appendectomy_.txt",
+    "file_name": "mtsamples_0647__laparoscopic_appendectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2221,
+    "processed_at": "2026-05-09T09:53:21.556253"
+  },
+  "entities": [
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 45,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "GIA blue",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 48,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "GIA blue",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 72,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 50,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 18,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

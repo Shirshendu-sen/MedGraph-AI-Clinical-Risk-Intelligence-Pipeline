@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2174__knee_arthroscopy___1_.txt",
+    "file_name": "mtsamples_2174__knee_arthroscopy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1513,
+    "processed_at": "2026-05-09T09:53:57.851130"
+  },
+  "entities": [
+    {
+      "text": "plica",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 8,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "plica",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "TED",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 36,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "TED",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2191__ingrown_toenail_removal_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0026549": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2191__ingrown_toenail_removal__graph.pt",
+  "source_dataset": "mtsamples_2191__ingrown_toenail_removal"
+}

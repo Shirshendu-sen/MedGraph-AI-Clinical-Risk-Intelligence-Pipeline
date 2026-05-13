@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2184__knee_arthroplasty___bilateral_.txt",
+    "file_name": "mtsamples_2184__knee_arthroplasty___bilateral_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5829,
+    "processed_at": "2026-05-09T09:53:58.027272"
+  },
+  "entities": [
+    {
+      "text": "knee degenerative",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 53,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee degenerative",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "knee degenerative",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 119,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee degenerative",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "knee degenerative arthritis",
+      "label": "DISEASE",
+      "start_char": 216,
+      "end_char": 243,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee degenerative arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Esmarch bandage",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 18,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Esmarch bandage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "patellar",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patellar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "methylmethacrylate",
+      "label": "CHEMICAL",
+      "start_char": 71,
+      "end_char": 89,
+      "sentence_idx": 28,
+      "concept_id": "C0066409",
+      "concept_name": "methyl methacrylate",
+      "kb_source": "rxnorm",
+      "link_score": 0.947527289390564,
+      "timestamp": null
+    },
+    {
+      "text": "methylmethacrylate",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 32,
+      "sentence_idx": 30,
+      "concept_id": "C0066409",
+      "concept_name": "methyl methacrylate",
+      "kb_source": "rxnorm",
+      "link_score": 0.947527289390564,
+      "timestamp": null
+    },
+    {
+      "text": "methylmethacrylate",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 22,
+      "sentence_idx": 32,
+      "concept_id": "C0066409",
+      "concept_name": "methyl methacrylate",
+      "kb_source": "rxnorm",
+      "link_score": 0.947527289390564,
+      "timestamp": null
+    },
+    {
+      "text": "torsion",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 129,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "torsion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "methyl methacrylate",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 55,
+      "sentence_idx": 41,
+      "concept_id": "C0066409",
+      "concept_name": "methyl methacrylate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9561523199081421,
+      "timestamp": null
+    },
+    {
+      "text": "methylmethacrylate",
+      "label": "CHEMICAL",
+      "start_char": 66,
+      "end_char": 84,
+      "sentence_idx": 44,
+      "concept_id": "C0066409",
+      "concept_name": "methyl methacrylate",
+      "kb_source": "rxnorm",
+      "link_score": 0.947527289390564,
+      "timestamp": null
+    },
+    {
+      "text": "Poly",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 14,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Poly",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Prognosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 62,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prognosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arthritis",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 86,
+      "sentence_idx": 62,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

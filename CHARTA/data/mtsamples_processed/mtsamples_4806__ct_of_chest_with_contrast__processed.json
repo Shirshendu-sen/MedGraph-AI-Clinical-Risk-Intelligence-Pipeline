@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4806__ct_of_chest_with_contrast_.txt",
+    "file_name": "mtsamples_4806__ct_of_chest_with_contrast_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 791,
+    "processed_at": "2026-05-09T09:54:44.918112"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4806__ct_of_chest_with_contrast_.txt",
+    "text": "EXAM: , CT chest with contrast.,HISTORY: , Abnormal chest x-ray, which demonstrated a region of consolidation versus mass in the right upper lobe.,TECHNIQUE:  ,Post contrast-enhanced spiral images were obtained through the chest.,FINDINGS:  ,There are several, discrete, patchy air-space opacities in the right upper lobe, which have the appearance most compatible with infiltrates.  The remainder of the lung parenchyma is clear.  There is no pneumothorax or effusion.  The heart size and pulmonary vessels appear unremarkable.  There was no axillary, hilar or mediastinal lymphadenopathy.,Images of the upper abdomen are unremarkable.,Osseous windows are without acute pathology.,IMPRESSION: , Several discrete patchy air-space opacities in the right upper lobe, compatible with pneumonia.",
+    "char_count": 791,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , CT chest with contrast.,HISTORY: , Abnormal chest x-ray, which demonstrated a region of consolidation versus mass in the right upper lobe.,TECHNIQUE: ,Post contrast-enhanced spiral images were obtained through the chest.,FINDINGS: ,There are several, discrete, patchy air-space opacities in the right upper lobe, which have the appearance most compatible with infiltrates. The remainder of the lung parenchyma is clear. There is no pneumothorax or effusion. The heart size and pulmonary vessels appear unremarkable. There was no axillary, hilar or mediastinal lymphadenopathy.,Images of the upper abdomen are unremarkable.,Osseous windows are without acute pathology.,IMPRESSION: , Several discrete patchy air-space opacities in the right upper lobe, compatible with pneumonia.",
+    "sentences": [
+      "EXAM: , CT chest with contrast.,HISTORY: , Abnormal chest x-ray, which demonstrated a region of consolidation versus mass in the right upper lobe.,TECHNIQUE: ,Post contrast-enhanced spiral images were obtained through the chest.,FINDINGS: ,There are several, discrete, patchy air-space opacities in the right upper lobe, which have the appearance most compatible with infiltrates.",
+      "The remainder of the lung parenchyma is clear.",
+      "There is no pneumothorax or effusion.",
+      "The heart size and pulmonary vessels appear unremarkable.",
+      "There was no axillary, hilar or mediastinal lymphadenopathy.,Images of the upper abdomen are unremarkable.,Osseous windows are without acute pathology.,IMPRESSION: , Several discrete patchy air-space opacities in the right upper lobe, compatible with pneumonia."
+    ],
+    "sentence_count": 5,
+    "original_length": 791,
+    "cleaned_length": 785,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , CT chest with contrast.,HISTORY: , Abnormal chest x-ray, which demonstrated a region of consolidation versus mass in the right upper lobe.,TECHNIQUE:  ,Post contrast-enhanced spiral images were obtained through the chest.,FINDINGS:  ,There are several, discrete, patchy air-space opacities in the right upper lobe, which have the appearance most compatible with infiltrates.  The remainder of the lung parenchyma is clear.  There is no pneumothorax or effusion.  The heart size and pulmonary vessels appear unremarkable.  There was no axillary, hilar or mediastinal lymphadenopathy.,Images of the upper abdomen are unremarkable.,Osseous windows are without acute pathology.,IMPRESSION: , Several discrete patchy air-space opacities in the right upper lobe, compatible with pneumonia.",
+    "cleaned_text": "EXAM: , CT chest with contrast.,HISTORY: , Abnormal chest x-ray, which demonstrated a region of consolidation versus mass in the right upper lobe.,TECHNIQUE: ,Post contrast-enhanced spiral images were obtained through the chest.,FINDINGS: ,There are several, discrete, patchy air-space opacities in the right upper lobe, which have the appearance most compatible with infiltrates. The remainder of the lung parenchyma is clear. There is no pneumothorax or effusion. The heart size and pulmonary vessels appear unremarkable. There was no axillary, hilar or mediastinal lymphadenopathy.,Images of the upper abdomen are unremarkable.,Osseous windows are without acute pathology.,IMPRESSION: , Several discrete patchy air-space opacities in the right upper lobe, compatible with pneumonia.",
+    "sentences": [
+      "EXAM: , CT chest with contrast.,HISTORY: , Abnormal chest x-ray, which demonstrated a region of consolidation versus mass in the right upper lobe.,TECHNIQUE: ,Post contrast-enhanced spiral images were obtained through the chest.,FINDINGS: ,There are several, discrete, patchy air-space opacities in the right upper lobe, which have the appearance most compatible with infiltrates.",
+      "The remainder of the lung parenchyma is clear.",
+      "There is no pneumothorax or effusion.",
+      "The heart size and pulmonary vessels appear unremarkable.",
+      "There was no axillary, hilar or mediastinal lymphadenopathy.,Images of the upper abdomen are unremarkable.,Osseous windows are without acute pathology.,IMPRESSION: , Several discrete patchy air-space opacities in the right upper lobe, compatible with pneumonia."
+    ],
+    "sentence_count": 5
+  }
+}

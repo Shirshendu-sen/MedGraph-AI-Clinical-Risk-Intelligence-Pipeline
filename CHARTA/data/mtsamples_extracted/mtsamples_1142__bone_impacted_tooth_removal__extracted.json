@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1142__bone_impacted_tooth_removal_.txt",
+    "file_name": "mtsamples_1142__bone_impacted_tooth_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2768,
+    "processed_at": "2026-05-09T09:53:35.187630"
+  },
+  "entities": [
+    {
+      "text": "Dentigerous cyst",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 42,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dentigerous cyst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dentigerous cyst",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 154,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dentigerous cyst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tooth",
+      "label": "DISEASE",
+      "start_char": 295,
+      "end_char": 300,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tooth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tooth",
+      "label": "DISEASE",
+      "start_char": 315,
+      "end_char": 320,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tooth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 106,
+      "end_char": 115,
+      "sentence_idx": 5,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 131,
+      "end_char": 142,
+      "sentence_idx": 5,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "Peridex mouth",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Peridex mouth",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tooth",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 63,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tooth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tooth",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 136,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tooth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

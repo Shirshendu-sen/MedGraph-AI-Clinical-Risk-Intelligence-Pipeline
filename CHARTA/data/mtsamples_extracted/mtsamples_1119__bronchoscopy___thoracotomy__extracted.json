@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1119__bronchoscopy___thoracotomy_.txt",
+    "file_name": "mtsamples_1119__bronchoscopy___thoracotomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3509,
+    "processed_at": "2026-05-09T09:53:34.518202"
+  },
+  "entities": [
+    {
+      "text": "Empyema",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Empyema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Empyema",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Empyema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "partial pulmonary decortication",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 61,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "partial pulmonary decortication",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "empyema",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 50,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "empyema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary fissure",
+      "label": "DISEASE",
+      "start_char": 392,
+      "end_char": 409,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary fissure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 55,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

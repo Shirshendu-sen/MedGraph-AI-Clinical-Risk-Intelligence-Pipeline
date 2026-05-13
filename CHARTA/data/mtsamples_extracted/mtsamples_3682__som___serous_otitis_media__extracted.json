@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3682__som___serous_otitis_media_.txt",
+    "file_name": "mtsamples_3682__som___serous_otitis_media_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1914,
+    "processed_at": "2026-05-09T09:54:26.109952"
+  },
+  "entities": [
+    {
+      "text": "hearing to learn speech, hearing loss",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 59,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hearing to learn speech, hearing loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hearing loss",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 28,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hearing loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 50,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infections",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 109,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infections",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infections",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 46,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infections",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "conductive hearing loss",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 73,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "conductive hearing loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hearing loss",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 117,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hearing loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hearing loss",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 112,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hearing loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

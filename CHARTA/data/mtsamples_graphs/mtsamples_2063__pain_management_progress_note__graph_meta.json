@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_2063__pain_management_progress_note_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 23,
+  "entity_index": {
+    "C0030346": 0,
+    "C0030049": 1,
+    "C0025605": 2,
+    "UNKNOWN": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2063__pain_management_progress_note__graph.pt",
+  "source_dataset": "mtsamples_2063__pain_management_progress_note"
+}

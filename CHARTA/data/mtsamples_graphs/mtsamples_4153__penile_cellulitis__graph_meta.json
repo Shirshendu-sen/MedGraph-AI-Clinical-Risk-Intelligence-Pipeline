@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4153__penile_cellulitis_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 36,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008947": 1,
+    "C0004599": 2,
+    "C0591139": 3
+  },
+  "visit_dates": [
+    "2026-05-01"
+  ],
+  "graph_file": "mtsamples_4153__penile_cellulitis__graph.pt",
+  "source_dataset": "mtsamples_4153__penile_cellulitis"
+}

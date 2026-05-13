@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_0128__elevated_psa___h_p_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 47,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0001963": 1,
+    "C0010294": 2,
+    "C0678149": 3
+  },
+  "visit_dates": [
+    "2025-11-10"
+  ],
+  "graph_file": "mtsamples_0128__elevated_psa___h_p__graph.pt",
+  "source_dataset": "mtsamples_0128__elevated_psa___h_p"
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3647__appendectomy___1_.txt",
+    "file_name": "mtsamples_3647__appendectomy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1769,
+    "processed_at": "2026-05-09T09:54:25.484368"
+  },
+  "entities": [
+    {
+      "text": "appendicitis",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 90,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "appendicitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "purulent",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "purulent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 118,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "peritonitis",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 42,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peritonitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

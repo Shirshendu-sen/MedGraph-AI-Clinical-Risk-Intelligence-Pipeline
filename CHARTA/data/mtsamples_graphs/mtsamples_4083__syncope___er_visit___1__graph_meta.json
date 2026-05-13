@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4083__syncope___er_visit___1_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0020261": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4083__syncope___er_visit___1__graph.pt",
+  "source_dataset": "mtsamples_4083__syncope___er_visit___1"
+}

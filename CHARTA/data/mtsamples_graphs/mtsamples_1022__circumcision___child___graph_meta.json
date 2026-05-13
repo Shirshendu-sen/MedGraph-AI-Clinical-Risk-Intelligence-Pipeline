@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1022__circumcision___child__",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 7,
+  "entity_index": {
+    "C0032856": 0,
+    "UNKNOWN": 1,
+    "C0023660": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1022__circumcision___child___graph.pt",
+  "source_dataset": "mtsamples_1022__circumcision___child_"
+}

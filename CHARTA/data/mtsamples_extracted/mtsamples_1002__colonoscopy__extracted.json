@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1002__colonoscopy_.txt",
+    "file_name": "mtsamples_1002__colonoscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1085,
+    "processed_at": "2026-05-09T09:53:31.017321"
+  },
+  "entities": [
+    {
+      "text": "Iron",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 29,
+      "sentence_idx": 0,
+      "concept_id": "C0302583",
+      "concept_name": "iron",
+      "kb_source": "rxnorm",
+      "link_score": 0.9597261548042297,
+      "timestamp": null
+    },
+    {
+      "text": "polyps",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 9,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticula",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 16,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 56,
+      "end_char": 63,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 101,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhoids",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 64,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Diverticulosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diverticulosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anemia",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 48,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

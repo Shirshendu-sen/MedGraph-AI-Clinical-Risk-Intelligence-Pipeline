@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1237__anterior_cervical_discectomy___2_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 13,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1
+  },
+  "visit_dates": [
+    "2007-08-27"
+  ],
+  "graph_file": "mtsamples_1237__anterior_cervical_discectomy___2__graph.pt",
+  "source_dataset": "mtsamples_1237__anterior_cervical_discectomy___2"
+}

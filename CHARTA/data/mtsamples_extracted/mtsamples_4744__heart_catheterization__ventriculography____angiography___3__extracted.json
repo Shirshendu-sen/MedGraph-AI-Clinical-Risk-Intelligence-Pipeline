@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4744__heart_catheterization__ventriculography____angiography___3_.txt",
+    "file_name": "mtsamples_4744__heart_catheterization__ventriculography____angiography___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1390,
+    "processed_at": "2026-05-09T09:54:44.088865"
+  },
+  "entities": [
+    {
+      "text": "NAME",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 4,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NAME",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 106,
+      "end_char": 113,
+      "sentence_idx": 1,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": null
+    },
+    {
+      "text": "myocardial infarction",
+      "label": "DISEASE",
+      "start_char": 256,
+      "end_char": 277,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myocardial infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 279,
+      "end_char": 285,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "death",
+      "label": "DISEASE",
+      "start_char": 287,
+      "end_char": 292,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "death",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "perforation",
+      "label": "DISEASE",
+      "start_char": 338,
+      "end_char": 349,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 420,
+      "end_char": 429,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 431,
+      "end_char": 439,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ATN allergy",
+      "label": "DISEASE",
+      "start_char": 441,
+      "end_char": 452,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ATN allergy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ventriculogram",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ventriculogram",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1430__asperger_disorder_.txt",
+    "file_name": "mtsamples_1430__asperger_disorder_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1642,
+    "processed_at": "2026-05-09T09:53:41.513250"
+  },
+  "entities": [
+    {
+      "text": "depressed",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 33,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depressed",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "preservative",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 39,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "preservative",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tremoring",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 31,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tremoring",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Zoloft",
+      "label": "CHEMICAL",
+      "start_char": 71,
+      "end_char": 77,
+      "sentence_idx": 5,
+      "concept_id": "C0284660",
+      "concept_name": "Zoloft",
+      "kb_source": "rxnorm",
+      "link_score": 0.9763978123664856,
+      "timestamp": null
+    },
+    {
+      "text": "Abilify",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 34,
+      "sentence_idx": 6,
+      "concept_id": "C1170019",
+      "concept_name": "Abilify",
+      "kb_source": "rxnorm",
+      "link_score": 0.991987407207489,
+      "timestamp": null
+    },
+    {
+      "text": "tremors",
+      "label": "DISEASE",
+      "start_char": 246,
+      "end_char": 253,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tremors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Asperger disorder",
+      "label": "DISEASE",
+      "start_char": 304,
+      "end_char": 321,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Asperger disorder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obsessive compulsive",
+      "label": "DISEASE",
+      "start_char": 330,
+      "end_char": 350,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obsessive compulsive",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Abilify",
+      "label": "CHEMICAL",
+      "start_char": 377,
+      "end_char": 384,
+      "sentence_idx": 6,
+      "concept_id": "C1170019",
+      "concept_name": "Abilify",
+      "kb_source": "rxnorm",
+      "link_score": 0.991987407207489,
+      "timestamp": null
+    },
+    {
+      "text": "Luvox",
+      "label": "CHEMICAL",
+      "start_char": 22,
+      "end_char": 27,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Luvox",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "OCD",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 62,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "OCD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2975__nephrectomy___radical__laparoscopic__.txt",
+    "file_name": "mtsamples_2975__nephrectomy___radical__laparoscopic__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4502,
+    "processed_at": "2026-05-09T09:54:11.783969"
+  },
+  "entities": [
+    {
+      "text": "renal cell carcinoma versus oncocytoma",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 81,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "renal cell carcinoma versus oncocytoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

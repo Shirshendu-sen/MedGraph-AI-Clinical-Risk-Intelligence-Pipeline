@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1683__ct_brain__subdural_hemorrhage__",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699512": 1,
+    "C0592168": 2,
+    "C0699710": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1683__ct_brain__subdural_hemorrhage___graph.pt",
+  "source_dataset": "mtsamples_1683__ct_brain__subdural_hemorrhage_"
+}

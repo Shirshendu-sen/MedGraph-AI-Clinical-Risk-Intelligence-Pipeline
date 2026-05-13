@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2272__carpal_ligament_release___1_.txt",
+    "file_name": "mtsamples_2272__carpal_ligament_release___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2316,
+    "processed_at": "2026-05-09T09:53:59.085940"
+  },
+  "entities": [
+    {
+      "text": "Carpal tunnel syndrome.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 62,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Carpal tunnel syndrome.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Carpal tunnel syndrome.,PROCEDURE",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 108,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Carpal tunnel syndrome.,PROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 36,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Celestone",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 19,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Celestone",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

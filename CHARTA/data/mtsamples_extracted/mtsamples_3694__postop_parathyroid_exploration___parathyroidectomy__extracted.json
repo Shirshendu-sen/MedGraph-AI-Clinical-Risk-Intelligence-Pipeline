@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3694__postop_parathyroid_exploration___parathyroidectomy_.txt",
+    "file_name": "mtsamples_3694__postop_parathyroid_exploration___parathyroidectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1210,
+    "processed_at": "2026-05-09T09:54:26.288035"
+  },
+  "entities": [
+    {
+      "text": "parathyroid hyperplasia",
+      "label": "DISEASE",
+      "start_char": 140,
+      "end_char": 163,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "parathyroid hyperplasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "calcium",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 71,
+      "sentence_idx": 4,
+      "concept_id": "C0006675",
+      "concept_name": "calcium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9792689085006714,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "b.i.d",
+      "label": "CHEMICAL",
+      "start_char": 34,
+      "end_char": 39,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "b.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "q.i.d",
+      "label": "CHEMICAL",
+      "start_char": 79,
+      "end_char": 84,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "q.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 129,
+      "end_char": 136,
+      "sentence_idx": 5,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "prednisone",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 43,
+      "sentence_idx": 6,
+      "concept_id": "C0032952",
+      "concept_name": "prednisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9636675715446472,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "calcium",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 38,
+      "sentence_idx": 9,
+      "concept_id": "C0006675",
+      "concept_name": "calcium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9792689085006714,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 84,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "calcium",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 17,
+      "sentence_idx": 12,
+      "concept_id": "C0006675",
+      "concept_name": "calcium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9792689085006714,
+      "timestamp": "2008-12-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/30/08",
+      "start_char": 1114,
+      "end_char": 1122
+    }
+  ]
+}

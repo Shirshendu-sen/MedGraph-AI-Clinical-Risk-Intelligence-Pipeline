@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3285__gen_med_progress_note___6_.txt",
+    "file_name": "mtsamples_3285__gen_med_progress_note___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1809,
+    "processed_at": "2026-05-09T09:54:17.666916"
+  },
+  "entities": [
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 48,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vomit",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 128,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomit",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 45,
+      "sentence_idx": 7,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 57,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "airway disease",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 49,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "airway disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "asthma",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 41,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "asthma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "organomegaly",
+      "label": "DISEASE",
+      "start_char": 167,
+      "end_char": 179,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "organomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 227,
+      "end_char": 235,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 240,
+      "end_char": 254,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergic reaction",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 63,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergic reaction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

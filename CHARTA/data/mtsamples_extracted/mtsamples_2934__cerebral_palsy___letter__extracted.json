@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2934__cerebral_palsy___letter_.txt",
+    "file_name": "mtsamples_2934__cerebral_palsy___letter_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1139,
+    "processed_at": "2026-05-09T09:54:10.995092"
+  },
+  "entities": [
+    {
+      "text": "cerebral palsy",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 71,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cerebral palsy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypotonia",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 85,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypotonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tonsillar hypertrophy",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 74,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tonsillar hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergic rhinitis",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 83,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergic rhinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Zyrtec",
+      "label": "CHEMICAL",
+      "start_char": 24,
+      "end_char": 30,
+      "sentence_idx": 9,
+      "concept_id": "C0162723",
+      "concept_name": "Zyrtec",
+      "kb_source": "rxnorm",
+      "link_score": 0.9963204860687256,
+      "timestamp": null
+    },
+    {
+      "text": "allergy",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 23,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

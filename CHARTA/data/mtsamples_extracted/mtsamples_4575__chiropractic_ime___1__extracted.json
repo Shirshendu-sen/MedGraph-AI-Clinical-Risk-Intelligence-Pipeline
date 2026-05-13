@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4575__chiropractic_ime___1_.txt",
+    "file_name": "mtsamples_4575__chiropractic_ime___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 10165,
+    "processed_at": "2026-05-09T09:54:41.592080"
+  },
+  "entities": [
+    {
+      "text": "EXAMINEE",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 35,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EXAMINEE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 22,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 77,
+      "sentence_idx": 15,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 225,
+      "end_char": 229,
+      "sentence_idx": 15,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 109,
+      "sentence_idx": 24,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 142,
+      "sentence_idx": 28,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 21,
+      "sentence_idx": 30,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "tightness",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 42,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tightness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "muscular weakness",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 37,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "muscular weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 23,
+      "sentence_idx": 34,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 132,
+      "sentence_idx": 35,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "lower back injury",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 49,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower back injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 25,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "drug hypersensitivities",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 68,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "drug hypersensitivities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "Advil",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 28,
+      "sentence_idx": 41,
+      "concept_id": "C0593507",
+      "concept_name": "Advil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9754316210746765,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "Tylenol",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 40,
+      "sentence_idx": 41,
+      "concept_id": "C0699142",
+      "concept_name": "Tylenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9819504022598267,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "lower back pain",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 60,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "smoke",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 17,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "smoke",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "lower back pain",
+      "label": "DISEASE",
+      "start_char": 170,
+      "end_char": 185,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "lower back pain",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 100,
+      "sentence_idx": 52,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 205,
+      "end_char": 209,
+      "sentence_idx": 52,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "degrees.,Side",
+      "label": "CHEMICAL",
+      "start_char": 371,
+      "end_char": 384,
+      "sentence_idx": 52,
+      "concept_id": "UNKNOWN",
+      "concept_name": "degrees.,Side",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "lower back pain",
+      "label": "DISEASE",
+      "start_char": 434,
+      "end_char": 449,
+      "sentence_idx": 52,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "sensory loss",
+      "label": "DISEASE",
+      "start_char": 191,
+      "end_char": 203,
+      "sentence_idx": 53,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sensory loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "Babinski",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 54,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Babinski",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "tightness",
+      "label": "DISEASE",
+      "start_char": 213,
+      "end_char": 222,
+      "sentence_idx": 54,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tightness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "lower back pain",
+      "label": "DISEASE",
+      "start_char": 278,
+      "end_char": 293,
+      "sentence_idx": 54,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 97,
+      "sentence_idx": 55,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "tightness",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 160,
+      "sentence_idx": 60,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tightness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "lumbosacral pain",
+      "label": "DISEASE",
+      "start_char": 317,
+      "end_char": 333,
+      "sentence_idx": 60,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lumbosacral pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "midline tenderness",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 82,
+      "sentence_idx": 62,
+      "concept_id": "UNKNOWN",
+      "concept_name": "midline tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 130,
+      "sentence_idx": 62,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "trochanteric tenderness",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 78,
+      "sentence_idx": 63,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trochanteric tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "muscular spasm",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 28,
+      "sentence_idx": 64,
+      "concept_id": "UNKNOWN",
+      "concept_name": "muscular spasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "ill",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 71,
+      "sentence_idx": 65,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ill",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 42,
+      "sentence_idx": 66,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "paraspinal mass",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 51,
+      "sentence_idx": 71,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paraspinal mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-04-20"
+    },
+    {
+      "text": "idiopathic",
+      "label": "DISEASE",
+      "start_char": 125,
+      "end_char": 135,
+      "sentence_idx": 79,
+      "concept_id": "UNKNOWN",
+      "concept_name": "idiopathic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    },
+    {
+      "text": "congenital abnormalities",
+      "label": "DISEASE",
+      "start_char": 160,
+      "end_char": 184,
+      "sentence_idx": 79,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congenital abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-26"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "April 20, 2003",
+      "start_char": 91,
+      "end_char": 105
+    },
+    {
+      "raw_text": "August 26, 2003",
+      "start_char": 128,
+      "end_char": 143
+    },
+    {
+      "raw_text": "April 20, 2003",
+      "start_char": 1215,
+      "end_char": 1229
+    },
+    {
+      "raw_text": "April 25, 2003",
+      "start_char": 1832,
+      "end_char": 1846
+    },
+    {
+      "raw_text": "August 15, 2003",
+      "start_char": 2686,
+      "end_char": 2701
+    },
+    {
+      "raw_text": "May 15, 2003",
+      "start_char": 8420,
+      "end_char": 8432
+    },
+    {
+      "raw_text": "April 20, 2003",
+      "start_char": 8998,
+      "end_char": 9012
+    },
+    {
+      "raw_text": "August 15, 2003",
+      "start_char": 9138,
+      "end_char": 9153
+    },
+    {
+      "raw_text": "April 20, 2003",
+      "start_char": 9474,
+      "end_char": 9488
+    }
+  ]
+}

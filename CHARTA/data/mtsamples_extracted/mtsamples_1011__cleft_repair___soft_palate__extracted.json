@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1011__cleft_repair___soft_palate_.txt",
+    "file_name": "mtsamples_1011__cleft_repair___soft_palate_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2346,
+    "processed_at": "2026-05-09T09:53:31.173058"
+  },
+  "entities": [
+    {
+      "text": "cleft soft palate",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 27,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cleft soft palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CPT",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 32,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CPT",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bupivacaine",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 58,
+      "sentence_idx": 7,
+      "concept_id": "C0006400",
+      "concept_name": "bupivacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9624806642532349,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 75,
+      "sentence_idx": 7,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 44,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 48,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bupivacaine",
+      "label": "CHEMICAL",
+      "start_char": 73,
+      "end_char": 84,
+      "sentence_idx": 11,
+      "concept_id": "C0006400",
+      "concept_name": "bupivacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9624806642532349,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 90,
+      "end_char": 101,
+      "sentence_idx": 11,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 54,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 75,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 155,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

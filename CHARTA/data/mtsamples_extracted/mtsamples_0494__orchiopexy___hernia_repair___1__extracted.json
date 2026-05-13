@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0494__orchiopexy___hernia_repair___1_.txt",
+    "file_name": "mtsamples_0494__orchiopexy___hernia_repair___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2583,
+    "processed_at": "2026-05-09T09:53:17.447483"
+  },
+  "entities": [
+    {
+      "text": "Right undescended testis",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 50,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right undescended testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right undescended testis",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 121,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right undescended testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 215,
+      "end_char": 221,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "undescended testis",
+      "label": "DISEASE",
+      "start_char": 544,
+      "end_char": 562,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "undescended testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 16,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 28,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Toradol",
+      "label": "CHEMICAL",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Toradol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

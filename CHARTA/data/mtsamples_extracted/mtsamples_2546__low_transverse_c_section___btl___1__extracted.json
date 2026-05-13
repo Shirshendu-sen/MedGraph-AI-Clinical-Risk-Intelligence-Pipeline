@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2546__low_transverse_c_section___btl___1_.txt",
+    "file_name": "mtsamples_2546__low_transverse_c_section___btl___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5505,
+    "processed_at": "2026-05-09T09:54:04.056427"
+  },
+  "entities": [
+    {
+      "text": "neonate.,PROCEDURES",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 76,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neonate.,PROCEDURES",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "avascular",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 64,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "avascular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

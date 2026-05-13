@@ -1,0 +1,26 @@
+{
+  "patient_id": "mtsamples_3251__lymphoblastic_leukemia___consult_",
+  "num_entities": 13,
+  "num_visits": 1,
+  "num_edges": 115,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0699581": 2,
+    "C0019134": 3,
+    "C0728963": 4,
+    "C0699129": 5,
+    "C0876139": 6,
+    "C0483514": 7,
+    "C0721336": 8,
+    "C0010294": 9,
+    "C0041980": 10,
+    "C0024467": 11,
+    "C0006675": 12
+  },
+  "visit_dates": [
+    "2007-02-23"
+  ],
+  "graph_file": "mtsamples_3251__lymphoblastic_leukemia___consult__graph.pt",
+  "source_dataset": "mtsamples_3251__lymphoblastic_leukemia___consult"
+}

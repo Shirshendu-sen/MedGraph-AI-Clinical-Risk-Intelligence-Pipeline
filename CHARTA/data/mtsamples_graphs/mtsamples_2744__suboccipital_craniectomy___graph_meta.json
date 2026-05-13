@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2744__suboccipital_craniectomy__",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 25,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008196": 1,
+    "C0040302": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2744__suboccipital_craniectomy___graph.pt",
+  "source_dataset": "mtsamples_2744__suboccipital_craniectomy_"
+}

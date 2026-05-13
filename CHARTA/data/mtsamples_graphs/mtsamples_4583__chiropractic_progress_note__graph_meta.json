@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_4583__chiropractic_progress_note_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 93,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0036075": 2,
+    "C0376414": 3,
+    "C0040610": 4,
+    "C0015846": 5,
+    "C0025605": 6,
+    "C0592168": 7,
+    "C0702069": 8,
+    "C0085934": 9,
+    "C0700017": 10,
+    "C0026549": 11
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4583__chiropractic_progress_note__graph.pt",
+  "source_dataset": "mtsamples_4583__chiropractic_progress_note"
+}

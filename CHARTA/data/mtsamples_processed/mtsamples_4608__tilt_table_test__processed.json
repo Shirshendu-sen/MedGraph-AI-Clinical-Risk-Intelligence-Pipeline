@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4608__tilt_table_test_.txt",
+    "file_name": "mtsamples_4608__tilt_table_test_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 347,
+    "processed_at": "2026-05-09T09:54:42.105519"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4608__tilt_table_test_.txt",
+    "text": "FINDINGS:,1.  The patient's supine blood pressure was 153/88 with heart rate of 54 beats per minute.,2.  There was no significant change in heart rate or blood pressure on 80-degree tilt.,3.  No symptoms reported during the tilt study.,CONCLUSION: , Tilt table test is negative for any evidence of vasovagal, orthostasis or vasodepressor syndrome.",
+    "char_count": 347,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "FINDINGS:,1. The patient's supine blood pressure was 153/88 with heart rate of 54 beats per minute.,2. There was no significant change in heart rate or blood pressure on 80-degree tilt.,3. No symptoms reported during the tilt study.,CONCLUSION: , Tilt table test is negative for any evidence of vasovagal, orthostasis or vasodepressor syndrome.",
+    "sentences": [
+      "FINDINGS:,1.",
+      "The patient's supine blood pressure was 153/88 with heart rate of 54 beats per minute.,2.",
+      "There was no significant change in heart rate or blood pressure on 80-degree tilt.,3.",
+      "No symptoms reported during the tilt study.,CONCLUSION: , Tilt table test is negative for any evidence of vasovagal, orthostasis or vasodepressor syndrome."
+    ],
+    "sentence_count": 4,
+    "original_length": 347,
+    "cleaned_length": 344,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "FINDINGS:,1.  The patient's supine blood pressure was 153/88 with heart rate of 54 beats per minute.,2.  There was no significant change in heart rate or blood pressure on 80-degree tilt.,3.  No symptoms reported during the tilt study.,CONCLUSION: , Tilt table test is negative for any evidence of vasovagal, orthostasis or vasodepressor syndrome.",
+    "cleaned_text": "FINDINGS:,1. The patient's supine blood pressure was 153/88 with heart rate of 54 beats per minute.,2. There was no significant change in heart rate or blood pressure on 80-degree tilt.,3. No symptoms reported during the tilt study.,CONCLUSION: , Tilt table test is negative for any evidence of vasovagal, orthostasis or vasodepressor syndrome.",
+    "sentences": [
+      "FINDINGS:,1.",
+      "The patient's supine blood pressure was 153/88 with heart rate of 54 beats per minute.,2.",
+      "There was no significant change in heart rate or blood pressure on 80-degree tilt.,3.",
+      "No symptoms reported during the tilt study.,CONCLUSION: , Tilt table test is negative for any evidence of vasovagal, orthostasis or vasodepressor syndrome."
+    ],
+    "sentence_count": 4
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1544__mri_shoulder___5_.txt",
+    "file_name": "mtsamples_1544__mri_shoulder___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2252,
+    "processed_at": "2026-05-09T09:53:44.171264"
+  },
+  "entities": [
+    {
+      "text": "supraspinatus tendinosis",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 84,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraspinatus tendinosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-12-20"
+    },
+    {
+      "text": "muscular atrophy",
+      "label": "DISEASE",
+      "start_char": 156,
+      "end_char": 172,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "muscular atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-12-20"
+    },
+    {
+      "text": "tendinosis",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 104,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-12-20"
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 161,
+      "end_char": 168,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-12-20"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 119,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-12-20"
+    },
+    {
+      "text": "SLAP",
+      "label": "CHEMICAL",
+      "start_char": 471,
+      "end_char": 475,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SLAP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2005-12-20"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 738,
+      "end_char": 746,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-12-20"
+    },
+    {
+      "text": "subluxation",
+      "label": "DISEASE",
+      "start_char": 1024,
+      "end_char": 1035,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-12-20"
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 1113,
+      "end_char": 1120,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-12-20"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/20/2005",
+      "start_char": 116,
+      "end_char": 126
+    }
+  ]
+}

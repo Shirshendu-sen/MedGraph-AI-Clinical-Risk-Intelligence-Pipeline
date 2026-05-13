@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1937__bronchoscopy___pediatric_.txt",
+    "file_name": "mtsamples_1937__bronchoscopy___pediatric_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 946,
+    "processed_at": "2026-05-09T09:53:53.395034"
+  },
+  "entities": [
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 134,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "respiratory depression",
+      "label": "DISEASE",
+      "start_char": 223,
+      "end_char": 245,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "respiratory depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothorax",
+      "label": "DISEASE",
+      "start_char": 286,
+      "end_char": 298,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

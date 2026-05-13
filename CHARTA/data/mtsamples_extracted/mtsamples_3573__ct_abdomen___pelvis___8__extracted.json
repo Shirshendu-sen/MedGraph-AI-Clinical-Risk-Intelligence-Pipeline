@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3573__ct_abdomen___pelvis___8_.txt",
+    "file_name": "mtsamples_3573__ct_abdomen___pelvis___8_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1640,
+    "processed_at": "2026-05-09T09:54:23.759159"
+  },
+  "entities": [
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 110,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nausea",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 118,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 128,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydronephrosis",
+      "label": "DISEASE",
+      "start_char": 324,
+      "end_char": 338,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydronephrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumatosis",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 23,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumatosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstruction",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 23,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 41,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ischemia",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 53,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cystitis",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cystitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

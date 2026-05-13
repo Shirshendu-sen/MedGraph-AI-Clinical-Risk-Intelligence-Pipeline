@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_2854__feet___hand_cramping_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 19,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0591139": 2,
+    "C0001963": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2854__feet___hand_cramping__graph.pt",
+  "source_dataset": "mtsamples_2854__feet___hand_cramping"
+}

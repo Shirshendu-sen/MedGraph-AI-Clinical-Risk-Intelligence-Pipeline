@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0839__epididymectomy_.txt",
+    "file_name": "mtsamples_0839__epididymectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1215,
+    "processed_at": "2026-05-09T09:53:27.220245"
+  },
+  "entities": [
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

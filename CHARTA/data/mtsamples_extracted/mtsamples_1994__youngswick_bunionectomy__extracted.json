@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1994__youngswick_bunionectomy_.txt",
+    "file_name": "mtsamples_1994__youngswick_bunionectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5807,
+    "processed_at": "2026-05-09T09:53:54.363822"
+  },
+  "entities": [
+    {
+      "text": "degenerative joint disease",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 61,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "degenerative joint disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 81,
+      "end_char": 89,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "degenerative joint disease",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 62,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "degenerative joint disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Biopro",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 44,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Biopro",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rash",
+      "label": "DISEASE",
+      "start_char": 159,
+      "end_char": 163,
+      "sentence_idx": 50,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rash",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tightness",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 64,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tightness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 47,
+      "sentence_idx": 57,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 63,
+      "end_char": 71,
+      "sentence_idx": 57,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "postoperative pain",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 40,
+      "sentence_idx": 61,
+      "concept_id": "UNKNOWN",
+      "concept_name": "postoperative pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Vicodin",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 65,
+      "sentence_idx": 61,
+      "concept_id": "C0483514",
+      "concept_name": "Vicodin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9674537181854248,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 119,
+      "sentence_idx": 61,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "postoperative edema",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 127,
+      "sentence_idx": 62,
+      "concept_id": "UNKNOWN",
+      "concept_name": "postoperative edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

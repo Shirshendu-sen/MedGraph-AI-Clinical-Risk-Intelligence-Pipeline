@@ -1,0 +1,689 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2789__mri_t_l_spine___schistosomiasis_.txt",
+    "file_name": "mtsamples_2789__mri_t_l_spine___schistosomiasis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5047,
+    "processed_at": "2026-05-09T09:54:07.927371"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 37,
+      "sentence_idx": 1,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 64,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "sinusitis",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 57,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinusitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "purulent",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 67,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "purulent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 99,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "5/4/97",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 35,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "5/4/97",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "ache",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 105,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "time.,On",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 39,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "time.,On",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 68,
+      "sentence_idx": 7,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 32,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 129,
+      "end_char": 132,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Ibuprofen",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 10,
+      "concept_id": "C0020740",
+      "concept_name": "ibuprofen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736760258674622,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 113,
+      "end_char": 116,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Darvocet",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Darvocet",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "BLE weakness",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 43,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE weakness",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 54,
+      "end_char": 57,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "PP",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 42,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "lumbar back pain",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 34,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lumbar back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Guillain-Barre syndrome",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 48,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Guillain-Barre syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Solu-Cortef",
+      "label": "CHEMICAL",
+      "start_char": 67,
+      "end_char": 78,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Solu-Cortef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "flaccid areflexic paralysis",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 37,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "flaccid areflexic paralysis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 44,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Glucose",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 55,
+      "sentence_idx": 22,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Solu-Medrol",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 42,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Solu-Medrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "T-L-spine",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "T-L-spine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "gadolinium",
+      "label": "CHEMICAL",
+      "start_char": 89,
+      "end_char": 99,
+      "sentence_idx": 24,
+      "concept_id": "C0016911",
+      "concept_name": "gadolinium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9583680033683777,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "cord edema",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 141,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cord edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "demyelinating disease",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 84,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "demyelinating disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "5/15/97",
+      "label": "CHEMICAL",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "5/15/97",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Praziquantel",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 51,
+      "sentence_idx": 28,
+      "concept_id": "C0032911",
+      "concept_name": "praziquantel",
+      "kb_source": "rxnorm",
+      "link_score": 0.9774527549743652,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Prednisone",
+      "label": "CHEMICAL",
+      "start_char": 90,
+      "end_char": 100,
+      "sentence_idx": 28,
+      "concept_id": "C0032952",
+      "concept_name": "prednisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9636675715446472,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Solu-Medrol",
+      "label": "CHEMICAL",
+      "start_char": 149,
+      "end_char": 160,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Solu-Medrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Praziquantel",
+      "label": "CHEMICAL",
+      "start_char": 92,
+      "end_char": 104,
+      "sentence_idx": 31,
+      "concept_id": "C0032911",
+      "concept_name": "praziquantel",
+      "kb_source": "rxnorm",
+      "link_score": 0.9774527549743652,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 137,
+      "end_char": 140,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "paraplegia",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 159,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paraplegia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "urinary retention",
+      "label": "DISEASE",
+      "start_char": 165,
+      "end_char": 182,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary retention",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Prednisone",
+      "label": "CHEMICAL",
+      "start_char": 225,
+      "end_char": 235,
+      "sentence_idx": 31,
+      "concept_id": "C0032952",
+      "concept_name": "prednisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9636675715446472,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Zantac",
+      "label": "CHEMICAL",
+      "start_char": 245,
+      "end_char": 251,
+      "sentence_idx": 31,
+      "concept_id": "C0592278",
+      "concept_name": "Zantac",
+      "kb_source": "rxnorm",
+      "link_score": 0.9829227924346924,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Propulsid",
+      "label": "CHEMICAL",
+      "start_char": 262,
+      "end_char": 271,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Propulsid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "dysarthria",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 36,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysarthria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 112,
+      "end_char": 115,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Lhermitte",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 36,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lhermitte",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "tenderness.,Gen",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 28,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness.,Gen",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "T-L-spine",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 71,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "T-L-spine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "cauda equina",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 73,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cauda equina",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 41,
+      "sentence_idx": 44,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Praziquantel 40mg/kg/day",
+      "label": "CHEMICAL",
+      "start_char": 111,
+      "end_char": 135,
+      "sentence_idx": 45,
+      "concept_id": "C0032911",
+      "concept_name": "praziquantel",
+      "kb_source": "rxnorm",
+      "link_score": 0.7980867624282837,
+      "timestamp": "1997-04-10"
+    },
+    {
+      "text": "Praziquantel",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 46,
+      "concept_id": "C0032911",
+      "concept_name": "praziquantel",
+      "kb_source": "rxnorm",
+      "link_score": 0.9774527549743652,
+      "timestamp": "1997-04-10"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "4/10/97",
+      "start_char": 159,
+      "end_char": 166
+    },
+    {
+      "raw_text": "5/4/97",
+      "start_char": 534,
+      "end_char": 540
+    },
+    {
+      "raw_text": "5/6/97",
+      "start_char": 811,
+      "end_char": 817
+    },
+    {
+      "raw_text": "5/9/97",
+      "start_char": 1239,
+      "end_char": 1245
+    },
+    {
+      "raw_text": "5/10/97",
+      "start_char": 1851,
+      "end_char": 1858
+    },
+    {
+      "raw_text": "5/12/97",
+      "start_char": 2410,
+      "end_char": 2417
+    },
+    {
+      "raw_text": "5/12/97",
+      "start_char": 2570,
+      "end_char": 2577
+    },
+    {
+      "raw_text": "5/15/97",
+      "start_char": 2727,
+      "end_char": 2734
+    },
+    {
+      "raw_text": "5/12/97",
+      "start_char": 2828,
+      "end_char": 2835
+    },
+    {
+      "raw_text": "5/22/97",
+      "start_char": 3077,
+      "end_char": 3084
+    },
+    {
+      "raw_text": "5/22/97",
+      "start_char": 3265,
+      "end_char": 3272
+    },
+    {
+      "raw_text": "5/24/97",
+      "start_char": 3565,
+      "end_char": 3572
+    },
+    {
+      "raw_text": "5/24/97",
+      "start_char": 4407,
+      "end_char": 4414
+    },
+    {
+      "raw_text": "5/27/97",
+      "start_char": 4800,
+      "end_char": 4807
+    },
+    {
+      "raw_text": "5/31/97",
+      "start_char": 5015,
+      "end_char": 5022
+    }
+  ]
+}

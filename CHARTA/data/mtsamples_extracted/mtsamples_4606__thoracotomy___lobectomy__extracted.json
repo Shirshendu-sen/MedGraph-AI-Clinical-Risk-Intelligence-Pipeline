@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4606__thoracotomy___lobectomy_.txt",
+    "file_name": "mtsamples_4606__thoracotomy___lobectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3229,
+    "processed_at": "2026-05-09T09:54:42.089050"
+  },
+  "entities": [
+    {
+      "text": "Non-small-cell carcinoma of the left upper lobe.,2",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 50,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Non-small-cell carcinoma of the left upper lobe.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphoma",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 19,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Non-small-cell carcinoma of the left upper lobe.,2",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 50,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Non-small-cell carcinoma of the left upper lobe.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphoma",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 19,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Intercostal nerve block",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 23,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Intercostal nerve block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "postoperative pain",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 46,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "postoperative pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "upper lobe carcinoma",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 48,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper lobe carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphoma",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "primary non-small-cell carcinoma of the lung",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 133,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "primary non-small-cell carcinoma of the lung",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 80,
+      "end_char": 88,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 186,
+      "end_char": 194,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

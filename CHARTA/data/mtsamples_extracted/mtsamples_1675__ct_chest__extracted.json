@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1675__ct_chest_.txt",
+    "file_name": "mtsamples_1675__ct_chest_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 782,
+    "processed_at": "2026-05-09T09:53:48.130909"
+  },
+  "entities": [
+    {
+      "text": "pericardial effusion",
+      "label": "DISEASE",
+      "start_char": 238,
+      "end_char": 258,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pericardial effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "embolus",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 69,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "embolus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 71,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophagus",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophagus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothorax",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 24,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "acute abnormalities",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 85,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

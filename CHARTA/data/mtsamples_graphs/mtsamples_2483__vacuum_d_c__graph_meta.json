@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2483__vacuum_d_c_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 5,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0733348": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2483__vacuum_d_c__graph.pt",
+  "source_dataset": "mtsamples_2483__vacuum_d_c"
+}

@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0303__tah___salpingo_oophorectomy_.txt",
+    "file_name": "mtsamples_0303__tah___salpingo_oophorectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 6358,
+    "processed_at": "2026-05-09T09:53:11.992382"
+  },
+  "entities": [
+    {
+      "text": "adnexal",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 12,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adnexal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pelvic adhesions.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 31,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pelvic adhesions.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adnexal",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 12,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adnexal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypermenorrhea",
+      "label": "DISEASE",
+      "start_char": 207,
+      "end_char": 221,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypermenorrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pelvic pain",
+      "label": "DISEASE",
+      "start_char": 226,
+      "end_char": 237,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pelvic pain",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 50,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypermenorrhea",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 69,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypermenorrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anteverted",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 168,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anteverted",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left adnexal mass.,On",
+      "label": "DISEASE",
+      "start_char": 224,
+      "end_char": 245,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left adnexal mass.,On",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 308,
+      "end_char": 315,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhagic",
+      "label": "DISEASE",
+      "start_char": 336,
+      "end_char": 347,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhagic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left hemorrhagic",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 93,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left hemorrhagic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adnexal",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 111,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adnexal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "RSO",
+      "label": "CHEMICAL",
+      "start_char": 76,
+      "end_char": 79,
+      "sentence_idx": 32,
+      "concept_id": "C0724157",
+      "concept_name": "Urso",
+      "kb_source": "rxnorm",
+      "link_score": 0.7435047030448914,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

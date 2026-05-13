@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0673__inguinal_herniorrhaphy___circumcision_.txt",
+    "file_name": "mtsamples_0673__inguinal_herniorrhaphy___circumcision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4364,
+    "processed_at": "2026-05-09T09:53:22.158406"
+  },
+  "entities": [
+    {
+      "text": "right inguinal hernia",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 57,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right inguinal hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right inguinal hernia",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 137,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right inguinal hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 47,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 85,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "phimosis",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 57,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "phimosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right inguinal hernia",
+      "label": "DISEASE",
+      "start_char": 153,
+      "end_char": 174,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right inguinal hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 209,
+      "end_char": 215,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "phimosis",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "phimosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right inguinal hernia",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 51,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right inguinal hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 66,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 49,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 52,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 23,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

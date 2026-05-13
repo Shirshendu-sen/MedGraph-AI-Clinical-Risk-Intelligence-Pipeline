@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1157__bilateral_tubal_occlusion___laparoscopic_.txt",
+    "file_name": "mtsamples_1157__bilateral_tubal_occlusion___laparoscopic_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3848,
+    "processed_at": "2026-05-09T09:53:35.779933"
+  },
+  "entities": [
+    {
+      "text": "tubal occlusion",
+      "label": "DISEASE",
+      "start_char": 165,
+      "end_char": 180,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tubal occlusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anteverted",
+      "label": "DISEASE",
+      "start_char": 342,
+      "end_char": 352,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anteverted",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vulva",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 9,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vulva",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "perineum",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perineum",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "filmy",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 15,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "filmy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 58,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 101,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 69,
+      "end_char": 72,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

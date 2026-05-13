@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_0530__multiple_stent_placements_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 24,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1,
+    "C0004057": 2,
+    "C0633084": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0530__multiple_stent_placements__graph.pt",
+  "source_dataset": "mtsamples_0530__multiple_stent_placements"
+}

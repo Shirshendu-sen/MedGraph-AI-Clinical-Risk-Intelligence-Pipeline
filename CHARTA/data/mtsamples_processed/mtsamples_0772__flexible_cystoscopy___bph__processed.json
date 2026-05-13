@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0772__flexible_cystoscopy___bph_.txt",
+    "file_name": "mtsamples_0772__flexible_cystoscopy___bph_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 689,
+    "processed_at": "2026-05-09T09:53:25.336570"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0772__flexible_cystoscopy___bph_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Microscopic hematuria.,POSTOPERATIVE DIAGNOSIS:,  Microscopic hematuria with lateral lobe obstruction, mild.,PROCEDURE PERFORMED: , Flexible cystoscopy.,COMPLICATIONS: , None.,CONDITION: , Stable.,PROCEDURE: , The patient was placed in the supine position and sterilely prepped and draped in the usual fashion.  After 2% lidocaine was instilled, the anterior urethra is normal.  The prostatic urethra reveals mild lateral lobe obstruction.  There are no bladder tumors noted.,IMPRESSION:,  The patient has some mild benign prostatic hyperplasia.  At this point in time, we will continue with conservative observation.,PLAN: , The patient will follow up as needed.",
+    "char_count": 689,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Microscopic hematuria.,POSTOPERATIVE DIAGNOSIS:, Microscopic hematuria with lateral lobe obstruction, mild.,PROCEDURE PERFORMED: , Flexible cystoscopy.,COMPLICATIONS: , None.,CONDITION: , Stable.,PROCEDURE: , The patient was placed in the supine position and sterilely prepped and draped in the usual fashion. After 2% lidocaine was instilled, the anterior urethra is normal. The prostatic urethra reveals mild lateral lobe obstruction. There are no bladder tumors noted.,IMPRESSION:, The patient has some mild benign prostatic hyperplasia. At this point in time, we will continue with conservative observation.,PLAN: , The patient will follow up as needed.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Microscopic hematuria.,POSTOPERATIVE DIAGNOSIS:, Microscopic hematuria with lateral lobe obstruction, mild.,PROCEDURE PERFORMED: , Flexible cystoscopy.,COMPLICATIONS: , None.,CONDITION: , Stable.,PROCEDURE: , The patient was placed in the supine position and sterilely prepped and draped in the usual fashion.",
+      "After 2% lidocaine was instilled, the anterior urethra is normal.",
+      "The prostatic urethra reveals mild lateral lobe obstruction.",
+      "There are no bladder tumors noted.,IMPRESSION:, The patient has some mild benign prostatic hyperplasia.",
+      "At this point in time, we will continue with conservative observation.,PLAN: , The patient will follow up as needed."
+    ],
+    "sentence_count": 5,
+    "original_length": 689,
+    "cleaned_length": 683,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Microscopic hematuria.,POSTOPERATIVE DIAGNOSIS:,  Microscopic hematuria with lateral lobe obstruction, mild.,PROCEDURE PERFORMED: , Flexible cystoscopy.,COMPLICATIONS: , None.,CONDITION: , Stable.,PROCEDURE: , The patient was placed in the supine position and sterilely prepped and draped in the usual fashion.  After 2% lidocaine was instilled, the anterior urethra is normal.  The prostatic urethra reveals mild lateral lobe obstruction.  There are no bladder tumors noted.,IMPRESSION:,  The patient has some mild benign prostatic hyperplasia.  At this point in time, we will continue with conservative observation.,PLAN: , The patient will follow up as needed.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Microscopic hematuria.,POSTOPERATIVE DIAGNOSIS:, Microscopic hematuria with lateral lobe obstruction, mild.,PROCEDURE PERFORMED: , Flexible cystoscopy.,COMPLICATIONS: , None.,CONDITION: , Stable.,PROCEDURE: , The patient was placed in the supine position and sterilely prepped and draped in the usual fashion. After 2% lidocaine was instilled, the anterior urethra is normal. The prostatic urethra reveals mild lateral lobe obstruction. There are no bladder tumors noted.,IMPRESSION:, The patient has some mild benign prostatic hyperplasia. At this point in time, we will continue with conservative observation.,PLAN: , The patient will follow up as needed.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Microscopic hematuria.,POSTOPERATIVE DIAGNOSIS:, Microscopic hematuria with lateral lobe obstruction, mild.,PROCEDURE PERFORMED: , Flexible cystoscopy.,COMPLICATIONS: , None.,CONDITION: , Stable.,PROCEDURE: , The patient was placed in the supine position and sterilely prepped and draped in the usual fashion.",
+      "After 2% lidocaine was instilled, the anterior urethra is normal.",
+      "The prostatic urethra reveals mild lateral lobe obstruction.",
+      "There are no bladder tumors noted.,IMPRESSION:, The patient has some mild benign prostatic hyperplasia.",
+      "At this point in time, we will continue with conservative observation.,PLAN: , The patient will follow up as needed."
+    ],
+    "sentence_count": 5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1495__transesophageal_echocardiogram___1_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 7,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1495__transesophageal_echocardiogram___1__graph.pt",
+  "source_dataset": "mtsamples_1495__transesophageal_echocardiogram___1"
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3696__orif_facial_fractures___followup_.txt",
+    "file_name": "mtsamples_3696__orif_facial_fractures___followup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1233,
+    "processed_at": "2026-05-09T09:54:26.308236"
+  },
+  "entities": [
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 118,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nasal fracture",
+      "label": "DISEASE",
+      "start_char": 146,
+      "end_char": 160,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasal fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 103,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Halcion",
+      "label": "CHEMICAL",
+      "start_char": 120,
+      "end_char": 127,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Halcion",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0794__fiberoptic_bronchoscopy_.txt",
+    "file_name": "mtsamples_0794__fiberoptic_bronchoscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2199,
+    "processed_at": "2026-05-09T09:53:26.036939"
+  },
+  "entities": [
+    {
+      "text": "upper lobe cavitary lung masses.,POSTOPERATIVE DIAGNOSES:,1",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 94,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper lobe cavitary lung masses.,POSTOPERATIVE DIAGNOSES:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "upper lobe segmental bronchi, apical and posterior on the right, and anterior",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 115,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper lobe segmental bronchi, apical and posterior on the right, and anterior",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 38,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Demerol",
+      "label": "CHEMICAL",
+      "start_char": 193,
+      "end_char": 200,
+      "sentence_idx": 4,
+      "concept_id": "C0935966",
+      "concept_name": "Demerol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9676215052604675,
+      "timestamp": null
+    },
+    {
+      "text": "epistaxis",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 133,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epistaxis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 8,
+      "end_char": 17,
+      "sentence_idx": 6,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "Epiglottis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Epiglottis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 96,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cavitary lesion",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 56,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cavitary lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "caseous",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 27,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "caseous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

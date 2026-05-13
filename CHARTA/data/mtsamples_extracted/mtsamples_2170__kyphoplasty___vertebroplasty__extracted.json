@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2170__kyphoplasty___vertebroplasty_.txt",
+    "file_name": "mtsamples_2170__kyphoplasty___vertebroplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3978,
+    "processed_at": "2026-05-09T09:53:57.798189"
+  },
+  "entities": [
+    {
+      "text": "Fracture",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fracture",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fracture",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 263,
+      "end_char": 272,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 61,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 23,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 9,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 31,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 48,
+      "sentence_idx": 15,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 62,
+      "sentence_idx": 15,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "cement",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cement",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 52,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cement",
+      "label": "CHEMICAL",
+      "start_char": 87,
+      "end_char": 93,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cement",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cement",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 42,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cement",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 27,
+      "sentence_idx": 50,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

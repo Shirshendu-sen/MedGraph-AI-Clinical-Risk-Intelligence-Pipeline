@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_1449__obesity_hypoventilation_syndrome_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 76,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1,
+    "C0699992": 2,
+    "C0032952": 3,
+    "C0699194": 4,
+    "C0020934": 5,
+    "C0026549": 6,
+    "C0030346": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1449__obesity_hypoventilation_syndrome__graph.pt",
+  "source_dataset": "mtsamples_1449__obesity_hypoventilation_syndrome"
+}

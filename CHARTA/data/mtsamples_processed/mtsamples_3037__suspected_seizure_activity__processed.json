@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3037__suspected_seizure_activity_.txt",
+    "file_name": "mtsamples_3037__suspected_seizure_activity_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1063,
+    "processed_at": "2026-05-09T09:54:12.756483"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3037__suspected_seizure_activity_.txt",
+    "text": "XYZ Street,City, State,Dear Dr. CD:,Thank you for seeing Mr. XYZ, a pleasant 19-year-old male who has seen you in 2005 for suspected seizure activity.  He comes to my office today continuing on Dilantin 300 mg daily and has been seizure episode free for the past 2 1/2 years.  He is requesting to come off the Dilantin at this point.  Upon reviewing your 2005 note there was some discrepancy as to the true nature of his episodes to the emergency room and there was consideration to reconsider medication use.  His physical exam, neurologically, is normal at this time.  His Dilantin level is slightly low at 12.5.,I will appreciate your evaluation and recommendation as to whether we need to continue the Dilantin at this time.  I understand this will probably entail repeating his EEG and so please coordinate this through Health Center.  I await your response and whether we should continue this medication.  If you require any laboratory, we use ABC Diagnostic and any further testing that is needed should be coordinated at Health Center prior to scheduling.",
+    "char_count": 1063,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "XYZ Street,City, State,Dear Dr. CD:,Thank you for seeing Mr. XYZ, a pleasant 19-year-old male who has seen you in 2005 for suspected seizure activity. He comes to my office today continuing on Dilantin 300 mg daily and has been seizure episode free for the past 2 1/2 years. He is requesting to come off the Dilantin at this point. Upon reviewing your 2005 note there was some discrepancy as to the true nature of his episodes to the emergency room and there was consideration to reconsider medication use. His physical exam, neurologically, is normal at this time. His Dilantin level is slightly low at 12.5.,I will appreciate your evaluation and recommendation as to whether we need to continue the Dilantin at this time. I understand this will probably entail repeating his EEG and so please coordinate this through Health Center. I await your response and whether we should continue this medication. If you require any laboratory, we use ABC Diagnostic and any further testing that is needed should be coordinated at Health Center prior to scheduling.",
+    "sentences": [
+      "XYZ Street,City, State,Dear Dr.",
+      "CD:,Thank you for seeing Mr.",
+      "XYZ, a pleasant 19-year-old male who has seen you in 2005 for suspected seizure activity.",
+      "He comes to my office today continuing on Dilantin 300 mg daily and has been seizure episode free for the past 2 1/2 years.",
+      "He is requesting to come off the Dilantin at this point.",
+      "Upon reviewing your 2005 note there was some discrepancy as to the true nature of his episodes to the emergency room and there was consideration to reconsider medication use.",
+      "His physical exam, neurologically, is normal at this time.",
+      "His Dilantin level is slightly low at 12.5.,I will appreciate your evaluation and recommendation as to whether we need to continue the Dilantin at this time.",
+      "I understand this will probably entail repeating his EEG and so please coordinate this through Health Center.",
+      "I await your response and whether we should continue this medication.",
+      "If you require any laboratory, we use ABC Diagnostic and any further testing that is needed should be coordinated at Health Center prior to scheduling."
+    ],
+    "sentence_count": 11,
+    "original_length": 1063,
+    "cleaned_length": 1055,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "XYZ Street,City, State,Dear Dr. CD:,Thank you for seeing Mr. XYZ, a pleasant 19-year-old male who has seen you in 2005 for suspected seizure activity.  He comes to my office today continuing on Dilantin 300 mg daily and has been seizure episode free for the past 2 1/2 years.  He is requesting to come off the Dilantin at this point.  Upon reviewing your 2005 note there was some discrepancy as to the true nature of his episodes to the emergency room and there was consideration to reconsider medication use.  His physical exam, neurologically, is normal at this time.  His Dilantin level is slightly low at 12.5.,I will appreciate your evaluation and recommendation as to whether we need to continue the Dilantin at this time.  I understand this will probably entail repeating his EEG and so please coordinate this through Health Center.  I await your response and whether we should continue this medication.  If you require any laboratory, we use ABC Diagnostic and any further testing that is needed should be coordinated at Health Center prior to scheduling.",
+    "cleaned_text": "XYZ Street,City, State,Dear Dr. CD:,Thank you for seeing Mr. XYZ, a pleasant 19-year-old male who has seen you in 2005 for suspected seizure activity. He comes to my office today continuing on Dilantin 300 mg daily and has been seizure episode free for the past 2 1/2 years. He is requesting to come off the Dilantin at this point. Upon reviewing your 2005 note there was some discrepancy as to the true nature of his episodes to the emergency room and there was consideration to reconsider medication use. His physical exam, neurologically, is normal at this time. His Dilantin level is slightly low at 12.5.,I will appreciate your evaluation and recommendation as to whether we need to continue the Dilantin at this time. I understand this will probably entail repeating his EEG and so please coordinate this through Health Center. I await your response and whether we should continue this medication. If you require any laboratory, we use ABC Diagnostic and any further testing that is needed should be coordinated at Health Center prior to scheduling.",
+    "sentences": [
+      "XYZ Street,City, State,Dear Dr.",
+      "CD:,Thank you for seeing Mr.",
+      "XYZ, a pleasant 19-year-old male who has seen you in 2005 for suspected seizure activity.",
+      "He comes to my office today continuing on Dilantin 300 mg daily and has been seizure episode free for the past 2 1/2 years.",
+      "He is requesting to come off the Dilantin at this point.",
+      "Upon reviewing your 2005 note there was some discrepancy as to the true nature of his episodes to the emergency room and there was consideration to reconsider medication use.",
+      "His physical exam, neurologically, is normal at this time.",
+      "His Dilantin level is slightly low at 12.5.,I will appreciate your evaluation and recommendation as to whether we need to continue the Dilantin at this time.",
+      "I understand this will probably entail repeating his EEG and so please coordinate this through Health Center.",
+      "I await your response and whether we should continue this medication.",
+      "If you require any laboratory, we use ABC Diagnostic and any further testing that is needed should be coordinated at Health Center prior to scheduling."
+    ],
+    "sentence_count": 11
+  }
+}

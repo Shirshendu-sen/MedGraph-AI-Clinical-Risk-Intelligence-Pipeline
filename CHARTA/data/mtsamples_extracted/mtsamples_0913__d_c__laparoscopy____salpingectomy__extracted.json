@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0913__d_c__laparoscopy____salpingectomy_.txt",
+    "file_name": "mtsamples_0913__d_c__laparoscopy____salpingectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5910,
+    "processed_at": "2026-05-09T09:53:28.946199"
+  },
+  "entities": [
+    {
+      "text": "Hemoperitoneum.,PROCEDURES",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 26,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hemoperitoneum.,PROCEDURES",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anteverted",
+      "label": "DISEASE",
+      "start_char": 337,
+      "end_char": 347,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anteverted",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adnexal",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adnexal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 29,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 42,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 86,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 63,
+      "end_char": 66,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 45,
+      "end_char": 48,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 63,
+      "end_char": 66,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 7,
+      "sentence_idx": 50,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "iron",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 18,
+      "sentence_idx": 58,
+      "concept_id": "C0302583",
+      "concept_name": "iron",
+      "kb_source": "rxnorm",
+      "link_score": 0.9597261548042297,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 132,
+      "sentence_idx": 58,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

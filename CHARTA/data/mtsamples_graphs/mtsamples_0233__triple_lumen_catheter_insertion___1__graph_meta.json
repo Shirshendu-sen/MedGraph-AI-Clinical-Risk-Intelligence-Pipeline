@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0233__triple_lumen_catheter_insertion___1_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "C0023660": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0233__triple_lumen_catheter_insertion___1__graph.pt",
+  "source_dataset": "mtsamples_0233__triple_lumen_catheter_insertion___1"
+}

@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_4799__difficulty_breathing___er_visit__",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 62,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0876218": 1,
+    "C0002645": 2,
+    "C0001927": 3,
+    "C0591130": 4,
+    "C0030054": 5
+  },
+  "visit_dates": [
+    "2007-10-04"
+  ],
+  "graph_file": "mtsamples_4799__difficulty_breathing___er_visit___graph.pt",
+  "source_dataset": "mtsamples_4799__difficulty_breathing___er_visit_"
+}

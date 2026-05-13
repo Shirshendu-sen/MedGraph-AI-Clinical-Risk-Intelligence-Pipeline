@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0727__hemiarthroplasty___austin_moore_bipolar_.txt",
+    "file_name": "mtsamples_0727__hemiarthroplasty___austin_moore_bipolar_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5158,
+    "processed_at": "2026-05-09T09:53:23.413086"
+  },
+  "entities": [
+    {
+      "text": "Austin-Moore bipolar hemiarthroplasty",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 173,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Austin-Moore bipolar hemiarthroplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "left hip fracture",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 44,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left hip fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 19,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "subcapital hip fracture",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 96,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subcapital hip fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/30/03",
+      "start_char": 393,
+      "end_char": 401
+    }
+  ]
+}

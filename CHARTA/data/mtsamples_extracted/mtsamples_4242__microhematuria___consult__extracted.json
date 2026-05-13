@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4242__microhematuria___consult_.txt",
+    "file_name": "mtsamples_4242__microhematuria___consult_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1629,
+    "processed_at": "2026-05-09T09:54:35.365725"
+  },
+  "entities": [
+    {
+      "text": "microhematuria",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 85,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "microhematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "kidney stone",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 34,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "kidney stone",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "dysuria",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 21,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "hematuria",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 38,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 52,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "smoking",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 21,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "smoking",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "UA",
+      "label": "CHEMICAL",
+      "start_char": 127,
+      "end_char": 129,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "UA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "hydronephrosis",
+      "label": "DISEASE",
+      "start_char": 243,
+      "end_char": 257,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydronephrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "IVP",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "IVP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "calcification",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 37,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "hydronephrosis",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 96,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydronephrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "calcification",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 17,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "left intrarenal stone",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 28,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left intrarenal stone",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "nonobstructing",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 44,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nonobstructing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    },
+    {
+      "text": "Microhematuria",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Microhematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-25"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "June 25, 2008",
+      "start_char": 551,
+      "end_char": 564
+    },
+    {
+      "raw_text": "07/24/2008",
+      "start_char": 626,
+      "end_char": 636
+    }
+  ]
+}

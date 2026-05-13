@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0210__vacuum_d_c_.txt",
+    "file_name": "mtsamples_0210__vacuum_d_c_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1645,
+    "processed_at": "2026-05-09T09:53:09.271949"
+  },
+  "entities": [
+    {
+      "text": "1, para 0",
+      "label": "CHEMICAL",
+      "start_char": 239,
+      "end_char": 248,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1, para 0",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cramping",
+      "label": "DISEASE",
+      "start_char": 271,
+      "end_char": 279,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cramping",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cramping",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 26,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cramping",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 34,
+      "end_char": 41,
+      "sentence_idx": 8,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

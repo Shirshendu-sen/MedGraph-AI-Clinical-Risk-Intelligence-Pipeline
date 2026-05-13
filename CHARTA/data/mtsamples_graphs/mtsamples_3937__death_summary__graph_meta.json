@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3937__death_summary_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 29,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0700940": 1,
+    "C0010294": 2
+  },
+  "visit_dates": [
+    "2008-12-15"
+  ],
+  "graph_file": "mtsamples_3937__death_summary__graph.pt",
+  "source_dataset": "mtsamples_3937__death_summary"
+}

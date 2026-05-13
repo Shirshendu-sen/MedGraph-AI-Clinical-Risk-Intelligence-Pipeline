@@ -1,0 +1,26 @@
+{
+  "patient_id": "mtsamples_4412__dog_bite_",
+  "num_entities": 13,
+  "num_visits": 1,
+  "num_edges": 111,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0039617": 1,
+    "C0592558": 2,
+    "C0032952": 3,
+    "C0028978": 4,
+    "C0591139": 5,
+    "C0016410": 6,
+    "C0042866": 7,
+    "C0006675": 8,
+    "C0025270": 9,
+    "C0037125": 10,
+    "C0042523": 11,
+    "C0037129": 12
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4412__dog_bite__graph.pt",
+  "source_dataset": "mtsamples_4412__dog_bite"
+}

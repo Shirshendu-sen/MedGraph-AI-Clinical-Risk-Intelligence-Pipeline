@@ -1,0 +1,34 @@
+{
+  "patient_id": "mtsamples_3315__gen_med_consult___42_",
+  "num_entities": 21,
+  "num_visits": 1,
+  "num_edges": 262,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0034625": 1,
+    "C0001963": 2,
+    "C0721702": 3,
+    "C0028978": 4,
+    "C0591282": 5,
+    "C0178638": 6,
+    "C0004057": 7,
+    "C0017628": 8,
+    "C0004147": 9,
+    "C0016860": 10,
+    "C0051696": 11,
+    "C0020223": 12,
+    "C0284660": 13,
+    "C0009014": 14,
+    "C0037473": 15,
+    "C0032821": 16,
+    "C0010294": 17,
+    "C0017725": 18,
+    "C0024467": 19,
+    "C0302583": 20
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3315__gen_med_consult___42__graph.pt",
+  "source_dataset": "mtsamples_3315__gen_med_consult___42"
+}

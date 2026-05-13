@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4703__mayoview___1_.txt",
+    "file_name": "mtsamples_4703__mayoview___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2143,
+    "processed_at": "2026-05-09T09:54:43.601806"
+  },
+  "entities": [
+    {
+      "text": "Angina",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 57,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Angina",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lexiscan",
+      "label": "CHEMICAL",
+      "start_char": 135,
+      "end_char": 143,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lexiscan",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lexiscan",
+      "label": "CHEMICAL",
+      "start_char": 196,
+      "end_char": 204,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lexiscan",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abnormal with sinus rhythm",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 136,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal with sinus rhythm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial enlargement",
+      "label": "DISEASE",
+      "start_char": 143,
+      "end_char": 161,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial enlargement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "LVH",
+      "label": "DISEASE",
+      "start_char": 230,
+      "end_char": 233,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LVH",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lexiscan",
+      "label": "CHEMICAL",
+      "start_char": 77,
+      "end_char": 85,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lexiscan",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ischemia",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ischemic cardiomyopathy",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 120,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemic cardiomyopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

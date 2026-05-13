@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3712__myringotomy_tube_insertion_.txt",
+    "file_name": "mtsamples_3712__myringotomy_tube_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1589,
+    "processed_at": "2026-05-09T09:54:26.490689"
+  },
+  "entities": [
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 39,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 59,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hearing loss",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 84,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hearing loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 112,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 154,
+      "end_char": 160,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 172,
+      "end_char": 180,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hearing loss",
+      "label": "DISEASE",
+      "start_char": 193,
+      "end_char": 205,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hearing loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 227,
+      "end_char": 233,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PE",
+      "label": "CHEMICAL",
+      "start_char": 292,
+      "end_char": 294,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 511,
+      "end_char": 517,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PE",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 16,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Floxin",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 59,
+      "sentence_idx": 7,
+      "concept_id": "C0699173",
+      "concept_name": "Floxin",
+      "kb_source": "rxnorm",
+      "link_score": 0.979972243309021,
+      "timestamp": null
+    },
+    {
+      "text": "cleft",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 32,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cleft",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mucoid effusion",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 54,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mucoid effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

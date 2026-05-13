@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1065__carpal_tunnel_release___2_.txt",
+    "file_name": "mtsamples_1065__carpal_tunnel_release___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2659,
+    "processed_at": "2026-05-09T09:53:33.037406"
+  },
+  "entities": [
+    {
+      "text": "carpal tunnel syndrome.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 68,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel syndrome.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carpal tunnel syndrome.,OPERATIVE",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 120,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel syndrome.,OPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bipolar",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

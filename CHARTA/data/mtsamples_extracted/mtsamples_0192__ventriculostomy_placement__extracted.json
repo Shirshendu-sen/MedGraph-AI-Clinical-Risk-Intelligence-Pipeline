@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0192__ventriculostomy_placement_.txt",
+    "file_name": "mtsamples_0192__ventriculostomy_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1682,
+    "processed_at": "2026-05-09T09:53:08.952187"
+  },
+  "entities": [
+    {
+      "text": "intraventricular hemorrhage",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 124,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intraventricular hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 143,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intraventricular hemorrhage",
+      "label": "DISEASE",
+      "start_char": 216,
+      "end_char": 243,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intraventricular hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 249,
+      "end_char": 262,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intracranial hemorrhage",
+      "label": "DISEASE",
+      "start_char": 375,
+      "end_char": 398,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intracranial hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 403,
+      "end_char": 416,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intraventricular hemorrhage",
+      "label": "DISEASE",
+      "start_char": 422,
+      "end_char": 449,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intraventricular hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "FFP",
+      "label": "CHEMICAL",
+      "start_char": 106,
+      "end_char": 109,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FFP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vitamin K",
+      "label": "CHEMICAL",
+      "start_char": 121,
+      "end_char": 130,
+      "sentence_idx": 14,
+      "concept_id": "C0042878",
+      "concept_name": "vitamin K",
+      "kb_source": "rxnorm",
+      "link_score": 0.9217663407325745,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 251,
+      "end_char": 259,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

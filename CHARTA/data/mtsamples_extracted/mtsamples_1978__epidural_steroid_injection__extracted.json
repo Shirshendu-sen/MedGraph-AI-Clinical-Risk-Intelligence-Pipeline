@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1978__epidural_steroid_injection_.txt",
+    "file_name": "mtsamples_1978__epidural_steroid_injection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1459,
+    "processed_at": "2026-05-09T09:53:54.058603"
+  },
+  "entities": [
+    {
+      "text": "Low back pain",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 32,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Low back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arthropathy",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 97,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Low back pain",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 141,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Low back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arthropathy",
+      "label": "DISEASE",
+      "start_char": 195,
+      "end_char": 206,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 111,
+      "end_char": 118,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Depo-Medrol",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 40,
+      "sentence_idx": 7,
+      "concept_id": "C0057476",
+      "concept_name": "Depo-Medrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9515208005905151,
+      "timestamp": null
+    },
+    {
+      "text": "Bupivacaine",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 63,
+      "sentence_idx": 7,
+      "concept_id": "C0006400",
+      "concept_name": "bupivacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9624806642532349,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2037__rotator_cuff_tear_.txt",
+    "file_name": "mtsamples_2037__rotator_cuff_tear_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3144,
+    "processed_at": "2026-05-09T09:53:55.109684"
+  },
+  "entities": [
+    {
+      "text": "left shoulder pain",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 63,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 105,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "C6 radiculopathy",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 51,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "C6 radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "left-sided shoulder pain",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 58,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left-sided shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 42,
+      "sentence_idx": 10,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "upper extremity symptoms",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 45,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper extremity symptoms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "bladder dysfunction",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 29,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "impingement",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 28,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 146,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "plexopathy",
+      "label": "DISEASE",
+      "start_char": 150,
+      "end_char": 160,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "plexopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 60,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "cord impingement",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 120,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cord impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "paracentral disc herniation",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 52,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paracentral disc herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "left shoulder pain",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 100,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "upper extremity pain",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 130,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper extremity pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 32,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 65,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-06-21"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 27,
+      "sentence_idx": 26,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-06-21"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "06/21/07",
+      "start_char": 252,
+      "end_char": 260
+    },
+    {
+      "raw_text": "07/20/07",
+      "start_char": 521,
+      "end_char": 529
+    },
+    {
+      "raw_text": "06/08/07",
+      "start_char": 1753,
+      "end_char": 1761
+    },
+    {
+      "raw_text": "06/28/07",
+      "start_char": 1892,
+      "end_char": 1900
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0574__low_transverse_c_section___8_.txt",
+    "file_name": "mtsamples_0574__low_transverse_c_section___8_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 6025,
+    "processed_at": "2026-05-09T09:53:19.605521"
+  },
+  "entities": [
+    {
+      "text": "Nares",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nares",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "isoimmunization",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 111,
+      "sentence_idx": 62,
+      "concept_id": "UNKNOWN",
+      "concept_name": "isoimmunization",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anemia",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 128,
+      "sentence_idx": 62,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 69,
+      "sentence_idx": 63,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 29,
+      "sentence_idx": 64,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4432__dietary_consult___4_.txt",
+    "file_name": "mtsamples_4432__dietary_consult___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1037,
+    "processed_at": "2026-05-09T09:54:38.649212"
+  },
+  "entities": [
+    {
+      "text": "hypoglycemia",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 140,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypoglycemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-07"
+    },
+    {
+      "text": "diabetic exchanges",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 54,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic exchanges",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-07"
+    },
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 25,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-07"
+    },
+    {
+      "text": "diabetic exchanges",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 43,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic exchanges",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-07"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "06/07/2004",
+      "start_char": 541,
+      "end_char": 551
+    }
+  ]
+}

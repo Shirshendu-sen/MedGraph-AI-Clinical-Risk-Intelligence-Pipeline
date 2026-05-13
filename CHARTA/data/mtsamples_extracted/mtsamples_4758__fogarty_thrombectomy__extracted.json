@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4758__fogarty_thrombectomy_.txt",
+    "file_name": "mtsamples_4758__fogarty_thrombectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3076,
+    "processed_at": "2026-05-09T09:54:44.296466"
+  },
+  "entities": [
+    {
+      "text": "graft.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 81,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "graft.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronic renal failure",
+      "label": "DISEASE",
+      "start_char": 185,
+      "end_char": 206,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic renal failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 61,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pseudoaneurysms",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 91,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pseudoaneurysms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypoplasia",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 70,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypoplasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 65,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 48,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 24,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

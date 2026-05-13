@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0591__long_arm_cast_.txt",
+    "file_name": "mtsamples_0591__long_arm_cast_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1825,
+    "processed_at": "2026-05-09T09:53:20.244519"
+  },
+  "entities": [
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 52,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 118,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 284,
+      "end_char": 292,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 95,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "plaster",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 103,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "plaster",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tylenol",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 34,
+      "sentence_idx": 19,
+      "concept_id": "C0699142",
+      "concept_name": "Tylenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9819504022598267,
+      "timestamp": null
+    },
+    {
+      "text": "codeine",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 47,
+      "sentence_idx": 19,
+      "concept_id": "C0009214",
+      "concept_name": "codeine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9537479281425476,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

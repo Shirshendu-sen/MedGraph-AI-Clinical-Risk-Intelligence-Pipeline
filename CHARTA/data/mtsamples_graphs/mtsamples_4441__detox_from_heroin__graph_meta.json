@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_4441__detox_from_heroin_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 60,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0011892": 1,
+    "C0009170": 2,
+    "C0030346": 3,
+    "C0023870": 4,
+    "C0009214": 5,
+    "C0009014": 6,
+    "C0591971": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4441__detox_from_heroin__graph.pt",
+  "source_dataset": "mtsamples_4441__detox_from_heroin"
+}

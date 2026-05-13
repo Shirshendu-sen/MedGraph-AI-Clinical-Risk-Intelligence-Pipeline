@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0257__total_abdominal_hysterectomy___3_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C1705480": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0257__total_abdominal_hysterectomy___3__graph.pt",
+  "source_dataset": "mtsamples_0257__total_abdominal_hysterectomy___3"
+}

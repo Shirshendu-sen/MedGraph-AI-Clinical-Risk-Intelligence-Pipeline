@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0198__vitrectomy_.txt",
+    "file_name": "mtsamples_0198__vitrectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1527,
+    "processed_at": "2026-05-09T09:53:09.048566"
+  },
+  "entities": [
+    {
+      "text": "Vitreous hemorrhage",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 44,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Vitreous hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Vitreous hemorrhage",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 103,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Vitreous hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 71,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tractional",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tractional",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0272__tongue_lesion_biopsy_.txt",
+    "file_name": "mtsamples_0272__tongue_lesion_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1140,
+    "processed_at": "2026-05-09T09:53:11.036800"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0272__tongue_lesion_biopsy_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Right lateral base of tongue lesion, probable cancer.,POSTOPERATIVE DIAGNOSIS: , Right lateral base of tongue lesion, probable cancer.,PROCEDURE PERFORMED:  ,Excisional biopsy with primary closure of a 4 mm right lateral base of tongue lesion.,ANESTHESIA: , General.,FINDINGS: , An ulceration in the right lateral base of tongue region.  This was completely excised.,ESTIMATED BLOOD LOSS:,  Less than 5 mL.,FLUIDS: , Crystalloid only.,COMPLICATIONS:,  None.,DRAINS:,  None.,CONDITION:,  Stable.,PROCEDURE:  ,The patient placed supine in position under general anesthesia.  First a Sweetheart gag was placed in the patient's mouth and the mouth was elevated.  The lesion in the tongue could be seen.  Then, it was injected with 1% lidocaine and 1:100,00 epinephrine.  After 5 minutes of waiting, then an elliptical incision was made around this mass with electrocautery and then it was sharply dissected off the muscular layer and removed in total.  Suction cautery was used for hemostasis.  Then, 3 simple interrupted #4-0 Vicryl sutures were used to close the wound and procedure was then terminated at that time.",
+    "char_count": 1140,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Right lateral base of tongue lesion, probable cancer.,POSTOPERATIVE DIAGNOSIS: , Right lateral base of tongue lesion, probable cancer.,PROCEDURE PERFORMED: ,Excisional biopsy with primary closure of a 4 mm right lateral base of tongue lesion.,ANESTHESIA: , General.,FINDINGS: , An ulceration in the right lateral base of tongue region. This was completely excised.,ESTIMATED BLOOD LOSS:, Less than 5 mL.,FLUIDS: , Crystalloid only.,COMPLICATIONS:, None.,DRAINS:, None.,CONDITION:, Stable.,PROCEDURE: ,The patient placed supine in position under general anesthesia. First a Sweetheart gag was placed in the patient's mouth and the mouth was elevated. The lesion in the tongue could be seen. Then, it was injected with 1% lidocaine and 1:100,00 epinephrine. After 5 minutes of waiting, then an elliptical incision was made around this mass with electrocautery and then it was sharply dissected off the muscular layer and removed in total. Suction cautery was used for hemostasis. Then, 3 simple interrupted #4-0 Vicryl sutures were used to close the wound and procedure was then terminated at that time.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Right lateral base of tongue lesion, probable cancer.,POSTOPERATIVE DIAGNOSIS: , Right lateral base of tongue lesion, probable cancer.,PROCEDURE PERFORMED: ,Excisional biopsy with primary closure of a 4 mm right lateral base of tongue lesion.,ANESTHESIA: , General.,FINDINGS: , An ulceration in the right lateral base of tongue region.",
+      "This was completely excised.,ESTIMATED BLOOD LOSS:, Less than 5 mL.,FLUIDS: , Crystalloid only.,COMPLICATIONS:, None.,DRAINS:, None.,CONDITION:, Stable.,PROCEDURE: ,The patient placed supine in position under general anesthesia.",
+      "First a Sweetheart gag was placed in the patient's mouth and the mouth was elevated.",
+      "The lesion in the tongue could be seen.",
+      "Then, it was injected with 1% lidocaine and 1:100,00 epinephrine.",
+      "After 5 minutes of waiting, then an elliptical incision was made around this mass with electrocautery and then it was sharply dissected off the muscular layer and removed in total.",
+      "Suction cautery was used for hemostasis.",
+      "Then, 3 simple interrupted #4-0 Vicryl sutures were used to close the wound and procedure was then terminated at that time."
+    ],
+    "sentence_count": 8,
+    "original_length": 1140,
+    "cleaned_length": 1127,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Right lateral base of tongue lesion, probable cancer.,POSTOPERATIVE DIAGNOSIS: , Right lateral base of tongue lesion, probable cancer.,PROCEDURE PERFORMED:  ,Excisional biopsy with primary closure of a 4 mm right lateral base of tongue lesion.,ANESTHESIA: , General.,FINDINGS: , An ulceration in the right lateral base of tongue region.  This was completely excised.,ESTIMATED BLOOD LOSS:,  Less than 5 mL.,FLUIDS: , Crystalloid only.,COMPLICATIONS:,  None.,DRAINS:,  None.,CONDITION:,  Stable.,PROCEDURE:  ,The patient placed supine in position under general anesthesia.  First a Sweetheart gag was placed in the patient's mouth and the mouth was elevated.  The lesion in the tongue could be seen.  Then, it was injected with 1% lidocaine and 1:100,00 epinephrine.  After 5 minutes of waiting, then an elliptical incision was made around this mass with electrocautery and then it was sharply dissected off the muscular layer and removed in total.  Suction cautery was used for hemostasis.  Then, 3 simple interrupted #4-0 Vicryl sutures were used to close the wound and procedure was then terminated at that time.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Right lateral base of tongue lesion, probable cancer.,POSTOPERATIVE DIAGNOSIS: , Right lateral base of tongue lesion, probable cancer.,PROCEDURE PERFORMED: ,Excisional biopsy with primary closure of a 4 mm right lateral base of tongue lesion.,ANESTHESIA: , General.,FINDINGS: , An ulceration in the right lateral base of tongue region. This was completely excised.,ESTIMATED BLOOD LOSS:, Less than 5 mL.,FLUIDS: , Crystalloid only.,COMPLICATIONS:, None.,DRAINS:, None.,CONDITION:, Stable.,PROCEDURE: ,The patient placed supine in position under general anesthesia. First a Sweetheart gag was placed in the patient's mouth and the mouth was elevated. The lesion in the tongue could be seen. Then, it was injected with 1% lidocaine and 1:100,00 epinephrine. After 5 minutes of waiting, then an elliptical incision was made around this mass with electrocautery and then it was sharply dissected off the muscular layer and removed in total. Suction cautery was used for hemostasis. Then, 3 simple interrupted #4-0 Vicryl sutures were used to close the wound and procedure was then terminated at that time.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Right lateral base of tongue lesion, probable cancer.,POSTOPERATIVE DIAGNOSIS: , Right lateral base of tongue lesion, probable cancer.,PROCEDURE PERFORMED: ,Excisional biopsy with primary closure of a 4 mm right lateral base of tongue lesion.,ANESTHESIA: , General.,FINDINGS: , An ulceration in the right lateral base of tongue region.",
+      "This was completely excised.,ESTIMATED BLOOD LOSS:, Less than 5 mL.,FLUIDS: , Crystalloid only.,COMPLICATIONS:, None.,DRAINS:, None.,CONDITION:, Stable.,PROCEDURE: ,The patient placed supine in position under general anesthesia.",
+      "First a Sweetheart gag was placed in the patient's mouth and the mouth was elevated.",
+      "The lesion in the tongue could be seen.",
+      "Then, it was injected with 1% lidocaine and 1:100,00 epinephrine.",
+      "After 5 minutes of waiting, then an elliptical incision was made around this mass with electrocautery and then it was sharply dissected off the muscular layer and removed in total.",
+      "Suction cautery was used for hemostasis.",
+      "Then, 3 simple interrupted #4-0 Vicryl sutures were used to close the wound and procedure was then terminated at that time."
+    ],
+    "sentence_count": 8
+  }
+}

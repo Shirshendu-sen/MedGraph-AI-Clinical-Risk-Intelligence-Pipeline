@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0874__ear_cartilage_graft_.txt",
+    "file_name": "mtsamples_0874__ear_cartilage_graft_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3896,
+    "processed_at": "2026-05-09T09:53:27.975685"
+  },
+  "entities": [
+    {
+      "text": "Nasal valve collapse.,4",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 23,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nasal valve collapse.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Nasal valve collapse.,4",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 23,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nasal valve collapse.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nasal vestibular stenosis",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 35,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasal vestibular stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Left inferior turbinectomy.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 38,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left inferior turbinectomy.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nasal obstruction",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 151,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasal obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nasal valve collapse",
+      "label": "DISEASE",
+      "start_char": 162,
+      "end_char": 182,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasal valve collapse",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nasal fracture",
+      "label": "DISEASE",
+      "start_char": 204,
+      "end_char": 218,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasal fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 84,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Doyle splints",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Doyle splints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

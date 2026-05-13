@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2641__vein_stripping_.txt",
+    "file_name": "mtsamples_2641__vein_stripping_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3021,
+    "processed_at": "2026-05-09T09:54:05.509077"
+  },
+  "entities": [
+    {
+      "text": "Chronic venous hypertension",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 53,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chronic venous hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "painful varicosities",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 79,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "painful varicosities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Chronic venous hypertension",
+      "label": "DISEASE",
+      "start_char": 140,
+      "end_char": 167,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chronic venous hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "painful varicosities",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 193,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "painful varicosities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "groin",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 68,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "groin",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "groin",
+      "label": "DISEASE",
+      "start_char": 294,
+      "end_char": 299,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "groin",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "staples.,Then",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 71,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "staples.,Then",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ace bandages.,Estimated",
+      "label": "CHEMICAL",
+      "start_char": 184,
+      "end_char": 207,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ace bandages.,Estimated",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 208,
+      "end_char": 218,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

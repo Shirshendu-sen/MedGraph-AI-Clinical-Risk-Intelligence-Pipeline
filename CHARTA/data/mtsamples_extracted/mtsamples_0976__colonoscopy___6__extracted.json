@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0976__colonoscopy___6_.txt",
+    "file_name": "mtsamples_0976__colonoscopy___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 806,
+    "processed_at": "2026-05-09T09:53:30.495784"
+  },
+  "entities": [
+    {
+      "text": "colon cancer",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 98,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colon cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "colon cancer",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 42,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colon cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 128,
+      "end_char": 136,
+      "sentence_idx": 1,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 157,
+      "end_char": 163,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 30,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 37,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 87,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 30,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 39,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

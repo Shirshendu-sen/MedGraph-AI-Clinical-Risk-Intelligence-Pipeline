@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_4948__autopsy___8_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 87,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1,
+    "C0684237": 2,
+    "C0014563": 3,
+    "C0004259": 4,
+    "C0006686": 5,
+    "C0074722": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4948__autopsy___8__graph.pt",
+  "source_dataset": "mtsamples_4948__autopsy___8"
+}

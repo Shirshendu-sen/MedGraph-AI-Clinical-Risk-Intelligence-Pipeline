@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2045__pmt_halo_crown___vest_.txt",
+    "file_name": "mtsamples_2045__pmt_halo_crown___vest_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3108,
+    "processed_at": "2026-05-09T09:53:55.210100"
+  },
+  "entities": [
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 172,
+      "end_char": 183,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Morphine",
+      "label": "CHEMICAL",
+      "start_char": 456,
+      "end_char": 464,
+      "sentence_idx": 0,
+      "concept_id": "C0026549",
+      "concept_name": "morphine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9600629210472107,
+      "timestamp": null
+    },
+    {
+      "text": "Post-fixation neurologic examination",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 36,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Post-fixation neurologic examination",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 152,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "myelopathy",
+      "label": "DISEASE",
+      "start_char": 157,
+      "end_char": 167,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myelopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "morphine",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 12,
+      "concept_id": "C0026549",
+      "concept_name": "morphine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9600629210472107,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 47,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 63,
+      "sentence_idx": 13,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

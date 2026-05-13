@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2894__ct_lumbar_spine___1_.txt",
+    "file_name": "mtsamples_2894__ct_lumbar_spine___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2504,
+    "processed_at": "2026-05-09T09:54:10.366684"
+  },
+  "entities": [
+    {
+      "text": "facet joints",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 37,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "facet joints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-10-13"
+    },
+    {
+      "text": "facet joints",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 34,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "facet joints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-10-13"
+    },
+    {
+      "text": "spondylolisthesis",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 48,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylolisthesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-10-13"
+    },
+    {
+      "text": "arteriosclerotic vascular calcifications",
+      "label": "DISEASE",
+      "start_char": 223,
+      "end_char": 263,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arteriosclerotic vascular calcifications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-10-13"
+    },
+    {
+      "text": "spondylolisthesis",
+      "label": "DISEASE",
+      "start_char": 744,
+      "end_char": 761,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylolisthesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-10-13"
+    },
+    {
+      "text": "arteriosclerotic vascular calcifications",
+      "label": "DISEASE",
+      "start_char": 949,
+      "end_char": 989,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arteriosclerotic vascular calcifications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-10-13"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/13/2004",
+      "start_char": 222,
+      "end_char": 232
+    }
+  ]
+}

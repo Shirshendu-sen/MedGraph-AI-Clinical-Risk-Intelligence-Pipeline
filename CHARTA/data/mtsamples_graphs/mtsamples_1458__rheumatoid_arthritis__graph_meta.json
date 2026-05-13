@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_1458__rheumatoid_arthritis_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 67,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0030817": 2,
+    "C0036078": 3,
+    "C0025677": 4,
+    "C0000970": 5,
+    "C0699142": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1458__rheumatoid_arthritis__graph.pt",
+  "source_dataset": "mtsamples_1458__rheumatoid_arthritis"
+}

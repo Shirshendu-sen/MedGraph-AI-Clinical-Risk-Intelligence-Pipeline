@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4526__barium_swallow_study_evaluation___1_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 23,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0004749": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4526__barium_swallow_study_evaluation___1__graph.pt",
+  "source_dataset": "mtsamples_4526__barium_swallow_study_evaluation___1"
+}

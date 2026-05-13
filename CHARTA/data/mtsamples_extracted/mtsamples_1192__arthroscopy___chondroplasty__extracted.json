@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1192__arthroscopy___chondroplasty_.txt",
+    "file_name": "mtsamples_1192__arthroscopy___chondroplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4566,
+    "processed_at": "2026-05-09T09:53:36.416261"
+  },
+  "entities": [
+    {
+      "text": "Patellofemoral malalignment syndrome.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 51,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Patellofemoral malalignment syndrome.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "Grade-IV chondromalacia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 23,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Grade-IV chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "Patellofemoral malalignment syndrome.,PROCEDURE",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 47,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Patellofemoral malalignment syndrome.,PROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "Grade-IV chondromalacia",
+      "label": "DISEASE",
+      "start_char": 206,
+      "end_char": 229,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Grade-IV chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "right knee pain",
+      "label": "DISEASE",
+      "start_char": 147,
+      "end_char": 162,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "chondromalacia",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 54,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "patellar",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patellar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/04/03",
+      "start_char": 1583,
+      "end_char": 1591
+    }
+  ]
+}

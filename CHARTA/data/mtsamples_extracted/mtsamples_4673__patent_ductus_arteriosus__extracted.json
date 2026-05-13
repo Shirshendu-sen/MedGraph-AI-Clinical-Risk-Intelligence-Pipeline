@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4673__patent_ductus_arteriosus_.txt",
+    "file_name": "mtsamples_4673__patent_ductus_arteriosus_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4588,
+    "processed_at": "2026-05-09T09:54:43.096564"
+  },
+  "entities": [
+    {
+      "text": "cardiac murmur",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 88,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardiac murmur",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-13"
+    },
+    {
+      "text": "patent ductus arteriosus",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 132,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patent ductus arteriosus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-13"
+    },
+    {
+      "text": "patent ductus arteriosus",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 80,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patent ductus arteriosus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-13"
+    },
+    {
+      "text": "atrial enlargement",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 91,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial enlargement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-13"
+    },
+    {
+      "text": "left ventricular hypertrophy",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 124,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left ventricular hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-13"
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 126,
+      "end_char": 135,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-09-13"
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 207,
+      "end_char": 213,
+      "sentence_idx": 15,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2007-09-13"
+    },
+    {
+      "text": "normal-appearing renal collecting systems were visualized.",
+      "label": "DISEASE",
+      "start_char": 404,
+      "end_char": 462,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normal-appearing renal collecting systems were visualized.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-13"
+    },
+    {
+      "text": "Oxygen",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 49,
+      "sentence_idx": 18,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2007-09-13"
+    },
+    {
+      "text": "saturated",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 40,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "saturated",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-09-13"
+    },
+    {
+      "text": "patent ductus",
+      "label": "DISEASE",
+      "start_char": 160,
+      "end_char": 173,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patent ductus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-13"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/13/2007",
+      "start_char": 157,
+      "end_char": 167
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2815__mri_brain___pilocytic_astrocytoma_.txt",
+    "file_name": "mtsamples_2815__mri_brain___pilocytic_astrocytoma_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3456,
+    "processed_at": "2026-05-09T09:54:08.958783"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "morning headaches",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 95,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "morning headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 137,
+      "end_char": 145,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "irritability",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 85,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irritability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "Vermox",
+      "label": "CHEMICAL",
+      "start_char": 112,
+      "end_char": 118,
+      "sentence_idx": 4,
+      "concept_id": "C0699951",
+      "concept_name": "Vermox",
+      "kb_source": "rxnorm",
+      "link_score": 0.9958847761154175,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "vomit",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 72,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomit",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "tonic-clonic",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 52,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tonic-clonic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "lethargy",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 90,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lethargy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "Decadron",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 8,
+      "concept_id": "C0740057",
+      "concept_name": "Decadron",
+      "kb_source": "rxnorm",
+      "link_score": 0.9529008269309998,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "Phenytoin",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 35,
+      "sentence_idx": 8,
+      "concept_id": "C0031507",
+      "concept_name": "phenytoin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9547135233879089,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "vaginal bleeding",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 41,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vaginal bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 67,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "36.9C",
+      "label": "CHEMICAL",
+      "start_char": 96,
+      "end_char": 101,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "36.9C",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "papilledema",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 20,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "papilledema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "OU",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 24,
+      "sentence_idx": 13,
+      "concept_id": "C0029904",
+      "concept_name": "Acocantherin",
+      "kb_source": "mesh",
+      "link_score": 0.727530837059021,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "lower facial weakness",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 27,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower facial weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "truncal ataxia",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 101,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "truncal ataxia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "Dilantin",
+      "label": "CHEMICAL",
+      "start_char": 183,
+      "end_char": 191,
+      "sentence_idx": 21,
+      "concept_id": "C0699512",
+      "concept_name": "Dilantin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9751823544502258,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "mass lesion",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 48,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mass lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "mass",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "gadolinium",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 47,
+      "sentence_idx": 24,
+      "concept_id": "C0016911",
+      "concept_name": "gadolinium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9583680033683777,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "white matter edema",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 95,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "white matter edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "uncal herniation",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 37,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "uncal herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "VP",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 25,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "right-sided motor incoordination",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 116,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right-sided motor incoordination",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "right hemiplegia",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 65,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right hemiplegia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "right homonymous hemianopia",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 97,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right homonymous hemianopia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 18,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    },
+    {
+      "text": "right hemiplegia",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 133,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right hemiplegia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-25"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "1/25/93",
+      "start_char": 377,
+      "end_char": 384
+    },
+    {
+      "raw_text": "1/24/93",
+      "start_char": 639,
+      "end_char": 646
+    },
+    {
+      "raw_text": "1/26/93",
+      "start_char": 2045,
+      "end_char": 2052
+    },
+    {
+      "raw_text": "1/26/93",
+      "start_char": 2491,
+      "end_char": 2498
+    },
+    {
+      "raw_text": "1/28/93",
+      "start_char": 2658,
+      "end_char": 2665
+    },
+    {
+      "raw_text": "3/25/93",
+      "start_char": 2742,
+      "end_char": 2749
+    },
+    {
+      "raw_text": "3/20/95",
+      "start_char": 2753,
+      "end_char": 2760
+    }
+  ]
+}

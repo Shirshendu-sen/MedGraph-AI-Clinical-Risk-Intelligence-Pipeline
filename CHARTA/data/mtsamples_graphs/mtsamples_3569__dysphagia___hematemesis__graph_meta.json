@@ -1,0 +1,34 @@
+{
+  "patient_id": "mtsamples_3569__dysphagia___hematemesis_",
+  "num_entities": 21,
+  "num_visits": 1,
+  "num_edges": 169,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0026549": 1,
+    "C0700776": 2,
+    "C0030346": 3,
+    "C0065374": 4,
+    "C0025859": 5,
+    "C0016860": 6,
+    "C0678152": 7,
+    "C0001927": 8,
+    "C0487782": 9,
+    "C0009170": 10,
+    "C0037473": 11,
+    "C0032821": 12,
+    "C0017725": 13,
+    "C0010294": 14,
+    "C0006675": 15,
+    "C3848529": 16,
+    "C0028040": 17,
+    "C0019134": 18,
+    "C0004521": 19,
+    "C0699678": 20
+  },
+  "visit_dates": [
+    "2010-01-12"
+  ],
+  "graph_file": "mtsamples_3569__dysphagia___hematemesis__graph.pt",
+  "source_dataset": "mtsamples_3569__dysphagia___hematemesis"
+}

@@ -1,0 +1,27 @@
+{
+  "patient_id": "mtsamples_4599__tracheostomy_tube_consult_",
+  "num_entities": 14,
+  "num_visits": 1,
+  "num_edges": 151,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1,
+    "C0016410": 2,
+    "C0004057": 3,
+    "C0026549": 4,
+    "C0678162": 5,
+    "C0592071": 6,
+    "C0282139": 7,
+    "C0009011": 8,
+    "C0721441": 9,
+    "C0487782": 10,
+    "C0724725": 11,
+    "C0037138": 12,
+    "C0001963": 13
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4599__tracheostomy_tube_consult__graph.pt",
+  "source_dataset": "mtsamples_4599__tracheostomy_tube_consult"
+}

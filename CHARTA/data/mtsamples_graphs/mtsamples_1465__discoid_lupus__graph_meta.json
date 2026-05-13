@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1465__discoid_lupus_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699177": 1,
+    "C0020268": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1465__discoid_lupus__graph.pt",
+  "source_dataset": "mtsamples_1465__discoid_lupus"
+}

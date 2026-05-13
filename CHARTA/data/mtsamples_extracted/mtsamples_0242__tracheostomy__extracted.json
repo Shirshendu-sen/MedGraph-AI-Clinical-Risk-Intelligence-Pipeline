@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0242__tracheostomy_.txt",
+    "file_name": "mtsamples_0242__tracheostomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5749,
+    "processed_at": "2026-05-09T09:53:10.153934"
+  },
+  "entities": [
+    {
+      "text": "Airway obstruction",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 41,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Airway obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subglottic tracheal stenosis",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 90,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subglottic tracheal stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Airway obstruction",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 167,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Airway obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subglottic tracheal stenosis",
+      "label": "DISEASE",
+      "start_char": 188,
+      "end_char": 216,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subglottic tracheal stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tracheomalacia",
+      "label": "DISEASE",
+      "start_char": 588,
+      "end_char": 602,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tracheomalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "airway obstruction",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 57,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "airway obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tracheal stenosis",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 87,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tracheal stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 78,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 89,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "loss of voice",
+      "label": "DISEASE",
+      "start_char": 237,
+      "end_char": 250,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of voice",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 47,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 57,
+      "end_char": 68,
+      "sentence_idx": 10,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 55,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 50,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calcification",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 95,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

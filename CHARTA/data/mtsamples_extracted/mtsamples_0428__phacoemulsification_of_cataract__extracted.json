@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0428__phacoemulsification_of_cataract_.txt",
+    "file_name": "mtsamples_0428__phacoemulsification_of_cataract_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2448,
+    "processed_at": "2026-05-09T09:53:15.856918"
+  },
+  "entities": [
+    {
+      "text": "Cataract",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 38,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cataract",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 90,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 144,
+      "end_char": 152,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 175,
+      "end_char": 184,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Healon",
+      "label": "CHEMICAL",
+      "start_char": 281,
+      "end_char": 287,
+      "sentence_idx": 1,
+      "concept_id": "C0700889",
+      "concept_name": "Healon",
+      "kb_source": "rxnorm",
+      "link_score": 0.9655555486679077,
+      "timestamp": null
+    },
+    {
+      "text": "Healon",
+      "label": "CHEMICAL",
+      "start_char": 60,
+      "end_char": 66,
+      "sentence_idx": 6,
+      "concept_id": "C0700889",
+      "concept_name": "Healon",
+      "kb_source": "rxnorm",
+      "link_score": 0.9655555486679077,
+      "timestamp": null
+    },
+    {
+      "text": "Healon",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 9,
+      "concept_id": "C0700889",
+      "concept_name": "Healon",
+      "kb_source": "rxnorm",
+      "link_score": 0.9655555486679077,
+      "timestamp": null
+    },
+    {
+      "text": "Vigamox",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 12,
+      "concept_id": "C1330598",
+      "concept_name": "Vigamox",
+      "kb_source": "rxnorm",
+      "link_score": 0.9880033135414124,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

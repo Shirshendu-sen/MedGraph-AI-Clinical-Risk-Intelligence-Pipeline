@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1826__dystrophic_nails_.txt",
+    "file_name": "mtsamples_1826__dystrophic_nails_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1079,
+    "processed_at": "2026-05-09T09:53:51.221062"
+  },
+  "entities": [
+    {
+      "text": "GI bleed",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 112,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "GI bleed",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 126,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PVD",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 131,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PVD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypothyroid",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 144,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypothyroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "GERD",
+      "label": "DISEASE",
+      "start_char": 146,
+      "end_char": 150,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "GERD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 166,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 168,
+      "end_char": 176,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 178,
+      "end_char": 201,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "renal artery stenosis",
+      "label": "DISEASE",
+      "start_char": 203,
+      "end_char": 224,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "renal artery stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronic obstructive pulmonary disease",
+      "label": "DISEASE",
+      "start_char": 226,
+      "end_char": 263,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic obstructive pulmonary disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chart.,O",
+      "label": "CHEMICAL",
+      "start_char": 313,
+      "end_char": 321,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chart.,O",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 53,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Peripheral vascular disease",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 27,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Peripheral vascular disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pain",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 4,
+      "sentence_idx": 10,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "dystrophic nails",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 106,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dystrophic nails",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

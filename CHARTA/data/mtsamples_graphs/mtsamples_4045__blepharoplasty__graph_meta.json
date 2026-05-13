@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4045__blepharoplasty_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 6,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0014563": 1,
+    "C0935966": 2,
+    "C0591971": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4045__blepharoplasty__graph.pt",
+  "source_dataset": "mtsamples_4045__blepharoplasty"
+}

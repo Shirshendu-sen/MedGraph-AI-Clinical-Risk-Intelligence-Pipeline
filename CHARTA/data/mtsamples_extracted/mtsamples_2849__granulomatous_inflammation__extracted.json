@@ -1,0 +1,708 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2849__granulomatous_inflammation_.txt",
+    "file_name": "mtsamples_2849__granulomatous_inflammation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5458,
+    "processed_at": "2026-05-09T09:54:09.642376"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "Headache",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 13,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "diplopia.,HX",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 30,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diplopia.,HX",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 132,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "nausea, vomiting",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 40,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea, vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "photophobia",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 53,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "photophobia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "phonophobia",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 68,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "phonophobia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 143,
+      "end_char": 151,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "paresthesias",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 109,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paresthesias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "diplopia",
+      "label": "DISEASE",
+      "start_char": 156,
+      "end_char": 164,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diplopia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "diplopia",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diplopia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "chronic unsteadiness",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 32,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic unsteadiness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "juvenile rheumatoid arthritis",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 94,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "juvenile rheumatoid arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "unsteadiness",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 39,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "unsteadiness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "gadolinium",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 41,
+      "sentence_idx": 11,
+      "concept_id": "C0016911",
+      "concept_name": "gadolinium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9583680033683777,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "glucose",
+      "label": "CHEMICAL",
+      "start_char": 167,
+      "end_char": 174,
+      "sentence_idx": 11,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "Acetylcholine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 14,
+      "concept_id": "C0001041",
+      "concept_name": "acetylcholine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9432491064071655,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "ANA",
+      "label": "CHEMICAL",
+      "start_char": 78,
+      "end_char": 81,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ANA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "ANA",
+      "label": "CHEMICAL",
+      "start_char": 110,
+      "end_char": 113,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ANA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "Tylenol",
+      "label": "CHEMICAL",
+      "start_char": 155,
+      "end_char": 162,
+      "sentence_idx": 14,
+      "concept_id": "C0699142",
+      "concept_name": "Tylenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9819504022598267,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "1)Juvenile Rheumatoid Arthritis",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 57,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1)Juvenile Rheumatoid Arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "traumatic",
+      "label": "DISEASE",
+      "start_char": 150,
+      "end_char": 159,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "traumatic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "type cancer",
+      "label": "DISEASE",
+      "start_char": 208,
+      "end_char": 219,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "type cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "type cancer",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 41,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "type cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "dysarthria",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 33,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysarthria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "proptosis",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 35,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "proptosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "Optic",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Optic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "NO Romberg",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NO Romberg",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "TW.,REFLEXES",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 33,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "TW.,REFLEXES",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "glucose",
+      "label": "CHEMICAL",
+      "start_char": 296,
+      "end_char": 303,
+      "sentence_idx": 31,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "FT4",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 19,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FT4",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "right CN6 palsy",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 87,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right CN6 palsy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "proptosis",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 101,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "proptosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "paresthesias",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 147,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paresthesias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "papilledema",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 35,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "papilledema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "gadolinium",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 36,
+      "sentence_idx": 36,
+      "concept_id": "C0016911",
+      "concept_name": "gadolinium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9583680033683777,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "mass",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "impingement",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 106,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "calcification",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 34,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 18,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 118,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "PCP",
+      "label": "CHEMICAL",
+      "start_char": 221,
+      "end_char": 224,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PCP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "pseudotumor",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 192,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pseudotumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "cancer",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 17,
+      "sentence_idx": 44,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "Tumor",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 63,
+      "sentence_idx": 46,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "Sarcoidosis",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 113,
+      "sentence_idx": 46,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Sarcoidosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "Histoplasmosis",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 129,
+      "sentence_idx": 46,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Histoplasmosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "Wegener's Granulomatosis",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 155,
+      "sentence_idx": 46,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Wegener's Granulomatosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "Histoplasmosis",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 20,
+      "sentence_idx": 47,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Histoplasmosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "diplopia",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 39,
+      "sentence_idx": 50,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diplopia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    },
+    {
+      "text": "right CN6 palsy",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 59,
+      "sentence_idx": 50,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right CN6 palsy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-09-02"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "9/2/95",
+      "start_char": 1148,
+      "end_char": 1154
+    },
+    {
+      "raw_text": "9/2/95",
+      "start_char": 1161,
+      "end_char": 1167
+    },
+    {
+      "raw_text": "9/3/95",
+      "start_char": 1199,
+      "end_char": 1205
+    },
+    {
+      "raw_text": "9/3/95",
+      "start_char": 1259,
+      "end_char": 1265
+    },
+    {
+      "raw_text": "9/11/95",
+      "start_char": 1492,
+      "end_char": 1499
+    },
+    {
+      "raw_text": "9/4/95",
+      "start_char": 1579,
+      "end_char": 1585
+    },
+    {
+      "raw_text": "10/20/95",
+      "start_char": 3731,
+      "end_char": 3739
+    },
+    {
+      "raw_text": "10/20/95",
+      "start_char": 3898,
+      "end_char": 3906
+    },
+    {
+      "raw_text": "10/23/95",
+      "start_char": 4078,
+      "end_char": 4086
+    },
+    {
+      "raw_text": "10/24/95",
+      "start_char": 4407,
+      "end_char": 4415
+    },
+    {
+      "raw_text": "11/2/95",
+      "start_char": 4669,
+      "end_char": 4676
+    },
+    {
+      "raw_text": "11/8/95",
+      "start_char": 5114,
+      "end_char": 5121
+    },
+    {
+      "raw_text": "12/13/95",
+      "start_char": 5167,
+      "end_char": 5175
+    },
+    {
+      "raw_text": "11/8/95",
+      "start_char": 5211,
+      "end_char": 5218
+    }
+  ]
+}

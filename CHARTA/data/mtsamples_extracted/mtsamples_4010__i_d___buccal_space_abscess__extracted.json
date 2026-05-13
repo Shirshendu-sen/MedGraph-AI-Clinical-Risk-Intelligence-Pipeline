@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4010__i_d___buccal_space_abscess_.txt",
+    "file_name": "mtsamples_4010__i_d___buccal_space_abscess_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2266,
+    "processed_at": "2026-05-09T09:54:31.893889"
+  },
+  "entities": [
+    {
+      "text": "caries teeth",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 26,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "caries teeth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "caries teeth",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 26,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "caries teeth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "None.,SPECIMENS,1",
+      "label": "CHEMICAL",
+      "start_char": 124,
+      "end_char": 141,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "None.,SPECIMENS,1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "propofol",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 59,
+      "sentence_idx": 10,
+      "concept_id": "C0033487",
+      "concept_name": "propofol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9385934472084045,
+      "timestamp": null
+    },
+    {
+      "text": "chlorhexidine",
+      "label": "CHEMICAL",
+      "start_char": 59,
+      "end_char": 72,
+      "sentence_idx": 11,
+      "concept_id": "C0008196",
+      "concept_name": "chlorhexidine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9488893151283264,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 121,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 49,
+      "sentence_idx": 12,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 75,
+      "sentence_idx": 12,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "right inferior alveolar block",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 124,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right inferior alveolar block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "purulence",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 39,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "purulence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 59,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0077__orchiopexy___bilateral_.txt",
+    "file_name": "mtsamples_0077__orchiopexy___bilateral_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3807,
+    "processed_at": "2026-05-09T09:53:05.576123"
+  },
+  "entities": [
+    {
+      "text": "undescended",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "undescended",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 16,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 17,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 8,
+      "end_char": 16,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 27,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 51,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

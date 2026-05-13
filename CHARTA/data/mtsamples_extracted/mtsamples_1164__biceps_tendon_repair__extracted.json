@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1164__biceps_tendon_repair_.txt",
+    "file_name": "mtsamples_1164__biceps_tendon_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3823,
+    "processed_at": "2026-05-09T09:53:35.924220"
+  },
+  "entities": [
+    {
+      "text": "serosanguineous",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 30,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "serosanguineous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 62,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gentamicin",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 53,
+      "sentence_idx": 28,
+      "concept_id": "C3854019",
+      "concept_name": "gentamicin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9848167896270752,
+      "timestamp": null
+    },
+    {
+      "text": "gentamicin",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 57,
+      "sentence_idx": 32,
+      "concept_id": "C3854019",
+      "concept_name": "gentamicin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9848167896270752,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 60,
+      "end_char": 68,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

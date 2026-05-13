@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_0435__phalanx_amputation_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 17,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1,
+    "C3854019": 2
+  },
+  "visit_dates": [
+    "2003-09-02"
+  ],
+  "graph_file": "mtsamples_0435__phalanx_amputation__graph.pt",
+  "source_dataset": "mtsamples_0435__phalanx_amputation"
+}

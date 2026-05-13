@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0398__radioactive_plaque___insertion_.txt",
+    "file_name": "mtsamples_0398__radioactive_plaque___insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1110,
+    "processed_at": "2026-05-09T09:53:14.741672"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0398__radioactive_plaque___insertion_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS:,  Macular edema, right eye.,POSTOPERATIVE DIAGNOSIS:  ,Macular edema, right eye.,TITLE OF OPERATION: , Insertion of radioactive plaque, right eye with lateral canthotomy.,OPERATIVE PROCEDURE IN DETAIL:  ,The patient was prepped and draped in the usual manner for a local eye procedure.  Initially, a 5 cc retrobulbar injection of 2% Xylocaine was done.  Then, a lid speculum was inserted and the conjunctiva was incised 4 mm posterior to the limbus.  A 2-0 silk traction suture was placed around the insertion of the lateral rectus muscle and, with gentle traction, the temporal one-half of the globe was exposed.  The plaque was positioned on the scleral surface immediately behind the macula and secured with two sutures of 5-0 Dacron.  The placement was confirmed with indirect ophthalmoscopy.  Next, the eye was irrigated with Neosporin and the conjunctiva was closed with 6-0 plain catgut.  The intraocular pressure was found to be within normal limits.  An eye patch was applied and the patient was sent to the Recovery Room in good condition.  A lateral canthotomy had been done.",
+    "char_count": 1110,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS:, Macular edema, right eye.,POSTOPERATIVE DIAGNOSIS: ,Macular edema, right eye.,TITLE OF OPERATION: , Insertion of radioactive plaque, right eye with lateral canthotomy.,OPERATIVE PROCEDURE IN DETAIL: ,The patient was prepped and draped in the usual manner for a local eye procedure. Initially, a 5 cc retrobulbar injection of 2% Xylocaine was done. Then, a lid speculum was inserted and the conjunctiva was incised 4 mm posterior to the limbus. A 2-0 silk traction suture was placed around the insertion of the lateral rectus muscle and, with gentle traction, the temporal one-half of the globe was exposed. The plaque was positioned on the scleral surface immediately behind the macula and secured with two sutures of 5-0 Dacron. The placement was confirmed with indirect ophthalmoscopy. Next, the eye was irrigated with Neosporin and the conjunctiva was closed with 6-0 plain catgut. The intraocular pressure was found to be within normal limits. An eye patch was applied and the patient was sent to the Recovery Room in good condition. A lateral canthotomy had been done.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS:, Macular edema, right eye.,POSTOPERATIVE DIAGNOSIS: ,Macular edema, right eye.,TITLE OF OPERATION: , Insertion of radioactive plaque, right eye with lateral canthotomy.,OPERATIVE PROCEDURE IN DETAIL: ,The patient was prepped and draped in the usual manner for a local eye procedure.",
+      "Initially, a 5 cc retrobulbar injection of 2% Xylocaine was done.",
+      "Then, a lid speculum was inserted and the conjunctiva was incised 4 mm posterior to the limbus.",
+      "A 2-0 silk traction suture was placed around the insertion of the lateral rectus muscle and, with gentle traction, the temporal one-half of the globe was exposed.",
+      "The plaque was positioned on the scleral surface immediately behind the macula and secured with two sutures of 5-0 Dacron.",
+      "The placement was confirmed with indirect ophthalmoscopy.",
+      "Next, the eye was irrigated with Neosporin and the conjunctiva was closed with 6-0 plain catgut.",
+      "The intraocular pressure was found to be within normal limits.",
+      "An eye patch was applied and the patient was sent to the Recovery Room in good condition.",
+      "A lateral canthotomy had been done."
+    ],
+    "sentence_count": 10,
+    "original_length": 1110,
+    "cleaned_length": 1098,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS:,  Macular edema, right eye.,POSTOPERATIVE DIAGNOSIS:  ,Macular edema, right eye.,TITLE OF OPERATION: , Insertion of radioactive plaque, right eye with lateral canthotomy.,OPERATIVE PROCEDURE IN DETAIL:  ,The patient was prepped and draped in the usual manner for a local eye procedure.  Initially, a 5 cc retrobulbar injection of 2% Xylocaine was done.  Then, a lid speculum was inserted and the conjunctiva was incised 4 mm posterior to the limbus.  A 2-0 silk traction suture was placed around the insertion of the lateral rectus muscle and, with gentle traction, the temporal one-half of the globe was exposed.  The plaque was positioned on the scleral surface immediately behind the macula and secured with two sutures of 5-0 Dacron.  The placement was confirmed with indirect ophthalmoscopy.  Next, the eye was irrigated with Neosporin and the conjunctiva was closed with 6-0 plain catgut.  The intraocular pressure was found to be within normal limits.  An eye patch was applied and the patient was sent to the Recovery Room in good condition.  A lateral canthotomy had been done.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS:, Macular edema, right eye.,POSTOPERATIVE DIAGNOSIS: ,Macular edema, right eye.,TITLE OF OPERATION: , Insertion of radioactive plaque, right eye with lateral canthotomy.,OPERATIVE PROCEDURE IN DETAIL: ,The patient was prepped and draped in the usual manner for a local eye procedure. Initially, a 5 cc retrobulbar injection of 2% Xylocaine was done. Then, a lid speculum was inserted and the conjunctiva was incised 4 mm posterior to the limbus. A 2-0 silk traction suture was placed around the insertion of the lateral rectus muscle and, with gentle traction, the temporal one-half of the globe was exposed. The plaque was positioned on the scleral surface immediately behind the macula and secured with two sutures of 5-0 Dacron. The placement was confirmed with indirect ophthalmoscopy. Next, the eye was irrigated with Neosporin and the conjunctiva was closed with 6-0 plain catgut. The intraocular pressure was found to be within normal limits. An eye patch was applied and the patient was sent to the Recovery Room in good condition. A lateral canthotomy had been done.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS:, Macular edema, right eye.,POSTOPERATIVE DIAGNOSIS: ,Macular edema, right eye.,TITLE OF OPERATION: , Insertion of radioactive plaque, right eye with lateral canthotomy.,OPERATIVE PROCEDURE IN DETAIL: ,The patient was prepped and draped in the usual manner for a local eye procedure.",
+      "Initially, a 5 cc retrobulbar injection of 2% Xylocaine was done.",
+      "Then, a lid speculum was inserted and the conjunctiva was incised 4 mm posterior to the limbus.",
+      "A 2-0 silk traction suture was placed around the insertion of the lateral rectus muscle and, with gentle traction, the temporal one-half of the globe was exposed.",
+      "The plaque was positioned on the scleral surface immediately behind the macula and secured with two sutures of 5-0 Dacron.",
+      "The placement was confirmed with indirect ophthalmoscopy.",
+      "Next, the eye was irrigated with Neosporin and the conjunctiva was closed with 6-0 plain catgut.",
+      "The intraocular pressure was found to be within normal limits.",
+      "An eye patch was applied and the patient was sent to the Recovery Room in good condition.",
+      "A lateral canthotomy had been done."
+    ],
+    "sentence_count": 10
+  }
+}

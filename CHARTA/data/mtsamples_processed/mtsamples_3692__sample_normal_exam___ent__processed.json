@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3692__sample_normal_exam___ent_.txt",
+    "file_name": "mtsamples_3692__sample_normal_exam___ent_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1485,
+    "processed_at": "2026-05-09T09:54:26.232399"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3692__sample_normal_exam___ent_.txt",
+    "text": "NASAL EXAM: , The nose is grossly in the midline with no evidence of fractures or dislocations.  The nasal septum is roughly in the midline with pale boggy mucosa and moderately enlarged inferior turbinates.  There is no pus or polyps in the nose on anterior rhinoscopy.  The airway appears adequate.  No external valve prolapses are observed.,THROAT EXAM: , The oral cavity is clear.  The tongue is clear with no lesions noted and with good symmetrical movement.  The parotid and submaxillary ducts are producing clear mucus with no evidence of stones or infection.  Palate is clear.  The tonsils are not prominent.,No overt neoplasms in the mouth are noted.  Lips are clear.  The voice is adequate no deficits or hoarseness.  The saliva is clear.,EARS:  ,Canals are clear.  Eardrums are clear, moving on insufflation and swallowing.  No discharge is noted in the canals.  Hearing appears adequate in normal tonal conversations.,NECK EXAM: , Neck is supple with no palpable masses.  No lymphadenopathy.  The thyroid gland is not palpable.  The trachea is in the midline.  The parotid and submaxillary glands are not enlarged, are symmetrical and are not tender.  The neck movement is adequate.,GROSS NEUROLOGICAL EXAM: , Cranial nerves II-XII are intact.  Extraocular movements are full with no restrictions.  Patient is alert and responsive.,EYE EXAM: , Sclerae are clear.  Conjunctivae are clear.  Pupils respond symmetrically to light.  Extraocular movements are complete and full.",
+    "char_count": 1485,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "NASAL EXAM: , The nose is grossly in the midline with no evidence of fractures or dislocations. The nasal septum is roughly in the midline with pale boggy mucosa and moderately enlarged inferior turbinates. There is no pus or polyps in the nose on anterior rhinoscopy. The airway appears adequate. No external valve prolapses are observed.,THROAT EXAM: , The oral cavity is clear. The tongue is clear with no lesions noted and with good symmetrical movement. The parotid and submaxillary ducts are producing clear mucus with no evidence of stones or infection. Palate is clear. The tonsils are not prominent.,No overt neoplasms in the mouth are noted. Lips are clear. The voice is adequate no deficits or hoarseness. The saliva is clear.,EARS: ,Canals are clear. Eardrums are clear, moving on insufflation and swallowing. No discharge is noted in the canals. Hearing appears adequate in normal tonal conversations.,NECK EXAM: , Neck is supple with no palpable masses. No lymphadenopathy. The thyroid gland is not palpable. The trachea is in the midline. The parotid and submaxillary glands are not enlarged, are symmetrical and are not tender. The neck movement is adequate.,GROSS NEUROLOGICAL EXAM: , Cranial nerves II-XII are intact. Extraocular movements are full with no restrictions. Patient is alert and responsive.,EYE EXAM: , Sclerae are clear. Conjunctivae are clear. Pupils respond symmetrically to light. Extraocular movements are complete and full.",
+    "sentences": [
+      "NASAL EXAM: , The nose is grossly in the midline with no evidence of fractures or dislocations.",
+      "The nasal septum is roughly in the midline with pale boggy mucosa and moderately enlarged inferior turbinates.",
+      "There is no pus or polyps in the nose on anterior rhinoscopy.",
+      "The airway appears adequate.",
+      "No external valve prolapses are observed.,THROAT EXAM: , The oral cavity is clear.",
+      "The tongue is clear with no lesions noted and with good symmetrical movement.",
+      "The parotid and submaxillary ducts are producing clear mucus with no evidence of stones or infection.",
+      "Palate is clear.",
+      "The tonsils are not prominent.,No overt neoplasms in the mouth are noted.",
+      "Lips are clear.",
+      "The voice is adequate no deficits or hoarseness.",
+      "The saliva is clear.,EARS: ,Canals are clear.",
+      "Eardrums are clear, moving on insufflation and swallowing.",
+      "No discharge is noted in the canals.",
+      "Hearing appears adequate in normal tonal conversations.,NECK EXAM: , Neck is supple with no palpable masses.",
+      "No lymphadenopathy.",
+      "The thyroid gland is not palpable.",
+      "The trachea is in the midline.",
+      "The parotid and submaxillary glands are not enlarged, are symmetrical and are not tender.",
+      "The neck movement is adequate.,GROSS NEUROLOGICAL EXAM: , Cranial nerves II-XII are intact.",
+      "Extraocular movements are full with no restrictions.",
+      "Patient is alert and responsive.,EYE EXAM: , Sclerae are clear.",
+      "Conjunctivae are clear.",
+      "Pupils respond symmetrically to light.",
+      "Extraocular movements are complete and full."
+    ],
+    "sentence_count": 25,
+    "original_length": 1485,
+    "cleaned_length": 1460,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "NASAL EXAM: , The nose is grossly in the midline with no evidence of fractures or dislocations.  The nasal septum is roughly in the midline with pale boggy mucosa and moderately enlarged inferior turbinates.  There is no pus or polyps in the nose on anterior rhinoscopy.  The airway appears adequate.  No external valve prolapses are observed.,THROAT EXAM: , The oral cavity is clear.  The tongue is clear with no lesions noted and with good symmetrical movement.  The parotid and submaxillary ducts are producing clear mucus with no evidence of stones or infection.  Palate is clear.  The tonsils are not prominent.,No overt neoplasms in the mouth are noted.  Lips are clear.  The voice is adequate no deficits or hoarseness.  The saliva is clear.,EARS:  ,Canals are clear.  Eardrums are clear, moving on insufflation and swallowing.  No discharge is noted in the canals.  Hearing appears adequate in normal tonal conversations.,NECK EXAM: , Neck is supple with no palpable masses.  No lymphadenopathy.  The thyroid gland is not palpable.  The trachea is in the midline.  The parotid and submaxillary glands are not enlarged, are symmetrical and are not tender.  The neck movement is adequate.,GROSS NEUROLOGICAL EXAM: , Cranial nerves II-XII are intact.  Extraocular movements are full with no restrictions.  Patient is alert and responsive.,EYE EXAM: , Sclerae are clear.  Conjunctivae are clear.  Pupils respond symmetrically to light.  Extraocular movements are complete and full.",
+    "cleaned_text": "NASAL EXAM: , The nose is grossly in the midline with no evidence of fractures or dislocations. The nasal septum is roughly in the midline with pale boggy mucosa and moderately enlarged inferior turbinates. There is no pus or polyps in the nose on anterior rhinoscopy. The airway appears adequate. No external valve prolapses are observed.,THROAT EXAM: , The oral cavity is clear. The tongue is clear with no lesions noted and with good symmetrical movement. The parotid and submaxillary ducts are producing clear mucus with no evidence of stones or infection. Palate is clear. The tonsils are not prominent.,No overt neoplasms in the mouth are noted. Lips are clear. The voice is adequate no deficits or hoarseness. The saliva is clear.,EARS: ,Canals are clear. Eardrums are clear, moving on insufflation and swallowing. No discharge is noted in the canals. Hearing appears adequate in normal tonal conversations.,NECK EXAM: , Neck is supple with no palpable masses. No lymphadenopathy. The thyroid gland is not palpable. The trachea is in the midline. The parotid and submaxillary glands are not enlarged, are symmetrical and are not tender. The neck movement is adequate.,GROSS NEUROLOGICAL EXAM: , Cranial nerves II-XII are intact. Extraocular movements are full with no restrictions. Patient is alert and responsive.,EYE EXAM: , Sclerae are clear. Conjunctivae are clear. Pupils respond symmetrically to light. Extraocular movements are complete and full.",
+    "sentences": [
+      "NASAL EXAM: , The nose is grossly in the midline with no evidence of fractures or dislocations.",
+      "The nasal septum is roughly in the midline with pale boggy mucosa and moderately enlarged inferior turbinates.",
+      "There is no pus or polyps in the nose on anterior rhinoscopy.",
+      "The airway appears adequate.",
+      "No external valve prolapses are observed.,THROAT EXAM: , The oral cavity is clear.",
+      "The tongue is clear with no lesions noted and with good symmetrical movement.",
+      "The parotid and submaxillary ducts are producing clear mucus with no evidence of stones or infection.",
+      "Palate is clear.",
+      "The tonsils are not prominent.,No overt neoplasms in the mouth are noted.",
+      "Lips are clear.",
+      "The voice is adequate no deficits or hoarseness.",
+      "The saliva is clear.,EARS: ,Canals are clear.",
+      "Eardrums are clear, moving on insufflation and swallowing.",
+      "No discharge is noted in the canals.",
+      "Hearing appears adequate in normal tonal conversations.,NECK EXAM: , Neck is supple with no palpable masses.",
+      "No lymphadenopathy.",
+      "The thyroid gland is not palpable.",
+      "The trachea is in the midline.",
+      "The parotid and submaxillary glands are not enlarged, are symmetrical and are not tender.",
+      "The neck movement is adequate.,GROSS NEUROLOGICAL EXAM: , Cranial nerves II-XII are intact.",
+      "Extraocular movements are full with no restrictions.",
+      "Patient is alert and responsive.,EYE EXAM: , Sclerae are clear.",
+      "Conjunctivae are clear.",
+      "Pupils respond symmetrically to light.",
+      "Extraocular movements are complete and full."
+    ],
+    "sentence_count": 25
+  }
+}

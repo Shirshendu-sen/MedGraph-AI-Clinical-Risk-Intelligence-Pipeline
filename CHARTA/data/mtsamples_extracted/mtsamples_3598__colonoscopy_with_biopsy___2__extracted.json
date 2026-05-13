@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3598__colonoscopy_with_biopsy___2_.txt",
+    "file_name": "mtsamples_3598__colonoscopy_with_biopsy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1928,
+    "processed_at": "2026-05-09T09:54:24.740892"
+  },
+  "entities": [
+    {
+      "text": "colitis",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 143,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "abdominal pains",
+      "label": "DISEASE",
+      "start_char": 217,
+      "end_char": 232,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pains",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "ulcers",
+      "label": "DISEASE",
+      "start_char": 261,
+      "end_char": 267,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ulcers",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "right abdominal pains",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 56,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right abdominal pains",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 77,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "seizures",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "Fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 59,
+      "end_char": 67,
+      "sentence_idx": 3,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "Phenergan",
+      "label": "CHEMICAL",
+      "start_char": 91,
+      "end_char": 100,
+      "sentence_idx": 3,
+      "concept_id": "C0591971",
+      "concept_name": "Phenergan",
+      "kb_source": "rxnorm",
+      "link_score": 0.9641264081001282,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 356,
+      "end_char": 364,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 366,
+      "end_char": 375,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "perforation",
+      "label": "DISEASE",
+      "start_char": 377,
+      "end_char": 388,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "allergic reaction",
+      "label": "DISEASE",
+      "start_char": 394,
+      "end_char": 411,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergic reaction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "polyps",
+      "label": "DISEASE",
+      "start_char": 470,
+      "end_char": 476,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "hemorrhoids",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 26,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "None.,ASSESSMENT:,1",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 109,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "None.,ASSESSMENT:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "antidepressants",
+      "label": "CHEMICAL",
+      "start_char": 84,
+      "end_char": 99,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "antidepressants",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    },
+    {
+      "text": "abdominal pains",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 49,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pains",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-02-10"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "3 months ago",
+      "start_char": 162,
+      "end_char": 174
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2407__electronystagmogram_.txt",
+    "file_name": "mtsamples_2407__electronystagmogram_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1948,
+    "processed_at": "2026-05-09T09:54:01.215378"
+  },
+  "entities": [
+    {
+      "text": "silver chloride",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 63,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "silver chloride",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nystagmus",
+      "label": "DISEASE",
+      "start_char": 177,
+      "end_char": 186,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nystagmus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dysmetria",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 59,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysmetria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nystagmus",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 21,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nystagmus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dix-Hallpike maneuver",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 25,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dix-Hallpike maneuver",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nystagmus",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 113,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nystagmus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nystagmus",
+      "label": "DISEASE",
+      "start_char": 154,
+      "end_char": 163,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nystagmus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dizziness",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 42,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dizziness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nystagmus",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 59,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nystagmus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Abnormal electronystagmogram",
+      "label": "DISEASE",
+      "start_char": 355,
+      "end_char": 383,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Abnormal electronystagmogram",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nystagmus",
+      "label": "DISEASE",
+      "start_char": 408,
+      "end_char": 417,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nystagmus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nystagmus",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 30,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nystagmus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "a right vestibular dysfunction",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 71,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "a right vestibular dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

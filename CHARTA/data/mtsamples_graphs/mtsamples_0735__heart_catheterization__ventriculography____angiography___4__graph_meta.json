@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_0735__heart_catheterization__ventriculography____angiography___4_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 26,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0019134": 1,
+    "C0950902": 2,
+    "C0017887": 3,
+    "C0039738": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0735__heart_catheterization__ventriculography____angiography___4__graph.pt",
+  "source_dataset": "mtsamples_0735__heart_catheterization__ventriculography____angiography___4"
+}

@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4650__pulmonary_function_test___4_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 8,
+  "entity_index": {
+    "C3536832": 0,
+    "UNKNOWN": 1,
+    "C0030054": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4650__pulmonary_function_test___4__graph.pt",
+  "source_dataset": "mtsamples_4650__pulmonary_function_test___4"
+}

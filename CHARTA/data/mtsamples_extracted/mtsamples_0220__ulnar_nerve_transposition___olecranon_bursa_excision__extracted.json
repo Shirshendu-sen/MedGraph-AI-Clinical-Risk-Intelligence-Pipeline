@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0220__ulnar_nerve_transposition___olecranon_bursa_excision_.txt",
+    "file_name": "mtsamples_0220__ulnar_nerve_transposition___olecranon_bursa_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2838,
+    "processed_at": "2026-05-09T09:53:09.503451"
+  },
+  "entities": [
+    {
+      "text": "Right carpal tunnel syndrome.,3",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 31,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right carpal tunnel syndrome.,3",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right olecranon bursitis.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 39,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right olecranon bursitis.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right carpal tunnel syndrome.,3",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 31,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right carpal tunnel syndrome.,3",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right olecranon bursitis.,PROCEDURES",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 36,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right olecranon bursitis.,PROCEDURES",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "olecranon bursa.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 45,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "olecranon bursa.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subluxing",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 41,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "olecranon",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 105,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "olecranon",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertrophic bursa",
+      "label": "DISEASE",
+      "start_char": 221,
+      "end_char": 239,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertrophic bursa",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

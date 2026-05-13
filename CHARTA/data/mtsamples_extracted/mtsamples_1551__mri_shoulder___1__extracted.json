@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1551__mri_shoulder___1_.txt",
+    "file_name": "mtsamples_1551__mri_shoulder___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 530,
+    "processed_at": "2026-05-09T09:53:44.322909"
+  },
+  "entities": [
+    {
+      "text": "shoulder pain",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 65,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

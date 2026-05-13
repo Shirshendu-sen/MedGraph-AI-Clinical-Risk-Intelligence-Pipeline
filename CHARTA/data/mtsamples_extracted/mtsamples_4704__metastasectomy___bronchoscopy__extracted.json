@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4704__metastasectomy___bronchoscopy_.txt",
+    "file_name": "mtsamples_4704__metastasectomy___bronchoscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4783,
+    "processed_at": "2026-05-09T09:54:43.616228"
+  },
+  "entities": [
+    {
+      "text": "renal cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 193,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "renal cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lower lobe diaphragmatic",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 36,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower lobe diaphragmatic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleural abnormalities",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 46,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 80,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 140,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumors",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 39,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palpable",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 117,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palpable",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

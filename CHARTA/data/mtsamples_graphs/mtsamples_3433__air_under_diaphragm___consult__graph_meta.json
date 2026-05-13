@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_3433__air_under_diaphragm___consult_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 24,
+  "entity_index": {
+    "C0699194": 0,
+    "UNKNOWN": 1,
+    "C0037473": 2,
+    "C0596019": 3,
+    "C0032821": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3433__air_under_diaphragm___consult__graph.pt",
+  "source_dataset": "mtsamples_3433__air_under_diaphragm___consult"
+}

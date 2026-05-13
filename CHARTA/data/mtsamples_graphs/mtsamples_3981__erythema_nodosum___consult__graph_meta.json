@@ -1,0 +1,26 @@
+{
+  "patient_id": "mtsamples_3981__erythema_nodosum___consult_",
+  "num_entities": 13,
+  "num_visits": 1,
+  "num_edges": 225,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0302583": 1,
+    "C0032952": 2,
+    "C0009262": 3,
+    "C0030346": 4,
+    "C0042866": 5,
+    "C0006675": 6,
+    "C0034665": 7,
+    "C0010294": 8,
+    "C0042845": 9,
+    "C0026926": 10,
+    "C0025270": 11,
+    "C0014695": 12
+  },
+  "visit_dates": [
+    "2007-04-23"
+  ],
+  "graph_file": "mtsamples_3981__erythema_nodosum___consult__graph.pt",
+  "source_dataset": "mtsamples_3981__erythema_nodosum___consult"
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0066__prostate_adenocarcinoma___2_.txt",
+    "file_name": "mtsamples_0066__prostate_adenocarcinoma___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1585,
+    "processed_at": "2026-05-09T09:53:05.247178"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0066__prostate_adenocarcinoma___2_.txt",
+    "text": "PHYSICAL EXAMINATION:,  This 71-year-old man went to his primary care physician for a routine physical.  His only complaints were nocturia times two and a gradual \"slowing down\" feeling.  The physical examination on 1/29 was within normal limits except for the digital rectal exam which revealed an asymmetric prostate gland with nodularity, R>L.  PSA was elevated.  The differential diagnosis for the visit was abnormal prostate, suggestive of CA.,IMAGING:  ,CT pelvis:  Irregular indentation of bladder.  Seminal vesicles enlarged.  Streaky densities in periprostatic fat consistent with transcapular spread to periprostatic plexus.  Impression:  prostatic malignancy with extracapsular extension and probable regional node metastasis.,Bone scan:  Negative for distant metastasis.,LABORATORY:,  PSA 32.1,PROCEDURES:,  Transrectal needle biopsy of prostate.  Pelvic lymphadenectomy and radical prostatectomy.,PATHOLOGY:  ,Prostate biopsy:  Moderate to poorly differentiated adenocarcinoma in the right lobe and poorly differentiated tubular adenocarcinoma in the left lobe of prostate.,Lymphadenectomy and prostatectomy:  Frozen section of removed pelvic lymph nodes demonstrated metastatic adenocarcinoma in one lymph node in the right obturator fossa.  Therefore, the radical prostatectomy was canceled.  ,Final pathology diagnosis:  Pelvic lymphadenectomy; left obturator fossa, single negative lymph node.  Right obturator fossa; metastatic adenocarcinoma in 1/5 lymph nodes.  Largest involved node 1.5 cm.,TREATMENT: , Patient began external beam radiation therapy to the pelvis.",
+    "char_count": 1585,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PHYSICAL EXAMINATION:, This 71-year-old man went to his primary care physician for a routine physical. His only complaints were nocturia times two and a gradual \"slowing down\" feeling. The physical examination on 1/29 was within normal limits except for the digital rectal exam which revealed an asymmetric prostate gland with nodularity, R>L. PSA was elevated. The differential diagnosis for the visit was abnormal prostate, suggestive of CA.,IMAGING: ,CT pelvis: Irregular indentation of bladder. Seminal vesicles enlarged. Streaky densities in periprostatic fat consistent with transcapular spread to periprostatic plexus. Impression: prostatic malignancy with extracapsular extension and probable regional node metastasis.,Bone scan: Negative for distant metastasis.,LABORATORY:, PSA 32.1,PROCEDURES:, Transrectal needle biopsy of prostate. Pelvic lymphadenectomy and radical prostatectomy.,PATHOLOGY: ,Prostate biopsy: Moderate to poorly differentiated adenocarcinoma in the right lobe and poorly differentiated tubular adenocarcinoma in the left lobe of prostate.,Lymphadenectomy and prostatectomy: Frozen section of removed pelvic lymph nodes demonstrated metastatic adenocarcinoma in one lymph node in the right obturator fossa. Therefore, the radical prostatectomy was canceled. ,Final pathology diagnosis: Pelvic lymphadenectomy; left obturator fossa, single negative lymph node. Right obturator fossa; metastatic adenocarcinoma in 1/5 lymph nodes. Largest involved node 1.5 cm.,TREATMENT: , Patient began external beam radiation therapy to the pelvis.",
+    "sentences": [
+      "PHYSICAL EXAMINATION:, This 71-year-old man went to his primary care physician for a routine physical.",
+      "His only complaints were nocturia times two and a gradual \"slowing down\" feeling.",
+      "The physical examination on 1/29 was within normal limits except for the digital rectal exam which revealed an asymmetric prostate gland with nodularity, R>L.",
+      "PSA was elevated.",
+      "The differential diagnosis for the visit was abnormal prostate, suggestive of CA.,IMAGING: ,CT pelvis: Irregular indentation of bladder.",
+      "Seminal vesicles enlarged.",
+      "Streaky densities in periprostatic fat consistent with transcapular spread to periprostatic plexus.",
+      "Impression: prostatic malignancy with extracapsular extension and probable regional node metastasis.,Bone scan: Negative for distant metastasis.,LABORATORY:, PSA 32.1,PROCEDURES:, Transrectal needle biopsy of prostate.",
+      "Pelvic lymphadenectomy and radical prostatectomy.,PATHOLOGY: ,Prostate biopsy: Moderate to poorly differentiated adenocarcinoma in the right lobe and poorly differentiated tubular adenocarcinoma in the left lobe of prostate.,Lymphadenectomy and prostatectomy: Frozen section of removed pelvic lymph nodes demonstrated metastatic adenocarcinoma in one lymph node in the right obturator fossa.",
+      "Therefore, the radical prostatectomy was canceled. ,Final pathology diagnosis: Pelvic lymphadenectomy; left obturator fossa, single negative lymph node.",
+      "Right obturator fossa; metastatic adenocarcinoma in 1/5 lymph nodes.",
+      "Largest involved node 1.5 cm.,TREATMENT: , Patient began external beam radiation therapy to the pelvis."
+    ],
+    "sentence_count": 12,
+    "original_length": 1585,
+    "cleaned_length": 1562,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PHYSICAL EXAMINATION:,  This 71-year-old man went to his primary care physician for a routine physical.  His only complaints were nocturia times two and a gradual \"slowing down\" feeling.  The physical examination on 1/29 was within normal limits except for the digital rectal exam which revealed an asymmetric prostate gland with nodularity, R>L.  PSA was elevated.  The differential diagnosis for the visit was abnormal prostate, suggestive of CA.,IMAGING:  ,CT pelvis:  Irregular indentation of bladder.  Seminal vesicles enlarged.  Streaky densities in periprostatic fat consistent with transcapular spread to periprostatic plexus.  Impression:  prostatic malignancy with extracapsular extension and probable regional node metastasis.,Bone scan:  Negative for distant metastasis.,LABORATORY:,  PSA 32.1,PROCEDURES:,  Transrectal needle biopsy of prostate.  Pelvic lymphadenectomy and radical prostatectomy.,PATHOLOGY:  ,Prostate biopsy:  Moderate to poorly differentiated adenocarcinoma in the right lobe and poorly differentiated tubular adenocarcinoma in the left lobe of prostate.,Lymphadenectomy and prostatectomy:  Frozen section of removed pelvic lymph nodes demonstrated metastatic adenocarcinoma in one lymph node in the right obturator fossa.  Therefore, the radical prostatectomy was canceled.  ,Final pathology diagnosis:  Pelvic lymphadenectomy; left obturator fossa, single negative lymph node.  Right obturator fossa; metastatic adenocarcinoma in 1/5 lymph nodes.  Largest involved node 1.5 cm.,TREATMENT: , Patient began external beam radiation therapy to the pelvis.",
+    "cleaned_text": "PHYSICAL EXAMINATION:, This 71-year-old man went to his primary care physician for a routine physical. His only complaints were nocturia times two and a gradual \"slowing down\" feeling. The physical examination on 1/29 was within normal limits except for the digital rectal exam which revealed an asymmetric prostate gland with nodularity, R>L. PSA was elevated. The differential diagnosis for the visit was abnormal prostate, suggestive of CA.,IMAGING: ,CT pelvis: Irregular indentation of bladder. Seminal vesicles enlarged. Streaky densities in periprostatic fat consistent with transcapular spread to periprostatic plexus. Impression: prostatic malignancy with extracapsular extension and probable regional node metastasis.,Bone scan: Negative for distant metastasis.,LABORATORY:, PSA 32.1,PROCEDURES:, Transrectal needle biopsy of prostate. Pelvic lymphadenectomy and radical prostatectomy.,PATHOLOGY: ,Prostate biopsy: Moderate to poorly differentiated adenocarcinoma in the right lobe and poorly differentiated tubular adenocarcinoma in the left lobe of prostate.,Lymphadenectomy and prostatectomy: Frozen section of removed pelvic lymph nodes demonstrated metastatic adenocarcinoma in one lymph node in the right obturator fossa. Therefore, the radical prostatectomy was canceled. ,Final pathology diagnosis: Pelvic lymphadenectomy; left obturator fossa, single negative lymph node. Right obturator fossa; metastatic adenocarcinoma in 1/5 lymph nodes. Largest involved node 1.5 cm.,TREATMENT: , Patient began external beam radiation therapy to the pelvis.",
+    "sentences": [
+      "PHYSICAL EXAMINATION:, This 71-year-old man went to his primary care physician for a routine physical.",
+      "His only complaints were nocturia times two and a gradual \"slowing down\" feeling.",
+      "The physical examination on 1/29 was within normal limits except for the digital rectal exam which revealed an asymmetric prostate gland with nodularity, R>L.",
+      "PSA was elevated.",
+      "The differential diagnosis for the visit was abnormal prostate, suggestive of CA.,IMAGING: ,CT pelvis: Irregular indentation of bladder.",
+      "Seminal vesicles enlarged.",
+      "Streaky densities in periprostatic fat consistent with transcapular spread to periprostatic plexus.",
+      "Impression: prostatic malignancy with extracapsular extension and probable regional node metastasis.,Bone scan: Negative for distant metastasis.,LABORATORY:, PSA 32.1,PROCEDURES:, Transrectal needle biopsy of prostate.",
+      "Pelvic lymphadenectomy and radical prostatectomy.,PATHOLOGY: ,Prostate biopsy: Moderate to poorly differentiated adenocarcinoma in the right lobe and poorly differentiated tubular adenocarcinoma in the left lobe of prostate.,Lymphadenectomy and prostatectomy: Frozen section of removed pelvic lymph nodes demonstrated metastatic adenocarcinoma in one lymph node in the right obturator fossa.",
+      "Therefore, the radical prostatectomy was canceled. ,Final pathology diagnosis: Pelvic lymphadenectomy; left obturator fossa, single negative lymph node.",
+      "Right obturator fossa; metastatic adenocarcinoma in 1/5 lymph nodes.",
+      "Largest involved node 1.5 cm.,TREATMENT: , Patient began external beam radiation therapy to the pelvis."
+    ],
+    "sentence_count": 12
+  }
+}

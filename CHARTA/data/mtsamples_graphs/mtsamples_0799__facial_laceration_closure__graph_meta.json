@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_0799__facial_laceration_closure_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 16,
+  "entity_index": {
+    "C0023660": 0,
+    "C0014563": 1,
+    "UNKNOWN": 2,
+    "C0004599": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0799__facial_laceration_closure__graph.pt",
+  "source_dataset": "mtsamples_0799__facial_laceration_closure"
+}

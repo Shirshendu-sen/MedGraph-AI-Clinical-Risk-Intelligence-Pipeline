@@ -1,0 +1,506 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2810__mri_brain___cerebral_angiogram_.txt",
+    "file_name": "mtsamples_2810__mri_brain___cerebral_angiogram_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5412,
+    "processed_at": "2026-05-09T09:54:08.916557"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "sudden onset word finding difficulty and slurred speech",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 122,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sudden onset word finding difficulty and slurred speech",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 35,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "diplopia",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diplopia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "neck stiffness",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 59,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neck stiffness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 46,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 59,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "tongue.,For",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 70,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tongue.,For",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "ASA",
+      "label": "CHEMICAL",
+      "start_char": 91,
+      "end_char": 94,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ASA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 136,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "loss of consciousness",
+      "label": "DISEASE",
+      "start_char": 209,
+      "end_char": 230,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of consciousness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "Anxiety",
+      "label": "DISEASE",
+      "start_char": 241,
+      "end_char": 248,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Anxiety",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "herbicide",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 46,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herbicide",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "EOM",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EOM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "papilledema",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 14,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "papilledema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "hemorrhages",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 29,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhages",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "INO",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 14,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "INO",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "ANA",
+      "label": "CHEMICAL",
+      "start_char": 112,
+      "end_char": 115,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ANA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "UA",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 15,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "UA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "RMCA",
+      "label": "CHEMICAL",
+      "start_char": 81,
+      "end_char": 85,
+      "sentence_idx": 34,
+      "concept_id": "C0600203",
+      "concept_name": "DCA",
+      "kb_source": "rxnorm",
+      "link_score": 1.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "aneurysm",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 26,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "retinal vasculitic",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 129,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retinal vasculitic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "Prednisone",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 29,
+      "sentence_idx": 41,
+      "concept_id": "C0032952",
+      "concept_name": "prednisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9636675715446472,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "Tagamet",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 49,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tagamet",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "qhs.,On",
+      "label": "CHEMICAL",
+      "start_char": 56,
+      "end_char": 63,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "qhs.,On",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "necrosis",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 57,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "vasculitis",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 105,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vasculitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "sudden onset right hemiparesis and transcortical motor type aphasia",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 157,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sudden onset right hemiparesis and transcortical motor type aphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "Cytoxan",
+      "label": "CHEMICAL",
+      "start_char": 70,
+      "end_char": 77,
+      "sentence_idx": 47,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cytoxan",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "Cytoxan",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 50,
+      "sentence_idx": 48,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cytoxan",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "cognitive deficits",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 87,
+      "sentence_idx": 50,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cognitive deficits",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "Cytoxan",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 37,
+      "sentence_idx": 52,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cytoxan",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "paresthesias",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 49,
+      "sentence_idx": 53,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paresthesias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    },
+    {
+      "text": "ischemia",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 54,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-02-19"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "2/19/96",
+      "start_char": 141,
+      "end_char": 148
+    },
+    {
+      "raw_text": "2/19/96",
+      "start_char": 277,
+      "end_char": 284
+    },
+    {
+      "raw_text": "2/20/96",
+      "start_char": 309,
+      "end_char": 316
+    },
+    {
+      "raw_text": "2/20/96",
+      "start_char": 1273,
+      "end_char": 1280
+    },
+    {
+      "raw_text": "2/3/96",
+      "start_char": 1477,
+      "end_char": 1483
+    },
+    {
+      "raw_text": "2/20/96",
+      "start_char": 1503,
+      "end_char": 1510
+    },
+    {
+      "raw_text": "2/21/96",
+      "start_char": 3088,
+      "end_char": 3095
+    },
+    {
+      "raw_text": "2/22/96",
+      "start_char": 3509,
+      "end_char": 3516
+    },
+    {
+      "raw_text": "2/23/96",
+      "start_char": 3999,
+      "end_char": 4006
+    },
+    {
+      "raw_text": "2/26/96",
+      "start_char": 4246,
+      "end_char": 4253
+    },
+    {
+      "raw_text": "2/28/96",
+      "start_char": 4672,
+      "end_char": 4679
+    },
+    {
+      "raw_text": "2/29/96",
+      "start_char": 4924,
+      "end_char": 4931
+    }
+  ]
+}

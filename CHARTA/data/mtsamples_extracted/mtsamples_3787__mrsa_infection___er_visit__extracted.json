@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3787__mrsa_infection___er_visit_.txt",
+    "file_name": "mtsamples_3787__mrsa_infection___er_visit_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3040,
+    "processed_at": "2026-05-09T09:54:27.507980"
+  },
+  "entities": [
+    {
+      "text": "bacitracin ointment",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 35,
+      "sentence_idx": 5,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.7576655149459839,
+      "timestamp": null
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 31,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "irritable",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 39,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irritable",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ill",
+      "label": "DISEASE",
+      "start_char": 145,
+      "end_char": 148,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ill",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Nares",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nares",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rashes",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 9,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rashes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 44,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bactrim",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 48,
+      "sentence_idx": 44,
+      "concept_id": "C0591139",
+      "concept_name": "Bactrim",
+      "kb_source": "rxnorm",
+      "link_score": 0.9739254117012024,
+      "timestamp": null
+    },
+    {
+      "text": "jaundice",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 38,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "jaundice",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bactroban",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 23,
+      "sentence_idx": 46,
+      "concept_id": "C0733863",
+      "concept_name": "Bactroban",
+      "kb_source": "rxnorm",
+      "link_score": 0.9752327799797058,
+      "timestamp": null
+    },
+    {
+      "text": "Herpes",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 22,
+      "sentence_idx": 49,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Herpes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aureus infection.,PLAN",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 113,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aureus infection.,PLAN",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0585__lobectomy___vats_.txt",
+    "file_name": "mtsamples_0585__lobectomy___vats_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 7207,
+    "processed_at": "2026-05-09T09:53:20.012000"
+  },
+  "entities": [
+    {
+      "text": "middle lobe tumor",
+      "label": "DISEASE",
+      "start_char": 287,
+      "end_char": 304,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "middle lobe tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-04"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 77,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-04"
+    },
+    {
+      "text": "chest wall abnormalities",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 35,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest wall abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-04"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 139,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-04"
+    },
+    {
+      "text": "pneumonitis",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 68,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-04"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-04-04"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 119,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "April 4, 2007",
+      "start_char": 1724,
+      "end_char": 1737
+    }
+  ]
+}

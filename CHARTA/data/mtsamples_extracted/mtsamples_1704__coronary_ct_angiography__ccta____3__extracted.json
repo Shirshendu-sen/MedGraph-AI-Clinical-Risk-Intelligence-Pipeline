@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1704__coronary_ct_angiography__ccta____3_.txt",
+    "file_name": "mtsamples_1704__coronary_ct_angiography__ccta____3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1106,
+    "processed_at": "2026-05-09T09:53:48.749617"
+  },
+  "entities": [
+    {
+      "text": "calcium",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 40,
+      "sentence_idx": 0,
+      "concept_id": "C0006675",
+      "concept_name": "calcium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9792689085006714,
+      "timestamp": null
+    },
+    {
+      "text": "nitroglycerin",
+      "label": "CHEMICAL",
+      "start_char": 20,
+      "end_char": 33,
+      "sentence_idx": 2,
+      "concept_id": "C0017887",
+      "concept_name": "nitroglycerin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9811209440231323,
+      "timestamp": null
+    },
+    {
+      "text": "cholesterol",
+      "label": "CHEMICAL",
+      "start_char": 102,
+      "end_char": 113,
+      "sentence_idx": 2,
+      "concept_id": "C0008377",
+      "concept_name": "cholesterol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9872146248817444,
+      "timestamp": null
+    },
+    {
+      "text": "overweight, chest pain",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 137,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "overweight, chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calcium",
+      "label": "CHEMICAL",
+      "start_char": 170,
+      "end_char": 177,
+      "sentence_idx": 2,
+      "concept_id": "C0006675",
+      "concept_name": "calcium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9792689085006714,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 296,
+      "end_char": 304,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary artery abnormality",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 37,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary artery abnormality",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

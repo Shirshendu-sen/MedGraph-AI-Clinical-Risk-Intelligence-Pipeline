@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1657__ct_neck___2_.txt",
+    "file_name": "mtsamples_1657__ct_neck___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2310,
+    "processed_at": "2026-05-09T09:53:47.751953"
+  },
+  "entities": [
+    {
+      "text": "necrosis",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 127,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 48,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleomorphic adenoma",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 69,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleomorphic adenoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "enlargement of the left jugulodigastric node",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 93,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "enlargement of the left jugulodigastric node",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "enlargement of the right jugulodigastric node",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 59,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "enlargement of the right jugulodigastric node",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "enlargement of the spinal accessory or pretracheal nodal",
+      "label": "DISEASE",
+      "start_char": 161,
+      "end_char": 217,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "enlargement of the spinal accessory or pretracheal nodal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 48,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleomorphic adenoma",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 69,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleomorphic adenoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hyperplasia",
+      "label": "DISEASE",
+      "start_char": 327,
+      "end_char": 338,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperplasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

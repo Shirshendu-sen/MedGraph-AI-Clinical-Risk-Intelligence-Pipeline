@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3146__concomitant_chemoradiotherapy_.txt",
+    "file_name": "mtsamples_3146__concomitant_chemoradiotherapy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1204,
+    "processed_at": "2026-05-09T09:54:15.568883"
+  },
+  "entities": [
+    {
+      "text": "CHEMORADIOTHERAPY",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 29,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CHEMORADIOTHERAPY",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cancer",
+      "label": "DISEASE",
+      "start_char": 179,
+      "end_char": 185,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 178,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

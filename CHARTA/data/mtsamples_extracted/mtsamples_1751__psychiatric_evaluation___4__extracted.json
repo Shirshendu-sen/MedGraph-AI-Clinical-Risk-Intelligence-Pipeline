@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1751__psychiatric_evaluation___4_.txt",
+    "file_name": "mtsamples_1751__psychiatric_evaluation___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3759,
+    "processed_at": "2026-05-09T09:53:49.499912"
+  },
+  "entities": [
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 34,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "insomnia",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 74,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "insomnia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "irritable",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 21,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irritable",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "verbal altercations",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 49,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "verbal altercations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 286,
+      "end_char": 296,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "ADHD",
+      "label": "DISEASE",
+      "start_char": 435,
+      "end_char": 439,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ADHD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "Attention Deficit Hyperactivity Disorder",
+      "label": "DISEASE",
+      "start_char": 441,
+      "end_char": 481,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Attention Deficit Hyperactivity Disorder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "Bipolar Disorder",
+      "label": "DISEASE",
+      "start_char": 587,
+      "end_char": 603,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bipolar Disorder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "ADHD",
+      "label": "DISEASE",
+      "start_char": 624,
+      "end_char": 628,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ADHD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 633,
+      "end_char": 640,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "eczema",
+      "label": "DISEASE",
+      "start_char": 703,
+      "end_char": 709,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "eczema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "seizure",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 30,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "head injury",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 45,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "loss of consciousness",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 33,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of consciousness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "jaundice",
+      "label": "DISEASE",
+      "start_char": 139,
+      "end_char": 147,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "jaundice",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    },
+    {
+      "text": "eczema",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 158,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "eczema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-19"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "07/19/04",
+      "start_char": 543,
+      "end_char": 551
+    },
+    {
+      "raw_text": "07/20/04",
+      "start_char": 3170,
+      "end_char": 3178
+    }
+  ]
+}

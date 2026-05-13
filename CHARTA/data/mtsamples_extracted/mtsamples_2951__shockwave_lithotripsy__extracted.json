@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2951__shockwave_lithotripsy_.txt",
+    "file_name": "mtsamples_2951__shockwave_lithotripsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1894,
+    "processed_at": "2026-05-09T09:54:11.241544"
+  },
+  "entities": [
+    {
+      "text": "right renal stone",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 124,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right renal stone",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right UPJ stone",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 144,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right UPJ stone",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right UPJ stone",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 19,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right UPJ stone",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 28,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 39,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 45,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "DVT",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 54,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PE",
+      "label": "CHEMICAL",
+      "start_char": 56,
+      "end_char": 58,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "O2 increased",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 49,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "O2 increased",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

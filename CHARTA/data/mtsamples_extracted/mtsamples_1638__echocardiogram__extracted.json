@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1638__echocardiogram_.txt",
+    "file_name": "mtsamples_1638__echocardiogram_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1050,
+    "processed_at": "2026-05-09T09:53:47.260986"
+  },
+  "entities": [
+    {
+      "text": "pericardial effusion",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 99,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pericardial effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "identified.,The aortic root dimensions",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 142,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "identified.,The aortic root dimensions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left ventricular systolic function",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 38,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left ventricular systolic function",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cardiac valvular structures",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 123,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardiac valvular structures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mitral regurgitation",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 158,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tricuspid regurgitation",
+      "label": "DISEASE",
+      "start_char": 168,
+      "end_char": 191,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tricuspid regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tricuspid regurgitation",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 28,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tricuspid regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

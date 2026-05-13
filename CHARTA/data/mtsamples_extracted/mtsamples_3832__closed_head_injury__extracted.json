@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3832__closed_head_injury_.txt",
+    "file_name": "mtsamples_3832__closed_head_injury_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1798,
+    "processed_at": "2026-05-09T09:54:28.046551"
+  },
+  "entities": [
+    {
+      "text": "loss of consciousness",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 102,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of consciousness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "morning cough",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 29,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "morning cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Contusion",
+      "label": "DISEASE",
+      "start_char": 238,
+      "end_char": 247,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nontender.,PELVIS",
+      "label": "CHEMICAL",
+      "start_char": 173,
+      "end_char": 190,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nontender.,PELVIS",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Contusion",
+      "label": "DISEASE",
+      "start_char": 212,
+      "end_char": 221,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bone deformity",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 17,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bone deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coma",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 103,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ethanol",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 11,
+      "concept_id": "C0001962",
+      "concept_name": "ethanol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9889179468154907,
+      "timestamp": null
+    },
+    {
+      "text": "limits.,ASSESSMENT:,1",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 62,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "limits.,ASSESSMENT:,1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intra-abdominal",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 24,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intra-abdominal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 82,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "head injury",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 160,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intra-abdominal injury",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 203,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intra-abdominal injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

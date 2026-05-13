@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3063__worker_s_compensation_injury_.txt",
+    "file_name": "mtsamples_3063__worker_s_compensation_injury_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3816,
+    "processed_at": "2026-05-09T09:54:13.432019"
+  },
+  "entities": [
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 16,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "tingling or weakness",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 56,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tingling or weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 65,
+      "sentence_idx": 13,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "tetanus",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 76,
+      "sentence_idx": 21,
+      "concept_id": "C0039617",
+      "concept_name": "Clostridium tetani Toxin",
+      "kb_source": "mesh",
+      "link_score": 0.7945747971534729,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "tetanus",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 40,
+      "sentence_idx": 22,
+      "concept_id": "C0039617",
+      "concept_name": "Clostridium tetani Toxin",
+      "kb_source": "mesh",
+      "link_score": 0.7945747971534729,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "chills",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 111,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 159,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 35,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "cellulitis",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 47,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cellulitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 157,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 200,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 235,
+      "end_char": 243,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "cellulitis",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 37,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cellulitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "there.,PLAN:,1",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 63,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "there.,PLAN:,1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "tetanus diphtheria",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 33,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tetanus diphtheria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "Keflex",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 20,
+      "sentence_idx": 43,
+      "concept_id": "C0700517",
+      "concept_name": "Keflex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9780697822570801,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "q.i.d",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 42,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "q.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "redness",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 58,
+      "sentence_idx": 46,
+      "concept_id": "UNKNOWN",
+      "concept_name": "redness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-09-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 92,
+      "sentence_idx": 46,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2004-09-10"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/10/2004",
+      "start_char": 439,
+      "end_char": 449
+    }
+  ]
+}

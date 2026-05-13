@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4800__dddr_permanent_pacemaker_.txt",
+    "file_name": "mtsamples_4800__dddr_permanent_pacemaker_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4203,
+    "processed_at": "2026-05-09T09:54:44.861217"
+  },
+  "entities": [
+    {
+      "text": "bradycardia",
+      "label": "DISEASE",
+      "start_char": 161,
+      "end_char": 172,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bradycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "heart failure",
+      "label": "DISEASE",
+      "start_char": 218,
+      "end_char": 231,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "heart failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypoperfusion",
+      "label": "DISEASE",
+      "start_char": 248,
+      "end_char": 261,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypoperfusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 6,
+      "end_char": 15,
+      "sentence_idx": 8,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 32,
+      "sentence_idx": 8,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "pacemaker:,The",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 62,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pacemaker:,The",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 388,
+      "end_char": 395,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 574,
+      "end_char": 581,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ohms",
+      "label": "CHEMICAL",
+      "start_char": 682,
+      "end_char": 686,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ohms",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "brady",
+      "label": "DISEASE",
+      "start_char": 729,
+      "end_char": 734,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "brady",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

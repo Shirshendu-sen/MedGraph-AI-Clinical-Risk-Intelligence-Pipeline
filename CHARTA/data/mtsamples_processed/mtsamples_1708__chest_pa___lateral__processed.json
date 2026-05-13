@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1708__chest_pa___lateral_.txt",
+    "file_name": "mtsamples_1708__chest_pa___lateral_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 904,
+    "processed_at": "2026-05-09T09:53:48.810821"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1708__chest_pa___lateral_.txt",
+    "text": "EXAM: , Chest PA & Lateral.,REASON FOR EXAM: , Shortness of breath, evaluate for pneumothorax versus left-sided effusion.,INTERPRETATION:  ,There has been interval development of a moderate left-sided pneumothorax with near complete collapse of the left upper lobe.  The lower lobe appears aerated.  There is stable, diffuse, bilateral interstitial thickening with no definite acute air space consolidation.  The heart and pulmonary vascularity are within normal limits.  Left-sided port is seen with Groshong tip at the SVC/RA junction.  No evidence for acute fracture, malalignment, or dislocation.,IMPRESSION:,1.  Interval development of moderate left-sided pneumothorax with corresponding left lung atelectasis.,2.  Rest of visualized exam nonacute/stable.,3.  Left central line appropriately situated and stable.,4.  Preliminary report was issued at time of dictation.  Dr. X was called for results.",
+    "char_count": 904,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , Chest PA & Lateral.,REASON FOR EXAM: , Shortness of breath, evaluate for pneumothorax versus left-sided effusion.,INTERPRETATION: ,There has been interval development of a moderate left-sided pneumothorax with near complete collapse of the left upper lobe. The lower lobe appears aerated. There is stable, diffuse, bilateral interstitial thickening with no definite acute air space consolidation. The heart and pulmonary vascularity are within normal limits. Left-sided port is seen with Groshong tip at the SVC/RA junction. No evidence for acute fracture, malalignment, or dislocation.,IMPRESSION:,1. Interval development of moderate left-sided pneumothorax with corresponding left lung atelectasis.,2. Rest of visualized exam nonacute/stable.,3. Left central line appropriately situated and stable.,4. Preliminary report was issued at time of dictation. Dr. X was called for results.",
+    "sentences": [
+      "EXAM: , Chest PA & Lateral.,REASON FOR EXAM: , Shortness of breath, evaluate for pneumothorax versus left-sided effusion.,INTERPRETATION: ,There has been interval development of a moderate left-sided pneumothorax with near complete collapse of the left upper lobe.",
+      "The lower lobe appears aerated.",
+      "There is stable, diffuse, bilateral interstitial thickening with no definite acute air space consolidation.",
+      "The heart and pulmonary vascularity are within normal limits.",
+      "Left-sided port is seen with Groshong tip at the SVC/RA junction.",
+      "No evidence for acute fracture, malalignment, or dislocation.,IMPRESSION:,1.",
+      "Interval development of moderate left-sided pneumothorax with corresponding left lung atelectasis.,2.",
+      "Rest of visualized exam nonacute/stable.,3.",
+      "Left central line appropriately situated and stable.,4.",
+      "Preliminary report was issued at time of dictation.",
+      "Dr.",
+      "X was called for results."
+    ],
+    "sentence_count": 12,
+    "original_length": 904,
+    "cleaned_length": 893,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , Chest PA & Lateral.,REASON FOR EXAM: , Shortness of breath, evaluate for pneumothorax versus left-sided effusion.,INTERPRETATION:  ,There has been interval development of a moderate left-sided pneumothorax with near complete collapse of the left upper lobe.  The lower lobe appears aerated.  There is stable, diffuse, bilateral interstitial thickening with no definite acute air space consolidation.  The heart and pulmonary vascularity are within normal limits.  Left-sided port is seen with Groshong tip at the SVC/RA junction.  No evidence for acute fracture, malalignment, or dislocation.,IMPRESSION:,1.  Interval development of moderate left-sided pneumothorax with corresponding left lung atelectasis.,2.  Rest of visualized exam nonacute/stable.,3.  Left central line appropriately situated and stable.,4.  Preliminary report was issued at time of dictation.  Dr. X was called for results.",
+    "cleaned_text": "EXAM: , Chest PA & Lateral.,REASON FOR EXAM: , Shortness of breath, evaluate for pneumothorax versus left-sided effusion.,INTERPRETATION: ,There has been interval development of a moderate left-sided pneumothorax with near complete collapse of the left upper lobe. The lower lobe appears aerated. There is stable, diffuse, bilateral interstitial thickening with no definite acute air space consolidation. The heart and pulmonary vascularity are within normal limits. Left-sided port is seen with Groshong tip at the SVC/RA junction. No evidence for acute fracture, malalignment, or dislocation.,IMPRESSION:,1. Interval development of moderate left-sided pneumothorax with corresponding left lung atelectasis.,2. Rest of visualized exam nonacute/stable.,3. Left central line appropriately situated and stable.,4. Preliminary report was issued at time of dictation. Dr. X was called for results.",
+    "sentences": [
+      "EXAM: , Chest PA & Lateral.,REASON FOR EXAM: , Shortness of breath, evaluate for pneumothorax versus left-sided effusion.,INTERPRETATION: ,There has been interval development of a moderate left-sided pneumothorax with near complete collapse of the left upper lobe.",
+      "The lower lobe appears aerated.",
+      "There is stable, diffuse, bilateral interstitial thickening with no definite acute air space consolidation.",
+      "The heart and pulmonary vascularity are within normal limits.",
+      "Left-sided port is seen with Groshong tip at the SVC/RA junction.",
+      "No evidence for acute fracture, malalignment, or dislocation.,IMPRESSION:,1.",
+      "Interval development of moderate left-sided pneumothorax with corresponding left lung atelectasis.,2.",
+      "Rest of visualized exam nonacute/stable.,3.",
+      "Left central line appropriately situated and stable.,4.",
+      "Preliminary report was issued at time of dictation.",
+      "Dr.",
+      "X was called for results."
+    ],
+    "sentence_count": 12
+  }
+}

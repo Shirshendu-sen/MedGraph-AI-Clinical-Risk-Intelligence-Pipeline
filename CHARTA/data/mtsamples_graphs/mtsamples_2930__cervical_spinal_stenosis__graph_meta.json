@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2930__cervical_spinal_stenosis_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 40,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1
+  },
+  "visit_dates": [
+    "2007-06-04"
+  ],
+  "graph_file": "mtsamples_2930__cervical_spinal_stenosis__graph.pt",
+  "source_dataset": "mtsamples_2930__cervical_spinal_stenosis"
+}

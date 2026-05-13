@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0007__2_d_echocardiogram___3_.txt",
+    "file_name": "mtsamples_0007__2_d_echocardiogram___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 759,
+    "processed_at": "2026-05-09T09:53:03.011014"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0007__2_d_echocardiogram___3_.txt",
+    "text": "2-D ECHOCARDIOGRAM,Multiple views of the heart and great vessels reveal normal intracardiac and great vessel relationships.  Cardiac function is normal.  There is no significant chamber enlargement or hypertrophy.  There is no pericardial effusion or vegetations seen.  Doppler interrogation, including color flow imaging, reveals systemic venous return to the right atrium with normal tricuspid inflow.  Pulmonary outflow is normal at the valve.  Pulmonary venous return is to the left atrium.  The interatrial septum is intact.  Mitral inflow and ascending aorta flow are normal.  The aortic valve is trileaflet.  The coronary arteries appear to be normal in their origins.  The aortic arch is left-sided and patent with normal descending aorta pulsatility.",
+    "char_count": 759,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "2-D ECHOCARDIOGRAM,Multiple views of the heart and great vessels reveal normal intracardiac and great vessel relationships. Cardiac function is normal. There is no significant chamber enlargement or hypertrophy. There is no pericardial effusion or vegetations seen. Doppler interrogation, including color flow imaging, reveals systemic venous return to the right atrium with normal tricuspid inflow. Pulmonary outflow is normal at the valve. Pulmonary venous return is to the left atrium. The interatrial septum is intact. Mitral inflow and ascending aorta flow are normal. The aortic valve is trileaflet. The coronary arteries appear to be normal in their origins. The aortic arch is left-sided and patent with normal descending aorta pulsatility.",
+    "sentences": [
+      "2-D ECHOCARDIOGRAM,Multiple views of the heart and great vessels reveal normal intracardiac and great vessel relationships.",
+      "Cardiac function is normal.",
+      "There is no significant chamber enlargement or hypertrophy.",
+      "There is no pericardial effusion or vegetations seen.",
+      "Doppler interrogation, including color flow imaging, reveals systemic venous return to the right atrium with normal tricuspid inflow.",
+      "Pulmonary outflow is normal at the valve.",
+      "Pulmonary venous return is to the left atrium.",
+      "The interatrial septum is intact.",
+      "Mitral inflow and ascending aorta flow are normal.",
+      "The aortic valve is trileaflet.",
+      "The coronary arteries appear to be normal in their origins.",
+      "The aortic arch is left-sided and patent with normal descending aorta pulsatility."
+    ],
+    "sentence_count": 12,
+    "original_length": 759,
+    "cleaned_length": 748,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "2-D ECHOCARDIOGRAM,Multiple views of the heart and great vessels reveal normal intracardiac and great vessel relationships.  Cardiac function is normal.  There is no significant chamber enlargement or hypertrophy.  There is no pericardial effusion or vegetations seen.  Doppler interrogation, including color flow imaging, reveals systemic venous return to the right atrium with normal tricuspid inflow.  Pulmonary outflow is normal at the valve.  Pulmonary venous return is to the left atrium.  The interatrial septum is intact.  Mitral inflow and ascending aorta flow are normal.  The aortic valve is trileaflet.  The coronary arteries appear to be normal in their origins.  The aortic arch is left-sided and patent with normal descending aorta pulsatility.",
+    "cleaned_text": "2-D ECHOCARDIOGRAM,Multiple views of the heart and great vessels reveal normal intracardiac and great vessel relationships. Cardiac function is normal. There is no significant chamber enlargement or hypertrophy. There is no pericardial effusion or vegetations seen. Doppler interrogation, including color flow imaging, reveals systemic venous return to the right atrium with normal tricuspid inflow. Pulmonary outflow is normal at the valve. Pulmonary venous return is to the left atrium. The interatrial septum is intact. Mitral inflow and ascending aorta flow are normal. The aortic valve is trileaflet. The coronary arteries appear to be normal in their origins. The aortic arch is left-sided and patent with normal descending aorta pulsatility.",
+    "sentences": [
+      "2-D ECHOCARDIOGRAM,Multiple views of the heart and great vessels reveal normal intracardiac and great vessel relationships.",
+      "Cardiac function is normal.",
+      "There is no significant chamber enlargement or hypertrophy.",
+      "There is no pericardial effusion or vegetations seen.",
+      "Doppler interrogation, including color flow imaging, reveals systemic venous return to the right atrium with normal tricuspid inflow.",
+      "Pulmonary outflow is normal at the valve.",
+      "Pulmonary venous return is to the left atrium.",
+      "The interatrial septum is intact.",
+      "Mitral inflow and ascending aorta flow are normal.",
+      "The aortic valve is trileaflet.",
+      "The coronary arteries appear to be normal in their origins.",
+      "The aortic arch is left-sided and patent with normal descending aorta pulsatility."
+    ],
+    "sentence_count": 12
+  }
+}

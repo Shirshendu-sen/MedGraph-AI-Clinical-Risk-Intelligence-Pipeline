@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3667__tonsillectomy___adenoidectomy___3_.txt",
+    "file_name": "mtsamples_3667__tonsillectomy___adenoidectomy___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2691,
+    "processed_at": "2026-05-09T09:54:25.777118"
+  },
+  "entities": [
+    {
+      "text": "Obstructive adenotonsillar hypertrophy",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 63,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Obstructive adenotonsillar hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Obstructive adenotonsillar hypertrophy",
+      "label": "DISEASE",
+      "start_char": 127,
+      "end_char": 165,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Obstructive adenotonsillar hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pharyngitis",
+      "label": "DISEASE",
+      "start_char": 550,
+      "end_char": 561,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pharyngitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sleep-induced respiratory disturbance",
+      "label": "DISEASE",
+      "start_char": 567,
+      "end_char": 604,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sleep-induced respiratory disturbance",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Davis-type mouth",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 68,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Davis-type mouth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "McIvor-type mouth gag",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 88,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "McIvor-type mouth gag",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ropivacaine",
+      "label": "CHEMICAL",
+      "start_char": 92,
+      "end_char": 103,
+      "sentence_idx": 13,
+      "concept_id": "C0073571",
+      "concept_name": "ropivacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9624372124671936,
+      "timestamp": null
+    },
+    {
+      "text": "1:100,000 adrenal solution",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 135,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:100,000 adrenal solution",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 117,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "iodine",
+      "label": "CHEMICAL",
+      "start_char": 125,
+      "end_char": 131,
+      "sentence_idx": 15,
+      "concept_id": "C0021968",
+      "concept_name": "iodine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9429465532302856,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 125,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

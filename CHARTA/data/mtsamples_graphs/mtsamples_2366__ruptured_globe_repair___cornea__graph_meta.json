@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_2366__ruptured_globe_repair___cornea_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0722226": 1,
+    "C0040233": 2,
+    "C0594452": 3,
+    "C0592218": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2366__ruptured_globe_repair___cornea__graph.pt",
+  "source_dataset": "mtsamples_2366__ruptured_globe_repair___cornea"
+}

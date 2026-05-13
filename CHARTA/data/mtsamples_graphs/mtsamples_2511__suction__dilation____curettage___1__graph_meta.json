@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2511__suction__dilation____curettage___1_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 7,
+  "entity_index": {
+    "C0733811": 0,
+    "C0699203": 1,
+    "C0013090": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2511__suction__dilation____curettage___1__graph.pt",
+  "source_dataset": "mtsamples_2511__suction__dilation____curettage___1"
+}

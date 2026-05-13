@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2335__anterior_cervical_discectomy___arthrodesis___1_.txt",
+    "file_name": "mtsamples_2335__anterior_cervical_discectomy___arthrodesis___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4806,
+    "processed_at": "2026-05-09T09:54:00.161211"
+  },
+  "entities": [
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 47,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-03"
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 126,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-03"
+    },
+    {
+      "text": "technique.,2",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 50,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "technique.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-03"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 252,
+      "end_char": 256,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-07-03"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-07-03"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 89,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-03"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 40,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-07-03"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 138,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-03"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-03"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "07/03/2007",
+      "start_char": 1200,
+      "end_char": 1210
+    }
+  ]
+}

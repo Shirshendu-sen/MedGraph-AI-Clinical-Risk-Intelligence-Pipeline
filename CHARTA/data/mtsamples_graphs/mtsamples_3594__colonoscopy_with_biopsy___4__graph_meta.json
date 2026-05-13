@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_3594__colonoscopy_with_biopsy___4_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 17,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0032952": 1,
+    "C0015846": 2,
+    "C0030346": 3,
+    "C0033487": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3594__colonoscopy_with_biopsy___4__graph.pt",
+  "source_dataset": "mtsamples_3594__colonoscopy_with_biopsy___4"
+}

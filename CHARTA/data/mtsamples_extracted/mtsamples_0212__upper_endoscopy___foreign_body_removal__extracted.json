@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0212__upper_endoscopy___foreign_body_removal_.txt",
+    "file_name": "mtsamples_0212__upper_endoscopy___foreign_body_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1075,
+    "processed_at": "2026-05-09T09:53:09.318300"
+  },
+  "entities": [
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 65,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erosions",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erosions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophageal foreign",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 114,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophageal foreign",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

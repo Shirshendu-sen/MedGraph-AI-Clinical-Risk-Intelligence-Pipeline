@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_1364__gen_med_progress_note___9_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0004147": 2,
+    "C0699992": 3,
+    "C0008377": 4,
+    "C0719805": 5,
+    "C0592680": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1364__gen_med_progress_note___9__graph.pt",
+  "source_dataset": "mtsamples_1364__gen_med_progress_note___9"
+}

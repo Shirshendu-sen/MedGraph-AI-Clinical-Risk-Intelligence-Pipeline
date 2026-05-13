@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3049__cerebral_palsy___letter_.txt",
+    "file_name": "mtsamples_3049__cerebral_palsy___letter_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1139,
+    "processed_at": "2026-05-09T09:54:12.862075"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3049__cerebral_palsy___letter_.txt",
+    "text": "Doctor's Address,Dear Doctor:,This letter serves as an introduction to my patient, A, who will be seeing you in the near future.  He is a pleasant young man who has a diagnosis of bulbar cerebral palsy and hypotonia.  He has been treated by Dr. X through the pediatric neurology clinic.  He saw Dr. X recently and she noted that he was having difficulty with mouth breathing, which was contributing to some of his speech problems.  She also noted and confirmed that he has significant tonsillar hypertrophy.  The concern we have is whether he may benefit from surgery to remove his tonsils and improve his mouth breathing and his swallowing and speech.  Therefore, I ask for your opinion on this matter.,For his chronic allergic rhinitis symptoms, he is currently on Flonase two sprays to each nostril once a day.  He also has been taking Zyrtec 10 mg a day with only partial relief of the symptoms.  He does have an allergy to penicillin.,I appreciate your input on his care.  If you have any questions regarding, please feel free to call me through my office.  Otherwise, I look forward to hearing back from you regarding his evaluation.",
+    "char_count": 1139,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "Doctor's Address,Dear Doctor:,This letter serves as an introduction to my patient, A, who will be seeing you in the near future. He is a pleasant young man who has a diagnosis of bulbar cerebral palsy and hypotonia. He has been treated by Dr. X through the pediatric neurology clinic. He saw Dr. X recently and she noted that he was having difficulty with mouth breathing, which was contributing to some of his speech problems. She also noted and confirmed that he has significant tonsillar hypertrophy. The concern we have is whether he may benefit from surgery to remove his tonsils and improve his mouth breathing and his swallowing and speech. Therefore, I ask for your opinion on this matter.,For his chronic allergic rhinitis symptoms, he is currently on Flonase two sprays to each nostril once a day. He also has been taking Zyrtec 10 mg a day with only partial relief of the symptoms. He does have an allergy to penicillin.,I appreciate your input on his care. If you have any questions regarding, please feel free to call me through my office. Otherwise, I look forward to hearing back from you regarding his evaluation.",
+    "sentences": [
+      "Doctor's Address,Dear Doctor:,This letter serves as an introduction to my patient, A, who will be seeing you in the near future.",
+      "He is a pleasant young man who has a diagnosis of bulbar cerebral palsy and hypotonia.",
+      "He has been treated by Dr.",
+      "X through the pediatric neurology clinic.",
+      "He saw Dr.",
+      "X recently and she noted that he was having difficulty with mouth breathing, which was contributing to some of his speech problems.",
+      "She also noted and confirmed that he has significant tonsillar hypertrophy.",
+      "The concern we have is whether he may benefit from surgery to remove his tonsils and improve his mouth breathing and his swallowing and speech.",
+      "Therefore, I ask for your opinion on this matter.,For his chronic allergic rhinitis symptoms, he is currently on Flonase two sprays to each nostril once a day.",
+      "He also has been taking Zyrtec 10 mg a day with only partial relief of the symptoms.",
+      "He does have an allergy to penicillin.,I appreciate your input on his care.",
+      "If you have any questions regarding, please feel free to call me through my office.",
+      "Otherwise, I look forward to hearing back from you regarding his evaluation."
+    ],
+    "sentence_count": 13,
+    "original_length": 1139,
+    "cleaned_length": 1129,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "Doctor's Address,Dear Doctor:,This letter serves as an introduction to my patient, A, who will be seeing you in the near future.  He is a pleasant young man who has a diagnosis of bulbar cerebral palsy and hypotonia.  He has been treated by Dr. X through the pediatric neurology clinic.  He saw Dr. X recently and she noted that he was having difficulty with mouth breathing, which was contributing to some of his speech problems.  She also noted and confirmed that he has significant tonsillar hypertrophy.  The concern we have is whether he may benefit from surgery to remove his tonsils and improve his mouth breathing and his swallowing and speech.  Therefore, I ask for your opinion on this matter.,For his chronic allergic rhinitis symptoms, he is currently on Flonase two sprays to each nostril once a day.  He also has been taking Zyrtec 10 mg a day with only partial relief of the symptoms.  He does have an allergy to penicillin.,I appreciate your input on his care.  If you have any questions regarding, please feel free to call me through my office.  Otherwise, I look forward to hearing back from you regarding his evaluation.",
+    "cleaned_text": "Doctor's Address,Dear Doctor:,This letter serves as an introduction to my patient, A, who will be seeing you in the near future. He is a pleasant young man who has a diagnosis of bulbar cerebral palsy and hypotonia. He has been treated by Dr. X through the pediatric neurology clinic. He saw Dr. X recently and she noted that he was having difficulty with mouth breathing, which was contributing to some of his speech problems. She also noted and confirmed that he has significant tonsillar hypertrophy. The concern we have is whether he may benefit from surgery to remove his tonsils and improve his mouth breathing and his swallowing and speech. Therefore, I ask for your opinion on this matter.,For his chronic allergic rhinitis symptoms, he is currently on Flonase two sprays to each nostril once a day. He also has been taking Zyrtec 10 mg a day with only partial relief of the symptoms. He does have an allergy to penicillin.,I appreciate your input on his care. If you have any questions regarding, please feel free to call me through my office. Otherwise, I look forward to hearing back from you regarding his evaluation.",
+    "sentences": [
+      "Doctor's Address,Dear Doctor:,This letter serves as an introduction to my patient, A, who will be seeing you in the near future.",
+      "He is a pleasant young man who has a diagnosis of bulbar cerebral palsy and hypotonia.",
+      "He has been treated by Dr.",
+      "X through the pediatric neurology clinic.",
+      "He saw Dr.",
+      "X recently and she noted that he was having difficulty with mouth breathing, which was contributing to some of his speech problems.",
+      "She also noted and confirmed that he has significant tonsillar hypertrophy.",
+      "The concern we have is whether he may benefit from surgery to remove his tonsils and improve his mouth breathing and his swallowing and speech.",
+      "Therefore, I ask for your opinion on this matter.,For his chronic allergic rhinitis symptoms, he is currently on Flonase two sprays to each nostril once a day.",
+      "He also has been taking Zyrtec 10 mg a day with only partial relief of the symptoms.",
+      "He does have an allergy to penicillin.,I appreciate your input on his care.",
+      "If you have any questions regarding, please feel free to call me through my office.",
+      "Otherwise, I look forward to hearing back from you regarding his evaluation."
+    ],
+    "sentence_count": 13
+  }
+}

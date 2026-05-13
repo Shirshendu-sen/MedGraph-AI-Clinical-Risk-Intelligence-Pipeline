@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0668__knee_arthroplasty_.txt",
+    "file_name": "mtsamples_0668__knee_arthroplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 9990,
+    "processed_at": "2026-05-09T09:53:22.045947"
+  },
+  "entities": [
+    {
+      "text": "arthritis",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 58,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arthritis",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 132,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "knee arthroplasty",
+      "label": "DISEASE",
+      "start_char": 182,
+      "end_char": 199,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee arthroplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "knee arthroplasty",
+      "label": "DISEASE",
+      "start_char": 238,
+      "end_char": 255,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee arthroplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NexGen",
+      "label": "CHEMICAL",
+      "start_char": 462,
+      "end_char": 468,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NexGen",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyethylene NexGen",
+      "label": "CHEMICAL",
+      "start_char": 709,
+      "end_char": 728,
+      "sentence_idx": 0,
+      "concept_id": "C0032487",
+      "concept_name": "polyethylenes",
+      "kb_source": "rxnorm",
+      "link_score": 0.7186534404754639,
+      "timestamp": null
+    },
+    {
+      "text": "knee pain",
+      "label": "DISEASE",
+      "start_char": 914,
+      "end_char": 923,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "DVT",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 30,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subluxation",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 38,
+      "sentence_idx": 61,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Polymethyl methacrylate",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 23,
+      "sentence_idx": 71,
+      "concept_id": "C0066409",
+      "concept_name": "methyl methacrylate",
+      "kb_source": "rxnorm",
+      "link_score": 0.8570650219917297,
+      "timestamp": null
+    },
+    {
+      "text": "Polymethyl methacrylate",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 23,
+      "sentence_idx": 75,
+      "concept_id": "C0066409",
+      "concept_name": "methyl methacrylate",
+      "kb_source": "rxnorm",
+      "link_score": 0.8570650219917297,
+      "timestamp": null
+    },
+    {
+      "text": "polymethyl methacrylate",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 34,
+      "sentence_idx": 83,
+      "concept_id": "C0066409",
+      "concept_name": "methyl methacrylate",
+      "kb_source": "rxnorm",
+      "link_score": 0.8570650219917297,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

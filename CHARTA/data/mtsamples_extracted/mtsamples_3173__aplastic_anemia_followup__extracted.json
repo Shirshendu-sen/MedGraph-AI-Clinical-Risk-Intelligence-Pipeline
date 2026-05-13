@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3173__aplastic_anemia_followup_.txt",
+    "file_name": "mtsamples_3173__aplastic_anemia_followup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1564,
+    "processed_at": "2026-05-09T09:54:15.960624"
+  },
+  "entities": [
+    {
+      "text": "Aplastic",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 27,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Aplastic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "pancytopenia",
+      "label": "DISEASE",
+      "start_char": 143,
+      "end_char": 155,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pancytopenia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "aplastic anemia",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 74,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aplastic anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "cyclosporine",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 24,
+      "sentence_idx": 2,
+      "concept_id": "C0010592",
+      "concept_name": "cycloSPORINE",
+      "kb_source": "rxnorm",
+      "link_score": 0.9595398902893066,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "prednisone",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 39,
+      "sentence_idx": 2,
+      "concept_id": "C0032952",
+      "concept_name": "prednisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9636675715446472,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "acute kidney injury",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 83,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute kidney injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "cyclosporine",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 16,
+      "sentence_idx": 4,
+      "concept_id": "C0010592",
+      "concept_name": "cycloSPORINE",
+      "kb_source": "rxnorm",
+      "link_score": 0.9595398902893066,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "acute kidney injury",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 43,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute kidney injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "cyclosporine toxicity",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 76,
+      "sentence_idx": 5,
+      "concept_id": "C0010592",
+      "concept_name": "cycloSPORINE",
+      "kb_source": "rxnorm",
+      "link_score": 0.7432565093040466,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "Folic acid",
+      "label": "CHEMICAL",
+      "start_char": 140,
+      "end_char": 150,
+      "sentence_idx": 7,
+      "concept_id": "C0016410",
+      "concept_name": "folic acid",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928117394447327,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "Aciphex",
+      "label": "CHEMICAL",
+      "start_char": 152,
+      "end_char": 159,
+      "sentence_idx": 7,
+      "concept_id": "C0875952",
+      "concept_name": "Aciphex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9719229340553284,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "trazodone",
+      "label": "CHEMICAL",
+      "start_char": 170,
+      "end_char": 179,
+      "sentence_idx": 7,
+      "concept_id": "C0040805",
+      "concept_name": "traZODone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9541874527931213,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "prednisone",
+      "label": "CHEMICAL",
+      "start_char": 181,
+      "end_char": 191,
+      "sentence_idx": 7,
+      "concept_id": "C0032952",
+      "concept_name": "prednisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9636675715446472,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "Bactrim",
+      "label": "CHEMICAL",
+      "start_char": 218,
+      "end_char": 225,
+      "sentence_idx": 7,
+      "concept_id": "C0591139",
+      "concept_name": "Bactrim",
+      "kb_source": "rxnorm",
+      "link_score": 0.9739254117012024,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "negative.,PAST",
+      "label": "CHEMICAL",
+      "start_char": 378,
+      "end_char": 392,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "negative.,PAST",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2010-07-14"
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "Esophageal stricture",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 20,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Esophageal stricture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-30"
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 20,
+      "sentence_idx": 15,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": "2010-03-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "03/30/10",
+      "start_char": 276,
+      "end_char": 284
+    },
+    {
+      "raw_text": "07/11/10",
+      "start_char": 324,
+      "end_char": 332
+    },
+    {
+      "raw_text": "07/14/10",
+      "start_char": 336,
+      "end_char": 344
+    },
+    {
+      "raw_text": "07/26/10",
+      "start_char": 681,
+      "end_char": 689
+    }
+  ]
+}

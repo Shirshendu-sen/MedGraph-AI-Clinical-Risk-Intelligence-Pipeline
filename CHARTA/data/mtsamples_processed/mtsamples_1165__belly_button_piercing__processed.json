@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1165__belly_button_piercing_.txt",
+    "file_name": "mtsamples_1165__belly_button_piercing_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 750,
+    "processed_at": "2026-05-09T09:53:35.942821"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1165__belly_button_piercing_.txt",
+    "text": "PROCEDURE:,  Belly button piercing for insertion of belly button ring.,DESCRIPTION OF PROCEDURE:,  The patient was prepped after informed consent was given of risk of infection and foreign body reaction.  The area was marked by the patient and then prepped.  The area was injected with 2% Xylocaine 1:100,000 epinephrine.,Then a #14-gauge needle was inserted above the belly button and inserted up to the skin just above the actual umbilical area and the ring was inserted into the #14-gauge needle and pulled through.  A small ball was placed over the end of the ring.  This terminated the procedure.,The patient tolerated the procedure well.  Postop instructions were given regarding maintenance.  Patient left the office in satisfactory condition.",
+    "char_count": 750,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE:, Belly button piercing for insertion of belly button ring.,DESCRIPTION OF PROCEDURE:, The patient was prepped after informed consent was given of risk of infection and foreign body reaction. The area was marked by the patient and then prepped. The area was injected with 2% Xylocaine 1:100,000 epinephrine.,Then a #14-gauge needle was inserted above the belly button and inserted up to the skin just above the actual umbilical area and the ring was inserted into the #14-gauge needle and pulled through. A small ball was placed over the end of the ring. This terminated the procedure.,The patient tolerated the procedure well. Postop instructions were given regarding maintenance. Patient left the office in satisfactory condition.",
+    "sentences": [
+      "PROCEDURE:, Belly button piercing for insertion of belly button ring.,DESCRIPTION OF PROCEDURE:, The patient was prepped after informed consent was given of risk of infection and foreign body reaction.",
+      "The area was marked by the patient and then prepped.",
+      "The area was injected with 2% Xylocaine 1:100,000 epinephrine.,Then a #14-gauge needle was inserted above the belly button and inserted up to the skin just above the actual umbilical area and the ring was inserted into the #14-gauge needle and pulled through.",
+      "A small ball was placed over the end of the ring.",
+      "This terminated the procedure.,The patient tolerated the procedure well.",
+      "Postop instructions were given regarding maintenance.",
+      "Patient left the office in satisfactory condition."
+    ],
+    "sentence_count": 7,
+    "original_length": 750,
+    "cleaned_length": 742,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE:,  Belly button piercing for insertion of belly button ring.,DESCRIPTION OF PROCEDURE:,  The patient was prepped after informed consent was given of risk of infection and foreign body reaction.  The area was marked by the patient and then prepped.  The area was injected with 2% Xylocaine 1:100,000 epinephrine.,Then a #14-gauge needle was inserted above the belly button and inserted up to the skin just above the actual umbilical area and the ring was inserted into the #14-gauge needle and pulled through.  A small ball was placed over the end of the ring.  This terminated the procedure.,The patient tolerated the procedure well.  Postop instructions were given regarding maintenance.  Patient left the office in satisfactory condition.",
+    "cleaned_text": "PROCEDURE:, Belly button piercing for insertion of belly button ring.,DESCRIPTION OF PROCEDURE:, The patient was prepped after informed consent was given of risk of infection and foreign body reaction. The area was marked by the patient and then prepped. The area was injected with 2% Xylocaine 1:100,000 epinephrine.,Then a #14-gauge needle was inserted above the belly button and inserted up to the skin just above the actual umbilical area and the ring was inserted into the #14-gauge needle and pulled through. A small ball was placed over the end of the ring. This terminated the procedure.,The patient tolerated the procedure well. Postop instructions were given regarding maintenance. Patient left the office in satisfactory condition.",
+    "sentences": [
+      "PROCEDURE:, Belly button piercing for insertion of belly button ring.,DESCRIPTION OF PROCEDURE:, The patient was prepped after informed consent was given of risk of infection and foreign body reaction.",
+      "The area was marked by the patient and then prepped.",
+      "The area was injected with 2% Xylocaine 1:100,000 epinephrine.,Then a #14-gauge needle was inserted above the belly button and inserted up to the skin just above the actual umbilical area and the ring was inserted into the #14-gauge needle and pulled through.",
+      "A small ball was placed over the end of the ring.",
+      "This terminated the procedure.,The patient tolerated the procedure well.",
+      "Postop instructions were given regarding maintenance.",
+      "Patient left the office in satisfactory condition."
+    ],
+    "sentence_count": 7
+  }
+}

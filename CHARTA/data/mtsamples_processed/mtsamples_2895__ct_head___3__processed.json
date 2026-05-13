@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2895__ct_head___3_.txt",
+    "file_name": "mtsamples_2895__ct_head___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1002,
+    "processed_at": "2026-05-09T09:54:10.373685"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2895__ct_head___3_.txt",
+    "text": "REASON FOR EXAM:  ,Left arm and hand numbness.,TECHNIQUE: , Noncontrast axial CT images of the head were obtained with 5 mm slice thickness.,FINDINGS:  ,There is an approximately 5-mm shift of the midline towards the right side.  Significant low attenuation is seen throughout the white matter of the right frontal, parietal, and temporal lobes.  There is loss of the cortical sulci on the right side.  These findings are compatible with edema.  Within the right parietal lobe, a 1.8 cm, rounded, hyperintense mass is seen.,No hydrocephalus is evident.,The calvarium is intact.  The visualized paranasal sinuses are clear.,IMPRESSION:  ,A 5 mm midline shift to the left side secondary to severe edema of the white matter of the right frontal, parietal, and temporal lobes.  A 1.8 cm high attenuation mass in the right parietal lobe is concerning for hemorrhage given its high density.  A postcontrast MRI is required for further characterization of this mass.  Gradient echo imaging should be obtained.",
+    "char_count": 1002,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "REASON FOR EXAM: ,Left arm and hand numbness.,TECHNIQUE: , Noncontrast axial CT images of the head were obtained with 5 mm slice thickness.,FINDINGS: ,There is an approximately 5-mm shift of the midline towards the right side. Significant low attenuation is seen throughout the white matter of the right frontal, parietal, and temporal lobes. There is loss of the cortical sulci on the right side. These findings are compatible with edema. Within the right parietal lobe, a 1.8 cm, rounded, hyperintense mass is seen.,No hydrocephalus is evident.,The calvarium is intact. The visualized paranasal sinuses are clear.,IMPRESSION: ,A 5 mm midline shift to the left side secondary to severe edema of the white matter of the right frontal, parietal, and temporal lobes. A 1.8 cm high attenuation mass in the right parietal lobe is concerning for hemorrhage given its high density. A postcontrast MRI is required for further characterization of this mass. Gradient echo imaging should be obtained.",
+    "sentences": [
+      "REASON FOR EXAM: ,Left arm and hand numbness.,TECHNIQUE: , Noncontrast axial CT images of the head were obtained with 5 mm slice thickness.,FINDINGS: ,There is an approximately 5-mm shift of the midline towards the right side.",
+      "Significant low attenuation is seen throughout the white matter of the right frontal, parietal, and temporal lobes.",
+      "There is loss of the cortical sulci on the right side.",
+      "These findings are compatible with edema.",
+      "Within the right parietal lobe, a 1.8 cm, rounded, hyperintense mass is seen.,No hydrocephalus is evident.,The calvarium is intact.",
+      "The visualized paranasal sinuses are clear.,IMPRESSION: ,A 5 mm midline shift to the left side secondary to severe edema of the white matter of the right frontal, parietal, and temporal lobes.",
+      "A 1.8 cm high attenuation mass in the right parietal lobe is concerning for hemorrhage given its high density.",
+      "A postcontrast MRI is required for further characterization of this mass.",
+      "Gradient echo imaging should be obtained."
+    ],
+    "sentence_count": 9,
+    "original_length": 1002,
+    "cleaned_length": 991,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "REASON FOR EXAM:  ,Left arm and hand numbness.,TECHNIQUE: , Noncontrast axial CT images of the head were obtained with 5 mm slice thickness.,FINDINGS:  ,There is an approximately 5-mm shift of the midline towards the right side.  Significant low attenuation is seen throughout the white matter of the right frontal, parietal, and temporal lobes.  There is loss of the cortical sulci on the right side.  These findings are compatible with edema.  Within the right parietal lobe, a 1.8 cm, rounded, hyperintense mass is seen.,No hydrocephalus is evident.,The calvarium is intact.  The visualized paranasal sinuses are clear.,IMPRESSION:  ,A 5 mm midline shift to the left side secondary to severe edema of the white matter of the right frontal, parietal, and temporal lobes.  A 1.8 cm high attenuation mass in the right parietal lobe is concerning for hemorrhage given its high density.  A postcontrast MRI is required for further characterization of this mass.  Gradient echo imaging should be obtained.",
+    "cleaned_text": "REASON FOR EXAM: ,Left arm and hand numbness.,TECHNIQUE: , Noncontrast axial CT images of the head were obtained with 5 mm slice thickness.,FINDINGS: ,There is an approximately 5-mm shift of the midline towards the right side. Significant low attenuation is seen throughout the white matter of the right frontal, parietal, and temporal lobes. There is loss of the cortical sulci on the right side. These findings are compatible with edema. Within the right parietal lobe, a 1.8 cm, rounded, hyperintense mass is seen.,No hydrocephalus is evident.,The calvarium is intact. The visualized paranasal sinuses are clear.,IMPRESSION: ,A 5 mm midline shift to the left side secondary to severe edema of the white matter of the right frontal, parietal, and temporal lobes. A 1.8 cm high attenuation mass in the right parietal lobe is concerning for hemorrhage given its high density. A postcontrast MRI is required for further characterization of this mass. Gradient echo imaging should be obtained.",
+    "sentences": [
+      "REASON FOR EXAM: ,Left arm and hand numbness.,TECHNIQUE: , Noncontrast axial CT images of the head were obtained with 5 mm slice thickness.,FINDINGS: ,There is an approximately 5-mm shift of the midline towards the right side.",
+      "Significant low attenuation is seen throughout the white matter of the right frontal, parietal, and temporal lobes.",
+      "There is loss of the cortical sulci on the right side.",
+      "These findings are compatible with edema.",
+      "Within the right parietal lobe, a 1.8 cm, rounded, hyperintense mass is seen.,No hydrocephalus is evident.,The calvarium is intact.",
+      "The visualized paranasal sinuses are clear.,IMPRESSION: ,A 5 mm midline shift to the left side secondary to severe edema of the white matter of the right frontal, parietal, and temporal lobes.",
+      "A 1.8 cm high attenuation mass in the right parietal lobe is concerning for hemorrhage given its high density.",
+      "A postcontrast MRI is required for further characterization of this mass.",
+      "Gradient echo imaging should be obtained."
+    ],
+    "sentence_count": 9
+  }
+}

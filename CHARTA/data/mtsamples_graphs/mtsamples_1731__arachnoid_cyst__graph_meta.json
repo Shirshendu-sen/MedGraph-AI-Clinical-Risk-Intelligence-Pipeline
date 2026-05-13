@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_1731__arachnoid_cyst_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 53,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0031412": 1,
+    "C0699512": 2,
+    "C0700087": 3,
+    "C0719751": 4,
+    "C0000981": 5
+  },
+  "visit_dates": [
+    "2066-08-22"
+  ],
+  "graph_file": "mtsamples_1731__arachnoid_cyst__graph.pt",
+  "source_dataset": "mtsamples_1731__arachnoid_cyst"
+}

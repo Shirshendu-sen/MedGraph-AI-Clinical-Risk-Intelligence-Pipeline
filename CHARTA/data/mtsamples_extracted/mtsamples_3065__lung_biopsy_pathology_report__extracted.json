@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3065__lung_biopsy_pathology_report_.txt",
+    "file_name": "mtsamples_3065__lung_biopsy_pathology_report_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2009,
+    "processed_at": "2026-05-09T09:54:13.895452"
+  },
+  "entities": [
+    {
+      "text": "upper lobe mass",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 77,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper lobe mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 130,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 56,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 55,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 141,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 201,
+      "end_char": 206,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 302,
+      "end_char": 307,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 137,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 166,
+      "end_char": 171,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumors",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 70,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 97,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 177,
+      "end_char": 182,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2219__dupuytren_disease_excision_.txt",
+    "file_name": "mtsamples_2219__dupuytren_disease_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1699,
+    "processed_at": "2026-05-09T09:53:58.535803"
+  },
+  "entities": [
+    {
+      "text": "Right hand Dupuytren disease",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 54,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right hand Dupuytren disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right hand Dupuytren disease",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 131,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right hand Dupuytren disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dupuytren disease of the right hand",
+      "label": "DISEASE",
+      "start_char": 188,
+      "end_char": 223,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dupuytren disease of the right hand",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left Dupuytren disease",
+      "label": "DISEASE",
+      "start_char": 422,
+      "end_char": 444,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left Dupuytren disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dupuytren contracture",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 68,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dupuytren contracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dupuytren disease fibrous",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 99,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dupuytren disease fibrous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dupuytren disease",
+      "label": "DISEASE",
+      "start_char": 206,
+      "end_char": 223,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dupuytren disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dupuytren disease",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 153,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dupuytren disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3450__small_bowel_obstruction_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 33,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0009170": 2,
+    "C0030304": 3
+  },
+  "visit_dates": [
+    "2026-05-08"
+  ],
+  "graph_file": "mtsamples_3450__small_bowel_obstruction__graph.pt",
+  "source_dataset": "mtsamples_3450__small_bowel_obstruction"
+}

@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2135__mri_c3___cord_compression__",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0087119": 2
+  },
+  "visit_dates": [
+    "1992-12-01"
+  ],
+  "graph_file": "mtsamples_2135__mri_c3___cord_compression___graph.pt",
+  "source_dataset": "mtsamples_2135__mri_c3___cord_compression_"
+}

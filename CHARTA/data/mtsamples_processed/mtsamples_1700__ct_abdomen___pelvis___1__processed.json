@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1700__ct_abdomen___pelvis___1_.txt",
+    "file_name": "mtsamples_1700__ct_abdomen___pelvis___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1085,
+    "processed_at": "2026-05-09T09:53:48.673435"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1700__ct_abdomen___pelvis___1_.txt",
+    "text": "EXAM: , CT Abdomen and Pelvis with contrast ,REASON FOR EXAM:, Nausea, vomiting, diarrhea for one day.  Fever.  Right upper quadrant pain for one day.  ,COMPARISON: , None. ,TECHNIQUE:,  CT of the abdomen and pelvis performed without and with approximately 54 ml Isovue 300 contrast enhancement.  ,CT ABDOMEN: , Lung bases are clear.  The liver, gallbladder, spleen, pancreas, and bilateral adrenal/kidneys are unremarkable.  The aorta is normal in caliber.  There is no retroperitoneal lymphadenopathy.  ,CT PELVIS: , The appendix is visualized along its length and is diffusely unremarkable with no surrounding inflammatory change.  Per CT, the colon and small bowel are unremarkable.  The bladder is distended.  No free fluid/air.  Visualized osseous structures demonstrate no definite evidence for acute fracture, malalignment, or dislocation.,IMPRESSION:,1.  Unremarkable exam; specifically no evidence for acute appendicitis. ,2.  No acute nephro-/ureterolithiasis. ,3.  No secondary evidence for acute cholecystitis.,Results were communicated to the ER at the time of dictation.",
+    "char_count": 1085,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , CT Abdomen and Pelvis with contrast ,REASON FOR EXAM:, Nausea, vomiting, diarrhea for one day. Fever. Right upper quadrant pain for one day. ,COMPARISON: , None. ,TECHNIQUE:, CT of the abdomen and pelvis performed without and with approximately 54 ml Isovue 300 contrast enhancement. ,CT ABDOMEN: , Lung bases are clear. The liver, gallbladder, spleen, pancreas, and bilateral adrenal/kidneys are unremarkable. The aorta is normal in caliber. There is no retroperitoneal lymphadenopathy. ,CT PELVIS: , The appendix is visualized along its length and is diffusely unremarkable with no surrounding inflammatory change. Per CT, the colon and small bowel are unremarkable. The bladder is distended. No free fluid/air. Visualized osseous structures demonstrate no definite evidence for acute fracture, malalignment, or dislocation.,IMPRESSION:,1. Unremarkable exam; specifically no evidence for acute appendicitis. ,2. No acute nephro-/ureterolithiasis. ,3. No secondary evidence for acute cholecystitis.,Results were communicated to the ER at the time of dictation.",
+    "sentences": [
+      "EXAM: , CT Abdomen and Pelvis with contrast ,REASON FOR EXAM:, Nausea, vomiting, diarrhea for one day.",
+      "Fever.",
+      "Right upper quadrant pain for one day. ,COMPARISON: , None. ,TECHNIQUE:, CT of the abdomen and pelvis performed without and with approximately 54 ml Isovue 300 contrast enhancement. ,CT ABDOMEN: , Lung bases are clear.",
+      "The liver, gallbladder, spleen, pancreas, and bilateral adrenal/kidneys are unremarkable.",
+      "The aorta is normal in caliber.",
+      "There is no retroperitoneal lymphadenopathy. ,CT PELVIS: , The appendix is visualized along its length and is diffusely unremarkable with no surrounding inflammatory change.",
+      "Per CT, the colon and small bowel are unremarkable.",
+      "The bladder is distended.",
+      "No free fluid/air.",
+      "Visualized osseous structures demonstrate no definite evidence for acute fracture, malalignment, or dislocation.,IMPRESSION:,1.",
+      "Unremarkable exam; specifically no evidence for acute appendicitis. ,2.",
+      "No acute nephro-/ureterolithiasis. ,3.",
+      "No secondary evidence for acute cholecystitis.,Results were communicated to the ER at the time of dictation."
+    ],
+    "sentence_count": 13,
+    "original_length": 1085,
+    "cleaned_length": 1069,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , CT Abdomen and Pelvis with contrast ,REASON FOR EXAM:, Nausea, vomiting, diarrhea for one day.  Fever.  Right upper quadrant pain for one day.  ,COMPARISON: , None. ,TECHNIQUE:,  CT of the abdomen and pelvis performed without and with approximately 54 ml Isovue 300 contrast enhancement.  ,CT ABDOMEN: , Lung bases are clear.  The liver, gallbladder, spleen, pancreas, and bilateral adrenal/kidneys are unremarkable.  The aorta is normal in caliber.  There is no retroperitoneal lymphadenopathy.  ,CT PELVIS: , The appendix is visualized along its length and is diffusely unremarkable with no surrounding inflammatory change.  Per CT, the colon and small bowel are unremarkable.  The bladder is distended.  No free fluid/air.  Visualized osseous structures demonstrate no definite evidence for acute fracture, malalignment, or dislocation.,IMPRESSION:,1.  Unremarkable exam; specifically no evidence for acute appendicitis. ,2.  No acute nephro-/ureterolithiasis. ,3.  No secondary evidence for acute cholecystitis.,Results were communicated to the ER at the time of dictation.",
+    "cleaned_text": "EXAM: , CT Abdomen and Pelvis with contrast ,REASON FOR EXAM:, Nausea, vomiting, diarrhea for one day. Fever. Right upper quadrant pain for one day. ,COMPARISON: , None. ,TECHNIQUE:, CT of the abdomen and pelvis performed without and with approximately 54 ml Isovue 300 contrast enhancement. ,CT ABDOMEN: , Lung bases are clear. The liver, gallbladder, spleen, pancreas, and bilateral adrenal/kidneys are unremarkable. The aorta is normal in caliber. There is no retroperitoneal lymphadenopathy. ,CT PELVIS: , The appendix is visualized along its length and is diffusely unremarkable with no surrounding inflammatory change. Per CT, the colon and small bowel are unremarkable. The bladder is distended. No free fluid/air. Visualized osseous structures demonstrate no definite evidence for acute fracture, malalignment, or dislocation.,IMPRESSION:,1. Unremarkable exam; specifically no evidence for acute appendicitis. ,2. No acute nephro-/ureterolithiasis. ,3. No secondary evidence for acute cholecystitis.,Results were communicated to the ER at the time of dictation.",
+    "sentences": [
+      "EXAM: , CT Abdomen and Pelvis with contrast ,REASON FOR EXAM:, Nausea, vomiting, diarrhea for one day.",
+      "Fever.",
+      "Right upper quadrant pain for one day. ,COMPARISON: , None. ,TECHNIQUE:, CT of the abdomen and pelvis performed without and with approximately 54 ml Isovue 300 contrast enhancement. ,CT ABDOMEN: , Lung bases are clear.",
+      "The liver, gallbladder, spleen, pancreas, and bilateral adrenal/kidneys are unremarkable.",
+      "The aorta is normal in caliber.",
+      "There is no retroperitoneal lymphadenopathy. ,CT PELVIS: , The appendix is visualized along its length and is diffusely unremarkable with no surrounding inflammatory change.",
+      "Per CT, the colon and small bowel are unremarkable.",
+      "The bladder is distended.",
+      "No free fluid/air.",
+      "Visualized osseous structures demonstrate no definite evidence for acute fracture, malalignment, or dislocation.,IMPRESSION:,1.",
+      "Unremarkable exam; specifically no evidence for acute appendicitis. ,2.",
+      "No acute nephro-/ureterolithiasis. ,3.",
+      "No secondary evidence for acute cholecystitis.,Results were communicated to the ER at the time of dictation."
+    ],
+    "sentence_count": 13
+  }
+}

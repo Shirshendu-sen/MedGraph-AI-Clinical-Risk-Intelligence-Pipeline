@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0841__epidermal_autograft_.txt",
+    "file_name": "mtsamples_0841__epidermal_autograft_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3487,
+    "processed_at": "2026-05-09T09:53:27.261906"
+  },
+  "entities": [
+    {
+      "text": "shoulders.,2",
+      "label": "CHEMICAL",
+      "start_char": 54,
+      "end_char": 66,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shoulders.,2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "grafting.,PROCEDURE",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 54,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "grafting.,PROCEDURE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sulfamylon",
+      "label": "CHEMICAL",
+      "start_char": 92,
+      "end_char": 102,
+      "sentence_idx": 13,
+      "concept_id": "C0809894",
+      "concept_name": "Sulfamylon",
+      "kb_source": "rxnorm",
+      "link_score": 0.9608107209205627,
+      "timestamp": null
+    },
+    {
+      "text": "tumescence",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 27,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumescence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sulfamylon",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 119,
+      "sentence_idx": 24,
+      "concept_id": "C0809894",
+      "concept_name": "Sulfamylon",
+      "kb_source": "rxnorm",
+      "link_score": 0.9608107209205627,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

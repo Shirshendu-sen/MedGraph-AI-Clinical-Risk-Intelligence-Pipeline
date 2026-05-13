@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2432__telemetry_monitoring_.txt",
+    "file_name": "mtsamples_2432__telemetry_monitoring_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1836,
+    "processed_at": "2026-05-09T09:54:01.676449"
+  },
+  "entities": [
+    {
+      "text": "Orthostatic",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Orthostatic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "Diabetes.,4",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diabetes.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "polycystic kidney disease",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 64,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polycystic kidney disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "basal cell ganglia cerebrovascular",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 45,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "basal cell ganglia cerebrovascular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "Iron",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 4,
+      "sentence_idx": 8,
+      "concept_id": "C0302583",
+      "concept_name": "iron",
+      "kb_source": "rxnorm",
+      "link_score": 0.9597261548042297,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "Cataract",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "dizziness",
+      "label": "DISEASE",
+      "start_char": 193,
+      "end_char": 202,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dizziness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "anhedonia",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 138,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anhedonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "orthostatic",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 112,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "orthostatic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "Cymbalta",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 27,
+      "sentence_idx": 15,
+      "concept_id": "C1505021",
+      "concept_name": "Cymbalta",
+      "kb_source": "rxnorm",
+      "link_score": 0.9862317442893982,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "autonomic dysfunction",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 76,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "autonomic dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "CellCept",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 19,
+      "concept_id": "C0592558",
+      "concept_name": "Cellcept",
+      "kb_source": "rxnorm",
+      "link_score": 0.9804145097732544,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "Cyclosporine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 20,
+      "concept_id": "C0010592",
+      "concept_name": "cycloSPORINE",
+      "kb_source": "rxnorm",
+      "link_score": 0.9595398902893066,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "Prednisone",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 21,
+      "concept_id": "C0032952",
+      "concept_name": "prednisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9636675715446472,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "Hydralazine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 22,
+      "concept_id": "C0020223",
+      "concept_name": "hydrALAZINE",
+      "kb_source": "rxnorm",
+      "link_score": 0.9449151754379272,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "Pantoprazole",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 23,
+      "concept_id": "C0081876",
+      "concept_name": "pantoprazole",
+      "kb_source": "rxnorm",
+      "link_score": 0.9829913377761841,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "Glipizide",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 24,
+      "concept_id": "C0017642",
+      "concept_name": "glipiZIDE",
+      "kb_source": "rxnorm",
+      "link_score": 0.9582334160804749,
+      "timestamp": "2007-04-26"
+    },
+    {
+      "text": "Aspirin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 25,
+      "concept_id": "C0004057",
+      "concept_name": "aspirin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736717343330383,
+      "timestamp": "2007-04-26"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "04/26/07",
+      "start_char": 592,
+      "end_char": 600
+    }
+  ]
+}

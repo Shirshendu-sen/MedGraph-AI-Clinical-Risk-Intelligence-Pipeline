@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1843__physical_therapy___brain_tumor_removal_.txt",
+    "file_name": "mtsamples_1843__physical_therapy___brain_tumor_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3246,
+    "processed_at": "2026-05-09T09:53:51.670733"
+  },
+  "entities": [
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 35,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 161,
+      "end_char": 166,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 58,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "left-sided weakness",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 94,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left-sided weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "Al",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 25,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Al",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "DVT",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 111,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "Keppra",
+      "label": "CHEMICAL",
+      "start_char": 221,
+      "end_char": 227,
+      "sentence_idx": 6,
+      "concept_id": "C0876060",
+      "concept_name": "Keppra",
+      "kb_source": "rxnorm",
+      "link_score": 0.9722980856895447,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 298,
+      "end_char": 302,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-11-05"
+    },
+    {
+      "text": "fatigue",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 65,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fatigue",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "left footdrop",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 80,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left footdrop",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "Examination indicates deficits",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 30,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Examination indicates deficits",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "training.,3",
+      "label": "CHEMICAL",
+      "start_char": 8,
+      "end_char": 19,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "training.,3",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "BE",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 51,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "BE",
+      "label": "CHEMICAL",
+      "start_char": 100,
+      "end_char": 102,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "areas.,4",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 131,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "areas.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "balance.,Prognosis",
+      "label": "CHEMICAL",
+      "start_char": 86,
+      "end_char": 104,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "balance.,Prognosis",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/24/08",
+      "start_char": 204,
+      "end_char": 212
+    },
+    {
+      "raw_text": "11/05/08",
+      "start_char": 324,
+      "end_char": 332
+    },
+    {
+      "raw_text": "11/14/08",
+      "start_char": 336,
+      "end_char": 344
+    },
+    {
+      "raw_text": "12/05/08",
+      "start_char": 439,
+      "end_char": 447
+    },
+    {
+      "raw_text": "01/05/09",
+      "start_char": 617,
+      "end_char": 625
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1910__fundoplication___gastrostomy_followup_.txt",
+    "file_name": "mtsamples_1910__fundoplication___gastrostomy_followup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2309,
+    "processed_at": "2026-05-09T09:53:52.883290"
+  },
+  "entities": [
+    {
+      "text": "subglottic stenosis",
+      "label": "DISEASE",
+      "start_char": 207,
+      "end_char": 226,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subglottic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-05"
+    },
+    {
+      "text": "retching",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retching",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-05"
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 26,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-05"
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 119,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-05"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 132,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-05"
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 58,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-05"
+    },
+    {
+      "text": "reflux",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 47,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "reflux",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-05"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/05/2007",
+      "start_char": 731,
+      "end_char": 741
+    }
+  ]
+}

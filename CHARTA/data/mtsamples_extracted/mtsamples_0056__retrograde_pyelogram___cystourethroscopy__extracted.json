@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0056__retrograde_pyelogram___cystourethroscopy_.txt",
+    "file_name": "mtsamples_0056__retrograde_pyelogram___cystourethroscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2041,
+    "processed_at": "2026-05-09T09:53:04.919794"
+  },
+  "entities": [
+    {
+      "text": "tightness",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 36,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tightness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "UPJ calculus",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 78,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "UPJ calculus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydronephrosis",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 107,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydronephrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Darvocet",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 43,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Darvocet",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

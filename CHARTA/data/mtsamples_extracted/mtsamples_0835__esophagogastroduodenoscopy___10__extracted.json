@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0835__esophagogastroduodenoscopy___10_.txt",
+    "file_name": "mtsamples_0835__esophagogastroduodenoscopy___10_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1358,
+    "processed_at": "2026-05-09T09:53:27.142241"
+  },
+  "entities": [
+    {
+      "text": "Nausea and vomiting",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 45,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nausea and vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pylori",
+      "label": "DISEASE",
+      "start_char": 191,
+      "end_char": 197,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pylori",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Demerol",
+      "label": "CHEMICAL",
+      "start_char": 253,
+      "end_char": 260,
+      "sentence_idx": 0,
+      "concept_id": "C0935966",
+      "concept_name": "Demerol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9676215052604675,
+      "timestamp": null
+    },
+    {
+      "text": "pylori",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 137,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pylori",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "paraesophageal hernia",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 144,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paraesophageal hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gallstone",
+      "label": "DISEASE",
+      "start_char": 195,
+      "end_char": 204,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gallstone",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

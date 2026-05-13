@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3915__discharge_summary___8_.txt",
+    "file_name": "mtsamples_3915__discharge_summary___8_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3694,
+    "processed_at": "2026-05-09T09:54:29.228229"
+  },
+  "entities": [
+    {
+      "text": "bacteremia",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 28,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bacteremia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "congenital genitourinary abnormalities",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 49,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congenital genitourinary abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "urinary tract infections",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 35,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary tract infections",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "multiple small cysts",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 83,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "multiple small cysts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "cysts",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 36,
+      "sentence_idx": 7,
+      "concept_id": "C0010682",
+      "concept_name": "L-Cystine",
+      "kb_source": "mesh",
+      "link_score": 0.7127127051353455,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "bacteremia",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 142,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bacteremia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "endocarditis",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 71,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endocarditis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 105,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "septicemia",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 117,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "septicemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "congenital genitourinary abnormalities",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 73,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congenital genitourinary abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "infectious diseases",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 26,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infectious diseases",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "tularemia",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 130,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tularemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "tularemia",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 19,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tularemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "leptospirosis",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 37,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "leptospirosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "levofloxacin",
+      "label": "CHEMICAL",
+      "start_char": 56,
+      "end_char": 68,
+      "sentence_idx": 22,
+      "concept_id": "C0282386",
+      "concept_name": "levoFLOXacin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9713360667228699,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "levofloxacin",
+      "label": "CHEMICAL",
+      "start_char": 46,
+      "end_char": 58,
+      "sentence_idx": 23,
+      "concept_id": "C0282386",
+      "concept_name": "levoFLOXacin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9713360667228699,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "tularemia",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 106,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tularemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "leptospirosis",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 124,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "leptospirosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "doxycycline",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 40,
+      "sentence_idx": 26,
+      "concept_id": "C0013090",
+      "concept_name": "doxycycline",
+      "kb_source": "rxnorm",
+      "link_score": 0.9588553309440613,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "levofloxacin",
+      "label": "CHEMICAL",
+      "start_char": 108,
+      "end_char": 120,
+      "sentence_idx": 26,
+      "concept_id": "C0282386",
+      "concept_name": "levoFLOXacin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9713360667228699,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 61,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 99,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 249,
+      "end_char": 258,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-24"
+    },
+    {
+      "text": "Levaquin",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 31,
+      "concept_id": "C0721336",
+      "concept_name": "Levaquin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9604581594467163,
+      "timestamp": "2007-07-24"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "July 24, 2007",
+      "start_char": 304,
+      "end_char": 317
+    },
+    {
+      "raw_text": "July 27, 2007",
+      "start_char": 367,
+      "end_char": 380
+    },
+    {
+      "raw_text": "July 27, 2007",
+      "start_char": 461,
+      "end_char": 474
+    }
+  ]
+}

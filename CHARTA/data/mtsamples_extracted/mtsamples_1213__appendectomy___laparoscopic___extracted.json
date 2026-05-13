@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1213__appendectomy___laparoscopic__.txt",
+    "file_name": "mtsamples_1213__appendectomy___laparoscopic__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3379,
+    "processed_at": "2026-05-09T09:53:36.888257"
+  },
+  "entities": [
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 237,
+      "end_char": 251,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "appendicitis",
+      "label": "DISEASE",
+      "start_char": 273,
+      "end_char": 285,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "appendicitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "leukocytosis",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 30,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "leukocytosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NG",
+      "label": "CHEMICAL",
+      "start_char": 264,
+      "end_char": 266,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 74,
+      "end_char": 77,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "purulence",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 32,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "purulence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ovarian hemorrhagic cyst",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 101,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ovarian hemorrhagic cyst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 141,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fitz-Hugh-Curtis syndrome",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 126,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fitz-Hugh-Curtis syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

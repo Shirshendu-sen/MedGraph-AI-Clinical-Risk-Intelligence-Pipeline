@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0586__lobectomy___lymphadenectomy_.txt",
+    "file_name": "mtsamples_0586__lobectomy___lymphadenectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3593,
+    "processed_at": "2026-05-09T09:53:20.070933"
+  },
+  "entities": [
+    {
+      "text": "lower lobe mass",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower lobe mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Non-small cell carcinoma of the right lower lobe.,PROCEDURES:,1",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 155,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Non-small cell carcinoma of the right lower lobe.,PROCEDURES:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adhesions",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 61,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adhesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 164,
+      "end_char": 169,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 127,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "non-small cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 65,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-small cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "leaks",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 57,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "leaks",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

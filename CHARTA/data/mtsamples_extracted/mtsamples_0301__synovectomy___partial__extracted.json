@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0301__synovectomy___partial_.txt",
+    "file_name": "mtsamples_0301__synovectomy___partial_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1970,
+    "processed_at": "2026-05-09T09:53:11.950610"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 521,
+      "end_char": 525,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "urinary tract infection",
+      "label": "DISEASE",
+      "start_char": 625,
+      "end_char": 648,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary tract infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

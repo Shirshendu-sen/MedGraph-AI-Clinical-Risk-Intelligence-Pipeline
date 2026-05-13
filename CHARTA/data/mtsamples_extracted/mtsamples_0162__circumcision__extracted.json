@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0162__circumcision_.txt",
+    "file_name": "mtsamples_0162__circumcision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1427,
+    "processed_at": "2026-05-09T09:53:08.021557"
+  },
+  "entities": [
+    {
+      "text": "phimosis",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 24,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "phimosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 28,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 39,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 45,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

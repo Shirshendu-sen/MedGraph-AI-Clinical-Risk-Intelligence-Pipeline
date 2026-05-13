@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3167__brca_2_mutation_.txt",
+    "file_name": "mtsamples_3167__brca_2_mutation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1220,
+    "processed_at": "2026-05-09T09:54:15.851163"
+  },
+  "entities": [
+    {
+      "text": "breast cancer",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 32,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breast cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-07-25"
+    },
+    {
+      "text": "breast cancer",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 77,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breast cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-07-25"
+    },
+    {
+      "text": "dysplasia",
+      "label": "DISEASE",
+      "start_char": 301,
+      "end_char": 310,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysplasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-07-25"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 50,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-07-25"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 59,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2006-07-25"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 139,
+      "end_char": 143,
+      "sentence_idx": 10,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2006-07-25"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "July 25, 2006",
+      "start_char": 719,
+      "end_char": 732
+    }
+  ]
+}

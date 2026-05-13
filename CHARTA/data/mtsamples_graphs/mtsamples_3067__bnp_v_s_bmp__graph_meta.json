@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_3067__bnp_v_s_bmp_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 38,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0017725": 1,
+    "C0006675": 2,
+    "C0037473": 3,
+    "C0032821": 4,
+    "C0973231": 5,
+    "C0596019": 6,
+    "C0010294": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3067__bnp_v_s_bmp__graph.pt",
+  "source_dataset": "mtsamples_3067__bnp_v_s_bmp"
+}

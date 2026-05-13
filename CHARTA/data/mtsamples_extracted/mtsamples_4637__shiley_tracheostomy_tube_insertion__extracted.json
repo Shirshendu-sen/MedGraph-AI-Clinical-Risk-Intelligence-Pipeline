@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4637__shiley_tracheostomy_tube_insertion_.txt",
+    "file_name": "mtsamples_4637__shiley_tracheostomy_tube_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 968,
+    "processed_at": "2026-05-09T09:54:42.552286"
+  },
+  "entities": [
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 54,
+      "end_char": 57,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

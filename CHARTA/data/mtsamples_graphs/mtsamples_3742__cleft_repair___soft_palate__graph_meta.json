@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3742__cleft_repair___soft_palate_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 17,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0006400": 1,
+    "C0014563": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3742__cleft_repair___soft_palate__graph.pt",
+  "source_dataset": "mtsamples_3742__cleft_repair___soft_palate"
+}

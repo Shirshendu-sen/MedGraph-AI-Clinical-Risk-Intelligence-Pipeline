@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2276__bunionectomy___metatarsal_osteotomy_.txt",
+    "file_name": "mtsamples_2276__bunionectomy___metatarsal_osteotomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5263,
+    "processed_at": "2026-05-09T09:53:59.138915"
+  },
+  "entities": [
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 95,
+      "end_char": 103,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tightness",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 43,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tightness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

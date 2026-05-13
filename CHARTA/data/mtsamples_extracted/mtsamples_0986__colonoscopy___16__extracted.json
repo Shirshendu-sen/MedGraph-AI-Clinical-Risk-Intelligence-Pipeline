@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0986__colonoscopy___16_.txt",
+    "file_name": "mtsamples_0986__colonoscopy___16_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1914,
+    "processed_at": "2026-05-09T09:53:30.700445"
+  },
+  "entities": [
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 67,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "colitis",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 97,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 44,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "purulent",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 13,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "purulent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left buttock's cheek",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 88,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left buttock's cheek",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 122,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

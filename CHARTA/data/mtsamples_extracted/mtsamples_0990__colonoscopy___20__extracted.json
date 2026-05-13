@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0990__colonoscopy___20_.txt",
+    "file_name": "mtsamples_0990__colonoscopy___20_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1088,
+    "processed_at": "2026-05-09T09:53:30.761983"
+  },
+  "entities": [
+    {
+      "text": "Demerol",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 40,
+      "sentence_idx": 1,
+      "concept_id": "C0935966",
+      "concept_name": "Demerol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9676215052604675,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 127,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhoids",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 89,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenomatous",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 142,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenomatous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

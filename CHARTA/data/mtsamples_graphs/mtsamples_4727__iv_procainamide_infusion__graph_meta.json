@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_4727__iv_procainamide_infusion_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 23,
+  "entity_index": {
+    "C0033216": 0,
+    "UNKNOWN": 1,
+    "C0015846": 2,
+    "C0023660": 3,
+    "C0022245": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4727__iv_procainamide_infusion__graph.pt",
+  "source_dataset": "mtsamples_4727__iv_procainamide_infusion"
+}

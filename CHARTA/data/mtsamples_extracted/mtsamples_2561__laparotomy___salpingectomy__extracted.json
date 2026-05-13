@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2561__laparotomy___salpingectomy_.txt",
+    "file_name": "mtsamples_2561__laparotomy___salpingectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3508,
+    "processed_at": "2026-05-09T09:54:04.324276"
+  },
+  "entities": [
+    {
+      "text": "Tachycardia.,PROCEDURE",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 22,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tachycardia.,PROCEDURE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right ectopic pregnancy",
+      "label": "DISEASE",
+      "start_char": 184,
+      "end_char": 207,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right ectopic pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 226,
+      "end_char": 234,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vaginal bleeding",
+      "label": "DISEASE",
+      "start_char": 246,
+      "end_char": 262,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vaginal bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 274,
+      "end_char": 288,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right ectopic pregnancy",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 76,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ectopic pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "methotrexate",
+      "label": "CHEMICAL",
+      "start_char": 142,
+      "end_char": 154,
+      "sentence_idx": 8,
+      "concept_id": "C0025677",
+      "concept_name": "methotrexate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9549251794815063,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 82,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 93,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injury to surrounding organs and possible need for further surgery",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 161,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury to surrounding organs and possible need for further surgery",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right ectopic pregnancy",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 27,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ectopic pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

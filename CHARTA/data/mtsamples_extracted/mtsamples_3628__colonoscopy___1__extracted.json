@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3628__colonoscopy___1_.txt",
+    "file_name": "mtsamples_3628__colonoscopy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 160,
+    "processed_at": "2026-05-09T09:54:25.241675"
+  },
+  "entities": [
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "constipation",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 43,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "constipation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NCS",
+      "label": "CHEMICAL",
+      "start_char": 136,
+      "end_char": 139,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NCS",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

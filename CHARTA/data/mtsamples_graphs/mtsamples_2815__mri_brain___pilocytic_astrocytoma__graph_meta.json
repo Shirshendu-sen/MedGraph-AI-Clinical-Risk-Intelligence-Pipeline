@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_2815__mri_brain___pilocytic_astrocytoma_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 45,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699951": 1,
+    "C0740057": 2,
+    "C0031507": 3,
+    "C0029904": 4,
+    "C0699512": 5,
+    "C0016911": 6
+  },
+  "visit_dates": [
+    "1993-01-25"
+  ],
+  "graph_file": "mtsamples_2815__mri_brain___pilocytic_astrocytoma__graph.pt",
+  "source_dataset": "mtsamples_2815__mri_brain___pilocytic_astrocytoma"
+}

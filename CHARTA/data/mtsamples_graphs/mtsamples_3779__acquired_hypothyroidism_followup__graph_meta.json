@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3779__acquired_hypothyroidism_followup_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 39,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0040165": 1,
+    "C1636686": 2
+  },
+  "visit_dates": [
+    "2025-11-10"
+  ],
+  "graph_file": "mtsamples_3779__acquired_hypothyroidism_followup__graph.pt",
+  "source_dataset": "mtsamples_3779__acquired_hypothyroidism_followup"
+}

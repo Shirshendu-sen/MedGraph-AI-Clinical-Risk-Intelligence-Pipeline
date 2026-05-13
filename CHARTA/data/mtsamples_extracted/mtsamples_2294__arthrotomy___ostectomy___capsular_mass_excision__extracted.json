@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2294__arthrotomy___ostectomy___capsular_mass_excision_.txt",
+    "file_name": "mtsamples_2294__arthrotomy___ostectomy___capsular_mass_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3480,
+    "processed_at": "2026-05-09T09:53:59.496985"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 41,
+      "sentence_idx": 7,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 122,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "scar stiffness",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 208,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "scar stiffness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 210,
+      "end_char": 218,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "peroneal nerve palsy",
+      "label": "DISEASE",
+      "start_char": 224,
+      "end_char": 244,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peroneal nerve palsy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neuroma",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 80,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neuroma",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 32,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 31,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2768__neurology___discharge_summary_.txt",
+    "file_name": "mtsamples_2768__neurology___discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1349,
+    "processed_at": "2026-05-09T09:54:07.207122"
+  },
+  "entities": [
+    {
+      "text": "Contusion",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "head injury",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 18,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "Headache",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "Contusion",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "contusion",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 34,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "frontal headache",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 77,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "frontal headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "contusion",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 58,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "bleed",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 88,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleed",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "contusion",
+      "label": "DISEASE",
+      "start_char": 165,
+      "end_char": 174,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 145,
+      "end_char": 153,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "Tylenol",
+      "label": "CHEMICAL",
+      "start_char": 171,
+      "end_char": 178,
+      "sentence_idx": 16,
+      "concept_id": "C0699142",
+      "concept_name": "Tylenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9819504022598267,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 188,
+      "end_char": 191,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "q.6",
+      "label": "CHEMICAL",
+      "start_char": 193,
+      "end_char": 196,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "q.6",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 207,
+      "end_char": 215,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-06"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "11/6/2008",
+      "start_char": 1047,
+      "end_char": 1056
+    }
+  ]
+}

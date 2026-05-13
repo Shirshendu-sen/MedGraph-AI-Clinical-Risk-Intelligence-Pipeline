@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1972__epidural_steroid_injection___3_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 4,
+  "entity_index": {
+    "C0023660": 0,
+    "C0006400": 1,
+    "C0600901": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1972__epidural_steroid_injection___3__graph.pt",
+  "source_dataset": "mtsamples_1972__epidural_steroid_injection___3"
+}

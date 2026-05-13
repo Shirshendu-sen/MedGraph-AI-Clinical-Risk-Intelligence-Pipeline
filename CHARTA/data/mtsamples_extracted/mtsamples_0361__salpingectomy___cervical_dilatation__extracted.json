@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0361__salpingectomy___cervical_dilatation_.txt",
+    "file_name": "mtsamples_0361__salpingectomy___cervical_dilatation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3833,
+    "processed_at": "2026-05-09T09:53:14.010528"
+  },
+  "entities": [
+    {
+      "text": "anteverted",
+      "label": "DISEASE",
+      "start_char": 351,
+      "end_char": 361,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anteverted",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 31,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Vicodin",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 59,
+      "sentence_idx": 40,
+      "concept_id": "C0483514",
+      "concept_name": "Vicodin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9674537181854248,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 68,
+      "sentence_idx": 40,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

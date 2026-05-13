@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4093__speech_therapy_evaluation_.txt",
+    "file_name": "mtsamples_4093__speech_therapy_evaluation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4896,
+    "processed_at": "2026-05-09T09:54:33.413596"
+  },
+  "entities": [
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 247,
+      "end_char": 253,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 61,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "cocaine",
+      "label": "CHEMICAL",
+      "start_char": 94,
+      "end_char": 101,
+      "sentence_idx": 5,
+      "concept_id": "C0009170",
+      "concept_name": "benzoylmethylecgonine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9571420550346375,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "methamphetamine",
+      "label": "CHEMICAL",
+      "start_char": 111,
+      "end_char": 126,
+      "sentence_idx": 5,
+      "concept_id": "C0025611",
+      "concept_name": "metamfetamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9600993394851685,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "potassium",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 56,
+      "sentence_idx": 6,
+      "concept_id": "C0032821",
+      "concept_name": "potassium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9840192198753357,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 19,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "aphasia",
+      "label": "DISEASE",
+      "start_char": 146,
+      "end_char": 153,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "aphasia",
+      "label": "DISEASE",
+      "start_char": 215,
+      "end_char": 222,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "sister-in-law",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 27,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sister-in-law",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "visual deficit.,On",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 170,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "visual deficit.,On",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "auditory word recognition subtest, the patient had 5 out of 60 responses correct",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 84,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "auditory word recognition subtest, the patient had 5 out of 60 responses correct",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "communication deficits",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 152,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "communication deficits",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "aphasia",
+      "label": "DISEASE",
+      "start_char": 182,
+      "end_char": 189,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "aphasia",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 26,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-09-19"
+    },
+    {
+      "text": "WEEKS):,1",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 87,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "WEEKS):,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-09-19"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/19/08",
+      "start_char": 444,
+      "end_char": 452
+    }
+  ]
+}

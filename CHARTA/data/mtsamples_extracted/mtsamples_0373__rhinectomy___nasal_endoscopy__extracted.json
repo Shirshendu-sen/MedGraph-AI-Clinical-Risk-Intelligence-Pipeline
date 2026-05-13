@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0373__rhinectomy___nasal_endoscopy_.txt",
+    "file_name": "mtsamples_0373__rhinectomy___nasal_endoscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3912,
+    "processed_at": "2026-05-09T09:53:14.257788"
+  },
+  "entities": [
+    {
+      "text": "Squamous cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 49,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Squamous cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Squamous cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 119,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Squamous cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 37,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "folliculitis",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 150,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "folliculitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cellulitis",
+      "label": "DISEASE",
+      "start_char": 155,
+      "end_char": 165,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cellulitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "squamous cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 143,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "squamous cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 91,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 25,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "squamous cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 55,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "squamous cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "squamous cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 73,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "squamous cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

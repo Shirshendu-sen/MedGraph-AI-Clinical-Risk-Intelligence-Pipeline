@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2798__mri_head___1_.txt",
+    "file_name": "mtsamples_2798__mri_head___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1912,
+    "processed_at": "2026-05-09T09:54:08.546664"
+  },
+  "entities": [
+    {
+      "text": "infarction",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 142,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "chronic microvascular ischemic disease",
+      "label": "DISEASE",
+      "start_char": 170,
+      "end_char": 208,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic microvascular ischemic disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "chronic ischemic change",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 37,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic ischemic change",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "infarct",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 180,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarct",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 147,
+      "end_char": 154,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "infarct",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 38,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarct",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "abnormal mass",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 16,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 53,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "abnormal extra-axial collection",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 34,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal extra-axial collection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "Chiari malformation",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 127,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chiari malformation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "infarct",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 38,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarct",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "right cerebellar hemisphere.,3",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 100,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right cerebellar hemisphere.,3",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 39,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "4/18/05",
+      "start_char": 226,
+      "end_char": 233
+    }
+  ]
+}

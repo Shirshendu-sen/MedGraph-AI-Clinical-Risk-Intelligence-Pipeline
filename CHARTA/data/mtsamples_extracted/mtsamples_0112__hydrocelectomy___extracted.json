@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0112__hydrocelectomy__.txt",
+    "file_name": "mtsamples_0112__hydrocelectomy__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1831,
+    "processed_at": "2026-05-09T09:53:06.558757"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 200,
+      "end_char": 204,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "erectile dysfunction",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 60,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erectile dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Creatinine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 5,
+      "concept_id": "C0010294",
+      "concept_name": "creatinine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9711365103721619,
+      "timestamp": null
+    },
+    {
+      "text": "sodium",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 22,
+      "sentence_idx": 5,
+      "concept_id": "C0037473",
+      "concept_name": "sodium",
+      "kb_source": "rxnorm",
+      "link_score": 0.990592896938324,
+      "timestamp": null
+    },
+    {
+      "text": "potassium",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 41,
+      "sentence_idx": 5,
+      "concept_id": "C0032821",
+      "concept_name": "potassium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9840192198753357,
+      "timestamp": null
+    },
+    {
+      "text": "Calcium",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 6,
+      "concept_id": "C0006675",
+      "concept_name": "calcium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9792689085006714,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocele",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 29,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 101,
+      "end_char": 109,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

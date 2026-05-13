@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1179__av_fistula___1_.txt",
+    "file_name": "mtsamples_1179__av_fistula___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1064,
+    "processed_at": "2026-05-09T09:53:36.168336"
+  },
+  "entities": [
+    {
+      "text": "End-stage renal disease.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 61,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "End-stage renal disease.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 197,
+      "end_char": 204,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

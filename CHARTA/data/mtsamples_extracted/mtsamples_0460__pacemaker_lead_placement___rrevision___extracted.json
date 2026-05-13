@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0460__pacemaker_lead_placement___rrevision__.txt",
+    "file_name": "mtsamples_0460__pacemaker_lead_placement___rrevision__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1768,
+    "processed_at": "2026-05-09T09:53:16.708485"
+  },
+  "entities": [
+    {
+      "text": "Sinus bradycardia",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 106,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Sinus bradycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sick-sinus syndrome",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 127,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sick-sinus syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 157,
+      "end_char": 163,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 168,
+      "end_char": 176,
+      "sentence_idx": 1,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 272,
+      "end_char": 283,
+      "sentence_idx": 1,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "tortuosity",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 139,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tortuosity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

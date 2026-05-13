@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1261__abdominal_exploration_.txt",
+    "file_name": "mtsamples_1261__abdominal_exploration_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5321,
+    "processed_at": "2026-05-09T09:53:38.146058"
+  },
+  "entities": [
+    {
+      "text": "ascites",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 26,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ascites",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ascites",
+      "label": "DISEASE",
+      "start_char": 295,
+      "end_char": 302,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ascites",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thoracic duct leak",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 93,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thoracic duct leak",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chylous ascites",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 141,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chylous ascites",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chylous ascites",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 109,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chylous ascites",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ascites",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 56,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ascites",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chylothorax",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 72,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chylothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "that.,The lymphatic abnormality",
+      "label": "DISEASE",
+      "start_char": 144,
+      "end_char": 175,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "that.,The lymphatic abnormality",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernias",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 30,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chlorhexidine",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 66,
+      "sentence_idx": 21,
+      "concept_id": "C0008196",
+      "concept_name": "chlorhexidine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9488893151283264,
+      "timestamp": null
+    },
+    {
+      "text": "chylous ascites",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 184,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chylous ascites",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intestinal and mesenteric lymphangiectasia",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 151,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intestinal and mesenteric lymphangiectasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chylous ascites",
+      "label": "DISEASE",
+      "start_char": 187,
+      "end_char": 202,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chylous ascites",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

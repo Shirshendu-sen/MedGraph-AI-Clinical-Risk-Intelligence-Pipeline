@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_1684__ct_brain___calcification_of_basal_ganglia_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 66,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0017725": 1,
+    "C0593507": 2,
+    "C0042845": 3,
+    "C0302583": 4
+  },
+  "visit_dates": [
+    "1993-01-17"
+  ],
+  "graph_file": "mtsamples_1684__ct_brain___calcification_of_basal_ganglia__graph.pt",
+  "source_dataset": "mtsamples_1684__ct_brain___calcification_of_basal_ganglia"
+}

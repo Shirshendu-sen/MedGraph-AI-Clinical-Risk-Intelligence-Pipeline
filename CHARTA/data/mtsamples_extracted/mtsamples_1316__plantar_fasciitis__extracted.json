@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1316__plantar_fasciitis_.txt",
+    "file_name": "mtsamples_1316__plantar_fasciitis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 967,
+    "processed_at": "2026-05-09T09:53:39.010436"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 61,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 33,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 82,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pigment disorder",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 129,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pigment disorder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "redness",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 19,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "redness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 33,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tinea pedis",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 51,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tinea pedis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "redness",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 14,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "redness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 22,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "fasciitis",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 17,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

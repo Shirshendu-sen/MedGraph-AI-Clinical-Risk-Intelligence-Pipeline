@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1337__neurologic_examination_.txt",
+    "file_name": "mtsamples_1337__neurologic_examination_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1081,
+    "processed_at": "2026-05-09T09:53:39.430151"
+  },
+  "entities": [
+    {
+      "text": "cognitive or language dysfunction",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 57,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cognitive or language dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Extraocular movements",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 21,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Extraocular movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nystagmus",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 33,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nystagmus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "heel-to-shin",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 31,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "heel-to-shin",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Romberg",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Romberg",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infarction",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 120,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 132,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

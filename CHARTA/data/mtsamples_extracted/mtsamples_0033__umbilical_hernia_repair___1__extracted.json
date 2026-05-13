@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0033__umbilical_hernia_repair___1_.txt",
+    "file_name": "mtsamples_0033__umbilical_hernia_repair___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1384,
+    "processed_at": "2026-05-09T09:53:04.035626"
+  },
+  "entities": [
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 39,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 84,
+      "end_char": 93,
+      "sentence_idx": 1,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 102,
+      "end_char": 113,
+      "sentence_idx": 1,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 155,
+      "end_char": 161,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "benzoin",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 33,
+      "sentence_idx": 8,
+      "concept_id": "C0005070",
+      "concept_name": "benzoin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563013911247253,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

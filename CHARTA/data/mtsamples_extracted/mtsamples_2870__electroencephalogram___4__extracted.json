@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2870__electroencephalogram___4_.txt",
+    "file_name": "mtsamples_2870__electroencephalogram___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 663,
+    "processed_at": "2026-05-09T09:54:09.980046"
+  },
+  "entities": [
+    {
+      "text": "hyperventilation",
+      "label": "DISEASE",
+      "start_char": 171,
+      "end_char": 187,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperventilation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epilepsy",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 53,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epilepsy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

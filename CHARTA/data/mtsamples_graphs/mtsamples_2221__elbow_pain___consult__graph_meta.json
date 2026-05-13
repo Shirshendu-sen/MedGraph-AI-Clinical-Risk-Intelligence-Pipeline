@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_2221__elbow_pain___consult_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 41,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0483514": 2,
+    "C0699142": 3,
+    "C0699203": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2221__elbow_pain___consult__graph.pt",
+  "source_dataset": "mtsamples_2221__elbow_pain___consult"
+}

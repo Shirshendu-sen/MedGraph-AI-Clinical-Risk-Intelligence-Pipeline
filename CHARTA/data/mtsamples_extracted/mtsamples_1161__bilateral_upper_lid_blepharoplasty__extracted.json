@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1161__bilateral_upper_lid_blepharoplasty_.txt",
+    "file_name": "mtsamples_1161__bilateral_upper_lid_blepharoplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3398,
+    "processed_at": "2026-05-09T09:53:35.870061"
+  },
+  "entities": [
+    {
+      "text": "CPT",
+      "label": "CHEMICAL",
+      "start_char": 148,
+      "end_char": 151,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CPT",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 174,
+      "end_char": 183,
+      "sentence_idx": 0,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "1:100,000",
+      "label": "CHEMICAL",
+      "start_char": 189,
+      "end_char": 198,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:100,000",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "puffiness",
+      "label": "DISEASE",
+      "start_char": 345,
+      "end_char": 354,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "puffiness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 112,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 70,
+      "sentence_idx": 5,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "impairment of lateral vision",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 101,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impairment of lateral vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 200,
+      "end_char": 209,
+      "sentence_idx": 7,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "Epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 225,
+      "end_char": 236,
+      "sentence_idx": 7,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 38,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "herniated orbital fat",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 74,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniated orbital fat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "extraocular muscle movements",
+      "label": "DISEASE",
+      "start_char": 170,
+      "end_char": 198,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "extraocular muscle movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diplopia",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diplopia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ectropion",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 46,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ectropion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematomas",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 55,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematomas",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

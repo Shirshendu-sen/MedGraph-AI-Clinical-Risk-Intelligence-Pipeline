@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_3862__orif___discharge_summary_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 47,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699992": 1,
+    "C0728963": 2,
+    "C0483514": 3,
+    "C0030346": 4,
+    "C0591282": 5,
+    "C0678143": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3862__orif___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3862__orif___discharge_summary"
+}

@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3823__er_report___rib_cage_pain_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 24,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0025611": 2,
+    "C0009170": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3823__er_report___rib_cage_pain__graph.pt",
+  "source_dataset": "mtsamples_3823__er_report___rib_cage_pain"
+}

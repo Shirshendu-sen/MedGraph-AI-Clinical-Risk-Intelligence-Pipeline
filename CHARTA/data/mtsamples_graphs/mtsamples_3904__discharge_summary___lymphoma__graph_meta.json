@@ -1,0 +1,26 @@
+{
+  "patient_id": "mtsamples_3904__discharge_summary___lymphoma_",
+  "num_entities": 13,
+  "num_visits": 1,
+  "num_edges": 111,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0025677": 1,
+    "C0973231": 2,
+    "C0010294": 3,
+    "C0023413": 4,
+    "C0055003": 5,
+    "C0042313": 6,
+    "C0033701": 7,
+    "C0701042": 8,
+    "C0019134": 9,
+    "C0065374": 10,
+    "C0699601": 11,
+    "C0876060": 12
+  },
+  "visit_dates": [
+    "2008-07-24"
+  ],
+  "graph_file": "mtsamples_3904__discharge_summary___lymphoma__graph.pt",
+  "source_dataset": "mtsamples_3904__discharge_summary___lymphoma"
+}

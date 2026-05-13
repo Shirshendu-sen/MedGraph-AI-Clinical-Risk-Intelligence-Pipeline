@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3650__appendectomy_laparoscopic___1_.txt",
+    "file_name": "mtsamples_3650__appendectomy_laparoscopic___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3958,
+    "processed_at": "2026-05-09T09:54:25.523775"
+  },
+  "entities": [
+    {
+      "text": "suppurative",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 89,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "suppurative",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 193,
+      "end_char": 201,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 344,
+      "end_char": 358,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "acute appendicitis",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 101,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute appendicitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "loose stools",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 60,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loose stools",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "acute appendicitis",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 114,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute appendicitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "colitis",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 32,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 50,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 60,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "perforation",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 36,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 67,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "ovarian cysts",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 34,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ovarian cysts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "acute disease",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 100,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 57,
+      "end_char": 60,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "CO2 pneumoperitoneum",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 24,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2 pneumoperitoneum",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 159,
+      "end_char": 163,
+      "sentence_idx": 35,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/30/2003",
+      "start_char": 311,
+      "end_char": 321
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3954__cardiac_transfer_summary_.txt",
+    "file_name": "mtsamples_3954__cardiac_transfer_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1955,
+    "processed_at": "2026-05-09T09:54:29.745447"
+  },
+  "entities": [
+    {
+      "text": "diabetes.,4",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 22,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 68,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "myocardial infarction",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 42,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myocardial infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "amaurosis fugax",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 164,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "amaurosis fugax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "Aspirin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 25,
+      "concept_id": "C0004057",
+      "concept_name": "aspirin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736717343330383,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 15,
+      "end_char": 18,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "Lovenox",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 26,
+      "concept_id": "C0728963",
+      "concept_name": "Lovenox",
+      "kb_source": "rxnorm",
+      "link_score": 0.9913882613182068,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "Novolin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 28,
+      "concept_id": "C0028467",
+      "concept_name": "Novolin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9599185585975647,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "Metformin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 29,
+      "concept_id": "C0025598",
+      "concept_name": "metformin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9634568095207214,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 17,
+      "end_char": 20,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "Protonix",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 30,
+      "concept_id": "C0876139",
+      "concept_name": "Protonix",
+      "kb_source": "rxnorm",
+      "link_score": 0.9503398537635803,
+      "timestamp": "2025-11-10"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "6 months ago",
+      "start_char": 793,
+      "end_char": 805
+    }
+  ]
+}

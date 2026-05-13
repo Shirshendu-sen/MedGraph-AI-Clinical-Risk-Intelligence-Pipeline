@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2543__low_transverse_c_section___9_.txt",
+    "file_name": "mtsamples_2543__low_transverse_c_section___9_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4300,
+    "processed_at": "2026-05-09T09:54:04.001809"
+  },
+  "entities": [
+    {
+      "text": "Herpes simplex",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Herpes simplex",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-16"
+    },
+    {
+      "text": "Cephalopelvic",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cephalopelvic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-16"
+    },
+    {
+      "text": "Herpes simplex",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Herpes simplex",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-16"
+    },
+    {
+      "text": "Cephalopelvic",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cephalopelvic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-16"
+    },
+    {
+      "text": "herpes simplex",
+      "label": "DISEASE",
+      "start_char": 154,
+      "end_char": 168,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herpes simplex",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-16"
+    },
+    {
+      "text": "Valtrex",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 25,
+      "sentence_idx": 18,
+      "concept_id": "C0592245",
+      "concept_name": "Valtrex",
+      "kb_source": "rxnorm",
+      "link_score": 0.994683027267456,
+      "timestamp": "2003-09-16"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 18,
+      "sentence_idx": 21,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2003-09-16"
+    },
+    {
+      "text": "thin",
+      "label": "CHEMICAL",
+      "start_char": 17,
+      "end_char": 21,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-09-16"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/16/03",
+      "start_char": 953,
+      "end_char": 961
+    }
+  ]
+}

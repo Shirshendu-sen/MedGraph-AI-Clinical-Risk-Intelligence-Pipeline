@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3631__cholecystostomy_tube_placement_.txt",
+    "file_name": "mtsamples_3631__cholecystostomy_tube_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1269,
+    "processed_at": "2026-05-09T09:54:25.257674"
+  },
+  "entities": [
+    {
+      "text": "Acute acalculous",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 41,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Acute acalculous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "acalculous",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 100,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acalculous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 203,
+      "end_char": 212,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "acute cholecystitis",
+      "label": "DISEASE",
+      "start_char": 352,
+      "end_char": 371,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute cholecystitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 36,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

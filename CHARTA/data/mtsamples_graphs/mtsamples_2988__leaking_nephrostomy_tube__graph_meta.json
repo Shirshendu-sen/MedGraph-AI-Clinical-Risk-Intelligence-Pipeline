@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2988__leaking_nephrostomy_tube_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 37,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0030054": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2988__leaking_nephrostomy_tube__graph.pt",
+  "source_dataset": "mtsamples_2988__leaking_nephrostomy_tube"
+}

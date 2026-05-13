@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1389__erectile_dysfunction___followup_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 25,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0967376": 1,
+    "C0017887": 2,
+    "C1174890": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1389__erectile_dysfunction___followup__graph.pt",
+  "source_dataset": "mtsamples_1389__erectile_dysfunction___followup"
+}

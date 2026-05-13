@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0563__lumbar_discogram_.txt",
+    "file_name": "mtsamples_0563__lumbar_discogram_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1494,
+    "processed_at": "2026-05-09T09:53:19.173770"
+  },
+  "entities": [
+    {
+      "text": "discogram L2",
+      "label": "CHEMICAL",
+      "start_char": 7,
+      "end_char": 19,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "discogram L2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "discogram L3-4.,3",
+      "label": "CHEMICAL",
+      "start_char": 7,
+      "end_char": 24,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "discogram L3-4.,3",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "discogram L4-5.,4",
+      "label": "CHEMICAL",
+      "start_char": 7,
+      "end_char": 24,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "discogram L4-5.,4",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "discogram L5-S1.,ANESTHESIA",
+      "label": "CHEMICAL",
+      "start_char": 7,
+      "end_char": 34,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "discogram L5-S1.,ANESTHESIA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 41,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Isovue",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 115,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Isovue",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 133,
+      "end_char": 138,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

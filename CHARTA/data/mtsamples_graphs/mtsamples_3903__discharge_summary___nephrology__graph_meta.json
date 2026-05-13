@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3903__discharge_summary___nephrology_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1
+  },
+  "visit_dates": [
+    "2008-06-18"
+  ],
+  "graph_file": "mtsamples_3903__discharge_summary___nephrology__graph.pt",
+  "source_dataset": "mtsamples_3903__discharge_summary___nephrology"
+}

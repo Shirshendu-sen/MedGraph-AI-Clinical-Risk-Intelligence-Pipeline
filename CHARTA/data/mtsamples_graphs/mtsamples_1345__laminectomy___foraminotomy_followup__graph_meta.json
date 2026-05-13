@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1345__laminectomy___foraminotomy_followup_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    "2007-06-08"
+  ],
+  "graph_file": "mtsamples_1345__laminectomy___foraminotomy_followup__graph.pt",
+  "source_dataset": "mtsamples_1345__laminectomy___foraminotomy_followup"
+}

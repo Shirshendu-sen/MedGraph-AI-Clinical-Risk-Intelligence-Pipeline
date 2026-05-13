@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2608__d_c___tubal_pregnancy_removal_.txt",
+    "file_name": "mtsamples_2608__d_c___tubal_pregnancy_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4196,
+    "processed_at": "2026-05-09T09:54:05.128377"
+  },
+  "entities": [
+    {
+      "text": "Right ruptured tubal",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 20,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right ruptured tubal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dilatation",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dilatation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tubal pregnancy and right partial",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 61,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tubal pregnancy and right partial",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abortions",
+      "label": "DISEASE",
+      "start_char": 283,
+      "end_char": 292,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abortions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pelvic pain",
+      "label": "DISEASE",
+      "start_char": 335,
+      "end_char": 346,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anteverted",
+      "label": "DISEASE",
+      "start_char": 175,
+      "end_char": 185,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anteverted",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fullness",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 73,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fullness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pelvic adhesions",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 32,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic adhesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 38,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 69,
+      "end_char": 72,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "oozing",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 34,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "oozing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

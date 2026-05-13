@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0323__stab_wound_closure_.txt",
+    "file_name": "mtsamples_0323__stab_wound_closure_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 490,
+    "processed_at": "2026-05-09T09:53:12.503910"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0323__stab_wound_closure_.txt",
+    "text": "PREPROCEDURE DIAGNOSIS:,  Stab wound, left posterolateral chest.,POST PROCEDURE DIAGNOSIS: , Stab wound, left posterolateral chest.,PROCEDURE PERFORMED: , Closure of stab wound.,ANESTHESIA: , 1% lidocaine with epinephrine by local infiltration.,NARRATIVE:  ,The wound was irrigated copiously with 500 mL of irrigation and closed in 1 layer with staples after locally anesthetizing with 1% lidocaine with epinephrine.  The patient tolerated the procedure well without apparent complications.",
+    "char_count": 490,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREPROCEDURE DIAGNOSIS:, Stab wound, left posterolateral chest.,POST PROCEDURE DIAGNOSIS: , Stab wound, left posterolateral chest.,PROCEDURE PERFORMED: , Closure of stab wound.,ANESTHESIA: , 1% lidocaine with epinephrine by local infiltration.,NARRATIVE: ,The wound was irrigated copiously with 500 mL of irrigation and closed in 1 layer with staples after locally anesthetizing with 1% lidocaine with epinephrine. The patient tolerated the procedure well without apparent complications.",
+    "sentences": [
+      "PREPROCEDURE DIAGNOSIS:, Stab wound, left posterolateral chest.,POST PROCEDURE DIAGNOSIS: , Stab wound, left posterolateral chest.,PROCEDURE PERFORMED: , Closure of stab wound.,ANESTHESIA: , 1% lidocaine with epinephrine by local infiltration.,NARRATIVE: ,The wound was irrigated copiously with 500 mL of irrigation and closed in 1 layer with staples after locally anesthetizing with 1% lidocaine with epinephrine.",
+      "The patient tolerated the procedure well without apparent complications."
+    ],
+    "sentence_count": 2,
+    "original_length": 490,
+    "cleaned_length": 487,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREPROCEDURE DIAGNOSIS:,  Stab wound, left posterolateral chest.,POST PROCEDURE DIAGNOSIS: , Stab wound, left posterolateral chest.,PROCEDURE PERFORMED: , Closure of stab wound.,ANESTHESIA: , 1% lidocaine with epinephrine by local infiltration.,NARRATIVE:  ,The wound was irrigated copiously with 500 mL of irrigation and closed in 1 layer with staples after locally anesthetizing with 1% lidocaine with epinephrine.  The patient tolerated the procedure well without apparent complications.",
+    "cleaned_text": "PREPROCEDURE DIAGNOSIS:, Stab wound, left posterolateral chest.,POST PROCEDURE DIAGNOSIS: , Stab wound, left posterolateral chest.,PROCEDURE PERFORMED: , Closure of stab wound.,ANESTHESIA: , 1% lidocaine with epinephrine by local infiltration.,NARRATIVE: ,The wound was irrigated copiously with 500 mL of irrigation and closed in 1 layer with staples after locally anesthetizing with 1% lidocaine with epinephrine. The patient tolerated the procedure well without apparent complications.",
+    "sentences": [
+      "PREPROCEDURE DIAGNOSIS:, Stab wound, left posterolateral chest.,POST PROCEDURE DIAGNOSIS: , Stab wound, left posterolateral chest.,PROCEDURE PERFORMED: , Closure of stab wound.,ANESTHESIA: , 1% lidocaine with epinephrine by local infiltration.,NARRATIVE: ,The wound was irrigated copiously with 500 mL of irrigation and closed in 1 layer with staples after locally anesthetizing with 1% lidocaine with epinephrine.",
+      "The patient tolerated the procedure well without apparent complications."
+    ],
+    "sentence_count": 2
+  }
+}

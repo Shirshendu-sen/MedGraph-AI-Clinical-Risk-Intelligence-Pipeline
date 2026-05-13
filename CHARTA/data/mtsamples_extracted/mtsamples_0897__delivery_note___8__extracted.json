@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0897__delivery_note___8_.txt",
+    "file_name": "mtsamples_0897__delivery_note___8_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1799,
+    "processed_at": "2026-05-09T09:53:28.536686"
+  },
+  "entities": [
+    {
+      "text": "Cytotec",
+      "label": "CHEMICAL",
+      "start_char": 65,
+      "end_char": 72,
+      "sentence_idx": 3,
+      "concept_id": "C0591321",
+      "concept_name": "Cytotec",
+      "kb_source": "rxnorm",
+      "link_score": 0.9948253035545349,
+      "timestamp": "2008-12-22"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 17,
+      "end_char": 24,
+      "sentence_idx": 4,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2008-12-22"
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 100,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-22"
+    },
+    {
+      "text": "MDL",
+      "label": "CHEMICAL",
+      "start_char": 225,
+      "end_char": 228,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "MDL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-22"
+    },
+    {
+      "text": "strep",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 78,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "strep",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-22"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "December 22, 2008",
+      "start_char": 305,
+      "end_char": 322
+    }
+  ]
+}

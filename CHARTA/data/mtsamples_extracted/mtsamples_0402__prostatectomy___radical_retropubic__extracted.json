@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0402__prostatectomy___radical_retropubic_.txt",
+    "file_name": "mtsamples_0402__prostatectomy___radical_retropubic_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4873,
+    "processed_at": "2026-05-09T09:53:14.944202"
+  },
+  "entities": [
+    {
+      "text": "Prostate",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Prostate",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 77,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenocarcinoma of the prostate",
+      "label": "DISEASE",
+      "start_char": 320,
+      "end_char": 350,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma of the prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphostasis",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 32,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphostasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 53,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 69,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 62,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 24,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 52,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

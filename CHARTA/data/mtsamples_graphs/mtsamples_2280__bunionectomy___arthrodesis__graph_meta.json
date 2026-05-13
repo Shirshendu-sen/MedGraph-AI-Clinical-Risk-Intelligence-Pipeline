@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_2280__bunionectomy___arthrodesis_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 45,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0023660": 2,
+    "C0699142": 3,
+    "C0700017": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2280__bunionectomy___arthrodesis__graph.pt",
+  "source_dataset": "mtsamples_2280__bunionectomy___arthrodesis"
+}

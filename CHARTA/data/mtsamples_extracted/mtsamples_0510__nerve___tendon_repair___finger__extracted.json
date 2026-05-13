@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0510__nerve___tendon_repair___finger_.txt",
+    "file_name": "mtsamples_0510__nerve___tendon_repair___finger_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3214,
+    "processed_at": "2026-05-09T09:53:17.934674"
+  },
+  "entities": [
+    {
+      "text": "nerve injury",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 97,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nerve injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 324,
+      "end_char": 332,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "FDP",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 55,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FDP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

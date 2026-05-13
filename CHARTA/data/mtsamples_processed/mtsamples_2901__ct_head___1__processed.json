@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2901__ct_head___1_.txt",
+    "file_name": "mtsamples_2901__ct_head___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 476,
+    "processed_at": "2026-05-09T09:54:10.424124"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2901__ct_head___1_.txt",
+    "text": "EXAM:,  CT head.,REASON FOR EXAM:,  Seizure disorder.,TECHNIQUE:,  Noncontrast CT head.,FINDINGS: , There is no evidence of an acute intracranial hemorrhage or infarction.  There is no midline shift, intracranial mass, or mass effect.  There is no extra-axial fluid collection or hydrocephalus.  Visualized portions of the paranasal sinuses and mastoid air cells appear clear aside from mild right frontal sinus mucosal thickening.,IMPRESSION:,  No acute process in the brain.",
+    "char_count": 476,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM:, CT head.,REASON FOR EXAM:, Seizure disorder.,TECHNIQUE:, Noncontrast CT head.,FINDINGS: , There is no evidence of an acute intracranial hemorrhage or infarction. There is no midline shift, intracranial mass, or mass effect. There is no extra-axial fluid collection or hydrocephalus. Visualized portions of the paranasal sinuses and mastoid air cells appear clear aside from mild right frontal sinus mucosal thickening.,IMPRESSION:, No acute process in the brain.",
+    "sentences": [
+      "EXAM:, CT head.,REASON FOR EXAM:, Seizure disorder.,TECHNIQUE:, Noncontrast CT head.,FINDINGS: , There is no evidence of an acute intracranial hemorrhage or infarction.",
+      "There is no midline shift, intracranial mass, or mass effect.",
+      "There is no extra-axial fluid collection or hydrocephalus.",
+      "Visualized portions of the paranasal sinuses and mastoid air cells appear clear aside from mild right frontal sinus mucosal thickening.,IMPRESSION:, No acute process in the brain."
+    ],
+    "sentence_count": 4,
+    "original_length": 476,
+    "cleaned_length": 469,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM:,  CT head.,REASON FOR EXAM:,  Seizure disorder.,TECHNIQUE:,  Noncontrast CT head.,FINDINGS: , There is no evidence of an acute intracranial hemorrhage or infarction.  There is no midline shift, intracranial mass, or mass effect.  There is no extra-axial fluid collection or hydrocephalus.  Visualized portions of the paranasal sinuses and mastoid air cells appear clear aside from mild right frontal sinus mucosal thickening.,IMPRESSION:,  No acute process in the brain.",
+    "cleaned_text": "EXAM:, CT head.,REASON FOR EXAM:, Seizure disorder.,TECHNIQUE:, Noncontrast CT head.,FINDINGS: , There is no evidence of an acute intracranial hemorrhage or infarction. There is no midline shift, intracranial mass, or mass effect. There is no extra-axial fluid collection or hydrocephalus. Visualized portions of the paranasal sinuses and mastoid air cells appear clear aside from mild right frontal sinus mucosal thickening.,IMPRESSION:, No acute process in the brain.",
+    "sentences": [
+      "EXAM:, CT head.,REASON FOR EXAM:, Seizure disorder.,TECHNIQUE:, Noncontrast CT head.,FINDINGS: , There is no evidence of an acute intracranial hemorrhage or infarction.",
+      "There is no midline shift, intracranial mass, or mass effect.",
+      "There is no extra-axial fluid collection or hydrocephalus.",
+      "Visualized portions of the paranasal sinuses and mastoid air cells appear clear aside from mild right frontal sinus mucosal thickening.,IMPRESSION:, No acute process in the brain."
+    ],
+    "sentence_count": 4
+  }
+}

@@ -1,8 +1,4 @@
 venv/
-data/mtsamples/
-data/mtsamples_processed/
-data/mtsamples_extracted/
-data/mtsamples_graphs/
 data/openI/
 data/openI_processed/
 data/openI_extracted/

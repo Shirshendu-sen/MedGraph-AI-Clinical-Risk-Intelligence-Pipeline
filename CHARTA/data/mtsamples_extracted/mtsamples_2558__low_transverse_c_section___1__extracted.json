@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2558__low_transverse_c_section___1_.txt",
+    "file_name": "mtsamples_2558__low_transverse_c_section___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5097,
+    "processed_at": "2026-05-09T09:54:04.285741"
+  },
+  "entities": [
+    {
+      "text": "EDC",
+      "label": "CHEMICAL",
+      "start_char": 415,
+      "end_char": 418,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EDC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2009-03-08"
+    },
+    {
+      "text": "bradycardia",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 82,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bradycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-03-08"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 49,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-03-08"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 61,
+      "sentence_idx": 52,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2009-03-08"
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 24,
+      "sentence_idx": 54,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-03-08"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "03/08/2009",
+      "start_char": 422,
+      "end_char": 432
+    },
+    {
+      "raw_text": "03/09/2007",
+      "start_char": 529,
+      "end_char": 539
+    }
+  ]
+}

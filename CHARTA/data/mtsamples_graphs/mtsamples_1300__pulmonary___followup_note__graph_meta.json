@@ -1,0 +1,28 @@
+{
+  "patient_id": "mtsamples_1300__pulmonary___followup_note_",
+  "num_entities": 15,
+  "num_visits": 1,
+  "num_edges": 136,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0700777": 2,
+    "C0032952": 3,
+    "C0699177": 4,
+    "C0699279": 5,
+    "C0965130": 6,
+    "C0699710": 7,
+    "C1996201": 8,
+    "C0004057": 9,
+    "C0006675": 10,
+    "C0042866": 11,
+    "C0042874": 12,
+    "C0025270": 13,
+    "C0030827": 14
+  },
+  "visit_dates": [
+    "2004-06-16"
+  ],
+  "graph_file": "mtsamples_1300__pulmonary___followup_note__graph.pt",
+  "source_dataset": "mtsamples_1300__pulmonary___followup_note"
+}

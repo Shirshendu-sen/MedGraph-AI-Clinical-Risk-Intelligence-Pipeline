@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0237__transurethral_resection_of_bladder_tumor__.txt",
+    "file_name": "mtsamples_0237__transurethral_resection_of_bladder_tumor__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2398,
+    "processed_at": "2026-05-09T09:53:10.049295"
+  },
+  "entities": [
+    {
+      "text": "bladder tumor",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 155,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "TURBT",
+      "label": "DISEASE",
+      "start_char": 157,
+      "end_char": 162,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "TURBT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bladder tumor",
+      "label": "DISEASE",
+      "start_char": 231,
+      "end_char": 244,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bladder tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematuria",
+      "label": "DISEASE",
+      "start_char": 488,
+      "end_char": 497,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 57,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 84,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 116,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 38,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 89,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 70,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 125,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 21,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2496__ultrasound___transvaginal_.txt",
+    "file_name": "mtsamples_2496__ultrasound___transvaginal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 906,
+    "processed_at": "2026-05-09T09:54:03.292625"
+  },
+  "entities": [
+    {
+      "text": "torsion",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 44,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "torsion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhagic cyst",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 45,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhagic cyst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 60,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left ovarian torsion",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 45,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left ovarian torsion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cystic left ovarian mass",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 39,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cystic left ovarian mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhagic cyst",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 45,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhagic cyst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

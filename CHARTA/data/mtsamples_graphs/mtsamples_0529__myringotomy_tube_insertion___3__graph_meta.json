@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0529__myringotomy_tube_insertion___3_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008809": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0529__myringotomy_tube_insertion___3__graph.pt",
+  "source_dataset": "mtsamples_0529__myringotomy_tube_insertion___3"
+}

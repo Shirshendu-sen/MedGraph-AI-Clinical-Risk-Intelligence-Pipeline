@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3136__intensity_modulated_radiation_therapy_simulation_.txt",
+    "file_name": "mtsamples_3136__intensity_modulated_radiation_therapy_simulation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1162,
+    "processed_at": "2026-05-09T09:54:15.462055"
+  },
+  "entities": [
+    {
+      "text": "high-dose",
+      "label": "CHEMICAL",
+      "start_char": 132,
+      "end_char": 141,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "high-dose",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 87,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

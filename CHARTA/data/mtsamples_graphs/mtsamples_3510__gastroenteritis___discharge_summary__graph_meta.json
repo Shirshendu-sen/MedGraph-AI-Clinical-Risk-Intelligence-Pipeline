@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_3510__gastroenteritis___discharge_summary_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 50,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0079134": 1,
+    "C0032952": 2,
+    "C0875954": 3,
+    "C0593906": 4,
+    "C0591573": 5,
+    "C0965130": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3510__gastroenteritis___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3510__gastroenteritis___discharge_summary"
+}

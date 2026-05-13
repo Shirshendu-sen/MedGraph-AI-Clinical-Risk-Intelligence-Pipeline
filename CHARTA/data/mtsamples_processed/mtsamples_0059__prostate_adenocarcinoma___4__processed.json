@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0059__prostate_adenocarcinoma___4_.txt",
+    "file_name": "mtsamples_0059__prostate_adenocarcinoma___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 981,
+    "processed_at": "2026-05-09T09:53:05.037185"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0059__prostate_adenocarcinoma___4_.txt",
+    "text": "PHYSICAL EXAMINATION:,  Patient is a 46-year-old white male seen for annual physical exam and had an incidental PSA elevation of 4.0.  All other systems were normal.,PROCEDURES:  ,Sextant biopsy of the prostate.,Radical prostatectomy:  Excised prostate including capsule, pelvic lymph nodes, seminal vesicles, and small portion of bladder neck.,PATHOLOGY:,Prostate biopsy:  Right lobe, negative.  Left lobe, small focus of adenocarcinoma, Gleason's 3 + 3 in approximately 5% of the tissue.,Radical prostatectomy:  Negative lymph nodes.  Prostate gland showing moderately differentiated infiltrating adenocarcinoma, Gleason 3 + 2 extending to the apex involving both lobes of the prostate, mainly right.  Tumor overall involved less than 5% of the tissue.  Surgical margin was reported and involved at the apex.  The capsule and seminal vesicles were free.,DISCHARGE NOTE:,  Patient has made good post-op recovery other than mild urgency incontinence.  His post-op PSA is 0.1 mg/ml.",
+    "char_count": 981,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PHYSICAL EXAMINATION:, Patient is a 46-year-old white male seen for annual physical exam and had an incidental PSA elevation of 4.0. All other systems were normal.,PROCEDURES: ,Sextant biopsy of the prostate.,Radical prostatectomy: Excised prostate including capsule, pelvic lymph nodes, seminal vesicles, and small portion of bladder neck.,PATHOLOGY:,Prostate biopsy: Right lobe, negative. Left lobe, small focus of adenocarcinoma, Gleason's 3 + 3 in approximately 5% of the tissue.,Radical prostatectomy: Negative lymph nodes. Prostate gland showing moderately differentiated infiltrating adenocarcinoma, Gleason 3 + 2 extending to the apex involving both lobes of the prostate, mainly right. Tumor overall involved less than 5% of the tissue. Surgical margin was reported and involved at the apex. The capsule and seminal vesicles were free.,DISCHARGE NOTE:, Patient has made good post-op recovery other than mild urgency incontinence. His post-op PSA is 0.1 mg/ml.",
+    "sentences": [
+      "PHYSICAL EXAMINATION:, Patient is a 46-year-old white male seen for annual physical exam and had an incidental PSA elevation of 4.0.",
+      "All other systems were normal.,PROCEDURES: ,Sextant biopsy of the prostate.,Radical prostatectomy: Excised prostate including capsule, pelvic lymph nodes, seminal vesicles, and small portion of bladder neck.,PATHOLOGY:,Prostate biopsy: Right lobe, negative.",
+      "Left lobe, small focus of adenocarcinoma, Gleason's 3 + 3 in approximately 5% of the tissue.,Radical prostatectomy: Negative lymph nodes.",
+      "Prostate gland showing moderately differentiated infiltrating adenocarcinoma, Gleason 3 + 2 extending to the apex involving both lobes of the prostate, mainly right.",
+      "Tumor overall involved less than 5% of the tissue.",
+      "Surgical margin was reported and involved at the apex.",
+      "The capsule and seminal vesicles were free.,DISCHARGE NOTE:, Patient has made good post-op recovery other than mild urgency incontinence.",
+      "His post-op PSA is 0.1 mg/ml."
+    ],
+    "sentence_count": 8,
+    "original_length": 981,
+    "cleaned_length": 968,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PHYSICAL EXAMINATION:,  Patient is a 46-year-old white male seen for annual physical exam and had an incidental PSA elevation of 4.0.  All other systems were normal.,PROCEDURES:  ,Sextant biopsy of the prostate.,Radical prostatectomy:  Excised prostate including capsule, pelvic lymph nodes, seminal vesicles, and small portion of bladder neck.,PATHOLOGY:,Prostate biopsy:  Right lobe, negative.  Left lobe, small focus of adenocarcinoma, Gleason's 3 + 3 in approximately 5% of the tissue.,Radical prostatectomy:  Negative lymph nodes.  Prostate gland showing moderately differentiated infiltrating adenocarcinoma, Gleason 3 + 2 extending to the apex involving both lobes of the prostate, mainly right.  Tumor overall involved less than 5% of the tissue.  Surgical margin was reported and involved at the apex.  The capsule and seminal vesicles were free.,DISCHARGE NOTE:,  Patient has made good post-op recovery other than mild urgency incontinence.  His post-op PSA is 0.1 mg/ml.",
+    "cleaned_text": "PHYSICAL EXAMINATION:, Patient is a 46-year-old white male seen for annual physical exam and had an incidental PSA elevation of 4.0. All other systems were normal.,PROCEDURES: ,Sextant biopsy of the prostate.,Radical prostatectomy: Excised prostate including capsule, pelvic lymph nodes, seminal vesicles, and small portion of bladder neck.,PATHOLOGY:,Prostate biopsy: Right lobe, negative. Left lobe, small focus of adenocarcinoma, Gleason's 3 + 3 in approximately 5% of the tissue.,Radical prostatectomy: Negative lymph nodes. Prostate gland showing moderately differentiated infiltrating adenocarcinoma, Gleason 3 + 2 extending to the apex involving both lobes of the prostate, mainly right. Tumor overall involved less than 5% of the tissue. Surgical margin was reported and involved at the apex. The capsule and seminal vesicles were free.,DISCHARGE NOTE:, Patient has made good post-op recovery other than mild urgency incontinence. His post-op PSA is 0.1 mg/ml.",
+    "sentences": [
+      "PHYSICAL EXAMINATION:, Patient is a 46-year-old white male seen for annual physical exam and had an incidental PSA elevation of 4.0.",
+      "All other systems were normal.,PROCEDURES: ,Sextant biopsy of the prostate.,Radical prostatectomy: Excised prostate including capsule, pelvic lymph nodes, seminal vesicles, and small portion of bladder neck.,PATHOLOGY:,Prostate biopsy: Right lobe, negative.",
+      "Left lobe, small focus of adenocarcinoma, Gleason's 3 + 3 in approximately 5% of the tissue.,Radical prostatectomy: Negative lymph nodes.",
+      "Prostate gland showing moderately differentiated infiltrating adenocarcinoma, Gleason 3 + 2 extending to the apex involving both lobes of the prostate, mainly right.",
+      "Tumor overall involved less than 5% of the tissue.",
+      "Surgical margin was reported and involved at the apex.",
+      "The capsule and seminal vesicles were free.,DISCHARGE NOTE:, Patient has made good post-op recovery other than mild urgency incontinence.",
+      "His post-op PSA is 0.1 mg/ml."
+    ],
+    "sentence_count": 8
+  }
+}

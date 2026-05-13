@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3240__mri_brain___co_poisoning_.txt",
+    "file_name": "mtsamples_3240__mri_brain___co_poisoning_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1954,
+    "processed_at": "2026-05-09T09:54:16.744456"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-01-16"
+    },
+    {
+      "text": "PUD",
+      "label": "DISEASE",
+      "start_char": 147,
+      "end_char": 150,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PUD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-01-16"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 153,
+      "end_char": 159,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-01-16"
+    },
+    {
+      "text": "dysarthria",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 25,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysarthria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-01-16"
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 246,
+      "end_char": 254,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-01-16"
+    },
+    {
+      "text": "Oxygen",
+      "label": "CHEMICAL",
+      "start_char": 340,
+      "end_char": 346,
+      "sentence_idx": 6,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "1996-01-16"
+    },
+    {
+      "text": "cognitive impairments",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 76,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cognitive impairments",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-01-16"
+    },
+    {
+      "text": "memory, praxis, associative fluency, attention, and speed of information processing.",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 189,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "memory, praxis, associative fluency, attention, and speed of information processing.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-01-16"
+    },
+    {
+      "text": "neurologic deterioration",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 89,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neurologic deterioration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-01-16"
+    },
+    {
+      "text": "anhedonia",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 62,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anhedonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-01-16"
+    },
+    {
+      "text": "anorexia",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 72,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anorexia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-01-16"
+    },
+    {
+      "text": "ETOH abuse",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 102,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ETOH abuse",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-01-16"
+    },
+    {
+      "text": "anxiety",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 121,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anxiety",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-01-16"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "1/16/96",
+      "start_char": 80,
+      "end_char": 87
+    },
+    {
+      "raw_text": "1/16/96",
+      "start_char": 296,
+      "end_char": 303
+    },
+    {
+      "raw_text": "41/30/370",
+      "start_char": 432,
+      "end_char": 441
+    },
+    {
+      "raw_text": "1/18/96",
+      "start_char": 1135,
+      "end_char": 1142
+    },
+    {
+      "raw_text": "1/19/96",
+      "start_char": 1321,
+      "end_char": 1328
+    },
+    {
+      "raw_text": "2/11/96",
+      "start_char": 1345,
+      "end_char": 1352
+    },
+    {
+      "raw_text": "2/14/96",
+      "start_char": 1805,
+      "end_char": 1812
+    }
+  ]
+}

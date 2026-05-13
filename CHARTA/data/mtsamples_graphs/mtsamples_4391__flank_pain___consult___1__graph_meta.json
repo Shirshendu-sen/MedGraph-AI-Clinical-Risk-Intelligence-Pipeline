@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4391__flank_pain___consult___1_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 26,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0010294": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4391__flank_pain___consult___1__graph.pt",
+  "source_dataset": "mtsamples_4391__flank_pain___consult___1"
+}

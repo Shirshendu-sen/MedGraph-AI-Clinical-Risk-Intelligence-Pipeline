@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3561__egd_template___2_.txt",
+    "file_name": "mtsamples_3561__egd_template___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 588,
+    "processed_at": "2026-05-09T09:54:23.610452"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3561__egd_template___2_.txt",
+    "text": "The patient was placed in the left lateral decubitus position, medicated with the above medications to achieve and maintain a conscious sedation.  Vital signs were monitored throughout the procedure without evidence of hemodynamic compromise or desaturation.,The Olympus single-channel endoscope was passed under direct visualization through the oral cavity and advanced to the second portion of the duodenum.,FINDINGS:,ESOPHAGUS:  Proximal and mid esophagus were without abnormalities.,STOMACH:  Insufflated and retroflexed visualization of the gastric cavity revealed,DUODENUM:  Normal.",
+    "char_count": 588,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "The patient was placed in the left lateral decubitus position, medicated with the above medications to achieve and maintain a conscious sedation. Vital signs were monitored throughout the procedure without evidence of hemodynamic compromise or desaturation.,The Olympus single-channel endoscope was passed under direct visualization through the oral cavity and advanced to the second portion of the duodenum.,FINDINGS:,ESOPHAGUS: Proximal and mid esophagus were without abnormalities.,STOMACH: Insufflated and retroflexed visualization of the gastric cavity revealed,DUODENUM: Normal.",
+    "sentences": [
+      "The patient was placed in the left lateral decubitus position, medicated with the above medications to achieve and maintain a conscious sedation.",
+      "Vital signs were monitored throughout the procedure without evidence of hemodynamic compromise or desaturation.,The Olympus single-channel endoscope was passed under direct visualization through the oral cavity and advanced to the second portion of the duodenum.,FINDINGS:,ESOPHAGUS: Proximal and mid esophagus were without abnormalities.,STOMACH: Insufflated and retroflexed visualization of the gastric cavity revealed,DUODENUM: Normal."
+    ],
+    "sentence_count": 2,
+    "original_length": 588,
+    "cleaned_length": 584,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "The patient was placed in the left lateral decubitus position, medicated with the above medications to achieve and maintain a conscious sedation.  Vital signs were monitored throughout the procedure without evidence of hemodynamic compromise or desaturation.,The Olympus single-channel endoscope was passed under direct visualization through the oral cavity and advanced to the second portion of the duodenum.,FINDINGS:,ESOPHAGUS:  Proximal and mid esophagus were without abnormalities.,STOMACH:  Insufflated and retroflexed visualization of the gastric cavity revealed,DUODENUM:  Normal.",
+    "cleaned_text": "The patient was placed in the left lateral decubitus position, medicated with the above medications to achieve and maintain a conscious sedation. Vital signs were monitored throughout the procedure without evidence of hemodynamic compromise or desaturation.,The Olympus single-channel endoscope was passed under direct visualization through the oral cavity and advanced to the second portion of the duodenum.,FINDINGS:,ESOPHAGUS: Proximal and mid esophagus were without abnormalities.,STOMACH: Insufflated and retroflexed visualization of the gastric cavity revealed,DUODENUM: Normal.",
+    "sentences": [
+      "The patient was placed in the left lateral decubitus position, medicated with the above medications to achieve and maintain a conscious sedation.",
+      "Vital signs were monitored throughout the procedure without evidence of hemodynamic compromise or desaturation.,The Olympus single-channel endoscope was passed under direct visualization through the oral cavity and advanced to the second portion of the duodenum.,FINDINGS:,ESOPHAGUS: Proximal and mid esophagus were without abnormalities.,STOMACH: Insufflated and retroflexed visualization of the gastric cavity revealed,DUODENUM: Normal."
+    ],
+    "sentence_count": 2
+  }
+}

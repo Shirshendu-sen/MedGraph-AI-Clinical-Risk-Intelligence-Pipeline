@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4149__physical_exam_and_pap___1_.txt",
+    "file_name": "mtsamples_4149__physical_exam_and_pap___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3129,
+    "processed_at": "2026-05-09T09:54:34.213029"
+  },
+  "entities": [
+    {
+      "text": "3, para 2",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 47,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "3, para 2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 71,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "cholesterol",
+      "label": "CHEMICAL",
+      "start_char": 5,
+      "end_char": 16,
+      "sentence_idx": 13,
+      "concept_id": "C0008377",
+      "concept_name": "cholesterol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9872146248817444,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "tetanus",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 29,
+      "sentence_idx": 15,
+      "concept_id": "C0039617",
+      "concept_name": "Clostridium tetani Toxin",
+      "kb_source": "mesh",
+      "link_score": 0.7945747971534729,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 111,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "rhinorrhea",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 68,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rhinorrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "Tylenol",
+      "label": "CHEMICAL",
+      "start_char": 20,
+      "end_char": 27,
+      "sentence_idx": 18,
+      "concept_id": "C0699142",
+      "concept_name": "Tylenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9819504022598267,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "adenopathy",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 142,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "thyromegaly",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 14,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyromegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "organomegaly",
+      "label": "DISEASE",
+      "start_char": 227,
+      "end_char": 239,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "organomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "anteverted",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anteverted",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "adnexal",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adnexal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "eczematous dermatitis",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 113,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "eczematous dermatitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "Rhinitis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Rhinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "Eczematous dermatitis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 21,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Eczematous dermatitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "vasomotor rhinitis",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 28,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vasomotor rhinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 33,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "Nasonex",
+      "label": "CHEMICAL",
+      "start_char": 56,
+      "end_char": 63,
+      "sentence_idx": 36,
+      "concept_id": "C0594492",
+      "concept_name": "Nasonex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9888774752616882,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "Hydrocortisone cream",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 20,
+      "sentence_idx": 38,
+      "concept_id": "C0020268",
+      "concept_name": "hydrocortisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.8333640098571777,
+      "timestamp": "2004-08-29"
+    },
+    {
+      "text": "eczematous dermatitis.,4",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 74,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "eczematous dermatitis.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-29"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/29/2004",
+      "start_char": 139,
+      "end_char": 149
+    }
+  ]
+}

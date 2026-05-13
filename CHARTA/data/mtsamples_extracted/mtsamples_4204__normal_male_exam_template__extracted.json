@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4204__normal_male_exam_template_.txt",
+    "file_name": "mtsamples_4204__normal_male_exam_template_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1811,
+    "processed_at": "2026-05-09T09:54:34.869345"
+  },
+  "entities": [
+    {
+      "text": "irides",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irides",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 50,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "head and neck by inspection showed no obvious deformity",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 206,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head and neck by inspection showed no obvious deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dry",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 31,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dry",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

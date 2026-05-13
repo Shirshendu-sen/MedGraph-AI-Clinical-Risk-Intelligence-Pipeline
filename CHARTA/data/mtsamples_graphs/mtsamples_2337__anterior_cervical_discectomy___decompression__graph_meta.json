@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2337__anterior_cervical_discectomy___decompression_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 40,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1
+  },
+  "visit_dates": [
+    "2007-10-12"
+  ],
+  "graph_file": "mtsamples_2337__anterior_cervical_discectomy___decompression__graph.pt",
+  "source_dataset": "mtsamples_2337__anterior_cervical_discectomy___decompression"
+}

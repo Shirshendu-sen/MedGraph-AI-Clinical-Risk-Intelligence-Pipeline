@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2584__full_field_digital_mammogram__ffdm____2_.txt",
+    "file_name": "mtsamples_2584__full_field_digital_mammogram__ffdm____2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1865,
+    "processed_at": "2026-05-09T09:54:04.729937"
+  },
+  "entities": [
+    {
+      "text": "right breast cancer",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 48,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right breast cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breast cancer",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 58,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breast cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breasts",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 11,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breasts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "benign-appearing microcalcifications",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 42,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "benign-appearing microcalcifications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "malignancy",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 38,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malignancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cancers",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 31,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancers",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "malignancy",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 43,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malignancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

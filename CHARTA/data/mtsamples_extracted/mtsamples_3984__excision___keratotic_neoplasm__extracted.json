@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3984__excision___keratotic_neoplasm_.txt",
+    "file_name": "mtsamples_3984__excision___keratotic_neoplasm_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2901,
+    "processed_at": "2026-05-09T09:54:31.361849"
+  },
+  "entities": [
+    {
+      "text": "neoplasm of the left nasolabial fold measuring 0.5 x 0.5",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 76,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neoplasm of the left nasolabial fold measuring 0.5 x 0.5",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "keratotic neoplasm",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 39,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "keratotic neoplasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neoplasm of the left nasolabial fold measuring 0.5 x 0.5",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 76,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neoplasm of the left nasolabial fold measuring 0.5 x 0.5",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "keratotic neoplasm",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 39,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "keratotic neoplasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 154,
+      "end_char": 163,
+      "sentence_idx": 9,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "1:100,000 epinephrine.,ESTIMATED BLOOD",
+      "label": "CHEMICAL",
+      "start_char": 169,
+      "end_char": 207,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:100,000 epinephrine.,ESTIMATED BLOOD",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 31,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 42,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 45,
+      "end_char": 52,
+      "sentence_idx": 13,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "keratotic neoplasm",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 123,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "keratotic neoplasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "keratosis",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 69,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "keratosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "keratotic",
+      "label": "DISEASE",
+      "start_char": 206,
+      "end_char": 215,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "keratotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

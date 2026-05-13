@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4038__blepharoplasty___quad_.txt",
+    "file_name": "mtsamples_4038__blepharoplasty___quad_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2135,
+    "processed_at": "2026-05-09T09:54:32.372154"
+  },
+  "entities": [
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 56,
+      "sentence_idx": 6,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "1:200,000 epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 83,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:200,000 epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 58,
+      "sentence_idx": 7,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "herniated adipose",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 23,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniated adipose",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

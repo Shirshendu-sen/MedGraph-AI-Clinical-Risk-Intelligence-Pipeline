@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2758__suspected_seizure_activity_.txt",
+    "file_name": "mtsamples_2758__suspected_seizure_activity_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1063,
+    "processed_at": "2026-05-09T09:54:06.978354"
+  },
+  "entities": [
+    {
+      "text": "seizure",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 79,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dilantin",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 50,
+      "sentence_idx": 3,
+      "concept_id": "C0699512",
+      "concept_name": "Dilantin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9751823544502258,
+      "timestamp": null
+    },
+    {
+      "text": "seizure",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 84,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dilantin",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 4,
+      "concept_id": "C0699512",
+      "concept_name": "Dilantin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9751823544502258,
+      "timestamp": null
+    },
+    {
+      "text": "Dilantin",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 7,
+      "concept_id": "C0699512",
+      "concept_name": "Dilantin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9751823544502258,
+      "timestamp": null
+    },
+    {
+      "text": "Dilantin",
+      "label": "CHEMICAL",
+      "start_char": 135,
+      "end_char": 143,
+      "sentence_idx": 7,
+      "concept_id": "C0699512",
+      "concept_name": "Dilantin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9751823544502258,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

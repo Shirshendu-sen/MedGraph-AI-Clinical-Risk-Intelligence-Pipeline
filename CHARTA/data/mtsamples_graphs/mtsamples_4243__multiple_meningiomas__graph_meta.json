@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4243__multiple_meningiomas_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 29,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0031412": 1
+  },
+  "visit_dates": [
+    "1980-06-03"
+  ],
+  "graph_file": "mtsamples_4243__multiple_meningiomas__graph.pt",
+  "source_dataset": "mtsamples_4243__multiple_meningiomas"
+}

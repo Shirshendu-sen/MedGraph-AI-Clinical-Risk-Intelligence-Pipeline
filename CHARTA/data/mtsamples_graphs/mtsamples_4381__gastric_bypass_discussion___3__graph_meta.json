@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_4381__gastric_bypass_discussion___3_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 75,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008377": 1,
+    "C1098080": 2,
+    "C0376325": 3,
+    "C1170584": 4,
+    "C0020740": 5,
+    "C0591139": 6,
+    "C0030346": 7,
+    "C0025270": 8
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4381__gastric_bypass_discussion___3__graph.pt",
+  "source_dataset": "mtsamples_4381__gastric_bypass_discussion___3"
+}

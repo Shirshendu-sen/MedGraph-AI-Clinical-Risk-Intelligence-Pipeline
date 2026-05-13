@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4121__rectal_bleeding___1_year_old_.txt",
+    "file_name": "mtsamples_4121__rectal_bleeding___1_year_old_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2774,
+    "processed_at": "2026-05-09T09:54:33.807519"
+  },
+  "entities": [
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 127,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 43,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 19,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "bruising",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 61,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bruising",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "heart disease",
+      "label": "DISEASE",
+      "start_char": 247,
+      "end_char": 260,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "heart disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "lung disease",
+      "label": "DISEASE",
+      "start_char": 262,
+      "end_char": 274,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lung disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "cancer, blood pressure",
+      "label": "DISEASE",
+      "start_char": 287,
+      "end_char": 309,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancer, blood pressure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 323,
+      "end_char": 331,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "Zantac now.,SOCIAL",
+      "label": "CHEMICAL",
+      "start_char": 130,
+      "end_char": 148,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Zantac now.,SOCIAL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "Sodium",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 8,
+      "concept_id": "C0037473",
+      "concept_name": "sodium",
+      "kb_source": "rxnorm",
+      "link_score": 0.990592896938324,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "potassium",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 21,
+      "sentence_idx": 8,
+      "concept_id": "C0032821",
+      "concept_name": "potassium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9840192198753357,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 44,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "creatinine",
+      "label": "CHEMICAL",
+      "start_char": 59,
+      "end_char": 69,
+      "sentence_idx": 8,
+      "concept_id": "C0010294",
+      "concept_name": "creatinine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9711365103721619,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "normocephalic",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 119,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normocephalic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "Extraocular movements",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 21,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Extraocular movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "sclerae",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 47,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sclerae",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "thyromegaly",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 50,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyromegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 8,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 116,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "Meckel's diverticulum",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 43,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Meckel's diverticulum",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 50,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 61,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-23"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/23/2007",
+      "start_char": 83,
+      "end_char": 93
+    },
+    {
+      "raw_text": "12/24/2007",
+      "start_char": 1232,
+      "end_char": 1242
+    }
+  ]
+}

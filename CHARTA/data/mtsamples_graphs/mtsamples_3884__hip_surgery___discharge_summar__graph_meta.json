@@ -1,0 +1,24 @@
+{
+  "patient_id": "mtsamples_3884__hip_surgery___discharge_summar_",
+  "num_entities": 11,
+  "num_visits": 1,
+  "num_edges": 95,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699129": 1,
+    "C0728963": 2,
+    "C0376414": 3,
+    "C0282139": 4,
+    "C0030049": 5,
+    "C0030346": 6,
+    "C0017725": 7,
+    "C0010294": 8,
+    "C0991547": 9,
+    "C0022957": 10
+  },
+  "visit_dates": [
+    "2007-08-27"
+  ],
+  "graph_file": "mtsamples_3884__hip_surgery___discharge_summar__graph.pt",
+  "source_dataset": "mtsamples_3884__hip_surgery___discharge_summar"
+}

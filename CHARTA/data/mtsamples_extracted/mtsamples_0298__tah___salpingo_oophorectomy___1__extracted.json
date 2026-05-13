@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0298__tah___salpingo_oophorectomy___1_.txt",
+    "file_name": "mtsamples_0298__tah___salpingo_oophorectomy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 7105,
+    "processed_at": "2026-05-09T09:53:11.880156"
+  },
+  "entities": [
+    {
+      "text": "abnormal uterine bleeding",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 61,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal uterine bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abnormal uterine bleeding",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 153,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal uterine bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometrial ablation.,PROCEDURE",
+      "label": "DISEASE",
+      "start_char": 160,
+      "end_char": 191,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometrial ablation.,PROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroids",
+      "label": "DISEASE",
+      "start_char": 192,
+      "end_char": 200,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anemia",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 25,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "iron",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 46,
+      "sentence_idx": 6,
+      "concept_id": "C0302583",
+      "concept_name": "iron",
+      "kb_source": "rxnorm",
+      "link_score": 0.9597261548042297,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 27,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "avascular",
+      "label": "DISEASE",
+      "start_char": 143,
+      "end_char": 152,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "avascular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 48,
+      "sentence_idx": 50,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

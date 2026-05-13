@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0706__hysterectomy___salpingoophorectomy_.txt",
+    "file_name": "mtsamples_0706__hysterectomy___salpingoophorectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5947,
+    "processed_at": "2026-05-09T09:53:22.812392"
+  },
+  "entities": [
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 48,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 156,
+      "end_char": 169,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 546,
+      "end_char": 559,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 605,
+      "end_char": 609,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "dyspareunia",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 26,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dyspareunia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronic suprapelvic pain",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 55,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic suprapelvic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right ovarian endometrioma",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 62,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ovarian endometrioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pelvic pain",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 85,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chocolate cyst",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 42,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chocolate cyst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carmine",
+      "label": "CHEMICAL",
+      "start_char": 7,
+      "end_char": 14,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carmine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenomyosis",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 58,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenomyosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right endometrioma",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 58,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right endometrioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "avascular",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 150,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "avascular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometrioma",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 82,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometrioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cefoxitin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 52,
+      "concept_id": "C0007557",
+      "concept_name": "cefoxitin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9533272981643677,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

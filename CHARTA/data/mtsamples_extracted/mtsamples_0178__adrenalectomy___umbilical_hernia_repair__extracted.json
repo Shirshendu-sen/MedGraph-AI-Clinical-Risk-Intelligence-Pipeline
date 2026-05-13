@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0178__adrenalectomy___umbilical_hernia_repair_.txt",
+    "file_name": "mtsamples_0178__adrenalectomy___umbilical_hernia_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2241,
+    "processed_at": "2026-05-09T09:53:08.619935"
+  },
+  "entities": [
+    {
+      "text": "nonfunctioning mass",
+      "label": "DISEASE",
+      "start_char": 207,
+      "end_char": 226,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nonfunctioning mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 52,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 62,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "umbilical hernia",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 20,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "umbilical hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 55,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 103,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

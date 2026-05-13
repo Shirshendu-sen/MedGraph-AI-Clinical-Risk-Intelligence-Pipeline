@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1940__shoulder_pain_consult_.txt",
+    "file_name": "mtsamples_1940__shoulder_pain_consult_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 67,
+    "processed_at": "2026-05-09T09:53:53.479613"
+  },
+  "entities": [],
+  "relations": [],
+  "temporal_expressions": []
+}

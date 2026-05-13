@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_0675__inguinal_herniorrhaphy___2_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 7,
+  "entity_index": {
+    "C0023660": 0,
+    "C0014563": 1,
+    "UNKNOWN": 2,
+    "C0030346": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0675__inguinal_herniorrhaphy___2__graph.pt",
+  "source_dataset": "mtsamples_0675__inguinal_herniorrhaphy___2"
+}

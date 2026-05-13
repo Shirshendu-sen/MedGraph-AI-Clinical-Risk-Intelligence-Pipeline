@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1604__iv_procainamide_infusion_.txt",
+    "file_name": "mtsamples_1604__iv_procainamide_infusion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2681,
+    "processed_at": "2026-05-09T09:53:45.943650"
+  },
+  "entities": [
+    {
+      "text": "Procainamide",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 4,
+      "concept_id": "C0033216",
+      "concept_name": "procainamide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9731748104095459,
+      "timestamp": null
+    },
+    {
+      "text": "Brugada syndrome.,PROCEDURES:,1",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 66,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Brugada syndrome.,PROCEDURES:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arrhythmia",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 65,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arrhythmia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Procainamide",
+      "label": "CHEMICAL",
+      "start_char": 3,
+      "end_char": 15,
+      "sentence_idx": 6,
+      "concept_id": "C0033216",
+      "concept_name": "procainamide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9731748104095459,
+      "timestamp": null
+    },
+    {
+      "text": "fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 50,
+      "sentence_idx": 7,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 61,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 8,
+      "end_char": 17,
+      "sentence_idx": 8,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "isoproterenol",
+      "label": "CHEMICAL",
+      "start_char": 150,
+      "end_char": 163,
+      "sentence_idx": 17,
+      "concept_id": "C0022245",
+      "concept_name": "isoproterenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9857305884361267,
+      "timestamp": null
+    },
+    {
+      "text": "Procainamide",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 33,
+      "sentence_idx": 23,
+      "concept_id": "C0033216",
+      "concept_name": "procainamide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9731748104095459,
+      "timestamp": null
+    },
+    {
+      "text": "sinus node dysfunction or atrioventricular block",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 64,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinus node dysfunction or atrioventricular block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "supraventricular tachycardia",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 41,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraventricular tachycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ventricular tachycardia",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 68,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ventricular tachycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Brugada",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 97,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Brugada",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

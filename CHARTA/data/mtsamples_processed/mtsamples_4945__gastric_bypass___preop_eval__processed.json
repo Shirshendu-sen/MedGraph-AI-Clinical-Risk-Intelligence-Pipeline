@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4945__gastric_bypass___preop_eval_.txt",
+    "file_name": "mtsamples_4945__gastric_bypass___preop_eval_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1034,
+    "processed_at": "2026-05-09T09:54:47.948041"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4945__gastric_bypass___preop_eval_.txt",
+    "text": "REASON FOR VISIT:,  Preop evaluation regarding gastric bypass surgery.,The patient has gone through the evaluation process and has been cleared from psychological, nutritional, and cardiac standpoint, also had great success on the preop Medifast diet.,PHYSICAL EXAMINATION: , The patient is alert and oriented x3.  Temperature of 97.9, pulse of 76, blood pressure of 114/74, weight of 247.4 pounds.  Abdomen:  Soft, nontender, and nondistended.,ASSESSMENT AND PLAN:,  The patient is currently in stable condition with morbid obesity, scheduled for gastric bypass surgery in less than two weeks.  Risks and benefits of the procedure were reiterated with the patient and significant other and mother, which included but not limited to death, pulmonary embolism, anastomotic leak, reoperation, prolonged hospitalization, stricture, small bowel obstruction, bleeding, and infection.  Questions regarding hospital course and recovery were addressed.  We will continue on the Medifast diet until the time of surgery and cleared for surgery.",
+    "char_count": 1034,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "REASON FOR VISIT:, Preop evaluation regarding gastric bypass surgery.,The patient has gone through the evaluation process and has been cleared from psychological, nutritional, and cardiac standpoint, also had great success on the preop Medifast diet.,PHYSICAL EXAMINATION: , The patient is alert and oriented x3. Temperature of 97.9, pulse of 76, blood pressure of 114/74, weight of 247.4 pounds. Abdomen: Soft, nontender, and nondistended.,ASSESSMENT AND PLAN:, The patient is currently in stable condition with morbid obesity, scheduled for gastric bypass surgery in less than two weeks. Risks and benefits of the procedure were reiterated with the patient and significant other and mother, which included but not limited to death, pulmonary embolism, anastomotic leak, reoperation, prolonged hospitalization, stricture, small bowel obstruction, bleeding, and infection. Questions regarding hospital course and recovery were addressed. We will continue on the Medifast diet until the time of surgery and cleared for surgery.",
+    "sentences": [
+      "REASON FOR VISIT:, Preop evaluation regarding gastric bypass surgery.,The patient has gone through the evaluation process and has been cleared from psychological, nutritional, and cardiac standpoint, also had great success on the preop Medifast diet.,PHYSICAL EXAMINATION: , The patient is alert and oriented x3.",
+      "Temperature of 97.9, pulse of 76, blood pressure of 114/74, weight of 247.4 pounds.",
+      "Abdomen: Soft, nontender, and nondistended.,ASSESSMENT AND PLAN:, The patient is currently in stable condition with morbid obesity, scheduled for gastric bypass surgery in less than two weeks.",
+      "Risks and benefits of the procedure were reiterated with the patient and significant other and mother, which included but not limited to death, pulmonary embolism, anastomotic leak, reoperation, prolonged hospitalization, stricture, small bowel obstruction, bleeding, and infection.",
+      "Questions regarding hospital course and recovery were addressed.",
+      "We will continue on the Medifast diet until the time of surgery and cleared for surgery."
+    ],
+    "sentence_count": 6,
+    "original_length": 1034,
+    "cleaned_length": 1026,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "REASON FOR VISIT:,  Preop evaluation regarding gastric bypass surgery.,The patient has gone through the evaluation process and has been cleared from psychological, nutritional, and cardiac standpoint, also had great success on the preop Medifast diet.,PHYSICAL EXAMINATION: , The patient is alert and oriented x3.  Temperature of 97.9, pulse of 76, blood pressure of 114/74, weight of 247.4 pounds.  Abdomen:  Soft, nontender, and nondistended.,ASSESSMENT AND PLAN:,  The patient is currently in stable condition with morbid obesity, scheduled for gastric bypass surgery in less than two weeks.  Risks and benefits of the procedure were reiterated with the patient and significant other and mother, which included but not limited to death, pulmonary embolism, anastomotic leak, reoperation, prolonged hospitalization, stricture, small bowel obstruction, bleeding, and infection.  Questions regarding hospital course and recovery were addressed.  We will continue on the Medifast diet until the time of surgery and cleared for surgery.",
+    "cleaned_text": "REASON FOR VISIT:, Preop evaluation regarding gastric bypass surgery.,The patient has gone through the evaluation process and has been cleared from psychological, nutritional, and cardiac standpoint, also had great success on the preop Medifast diet.,PHYSICAL EXAMINATION: , The patient is alert and oriented x3. Temperature of 97.9, pulse of 76, blood pressure of 114/74, weight of 247.4 pounds. Abdomen: Soft, nontender, and nondistended.,ASSESSMENT AND PLAN:, The patient is currently in stable condition with morbid obesity, scheduled for gastric bypass surgery in less than two weeks. Risks and benefits of the procedure were reiterated with the patient and significant other and mother, which included but not limited to death, pulmonary embolism, anastomotic leak, reoperation, prolonged hospitalization, stricture, small bowel obstruction, bleeding, and infection. Questions regarding hospital course and recovery were addressed. We will continue on the Medifast diet until the time of surgery and cleared for surgery.",
+    "sentences": [
+      "REASON FOR VISIT:, Preop evaluation regarding gastric bypass surgery.,The patient has gone through the evaluation process and has been cleared from psychological, nutritional, and cardiac standpoint, also had great success on the preop Medifast diet.,PHYSICAL EXAMINATION: , The patient is alert and oriented x3.",
+      "Temperature of 97.9, pulse of 76, blood pressure of 114/74, weight of 247.4 pounds.",
+      "Abdomen: Soft, nontender, and nondistended.,ASSESSMENT AND PLAN:, The patient is currently in stable condition with morbid obesity, scheduled for gastric bypass surgery in less than two weeks.",
+      "Risks and benefits of the procedure were reiterated with the patient and significant other and mother, which included but not limited to death, pulmonary embolism, anastomotic leak, reoperation, prolonged hospitalization, stricture, small bowel obstruction, bleeding, and infection.",
+      "Questions regarding hospital course and recovery were addressed.",
+      "We will continue on the Medifast diet until the time of surgery and cleared for surgery."
+    ],
+    "sentence_count": 6
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2731__video_eeg___3_.txt",
+    "file_name": "mtsamples_2731__video_eeg___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1127,
+    "processed_at": "2026-05-09T09:54:06.693724"
+  },
+  "entities": [
+    {
+      "text": "involuntary movements",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 42,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "involuntary movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "drowsiness",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 73,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "drowsiness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "frontotemporal head regions",
+      "label": "DISEASE",
+      "start_char": 200,
+      "end_char": 227,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "frontotemporal head regions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

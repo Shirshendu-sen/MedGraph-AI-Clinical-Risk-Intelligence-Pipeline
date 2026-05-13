@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4854__cardioversion___direct_current___1_.txt",
+    "file_name": "mtsamples_4854__cardioversion___direct_current___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1080,
+    "processed_at": "2026-05-09T09:54:46.428446"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4854__cardioversion___direct_current___1_.txt",
+    "text": "PROCEDURE:  ,Direct-current cardioversion.,BRIEF HISTORY:  ,This is a 53-year-old gentleman with history of paroxysmal atrial fibrillation for 3 years.  He had a wide area of circumferential ablation done on November 9th for atrial fibrillation.  He did develop recurrent atrial fibrillation the day before yesterday and this is persistent.  Therefore, he came in for cardioversion today.  He is still within the first 4 to 6 weeks post ablation where we would attempt early cardioversion.,The patient was in the SDI unit, attached to noninvasive monitoring devices.  After Brevital was brought by the anesthesia service a single 150 joule synchronized biphasic shock using AP paddles did restore him to sinus rhythm in the 80s.  He tolerated it well.  He will be observed for couple hours and discharged home later today.  He will continue on his current medications.  He will follow back up in two to three weeks in the Atrial Fibrillation Clinic and then again in a couple months with myself.,CONCLUSIONS / FINAL DIAGNOSES: , Successful DC cardioversion of atrial fibrillation.",
+    "char_count": 1080,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE: ,Direct-current cardioversion.,BRIEF HISTORY: ,This is a 53-year-old gentleman with history of paroxysmal atrial fibrillation for 3 years. He had a wide area of circumferential ablation done on November 9th for atrial fibrillation. He did develop recurrent atrial fibrillation the day before yesterday and this is persistent. Therefore, he came in for cardioversion today. He is still within the first 4 to 6 weeks post ablation where we would attempt early cardioversion.,The patient was in the SDI unit, attached to noninvasive monitoring devices. After Brevital was brought by the anesthesia service a single 150 joule synchronized biphasic shock using AP paddles did restore him to sinus rhythm in the 80s. He tolerated it well. He will be observed for couple hours and discharged home later today. He will continue on his current medications. He will follow back up in two to three weeks in the Atrial Fibrillation Clinic and then again in a couple months with myself.,CONCLUSIONS / FINAL DIAGNOSES: , Successful DC cardioversion of atrial fibrillation.",
+    "sentences": [
+      "PROCEDURE: ,Direct-current cardioversion.,BRIEF HISTORY: ,This is a 53-year-old gentleman with history of paroxysmal atrial fibrillation for 3 years.",
+      "He had a wide area of circumferential ablation done on November 9th for atrial fibrillation.",
+      "He did develop recurrent atrial fibrillation the day before yesterday and this is persistent.",
+      "Therefore, he came in for cardioversion today.",
+      "He is still within the first 4 to 6 weeks post ablation where we would attempt early cardioversion.,The patient was in the SDI unit, attached to noninvasive monitoring devices.",
+      "After Brevital was brought by the anesthesia service a single 150 joule synchronized biphasic shock using AP paddles did restore him to sinus rhythm in the 80s.",
+      "He tolerated it well.",
+      "He will be observed for couple hours and discharged home later today.",
+      "He will continue on his current medications.",
+      "He will follow back up in two to three weeks in the Atrial Fibrillation Clinic and then again in a couple months with myself.,CONCLUSIONS / FINAL DIAGNOSES: , Successful DC cardioversion of atrial fibrillation."
+    ],
+    "sentence_count": 10,
+    "original_length": 1080,
+    "cleaned_length": 1069,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE:  ,Direct-current cardioversion.,BRIEF HISTORY:  ,This is a 53-year-old gentleman with history of paroxysmal atrial fibrillation for 3 years.  He had a wide area of circumferential ablation done on November 9th for atrial fibrillation.  He did develop recurrent atrial fibrillation the day before yesterday and this is persistent.  Therefore, he came in for cardioversion today.  He is still within the first 4 to 6 weeks post ablation where we would attempt early cardioversion.,The patient was in the SDI unit, attached to noninvasive monitoring devices.  After Brevital was brought by the anesthesia service a single 150 joule synchronized biphasic shock using AP paddles did restore him to sinus rhythm in the 80s.  He tolerated it well.  He will be observed for couple hours and discharged home later today.  He will continue on his current medications.  He will follow back up in two to three weeks in the Atrial Fibrillation Clinic and then again in a couple months with myself.,CONCLUSIONS / FINAL DIAGNOSES: , Successful DC cardioversion of atrial fibrillation.",
+    "cleaned_text": "PROCEDURE: ,Direct-current cardioversion.,BRIEF HISTORY: ,This is a 53-year-old gentleman with history of paroxysmal atrial fibrillation for 3 years. He had a wide area of circumferential ablation done on November 9th for atrial fibrillation. He did develop recurrent atrial fibrillation the day before yesterday and this is persistent. Therefore, he came in for cardioversion today. He is still within the first 4 to 6 weeks post ablation where we would attempt early cardioversion.,The patient was in the SDI unit, attached to noninvasive monitoring devices. After Brevital was brought by the anesthesia service a single 150 joule synchronized biphasic shock using AP paddles did restore him to sinus rhythm in the 80s. He tolerated it well. He will be observed for couple hours and discharged home later today. He will continue on his current medications. He will follow back up in two to three weeks in the Atrial Fibrillation Clinic and then again in a couple months with myself.,CONCLUSIONS / FINAL DIAGNOSES: , Successful DC cardioversion of atrial fibrillation.",
+    "sentences": [
+      "PROCEDURE: ,Direct-current cardioversion.,BRIEF HISTORY: ,This is a 53-year-old gentleman with history of paroxysmal atrial fibrillation for 3 years.",
+      "He had a wide area of circumferential ablation done on November 9th for atrial fibrillation.",
+      "He did develop recurrent atrial fibrillation the day before yesterday and this is persistent.",
+      "Therefore, he came in for cardioversion today.",
+      "He is still within the first 4 to 6 weeks post ablation where we would attempt early cardioversion.,The patient was in the SDI unit, attached to noninvasive monitoring devices.",
+      "After Brevital was brought by the anesthesia service a single 150 joule synchronized biphasic shock using AP paddles did restore him to sinus rhythm in the 80s.",
+      "He tolerated it well.",
+      "He will be observed for couple hours and discharged home later today.",
+      "He will continue on his current medications.",
+      "He will follow back up in two to three weeks in the Atrial Fibrillation Clinic and then again in a couple months with myself.,CONCLUSIONS / FINAL DIAGNOSES: , Successful DC cardioversion of atrial fibrillation."
+    ],
+    "sentence_count": 10
+  }
+}

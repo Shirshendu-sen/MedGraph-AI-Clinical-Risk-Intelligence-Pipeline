@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_3254__hyperthyroidism_following_pregnancy_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 83,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0064079": 1,
+    "C0001963": 2,
+    "C0008845": 3,
+    "C0040610": 4,
+    "C0037473": 5,
+    "C0010294": 6,
+    "C0033497": 7,
+    "C0021968": 8,
+    "C0025729": 9
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3254__hyperthyroidism_following_pregnancy__graph.pt",
+  "source_dataset": "mtsamples_3254__hyperthyroidism_following_pregnancy"
+}

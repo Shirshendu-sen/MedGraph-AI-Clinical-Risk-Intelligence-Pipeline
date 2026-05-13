@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4906__bronchoscopy___6_.txt",
+    "file_name": "mtsamples_4906__bronchoscopy___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1892,
+    "processed_at": "2026-05-09T09:54:47.304738"
+  },
+  "entities": [
+    {
+      "text": "Hypoxia",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 33,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hypoxia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hypoxia",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 105,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hypoxia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sequelae of SMV occlusion",
+      "label": "DISEASE",
+      "start_char": 448,
+      "end_char": 473,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sequelae of SMV occlusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypoxia",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 53,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypoxia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 46,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 198,
+      "end_char": 206,
+      "sentence_idx": 3,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 208,
+      "end_char": 214,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "purulent-appearing",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 85,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "purulent-appearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PEEP",
+      "label": "CHEMICAL",
+      "start_char": 63,
+      "end_char": 67,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEEP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "O2",
+      "label": "CHEMICAL",
+      "start_char": 81,
+      "end_char": 83,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "O2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

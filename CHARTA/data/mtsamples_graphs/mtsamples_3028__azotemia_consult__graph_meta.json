@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_3028__azotemia_consult_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 42,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0019134": 1,
+    "C0037473": 2,
+    "C0032821": 3,
+    "C0596019": 4,
+    "C0010294": 5
+  },
+  "visit_dates": [
+    "2009-06-27"
+  ],
+  "graph_file": "mtsamples_3028__azotemia_consult__graph.pt",
+  "source_dataset": "mtsamples_3028__azotemia_consult"
+}

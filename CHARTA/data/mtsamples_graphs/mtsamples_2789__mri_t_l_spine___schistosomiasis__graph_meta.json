@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_2789__mri_t_l_spine___schistosomiasis_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 77,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0733348": 1,
+    "C0030346": 2,
+    "C0020740": 3,
+    "C0017725": 4,
+    "C0016911": 5,
+    "C0032911": 6,
+    "C0032952": 7,
+    "C0592278": 8
+  },
+  "visit_dates": [
+    "1997-04-10"
+  ],
+  "graph_file": "mtsamples_2789__mri_t_l_spine___schistosomiasis__graph.pt",
+  "source_dataset": "mtsamples_2789__mri_t_l_spine___schistosomiasis"
+}

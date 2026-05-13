@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0259__total_abdominal_hysterectomy___1_.txt",
+    "file_name": "mtsamples_0259__total_abdominal_hysterectomy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3388,
+    "processed_at": "2026-05-09T09:53:10.678324"
+  },
+  "entities": [
+    {
+      "text": "menometrorrhagia",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 23,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "menometrorrhagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 19,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "menometrorrhagia",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 23,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "menometrorrhagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abdominal hysterectomy.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 81,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal hysterectomy.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 164,
+      "end_char": 171,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder and bowel",
+      "label": "DISEASE",
+      "start_char": 161,
+      "end_char": 178,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder and bowel",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder and bowel",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 146,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder and bowel",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

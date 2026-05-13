@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_2856__epidural_hematoma_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 36,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699992": 1,
+    "C0592278": 2,
+    "C0073983": 3
+  },
+  "visit_dates": [
+    "1993-01-10"
+  ],
+  "graph_file": "mtsamples_2856__epidural_hematoma__graph.pt",
+  "source_dataset": "mtsamples_2856__epidural_hematoma"
+}

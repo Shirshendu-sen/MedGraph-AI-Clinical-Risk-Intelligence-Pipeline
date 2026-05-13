@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2890__ct_of_lumbar_spine_w_o_contrast_.txt",
+    "file_name": "mtsamples_2890__ct_of_lumbar_spine_w_o_contrast_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 904,
+    "processed_at": "2026-05-09T09:54:10.346439"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2890__ct_of_lumbar_spine_w_o_contrast_.txt",
+    "text": "EXAM: , Lumbar spine CT without contrast.,HISTORY: , Back pain after a fall.,TECHNIQUE:,  Noncontrast axial images were acquired through the lumbar spine. Coronal and sagittal reconstruction views were also obtained.,FINDINGS: , There is no evidence for acute fracture or subluxation.  There is no spondylolysis or spondylolisthesis.  The central canal and neuroforamen are grossly patent at all levels.  There are no abnormal paraspinal masses. There is no wedge/compression deformity.  There is intervertebral disk space narrowing to a mild degree at L2-3 and L4-5.,Soft tissue windows demonstrate atherosclerotic calcification of the abdominal aorta, which is not dilated.  There was incompletely visualized probable simple left renal cyst, exophytic at the lower pole.,IMPRESSION:,1.  No evidence for acute fracture or subluxation.,2.  Mild degenerative changes.,3.  Probable left simple renal cyst.,",
+    "char_count": 904,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , Lumbar spine CT without contrast.,HISTORY: , Back pain after a fall.,TECHNIQUE:, Noncontrast axial images were acquired through the lumbar spine. Coronal and sagittal reconstruction views were also obtained.,FINDINGS: , There is no evidence for acute fracture or subluxation. There is no spondylolysis or spondylolisthesis. The central canal and neuroforamen are grossly patent at all levels. There are no abnormal paraspinal masses. There is no wedge/compression deformity. There is intervertebral disk space narrowing to a mild degree at L2-3 and L4-5.,Soft tissue windows demonstrate atherosclerotic calcification of the abdominal aorta, which is not dilated. There was incompletely visualized probable simple left renal cyst, exophytic at the lower pole.,IMPRESSION:,1. No evidence for acute fracture or subluxation.,2. Mild degenerative changes.,3. Probable left simple renal cyst.,",
+    "sentences": [
+      "EXAM: , Lumbar spine CT without contrast.,HISTORY: , Back pain after a fall.,TECHNIQUE:, Noncontrast axial images were acquired through the lumbar spine.",
+      "Coronal and sagittal reconstruction views were also obtained.,FINDINGS: , There is no evidence for acute fracture or subluxation.",
+      "There is no spondylolysis or spondylolisthesis.",
+      "The central canal and neuroforamen are grossly patent at all levels.",
+      "There are no abnormal paraspinal masses.",
+      "There is no wedge/compression deformity.",
+      "There is intervertebral disk space narrowing to a mild degree at L2-3 and L4-5.,Soft tissue windows demonstrate atherosclerotic calcification of the abdominal aorta, which is not dilated.",
+      "There was incompletely visualized probable simple left renal cyst, exophytic at the lower pole.,IMPRESSION:,1.",
+      "No evidence for acute fracture or subluxation.,2.",
+      "Mild degenerative changes.,3.",
+      "Probable left simple renal cyst.,"
+    ],
+    "sentence_count": 11,
+    "original_length": 904,
+    "cleaned_length": 895,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , Lumbar spine CT without contrast.,HISTORY: , Back pain after a fall.,TECHNIQUE:,  Noncontrast axial images were acquired through the lumbar spine. Coronal and sagittal reconstruction views were also obtained.,FINDINGS: , There is no evidence for acute fracture or subluxation.  There is no spondylolysis or spondylolisthesis.  The central canal and neuroforamen are grossly patent at all levels.  There are no abnormal paraspinal masses. There is no wedge/compression deformity.  There is intervertebral disk space narrowing to a mild degree at L2-3 and L4-5.,Soft tissue windows demonstrate atherosclerotic calcification of the abdominal aorta, which is not dilated.  There was incompletely visualized probable simple left renal cyst, exophytic at the lower pole.,IMPRESSION:,1.  No evidence for acute fracture or subluxation.,2.  Mild degenerative changes.,3.  Probable left simple renal cyst.,",
+    "cleaned_text": "EXAM: , Lumbar spine CT without contrast.,HISTORY: , Back pain after a fall.,TECHNIQUE:, Noncontrast axial images were acquired through the lumbar spine. Coronal and sagittal reconstruction views were also obtained.,FINDINGS: , There is no evidence for acute fracture or subluxation. There is no spondylolysis or spondylolisthesis. The central canal and neuroforamen are grossly patent at all levels. There are no abnormal paraspinal masses. There is no wedge/compression deformity. There is intervertebral disk space narrowing to a mild degree at L2-3 and L4-5.,Soft tissue windows demonstrate atherosclerotic calcification of the abdominal aorta, which is not dilated. There was incompletely visualized probable simple left renal cyst, exophytic at the lower pole.,IMPRESSION:,1. No evidence for acute fracture or subluxation.,2. Mild degenerative changes.,3. Probable left simple renal cyst.,",
+    "sentences": [
+      "EXAM: , Lumbar spine CT without contrast.,HISTORY: , Back pain after a fall.,TECHNIQUE:, Noncontrast axial images were acquired through the lumbar spine.",
+      "Coronal and sagittal reconstruction views were also obtained.,FINDINGS: , There is no evidence for acute fracture or subluxation.",
+      "There is no spondylolysis or spondylolisthesis.",
+      "The central canal and neuroforamen are grossly patent at all levels.",
+      "There are no abnormal paraspinal masses.",
+      "There is no wedge/compression deformity.",
+      "There is intervertebral disk space narrowing to a mild degree at L2-3 and L4-5.,Soft tissue windows demonstrate atherosclerotic calcification of the abdominal aorta, which is not dilated.",
+      "There was incompletely visualized probable simple left renal cyst, exophytic at the lower pole.,IMPRESSION:,1.",
+      "No evidence for acute fracture or subluxation.,2.",
+      "Mild degenerative changes.,3.",
+      "Probable left simple renal cyst.,"
+    ],
+    "sentence_count": 11
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0203__vaginal_delivery___vacuum_assisted_.txt",
+    "file_name": "mtsamples_0203__vaginal_delivery___vacuum_assisted_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3941,
+    "processed_at": "2026-05-09T09:53:09.130166"
+  },
+  "entities": [
+    {
+      "text": "midline laceration",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 69,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "midline laceration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "third-degree midline laceration",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 45,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "third-degree midline laceration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "LDR",
+      "label": "CHEMICAL",
+      "start_char": 115,
+      "end_char": 118,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LDR",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 26,
+      "sentence_idx": 15,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": null
+    },
+    {
+      "text": "labored",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 58,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "labored",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 27,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "perineum",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perineum",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 34,
+      "end_char": 43,
+      "sentence_idx": 24,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "baby's mouth and nose were bulb suctioned",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 45,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "baby's mouth and nose were bulb suctioned",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "therapist.,Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 59,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "therapist.,Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "midline laceration",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 63,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "midline laceration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "LDR",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 22,
+      "sentence_idx": 48,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LDR",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

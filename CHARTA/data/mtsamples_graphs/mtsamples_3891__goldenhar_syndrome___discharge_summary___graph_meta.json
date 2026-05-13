@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_3891__goldenhar_syndrome___discharge_summary__",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 67,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0302583": 1,
+    "C0037473": 2,
+    "C0032821": 3,
+    "C0596019": 4,
+    "C0010294": 5,
+    "C0017725": 6,
+    "C0006675": 7,
+    "C0034977": 8,
+    "C0032825": 9
+  },
+  "visit_dates": [
+    "2003-10-13"
+  ],
+  "graph_file": "mtsamples_3891__goldenhar_syndrome___discharge_summary___graph.pt",
+  "source_dataset": "mtsamples_3891__goldenhar_syndrome___discharge_summary_"
+}

@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4052__well_woman_checkup_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 58,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0039644": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4052__well_woman_checkup__graph.pt",
+  "source_dataset": "mtsamples_4052__well_woman_checkup"
+}

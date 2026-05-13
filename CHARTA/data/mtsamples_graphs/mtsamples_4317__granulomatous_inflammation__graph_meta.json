@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_4317__granulomatous_inflammation_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 68,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0016911": 2,
+    "C0017725": 3,
+    "C0001041": 4,
+    "C0699142": 5
+  },
+  "visit_dates": [
+    "1995-09-02"
+  ],
+  "graph_file": "mtsamples_4317__granulomatous_inflammation__graph.pt",
+  "source_dataset": "mtsamples_4317__granulomatous_inflammation"
+}

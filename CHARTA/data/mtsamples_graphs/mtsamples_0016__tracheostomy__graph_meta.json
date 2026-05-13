@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0016__tracheostomy_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 17,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0014563": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0016__tracheostomy__graph.pt",
+  "source_dataset": "mtsamples_0016__tracheostomy"
+}

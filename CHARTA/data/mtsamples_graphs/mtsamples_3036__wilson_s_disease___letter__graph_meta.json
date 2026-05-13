@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_3036__wilson_s_disease___letter_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 47,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030817": 1,
+    "C0700776": 2,
+    "C0699129": 3,
+    "C0004057": 4,
+    "C0025859": 5
+  },
+  "visit_dates": [
+    "2008-06-12"
+  ],
+  "graph_file": "mtsamples_3036__wilson_s_disease___letter__graph.pt",
+  "source_dataset": "mtsamples_3036__wilson_s_disease___letter"
+}

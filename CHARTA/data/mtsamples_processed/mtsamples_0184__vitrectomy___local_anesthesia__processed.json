@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0184__vitrectomy___local_anesthesia_.txt",
+    "file_name": "mtsamples_0184__vitrectomy___local_anesthesia_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 801,
+    "processed_at": "2026-05-09T09:53:08.772494"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0184__vitrectomy___local_anesthesia_.txt",
+    "text": "DESCRIPTION OF PROCEDURE:,  After appropriate operative consent was obtained the patient was brought supine to the operating room and placed on the operating room table.  After intravenous sedation was administered a retrobulbar block consisting of 2% Xylocaine with 0.75% Marcaine and Wydase was administered to the right eye without difficulty.  The patient's right eye was prepped and draped in sterile ophthalmic fashion and the procedure begun.  A wire lid speculum was inserted into the right eye and a limited conjunctival peritomy performed at the limbus temporally and superonasally.  Infusion line was set up in the inferotemporal quadrant and two additional sclerotomies were made in the superonasal and superotemporal quadrants.  A lens ring was secured to the eye using 7-0 Vicryl suture.",
+    "char_count": 801,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "DESCRIPTION OF PROCEDURE:, After appropriate operative consent was obtained the patient was brought supine to the operating room and placed on the operating room table. After intravenous sedation was administered a retrobulbar block consisting of 2% Xylocaine with 0.75% Marcaine and Wydase was administered to the right eye without difficulty. The patient's right eye was prepped and draped in sterile ophthalmic fashion and the procedure begun. A wire lid speculum was inserted into the right eye and a limited conjunctival peritomy performed at the limbus temporally and superonasally. Infusion line was set up in the inferotemporal quadrant and two additional sclerotomies were made in the superonasal and superotemporal quadrants. A lens ring was secured to the eye using 7-0 Vicryl suture.",
+    "sentences": [
+      "DESCRIPTION OF PROCEDURE:, After appropriate operative consent was obtained the patient was brought supine to the operating room and placed on the operating room table.",
+      "After intravenous sedation was administered a retrobulbar block consisting of 2% Xylocaine with 0.75% Marcaine and Wydase was administered to the right eye without difficulty.",
+      "The patient's right eye was prepped and draped in sterile ophthalmic fashion and the procedure begun.",
+      "A wire lid speculum was inserted into the right eye and a limited conjunctival peritomy performed at the limbus temporally and superonasally.",
+      "Infusion line was set up in the inferotemporal quadrant and two additional sclerotomies were made in the superonasal and superotemporal quadrants.",
+      "A lens ring was secured to the eye using 7-0 Vicryl suture."
+    ],
+    "sentence_count": 6,
+    "original_length": 801,
+    "cleaned_length": 795,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "DESCRIPTION OF PROCEDURE:,  After appropriate operative consent was obtained the patient was brought supine to the operating room and placed on the operating room table.  After intravenous sedation was administered a retrobulbar block consisting of 2% Xylocaine with 0.75% Marcaine and Wydase was administered to the right eye without difficulty.  The patient's right eye was prepped and draped in sterile ophthalmic fashion and the procedure begun.  A wire lid speculum was inserted into the right eye and a limited conjunctival peritomy performed at the limbus temporally and superonasally.  Infusion line was set up in the inferotemporal quadrant and two additional sclerotomies were made in the superonasal and superotemporal quadrants.  A lens ring was secured to the eye using 7-0 Vicryl suture.",
+    "cleaned_text": "DESCRIPTION OF PROCEDURE:, After appropriate operative consent was obtained the patient was brought supine to the operating room and placed on the operating room table. After intravenous sedation was administered a retrobulbar block consisting of 2% Xylocaine with 0.75% Marcaine and Wydase was administered to the right eye without difficulty. The patient's right eye was prepped and draped in sterile ophthalmic fashion and the procedure begun. A wire lid speculum was inserted into the right eye and a limited conjunctival peritomy performed at the limbus temporally and superonasally. Infusion line was set up in the inferotemporal quadrant and two additional sclerotomies were made in the superonasal and superotemporal quadrants. A lens ring was secured to the eye using 7-0 Vicryl suture.",
+    "sentences": [
+      "DESCRIPTION OF PROCEDURE:, After appropriate operative consent was obtained the patient was brought supine to the operating room and placed on the operating room table.",
+      "After intravenous sedation was administered a retrobulbar block consisting of 2% Xylocaine with 0.75% Marcaine and Wydase was administered to the right eye without difficulty.",
+      "The patient's right eye was prepped and draped in sterile ophthalmic fashion and the procedure begun.",
+      "A wire lid speculum was inserted into the right eye and a limited conjunctival peritomy performed at the limbus temporally and superonasally.",
+      "Infusion line was set up in the inferotemporal quadrant and two additional sclerotomies were made in the superonasal and superotemporal quadrants.",
+      "A lens ring was secured to the eye using 7-0 Vicryl suture."
+    ],
+    "sentence_count": 6
+  }
+}

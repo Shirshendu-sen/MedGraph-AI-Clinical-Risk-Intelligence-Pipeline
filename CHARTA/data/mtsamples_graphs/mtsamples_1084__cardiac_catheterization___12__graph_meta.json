@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1084__cardiac_catheterization___12_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 38,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1,
+    "C0017887": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1084__cardiac_catheterization___12__graph.pt",
+  "source_dataset": "mtsamples_1084__cardiac_catheterization___12"
+}

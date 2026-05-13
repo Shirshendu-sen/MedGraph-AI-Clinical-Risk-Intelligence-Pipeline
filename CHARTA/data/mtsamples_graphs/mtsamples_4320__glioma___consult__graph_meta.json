@@ -1,0 +1,28 @@
+{
+  "patient_id": "mtsamples_4320__glioma___consult_",
+  "num_entities": 15,
+  "num_visits": 1,
+  "num_edges": 95,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0487782": 1,
+    "C0483514": 2,
+    "C1996201": 3,
+    "C0282139": 4,
+    "C0728742": 5,
+    "C0019134": 6,
+    "C0721754": 7,
+    "C0876139": 8,
+    "C0699142": 9,
+    "C0206046": 10,
+    "C0001927": 11,
+    "C0732282": 12,
+    "C0001963": 13,
+    "C0876179": 14
+  },
+  "visit_dates": [
+    "2006-11-13"
+  ],
+  "graph_file": "mtsamples_4320__glioma___consult__graph.pt",
+  "source_dataset": "mtsamples_4320__glioma___consult"
+}

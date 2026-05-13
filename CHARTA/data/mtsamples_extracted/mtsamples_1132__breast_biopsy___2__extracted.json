@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1132__breast_biopsy___2_.txt",
+    "file_name": "mtsamples_1132__breast_biopsy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2687,
+    "processed_at": "2026-05-09T09:53:34.827471"
+  },
+  "entities": [
+    {
+      "text": "Bleeding",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Benzoin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 14,
+      "concept_id": "C0005070",
+      "concept_name": "benzoin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563013911247253,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

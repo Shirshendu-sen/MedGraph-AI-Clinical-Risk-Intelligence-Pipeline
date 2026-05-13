@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_3491__juxtarenal_abdominal_aortic_aneurysm_repair_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 31,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0024730": 1,
+    "C0037513": 2,
+    "C0033603": 3,
+    "C0004599": 4,
+    "C0022487": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3491__juxtarenal_abdominal_aortic_aneurysm_repair__graph.pt",
+  "source_dataset": "mtsamples_3491__juxtarenal_abdominal_aortic_aneurysm_repair"
+}

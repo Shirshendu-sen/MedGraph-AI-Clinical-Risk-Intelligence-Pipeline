@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1280__three_week_postpartum_checkup_.txt",
+    "file_name": "mtsamples_1280__three_week_postpartum_checkup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2625,
+    "processed_at": "2026-05-09T09:53:38.438177"
+  },
+  "entities": [
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 23,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "milk",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 44,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "milk",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "cramping",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 59,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cramping",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 48,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 137,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 22,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "itchy watery",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 91,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "itchy watery",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "normocephalic",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 37,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normocephalic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 25,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 23,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "allergic rhinitis",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 25,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergic rhinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "watery",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 65,
+      "sentence_idx": 25,
+      "concept_id": "C0043047",
+      "concept_name": "Hydrogen Oxide",
+      "kb_source": "mesh",
+      "link_score": 0.7307888865470886,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "hemorrhoid",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 80,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 148,
+      "end_char": 157,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "Patanol eyedrops",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 28,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Patanol eyedrops",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "hemorrhoids",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 19,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "Patanol",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 69,
+      "sentence_idx": 33,
+      "concept_id": "C0722498",
+      "concept_name": "Patanol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874984622001648,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "Micronor",
+      "label": "CHEMICAL",
+      "start_char": 34,
+      "end_char": 42,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Micronor",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    },
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 73,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-10-18"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/18/03",
+      "start_char": 1210,
+      "end_char": 1218
+    }
+  ]
+}

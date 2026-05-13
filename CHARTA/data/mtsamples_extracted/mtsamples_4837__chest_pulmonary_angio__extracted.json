@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4837__chest_pulmonary_angio_.txt",
+    "file_name": "mtsamples_4837__chest_pulmonary_angio_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2840,
+    "processed_at": "2026-05-09T09:54:46.050114"
+  },
+  "entities": [
+    {
+      "text": "chest pulmonary embolism",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 140,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pulmonary embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "embolism",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 19,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "embolus",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 64,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "embolus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "neoplasm",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 69,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neoplasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "pleural effusions",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 41,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 114,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 121,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "pneumothorax",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 24,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "adenopathy",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 109,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "descending thoracic aortic calcification",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 74,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "descending thoracic aortic calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "adenopathy",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 50,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "hepatic metastatic disease",
+      "label": "DISEASE",
+      "start_char": 239,
+      "end_char": 265,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hepatic metastatic disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 41,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "embolus",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 18,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "embolus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "pleural effusions",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 31,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    },
+    {
+      "text": "consolidations",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 71,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "consolidations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-23"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "01/23/09",
+      "start_char": 909,
+      "end_char": 917
+    }
+  ]
+}

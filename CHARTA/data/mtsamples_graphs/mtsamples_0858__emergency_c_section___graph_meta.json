@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_0858__emergency_c_section__",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 13,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0733348": 1,
+    "C0023660": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0858__emergency_c_section___graph.pt",
+  "source_dataset": "mtsamples_0858__emergency_c_section_"
+}

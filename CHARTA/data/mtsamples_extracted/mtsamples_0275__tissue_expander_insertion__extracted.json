@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0275__tissue_expander_insertion_.txt",
+    "file_name": "mtsamples_0275__tissue_expander_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3591,
+    "processed_at": "2026-05-09T09:53:11.121065"
+  },
+  "entities": [
+    {
+      "text": "compartment syndrome",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 57,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "compartment syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "compartment syndrome",
+      "label": "DISEASE",
+      "start_char": 202,
+      "end_char": 222,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "compartment syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "compartment syndrome",
+      "label": "DISEASE",
+      "start_char": 156,
+      "end_char": 176,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "compartment syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 65,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 66,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronic pain",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 154,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary embolism",
+      "label": "DISEASE",
+      "start_char": 280,
+      "end_char": 298,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "myocardial infarction",
+      "label": "DISEASE",
+      "start_char": 300,
+      "end_char": 321,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myocardial infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "death",
+      "label": "DISEASE",
+      "start_char": 335,
+      "end_char": 340,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "death",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

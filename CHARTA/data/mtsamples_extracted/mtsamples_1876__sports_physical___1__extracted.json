@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1876__sports_physical___1_.txt",
+    "file_name": "mtsamples_1876__sports_physical___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3554,
+    "processed_at": "2026-05-09T09:53:52.257155"
+  },
+  "entities": [
+    {
+      "text": "calcium",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 11,
+      "sentence_idx": 3,
+      "concept_id": "C0006675",
+      "concept_name": "calcium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9792689085006714,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "Hearing and vision",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 18,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hearing and vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 24,
+      "end_char": 31,
+      "sentence_idx": 17,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "smoke",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 41,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "smoke",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "Advair 250/50 b.i.d",
+      "label": "CHEMICAL",
+      "start_char": 85,
+      "end_char": 104,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Advair 250/50 b.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "q.d",
+      "label": "CHEMICAL",
+      "start_char": 131,
+      "end_char": 134,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "q.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "Xopenex",
+      "label": "CHEMICAL",
+      "start_char": 144,
+      "end_char": 151,
+      "sentence_idx": 17,
+      "concept_id": "C0876218",
+      "concept_name": "Xopenex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9633713364601135,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "albuterol",
+      "label": "CHEMICAL",
+      "start_char": 156,
+      "end_char": 165,
+      "sentence_idx": 17,
+      "concept_id": "C0001927",
+      "concept_name": "albuterol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9798523783683777,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "Fundi",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fundi",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "strabismus",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 13,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "strabismus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "dentition.,Neck",
+      "label": "CHEMICAL",
+      "start_char": 5,
+      "end_char": 20,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dentition.,Neck",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 28,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "wheezes",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "wheezes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "tachypnea",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 12,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tachypnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "organomegaly",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 15,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "organomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "Romberg",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 129,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Romberg",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "shoulder joints",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 209,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shoulder joints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "hepatitis A vaccine",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 42,
+      "sentence_idx": 47,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hepatitis A vaccine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "tetanus",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 41,
+      "sentence_idx": 48,
+      "concept_id": "C0039617",
+      "concept_name": "Clostridium tetani Toxin",
+      "kb_source": "mesh",
+      "link_score": 0.7945747971534729,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "DPT",
+      "label": "CHEMICAL",
+      "start_char": 65,
+      "end_char": 68,
+      "sentence_idx": 48,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DPT",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 92,
+      "end_char": 99,
+      "sentence_idx": 52,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": "1996-11-25"
+    },
+    {
+      "text": "smoking",
+      "label": "CHEMICAL",
+      "start_char": 105,
+      "end_char": 112,
+      "sentence_idx": 52,
+      "concept_id": "UNKNOWN",
+      "concept_name": "smoking",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-11-25"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "11/25/1996",
+      "start_char": 2859,
+      "end_char": 2869
+    }
+  ]
+}

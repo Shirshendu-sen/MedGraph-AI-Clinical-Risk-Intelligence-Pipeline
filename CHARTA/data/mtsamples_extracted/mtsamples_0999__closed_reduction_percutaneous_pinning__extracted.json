@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0999__closed_reduction_percutaneous_pinning_.txt",
+    "file_name": "mtsamples_0999__closed_reduction_percutaneous_pinning_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4579,
+    "processed_at": "2026-05-09T09:53:30.972790"
+  },
+  "entities": [
+    {
+      "text": "supracondylar fracture",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 64,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supracondylar fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "supracondylar fracture",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 38,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supracondylar fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injury to his left distal humerus after jumping off of a swing.",
+      "label": "DISEASE",
+      "start_char": 153,
+      "end_char": 216,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury to his left distal humerus after jumping off of a swing.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "supracondylar fracture",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 100,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supracondylar fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ecchymosis",
+      "label": "DISEASE",
+      "start_char": 197,
+      "end_char": 207,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ecchymosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "malunion",
+      "label": "DISEASE",
+      "start_char": 213,
+      "end_char": 221,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malunion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nonunion",
+      "label": "DISEASE",
+      "start_char": 223,
+      "end_char": 231,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nonunion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 265,
+      "end_char": 274,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "loss of elbow motions",
+      "label": "DISEASE",
+      "start_char": 276,
+      "end_char": 297,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of elbow motions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "compartment syndrome",
+      "label": "DISEASE",
+      "start_char": 392,
+      "end_char": 412,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "compartment syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 142,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 60,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 127,
+      "end_char": 135,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

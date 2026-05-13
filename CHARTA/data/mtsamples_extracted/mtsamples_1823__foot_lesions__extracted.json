@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1823__foot_lesions_.txt",
+    "file_name": "mtsamples_1823__foot_lesions_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1247,
+    "processed_at": "2026-05-09T09:53:51.124207"
+  },
+  "entities": [
+    {
+      "text": "diabetic female",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 35,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic female",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 87,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 100,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "complaint of a very painful left foot",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 61,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "complaint of a very painful left foot",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "toenail",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 33,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "toenail",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "panful hyperkeratotic lesion",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 156,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "panful hyperkeratotic lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "toenail",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 43,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "toenail",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertrophic",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 102,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertrophic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

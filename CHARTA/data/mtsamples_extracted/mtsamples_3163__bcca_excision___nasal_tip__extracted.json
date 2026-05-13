@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3163__bcca_excision___nasal_tip_.txt",
+    "file_name": "mtsamples_3163__bcca_excision___nasal_tip_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1535,
+    "processed_at": "2026-05-09T09:54:15.809648"
+  },
+  "entities": [
+    {
+      "text": "Basal cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Basal cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Basal cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 132,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Basal cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nasal basal cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 143,
+      "end_char": 169,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasal basal cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 48,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 66,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "1:200,000",
+      "label": "CHEMICAL",
+      "start_char": 78,
+      "end_char": 87,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:200,000",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "minocycline",
+      "label": "CHEMICAL",
+      "start_char": 156,
+      "end_char": 167,
+      "sentence_idx": 9,
+      "concept_id": "C0026187",
+      "concept_name": "minocycline",
+      "kb_source": "rxnorm",
+      "link_score": 0.9515979290008545,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

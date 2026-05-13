@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4006__biopsy___skin_nevus_.txt",
+    "file_name": "mtsamples_4006__biopsy___skin_nevus_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2602,
+    "processed_at": "2026-05-09T09:54:31.805461"
+  },
+  "entities": [
+    {
+      "text": "Left back skin nevus 2 cm.,2.",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 29,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left back skin nevus 2 cm.,2.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right shoulder skin nevus 2.5 cm.,4.",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 36,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right shoulder skin nevus 2.5 cm.,4.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Actinic keratosis left lateral nasal skin 2.5",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 45,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Actinic keratosis left lateral nasal skin 2.5",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Left back skin nevus 2 cm.,2.",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 29,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left back skin nevus 2 cm.,2.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right shoulder skin nevus 2.5 cm.,4.",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 36,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right shoulder skin nevus 2.5 cm.,4.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Actinic keratosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 17,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Actinic keratosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left back skin nevus 2 cm, two layer plastic closure.,2.",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 77,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left back skin nevus 2 cm, two layer plastic closure.,2.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right shoulder skin nevus 2.5 cm, one-layer plastic closure.,4",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 83,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right shoulder skin nevus 2.5 cm, one-layer plastic closure.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Trichloroacetic acid",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 20,
+      "sentence_idx": 12,
+      "concept_id": "C0040900",
+      "concept_name": "trichloroacetic acid",
+      "kb_source": "rxnorm",
+      "link_score": 0.9660881757736206,
+      "timestamp": null
+    },
+    {
+      "text": "actinic",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 81,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "actinic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 107,
+      "end_char": 116,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 147,
+      "end_char": 158,
+      "sentence_idx": 12,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "trichloroacetic acid",
+      "label": "CHEMICAL",
+      "start_char": 8,
+      "end_char": 28,
+      "sentence_idx": 25,
+      "concept_id": "C0040900",
+      "concept_name": "trichloroacetic acid",
+      "kb_source": "rxnorm",
+      "link_score": 0.9660881757736206,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_2752__reflex_sympathetic_dystrophy___letter_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 95,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0030054": 2,
+    "C0025605": 3,
+    "C0026549": 4,
+    "C0728755": 5,
+    "C0678176": 6,
+    "C0591437": 7,
+    "C0010826": 8,
+    "C0287163": 9,
+    "C0040165": 10,
+    "C0728780": 11
+  },
+  "visit_dates": [
+    "2008-06-12"
+  ],
+  "graph_file": "mtsamples_2752__reflex_sympathetic_dystrophy___letter__graph.pt",
+  "source_dataset": "mtsamples_2752__reflex_sympathetic_dystrophy___letter"
+}

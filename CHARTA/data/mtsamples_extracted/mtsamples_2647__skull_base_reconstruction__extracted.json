@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2647__skull_base_reconstruction_.txt",
+    "file_name": "mtsamples_2647__skull_base_reconstruction_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5967,
+    "processed_at": "2026-05-09T09:54:05.576921"
+  },
+  "entities": [
+    {
+      "text": "Squamous cell carcinoma of right temporal bone/middle ear space.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 103,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Squamous cell carcinoma of right temporal bone/middle ear space.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Squamous cell carcinoma of right temporal bone/middle",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 170,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Squamous cell carcinoma of right temporal bone/middle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 113,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "condyle",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 11,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "condyle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 37,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "condyle",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 94,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "condyle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "condyle",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 180,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "condyle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "groin",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 94,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "groin",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ischemia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ribbon",
+      "label": "CHEMICAL",
+      "start_char": 299,
+      "end_char": 305,
+      "sentence_idx": 44,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ribbon",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

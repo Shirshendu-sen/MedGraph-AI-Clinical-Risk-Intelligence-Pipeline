@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1202__arthroscopic_meniscoplasty_.txt",
+    "file_name": "mtsamples_1202__arthroscopic_meniscoplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4627,
+    "processed_at": "2026-05-09T09:53:36.610391"
+  },
+  "entities": [
+    {
+      "text": "right knee.,PROCEDURE",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 52,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right knee.,PROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Zero.,GROSS",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 149,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Zero.,GROSS",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chondromalacia",
+      "label": "DISEASE",
+      "start_char": 256,
+      "end_char": 270,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right knee pain",
+      "label": "DISEASE",
+      "start_char": 400,
+      "end_char": 415,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 21,
+      "sentence_idx": 7,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 17,
+      "end_char": 26,
+      "sentence_idx": 12,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 43,
+      "sentence_idx": 12,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "grade-II chondromalacia",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 87,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "grade-II chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chondromalacia",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 67,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chondromalacia",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 74,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 108,
+      "end_char": 116,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

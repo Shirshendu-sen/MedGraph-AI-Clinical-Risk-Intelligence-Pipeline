@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3202__pressure_decubitus_.txt",
+    "file_name": "mtsamples_3202__pressure_decubitus_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1759,
+    "processed_at": "2026-05-09T09:54:16.414572"
+  },
+  "entities": [
+    {
+      "text": "spina bifida",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 46,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spina bifida",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chills",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 17,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 26,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spina bifida",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 100,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spina bifida",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breast reduction",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 132,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breast reduction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 186,
+      "end_char": 193,
+      "sentence_idx": 6,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "Pravachol",
+      "label": "CHEMICAL",
+      "start_char": 231,
+      "end_char": 240,
+      "sentence_idx": 6,
+      "concept_id": "C0700763",
+      "concept_name": "Pravachol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9710001349449158,
+      "timestamp": null
+    },
+    {
+      "text": "Dilantin",
+      "label": "CHEMICAL",
+      "start_char": 242,
+      "end_char": 250,
+      "sentence_idx": 6,
+      "concept_id": "C0699512",
+      "concept_name": "Dilantin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9751823544502258,
+      "timestamp": null
+    },
+    {
+      "text": "Toprol",
+      "label": "CHEMICAL",
+      "start_char": 252,
+      "end_char": 258,
+      "sentence_idx": 6,
+      "concept_id": "C2723006",
+      "concept_name": "Toprol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9818556308746338,
+      "timestamp": null
+    },
+    {
+      "text": "ROS",
+      "label": "CHEMICAL",
+      "start_char": 374,
+      "end_char": 377,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ROS",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Head is normocephalic",
+      "label": "DISEASE",
+      "start_char": 475,
+      "end_char": 496,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Head is normocephalic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "serous",
+      "label": "DISEASE",
+      "start_char": 342,
+      "end_char": 348,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "serous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Sequelae of",
+      "label": "DISEASE",
+      "start_char": 596,
+      "end_char": 607,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Sequelae of",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spina bifida",
+      "label": "DISEASE",
+      "start_char": 608,
+      "end_char": 620,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spina bifida",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

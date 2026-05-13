@@ -1,0 +1,29 @@
+{
+  "patient_id": "mtsamples_4819__copd___bronchitis___discharge_summary_",
+  "num_entities": 16,
+  "num_visits": 1,
+  "num_edges": 163,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1,
+    "C0014025": 2,
+    "C0004057": 3,
+    "C0001927": 4,
+    "C0591130": 5,
+    "C0032825": 6,
+    "C0699992": 7,
+    "C0721336": 8,
+    "C0037473": 9,
+    "C0032821": 10,
+    "C0596019": 11,
+    "C0017725": 12,
+    "C0010294": 13,
+    "C0006675": 14,
+    "C0012265": 15
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4819__copd___bronchitis___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_4819__copd___bronchitis___discharge_summary"
+}

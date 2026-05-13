@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4534__bariatric_consult___surgical_weight_loss___2_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 24,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0875954": 1,
+    "C0083381": 2,
+    "C0006644": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4534__bariatric_consult___surgical_weight_loss___2__graph.pt",
+  "source_dataset": "mtsamples_4534__bariatric_consult___surgical_weight_loss___2"
+}

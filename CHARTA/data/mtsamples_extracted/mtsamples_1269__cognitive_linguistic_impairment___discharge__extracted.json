@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1269__cognitive_linguistic_impairment___discharge_.txt",
+    "file_name": "mtsamples_1269__cognitive_linguistic_impairment___discharge_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1559,
+    "processed_at": "2026-05-09T09:53:38.278074"
+  },
+  "entities": [
+    {
+      "text": "Cognitive linguistic impairment",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 44,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cognitive linguistic impairment",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "cognitive linguistic deficits",
+      "label": "DISEASE",
+      "start_char": 267,
+      "end_char": 296,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cognitive linguistic deficits",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "independently.,She",
+      "label": "CHEMICAL",
+      "start_char": 113,
+      "end_char": 131,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "independently.,She",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/29/08",
+      "start_char": 340,
+      "end_char": 348
+    }
+  ]
+}

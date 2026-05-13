@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_0605__left_orchiectomy___right_orchidopexy_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 31,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0042313": 1,
+    "C0721336": 2,
+    "C0030346": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0605__left_orchiectomy___right_orchidopexy__graph.pt",
+  "source_dataset": "mtsamples_0605__left_orchiectomy___right_orchidopexy"
+}

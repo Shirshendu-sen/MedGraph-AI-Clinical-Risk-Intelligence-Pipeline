@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2437__post_dilation_instructions_.txt",
+    "file_name": "mtsamples_2437__post_dilation_instructions_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 257,
+    "processed_at": "2026-05-09T09:54:01.716814"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2437__post_dilation_instructions_.txt",
+    "text": "The effects of eye dilation drops will gradually decrease. It typically takes TWO to SIX HOURS for the effects to wear off. During this time, reading may be more difficult and sensitivity to light may increase. For a short time, wearing sunglasses may help.",
+    "char_count": 257,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "The effects of eye dilation drops will gradually decrease. It typically takes TWO to SIX HOURS for the effects to wear off. During this time, reading may be more difficult and sensitivity to light may increase. For a short time, wearing sunglasses may help.",
+    "sentences": [
+      "The effects of eye dilation drops will gradually decrease.",
+      "It typically takes TWO to SIX HOURS for the effects to wear off.",
+      "During this time, reading may be more difficult and sensitivity to light may increase.",
+      "For a short time, wearing sunglasses may help."
+    ],
+    "sentence_count": 4,
+    "original_length": 257,
+    "cleaned_length": 257,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "The effects of eye dilation drops will gradually decrease. It typically takes TWO to SIX HOURS for the effects to wear off. During this time, reading may be more difficult and sensitivity to light may increase. For a short time, wearing sunglasses may help.",
+    "cleaned_text": "The effects of eye dilation drops will gradually decrease. It typically takes TWO to SIX HOURS for the effects to wear off. During this time, reading may be more difficult and sensitivity to light may increase. For a short time, wearing sunglasses may help.",
+    "sentences": [
+      "The effects of eye dilation drops will gradually decrease.",
+      "It typically takes TWO to SIX HOURS for the effects to wear off.",
+      "During this time, reading may be more difficult and sensitivity to light may increase.",
+      "For a short time, wearing sunglasses may help."
+    ],
+    "sentence_count": 4
+  }
+}

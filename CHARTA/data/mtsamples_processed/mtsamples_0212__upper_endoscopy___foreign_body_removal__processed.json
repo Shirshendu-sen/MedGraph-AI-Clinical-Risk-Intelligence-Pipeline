@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0212__upper_endoscopy___foreign_body_removal_.txt",
+    "file_name": "mtsamples_0212__upper_endoscopy___foreign_body_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1075,
+    "processed_at": "2026-05-09T09:53:09.318300"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0212__upper_endoscopy___foreign_body_removal_.txt",
+    "text": "PROCEDURE:, Upper endoscopy with foreign body removal.,PREOPERATIVE DIAGNOSIS (ES):, Esophageal foreign body.,POSTOPERATIVE DIAGNOSIS (ES):, Penny in proximal esophagus.,ESTIMATED BLOOD LOSS:, None.,COMPLICATIONS:, None.,DESCRIPTION OF PROCEDURE: ,After informed consent was obtained, the patient was taken to the pediatric endoscopy suite. After appropriate sedation by the anesthesia staff and intubation, an upper endoscope was inserted into the mouth, over the tongue, into the esophagus, at which time the foreign body was encountered. It was grasped with a coin removal forcep and removed with an endoscope. At that time, the endoscope was reinserted, advanced to the level of the stomach and stomach was evaluated and was normal. The esophagus was normal with the exception of some mild erythema, where the coin had been sitting. There were no erosions. The stomach was decompressed of air and fluid. The scope was removed without difficulty.,SUMMARY:, The patient underwent endoscopic removal of esophageal foreign body.,PLAN:, To discharge home, follow up as needed.",
+    "char_count": 1075,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE:, Upper endoscopy with foreign body removal.,PREOPERATIVE DIAGNOSIS (ES):, Esophageal foreign body.,POSTOPERATIVE DIAGNOSIS (ES):, Penny in proximal esophagus.,ESTIMATED BLOOD LOSS:, None.,COMPLICATIONS:, None.,DESCRIPTION OF PROCEDURE: ,After informed consent was obtained, the patient was taken to the pediatric endoscopy suite. After appropriate sedation by the anesthesia staff and intubation, an upper endoscope was inserted into the mouth, over the tongue, into the esophagus, at which time the foreign body was encountered. It was grasped with a coin removal forcep and removed with an endoscope. At that time, the endoscope was reinserted, advanced to the level of the stomach and stomach was evaluated and was normal. The esophagus was normal with the exception of some mild erythema, where the coin had been sitting. There were no erosions. The stomach was decompressed of air and fluid. The scope was removed without difficulty.,SUMMARY:, The patient underwent endoscopic removal of esophageal foreign body.,PLAN:, To discharge home, follow up as needed.",
+    "sentences": [
+      "PROCEDURE:, Upper endoscopy with foreign body removal.,PREOPERATIVE DIAGNOSIS (ES):, Esophageal foreign body.,POSTOPERATIVE DIAGNOSIS (ES):, Penny in proximal esophagus.,ESTIMATED BLOOD LOSS:, None.,COMPLICATIONS:, None.,DESCRIPTION OF PROCEDURE: ,After informed consent was obtained, the patient was taken to the pediatric endoscopy suite.",
+      "After appropriate sedation by the anesthesia staff and intubation, an upper endoscope was inserted into the mouth, over the tongue, into the esophagus, at which time the foreign body was encountered.",
+      "It was grasped with a coin removal forcep and removed with an endoscope.",
+      "At that time, the endoscope was reinserted, advanced to the level of the stomach and stomach was evaluated and was normal.",
+      "The esophagus was normal with the exception of some mild erythema, where the coin had been sitting.",
+      "There were no erosions.",
+      "The stomach was decompressed of air and fluid.",
+      "The scope was removed without difficulty.,SUMMARY:, The patient underwent endoscopic removal of esophageal foreign body.,PLAN:, To discharge home, follow up as needed."
+    ],
+    "sentence_count": 8,
+    "original_length": 1075,
+    "cleaned_length": 1075,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE:, Upper endoscopy with foreign body removal.,PREOPERATIVE DIAGNOSIS (ES):, Esophageal foreign body.,POSTOPERATIVE DIAGNOSIS (ES):, Penny in proximal esophagus.,ESTIMATED BLOOD LOSS:, None.,COMPLICATIONS:, None.,DESCRIPTION OF PROCEDURE: ,After informed consent was obtained, the patient was taken to the pediatric endoscopy suite. After appropriate sedation by the anesthesia staff and intubation, an upper endoscope was inserted into the mouth, over the tongue, into the esophagus, at which time the foreign body was encountered. It was grasped with a coin removal forcep and removed with an endoscope. At that time, the endoscope was reinserted, advanced to the level of the stomach and stomach was evaluated and was normal. The esophagus was normal with the exception of some mild erythema, where the coin had been sitting. There were no erosions. The stomach was decompressed of air and fluid. The scope was removed without difficulty.,SUMMARY:, The patient underwent endoscopic removal of esophageal foreign body.,PLAN:, To discharge home, follow up as needed.",
+    "cleaned_text": "PROCEDURE:, Upper endoscopy with foreign body removal.,PREOPERATIVE DIAGNOSIS (ES):, Esophageal foreign body.,POSTOPERATIVE DIAGNOSIS (ES):, Penny in proximal esophagus.,ESTIMATED BLOOD LOSS:, None.,COMPLICATIONS:, None.,DESCRIPTION OF PROCEDURE: ,After informed consent was obtained, the patient was taken to the pediatric endoscopy suite. After appropriate sedation by the anesthesia staff and intubation, an upper endoscope was inserted into the mouth, over the tongue, into the esophagus, at which time the foreign body was encountered. It was grasped with a coin removal forcep and removed with an endoscope. At that time, the endoscope was reinserted, advanced to the level of the stomach and stomach was evaluated and was normal. The esophagus was normal with the exception of some mild erythema, where the coin had been sitting. There were no erosions. The stomach was decompressed of air and fluid. The scope was removed without difficulty.,SUMMARY:, The patient underwent endoscopic removal of esophageal foreign body.,PLAN:, To discharge home, follow up as needed.",
+    "sentences": [
+      "PROCEDURE:, Upper endoscopy with foreign body removal.,PREOPERATIVE DIAGNOSIS (ES):, Esophageal foreign body.,POSTOPERATIVE DIAGNOSIS (ES):, Penny in proximal esophagus.,ESTIMATED BLOOD LOSS:, None.,COMPLICATIONS:, None.,DESCRIPTION OF PROCEDURE: ,After informed consent was obtained, the patient was taken to the pediatric endoscopy suite.",
+      "After appropriate sedation by the anesthesia staff and intubation, an upper endoscope was inserted into the mouth, over the tongue, into the esophagus, at which time the foreign body was encountered.",
+      "It was grasped with a coin removal forcep and removed with an endoscope.",
+      "At that time, the endoscope was reinserted, advanced to the level of the stomach and stomach was evaluated and was normal.",
+      "The esophagus was normal with the exception of some mild erythema, where the coin had been sitting.",
+      "There were no erosions.",
+      "The stomach was decompressed of air and fluid.",
+      "The scope was removed without difficulty.,SUMMARY:, The patient underwent endoscopic removal of esophageal foreign body.,PLAN:, To discharge home, follow up as needed."
+    ],
+    "sentence_count": 8
+  }
+}

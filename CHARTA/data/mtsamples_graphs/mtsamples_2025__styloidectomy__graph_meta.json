@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_2025__styloidectomy_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 31,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0700517": 2,
+    "C0483514": 3,
+    "C0086787": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2025__styloidectomy__graph.pt",
+  "source_dataset": "mtsamples_2025__styloidectomy"
+}

@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4095__small_bowel_obstruction_.txt",
+    "file_name": "mtsamples_4095__small_bowel_obstruction_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1779,
+    "processed_at": "2026-05-09T09:54:33.423810"
+  },
+  "entities": [
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 137,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "nausea",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 164,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 21,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "abdominal injury",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 121,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "small bowel obstruction",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 217,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "small bowel obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 222,
+      "end_char": 236,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "alcoholism",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 48,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "alcoholism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "cocaine abuse",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 63,
+      "sentence_idx": 3,
+      "concept_id": "C0009170",
+      "concept_name": "Cocaine",
+      "kb_source": "mesh",
+      "link_score": 0.7310293316841125,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "alcoholic hepatitis",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 84,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "alcoholic hepatitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "pancreatitis",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 126,
+      "sentence_idx": 3,
+      "concept_id": "C0030304",
+      "concept_name": "Pancreatin",
+      "kb_source": "mesh",
+      "link_score": 0.7637388706207275,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "pancreatitis",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 148,
+      "sentence_idx": 3,
+      "concept_id": "C0030304",
+      "concept_name": "Pancreatin",
+      "kb_source": "mesh",
+      "link_score": 0.7637388706207275,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "appendicitis",
+      "label": "DISEASE",
+      "start_char": 150,
+      "end_char": 162,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "appendicitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "Hodgkin's Disease,",
+      "label": "DISEASE",
+      "start_char": 190,
+      "end_char": 208,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hodgkin's Disease,",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "constipation",
+      "label": "DISEASE",
+      "start_char": 209,
+      "end_char": 221,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "constipation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 223,
+      "end_char": 231,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "anemia",
+      "label": "DISEASE",
+      "start_char": 250,
+      "end_char": 256,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "multiple blood transfusions",
+      "label": "DISEASE",
+      "start_char": 258,
+      "end_char": 285,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "multiple blood transfusions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "chorioretinitis",
+      "label": "DISEASE",
+      "start_char": 287,
+      "end_char": 302,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chorioretinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 304,
+      "end_char": 313,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 326,
+      "end_char": 336,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "anaphylaxis",
+      "label": "DISEASE",
+      "start_char": 631,
+      "end_char": 642,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anaphylaxis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 272,
+      "end_char": 283,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "2 days ago",
+      "start_char": 229,
+      "end_char": 239
+    }
+  ]
+}

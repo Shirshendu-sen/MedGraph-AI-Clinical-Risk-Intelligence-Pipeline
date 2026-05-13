@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4691__myocardial_perfusion_imaging___3_.txt",
+    "file_name": "mtsamples_4691__myocardial_perfusion_imaging___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 144,
+    "processed_at": "2026-05-09T09:54:43.407661"
+  },
+  "entities": [
+    {
+      "text": "Shortness of breath",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 31,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fatigue",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fatigue",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hypertension",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 69,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

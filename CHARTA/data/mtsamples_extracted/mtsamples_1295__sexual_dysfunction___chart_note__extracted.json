@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1295__sexual_dysfunction___chart_note_.txt",
+    "file_name": "mtsamples_1295__sexual_dysfunction___chart_note_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2375,
+    "processed_at": "2026-05-09T09:53:38.678991"
+  },
+  "entities": [
+    {
+      "text": "complaint of sexual dysfunction",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 122,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "complaint of sexual dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cialis",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 48,
+      "sentence_idx": 1,
+      "concept_id": "C0967376",
+      "concept_name": "Cialis",
+      "kb_source": "rxnorm",
+      "link_score": 0.9814417958259583,
+      "timestamp": null
+    },
+    {
+      "text": "Cialis",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 55,
+      "sentence_idx": 2,
+      "concept_id": "C0967376",
+      "concept_name": "Cialis",
+      "kb_source": "rxnorm",
+      "link_score": 0.9814417958259583,
+      "timestamp": null
+    },
+    {
+      "text": "infections",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 51,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infections",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injuries",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injuries",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "groin",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 46,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "groin",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 191,
+      "end_char": 198,
+      "sentence_idx": 9,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "testosterone",
+      "label": "CHEMICAL",
+      "start_char": 104,
+      "end_char": 116,
+      "sentence_idx": 16,
+      "concept_id": "C0039601",
+      "concept_name": "testosterone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9753402471542358,
+      "timestamp": null
+    },
+    {
+      "text": "Cialis",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 31,
+      "sentence_idx": 17,
+      "concept_id": "C0967376",
+      "concept_name": "Cialis",
+      "kb_source": "rxnorm",
+      "link_score": 0.9814417958259583,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

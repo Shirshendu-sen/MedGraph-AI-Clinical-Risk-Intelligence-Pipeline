@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2311__anterior_lumbar_fusion_.txt",
+    "file_name": "mtsamples_2311__anterior_lumbar_fusion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2768,
+    "processed_at": "2026-05-09T09:53:59.725417"
+  },
+  "entities": [
+    {
+      "text": "tricalcium phosphate",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 72,
+      "sentence_idx": 2,
+      "concept_id": "C0108136",
+      "concept_name": "tricalcium phosphate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9798632860183716,
+      "timestamp": null
+    },
+    {
+      "text": "tricalcium phosphate",
+      "label": "CHEMICAL",
+      "start_char": 160,
+      "end_char": 180,
+      "sentence_idx": 9,
+      "concept_id": "C0108136",
+      "concept_name": "tricalcium phosphate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9798632860183716,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 24,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "low back pain",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 126,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "low back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 162,
+      "sentence_idx": 15,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "achiness",
+      "label": "DISEASE",
+      "start_char": 167,
+      "end_char": 175,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "achiness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 90,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "discogram",
+      "label": "CHEMICAL",
+      "start_char": 2,
+      "end_char": 11,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "discogram",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 65,
+      "sentence_idx": 18,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

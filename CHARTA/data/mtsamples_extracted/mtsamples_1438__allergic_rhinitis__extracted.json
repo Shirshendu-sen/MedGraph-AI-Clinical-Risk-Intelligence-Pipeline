@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1438__allergic_rhinitis_.txt",
+    "file_name": "mtsamples_1438__allergic_rhinitis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1331,
+    "processed_at": "2026-05-09T09:53:41.737114"
+  },
+  "entities": [
+    {
+      "text": "complaint of allergies",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 79,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "complaint of allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 26,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Claritin",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 35,
+      "sentence_idx": 2,
+      "concept_id": "C0701055",
+      "concept_name": "Claritin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9775713682174683,
+      "timestamp": null
+    },
+    {
+      "text": "Zyrtec",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 47,
+      "sentence_idx": 2,
+      "concept_id": "C0162723",
+      "concept_name": "Zyrtec",
+      "kb_source": "rxnorm",
+      "link_score": 0.9963204860687256,
+      "timestamp": null
+    },
+    {
+      "text": "asthma",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 20,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "asthma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tri-Cyclen",
+      "label": "CHEMICAL",
+      "start_char": 160,
+      "end_char": 170,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tri-Cyclen",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 317,
+      "end_char": 323,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Allergic",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 84,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Allergic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Zyrtec",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 19,
+      "sentence_idx": 12,
+      "concept_id": "C0162723",
+      "concept_name": "Zyrtec",
+      "kb_source": "rxnorm",
+      "link_score": 0.9963204860687256,
+      "timestamp": null
+    },
+    {
+      "text": "loratadine",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 40,
+      "sentence_idx": 13,
+      "concept_id": "C0065180",
+      "concept_name": "loratadine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9448021054267883,
+      "timestamp": null
+    },
+    {
+      "text": "Nasonex",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 18,
+      "sentence_idx": 15,
+      "concept_id": "C0594492",
+      "concept_name": "Nasonex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9888774752616882,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

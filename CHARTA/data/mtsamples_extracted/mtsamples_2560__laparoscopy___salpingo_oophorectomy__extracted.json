@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2560__laparoscopy___salpingo_oophorectomy_.txt",
+    "file_name": "mtsamples_2560__laparoscopy___salpingo_oophorectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2994,
+    "processed_at": "2026-05-09T09:54:04.297740"
+  },
+  "entities": [
+    {
+      "text": "adnexal",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 37,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adnexal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calcifications",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 31,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcifications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 38,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pelvic adhesions",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 30,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic adhesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "55-year-old gravida 0, para 0 Caucasian female",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 116,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "55-year-old gravida 0, para 0 Caucasian female",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vaginal stenosis",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 76,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vaginal stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 54,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Vicodin",
+      "label": "CHEMICAL",
+      "start_char": 20,
+      "end_char": 27,
+      "sentence_idx": 30,
+      "concept_id": "C0483514",
+      "concept_name": "Vicodin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9674537181854248,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 36,
+      "sentence_idx": 30,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

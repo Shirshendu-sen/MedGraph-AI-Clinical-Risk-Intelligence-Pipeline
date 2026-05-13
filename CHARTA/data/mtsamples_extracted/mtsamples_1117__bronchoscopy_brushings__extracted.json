@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1117__bronchoscopy_brushings_.txt",
+    "file_name": "mtsamples_1117__bronchoscopy_brushings_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1097,
+    "processed_at": "2026-05-09T09:53:34.482681"
+  },
+  "entities": [
+    {
+      "text": "hypoxemia",
+      "label": "DISEASE",
+      "start_char": 395,
+      "end_char": 404,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypoxemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PCP",
+      "label": "CHEMICAL",
+      "start_char": 56,
+      "end_char": 59,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PCP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pneumonia",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 103,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

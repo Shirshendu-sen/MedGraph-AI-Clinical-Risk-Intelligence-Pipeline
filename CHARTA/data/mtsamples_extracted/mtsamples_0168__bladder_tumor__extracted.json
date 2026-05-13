@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0168__bladder_tumor_.txt",
+    "file_name": "mtsamples_0168__bladder_tumor_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1260,
+    "processed_at": "2026-05-09T09:53:08.148336"
+  },
+  "entities": [
+    {
+      "text": "carcinomas of the bladder neck",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 89,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carcinomas of the bladder neck",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "papillomatosis",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 137,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "papillomatosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carcinomas of the bladder",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 80,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carcinomas of the bladder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematuria",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 66,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Atenolol",
+      "label": "CHEMICAL",
+      "start_char": 115,
+      "end_char": 123,
+      "sentence_idx": 5,
+      "concept_id": "C0004147",
+      "concept_name": "atenolol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9745213985443115,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 271,
+      "end_char": 283,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes, shortness of breath",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 43,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes, shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "well-nourished",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 116,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "well-nourished",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CVA tenderness",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 23,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CVA tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

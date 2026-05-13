@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0571__lumbar_discectomy___microscopic_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 10,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0571__lumbar_discectomy___microscopic__graph.pt",
+  "source_dataset": "mtsamples_0571__lumbar_discectomy___microscopic"
+}

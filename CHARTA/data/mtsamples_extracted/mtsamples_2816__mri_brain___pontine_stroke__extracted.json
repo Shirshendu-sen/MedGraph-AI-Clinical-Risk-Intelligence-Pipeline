@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2816__mri_brain___pontine_stroke_.txt",
+    "file_name": "mtsamples_2816__mri_brain___pontine_stroke_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2498,
+    "processed_at": "2026-05-09T09:54:08.964785"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "8:30AM",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 37,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "8:30AM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "PCN",
+      "label": "CHEMICAL",
+      "start_char": 97,
+      "end_char": 100,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PCN",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "obstructive pulmonary disease",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 180,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive pulmonary disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "hepatitis",
+      "label": "DISEASE",
+      "start_char": 188,
+      "end_char": 197,
+      "sentence_idx": 4,
+      "concept_id": "C0376325",
+      "concept_name": "Hepatitis A viruses",
+      "kb_source": "mesh",
+      "link_score": 0.7903865575790405,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "dysarthria",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 33,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysarthria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "scotoma",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 65,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "scotoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "upper lid ptosis",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 21,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper lid ptosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "Left hemiparesis",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 56,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left hemiparesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "Romberg",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Romberg",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "non-sustained ankle clonus",
+      "label": "DISEASE",
+      "start_char": 155,
+      "end_char": 181,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-sustained ankle clonus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "babinski",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 23,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "babinski",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "bundle branch block",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 56,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bundle branch block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "a right pontine pyramidal tract infarction",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 72,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "a right pontine pyramidal tract infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "Ticlopidine",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 32,
+      "sentence_idx": 16,
+      "concept_id": "C0040207",
+      "concept_name": "ticlopidine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9566563963890076,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "left hemiparesis",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 33,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left hemiparesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "Heparin",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 39,
+      "sentence_idx": 19,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "angina",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 33,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "angina",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "ICA stenosis",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 50,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ICA stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "aortic insufficiency",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 58,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic insufficiency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "tricuspid regurgitation",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 82,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tricuspid regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "aortic valvular fibrosis",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 108,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic valvular fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "calcification",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 23,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "thrombus",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "Isordil",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 34,
+      "sentence_idx": 27,
+      "concept_id": "C0590720",
+      "concept_name": "Isordil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9882832765579224,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "Metoprolol",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 53,
+      "sentence_idx": 27,
+      "concept_id": "C0025859",
+      "concept_name": "metoprolol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9745320081710815,
+      "timestamp": "1992-11-22"
+    },
+    {
+      "text": "Ticlid",
+      "label": "CHEMICAL",
+      "start_char": 73,
+      "end_char": 79,
+      "sentence_idx": 27,
+      "concept_id": "C0733418",
+      "concept_name": "Ticlid",
+      "kb_source": "rxnorm",
+      "link_score": 0.992262065410614,
+      "timestamp": "1992-11-22"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "11/22/92",
+      "start_char": 74,
+      "end_char": 82
+    },
+    {
+      "raw_text": "11/23/92",
+      "start_char": 395,
+      "end_char": 403
+    },
+    {
+      "raw_text": "4/46/63",
+      "start_char": 1513,
+      "end_char": 1520
+    },
+    {
+      "raw_text": "11/23/95",
+      "start_char": 1603,
+      "end_char": 1611
+    },
+    {
+      "raw_text": "11/26/92",
+      "start_char": 1713,
+      "end_char": 1721
+    },
+    {
+      "raw_text": "11/27/92",
+      "start_char": 1761,
+      "end_char": 1769
+    },
+    {
+      "raw_text": "11/23/95",
+      "start_char": 1914,
+      "end_char": 1922
+    },
+    {
+      "raw_text": "11/27/92",
+      "start_char": 1927,
+      "end_char": 1935
+    }
+  ]
+}

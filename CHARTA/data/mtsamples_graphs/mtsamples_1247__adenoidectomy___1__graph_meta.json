@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1247__adenoidectomy___1_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 10,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0039086": 1,
+    "C0039294": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1247__adenoidectomy___1__graph.pt",
+  "source_dataset": "mtsamples_1247__adenoidectomy___1"
+}

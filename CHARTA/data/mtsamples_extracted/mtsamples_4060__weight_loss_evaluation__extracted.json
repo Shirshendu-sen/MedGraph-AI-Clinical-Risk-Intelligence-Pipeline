@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4060__weight_loss_evaluation_.txt",
+    "file_name": "mtsamples_4060__weight_loss_evaluation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 72,
+    "processed_at": "2026-05-09T09:54:32.783164"
+  },
+  "entities": [
+    {
+      "text": "Weight loss",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 30,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1622__fetal_anatomical_survey_.txt",
+    "file_name": "mtsamples_1622__fetal_anatomical_survey_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4481,
+    "processed_at": "2026-05-09T09:53:46.987576"
+  },
+  "entities": [
+    {
+      "text": "drug allergies.,SOCIAL",
+      "label": "DISEASE",
+      "start_char": 229,
+      "end_char": 251,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "drug allergies.,SOCIAL",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 293,
+      "end_char": 300,
+      "sentence_idx": 0,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "birth defects",
+      "label": "DISEASE",
+      "start_char": 350,
+      "end_char": 363,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "birth defects",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mental retardation",
+      "label": "DISEASE",
+      "start_char": 365,
+      "end_char": 383,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mental retardation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "psychiatric",
+      "label": "DISEASE",
+      "start_char": 391,
+      "end_char": 402,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "psychiatric",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "MHz transducer",
+      "label": "DISEASE",
+      "start_char": 479,
+      "end_char": 493,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "MHz transducer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intrauterine pregnancy",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 68,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prematurity",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 99,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prematurity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "preterm labor",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 75,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "preterm labor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "premature rupture of the fetal membranes",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 137,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "premature rupture of the fetal membranes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "preeclampsia",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 181,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "preeclampsia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "preeclampsia",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 75,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "preeclampsia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroids",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 117,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroids",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

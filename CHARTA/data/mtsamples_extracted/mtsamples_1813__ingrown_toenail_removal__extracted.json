@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1813__ingrown_toenail_removal_.txt",
+    "file_name": "mtsamples_1813__ingrown_toenail_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1007,
+    "processed_at": "2026-05-09T09:53:50.835062"
+  },
+  "entities": [
+    {
+      "text": "ingrown toenail",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 49,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ingrown toenail",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ingrown toenail",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 115,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ingrown toenail",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "toenail",
+      "label": "DISEASE",
+      "start_char": 187,
+      "end_char": 194,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "toenail",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "morphine",
+      "label": "CHEMICAL",
+      "start_char": 363,
+      "end_char": 371,
+      "sentence_idx": 0,
+      "concept_id": "C0026549",
+      "concept_name": "morphine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9600629210472107,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 376,
+      "end_char": 382,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 429,
+      "end_char": 438,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "toenail",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 31,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "toenail",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "toenail",
+      "label": "DISEASE",
+      "start_char": 165,
+      "end_char": 172,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "toenail",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

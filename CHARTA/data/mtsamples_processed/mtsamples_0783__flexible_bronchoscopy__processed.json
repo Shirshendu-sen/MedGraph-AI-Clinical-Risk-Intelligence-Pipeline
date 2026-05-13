@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0783__flexible_bronchoscopy_.txt",
+    "file_name": "mtsamples_0783__flexible_bronchoscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1449,
+    "processed_at": "2026-05-09T09:53:25.700020"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0783__flexible_bronchoscopy_.txt",
+    "text": "PROCEDURE:, Flexible bronchoscopy.,PREOPERATIVE DIAGNOSIS (ES):, Chronic wheezing.,INDICATIONS FOR PROCEDURE:, Evaluate the airway.,DESCRIPTION OF PROCEDURE: ,This was done in the pediatric endoscopy suite with the aid of Anesthesia. The patient was sedated with sevoflurane and propofol. One mL of 1% lidocaine was used for airway anesthesia. The 2.8-mm flexible pediatric bronchoscope was passed through the left naris. The upper airway was visualized. The epiglottis, arytenoids, and vocal cords were all normal. The scope was passed below the cords. The subglottic space was normal. The patient had normal tracheal rings and a normal membranous portion of the trachea. There was noted to be slight deviation of the trachea to the right. At the carina, the right and left mainstem were evaluated. The right upper lobe, right middle lobe, and right lower lobe were all anatomically normal. The scope was wedged in the right middle lobe, 10 mL of saline was infused, 10 was returned. This was sent for cell count, cytology, lipid index, and quantitative bacterial cultures. The left side was then evaluated and there was noted to be the normal cardiac pulsations on the left. There was also noted to be some dynamic collapse of the left mainstem during the respiratory cycle. The left upper lobe and left lower lobe were normal. The scope was withdrawn. The patient tolerated the procedure well.,ENDOSCOPIC DIAGNOSIS:, Left mainstem bronchomalacia.",
+    "char_count": 1449,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE:, Flexible bronchoscopy.,PREOPERATIVE DIAGNOSIS (ES):, Chronic wheezing.,INDICATIONS FOR PROCEDURE:, Evaluate the airway.,DESCRIPTION OF PROCEDURE: ,This was done in the pediatric endoscopy suite with the aid of Anesthesia. The patient was sedated with sevoflurane and propofol. One mL of 1% lidocaine was used for airway anesthesia. The 2.8-mm flexible pediatric bronchoscope was passed through the left naris. The upper airway was visualized. The epiglottis, arytenoids, and vocal cords were all normal. The scope was passed below the cords. The subglottic space was normal. The patient had normal tracheal rings and a normal membranous portion of the trachea. There was noted to be slight deviation of the trachea to the right. At the carina, the right and left mainstem were evaluated. The right upper lobe, right middle lobe, and right lower lobe were all anatomically normal. The scope was wedged in the right middle lobe, 10 mL of saline was infused, 10 was returned. This was sent for cell count, cytology, lipid index, and quantitative bacterial cultures. The left side was then evaluated and there was noted to be the normal cardiac pulsations on the left. There was also noted to be some dynamic collapse of the left mainstem during the respiratory cycle. The left upper lobe and left lower lobe were normal. The scope was withdrawn. The patient tolerated the procedure well.,ENDOSCOPIC DIAGNOSIS:, Left mainstem bronchomalacia.",
+    "sentences": [
+      "PROCEDURE:, Flexible bronchoscopy.,PREOPERATIVE DIAGNOSIS (ES):, Chronic wheezing.,INDICATIONS FOR PROCEDURE:, Evaluate the airway.,DESCRIPTION OF PROCEDURE: ,This was done in the pediatric endoscopy suite with the aid of Anesthesia.",
+      "The patient was sedated with sevoflurane and propofol.",
+      "One mL of 1% lidocaine was used for airway anesthesia.",
+      "The 2.8-mm flexible pediatric bronchoscope was passed through the left naris.",
+      "The upper airway was visualized.",
+      "The epiglottis, arytenoids, and vocal cords were all normal.",
+      "The scope was passed below the cords.",
+      "The subglottic space was normal.",
+      "The patient had normal tracheal rings and a normal membranous portion of the trachea.",
+      "There was noted to be slight deviation of the trachea to the right.",
+      "At the carina, the right and left mainstem were evaluated.",
+      "The right upper lobe, right middle lobe, and right lower lobe were all anatomically normal.",
+      "The scope was wedged in the right middle lobe, 10 mL of saline was infused, 10 was returned.",
+      "This was sent for cell count, cytology, lipid index, and quantitative bacterial cultures.",
+      "The left side was then evaluated and there was noted to be the normal cardiac pulsations on the left.",
+      "There was also noted to be some dynamic collapse of the left mainstem during the respiratory cycle.",
+      "The left upper lobe and left lower lobe were normal.",
+      "The scope was withdrawn.",
+      "The patient tolerated the procedure well.,ENDOSCOPIC DIAGNOSIS:, Left mainstem bronchomalacia."
+    ],
+    "sentence_count": 19,
+    "original_length": 1449,
+    "cleaned_length": 1449,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE:, Flexible bronchoscopy.,PREOPERATIVE DIAGNOSIS (ES):, Chronic wheezing.,INDICATIONS FOR PROCEDURE:, Evaluate the airway.,DESCRIPTION OF PROCEDURE: ,This was done in the pediatric endoscopy suite with the aid of Anesthesia. The patient was sedated with sevoflurane and propofol. One mL of 1% lidocaine was used for airway anesthesia. The 2.8-mm flexible pediatric bronchoscope was passed through the left naris. The upper airway was visualized. The epiglottis, arytenoids, and vocal cords were all normal. The scope was passed below the cords. The subglottic space was normal. The patient had normal tracheal rings and a normal membranous portion of the trachea. There was noted to be slight deviation of the trachea to the right. At the carina, the right and left mainstem were evaluated. The right upper lobe, right middle lobe, and right lower lobe were all anatomically normal. The scope was wedged in the right middle lobe, 10 mL of saline was infused, 10 was returned. This was sent for cell count, cytology, lipid index, and quantitative bacterial cultures. The left side was then evaluated and there was noted to be the normal cardiac pulsations on the left. There was also noted to be some dynamic collapse of the left mainstem during the respiratory cycle. The left upper lobe and left lower lobe were normal. The scope was withdrawn. The patient tolerated the procedure well.,ENDOSCOPIC DIAGNOSIS:, Left mainstem bronchomalacia.",
+    "cleaned_text": "PROCEDURE:, Flexible bronchoscopy.,PREOPERATIVE DIAGNOSIS (ES):, Chronic wheezing.,INDICATIONS FOR PROCEDURE:, Evaluate the airway.,DESCRIPTION OF PROCEDURE: ,This was done in the pediatric endoscopy suite with the aid of Anesthesia. The patient was sedated with sevoflurane and propofol. One mL of 1% lidocaine was used for airway anesthesia. The 2.8-mm flexible pediatric bronchoscope was passed through the left naris. The upper airway was visualized. The epiglottis, arytenoids, and vocal cords were all normal. The scope was passed below the cords. The subglottic space was normal. The patient had normal tracheal rings and a normal membranous portion of the trachea. There was noted to be slight deviation of the trachea to the right. At the carina, the right and left mainstem were evaluated. The right upper lobe, right middle lobe, and right lower lobe were all anatomically normal. The scope was wedged in the right middle lobe, 10 mL of saline was infused, 10 was returned. This was sent for cell count, cytology, lipid index, and quantitative bacterial cultures. The left side was then evaluated and there was noted to be the normal cardiac pulsations on the left. There was also noted to be some dynamic collapse of the left mainstem during the respiratory cycle. The left upper lobe and left lower lobe were normal. The scope was withdrawn. The patient tolerated the procedure well.,ENDOSCOPIC DIAGNOSIS:, Left mainstem bronchomalacia.",
+    "sentences": [
+      "PROCEDURE:, Flexible bronchoscopy.,PREOPERATIVE DIAGNOSIS (ES):, Chronic wheezing.,INDICATIONS FOR PROCEDURE:, Evaluate the airway.,DESCRIPTION OF PROCEDURE: ,This was done in the pediatric endoscopy suite with the aid of Anesthesia.",
+      "The patient was sedated with sevoflurane and propofol.",
+      "One mL of 1% lidocaine was used for airway anesthesia.",
+      "The 2.8-mm flexible pediatric bronchoscope was passed through the left naris.",
+      "The upper airway was visualized.",
+      "The epiglottis, arytenoids, and vocal cords were all normal.",
+      "The scope was passed below the cords.",
+      "The subglottic space was normal.",
+      "The patient had normal tracheal rings and a normal membranous portion of the trachea.",
+      "There was noted to be slight deviation of the trachea to the right.",
+      "At the carina, the right and left mainstem were evaluated.",
+      "The right upper lobe, right middle lobe, and right lower lobe were all anatomically normal.",
+      "The scope was wedged in the right middle lobe, 10 mL of saline was infused, 10 was returned.",
+      "This was sent for cell count, cytology, lipid index, and quantitative bacterial cultures.",
+      "The left side was then evaluated and there was noted to be the normal cardiac pulsations on the left.",
+      "There was also noted to be some dynamic collapse of the left mainstem during the respiratory cycle.",
+      "The left upper lobe and left lower lobe were normal.",
+      "The scope was withdrawn.",
+      "The patient tolerated the procedure well.,ENDOSCOPIC DIAGNOSIS:, Left mainstem bronchomalacia."
+    ],
+    "sentence_count": 19
+  }
+}

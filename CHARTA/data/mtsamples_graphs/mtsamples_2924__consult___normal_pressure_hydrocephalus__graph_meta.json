@@ -1,0 +1,27 @@
+{
+  "patient_id": "mtsamples_2924__consult___normal_pressure_hydrocephalus_",
+  "num_entities": 14,
+  "num_visits": 1,
+  "num_edges": 137,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0527315": 1,
+    "C0353697": 2,
+    "C0008845": 3,
+    "C0719199": 4,
+    "C0060389": 5,
+    "C0678149": 6,
+    "C0662903": 7,
+    "C0257343": 8,
+    "C0302583": 9,
+    "C0028978": 10,
+    "C0700777": 11,
+    "C0699142": 12,
+    "C0033405": 13
+  },
+  "visit_dates": [
+    "2007-12-20"
+  ],
+  "graph_file": "mtsamples_2924__consult___normal_pressure_hydrocephalus__graph.pt",
+  "source_dataset": "mtsamples_2924__consult___normal_pressure_hydrocephalus"
+}

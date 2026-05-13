@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1863__emg_nerve_conduction_study_.txt",
+    "file_name": "mtsamples_1863__emg_nerve_conduction_study_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2457,
+    "processed_at": "2026-05-09T09:53:51.981911"
+  },
+  "entities": [
+    {
+      "text": "diet-controlled diabetes",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 101,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diet-controlled diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arthritis",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 120,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciitis",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 139,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "muscle cramps",
+      "label": "DISEASE",
+      "start_char": 145,
+      "end_char": 158,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "muscle cramps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "few-month",
+      "label": "DISEASE",
+      "start_char": 179,
+      "end_char": 188,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "few-month",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 200,
+      "end_char": 208,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "amitriptyline",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 32,
+      "sentence_idx": 3,
+      "concept_id": "C0002600",
+      "concept_name": "amitriptyline",
+      "kb_source": "rxnorm",
+      "link_score": 0.9543513655662537,
+      "timestamp": null
+    },
+    {
+      "text": "low back pain",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 47,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "low back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 60,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathies",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 157,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Elavil",
+      "label": "CHEMICAL",
+      "start_char": 76,
+      "end_char": 82,
+      "sentence_idx": 21,
+      "concept_id": "C0087119",
+      "concept_name": "Elavil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9873966574668884,
+      "timestamp": null
+    },
+    {
+      "text": "neuropathy",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 35,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "glucose intolerance/early diabetes",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 108,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glucose intolerance/early diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "B12",
+      "label": "CHEMICAL",
+      "start_char": 122,
+      "end_char": 125,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "B12",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1642__diagnostic_cerebral_angiogram_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 24,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030350": 1,
+    "C0032207": 2,
+    "C0600203": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1642__diagnostic_cerebral_angiogram__graph.pt",
+  "source_dataset": "mtsamples_1642__diagnostic_cerebral_angiogram"
+}

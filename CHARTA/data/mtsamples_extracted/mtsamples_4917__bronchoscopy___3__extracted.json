@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4917__bronchoscopy___3_.txt",
+    "file_name": "mtsamples_4917__bronchoscopy___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1467,
+    "processed_at": "2026-05-09T09:54:47.509721"
+  },
+  "entities": [
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 54,
+      "end_char": 60,
+      "sentence_idx": 1,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "Secretions",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 5,
+      "concept_id": "C0036534",
+      "concept_name": "Secretin",
+      "kb_source": "mesh",
+      "link_score": 0.7185770869255066,
+      "timestamp": null
+    },
+    {
+      "text": "mucocele",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 28,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mucocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 18,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Mucomyst",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 19,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Mucomyst",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "friable",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 37,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "friable",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "O2 saturations",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "O2 saturations",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

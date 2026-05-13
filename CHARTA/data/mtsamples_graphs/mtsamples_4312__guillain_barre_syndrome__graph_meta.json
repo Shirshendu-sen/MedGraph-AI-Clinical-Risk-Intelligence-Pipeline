@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_4312__guillain_barre_syndrome_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 80,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0017642": 2,
+    "C0082607": 3,
+    "C0699992": 4,
+    "C0678181": 5,
+    "C0678176": 6,
+    "C0004609": 7,
+    "C0086787": 8,
+    "C0004057": 9
+  },
+  "visit_dates": [
+    "2006-07-12"
+  ],
+  "graph_file": "mtsamples_4312__guillain_barre_syndrome__graph.pt",
+  "source_dataset": "mtsamples_4312__guillain_barre_syndrome"
+}

@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2090__orif___2_.txt",
+    "file_name": "mtsamples_2090__orif___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4635,
+    "processed_at": "2026-05-09T09:53:56.080682"
+  },
+  "entities": [
+    {
+      "text": "comminuted fracture",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 54,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "comminuted fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "comminuted fracture",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 138,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "comminuted fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "comminuted Frykman fracture",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 143,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "comminuted Frykman fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 13,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 245,
+      "end_char": 253,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 255,
+      "end_char": 264,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 85,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 225,
+      "end_char": 230,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "fracture blisters",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 153,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture blisters",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "compartment syndrome",
+      "label": "DISEASE",
+      "start_char": 162,
+      "end_char": 182,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "compartment syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 187,
+      "end_char": 195,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 59,
+      "end_char": 69,
+      "sentence_idx": 25,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 36,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 47,
+      "sentence_idx": 29,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "Depo-Medrol",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 60,
+      "sentence_idx": 29,
+      "concept_id": "C0057476",
+      "concept_name": "Depo-Medrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9515208005905151,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "Jones-type",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 46,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Jones-type",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-03"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "April 3, 2007",
+      "start_char": 879,
+      "end_char": 892
+    }
+  ]
+}

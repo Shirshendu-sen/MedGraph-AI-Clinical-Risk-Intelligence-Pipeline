@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2498__tubal_ligation___laparoscopic_.txt",
+    "file_name": "mtsamples_2498__tubal_ligation___laparoscopic_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2090,
+    "processed_at": "2026-05-09T09:54:03.300624"
+  },
+  "entities": [
+    {
+      "text": "mL.,COMPLICATIONS",
+      "label": "DISEASE",
+      "start_char": 230,
+      "end_char": 247,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mL.,COMPLICATIONS",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 32,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adnexa bilaterally.,DESCRIPTION",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 112,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adnexa bilaterally.,DESCRIPTION",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 127,
+      "end_char": 135,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 29,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 124,
+      "end_char": 132,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3452__sigmoidoscopy___1_.txt",
+    "file_name": "mtsamples_3452__sigmoidoscopy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1551,
+    "processed_at": "2026-05-09T09:54:22.016107"
+  },
+  "entities": [
+    {
+      "text": "anemia",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 76,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 120,
+      "end_char": 128,
+      "sentence_idx": 0,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "Sublazine",
+      "label": "CHEMICAL",
+      "start_char": 130,
+      "end_char": 139,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Sublazine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 151,
+      "end_char": 157,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "midazolam",
+      "label": "CHEMICAL",
+      "start_char": 159,
+      "end_char": 168,
+      "sentence_idx": 0,
+      "concept_id": "C0026056",
+      "concept_name": "midazolam",
+      "kb_source": "rxnorm",
+      "link_score": 0.9922217726707458,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 61,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "perforation",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 74,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 85,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adverse medication reaction",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 114,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adverse medication reaction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stricture",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 99,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stricture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhoids",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 64,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhoids",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 20,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhoids",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 116,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhoids",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 137,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhoids",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 20,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2497__ultrasound___pelvis__.txt",
+    "file_name": "mtsamples_2497__ultrasound___pelvis__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 677,
+    "processed_at": "2026-05-09T09:54:03.296624"
+  },
+  "entities": [
+    {
+      "text": "fibroids",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 69,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroids",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 110,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroids",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 109,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "heterogenous",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 51,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "heterogenous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "uterine fibroid embolization",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 113,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "uterine fibroid embolization",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

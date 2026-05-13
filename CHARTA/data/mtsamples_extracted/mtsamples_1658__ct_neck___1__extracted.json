@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1658__ct_neck___1_.txt",
+    "file_name": "mtsamples_1658__ct_neck___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2796,
+    "processed_at": "2026-05-09T09:53:47.766492"
+  },
+  "entities": [
+    {
+      "text": "lobulated mass lesion",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 42,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lobulated mass lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epiglottis",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 60,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epiglottis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "enlargement of the bilateral aryepiglottic",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 58,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "enlargement of the bilateral aryepiglottic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "glossoepiglottic",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 43,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glossoepiglottic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "enlargement of the bilateral jugulodigastric nodes",
+      "label": "DISEASE",
+      "start_char": 176,
+      "end_char": 226,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "enlargement of the bilateral jugulodigastric nodes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "necrotic",
+      "label": "DISEASE",
+      "start_char": 258,
+      "end_char": 266,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "normal.,IMPRESSION:,Epiglottic mass lesion",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 93,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normal.,IMPRESSION:,Epiglottic mass lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "glossoepiglottic",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 140,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glossoepiglottic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

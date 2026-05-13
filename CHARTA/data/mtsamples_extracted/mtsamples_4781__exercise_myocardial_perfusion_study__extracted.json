@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4781__exercise_myocardial_perfusion_study_.txt",
+    "file_name": "mtsamples_4781__exercise_myocardial_perfusion_study_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1091,
+    "processed_at": "2026-05-09T09:54:44.588887"
+  },
+  "entities": [
+    {
+      "text": "ischemia",
+      "label": "DISEASE",
+      "start_char": 156,
+      "end_char": 164,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ischemia",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 74,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

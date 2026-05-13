@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_0112__hydrocelectomy__",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 16,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0010294": 2,
+    "C0037473": 3,
+    "C0032821": 4,
+    "C0006675": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0112__hydrocelectomy___graph.pt",
+  "source_dataset": "mtsamples_0112__hydrocelectomy_"
+}

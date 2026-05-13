@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1051__carpal_tunnel_release___8_.txt",
+    "file_name": "mtsamples_1051__carpal_tunnel_release___8_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5719,
+    "processed_at": "2026-05-09T09:53:32.577305"
+  },
+  "entities": [
+    {
+      "text": "tenosynovitis.,PROCEDURES",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 63,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenosynovitis.,PROCEDURES",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-29"
+    },
+    {
+      "text": "tenosynovitis",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 25,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenosynovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-29"
+    },
+    {
+      "text": "synovitis",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 70,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "synovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-29"
+    },
+    {
+      "text": "right hand pain",
+      "label": "DISEASE",
+      "start_char": 239,
+      "end_char": 254,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right hand pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-29"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 259,
+      "end_char": 267,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-29"
+    },
+    {
+      "text": "carpal tunnel syndrome",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 53,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-29"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 36,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-29"
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 53,
+      "sentence_idx": 15,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": "2003-08-29"
+    },
+    {
+      "text": "palmaris brevis muscle",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 26,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palmaris brevis muscle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-29"
+    },
+    {
+      "text": "space-occupying lesions",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 83,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "space-occupying lesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-29"
+    },
+    {
+      "text": "synovitis",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 36,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "synovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-29"
+    },
+    {
+      "text": "superficialis tendons",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 123,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "superficialis tendons",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-29"
+    },
+    {
+      "text": "synovitis",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 43,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "synovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-29"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/29/03",
+      "start_char": 1478,
+      "end_char": 1486
+    }
+  ]
+}

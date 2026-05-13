@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4643__radionuclide_stress_test_.txt",
+    "file_name": "mtsamples_4643__radionuclide_stress_test_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1470,
+    "processed_at": "2026-05-09T09:54:42.698476"
+  },
+  "entities": [
+    {
+      "text": "fullness",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 58,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fullness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Femara",
+      "label": "CHEMICAL",
+      "start_char": 115,
+      "end_char": 121,
+      "sentence_idx": 0,
+      "concept_id": "C0701348",
+      "concept_name": "Femara",
+      "kb_source": "rxnorm",
+      "link_score": 0.9854196310043335,
+      "timestamp": null
+    },
+    {
+      "text": "verapamil",
+      "label": "CHEMICAL",
+      "start_char": 123,
+      "end_char": 132,
+      "sentence_idx": 0,
+      "concept_id": "C0042523",
+      "concept_name": "verapamil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9873363971710205,
+      "timestamp": null
+    },
+    {
+      "text": "Dyazide",
+      "label": "CHEMICAL",
+      "start_char": 134,
+      "end_char": 141,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dyazide",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hyzaar",
+      "label": "CHEMICAL",
+      "start_char": 143,
+      "end_char": 149,
+      "sentence_idx": 0,
+      "concept_id": "C0721010",
+      "concept_name": "Hyzaar",
+      "kb_source": "rxnorm",
+      "link_score": 0.9580034613609314,
+      "timestamp": null
+    },
+    {
+      "text": "glyburide",
+      "label": "CHEMICAL",
+      "start_char": 151,
+      "end_char": 160,
+      "sentence_idx": 0,
+      "concept_id": "C0017628",
+      "concept_name": "glyburide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9396923780441284,
+      "timestamp": null
+    },
+    {
+      "text": "fatigue",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 59,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fatigue",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "repolorization abnormalities",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 63,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "repolorization abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "LVH",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 34,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LVH",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ischemia",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 40,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstructive coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 61,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertensive cardiomyopathy",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 32,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertensive cardiomyopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0507__nephrectomy___radical_.txt",
+    "file_name": "mtsamples_0507__nephrectomy___radical_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2917,
+    "processed_at": "2026-05-09T09:53:17.820734"
+  },
+  "entities": [
+    {
+      "text": "injury to the bowel and the right lower quadrant incision",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 163,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury to the bowel and the right lower quadrant incision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 24,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

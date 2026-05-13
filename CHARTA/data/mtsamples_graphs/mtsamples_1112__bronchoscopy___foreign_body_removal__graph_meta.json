@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1112__bronchoscopy___foreign_body_removal_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 2,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1112__bronchoscopy___foreign_body_removal__graph.pt",
+  "source_dataset": "mtsamples_1112__bronchoscopy___foreign_body_removal"
+}

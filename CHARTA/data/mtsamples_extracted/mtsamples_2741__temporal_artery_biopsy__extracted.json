@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2741__temporal_artery_biopsy_.txt",
+    "file_name": "mtsamples_2741__temporal_artery_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 969,
+    "processed_at": "2026-05-09T09:54:06.787806"
+  },
+  "entities": [
+    {
+      "text": "temporal artery",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 146,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "temporal artery",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 188,
+      "end_char": 197,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "temporal headaches",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 52,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "temporal headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "temporal arteritis",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 83,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "temporal arteritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 9,
+      "end_char": 18,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

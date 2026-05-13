@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2311__anterior_lumbar_fusion_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 13,
+  "entity_index": {
+    "C0108136": 0,
+    "UNKNOWN": 1,
+    "C0030346": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2311__anterior_lumbar_fusion__graph.pt",
+  "source_dataset": "mtsamples_2311__anterior_lumbar_fusion"
+}

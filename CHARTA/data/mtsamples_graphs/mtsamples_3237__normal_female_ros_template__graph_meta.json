@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3237__normal_female_ros_template_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 68,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0376325": 2,
+    "C0008377": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3237__normal_female_ros_template__graph.pt",
+  "source_dataset": "mtsamples_3237__normal_female_ros_template"
+}

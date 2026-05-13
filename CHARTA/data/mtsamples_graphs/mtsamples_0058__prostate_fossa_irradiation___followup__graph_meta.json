@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0058__prostate_fossa_irradiation___followup_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 15,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0040233": 1
+  },
+  "visit_dates": [
+    "2026-05-08"
+  ],
+  "graph_file": "mtsamples_0058__prostate_fossa_irradiation___followup__graph.pt",
+  "source_dataset": "mtsamples_0058__prostate_fossa_irradiation___followup"
+}

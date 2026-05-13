@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1401__dermatitis___soap_.txt",
+    "file_name": "mtsamples_1401__dermatitis___soap_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1542,
+    "processed_at": "2026-05-09T09:53:40.729117"
+  },
+  "entities": [
+    {
+      "text": "eczema",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 85,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "eczema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-13"
+    },
+    {
+      "text": "Aristocort cream",
+      "label": "CHEMICAL",
+      "start_char": 24,
+      "end_char": 40,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Aristocort cream",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-07-13"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 89,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2004-07-13"
+    },
+    {
+      "text": "asthma",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 80,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "asthma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-13"
+    },
+    {
+      "text": "psoriasis",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 120,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "psoriasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-13"
+    },
+    {
+      "text": "sunburns",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 15,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sunburns",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-13"
+    },
+    {
+      "text": "Claritin",
+      "label": "CHEMICAL",
+      "start_char": 78,
+      "end_char": 86,
+      "sentence_idx": 10,
+      "concept_id": "C0701055",
+      "concept_name": "Claritin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9775713682174683,
+      "timestamp": "2004-07-13"
+    },
+    {
+      "text": "Zyrtec",
+      "label": "CHEMICAL",
+      "start_char": 91,
+      "end_char": 97,
+      "sentence_idx": 10,
+      "concept_id": "C0162723",
+      "concept_name": "Zyrtec",
+      "kb_source": "rxnorm",
+      "link_score": 0.9963204860687256,
+      "timestamp": "2004-07-13"
+    },
+    {
+      "text": "Aristocort ointment",
+      "label": "CHEMICAL",
+      "start_char": 6,
+      "end_char": 25,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Aristocort ointment",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-07-13"
+    },
+    {
+      "text": "Polysporin ointment t.i.d",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 74,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Polysporin ointment t.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-07-13"
+    },
+    {
+      "text": "Discontinue",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Discontinue",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-07-13"
+    },
+    {
+      "text": "Cetaphil cleansing lotion.,4",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 80,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cetaphil cleansing lotion.,4",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-07-13"
+    },
+    {
+      "text": "Keflex",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 14,
+      "concept_id": "C0700517",
+      "concept_name": "Keflex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9780697822570801,
+      "timestamp": "2004-07-13"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "07/13/04",
+      "start_char": 117,
+      "end_char": 125
+    }
+  ]
+}

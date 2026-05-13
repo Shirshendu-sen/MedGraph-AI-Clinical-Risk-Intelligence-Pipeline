@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2318__anterior_cervical_discectomy___interbody_fusion___2_.txt",
+    "file_name": "mtsamples_2318__anterior_cervical_discectomy___interbody_fusion___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3786,
+    "processed_at": "2026-05-09T09:53:59.786812"
+  },
+  "entities": [
+    {
+      "text": "myelopathy",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 55,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myelopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 17,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "myelopathy",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 55,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myelopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 17,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "confirmed.,PROCEDURES",
+      "label": "CHEMICAL",
+      "start_char": 76,
+      "end_char": 97,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "confirmed.,PROCEDURES",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

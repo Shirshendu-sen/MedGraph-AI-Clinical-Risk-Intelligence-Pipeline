@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4498__chest_pain___cardiac_consult_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 24,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0700017": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4498__chest_pain___cardiac_consult__graph.pt",
+  "source_dataset": "mtsamples_4498__chest_pain___cardiac_consult"
+}

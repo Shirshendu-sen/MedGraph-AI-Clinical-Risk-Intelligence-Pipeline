@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_2683__first_followup___shunt_surgery_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 63,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0633084": 2,
+    "C0025859": 3,
+    "C0678181": 4,
+    "C0065374": 5,
+    "C0591635": 6,
+    "C0036274": 7
+  },
+  "visit_dates": [
+    "2008-10-15"
+  ],
+  "graph_file": "mtsamples_2683__first_followup___shunt_surgery__graph.pt",
+  "source_dataset": "mtsamples_2683__first_followup___shunt_surgery"
+}

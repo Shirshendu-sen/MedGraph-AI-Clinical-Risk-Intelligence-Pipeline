@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3549__endoscopy___4_.txt",
+    "file_name": "mtsamples_3549__endoscopy___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1439,
+    "processed_at": "2026-05-09T09:54:23.513366"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3549__endoscopy___4_.txt",
+    "text": "PROCEDURE: , Endoscopy.,CLINICAL INDICATIONS: , Intermittent rectal bleeding with abdominal pain.,ANESTHESIA: , Fentanyl 100 mcg and 5 mg of IV Versed.,PROCEDURE:,  The patient was taken to the GI lab and placed in the left lateral supine position.  Continuous pulse oximetry and blood pressure monitoring were in place.  After informed consent was obtained, the video endoscope was inserted over the dorsum of the tongue without difficulty.  With swallowing, the scope was advanced down the esophagus into the body of the stomach.  The scope was further advanced down to the antrum and through the pylorus into the duodenum, which was visualized into its second portion.  It appeared free of stricture, neoplasm, or ulceration.  Samples were obtained from the antrum and prepyloric area to check for Helicobacter, rapid urease, and additional samples were sent to pathology.  Retroflexion view of the fundus of the stomach was normal without evidence of a hiatal hernia.  The scope was then slowly removed.  The distal esophagus appeared benign with a normal-appearing gastroesophageal sphincter and no esophagitis.  The remaining portion of the esophagus was normal.,IMPRESSION:,  Abdominal pain.  Symptoms most consistent with gastroesophageal reflux disease without endoscopic evidence of hiatal hernia.,RECOMMENDATIONS:,  Await results of CLO testing and biopsies.  Return to clinic with Dr. Spencer in 2 weeks for further discussion.",
+    "char_count": 1439,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE: , Endoscopy.,CLINICAL INDICATIONS: , Intermittent rectal bleeding with abdominal pain.,ANESTHESIA: , Fentanyl 100 mcg and 5 mg of IV Versed.,PROCEDURE:, The patient was taken to the GI lab and placed in the left lateral supine position. Continuous pulse oximetry and blood pressure monitoring were in place. After informed consent was obtained, the video endoscope was inserted over the dorsum of the tongue without difficulty. With swallowing, the scope was advanced down the esophagus into the body of the stomach. The scope was further advanced down to the antrum and through the pylorus into the duodenum, which was visualized into its second portion. It appeared free of stricture, neoplasm, or ulceration. Samples were obtained from the antrum and prepyloric area to check for Helicobacter, rapid urease, and additional samples were sent to pathology. Retroflexion view of the fundus of the stomach was normal without evidence of a hiatal hernia. The scope was then slowly removed. The distal esophagus appeared benign with a normal-appearing gastroesophageal sphincter and no esophagitis. The remaining portion of the esophagus was normal.,IMPRESSION:, Abdominal pain. Symptoms most consistent with gastroesophageal reflux disease without endoscopic evidence of hiatal hernia.,RECOMMENDATIONS:, Await results of CLO testing and biopsies. Return to clinic with Dr. Spencer in 2 weeks for further discussion.",
+    "sentences": [
+      "PROCEDURE: , Endoscopy.,CLINICAL INDICATIONS: , Intermittent rectal bleeding with abdominal pain.,ANESTHESIA: , Fentanyl 100 mcg and 5 mg of IV Versed.,PROCEDURE:, The patient was taken to the GI lab and placed in the left lateral supine position.",
+      "Continuous pulse oximetry and blood pressure monitoring were in place.",
+      "After informed consent was obtained, the video endoscope was inserted over the dorsum of the tongue without difficulty.",
+      "With swallowing, the scope was advanced down the esophagus into the body of the stomach.",
+      "The scope was further advanced down to the antrum and through the pylorus into the duodenum, which was visualized into its second portion.",
+      "It appeared free of stricture, neoplasm, or ulceration.",
+      "Samples were obtained from the antrum and prepyloric area to check for Helicobacter, rapid urease, and additional samples were sent to pathology.",
+      "Retroflexion view of the fundus of the stomach was normal without evidence of a hiatal hernia.",
+      "The scope was then slowly removed.",
+      "The distal esophagus appeared benign with a normal-appearing gastroesophageal sphincter and no esophagitis.",
+      "The remaining portion of the esophagus was normal.,IMPRESSION:, Abdominal pain.",
+      "Symptoms most consistent with gastroesophageal reflux disease without endoscopic evidence of hiatal hernia.,RECOMMENDATIONS:, Await results of CLO testing and biopsies.",
+      "Return to clinic with Dr.",
+      "Spencer in 2 weeks for further discussion."
+    ],
+    "sentence_count": 14,
+    "original_length": 1439,
+    "cleaned_length": 1424,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE: , Endoscopy.,CLINICAL INDICATIONS: , Intermittent rectal bleeding with abdominal pain.,ANESTHESIA: , Fentanyl 100 mcg and 5 mg of IV Versed.,PROCEDURE:,  The patient was taken to the GI lab and placed in the left lateral supine position.  Continuous pulse oximetry and blood pressure monitoring were in place.  After informed consent was obtained, the video endoscope was inserted over the dorsum of the tongue without difficulty.  With swallowing, the scope was advanced down the esophagus into the body of the stomach.  The scope was further advanced down to the antrum and through the pylorus into the duodenum, which was visualized into its second portion.  It appeared free of stricture, neoplasm, or ulceration.  Samples were obtained from the antrum and prepyloric area to check for Helicobacter, rapid urease, and additional samples were sent to pathology.  Retroflexion view of the fundus of the stomach was normal without evidence of a hiatal hernia.  The scope was then slowly removed.  The distal esophagus appeared benign with a normal-appearing gastroesophageal sphincter and no esophagitis.  The remaining portion of the esophagus was normal.,IMPRESSION:,  Abdominal pain.  Symptoms most consistent with gastroesophageal reflux disease without endoscopic evidence of hiatal hernia.,RECOMMENDATIONS:,  Await results of CLO testing and biopsies.  Return to clinic with Dr. Spencer in 2 weeks for further discussion.",
+    "cleaned_text": "PROCEDURE: , Endoscopy.,CLINICAL INDICATIONS: , Intermittent rectal bleeding with abdominal pain.,ANESTHESIA: , Fentanyl 100 mcg and 5 mg of IV Versed.,PROCEDURE:, The patient was taken to the GI lab and placed in the left lateral supine position. Continuous pulse oximetry and blood pressure monitoring were in place. After informed consent was obtained, the video endoscope was inserted over the dorsum of the tongue without difficulty. With swallowing, the scope was advanced down the esophagus into the body of the stomach. The scope was further advanced down to the antrum and through the pylorus into the duodenum, which was visualized into its second portion. It appeared free of stricture, neoplasm, or ulceration. Samples were obtained from the antrum and prepyloric area to check for Helicobacter, rapid urease, and additional samples were sent to pathology. Retroflexion view of the fundus of the stomach was normal without evidence of a hiatal hernia. The scope was then slowly removed. The distal esophagus appeared benign with a normal-appearing gastroesophageal sphincter and no esophagitis. The remaining portion of the esophagus was normal.,IMPRESSION:, Abdominal pain. Symptoms most consistent with gastroesophageal reflux disease without endoscopic evidence of hiatal hernia.,RECOMMENDATIONS:, Await results of CLO testing and biopsies. Return to clinic with Dr. Spencer in 2 weeks for further discussion.",
+    "sentences": [
+      "PROCEDURE: , Endoscopy.,CLINICAL INDICATIONS: , Intermittent rectal bleeding with abdominal pain.,ANESTHESIA: , Fentanyl 100 mcg and 5 mg of IV Versed.,PROCEDURE:, The patient was taken to the GI lab and placed in the left lateral supine position.",
+      "Continuous pulse oximetry and blood pressure monitoring were in place.",
+      "After informed consent was obtained, the video endoscope was inserted over the dorsum of the tongue without difficulty.",
+      "With swallowing, the scope was advanced down the esophagus into the body of the stomach.",
+      "The scope was further advanced down to the antrum and through the pylorus into the duodenum, which was visualized into its second portion.",
+      "It appeared free of stricture, neoplasm, or ulceration.",
+      "Samples were obtained from the antrum and prepyloric area to check for Helicobacter, rapid urease, and additional samples were sent to pathology.",
+      "Retroflexion view of the fundus of the stomach was normal without evidence of a hiatal hernia.",
+      "The scope was then slowly removed.",
+      "The distal esophagus appeared benign with a normal-appearing gastroesophageal sphincter and no esophagitis.",
+      "The remaining portion of the esophagus was normal.,IMPRESSION:, Abdominal pain.",
+      "Symptoms most consistent with gastroesophageal reflux disease without endoscopic evidence of hiatal hernia.,RECOMMENDATIONS:, Await results of CLO testing and biopsies.",
+      "Return to clinic with Dr.",
+      "Spencer in 2 weeks for further discussion."
+    ],
+    "sentence_count": 14
+  }
+}

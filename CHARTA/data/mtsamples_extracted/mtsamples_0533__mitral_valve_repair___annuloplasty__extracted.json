@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0533__mitral_valve_repair___annuloplasty_.txt",
+    "file_name": "mtsamples_0533__mitral_valve_repair___annuloplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5851,
+    "processed_at": "2026-05-09T09:53:18.537362"
+  },
+  "entities": [
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 25,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "full-dose",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 56,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "full-dose",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inferior vena cava cannula",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 54,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inferior vena cava cannula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arrest",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 104,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arrest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 93,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 37,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trigone",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 116,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trigone",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trigone",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 33,
+      "sentence_idx": 44,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trigone",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "full-dose protamine",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 32,
+      "sentence_idx": 58,
+      "concept_id": "UNKNOWN",
+      "concept_name": "full-dose protamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "protamine",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 92,
+      "sentence_idx": 58,
+      "concept_id": "C0033603",
+      "concept_name": "protamines",
+      "kb_source": "rxnorm",
+      "link_score": 0.961919367313385,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 62,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

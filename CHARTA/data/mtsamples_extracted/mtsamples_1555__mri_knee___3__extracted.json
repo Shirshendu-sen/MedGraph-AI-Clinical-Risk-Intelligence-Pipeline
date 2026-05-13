@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1555__mri_knee___3_.txt",
+    "file_name": "mtsamples_1555__mri_knee___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1690,
+    "processed_at": "2026-05-09T09:53:44.399910"
+  },
+  "entities": [
+    {
+      "text": "knee pain",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 72,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-05"
+    },
+    {
+      "text": "mobility loss",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 87,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mobility loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-05"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 100,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-05"
+    },
+    {
+      "text": "intrasubstance degeneration",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 87,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrasubstance degeneration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-05"
+    },
+    {
+      "text": "intrasubstance degeneration",
+      "label": "DISEASE",
+      "start_char": 159,
+      "end_char": 186,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrasubstance degeneration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-05"
+    },
+    {
+      "text": "sprain",
+      "label": "DISEASE",
+      "start_char": 174,
+      "end_char": 180,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sprain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-10"
+    },
+    {
+      "text": "iliotibial band.,Normal quadriceps",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 119,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "iliotibial band.,Normal quadriceps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-05"
+    },
+    {
+      "text": "fractures.,There",
+      "label": "CHEMICAL",
+      "start_char": 155,
+      "end_char": 171,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures.,There",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2005-08-05"
+    },
+    {
+      "text": "arthrosis",
+      "label": "DISEASE",
+      "start_char": 175,
+      "end_char": 184,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-10"
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 115,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-05"
+    },
+    {
+      "text": "synovial thickening.,IMPRESSION:,Probable small tear",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 61,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "synovial thickening.,IMPRESSION:,Probable small tear",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-05"
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 214,
+      "end_char": 222,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-10"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "8/5/05",
+      "start_char": 152,
+      "end_char": 158
+    },
+    {
+      "raw_text": "8/10/05",
+      "start_char": 193,
+      "end_char": 200
+    }
+  ]
+}

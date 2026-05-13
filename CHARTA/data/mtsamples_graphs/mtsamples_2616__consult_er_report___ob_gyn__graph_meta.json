@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_2616__consult_er_report___ob_gyn_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 38,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C1170371": 1,
+    "C0040610": 2,
+    "C0487782": 3,
+    "C0875968": 4,
+    "C0001962": 5,
+    "C0030054": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2616__consult_er_report___ob_gyn__graph.pt",
+  "source_dataset": "mtsamples_2616__consult_er_report___ob_gyn"
+}

@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1248__ahmed_shunt_placement_.txt",
+    "file_name": "mtsamples_1248__ahmed_shunt_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2507,
+    "processed_at": "2026-05-09T09:53:37.791107"
+  },
+  "entities": [
+    {
+      "text": "pilocarpine",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 24,
+      "sentence_idx": 1,
+      "concept_id": "C0031923",
+      "concept_name": "pilocarpine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9506012797355652,
+      "timestamp": null
+    },
+    {
+      "text": "propofol",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 72,
+      "sentence_idx": 3,
+      "concept_id": "C0033487",
+      "concept_name": "propofol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9385934472084045,
+      "timestamp": null
+    },
+    {
+      "text": "somnolent",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 91,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "somnolent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 158,
+      "end_char": 167,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "BV",
+      "label": "CHEMICAL",
+      "start_char": 82,
+      "end_char": 84,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BV",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Homatropine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 26,
+      "concept_id": "C0062922",
+      "concept_name": "homatropine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9468659162521362,
+      "timestamp": null
+    },
+    {
+      "text": "Vigamox",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 35,
+      "sentence_idx": 26,
+      "concept_id": "C1330598",
+      "concept_name": "Vigamox",
+      "kb_source": "rxnorm",
+      "link_score": 0.9880033135414124,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0992__colonoscopy___11_.txt",
+    "file_name": "mtsamples_0992__colonoscopy___11_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1101,
+    "processed_at": "2026-05-09T09:53:30.798804"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0992__colonoscopy___11_.txt",
+    "text": "MEDICATIONS:,1.  Versed intravenously.,2.  Demerol intravenously.,DESCRIPTION OF THE PROCEDURE: , After informed consent was obtained, the patient was placed in the left lateral decubitus position and sedated with the above medications.  The Olympus video colonoscope was inserted through the anus and was advanced in retrograde fashion through the sigmoid colon, descending colon, around the splenic flexure, into the transverse colon, around the hepatic flexure, down the ascending colon, into the cecum.  The cecum was identified by the presence of the appendiceal orifice and the ileocecal valve.  The colonoscope was then advanced through the ileocecal valve into the terminal ileum, which was normal on examination.  The scope was then pulled back into the cecum and then slowly withdrawn.  The mucosa was examined in detail.  The mucosa was entirely normal.  Upon reaching the rectum, retroflex examination of the rectum was normal.  The scope was then straightened out, the air removed and the scope withdrawn.  The patient tolerated the procedure well.  There were no apparent complications.,",
+    "char_count": 1101,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "MEDICATIONS:,1. Versed intravenously.,2. Demerol intravenously.,DESCRIPTION OF THE PROCEDURE: , After informed consent was obtained, the patient was placed in the left lateral decubitus position and sedated with the above medications. The Olympus video colonoscope was inserted through the anus and was advanced in retrograde fashion through the sigmoid colon, descending colon, around the splenic flexure, into the transverse colon, around the hepatic flexure, down the ascending colon, into the cecum. The cecum was identified by the presence of the appendiceal orifice and the ileocecal valve. The colonoscope was then advanced through the ileocecal valve into the terminal ileum, which was normal on examination. The scope was then pulled back into the cecum and then slowly withdrawn. The mucosa was examined in detail. The mucosa was entirely normal. Upon reaching the rectum, retroflex examination of the rectum was normal. The scope was then straightened out, the air removed and the scope withdrawn. The patient tolerated the procedure well. There were no apparent complications.,",
+    "sentences": [
+      "MEDICATIONS:,1.",
+      "Versed intravenously.,2.",
+      "Demerol intravenously.,DESCRIPTION OF THE PROCEDURE: , After informed consent was obtained, the patient was placed in the left lateral decubitus position and sedated with the above medications.",
+      "The Olympus video colonoscope was inserted through the anus and was advanced in retrograde fashion through the sigmoid colon, descending colon, around the splenic flexure, into the transverse colon, around the hepatic flexure, down the ascending colon, into the cecum.",
+      "The cecum was identified by the presence of the appendiceal orifice and the ileocecal valve.",
+      "The colonoscope was then advanced through the ileocecal valve into the terminal ileum, which was normal on examination.",
+      "The scope was then pulled back into the cecum and then slowly withdrawn.",
+      "The mucosa was examined in detail.",
+      "The mucosa was entirely normal.",
+      "Upon reaching the rectum, retroflex examination of the rectum was normal.",
+      "The scope was then straightened out, the air removed and the scope withdrawn.",
+      "The patient tolerated the procedure well.",
+      "There were no apparent complications.,"
+    ],
+    "sentence_count": 13,
+    "original_length": 1101,
+    "cleaned_length": 1089,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "MEDICATIONS:,1.  Versed intravenously.,2.  Demerol intravenously.,DESCRIPTION OF THE PROCEDURE: , After informed consent was obtained, the patient was placed in the left lateral decubitus position and sedated with the above medications.  The Olympus video colonoscope was inserted through the anus and was advanced in retrograde fashion through the sigmoid colon, descending colon, around the splenic flexure, into the transverse colon, around the hepatic flexure, down the ascending colon, into the cecum.  The cecum was identified by the presence of the appendiceal orifice and the ileocecal valve.  The colonoscope was then advanced through the ileocecal valve into the terminal ileum, which was normal on examination.  The scope was then pulled back into the cecum and then slowly withdrawn.  The mucosa was examined in detail.  The mucosa was entirely normal.  Upon reaching the rectum, retroflex examination of the rectum was normal.  The scope was then straightened out, the air removed and the scope withdrawn.  The patient tolerated the procedure well.  There were no apparent complications.,",
+    "cleaned_text": "MEDICATIONS:,1. Versed intravenously.,2. Demerol intravenously.,DESCRIPTION OF THE PROCEDURE: , After informed consent was obtained, the patient was placed in the left lateral decubitus position and sedated with the above medications. The Olympus video colonoscope was inserted through the anus and was advanced in retrograde fashion through the sigmoid colon, descending colon, around the splenic flexure, into the transverse colon, around the hepatic flexure, down the ascending colon, into the cecum. The cecum was identified by the presence of the appendiceal orifice and the ileocecal valve. The colonoscope was then advanced through the ileocecal valve into the terminal ileum, which was normal on examination. The scope was then pulled back into the cecum and then slowly withdrawn. The mucosa was examined in detail. The mucosa was entirely normal. Upon reaching the rectum, retroflex examination of the rectum was normal. The scope was then straightened out, the air removed and the scope withdrawn. The patient tolerated the procedure well. There were no apparent complications.,",
+    "sentences": [
+      "MEDICATIONS:,1.",
+      "Versed intravenously.,2.",
+      "Demerol intravenously.,DESCRIPTION OF THE PROCEDURE: , After informed consent was obtained, the patient was placed in the left lateral decubitus position and sedated with the above medications.",
+      "The Olympus video colonoscope was inserted through the anus and was advanced in retrograde fashion through the sigmoid colon, descending colon, around the splenic flexure, into the transverse colon, around the hepatic flexure, down the ascending colon, into the cecum.",
+      "The cecum was identified by the presence of the appendiceal orifice and the ileocecal valve.",
+      "The colonoscope was then advanced through the ileocecal valve into the terminal ileum, which was normal on examination.",
+      "The scope was then pulled back into the cecum and then slowly withdrawn.",
+      "The mucosa was examined in detail.",
+      "The mucosa was entirely normal.",
+      "Upon reaching the rectum, retroflex examination of the rectum was normal.",
+      "The scope was then straightened out, the air removed and the scope withdrawn.",
+      "The patient tolerated the procedure well.",
+      "There were no apparent complications.,"
+    ],
+    "sentence_count": 13
+  }
+}

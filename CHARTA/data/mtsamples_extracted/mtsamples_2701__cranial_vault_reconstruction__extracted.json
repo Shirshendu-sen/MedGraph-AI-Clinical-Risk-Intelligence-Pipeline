@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2701__cranial_vault_reconstruction_.txt",
+    "file_name": "mtsamples_2701__cranial_vault_reconstruction_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3404,
+    "processed_at": "2026-05-09T09:54:06.288016"
+  },
+  "entities": [
+    {
+      "text": "synostosis",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 51,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "synostosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subgaleal",
+      "label": "DISEASE",
+      "start_char": 352,
+      "end_char": 361,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subgaleal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 67,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

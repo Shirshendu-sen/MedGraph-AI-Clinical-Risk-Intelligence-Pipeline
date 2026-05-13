@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1760__psych_consult___paranoia_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 32,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C1828935": 1,
+    "C1170019": 2,
+    "C0591275": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1760__psych_consult___paranoia__graph.pt",
+  "source_dataset": "mtsamples_1760__psych_consult___paranoia"
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1045__catheter_placement_.txt",
+    "file_name": "mtsamples_1045__catheter_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1190,
+    "processed_at": "2026-05-09T09:53:32.373477"
+  },
+  "entities": [
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 59,
+      "end_char": 68,
+      "sentence_idx": 2,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

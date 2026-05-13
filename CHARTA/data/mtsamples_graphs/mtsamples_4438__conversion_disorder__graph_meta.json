@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4438__conversion_disorder_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 16,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0001963": 1
+  },
+  "visit_dates": [
+    "2007-10-10"
+  ],
+  "graph_file": "mtsamples_4438__conversion_disorder__graph.pt",
+  "source_dataset": "mtsamples_4438__conversion_disorder"
+}

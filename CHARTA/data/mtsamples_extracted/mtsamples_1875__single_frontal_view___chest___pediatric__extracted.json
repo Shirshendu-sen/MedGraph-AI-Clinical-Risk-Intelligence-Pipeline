@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1875__single_frontal_view___chest___pediatric_.txt",
+    "file_name": "mtsamples_1875__single_frontal_view___chest___pediatric_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1524,
+    "processed_at": "2026-05-09T09:53:52.240818"
+  },
+  "entities": [
+    {
+      "text": "Respiratory distress",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 71,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Respiratory distress",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "malrotation",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 40,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malrotation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NG",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 53,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NG",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothoraces",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 72,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothoraces",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleural effusions",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 94,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary vascular congestion",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 75,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary vascular congestion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothoraces",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 63,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothoraces",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vascular congestion",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 122,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vascular congestion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

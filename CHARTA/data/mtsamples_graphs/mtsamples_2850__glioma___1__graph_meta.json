@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_2850__glioma___1_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 63,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0017725": 2,
+    "C0302583": 3,
+    "C0016911": 4,
+    "C0600203": 5
+  },
+  "visit_dates": [
+    "1994-10-14"
+  ],
+  "graph_file": "mtsamples_2850__glioma___1__graph.pt",
+  "source_dataset": "mtsamples_2850__glioma___1"
+}

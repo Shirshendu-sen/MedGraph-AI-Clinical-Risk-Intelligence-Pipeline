@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1457__cpap_titration_study_.txt",
+    "file_name": "mtsamples_1457__cpap_titration_study_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1043,
+    "processed_at": "2026-05-09T09:53:42.497348"
+  },
+  "entities": [
+    {
+      "text": "obstructive sleep apnea",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 117,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive sleep apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arousals",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 14,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arousals",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "leg jerk movement",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 56,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "leg jerk movement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "apnea",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 19,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypopneas",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 36,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypopneas",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "apnea/hypopnea",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 56,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea/hypopnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "apnea/hypopnea",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 48,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea/hypopnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "H2O",
+      "label": "CHEMICAL",
+      "start_char": 76,
+      "end_char": 79,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "H2O",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "H2O",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 34,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "H2O",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 8,
+      "end_char": 14,
+      "sentence_idx": 9,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 48,
+      "sentence_idx": 9,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 48,
+      "sentence_idx": 10,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "Weight loss",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 97,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "H2O",
+      "label": "CHEMICAL",
+      "start_char": 150,
+      "end_char": 153,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "H2O",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

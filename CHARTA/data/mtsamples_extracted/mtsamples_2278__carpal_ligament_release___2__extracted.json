@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2278__carpal_ligament_release___2_.txt",
+    "file_name": "mtsamples_2278__carpal_ligament_release___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2938,
+    "processed_at": "2026-05-09T09:53:59.181915"
+  },
+  "entities": [
+    {
+      "text": "tenosynovitis",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 23,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenosynovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "finger).,POSTOPERATIVE DIAGNOSES:,1",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 91,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "finger).,POSTOPERATIVE DIAGNOSES:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenosynovitis",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 23,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenosynovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Steroid",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenosynovitis",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 42,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenosynovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 36,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Celestone",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 19,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Celestone",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 280,
+      "end_char": 289,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Depo-Medrol",
+      "label": "CHEMICAL",
+      "start_char": 304,
+      "end_char": 315,
+      "sentence_idx": 26,
+      "concept_id": "C0057476",
+      "concept_name": "Depo-Medrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9515208005905151,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

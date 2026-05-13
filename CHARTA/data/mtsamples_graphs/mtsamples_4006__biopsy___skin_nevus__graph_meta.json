@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4006__biopsy___skin_nevus_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 18,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0040900": 1,
+    "C0014563": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4006__biopsy___skin_nevus__graph.pt",
+  "source_dataset": "mtsamples_4006__biopsy___skin_nevus"
+}

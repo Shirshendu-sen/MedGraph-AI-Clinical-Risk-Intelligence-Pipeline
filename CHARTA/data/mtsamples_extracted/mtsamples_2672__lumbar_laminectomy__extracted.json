@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2672__lumbar_laminectomy_.txt",
+    "file_name": "mtsamples_2672__lumbar_laminectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4296,
+    "processed_at": "2026-05-09T09:54:05.878206"
+  },
+  "entities": [
+    {
+      "text": "Lumbar stenosis",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 84,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lumbar stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CSF fistula",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 21,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CSF fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "DuraSeal.,INDICATIONS",
+      "label": "CHEMICAL",
+      "start_char": 61,
+      "end_char": 82,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DuraSeal.,INDICATIONS",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "urinary incontinence",
+      "label": "DISEASE",
+      "start_char": 163,
+      "end_char": 183,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary incontinence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 188,
+      "end_char": 196,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "high-grade stenosis",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 75,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "high-grade stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 181,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 298,
+      "end_char": 306,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial fibrillation",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 112,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial fibrillation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 113,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 90,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "high-grade stenosis",
+      "label": "DISEASE",
+      "start_char": 180,
+      "end_char": 199,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "high-grade stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0541__mesothelioma___thoracotomy___lobectomy_.txt",
+    "file_name": "mtsamples_0541__mesothelioma___thoracotomy___lobectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5776,
+    "processed_at": "2026-05-09T09:53:18.700543"
+  },
+  "entities": [
+    {
+      "text": "lower lobe lung mass",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 156,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower lobe lung mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "a B-cell lymphoma",
+      "label": "DISEASE",
+      "start_char": 418,
+      "end_char": 435,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "a B-cell lymphoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tumor",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 25,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right nodular malignant mesothelioma",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 124,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right nodular malignant mesothelioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "SCDs",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 42,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SCDs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 39,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bronchogenic carcinoma",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 104,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bronchogenic carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 66,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 93,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 64,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 103,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diaphragmatic defect",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 134,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diaphragmatic defect",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "torsion",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 98,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "torsion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

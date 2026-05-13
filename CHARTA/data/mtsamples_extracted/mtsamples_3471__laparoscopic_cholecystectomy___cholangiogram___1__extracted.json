@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3471__laparoscopic_cholecystectomy___cholangiogram___1_.txt",
+    "file_name": "mtsamples_3471__laparoscopic_cholecystectomy___cholangiogram___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4688,
+    "processed_at": "2026-05-09T09:54:22.310920"
+  },
+  "entities": [
+    {
+      "text": "carbon dioxide",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 58,
+      "sentence_idx": 6,
+      "concept_id": "C0007012",
+      "concept_name": "carbon dioxide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9571364521980286,
+      "timestamp": null
+    },
+    {
+      "text": "leaks",
+      "label": "DISEASE",
+      "start_char": 188,
+      "end_char": 193,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "leaks",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbon dioxide",
+      "label": "CHEMICAL",
+      "start_char": 161,
+      "end_char": 175,
+      "sentence_idx": 29,
+      "concept_id": "C0007012",
+      "concept_name": "carbon dioxide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9571364521980286,
+      "timestamp": null
+    },
+    {
+      "text": "benzoin",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 33,
+      "sentence_idx": 31,
+      "concept_id": "C0005070",
+      "concept_name": "benzoin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563013911247253,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

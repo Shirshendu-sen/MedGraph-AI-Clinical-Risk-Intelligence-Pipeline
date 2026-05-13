@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_4020__dental_pain_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 37,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0014563": 2,
+    "C0030827": 3,
+    "C0483514": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4020__dental_pain__graph.pt",
+  "source_dataset": "mtsamples_4020__dental_pain"
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1720__carotid_doppler_report_.txt",
+    "file_name": "mtsamples_1720__carotid_doppler_report_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1271,
+    "processed_at": "2026-05-09T09:53:48.996300"
+  },
+  "entities": [
+    {
+      "text": "Atherosclerotic",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 25,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Atherosclerotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Atherosclerotic",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 116,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Atherosclerotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstructive disease",
+      "label": "DISEASE",
+      "start_char": 450,
+      "end_char": 469,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstructive disease",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 161,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstructive disease",
+      "label": "DISEASE",
+      "start_char": 203,
+      "end_char": 222,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstructive disease",
+      "label": "DISEASE",
+      "start_char": 366,
+      "end_char": 385,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atherosclerotic",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 83,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atherosclerotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstructive disease",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 148,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

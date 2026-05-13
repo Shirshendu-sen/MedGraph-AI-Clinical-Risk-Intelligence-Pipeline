@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_2530__pre_eclampsia___eclampsia_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 45,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0024480": 1,
+    "C0006644": 2,
+    "C0109497": 3,
+    "C0037473": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2530__pre_eclampsia___eclampsia__graph.pt",
+  "source_dataset": "mtsamples_2530__pre_eclampsia___eclampsia"
+}

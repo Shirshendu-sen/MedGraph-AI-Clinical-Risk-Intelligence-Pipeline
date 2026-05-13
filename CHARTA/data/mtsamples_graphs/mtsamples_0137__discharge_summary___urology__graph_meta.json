@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_0137__discharge_summary___urology_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008809": 1,
+    "C0282139": 2,
+    "C0699992": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0137__discharge_summary___urology__graph.pt",
+  "source_dataset": "mtsamples_0137__discharge_summary___urology"
+}

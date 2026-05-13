@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1363__gen_med_soap___4_.txt",
+    "file_name": "mtsamples_1363__gen_med_soap___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1149,
+    "processed_at": "2026-05-09T09:53:39.897477"
+  },
+  "entities": [
+    {
+      "text": "atrial fibrillation",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 61,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial fibrillation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cardizem",
+      "label": "CHEMICAL",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 1,
+      "concept_id": "C0700940",
+      "concept_name": "Cardizem",
+      "kb_source": "rxnorm",
+      "link_score": 0.9690909385681152,
+      "timestamp": null
+    },
+    {
+      "text": "dizziness",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 38,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dizziness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vertigo",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 52,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vertigo",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lightheadedness",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 74,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lightheadedness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Coumadin",
+      "label": "CHEMICAL",
+      "start_char": 107,
+      "end_char": 115,
+      "sentence_idx": 3,
+      "concept_id": "C0699129",
+      "concept_name": "Coumadin",
+      "kb_source": "rxnorm",
+      "link_score": 0.947939395904541,
+      "timestamp": null
+    },
+    {
+      "text": "chest pains",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 14,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pains",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 22,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 13,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cyanosis",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 24,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cyanosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "clubbing",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clubbing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial fibrillation",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 78,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial fibrillation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

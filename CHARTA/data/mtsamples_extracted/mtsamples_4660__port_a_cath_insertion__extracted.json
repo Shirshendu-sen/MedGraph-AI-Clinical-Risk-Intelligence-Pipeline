@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4660__port_a_cath_insertion_.txt",
+    "file_name": "mtsamples_4660__port_a_cath_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1070,
+    "processed_at": "2026-05-09T09:54:42.968291"
+  },
+  "entities": [
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 13,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

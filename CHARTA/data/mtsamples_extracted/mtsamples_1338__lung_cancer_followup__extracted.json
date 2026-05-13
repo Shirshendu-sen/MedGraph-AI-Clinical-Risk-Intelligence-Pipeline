@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1338__lung_cancer_followup_.txt",
+    "file_name": "mtsamples_1338__lung_cancer_followup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1061,
+    "processed_at": "2026-05-09T09:53:39.443152"
+  },
+  "entities": [
+    {
+      "text": "Extensive stage small cell lung cancer.,2",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 41,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Extensive stage small cell lung cancer.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "carboplatin",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 29,
+      "sentence_idx": 2,
+      "concept_id": "C0079083",
+      "concept_name": "carboplatin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9493461847305298,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "Left scapular pain",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 18,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left scapular pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "extensive stage small cell lung cancer",
+      "label": "DISEASE",
+      "start_char": 125,
+      "end_char": 163,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "extensive stage small cell lung cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "carboplatin",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 53,
+      "sentence_idx": 4,
+      "concept_id": "C0079083",
+      "concept_name": "carboplatin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9493461847305298,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "etoposide",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 67,
+      "sentence_idx": 4,
+      "concept_id": "C0015133",
+      "concept_name": "etoposide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9600105881690979,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 29,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "Levothyroxine",
+      "label": "CHEMICAL",
+      "start_char": 103,
+      "end_char": 116,
+      "sentence_idx": 7,
+      "concept_id": "C0040165",
+      "concept_name": "levothyroxine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9681282639503479,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "Soriatane",
+      "label": "CHEMICAL",
+      "start_char": 131,
+      "end_char": 140,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Soriatane",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "Timoptic",
+      "label": "CHEMICAL",
+      "start_char": 154,
+      "end_char": 162,
+      "sentence_idx": 7,
+      "concept_id": "C0040235",
+      "concept_name": "Timoptic",
+      "kb_source": "rxnorm",
+      "link_score": 0.9829655289649963,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "Vicodin",
+      "label": "CHEMICAL",
+      "start_char": 185,
+      "end_char": 192,
+      "sentence_idx": 7,
+      "concept_id": "C0483514",
+      "concept_name": "Vicodin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9674537181854248,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "p.r.n.,ALLERGIES",
+      "label": "CHEMICAL",
+      "start_char": 231,
+      "end_char": 247,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.r.n.,ALLERGIES",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 331,
+      "end_char": 335,
+      "sentence_idx": 7,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 364,
+      "end_char": 368,
+      "sentence_idx": 7,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 71,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "chills",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 21,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "sweats",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 35,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sweats",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 47,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-08-12"
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 71,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-08-12"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/12/10",
+      "start_char": 378,
+      "end_char": 386
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0554__mammoplasty___1_.txt",
+    "file_name": "mtsamples_0554__mammoplasty___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3829,
+    "processed_at": "2026-05-09T09:53:18.988719"
+  },
+  "entities": [
+    {
+      "text": "ptotic breasts",
+      "label": "DISEASE",
+      "start_char": 187,
+      "end_char": 201,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ptotic breasts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 250,
+      "end_char": 254,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "breasts",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 65,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breasts",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nipple",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 33,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nipple",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Vascularity",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Vascularity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

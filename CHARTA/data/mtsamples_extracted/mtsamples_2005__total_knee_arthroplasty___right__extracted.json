@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2005__total_knee_arthroplasty___right_.txt",
+    "file_name": "mtsamples_2005__total_knee_arthroplasty___right_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2761,
+    "processed_at": "2026-05-09T09:53:54.465813"
+  },
+  "entities": [
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 342,
+      "end_char": 347,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cement was hand",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 27,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cement was hand",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cement",
+      "label": "CHEMICAL",
+      "start_char": 15,
+      "end_char": 21,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cement",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

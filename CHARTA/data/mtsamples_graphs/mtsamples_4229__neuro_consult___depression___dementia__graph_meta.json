@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4229__neuro_consult___depression___dementia_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 41,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0591437": 1,
+    "C0040805": 2,
+    "C0042845": 3
+  },
+  "visit_dates": [
+    "2004-05-15"
+  ],
+  "graph_file": "mtsamples_4229__neuro_consult___depression___dementia__graph.pt",
+  "source_dataset": "mtsamples_4229__neuro_consult___depression___dementia"
+}

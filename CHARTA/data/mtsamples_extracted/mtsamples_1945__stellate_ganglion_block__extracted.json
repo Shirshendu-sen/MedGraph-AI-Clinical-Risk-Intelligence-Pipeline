@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1945__stellate_ganglion_block_.txt",
+    "file_name": "mtsamples_1945__stellate_ganglion_block_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 125,
+    "processed_at": "2026-05-09T09:53:53.550162"
+  },
+  "entities": [
+    {
+      "text": "Pain",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

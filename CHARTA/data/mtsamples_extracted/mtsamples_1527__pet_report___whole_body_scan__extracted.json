@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1527__pet_report___whole_body_scan_.txt",
+    "file_name": "mtsamples_1527__pet_report___whole_body_scan_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1846,
+    "processed_at": "2026-05-09T09:53:43.899265"
+  },
+  "entities": [
+    {
+      "text": "carcinoma.,Whole",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 35,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carcinoma.,Whole",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-08-14"
+    },
+    {
+      "text": "bone lesion",
+      "label": "DISEASE",
+      "start_char": 366,
+      "end_char": 377,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bone lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-14"
+    },
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 641,
+      "end_char": 652,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-14"
+    },
+    {
+      "text": "obstructive atelectasis",
+      "label": "DISEASE",
+      "start_char": 387,
+      "end_char": 410,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-14"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/14/2007",
+      "start_char": 521,
+      "end_char": 531
+    }
+  ]
+}

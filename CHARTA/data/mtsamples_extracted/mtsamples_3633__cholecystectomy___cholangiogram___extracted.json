@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3633__cholecystectomy___cholangiogram__.txt",
+    "file_name": "mtsamples_3633__cholecystectomy___cholangiogram__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3329,
+    "processed_at": "2026-05-09T09:54:25.287897"
+  },
+  "entities": [
+    {
+      "text": "diabetic Hispanic female patient",
+      "label": "DISEASE",
+      "start_char": 148,
+      "end_char": 180,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic Hispanic female patient",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 238,
+      "end_char": 242,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "nausea",
+      "label": "DISEASE",
+      "start_char": 260,
+      "end_char": 266,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cholelithiasis",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 34,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cholelithiasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 101,
+      "sentence_idx": 7,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "acute cholecystitis",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 59,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute cholecystitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pericholecystic edema",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 92,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pericholecystic edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intraoperative cystic duct",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 79,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intraoperative cystic duct",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "congenital anomaly",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 59,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congenital anomaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 82,
+      "end_char": 85,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

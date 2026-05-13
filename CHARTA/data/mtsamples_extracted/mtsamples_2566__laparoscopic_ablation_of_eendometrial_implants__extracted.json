@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2566__laparoscopic_ablation_of_eendometrial_implants_.txt",
+    "file_name": "mtsamples_2566__laparoscopic_ablation_of_eendometrial_implants_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3966,
+    "processed_at": "2026-05-09T09:54:04.386927"
+  },
+  "entities": [
+    {
+      "text": "Dilatation",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dilatation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dyspareunia",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 36,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dyspareunia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anteverted",
+      "label": "DISEASE",
+      "start_char": 125,
+      "end_char": 135,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anteverted",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 34,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 26,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 80,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 99,
+      "end_char": 107,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Darvocet",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 60,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Darvocet",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 69,
+      "sentence_idx": 42,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "oral contraceptives",
+      "label": "CHEMICAL",
+      "start_char": 229,
+      "end_char": 248,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "oral contraceptives",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4635__single_frontal_view_of_chest_.txt",
+    "file_name": "mtsamples_4635__single_frontal_view_of_chest_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1259,
+    "processed_at": "2026-05-09T09:54:42.543072"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4635__single_frontal_view_of_chest_.txt",
+    "text": "EXAM: , Single frontal view of the chest.,HISTORY: , Atelectasis.  Patient is status-post surgical correction for ASD.,TECHNIQUE: , A single frontal view of the chest was evaluated and correlated with the prior film dated mm/dd/yy.,FINDINGS:,  Current film reveals there is a right-sided central venous catheter, the distal tip appears to be in the superior vena cava.  Endotracheal tube with the distal tip appears to be in appropriate position, approximately 2 cm superior to the carina.  Sternotomy wires are noted.  They appear in appropriate placement.  There are no focal areas of consolidation to suggest pneumonia.  Once again seen is minimal amount of bilateral basilar atelectasis.  The cardiomediastinal silhouette appears to be within normal limits at this time.  No evidence of any pneumothoraces or pleural effusions.,IMPRESSION:,1.  There has been interval placement of a right-sided central venous catheter, endotracheal tube, and sternotomy wires secondary to patient's most recent surgical intervention.,2.  Minimal bilateral basilar atelectasis with no significant interval changes from the patient's most recent prior.,3.  Interval decrease in the patient's heart size which may be secondary to the surgery versus positional and technique.",
+    "char_count": 1259,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , Single frontal view of the chest.,HISTORY: , Atelectasis. Patient is status-post surgical correction for ASD.,TECHNIQUE: , A single frontal view of the chest was evaluated and correlated with the prior film dated mm/dd/yy.,FINDINGS:, Current film reveals there is a right-sided central venous catheter, the distal tip appears to be in the superior vena cava. Endotracheal tube with the distal tip appears to be in appropriate position, approximately 2 cm superior to the carina. Sternotomy wires are noted. They appear in appropriate placement. There are no focal areas of consolidation to suggest pneumonia. Once again seen is minimal amount of bilateral basilar atelectasis. The cardiomediastinal silhouette appears to be within normal limits at this time. No evidence of any pneumothoraces or pleural effusions.,IMPRESSION:,1. There has been interval placement of a right-sided central venous catheter, endotracheal tube, and sternotomy wires secondary to patient's most recent surgical intervention.,2. Minimal bilateral basilar atelectasis with no significant interval changes from the patient's most recent prior.,3. Interval decrease in the patient's heart size which may be secondary to the surgery versus positional and technique.",
+    "sentences": [
+      "EXAM: , Single frontal view of the chest.,HISTORY: , Atelectasis.",
+      "Patient is status-post surgical correction for ASD.,TECHNIQUE: , A single frontal view of the chest was evaluated and correlated with the prior film dated mm/dd/yy.,FINDINGS:, Current film reveals there is a right-sided central venous catheter, the distal tip appears to be in the superior vena cava.",
+      "Endotracheal tube with the distal tip appears to be in appropriate position, approximately 2 cm superior to the carina.",
+      "Sternotomy wires are noted.",
+      "They appear in appropriate placement.",
+      "There are no focal areas of consolidation to suggest pneumonia.",
+      "Once again seen is minimal amount of bilateral basilar atelectasis.",
+      "The cardiomediastinal silhouette appears to be within normal limits at this time.",
+      "No evidence of any pneumothoraces or pleural effusions.,IMPRESSION:,1.",
+      "There has been interval placement of a right-sided central venous catheter, endotracheal tube, and sternotomy wires secondary to patient's most recent surgical intervention.,2.",
+      "Minimal bilateral basilar atelectasis with no significant interval changes from the patient's most recent prior.,3.",
+      "Interval decrease in the patient's heart size which may be secondary to the surgery versus positional and technique."
+    ],
+    "sentence_count": 12,
+    "original_length": 1259,
+    "cleaned_length": 1247,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , Single frontal view of the chest.,HISTORY: , Atelectasis.  Patient is status-post surgical correction for ASD.,TECHNIQUE: , A single frontal view of the chest was evaluated and correlated with the prior film dated mm/dd/yy.,FINDINGS:,  Current film reveals there is a right-sided central venous catheter, the distal tip appears to be in the superior vena cava.  Endotracheal tube with the distal tip appears to be in appropriate position, approximately 2 cm superior to the carina.  Sternotomy wires are noted.  They appear in appropriate placement.  There are no focal areas of consolidation to suggest pneumonia.  Once again seen is minimal amount of bilateral basilar atelectasis.  The cardiomediastinal silhouette appears to be within normal limits at this time.  No evidence of any pneumothoraces or pleural effusions.,IMPRESSION:,1.  There has been interval placement of a right-sided central venous catheter, endotracheal tube, and sternotomy wires secondary to patient's most recent surgical intervention.,2.  Minimal bilateral basilar atelectasis with no significant interval changes from the patient's most recent prior.,3.  Interval decrease in the patient's heart size which may be secondary to the surgery versus positional and technique.",
+    "cleaned_text": "EXAM: , Single frontal view of the chest.,HISTORY: , Atelectasis. Patient is status-post surgical correction for ASD.,TECHNIQUE: , A single frontal view of the chest was evaluated and correlated with the prior film dated mm/dd/yy.,FINDINGS:, Current film reveals there is a right-sided central venous catheter, the distal tip appears to be in the superior vena cava. Endotracheal tube with the distal tip appears to be in appropriate position, approximately 2 cm superior to the carina. Sternotomy wires are noted. They appear in appropriate placement. There are no focal areas of consolidation to suggest pneumonia. Once again seen is minimal amount of bilateral basilar atelectasis. The cardiomediastinal silhouette appears to be within normal limits at this time. No evidence of any pneumothoraces or pleural effusions.,IMPRESSION:,1. There has been interval placement of a right-sided central venous catheter, endotracheal tube, and sternotomy wires secondary to patient's most recent surgical intervention.,2. Minimal bilateral basilar atelectasis with no significant interval changes from the patient's most recent prior.,3. Interval decrease in the patient's heart size which may be secondary to the surgery versus positional and technique.",
+    "sentences": [
+      "EXAM: , Single frontal view of the chest.,HISTORY: , Atelectasis.",
+      "Patient is status-post surgical correction for ASD.,TECHNIQUE: , A single frontal view of the chest was evaluated and correlated with the prior film dated mm/dd/yy.,FINDINGS:, Current film reveals there is a right-sided central venous catheter, the distal tip appears to be in the superior vena cava.",
+      "Endotracheal tube with the distal tip appears to be in appropriate position, approximately 2 cm superior to the carina.",
+      "Sternotomy wires are noted.",
+      "They appear in appropriate placement.",
+      "There are no focal areas of consolidation to suggest pneumonia.",
+      "Once again seen is minimal amount of bilateral basilar atelectasis.",
+      "The cardiomediastinal silhouette appears to be within normal limits at this time.",
+      "No evidence of any pneumothoraces or pleural effusions.,IMPRESSION:,1.",
+      "There has been interval placement of a right-sided central venous catheter, endotracheal tube, and sternotomy wires secondary to patient's most recent surgical intervention.,2.",
+      "Minimal bilateral basilar atelectasis with no significant interval changes from the patient's most recent prior.,3.",
+      "Interval decrease in the patient's heart size which may be secondary to the surgery versus positional and technique."
+    ],
+    "sentence_count": 12
+  }
+}

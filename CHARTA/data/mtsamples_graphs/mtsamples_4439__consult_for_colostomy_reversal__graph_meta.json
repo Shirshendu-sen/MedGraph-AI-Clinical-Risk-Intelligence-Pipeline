@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4439__consult_for_colostomy_reversal_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 28,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0004749": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4439__consult_for_colostomy_reversal__graph.pt",
+  "source_dataset": "mtsamples_4439__consult_for_colostomy_reversal"
+}

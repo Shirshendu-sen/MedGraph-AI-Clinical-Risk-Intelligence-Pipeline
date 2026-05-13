@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4565__pain_management_consult___2_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 15,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    "2000-02-10"
+  ],
+  "graph_file": "mtsamples_4565__pain_management_consult___2__graph.pt",
+  "source_dataset": "mtsamples_4565__pain_management_consult___2"
+}

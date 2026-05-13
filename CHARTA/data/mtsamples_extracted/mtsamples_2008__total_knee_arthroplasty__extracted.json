@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2008__total_knee_arthroplasty_.txt",
+    "file_name": "mtsamples_2008__total_knee_arthroplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4844,
+    "processed_at": "2026-05-09T09:53:54.513812"
+  },
+  "entities": [
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 52,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 120,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right knee.,PROCEDURE",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 143,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right knee.,PROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subarachnoid block",
+      "label": "DISEASE",
+      "start_char": 232,
+      "end_char": 250,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subarachnoid block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NexGen",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 29,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NexGen",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right knee pain",
+      "label": "DISEASE",
+      "start_char": 248,
+      "end_char": 263,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "knee arthroscopies",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 40,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee arthroscopies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 103,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "contracture",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 24,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "flexion contracture",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 44,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "flexion contracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subarachnoid block",
+      "label": "DISEASE",
+      "start_char": 154,
+      "end_char": 172,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subarachnoid block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 45,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "loosened",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 90,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loosened",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Methylmethacrylate",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 18,
+      "sentence_idx": 46,
+      "concept_id": "C0066409",
+      "concept_name": "methyl methacrylate",
+      "kb_source": "rxnorm",
+      "link_score": 0.947527289390564,
+      "timestamp": null
+    },
+    {
+      "text": "methylmethacrylate",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 30,
+      "sentence_idx": 48,
+      "concept_id": "C0066409",
+      "concept_name": "methyl methacrylate",
+      "kb_source": "rxnorm",
+      "link_score": 0.947527289390564,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

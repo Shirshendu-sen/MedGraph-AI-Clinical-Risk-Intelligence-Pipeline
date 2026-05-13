@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1036__chest_tube_removal_.txt",
+    "file_name": "mtsamples_1036__chest_tube_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1167,
+    "processed_at": "2026-05-09T09:53:31.938125"
+  },
+  "entities": [
+    {
+      "text": "pleural effusions",
+      "label": "DISEASE",
+      "start_char": 405,
+      "end_char": 422,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "serous",
+      "label": "DISEASE",
+      "start_char": 428,
+      "end_char": 434,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "serous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Vaseline occlusive",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 49,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Vaseline occlusive",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

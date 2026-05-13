@@ -1,0 +1,24 @@
+{
+  "patient_id": "mtsamples_2963__renal_failure_evaluation_",
+  "num_entities": 11,
+  "num_visits": 1,
+  "num_edges": 100,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0010286": 1,
+    "C0010294": 2,
+    "C0032821": 3,
+    "C0001963": 4,
+    "C0037473": 5,
+    "C0596019": 6,
+    "C0017725": 7,
+    "C0006675": 8,
+    "C0699992": 9,
+    "C0376325": 10
+  },
+  "visit_dates": [
+    "2026-05-06"
+  ],
+  "graph_file": "mtsamples_2963__renal_failure_evaluation__graph.pt",
+  "source_dataset": "mtsamples_2963__renal_failure_evaluation"
+}

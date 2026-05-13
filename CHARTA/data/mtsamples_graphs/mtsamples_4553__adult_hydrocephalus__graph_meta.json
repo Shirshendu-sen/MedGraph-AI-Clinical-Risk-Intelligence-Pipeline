@@ -1,0 +1,26 @@
+{
+  "patient_id": "mtsamples_4553__adult_hydrocephalus_",
+  "num_entities": 13,
+  "num_visits": 1,
+  "num_edges": 120,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0487782": 1,
+    "C0040302": 2,
+    "C0009214": 3,
+    "C0699710": 4,
+    "C0875952": 5,
+    "C2723006": 6,
+    "C0162712": 7,
+    "C0042849": 8,
+    "C0006675": 9,
+    "C0024467": 10,
+    "C0025270": 11,
+    "C0030346": 12
+  },
+  "visit_dates": [
+    "2008-06-26"
+  ],
+  "graph_file": "mtsamples_4553__adult_hydrocephalus__graph.pt",
+  "source_dataset": "mtsamples_4553__adult_hydrocephalus"
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1516__renal_ultrasound_.txt",
+    "file_name": "mtsamples_1516__renal_ultrasound_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 986,
+    "processed_at": "2026-05-09T09:53:43.731192"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1516__renal_ultrasound_.txt",
+    "text": "EXAM:,  Renal ultrasound.,HISTORY: , Renal failure, neurogenic bladder, status-post cystectomy.,TECHNIQUE: , Multiple ultrasonographic images of the kidneys were obtained in the transverse and longitudinal planes.,COMPARISON:,  Most recently obtained mm/dd/yy.,FINDINGS:,  The right kidney measures 12 x 5.2 x 4.6 cm and the left kidney measures 12.2 x 6.2 x 4.4 cm.  The imaged portions of the kidneys fail to demonstrate evidence of mass, hydronephrosis or calculus.  There is no evidence of cortical thinning.,Incidentally there is a rounded low-attenuation mass within the inferior aspect of the right lobe of the liver measuring 2.1 x 1.5 x 1.9 cm which has suggestion of some peripheral blood flow.,IMPRESSION:,1.  No evidence of hydronephrosis.,2.  Mass within the right lobe of the liver.  The patient apparently has a severe iodine allergy.  Further evaluation with MRI is recommended.,3.  The results of this examination were given to XXX in Dr. XXX office on mm/dd/yy at XXX,",
+    "char_count": 986,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM:, Renal ultrasound.,HISTORY: , Renal failure, neurogenic bladder, status-post cystectomy.,TECHNIQUE: , Multiple ultrasonographic images of the kidneys were obtained in the transverse and longitudinal planes.,COMPARISON:, Most recently obtained mm/dd/yy.,FINDINGS:, The right kidney measures 12 x 5.2 x 4.6 cm and the left kidney measures 12.2 x 6.2 x 4.4 cm. The imaged portions of the kidneys fail to demonstrate evidence of mass, hydronephrosis or calculus. There is no evidence of cortical thinning.,Incidentally there is a rounded low-attenuation mass within the inferior aspect of the right lobe of the liver measuring 2.1 x 1.5 x 1.9 cm which has suggestion of some peripheral blood flow.,IMPRESSION:,1. No evidence of hydronephrosis.,2. Mass within the right lobe of the liver. The patient apparently has a severe iodine allergy. Further evaluation with MRI is recommended.,3. The results of this examination were given to XXX in Dr. XXX office on mm/dd/yy at XXX,",
+    "sentences": [
+      "EXAM:, Renal ultrasound.,HISTORY: , Renal failure, neurogenic bladder, status-post cystectomy.,TECHNIQUE: , Multiple ultrasonographic images of the kidneys were obtained in the transverse and longitudinal planes.,COMPARISON:, Most recently obtained mm/dd/yy.,FINDINGS:, The right kidney measures 12 x 5.2 x 4.6 cm and the left kidney measures 12.2 x 6.2 x 4.4 cm.",
+      "The imaged portions of the kidneys fail to demonstrate evidence of mass, hydronephrosis or calculus.",
+      "There is no evidence of cortical thinning.,Incidentally there is a rounded low-attenuation mass within the inferior aspect of the right lobe of the liver measuring 2.1 x 1.5 x 1.9 cm which has suggestion of some peripheral blood flow.,IMPRESSION:,1.",
+      "No evidence of hydronephrosis.,2.",
+      "Mass within the right lobe of the liver.",
+      "The patient apparently has a severe iodine allergy.",
+      "Further evaluation with MRI is recommended.,3.",
+      "The results of this examination were given to XXX in Dr.",
+      "XXX office on mm/dd/yy at XXX,"
+    ],
+    "sentence_count": 9,
+    "original_length": 986,
+    "cleaned_length": 976,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM:,  Renal ultrasound.,HISTORY: , Renal failure, neurogenic bladder, status-post cystectomy.,TECHNIQUE: , Multiple ultrasonographic images of the kidneys were obtained in the transverse and longitudinal planes.,COMPARISON:,  Most recently obtained mm/dd/yy.,FINDINGS:,  The right kidney measures 12 x 5.2 x 4.6 cm and the left kidney measures 12.2 x 6.2 x 4.4 cm.  The imaged portions of the kidneys fail to demonstrate evidence of mass, hydronephrosis or calculus.  There is no evidence of cortical thinning.,Incidentally there is a rounded low-attenuation mass within the inferior aspect of the right lobe of the liver measuring 2.1 x 1.5 x 1.9 cm which has suggestion of some peripheral blood flow.,IMPRESSION:,1.  No evidence of hydronephrosis.,2.  Mass within the right lobe of the liver.  The patient apparently has a severe iodine allergy.  Further evaluation with MRI is recommended.,3.  The results of this examination were given to XXX in Dr. XXX office on mm/dd/yy at XXX,",
+    "cleaned_text": "EXAM:, Renal ultrasound.,HISTORY: , Renal failure, neurogenic bladder, status-post cystectomy.,TECHNIQUE: , Multiple ultrasonographic images of the kidneys were obtained in the transverse and longitudinal planes.,COMPARISON:, Most recently obtained mm/dd/yy.,FINDINGS:, The right kidney measures 12 x 5.2 x 4.6 cm and the left kidney measures 12.2 x 6.2 x 4.4 cm. The imaged portions of the kidneys fail to demonstrate evidence of mass, hydronephrosis or calculus. There is no evidence of cortical thinning.,Incidentally there is a rounded low-attenuation mass within the inferior aspect of the right lobe of the liver measuring 2.1 x 1.5 x 1.9 cm which has suggestion of some peripheral blood flow.,IMPRESSION:,1. No evidence of hydronephrosis.,2. Mass within the right lobe of the liver. The patient apparently has a severe iodine allergy. Further evaluation with MRI is recommended.,3. The results of this examination were given to XXX in Dr. XXX office on mm/dd/yy at XXX,",
+    "sentences": [
+      "EXAM:, Renal ultrasound.,HISTORY: , Renal failure, neurogenic bladder, status-post cystectomy.,TECHNIQUE: , Multiple ultrasonographic images of the kidneys were obtained in the transverse and longitudinal planes.,COMPARISON:, Most recently obtained mm/dd/yy.,FINDINGS:, The right kidney measures 12 x 5.2 x 4.6 cm and the left kidney measures 12.2 x 6.2 x 4.4 cm.",
+      "The imaged portions of the kidneys fail to demonstrate evidence of mass, hydronephrosis or calculus.",
+      "There is no evidence of cortical thinning.,Incidentally there is a rounded low-attenuation mass within the inferior aspect of the right lobe of the liver measuring 2.1 x 1.5 x 1.9 cm which has suggestion of some peripheral blood flow.,IMPRESSION:,1.",
+      "No evidence of hydronephrosis.,2.",
+      "Mass within the right lobe of the liver.",
+      "The patient apparently has a severe iodine allergy.",
+      "Further evaluation with MRI is recommended.,3.",
+      "The results of this examination were given to XXX in Dr.",
+      "XXX office on mm/dd/yy at XXX,"
+    ],
+    "sentence_count": 9
+  }
+}

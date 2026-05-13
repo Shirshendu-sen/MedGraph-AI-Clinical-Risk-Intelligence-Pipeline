@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1295__sexual_dysfunction___chart_note_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 14,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0967376": 1,
+    "C0001963": 2,
+    "C0039601": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1295__sexual_dysfunction___chart_note__graph.pt",
+  "source_dataset": "mtsamples_1295__sexual_dysfunction___chart_note"
+}

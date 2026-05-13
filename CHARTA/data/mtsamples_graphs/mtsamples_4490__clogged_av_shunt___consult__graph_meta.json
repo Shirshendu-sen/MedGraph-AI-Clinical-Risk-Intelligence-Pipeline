@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_4490__clogged_av_shunt___consult_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 86,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0025859": 1,
+    "C0699142": 2,
+    "C0244580": 3,
+    "C0012265": 4,
+    "C0004057": 5,
+    "C0001963": 6,
+    "C0037473": 7,
+    "C0032821": 8,
+    "C0596019": 9,
+    "C0010294": 10,
+    "C0017725": 11
+  },
+  "visit_dates": [
+    "2003-08-29"
+  ],
+  "graph_file": "mtsamples_4490__clogged_av_shunt___consult__graph.pt",
+  "source_dataset": "mtsamples_4490__clogged_av_shunt___consult"
+}

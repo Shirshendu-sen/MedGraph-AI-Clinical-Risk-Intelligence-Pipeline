@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0254__total_hip_arthroplasty_.txt",
+    "file_name": "mtsamples_0254__total_hip_arthroplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 8646,
+    "processed_at": "2026-05-09T09:53:10.492661"
+  },
+  "entities": [
+    {
+      "text": "Left hip degenerative",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 47,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left hip degenerative",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "Left hip degenerative",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 107,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left hip degenerative",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "hip abductors",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 66,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hip abductors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "trochanteric",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 50,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trochanteric",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "degenerative hip arthritis",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 157,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "degenerative hip arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "arthroplasty",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 44,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthroplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 180,
+      "end_char": 184,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 263,
+      "end_char": 267,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 102,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "dislocation",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 121,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dislocation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "vein thrombosis",
+      "label": "DISEASE",
+      "start_char": 174,
+      "end_char": 189,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vein thrombosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "implant failure",
+      "label": "DISEASE",
+      "start_char": 195,
+      "end_char": 210,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "implant failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 62,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 59,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "abduction",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 107,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abduction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "impingement",
+      "label": "DISEASE",
+      "start_char": 163,
+      "end_char": 174,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "dislocation",
+      "label": "DISEASE",
+      "start_char": 178,
+      "end_char": 189,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dislocation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "calcar fractures",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 113,
+      "sentence_idx": 57,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcar fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    },
+    {
+      "text": "Prognosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 69,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prognosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-27"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/27/03",
+      "start_char": 1749,
+      "end_char": 1757
+    }
+  ]
+}

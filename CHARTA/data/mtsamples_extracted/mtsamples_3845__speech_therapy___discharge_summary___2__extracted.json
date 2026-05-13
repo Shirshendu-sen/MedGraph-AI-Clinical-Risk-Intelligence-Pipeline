@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3845__speech_therapy___discharge_summary___2_.txt",
+    "file_name": "mtsamples_3845__speech_therapy___discharge_summary___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1160,
+    "processed_at": "2026-05-09T09:54:28.210756"
+  },
+  "entities": [],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "01/09/09",
+      "start_char": 1010,
+      "end_char": 1018
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3277__gen_med_soap___2_.txt",
+    "file_name": "mtsamples_3277__gen_med_soap___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1195,
+    "processed_at": "2026-05-09T09:54:17.528601"
+  },
+  "entities": [
+    {
+      "text": "glucose",
+      "label": "CHEMICAL",
+      "start_char": 69,
+      "end_char": 76,
+      "sentence_idx": 1,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": null
+    },
+    {
+      "text": "NIDDM",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NIDDM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hypertension",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 23,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arthritis",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 22,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hyperlipidemia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hyperlipidemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hyperuricemia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hyperuricemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Renal azotemia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Renal azotemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Anemia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetic",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 64,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_3380__discharge_summary___8_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 35,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0010682": 1,
+    "C0282386": 2,
+    "C0013090": 3,
+    "C0721336": 4
+  },
+  "visit_dates": [
+    "2007-07-24"
+  ],
+  "graph_file": "mtsamples_3380__discharge_summary___8__graph.pt",
+  "source_dataset": "mtsamples_3380__discharge_summary___8"
+}

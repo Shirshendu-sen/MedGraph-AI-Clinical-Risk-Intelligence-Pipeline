@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0363__ruptured_globe_repair___sclera_and_limbus_.txt",
+    "file_name": "mtsamples_0363__ruptured_globe_repair___sclera_and_limbus_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2667,
+    "processed_at": "2026-05-09T09:53:14.056407"
+  },
+  "entities": [
+    {
+      "text": "uveal prolapse",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 60,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "uveal prolapse",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "uveal prolapse",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 125,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "uveal prolapse",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 451,
+      "end_char": 459,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 461,
+      "end_char": 470,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "loss of vision",
+      "label": "DISEASE",
+      "start_char": 486,
+      "end_char": 500,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 46,
+      "end_char": 51,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cyclodialysis",
+      "label": "DISEASE",
+      "start_char": 2,
+      "end_char": 15,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cyclodialysis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "leaks",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 8,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "leaks",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 35,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dexamethasone",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 53,
+      "sentence_idx": 23,
+      "concept_id": "C0011777",
+      "concept_name": "dexamethasone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9694039821624756,
+      "timestamp": null
+    },
+    {
+      "text": "Tobradex",
+      "label": "CHEMICAL",
+      "start_char": 99,
+      "end_char": 107,
+      "sentence_idx": 23,
+      "concept_id": "C0723765",
+      "concept_name": "Tobradex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9831443428993225,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

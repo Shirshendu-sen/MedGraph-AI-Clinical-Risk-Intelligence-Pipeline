@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_4452__consult___rectal_bleeding_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 63,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0065374": 1,
+    "C0025598": 2,
+    "C0009011": 3,
+    "C1098080": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4452__consult___rectal_bleeding__graph.pt",
+  "source_dataset": "mtsamples_4452__consult___rectal_bleeding"
+}

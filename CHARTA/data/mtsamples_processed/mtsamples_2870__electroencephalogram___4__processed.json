@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2870__electroencephalogram___4_.txt",
+    "file_name": "mtsamples_2870__electroencephalogram___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 663,
+    "processed_at": "2026-05-09T09:54:09.980046"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2870__electroencephalogram___4_.txt",
+    "text": "PROCEDURE:,  A 21-channel digital electroencephalogram was performed on a patient in the awake state.  Per the technician's notes, the patient is taking Depakene.,The recording consists of symmetric 9 Hz alpha activity.  Throughout the recording, repetitive episodes of bursts of 3 per second spike and wave activity are noted.  The episodes last from approximately1 to 7 seconds.  The episodes are exacerbated by hyperventilation.,IMPRESSION:,  Abnormal electroencephalogram with repetitive bursts of 3 per second spike and wave activity exacerbated by hyperventilation.  This activity could represent true petit mal epilepsy.  Clinical correlation is suggested.",
+    "char_count": 663,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE:, A 21-channel digital electroencephalogram was performed on a patient in the awake state. Per the technician's notes, the patient is taking Depakene.,The recording consists of symmetric 9 Hz alpha activity. Throughout the recording, repetitive episodes of bursts of 3 per second spike and wave activity are noted. The episodes last from approximately1 to 7 seconds. The episodes are exacerbated by hyperventilation.,IMPRESSION:, Abnormal electroencephalogram with repetitive bursts of 3 per second spike and wave activity exacerbated by hyperventilation. This activity could represent true petit mal epilepsy. Clinical correlation is suggested.",
+    "sentences": [
+      "PROCEDURE:, A 21-channel digital electroencephalogram was performed on a patient in the awake state.",
+      "Per the technician's notes, the patient is taking Depakene.,The recording consists of symmetric 9 Hz alpha activity.",
+      "Throughout the recording, repetitive episodes of bursts of 3 per second spike and wave activity are noted.",
+      "The episodes last from approximately1 to 7 seconds.",
+      "The episodes are exacerbated by hyperventilation.,IMPRESSION:, Abnormal electroencephalogram with repetitive bursts of 3 per second spike and wave activity exacerbated by hyperventilation.",
+      "This activity could represent true petit mal epilepsy.",
+      "Clinical correlation is suggested."
+    ],
+    "sentence_count": 7,
+    "original_length": 663,
+    "cleaned_length": 655,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE:,  A 21-channel digital electroencephalogram was performed on a patient in the awake state.  Per the technician's notes, the patient is taking Depakene.,The recording consists of symmetric 9 Hz alpha activity.  Throughout the recording, repetitive episodes of bursts of 3 per second spike and wave activity are noted.  The episodes last from approximately1 to 7 seconds.  The episodes are exacerbated by hyperventilation.,IMPRESSION:,  Abnormal electroencephalogram with repetitive bursts of 3 per second spike and wave activity exacerbated by hyperventilation.  This activity could represent true petit mal epilepsy.  Clinical correlation is suggested.",
+    "cleaned_text": "PROCEDURE:, A 21-channel digital electroencephalogram was performed on a patient in the awake state. Per the technician's notes, the patient is taking Depakene.,The recording consists of symmetric 9 Hz alpha activity. Throughout the recording, repetitive episodes of bursts of 3 per second spike and wave activity are noted. The episodes last from approximately1 to 7 seconds. The episodes are exacerbated by hyperventilation.,IMPRESSION:, Abnormal electroencephalogram with repetitive bursts of 3 per second spike and wave activity exacerbated by hyperventilation. This activity could represent true petit mal epilepsy. Clinical correlation is suggested.",
+    "sentences": [
+      "PROCEDURE:, A 21-channel digital electroencephalogram was performed on a patient in the awake state.",
+      "Per the technician's notes, the patient is taking Depakene.,The recording consists of symmetric 9 Hz alpha activity.",
+      "Throughout the recording, repetitive episodes of bursts of 3 per second spike and wave activity are noted.",
+      "The episodes last from approximately1 to 7 seconds.",
+      "The episodes are exacerbated by hyperventilation.,IMPRESSION:, Abnormal electroencephalogram with repetitive bursts of 3 per second spike and wave activity exacerbated by hyperventilation.",
+      "This activity could represent true petit mal epilepsy.",
+      "Clinical correlation is suggested."
+    ],
+    "sentence_count": 7
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_4226__neurologic_consultation___3_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 92,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0024002": 1,
+    "C0244656": 2,
+    "C0042291": 3,
+    "C0876060": 4,
+    "C0678180": 5,
+    "C0876196": 6,
+    "C0031507": 7,
+    "C0031412": 8,
+    "C0055891": 9,
+    "C0723778": 10,
+    "C0719751": 11
+  },
+  "visit_dates": [
+    "2007-12-25"
+  ],
+  "graph_file": "mtsamples_4226__neurologic_consultation___3__graph.pt",
+  "source_dataset": "mtsamples_4226__neurologic_consultation___3"
+}

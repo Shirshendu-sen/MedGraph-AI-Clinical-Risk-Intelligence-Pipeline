@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3597__colonoscopy_template___4_.txt",
+    "file_name": "mtsamples_3597__colonoscopy_template___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 463,
+    "processed_at": "2026-05-09T09:54:24.695681"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3597__colonoscopy_template___4_.txt",
+    "text": "A colonoscope was then passed through the rectum, all the way toward the cecum, which was identified by the presence of the appendiceal orifice and ileocecal valve.  This was done without difficulty and the bowel preparation was good.  The ileocecal valve was intubated and the distal 2 to 3 cm of terminal ileum was inspected and was normal.  The colonoscope was then slowly withdrawn and a careful examination of the mucosa was performed.,COMPLICATIONS: , None.",
+    "char_count": 463,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "A colonoscope was then passed through the rectum, all the way toward the cecum, which was identified by the presence of the appendiceal orifice and ileocecal valve. This was done without difficulty and the bowel preparation was good. The ileocecal valve was intubated and the distal 2 to 3 cm of terminal ileum was inspected and was normal. The colonoscope was then slowly withdrawn and a careful examination of the mucosa was performed.,COMPLICATIONS: , None.",
+    "sentences": [
+      "A colonoscope was then passed through the rectum, all the way toward the cecum, which was identified by the presence of the appendiceal orifice and ileocecal valve.",
+      "This was done without difficulty and the bowel preparation was good.",
+      "The ileocecal valve was intubated and the distal 2 to 3 cm of terminal ileum was inspected and was normal.",
+      "The colonoscope was then slowly withdrawn and a careful examination of the mucosa was performed.,COMPLICATIONS: , None."
+    ],
+    "sentence_count": 4,
+    "original_length": 463,
+    "cleaned_length": 460,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "A colonoscope was then passed through the rectum, all the way toward the cecum, which was identified by the presence of the appendiceal orifice and ileocecal valve.  This was done without difficulty and the bowel preparation was good.  The ileocecal valve was intubated and the distal 2 to 3 cm of terminal ileum was inspected and was normal.  The colonoscope was then slowly withdrawn and a careful examination of the mucosa was performed.,COMPLICATIONS: , None.",
+    "cleaned_text": "A colonoscope was then passed through the rectum, all the way toward the cecum, which was identified by the presence of the appendiceal orifice and ileocecal valve. This was done without difficulty and the bowel preparation was good. The ileocecal valve was intubated and the distal 2 to 3 cm of terminal ileum was inspected and was normal. The colonoscope was then slowly withdrawn and a careful examination of the mucosa was performed.,COMPLICATIONS: , None.",
+    "sentences": [
+      "A colonoscope was then passed through the rectum, all the way toward the cecum, which was identified by the presence of the appendiceal orifice and ileocecal valve.",
+      "This was done without difficulty and the bowel preparation was good.",
+      "The ileocecal valve was intubated and the distal 2 to 3 cm of terminal ileum was inspected and was normal.",
+      "The colonoscope was then slowly withdrawn and a careful examination of the mucosa was performed.,COMPLICATIONS: , None."
+    ],
+    "sentence_count": 4
+  }
+}

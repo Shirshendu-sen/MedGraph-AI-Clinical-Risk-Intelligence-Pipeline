@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2428__blepharoplasty___lower_lid_.txt",
+    "file_name": "mtsamples_2428__blepharoplasty___lower_lid_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 949,
+    "processed_at": "2026-05-09T09:54:01.644294"
+  },
+  "entities": [
+    {
+      "text": "orbital block",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 16,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "orbital block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infraorbital block",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 21,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infraorbital block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "teasing",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 119,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "teasing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

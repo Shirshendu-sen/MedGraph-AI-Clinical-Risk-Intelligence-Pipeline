@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0472__pacemaker__dual_chamber__.txt",
+    "file_name": "mtsamples_0472__pacemaker__dual_chamber__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3132,
+    "processed_at": "2026-05-09T09:53:16.966366"
+  },
+  "entities": [
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 77,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fatigue",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 31,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fatigue",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lightheadedness",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 48,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lightheadedness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dyspnea",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 68,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dyspnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PCP",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 28,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PCP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bradycardia",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 81,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bradycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sinus bradycardia",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 49,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinus bradycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bradycardia",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 184,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bradycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ohms",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 18,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ohms",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 226,
+      "end_char": 232,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 237,
+      "end_char": 245,
+      "sentence_idx": 10,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 155,
+      "end_char": 164,
+      "sentence_idx": 11,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

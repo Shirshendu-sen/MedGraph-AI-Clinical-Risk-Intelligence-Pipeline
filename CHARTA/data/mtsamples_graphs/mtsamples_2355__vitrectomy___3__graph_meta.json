@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_2355__vitrectomy___3_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 20,
+  "entity_index": {
+    "C0023660": 0,
+    "C0006400": 1,
+    "UNKNOWN": 2,
+    "C0740057": 3,
+    "C0004259": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2355__vitrectomy___3__graph.pt",
+  "source_dataset": "mtsamples_2355__vitrectomy___3"
+}

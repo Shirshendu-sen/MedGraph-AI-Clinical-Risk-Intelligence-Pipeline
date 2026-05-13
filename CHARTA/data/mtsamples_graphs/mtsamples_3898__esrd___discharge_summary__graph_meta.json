@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_3898__esrd___discharge_summary_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 63,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0001962": 1,
+    "C0037473": 2,
+    "C0032821": 3,
+    "C0010294": 4,
+    "C0017725": 5,
+    "C0730920": 6,
+    "C0025859": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3898__esrd___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3898__esrd___discharge_summary"
+}

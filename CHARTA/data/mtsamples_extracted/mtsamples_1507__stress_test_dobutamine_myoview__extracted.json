@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1507__stress_test_dobutamine_myoview_.txt",
+    "file_name": "mtsamples_1507__stress_test_dobutamine_myoview_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1587,
+    "processed_at": "2026-05-09T09:53:43.590558"
+  },
+  "entities": [
+    {
+      "text": "Chest pain",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 24,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 38,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "type II diabetes",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 56,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "type II diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 84,
+      "end_char": 94,
+      "sentence_idx": 0,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    },
+    {
+      "text": "dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 165,
+      "end_char": 175,
+      "sentence_idx": 0,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    },
+    {
+      "text": "Atropine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 1,
+      "concept_id": "C0004259",
+      "concept_name": "atropine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9555075764656067,
+      "timestamp": null
+    },
+    {
+      "text": "dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 74,
+      "sentence_idx": 1,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 41,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 91,
+      "end_char": 101,
+      "sentence_idx": 5,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    },
+    {
+      "text": "dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 58,
+      "sentence_idx": 6,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    },
+    {
+      "text": "Dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 7,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    },
+    {
+      "text": "dobutamine-induced myocardial ischemia.,2",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 69,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dobutamine-induced myocardial ischemia.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

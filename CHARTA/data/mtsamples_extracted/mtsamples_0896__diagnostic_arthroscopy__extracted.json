@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0896__diagnostic_arthroscopy_.txt",
+    "file_name": "mtsamples_0896__diagnostic_arthroscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3868,
+    "processed_at": "2026-05-09T09:53:28.486007"
+  },
+  "entities": [
+    {
+      "text": "impingement syndrome",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 42,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impingement syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-21"
+    },
+    {
+      "text": "synovitis",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 37,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "synovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-21"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 26,
+      "sentence_idx": 7,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-21"
+    },
+    {
+      "text": "postoperative pain",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 105,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "postoperative pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-21"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/21/03",
+      "start_char": 1155,
+      "end_char": 1163
+    }
+  ]
+}

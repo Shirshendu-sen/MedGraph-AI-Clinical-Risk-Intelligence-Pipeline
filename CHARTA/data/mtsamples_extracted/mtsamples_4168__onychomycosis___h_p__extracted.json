@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4168__onychomycosis___h_p_.txt",
+    "file_name": "mtsamples_4168__onychomycosis___h_p_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1690,
+    "processed_at": "2026-05-09T09:54:34.502135"
+  },
+  "entities": [
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 82,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 319,
+      "end_char": 326,
+      "sentence_idx": 2,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "Psychiatric",
+      "label": "DISEASE",
+      "start_char": 472,
+      "end_char": 483,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Psychiatric",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breathing difficulties",
+      "label": "DISEASE",
+      "start_char": 526,
+      "end_char": 548,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breathing difficulties",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "friable",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 67,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "friable",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 8,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rash",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 12,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rash",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Penlac",
+      "label": "CHEMICAL",
+      "start_char": 189,
+      "end_char": 195,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Penlac",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

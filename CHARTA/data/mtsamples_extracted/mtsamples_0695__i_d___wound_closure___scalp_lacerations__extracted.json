@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0695__i_d___wound_closure___scalp_lacerations_.txt",
+    "file_name": "mtsamples_0695__i_d___wound_closure___scalp_lacerations_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1756,
+    "processed_at": "2026-05-09T09:53:22.535211"
+  },
+  "entities": [
+    {
+      "text": "hexedine",
+      "label": "CHEMICAL",
+      "start_char": 91,
+      "end_char": 99,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hexedine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin ointment",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 72,
+      "sentence_idx": 10,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.7576655149459839,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

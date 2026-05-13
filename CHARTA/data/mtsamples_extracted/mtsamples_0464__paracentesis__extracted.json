@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0464__paracentesis_.txt",
+    "file_name": "mtsamples_0464__paracentesis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1558,
+    "processed_at": "2026-05-09T09:53:16.780315"
+  },
+  "entities": [
+    {
+      "text": "female has stage II",
+      "label": "CHEMICAL",
+      "start_char": 155,
+      "end_char": 174,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "female has stage II",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

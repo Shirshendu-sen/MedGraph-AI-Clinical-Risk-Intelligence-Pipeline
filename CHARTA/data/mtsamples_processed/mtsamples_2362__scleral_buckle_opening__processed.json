@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2362__scleral_buckle_opening_.txt",
+    "file_name": "mtsamples_2362__scleral_buckle_opening_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 731,
+    "processed_at": "2026-05-09T09:54:00.690787"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2362__scleral_buckle_opening_.txt",
+    "text": "SCLERAL BUCKLE OPENING,The patient was brought to the operating room and appropriately identified.  General anesthesia was induced by the anesthesiologist.  The patient was prepped and draped in the usual sterile fashion.  A lid speculum was used to provide exposure to the right eye.  A 360-degree limbal conjunctival peritomy was created with Westcott scissors.  Curved tenotomy scissors were used to enter each of the intermuscular quadrants.  The inferior rectus muscle was isolated with a muscle hook, freed of its Tenon's attachment and tied with a 2-0 silk suture.  The 3 other rectus muscles were isolated in a similar fashion.  The 4 scleral quadrants were inspected and found to be free of scleral thinning or staphyloma.",
+    "char_count": 731,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "SCLERAL BUCKLE OPENING,The patient was brought to the operating room and appropriately identified. General anesthesia was induced by the anesthesiologist. The patient was prepped and draped in the usual sterile fashion. A lid speculum was used to provide exposure to the right eye. A 360-degree limbal conjunctival peritomy was created with Westcott scissors. Curved tenotomy scissors were used to enter each of the intermuscular quadrants. The inferior rectus muscle was isolated with a muscle hook, freed of its Tenon's attachment and tied with a 2-0 silk suture. The 3 other rectus muscles were isolated in a similar fashion. The 4 scleral quadrants were inspected and found to be free of scleral thinning or staphyloma.",
+    "sentences": [
+      "SCLERAL BUCKLE OPENING,The patient was brought to the operating room and appropriately identified.",
+      "General anesthesia was induced by the anesthesiologist.",
+      "The patient was prepped and draped in the usual sterile fashion.",
+      "A lid speculum was used to provide exposure to the right eye.",
+      "A 360-degree limbal conjunctival peritomy was created with Westcott scissors.",
+      "Curved tenotomy scissors were used to enter each of the intermuscular quadrants.",
+      "The inferior rectus muscle was isolated with a muscle hook, freed of its Tenon's attachment and tied with a 2-0 silk suture.",
+      "The 3 other rectus muscles were isolated in a similar fashion.",
+      "The 4 scleral quadrants were inspected and found to be free of scleral thinning or staphyloma."
+    ],
+    "sentence_count": 9,
+    "original_length": 731,
+    "cleaned_length": 723,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "SCLERAL BUCKLE OPENING,The patient was brought to the operating room and appropriately identified.  General anesthesia was induced by the anesthesiologist.  The patient was prepped and draped in the usual sterile fashion.  A lid speculum was used to provide exposure to the right eye.  A 360-degree limbal conjunctival peritomy was created with Westcott scissors.  Curved tenotomy scissors were used to enter each of the intermuscular quadrants.  The inferior rectus muscle was isolated with a muscle hook, freed of its Tenon's attachment and tied with a 2-0 silk suture.  The 3 other rectus muscles were isolated in a similar fashion.  The 4 scleral quadrants were inspected and found to be free of scleral thinning or staphyloma.",
+    "cleaned_text": "SCLERAL BUCKLE OPENING,The patient was brought to the operating room and appropriately identified. General anesthesia was induced by the anesthesiologist. The patient was prepped and draped in the usual sterile fashion. A lid speculum was used to provide exposure to the right eye. A 360-degree limbal conjunctival peritomy was created with Westcott scissors. Curved tenotomy scissors were used to enter each of the intermuscular quadrants. The inferior rectus muscle was isolated with a muscle hook, freed of its Tenon's attachment and tied with a 2-0 silk suture. The 3 other rectus muscles were isolated in a similar fashion. The 4 scleral quadrants were inspected and found to be free of scleral thinning or staphyloma.",
+    "sentences": [
+      "SCLERAL BUCKLE OPENING,The patient was brought to the operating room and appropriately identified.",
+      "General anesthesia was induced by the anesthesiologist.",
+      "The patient was prepped and draped in the usual sterile fashion.",
+      "A lid speculum was used to provide exposure to the right eye.",
+      "A 360-degree limbal conjunctival peritomy was created with Westcott scissors.",
+      "Curved tenotomy scissors were used to enter each of the intermuscular quadrants.",
+      "The inferior rectus muscle was isolated with a muscle hook, freed of its Tenon's attachment and tied with a 2-0 silk suture.",
+      "The 3 other rectus muscles were isolated in a similar fashion.",
+      "The 4 scleral quadrants were inspected and found to be free of scleral thinning or staphyloma."
+    ],
+    "sentence_count": 9
+  }
+}

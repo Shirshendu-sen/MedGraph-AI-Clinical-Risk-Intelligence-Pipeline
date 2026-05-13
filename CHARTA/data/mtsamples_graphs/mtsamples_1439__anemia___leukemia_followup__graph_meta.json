@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_1439__anemia___leukemia_followup_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 66,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0032952": 1,
+    "C0700777": 2,
+    "C0040165": 3,
+    "C0700776": 4,
+    "C0025270": 5,
+    "C0074554": 6,
+    "C0592245": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1439__anemia___leukemia_followup__graph.pt",
+  "source_dataset": "mtsamples_1439__anemia___leukemia_followup"
+}

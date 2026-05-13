@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4080__tinea_pedis___h_p_.txt",
+    "file_name": "mtsamples_4080__tinea_pedis___h_p_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2465,
+    "processed_at": "2026-05-09T09:54:33.085193"
+  },
+  "entities": [
+    {
+      "text": "itchy",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 83,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "itchy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rash",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 93,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rash",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 60,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "itch",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 28,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "itch",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 104,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chickenpox",
+      "label": "DISEASE",
+      "start_char": 224,
+      "end_char": 234,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chickenpox",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 373,
+      "end_char": 380,
+      "sentence_idx": 8,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 559,
+      "end_char": 567,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 178,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "toenail",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 73,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "toenail",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 88,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tinea",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 137,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tinea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "KOH",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "KOH",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "qid",
+      "label": "CHEMICAL",
+      "start_char": 105,
+      "end_char": 108,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "qid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

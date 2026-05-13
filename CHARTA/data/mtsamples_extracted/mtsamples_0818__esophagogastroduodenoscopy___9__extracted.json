@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0818__esophagogastroduodenoscopy___9_.txt",
+    "file_name": "mtsamples_0818__esophagogastroduodenoscopy___9_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1850,
+    "processed_at": "2026-05-09T09:53:26.645945"
+  },
+  "entities": [
+    {
+      "text": "Malnutrition",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 38,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Malnutrition",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Malnutrition",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 93,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Malnutrition",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 107,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyps",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 130,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia.,PROCEDURES",
+      "label": "DISEASE",
+      "start_char": 148,
+      "end_char": 166,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia.,PROCEDURES",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyps",
+      "label": "DISEASE",
+      "start_char": 223,
+      "end_char": 229,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 316,
+      "end_char": 325,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 36,
+      "sentence_idx": 4,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "polyps",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 33,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hiatal hernia",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 51,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hiatal hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 54,
+      "end_char": 63,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

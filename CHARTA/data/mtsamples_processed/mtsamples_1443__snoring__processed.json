@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1443__snoring_.txt",
+    "file_name": "mtsamples_1443__snoring_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 976,
+    "processed_at": "2026-05-09T09:53:42.075363"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1443__snoring_.txt",
+    "text": "CHRONIC SNORING,Chronic snoring in children can be associated with obstructive sleep apnea or upper airway resistant syndrome.  Both conditions may lead to sleep fragmentation and/or intermittent oxygen desaturation, both of which have significant health implications including poor sleep quality and stress on the cardiovascular system.  Symptoms like daytime somnolence, fatigue, hyperactivity, behavior difficulty (i.e., ADHD) and decreased school performance have been reported with these conditions.  In addition, the most severe cases may be associated with right ventricular hypertrophy, pulmonary and/or systemic hypertension and even cor pulmonale.,In this patient, the risks for a sleep-disordered breathing include obesity and the tonsillar hypertrophy.  It is therefore indicated and medically necessary to perform a polysomnogram for further evaluation.  A two week sleep diary will be given to the parents to fill out daily before the polysomnogram is performed.",
+    "char_count": 976,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "CHRONIC SNORING,Chronic snoring in children can be associated with obstructive sleep apnea or upper airway resistant syndrome. Both conditions may lead to sleep fragmentation and/or intermittent oxygen desaturation, both of which have significant health implications including poor sleep quality and stress on the cardiovascular system. Symptoms like daytime somnolence, fatigue, hyperactivity, behavior difficulty (i.e., ADHD) and decreased school performance have been reported with these conditions. In addition, the most severe cases may be associated with right ventricular hypertrophy, pulmonary and/or systemic hypertension and even cor pulmonale.,In this patient, the risks for a sleep-disordered breathing include obesity and the tonsillar hypertrophy. It is therefore indicated and medically necessary to perform a polysomnogram for further evaluation. A two week sleep diary will be given to the parents to fill out daily before the polysomnogram is performed.",
+    "sentences": [
+      "CHRONIC SNORING,Chronic snoring in children can be associated with obstructive sleep apnea or upper airway resistant syndrome.",
+      "Both conditions may lead to sleep fragmentation and/or intermittent oxygen desaturation, both of which have significant health implications including poor sleep quality and stress on the cardiovascular system.",
+      "Symptoms like daytime somnolence, fatigue, hyperactivity, behavior difficulty (i.e., ADHD) and decreased school performance have been reported with these conditions.",
+      "In addition, the most severe cases may be associated with right ventricular hypertrophy, pulmonary and/or systemic hypertension and even cor pulmonale.,In this patient, the risks for a sleep-disordered breathing include obesity and the tonsillar hypertrophy.",
+      "It is therefore indicated and medically necessary to perform a polysomnogram for further evaluation.",
+      "A two week sleep diary will be given to the parents to fill out daily before the polysomnogram is performed."
+    ],
+    "sentence_count": 6,
+    "original_length": 976,
+    "cleaned_length": 971,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "CHRONIC SNORING,Chronic snoring in children can be associated with obstructive sleep apnea or upper airway resistant syndrome.  Both conditions may lead to sleep fragmentation and/or intermittent oxygen desaturation, both of which have significant health implications including poor sleep quality and stress on the cardiovascular system.  Symptoms like daytime somnolence, fatigue, hyperactivity, behavior difficulty (i.e., ADHD) and decreased school performance have been reported with these conditions.  In addition, the most severe cases may be associated with right ventricular hypertrophy, pulmonary and/or systemic hypertension and even cor pulmonale.,In this patient, the risks for a sleep-disordered breathing include obesity and the tonsillar hypertrophy.  It is therefore indicated and medically necessary to perform a polysomnogram for further evaluation.  A two week sleep diary will be given to the parents to fill out daily before the polysomnogram is performed.",
+    "cleaned_text": "CHRONIC SNORING,Chronic snoring in children can be associated with obstructive sleep apnea or upper airway resistant syndrome. Both conditions may lead to sleep fragmentation and/or intermittent oxygen desaturation, both of which have significant health implications including poor sleep quality and stress on the cardiovascular system. Symptoms like daytime somnolence, fatigue, hyperactivity, behavior difficulty (i.e., ADHD) and decreased school performance have been reported with these conditions. In addition, the most severe cases may be associated with right ventricular hypertrophy, pulmonary and/or systemic hypertension and even cor pulmonale.,In this patient, the risks for a sleep-disordered breathing include obesity and the tonsillar hypertrophy. It is therefore indicated and medically necessary to perform a polysomnogram for further evaluation. A two week sleep diary will be given to the parents to fill out daily before the polysomnogram is performed.",
+    "sentences": [
+      "CHRONIC SNORING,Chronic snoring in children can be associated with obstructive sleep apnea or upper airway resistant syndrome.",
+      "Both conditions may lead to sleep fragmentation and/or intermittent oxygen desaturation, both of which have significant health implications including poor sleep quality and stress on the cardiovascular system.",
+      "Symptoms like daytime somnolence, fatigue, hyperactivity, behavior difficulty (i.e., ADHD) and decreased school performance have been reported with these conditions.",
+      "In addition, the most severe cases may be associated with right ventricular hypertrophy, pulmonary and/or systemic hypertension and even cor pulmonale.,In this patient, the risks for a sleep-disordered breathing include obesity and the tonsillar hypertrophy.",
+      "It is therefore indicated and medically necessary to perform a polysomnogram for further evaluation.",
+      "A two week sleep diary will be given to the parents to fill out daily before the polysomnogram is performed."
+    ],
+    "sentence_count": 6
+  }
+}

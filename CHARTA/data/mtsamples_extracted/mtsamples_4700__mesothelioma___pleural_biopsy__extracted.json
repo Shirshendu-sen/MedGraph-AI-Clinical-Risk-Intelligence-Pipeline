@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4700__mesothelioma___pleural_biopsy_.txt",
+    "file_name": "mtsamples_4700__mesothelioma___pleural_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2960,
+    "processed_at": "2026-05-09T09:54:43.561232"
+  },
+  "entities": [
+    {
+      "text": "Right pleural effusion",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 48,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right pleural effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right pleural effusion",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 135,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right pleural effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right pleural effusion",
+      "label": "DISEASE",
+      "start_char": 302,
+      "end_char": 324,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right pleural effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleural effusion",
+      "label": "DISEASE",
+      "start_char": 548,
+      "end_char": 564,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleural effusion",
+      "label": "DISEASE",
+      "start_char": 688,
+      "end_char": 704,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mesothelioma",
+      "label": "DISEASE",
+      "start_char": 802,
+      "end_char": 814,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mesothelioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleural effusion",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 46,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 104,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dyspnea",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 116,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dyspnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "SCDs",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 4,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SCDs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Kefzol",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 58,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Kefzol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 80,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

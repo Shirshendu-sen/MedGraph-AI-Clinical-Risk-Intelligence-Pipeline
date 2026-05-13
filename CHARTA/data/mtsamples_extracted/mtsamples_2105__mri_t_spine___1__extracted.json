@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2105__mri_t_spine___1_.txt",
+    "file_name": "mtsamples_2105__mri_t_spine___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 678,
+    "processed_at": "2026-05-09T09:53:56.585645"
+  },
+  "entities": [
+    {
+      "text": "osteoporosis",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 49,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoporosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Osteoporosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Osteoporosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

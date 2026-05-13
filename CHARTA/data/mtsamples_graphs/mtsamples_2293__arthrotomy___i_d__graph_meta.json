@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2293__arthrotomy___i_d_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 20,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0032487": 1,
+    "C0699129": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2293__arthrotomy___i_d__graph.pt",
+  "source_dataset": "mtsamples_2293__arthrotomy___i_d"
+}

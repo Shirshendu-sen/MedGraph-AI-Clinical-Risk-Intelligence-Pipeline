@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4843__chest_closure_.txt",
+    "file_name": "mtsamples_4843__chest_closure_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2126,
+    "processed_at": "2026-05-09T09:54:46.251569"
+  },
+  "entities": [
+    {
+      "text": "Delayed primary chest",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 33,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Delayed primary chest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypoplastic left heart syndrome",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 132,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypoplastic left heart syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "DX",
+      "label": "CHEMICAL",
+      "start_char": 156,
+      "end_char": 158,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DX",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "purulence",
+      "label": "DISEASE",
+      "start_char": 322,
+      "end_char": 331,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "purulence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 335,
+      "end_char": 343,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vancomycin",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 46,
+      "sentence_idx": 10,
+      "concept_id": "C0042313",
+      "concept_name": "vancomycin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736526608467102,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

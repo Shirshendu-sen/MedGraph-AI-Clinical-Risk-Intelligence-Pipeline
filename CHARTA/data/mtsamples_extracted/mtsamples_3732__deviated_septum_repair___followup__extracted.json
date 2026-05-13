@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3732__deviated_septum_repair___followup_.txt",
+    "file_name": "mtsamples_3732__deviated_septum_repair___followup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2000,
+    "processed_at": "2026-05-09T09:54:26.758556"
+  },
+  "entities": [
+    {
+      "text": "nosebleeds",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 71,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nosebleeds",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "perforation",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 30,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "crusting",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 28,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "crusting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sores",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 74,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sores",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dry",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 107,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dry",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epistaxis",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 160,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epistaxis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bactroban",
+      "label": "CHEMICAL",
+      "start_char": 117,
+      "end_char": 126,
+      "sentence_idx": 11,
+      "concept_id": "C0733863",
+      "concept_name": "Bactroban",
+      "kb_source": "rxnorm",
+      "link_score": 0.9752327799797058,
+      "timestamp": null
+    },
+    {
+      "text": "crusting",
+      "label": "DISEASE",
+      "start_char": 176,
+      "end_char": 184,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "crusting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bactroban",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 92,
+      "sentence_idx": 12,
+      "concept_id": "C0733863",
+      "concept_name": "Bactroban",
+      "kb_source": "rxnorm",
+      "link_score": 0.9752327799797058,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

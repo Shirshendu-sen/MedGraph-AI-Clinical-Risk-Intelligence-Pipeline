@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_1432__bell_s_palsy_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 46,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0935966": 1,
+    "C0721436": 2,
+    "C0700003": 3,
+    "C0025859": 4,
+    "C0678181": 5,
+    "C0592245": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1432__bell_s_palsy__graph.pt",
+  "source_dataset": "mtsamples_1432__bell_s_palsy"
+}

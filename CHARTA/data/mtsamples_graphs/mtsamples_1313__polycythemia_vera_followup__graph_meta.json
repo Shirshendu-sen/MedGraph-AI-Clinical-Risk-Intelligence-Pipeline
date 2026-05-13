@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_1313__polycythemia_vera_followup_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 35,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0020402": 1,
+    "C1144149": 2,
+    "C0032952": 3,
+    "C0008163": 4,
+    "C0004057": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1313__polycythemia_vera_followup__graph.pt",
+  "source_dataset": "mtsamples_1313__polycythemia_vera_followup"
+}

@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_4865__cardiac_transfer_summary_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 25,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0004057": 1,
+    "C0728963": 2,
+    "C0028467": 3,
+    "C0025598": 4,
+    "C0876139": 5
+  },
+  "visit_dates": [
+    "2025-11-10"
+  ],
+  "graph_file": "mtsamples_4865__cardiac_transfer_summary__graph.pt",
+  "source_dataset": "mtsamples_4865__cardiac_transfer_summary"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3543__ercp_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 10,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030304": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3543__ercp__graph.pt",
+  "source_dataset": "mtsamples_3543__ercp"
+}

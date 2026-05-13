@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4611__thoracoscopy_thoracotomy_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0026926": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4611__thoracoscopy_thoracotomy__graph.pt",
+  "source_dataset": "mtsamples_4611__thoracoscopy_thoracotomy"
+}

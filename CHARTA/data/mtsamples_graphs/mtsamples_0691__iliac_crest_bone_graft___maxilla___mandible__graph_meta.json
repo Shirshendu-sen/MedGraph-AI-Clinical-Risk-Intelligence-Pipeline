@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0691__iliac_crest_bone_graft___maxilla___mandible_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 14,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0014563": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0691__iliac_crest_bone_graft___maxilla___mandible__graph.pt",
+  "source_dataset": "mtsamples_0691__iliac_crest_bone_graft___maxilla___mandible"
+}

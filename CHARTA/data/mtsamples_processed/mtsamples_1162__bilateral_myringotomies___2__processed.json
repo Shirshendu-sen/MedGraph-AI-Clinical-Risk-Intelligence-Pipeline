@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1162__bilateral_myringotomies___2_.txt",
+    "file_name": "mtsamples_1162__bilateral_myringotomies___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 963,
+    "processed_at": "2026-05-09T09:53:35.887024"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1162__bilateral_myringotomies___2_.txt",
+    "text": "PREOPERATIVE DIAGNOSES: , Bilateral chronic otitis media,POSTOPERATIVE DIAGNOSES:,  Bilateral chronic otitis media,ANESTHESIA:,  General mask,NAME OF OPERATION:,  Bilateral Myringotomy with placement of PE tubes,PROCEDURE:,  The patient was taken to the operating room and placed in the supine position.  After adequate general inhalation anesthesia was obtained, the operating microscope with brought in for full use throughout the case.  First, the left and then the right tympanic membrane, was approached.  An anterior-inferior radial incision was made in the left tympanic membrane.  Suction revealed a substantial amount of mucopurulent drainage.  A Sheehy pressure equalization tube was placed in the myringotomy site.  Floxin drops were added.  The same procedure was repeated on the right side with similar findings noted of mucopurulent drainage.  The patient tolerated the procedure well and returned to the recovery room awake and in stable condition.",
+    "char_count": 963,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSES: , Bilateral chronic otitis media,POSTOPERATIVE DIAGNOSES:, Bilateral chronic otitis media,ANESTHESIA:, General mask,NAME OF OPERATION:, Bilateral Myringotomy with placement of PE tubes,PROCEDURE:, The patient was taken to the operating room and placed in the supine position. After adequate general inhalation anesthesia was obtained, the operating microscope with brought in for full use throughout the case. First, the left and then the right tympanic membrane, was approached. An anterior-inferior radial incision was made in the left tympanic membrane. Suction revealed a substantial amount of mucopurulent drainage. A Sheehy pressure equalization tube was placed in the myringotomy site. Floxin drops were added. The same procedure was repeated on the right side with similar findings noted of mucopurulent drainage. The patient tolerated the procedure well and returned to the recovery room awake and in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES: , Bilateral chronic otitis media,POSTOPERATIVE DIAGNOSES:, Bilateral chronic otitis media,ANESTHESIA:, General mask,NAME OF OPERATION:, Bilateral Myringotomy with placement of PE tubes,PROCEDURE:, The patient was taken to the operating room and placed in the supine position.",
+      "After adequate general inhalation anesthesia was obtained, the operating microscope with brought in for full use throughout the case.",
+      "First, the left and then the right tympanic membrane, was approached.",
+      "An anterior-inferior radial incision was made in the left tympanic membrane.",
+      "Suction revealed a substantial amount of mucopurulent drainage.",
+      "A Sheehy pressure equalization tube was placed in the myringotomy site.",
+      "Floxin drops were added.",
+      "The same procedure was repeated on the right side with similar findings noted of mucopurulent drainage.",
+      "The patient tolerated the procedure well and returned to the recovery room awake and in stable condition."
+    ],
+    "sentence_count": 9,
+    "original_length": 963,
+    "cleaned_length": 951,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSES: , Bilateral chronic otitis media,POSTOPERATIVE DIAGNOSES:,  Bilateral chronic otitis media,ANESTHESIA:,  General mask,NAME OF OPERATION:,  Bilateral Myringotomy with placement of PE tubes,PROCEDURE:,  The patient was taken to the operating room and placed in the supine position.  After adequate general inhalation anesthesia was obtained, the operating microscope with brought in for full use throughout the case.  First, the left and then the right tympanic membrane, was approached.  An anterior-inferior radial incision was made in the left tympanic membrane.  Suction revealed a substantial amount of mucopurulent drainage.  A Sheehy pressure equalization tube was placed in the myringotomy site.  Floxin drops were added.  The same procedure was repeated on the right side with similar findings noted of mucopurulent drainage.  The patient tolerated the procedure well and returned to the recovery room awake and in stable condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSES: , Bilateral chronic otitis media,POSTOPERATIVE DIAGNOSES:, Bilateral chronic otitis media,ANESTHESIA:, General mask,NAME OF OPERATION:, Bilateral Myringotomy with placement of PE tubes,PROCEDURE:, The patient was taken to the operating room and placed in the supine position. After adequate general inhalation anesthesia was obtained, the operating microscope with brought in for full use throughout the case. First, the left and then the right tympanic membrane, was approached. An anterior-inferior radial incision was made in the left tympanic membrane. Suction revealed a substantial amount of mucopurulent drainage. A Sheehy pressure equalization tube was placed in the myringotomy site. Floxin drops were added. The same procedure was repeated on the right side with similar findings noted of mucopurulent drainage. The patient tolerated the procedure well and returned to the recovery room awake and in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES: , Bilateral chronic otitis media,POSTOPERATIVE DIAGNOSES:, Bilateral chronic otitis media,ANESTHESIA:, General mask,NAME OF OPERATION:, Bilateral Myringotomy with placement of PE tubes,PROCEDURE:, The patient was taken to the operating room and placed in the supine position.",
+      "After adequate general inhalation anesthesia was obtained, the operating microscope with brought in for full use throughout the case.",
+      "First, the left and then the right tympanic membrane, was approached.",
+      "An anterior-inferior radial incision was made in the left tympanic membrane.",
+      "Suction revealed a substantial amount of mucopurulent drainage.",
+      "A Sheehy pressure equalization tube was placed in the myringotomy site.",
+      "Floxin drops were added.",
+      "The same procedure was repeated on the right side with similar findings noted of mucopurulent drainage.",
+      "The patient tolerated the procedure well and returned to the recovery room awake and in stable condition."
+    ],
+    "sentence_count": 9
+  }
+}

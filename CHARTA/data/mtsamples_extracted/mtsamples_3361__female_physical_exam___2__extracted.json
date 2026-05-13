@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3361__female_physical_exam___2_.txt",
+    "file_name": "mtsamples_3361__female_physical_exam___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1560,
+    "processed_at": "2026-05-09T09:54:20.459841"
+  },
+  "entities": [
+    {
+      "text": "Extraocular movements",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 21,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Extraocular movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Sclerae",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Sclerae",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 36,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 85,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thyromegaly",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 100,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyromegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "murmurs",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "murmurs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hepatomegaly",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 23,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hepatomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "splenomegaly",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 39,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "splenomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cyanosis",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 64,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cyanosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cranial nerves II",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 57,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cranial nerves II",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rashes",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 102,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rashes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

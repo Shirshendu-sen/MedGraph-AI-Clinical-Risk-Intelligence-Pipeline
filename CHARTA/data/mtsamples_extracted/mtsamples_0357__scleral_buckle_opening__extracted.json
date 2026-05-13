@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0357__scleral_buckle_opening_.txt",
+    "file_name": "mtsamples_0357__scleral_buckle_opening_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 731,
+    "processed_at": "2026-05-09T09:53:13.931100"
+  },
+  "entities": [
+    {
+      "text": "inferior rectus muscle",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 26,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inferior rectus muscle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

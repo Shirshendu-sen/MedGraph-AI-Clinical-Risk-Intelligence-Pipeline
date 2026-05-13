@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_1900__mastoiditis___discharge_summary_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 43,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0147814": 2,
+    "C0026549": 3,
+    "C0483514": 4,
+    "C1330135": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1900__mastoiditis___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_1900__mastoiditis___discharge_summary"
+}

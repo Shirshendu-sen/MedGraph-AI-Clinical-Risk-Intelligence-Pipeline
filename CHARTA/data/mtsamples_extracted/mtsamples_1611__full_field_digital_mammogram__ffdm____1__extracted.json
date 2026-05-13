@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1611__full_field_digital_mammogram__ffdm____1_.txt",
+    "file_name": "mtsamples_1611__full_field_digital_mammogram__ffdm____1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1289,
+    "processed_at": "2026-05-09T09:53:46.276557"
+  },
+  "entities": [
+    {
+      "text": "breast cancer",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 48,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breast cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Breast cancer",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Breast cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breasts",
+      "label": "DISEASE",
+      "start_char": 127,
+      "end_char": 134,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breasts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calcifications",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 54,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcifications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breasts",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 27,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breasts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cancers",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 31,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancers",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "malignancy",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 43,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malignancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

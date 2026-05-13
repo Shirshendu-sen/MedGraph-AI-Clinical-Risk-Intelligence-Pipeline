@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1960__lumbar_facet_injections_.txt",
+    "file_name": "mtsamples_1960__lumbar_facet_injections_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1582,
+    "processed_at": "2026-05-09T09:53:53.797648"
+  },
+  "entities": [
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 22,
+      "end_char": 28,
+      "sentence_idx": 3,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 61,
+      "end_char": 69,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "methyl prednisolone acetate",
+      "label": "CHEMICAL",
+      "start_char": 97,
+      "end_char": 124,
+      "sentence_idx": 7,
+      "concept_id": "C0600901",
+      "concept_name": "methylprednisolone acetate",
+      "kb_source": "rxnorm",
+      "link_score": 0.8605257272720337,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

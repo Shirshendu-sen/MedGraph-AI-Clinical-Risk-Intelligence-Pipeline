@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_1098__cabg_x4_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0039086": 1,
+    "C0017887": 2,
+    "C0876757": 3,
+    "C0019134": 4,
+    "C0033603": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1098__cabg_x4__graph.pt",
+  "source_dataset": "mtsamples_1098__cabg_x4"
+}

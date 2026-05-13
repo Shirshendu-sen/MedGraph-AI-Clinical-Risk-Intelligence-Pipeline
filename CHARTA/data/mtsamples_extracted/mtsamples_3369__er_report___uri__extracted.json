@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3369__er_report___uri_.txt",
+    "file_name": "mtsamples_3369__er_report___uri_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1359,
+    "processed_at": "2026-05-09T09:54:20.612529"
+  },
+  "entities": [
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 52,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 19,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rhinorrhea",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 24,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rhinorrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "apnea",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 25,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 93,
+      "end_char": 99,
+      "sentence_idx": 8,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 29,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

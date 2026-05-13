@@ -1,0 +1,450 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2811__mri_brain___thrombus_.txt",
+    "file_name": "mtsamples_2811__mri_brain___thrombus_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3425,
+    "processed_at": "2026-05-09T09:54:08.932247"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "decorticate posturing",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 38,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "decorticate posturing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "coma",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 185,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "posturing",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 96,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "posturing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "Displaced fracture",
+      "label": "DISEASE",
+      "start_char": 241,
+      "end_char": 259,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Displaced fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 47,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "cerebral intraparenchymal hemorrhage",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 42,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cerebral intraparenchymal hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "Air",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 12,
+      "concept_id": "C3536832",
+      "concept_name": "medical air",
+      "kb_source": "rxnorm",
+      "link_score": 0.9826571941375732,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "hematomas",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 178,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematomas",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "mannitol",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 14,
+      "concept_id": "C0024730",
+      "concept_name": "mannitol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9753459095954895,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "posturing",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 62,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "posturing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "VP",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 27,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "CN3 palsy",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 85,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CN3 palsy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "extensor rigidity",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 42,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "extensor rigidity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "infarction",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 44,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "seizure",
+      "label": "DISEASE",
+      "start_char": 177,
+      "end_char": 184,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "DPH",
+      "label": "CHEMICAL",
+      "start_char": 202,
+      "end_char": 205,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DPH",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "neutropenia",
+      "label": "DISEASE",
+      "start_char": 221,
+      "end_char": 232,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neutropenia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "seizures",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "VPA",
+      "label": "CHEMICAL",
+      "start_char": 75,
+      "end_char": 78,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VPA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "Depakene",
+      "label": "CHEMICAL",
+      "start_char": 80,
+      "end_char": 88,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Depakene",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "seizure",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 22,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "Tegretol",
+      "label": "CHEMICAL",
+      "start_char": 94,
+      "end_char": 102,
+      "sentence_idx": 24,
+      "concept_id": "C0700087",
+      "concept_name": "Tegretol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9879501461982727,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 175,
+      "end_char": 188,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "basal ganglia, right frontal and left occipital regions",
+      "label": "DISEASE",
+      "start_char": 253,
+      "end_char": 308,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "basal ganglia, right frontal and left occipital regions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "axonal injury of the white matter and gray matter contusion",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 103,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "axonal injury of the white matter and gray matter contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "seizures",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "tremor",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 85,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tremor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "Tegretol",
+      "label": "CHEMICAL",
+      "start_char": 119,
+      "end_char": 127,
+      "sentence_idx": 26,
+      "concept_id": "C0700087",
+      "concept_name": "Tegretol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9879501461982727,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "Diazepam",
+      "label": "CHEMICAL",
+      "start_char": 132,
+      "end_char": 140,
+      "sentence_idx": 26,
+      "concept_id": "C0012010",
+      "concept_name": "diazepam",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928767681121826,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "disconjugate",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 27,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "disconjugate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    },
+    {
+      "text": "spastic quadriplegia",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 80,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spastic quadriplegia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-17"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/17/92",
+      "start_char": 64,
+      "end_char": 72
+    },
+    {
+      "raw_text": "11/16/92",
+      "start_char": 1610,
+      "end_char": 1618
+    },
+    {
+      "raw_text": "11/23/92",
+      "start_char": 1705,
+      "end_char": 1713
+    },
+    {
+      "raw_text": "12/11/92",
+      "start_char": 1744,
+      "end_char": 1752
+    },
+    {
+      "raw_text": "1/14/93",
+      "start_char": 1875,
+      "end_char": 1882
+    },
+    {
+      "raw_text": "11/16/92",
+      "start_char": 2057,
+      "end_char": 2065
+    },
+    {
+      "raw_text": "10/8/93",
+      "start_char": 2508,
+      "end_char": 2515
+    },
+    {
+      "raw_text": "10/30/96",
+      "start_char": 2944,
+      "end_char": 2952
+    }
+  ]
+}

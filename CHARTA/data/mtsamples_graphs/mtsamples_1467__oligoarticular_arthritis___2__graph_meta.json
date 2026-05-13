@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_1467__oligoarticular_arthritis___2_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 49,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0592680": 1,
+    "C0030346": 2,
+    "C0006675": 3,
+    "C0042866": 4,
+    "C0025270": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1467__oligoarticular_arthritis___2__graph.pt",
+  "source_dataset": "mtsamples_1467__oligoarticular_arthritis___2"
+}

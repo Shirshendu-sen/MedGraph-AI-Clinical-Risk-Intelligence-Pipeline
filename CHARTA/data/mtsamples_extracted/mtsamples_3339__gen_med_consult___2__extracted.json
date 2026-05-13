@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3339__gen_med_consult___2_.txt",
+    "file_name": "mtsamples_3339__gen_med_consult___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 409,
+    "processed_at": "2026-05-09T09:54:20.097112"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 63,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "blurriness of vision",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 42,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blurriness of vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "photophobia",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 57,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "photophobia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

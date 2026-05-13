@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4637__shiley_tracheostomy_tube_insertion_.txt",
+    "file_name": "mtsamples_4637__shiley_tracheostomy_tube_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 968,
+    "processed_at": "2026-05-09T09:54:42.552286"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4637__shiley_tracheostomy_tube_insertion_.txt",
+    "text": "OPERATION: , Insertion of a #8 Shiley tracheostomy tube.,ANESTHESIA: , General endotracheal anesthesia.,OPERATIVE PROCEDURE IN DETAIL: , After obtaining informed consent from the patient's family, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and general endotracheal anesthesia was administered.,Next, a #10-blade scalpel was used to make an incision approximately 1 fingerbreadth above the sternal notch.  Dissection was carried down using Bovie electrocautery to the level of the trachea.  The 2nd tracheal ring was identified.  Next, a #11-blade scalpel was used to make a trap door in the trachea.  The endotracheal tube was backed out.  A #8 Shiley tracheostomy tube was inserted, and tidal CO2 was confirmed when it was connected to the circuit.  We then secured it in place using 0 silk suture.  A sterile dressing was applied.  The patient tolerated the procedure well.",
+    "char_count": 968,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "OPERATION: , Insertion of a #8 Shiley tracheostomy tube.,ANESTHESIA: , General endotracheal anesthesia.,OPERATIVE PROCEDURE IN DETAIL: , After obtaining informed consent from the patient's family, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and general endotracheal anesthesia was administered.,Next, a #10-blade scalpel was used to make an incision approximately 1 fingerbreadth above the sternal notch. Dissection was carried down using Bovie electrocautery to the level of the trachea. The 2nd tracheal ring was identified. Next, a #11-blade scalpel was used to make a trap door in the trachea. The endotracheal tube was backed out. A #8 Shiley tracheostomy tube was inserted, and tidal CO2 was confirmed when it was connected to the circuit. We then secured it in place using 0 silk suture. A sterile dressing was applied. The patient tolerated the procedure well.",
+    "sentences": [
+      "OPERATION: , Insertion of a #8 Shiley tracheostomy tube.,ANESTHESIA: , General endotracheal anesthesia.,OPERATIVE PROCEDURE IN DETAIL: , After obtaining informed consent from the patient's family, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and general endotracheal anesthesia was administered.,Next, a #10-blade scalpel was used to make an incision approximately 1 fingerbreadth above the sternal notch.",
+      "Dissection was carried down using Bovie electrocautery to the level of the trachea.",
+      "The 2nd tracheal ring was identified.",
+      "Next, a #11-blade scalpel was used to make a trap door in the trachea.",
+      "The endotracheal tube was backed out.",
+      "A #8 Shiley tracheostomy tube was inserted, and tidal CO2 was confirmed when it was connected to the circuit.",
+      "We then secured it in place using 0 silk suture.",
+      "A sterile dressing was applied.",
+      "The patient tolerated the procedure well."
+    ],
+    "sentence_count": 9,
+    "original_length": 968,
+    "cleaned_length": 960,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "OPERATION: , Insertion of a #8 Shiley tracheostomy tube.,ANESTHESIA: , General endotracheal anesthesia.,OPERATIVE PROCEDURE IN DETAIL: , After obtaining informed consent from the patient's family, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and general endotracheal anesthesia was administered.,Next, a #10-blade scalpel was used to make an incision approximately 1 fingerbreadth above the sternal notch.  Dissection was carried down using Bovie electrocautery to the level of the trachea.  The 2nd tracheal ring was identified.  Next, a #11-blade scalpel was used to make a trap door in the trachea.  The endotracheal tube was backed out.  A #8 Shiley tracheostomy tube was inserted, and tidal CO2 was confirmed when it was connected to the circuit.  We then secured it in place using 0 silk suture.  A sterile dressing was applied.  The patient tolerated the procedure well.",
+    "cleaned_text": "OPERATION: , Insertion of a #8 Shiley tracheostomy tube.,ANESTHESIA: , General endotracheal anesthesia.,OPERATIVE PROCEDURE IN DETAIL: , After obtaining informed consent from the patient's family, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and general endotracheal anesthesia was administered.,Next, a #10-blade scalpel was used to make an incision approximately 1 fingerbreadth above the sternal notch. Dissection was carried down using Bovie electrocautery to the level of the trachea. The 2nd tracheal ring was identified. Next, a #11-blade scalpel was used to make a trap door in the trachea. The endotracheal tube was backed out. A #8 Shiley tracheostomy tube was inserted, and tidal CO2 was confirmed when it was connected to the circuit. We then secured it in place using 0 silk suture. A sterile dressing was applied. The patient tolerated the procedure well.",
+    "sentences": [
+      "OPERATION: , Insertion of a #8 Shiley tracheostomy tube.,ANESTHESIA: , General endotracheal anesthesia.,OPERATIVE PROCEDURE IN DETAIL: , After obtaining informed consent from the patient's family, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and general endotracheal anesthesia was administered.,Next, a #10-blade scalpel was used to make an incision approximately 1 fingerbreadth above the sternal notch.",
+      "Dissection was carried down using Bovie electrocautery to the level of the trachea.",
+      "The 2nd tracheal ring was identified.",
+      "Next, a #11-blade scalpel was used to make a trap door in the trachea.",
+      "The endotracheal tube was backed out.",
+      "A #8 Shiley tracheostomy tube was inserted, and tidal CO2 was confirmed when it was connected to the circuit.",
+      "We then secured it in place using 0 silk suture.",
+      "A sterile dressing was applied.",
+      "The patient tolerated the procedure well."
+    ],
+    "sentence_count": 9
+  }
+}

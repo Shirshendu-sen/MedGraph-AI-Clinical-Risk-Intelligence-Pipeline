@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3966__scalp_mole_skin_biopsy_.txt",
+    "file_name": "mtsamples_3966__scalp_mole_skin_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 727,
+    "processed_at": "2026-05-09T09:54:30.611742"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3966__scalp_mole_skin_biopsy_.txt",
+    "text": "PROCEDURE: , Skin biopsy, scalp mole.,INDICATION:  ,A 66-year-old female with pulmonary pneumonia, effusion, rule out metastatic melanoma to lung.,PROCEDURE NOTE: , The patient's scalp hair was removed with:,1.  K-Y jelly.,2.  Betadine prep locally.,3.  A 1% lidocaine with epinephrine local instilled.,4.  A 3 mm punch biopsy used to obtain biopsy specimen, which was sent to the lab.  To control bleeding, two 4-0 P3 nylon sutures were applied, antibiotic ointment on the wound.  Hemostasis was controlled.  The patient tolerated the procedure.,IMPRESSION:,  Darkened mole status post punch biopsy, scalp lesion, rule out malignant melanoma with pulmonary metastasis.,PLAN: , The patient will have sutures removed in 10 days.",
+    "char_count": 727,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE: , Skin biopsy, scalp mole.,INDICATION: ,A 66-year-old female with pulmonary pneumonia, effusion, rule out metastatic melanoma to lung.,PROCEDURE NOTE: , The patient's scalp hair was removed with:,1. K-Y jelly.,2. Betadine prep locally.,3. A 1% lidocaine with epinephrine local instilled.,4. A 3 mm punch biopsy used to obtain biopsy specimen, which was sent to the lab. To control bleeding, two 4-0 P3 nylon sutures were applied, antibiotic ointment on the wound. Hemostasis was controlled. The patient tolerated the procedure.,IMPRESSION:, Darkened mole status post punch biopsy, scalp lesion, rule out malignant melanoma with pulmonary metastasis.,PLAN: , The patient will have sutures removed in 10 days.",
+    "sentences": [
+      "PROCEDURE: , Skin biopsy, scalp mole.,INDICATION: ,A 66-year-old female with pulmonary pneumonia, effusion, rule out metastatic melanoma to lung.,PROCEDURE NOTE: , The patient's scalp hair was removed with:,1.",
+      "K-Y jelly.,2.",
+      "Betadine prep locally.,3.",
+      "A 1% lidocaine with epinephrine local instilled.,4.",
+      "A 3 mm punch biopsy used to obtain biopsy specimen, which was sent to the lab.",
+      "To control bleeding, two 4-0 P3 nylon sutures were applied, antibiotic ointment on the wound.",
+      "Hemostasis was controlled.",
+      "The patient tolerated the procedure.,IMPRESSION:, Darkened mole status post punch biopsy, scalp lesion, rule out malignant melanoma with pulmonary metastasis.,PLAN: , The patient will have sutures removed in 10 days."
+    ],
+    "sentence_count": 8,
+    "original_length": 727,
+    "cleaned_length": 718,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE: , Skin biopsy, scalp mole.,INDICATION:  ,A 66-year-old female with pulmonary pneumonia, effusion, rule out metastatic melanoma to lung.,PROCEDURE NOTE: , The patient's scalp hair was removed with:,1.  K-Y jelly.,2.  Betadine prep locally.,3.  A 1% lidocaine with epinephrine local instilled.,4.  A 3 mm punch biopsy used to obtain biopsy specimen, which was sent to the lab.  To control bleeding, two 4-0 P3 nylon sutures were applied, antibiotic ointment on the wound.  Hemostasis was controlled.  The patient tolerated the procedure.,IMPRESSION:,  Darkened mole status post punch biopsy, scalp lesion, rule out malignant melanoma with pulmonary metastasis.,PLAN: , The patient will have sutures removed in 10 days.",
+    "cleaned_text": "PROCEDURE: , Skin biopsy, scalp mole.,INDICATION: ,A 66-year-old female with pulmonary pneumonia, effusion, rule out metastatic melanoma to lung.,PROCEDURE NOTE: , The patient's scalp hair was removed with:,1. K-Y jelly.,2. Betadine prep locally.,3. A 1% lidocaine with epinephrine local instilled.,4. A 3 mm punch biopsy used to obtain biopsy specimen, which was sent to the lab. To control bleeding, two 4-0 P3 nylon sutures were applied, antibiotic ointment on the wound. Hemostasis was controlled. The patient tolerated the procedure.,IMPRESSION:, Darkened mole status post punch biopsy, scalp lesion, rule out malignant melanoma with pulmonary metastasis.,PLAN: , The patient will have sutures removed in 10 days.",
+    "sentences": [
+      "PROCEDURE: , Skin biopsy, scalp mole.,INDICATION: ,A 66-year-old female with pulmonary pneumonia, effusion, rule out metastatic melanoma to lung.,PROCEDURE NOTE: , The patient's scalp hair was removed with:,1.",
+      "K-Y jelly.,2.",
+      "Betadine prep locally.,3.",
+      "A 1% lidocaine with epinephrine local instilled.,4.",
+      "A 3 mm punch biopsy used to obtain biopsy specimen, which was sent to the lab.",
+      "To control bleeding, two 4-0 P3 nylon sutures were applied, antibiotic ointment on the wound.",
+      "Hemostasis was controlled.",
+      "The patient tolerated the procedure.,IMPRESSION:, Darkened mole status post punch biopsy, scalp lesion, rule out malignant melanoma with pulmonary metastasis.,PLAN: , The patient will have sutures removed in 10 days."
+    ],
+    "sentence_count": 8
+  }
+}

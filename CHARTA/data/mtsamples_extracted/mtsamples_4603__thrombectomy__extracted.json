@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4603__thrombectomy_.txt",
+    "file_name": "mtsamples_4603__thrombectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3557,
+    "processed_at": "2026-05-09T09:54:42.023660"
+  },
+  "entities": [
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 36,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 36,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "potassium",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 9,
+      "concept_id": "C0032821",
+      "concept_name": "potassium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9840192198753357,
+      "timestamp": null
+    },
+    {
+      "text": "potassium",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 57,
+      "sentence_idx": 11,
+      "concept_id": "C0032821",
+      "concept_name": "potassium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9840192198753357,
+      "timestamp": null
+    },
+    {
+      "text": "potassium",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 38,
+      "sentence_idx": 12,
+      "concept_id": "C0032821",
+      "concept_name": "potassium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9840192198753357,
+      "timestamp": null
+    },
+    {
+      "text": "thrombus",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thrombus",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 103,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 159,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 36,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "venous back bleeding",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 35,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "venous back bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

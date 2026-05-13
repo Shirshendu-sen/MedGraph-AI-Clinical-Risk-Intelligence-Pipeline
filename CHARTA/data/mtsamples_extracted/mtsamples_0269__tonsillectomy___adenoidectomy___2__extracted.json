@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0269__tonsillectomy___adenoidectomy___2_.txt",
+    "file_name": "mtsamples_0269__tonsillectomy___adenoidectomy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1045,
+    "processed_at": "2026-05-09T09:53:10.934324"
+  },
+  "entities": [
+    {
+      "text": "tonsillitis",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 45,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tonsillitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tonsillitis",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 141,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tonsillitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 108,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adrenaline",
+      "label": "CHEMICAL",
+      "start_char": 61,
+      "end_char": 71,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adrenaline",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

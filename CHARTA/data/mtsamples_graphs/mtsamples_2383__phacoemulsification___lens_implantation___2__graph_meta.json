@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_2383__phacoemulsification___lens_implantation___2_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "C0701403": 0,
+    "C0039086": 1,
+    "C0023660": 2,
+    "UNKNOWN": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2383__phacoemulsification___lens_implantation___2__graph.pt",
+  "source_dataset": "mtsamples_2383__phacoemulsification___lens_implantation___2"
+}

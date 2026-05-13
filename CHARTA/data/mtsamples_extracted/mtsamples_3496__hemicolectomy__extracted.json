@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3496__hemicolectomy_.txt",
+    "file_name": "mtsamples_3496__hemicolectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4049,
+    "processed_at": "2026-05-09T09:54:22.698219"
+  },
+  "entities": [
+    {
+      "text": "Right colon tumor.,POSTOPERATIVE DIAGNOSES:,1",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 71,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right colon tumor.,POSTOPERATIVE DIAGNOSES:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 115,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NG",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 18,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "colon cancer",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 40,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colon cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NG",
+      "label": "CHEMICAL",
+      "start_char": 245,
+      "end_char": 247,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstructive symptoms",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 36,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive symptoms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ascites",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 59,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ascites",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "colic",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 104,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 109,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NG",
+      "label": "CHEMICAL",
+      "start_char": 435,
+      "end_char": 437,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

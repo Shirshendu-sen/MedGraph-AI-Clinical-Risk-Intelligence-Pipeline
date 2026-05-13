@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0864__egd_with_photos___biopsies__",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 17,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0286036": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0864__egd_with_photos___biopsies___graph.pt",
+  "source_dataset": "mtsamples_0864__egd_with_photos___biopsies_"
+}

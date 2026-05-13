@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2020__tenosynovectomy___cortisone_injection_.txt",
+    "file_name": "mtsamples_2020__tenosynovectomy___cortisone_injection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3608,
+    "processed_at": "2026-05-09T09:53:54.618561"
+  },
+  "entities": [
+    {
+      "text": "Tenosynovitis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tenosynovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tenosynovitis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tenosynovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cortisone",
+      "label": "CHEMICAL",
+      "start_char": 101,
+      "end_char": 110,
+      "sentence_idx": 6,
+      "concept_id": "C0010137",
+      "concept_name": "cortisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9763526916503906,
+      "timestamp": null
+    },
+    {
+      "text": "Dupuytren's nodule, left palm.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 185,
+      "end_char": 226,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dupuytren's nodule, left palm.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 123,
+      "end_char": 132,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 142,
+      "end_char": 150,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 81,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 58,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

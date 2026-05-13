@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2680__laminectomy___facetectomy_.txt",
+    "file_name": "mtsamples_2680__laminectomy___facetectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5656,
+    "processed_at": "2026-05-09T09:54:05.965363"
+  },
+  "entities": [
+    {
+      "text": "Dural tear",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 35,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dural tear",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "S1.,6",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 36,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "S1.,6",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 46,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 105,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nausea, vomiting",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 127,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea, vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "migraines",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 160,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "migraines",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fullness",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 15,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fullness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "listhesis",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 118,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "listhesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "titanium",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 38,
+      "concept_id": "C0040302",
+      "concept_name": "titanium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9754260182380676,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 46,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin ointment",
+      "label": "CHEMICAL",
+      "start_char": 34,
+      "end_char": 53,
+      "sentence_idx": 54,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.7576655149459839,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

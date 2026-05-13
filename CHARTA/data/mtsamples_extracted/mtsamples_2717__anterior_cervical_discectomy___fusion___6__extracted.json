@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2717__anterior_cervical_discectomy___fusion___6_.txt",
+    "file_name": "mtsamples_2717__anterior_cervical_discectomy___fusion___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2599,
+    "processed_at": "2026-05-09T09:54:06.436599"
+  },
+  "entities": [
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 52,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 106,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

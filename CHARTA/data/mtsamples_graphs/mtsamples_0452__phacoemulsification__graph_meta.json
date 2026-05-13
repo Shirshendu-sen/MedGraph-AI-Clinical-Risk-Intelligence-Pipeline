@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_0452__phacoemulsification_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 56,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0031469": 1,
+    "C0701403": 2,
+    "C0010563": 3,
+    "C0722226": 4,
+    "C0592931": 5,
+    "C0023660": 6,
+    "C0008161": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0452__phacoemulsification__graph.pt",
+  "source_dataset": "mtsamples_0452__phacoemulsification"
+}

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0483__orif___cervical_fusion_.txt",
+    "file_name": "mtsamples_0483__orif___cervical_fusion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5394,
+    "processed_at": "2026-05-09T09:53:17.209144"
+  },
+  "entities": [
+    {
+      "text": "Fracture dislocation",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fracture dislocation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fracture dislocation",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 98,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fracture dislocation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "comminuted",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 57,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "comminuted",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "displaced C2 comminuted fracture",
+      "label": "DISEASE",
+      "start_char": 409,
+      "end_char": 441,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "displaced C2 comminuted fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "titanium",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 31,
+      "concept_id": "C0040302",
+      "concept_name": "titanium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9754260182380676,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 74,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 192,
+      "end_char": 200,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 64,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bacitracin ointment",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 62,
+      "sentence_idx": 43,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.7576655149459839,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 23,
+      "sentence_idx": 46,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

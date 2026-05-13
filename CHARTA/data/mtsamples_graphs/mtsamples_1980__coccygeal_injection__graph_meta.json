@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1980__coccygeal_injection_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "C0030346": 0,
+    "C0010137": 1,
+    "UNKNOWN": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1980__coccygeal_injection__graph.pt",
+  "source_dataset": "mtsamples_1980__coccygeal_injection"
+}

@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2368__premature_retina_and_vitreous_.txt",
+    "file_name": "mtsamples_2368__premature_retina_and_vitreous_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 729,
+    "processed_at": "2026-05-09T09:54:00.797820"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2368__premature_retina_and_vitreous_.txt",
+    "text": "OCULAR FINDINGS: , Anterior chamber space:  Cornea, iris, lens, and pupils all unremarkable on gross examination in each eye.,Ocular adnexal spaces appear very good in each eye.,Cyclomydril x2 was used to dilate the pupil in each eye.,Medial spaces are clear and the periphery is still hazy in each eye.,Ocular disc space, normal size and shape with a pink color with clear margin in each eye.,Macular spaces are normal in appearance for the age in each eye.,Posterior pole.  No dilated blood vessels seen in each eye.,Periphery:  The peripheral retina is still hazy and retinopathy of prematurity cannot be ruled out at this time in each eye.,IMPRESSION:  ,Premature retina and vitreous, each eye.,PLAN:  ,Recheck in two weeks.,",
+    "char_count": 729,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "OCULAR FINDINGS: , Anterior chamber space: Cornea, iris, lens, and pupils all unremarkable on gross examination in each eye.,Ocular adnexal spaces appear very good in each eye.,Cyclomydril x2 was used to dilate the pupil in each eye.,Medial spaces are clear and the periphery is still hazy in each eye.,Ocular disc space, normal size and shape with a pink color with clear margin in each eye.,Macular spaces are normal in appearance for the age in each eye.,Posterior pole. No dilated blood vessels seen in each eye.,Periphery: The peripheral retina is still hazy and retinopathy of prematurity cannot be ruled out at this time in each eye.,IMPRESSION: ,Premature retina and vitreous, each eye.,PLAN: ,Recheck in two weeks.,",
+    "sentences": [
+      "OCULAR FINDINGS: , Anterior chamber space: Cornea, iris, lens, and pupils all unremarkable on gross examination in each eye.,Ocular adnexal spaces appear very good in each eye.,Cyclomydril x2 was used to dilate the pupil in each eye.,Medial spaces are clear and the periphery is still hazy in each eye.,Ocular disc space, normal size and shape with a pink color with clear margin in each eye.,Macular spaces are normal in appearance for the age in each eye.,Posterior pole.",
+      "No dilated blood vessels seen in each eye.,Periphery: The peripheral retina is still hazy and retinopathy of prematurity cannot be ruled out at this time in each eye.,IMPRESSION: ,Premature retina and vitreous, each eye.,PLAN: ,Recheck in two weeks.,"
+    ],
+    "sentence_count": 2,
+    "original_length": 729,
+    "cleaned_length": 724,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "OCULAR FINDINGS: , Anterior chamber space:  Cornea, iris, lens, and pupils all unremarkable on gross examination in each eye.,Ocular adnexal spaces appear very good in each eye.,Cyclomydril x2 was used to dilate the pupil in each eye.,Medial spaces are clear and the periphery is still hazy in each eye.,Ocular disc space, normal size and shape with a pink color with clear margin in each eye.,Macular spaces are normal in appearance for the age in each eye.,Posterior pole.  No dilated blood vessels seen in each eye.,Periphery:  The peripheral retina is still hazy and retinopathy of prematurity cannot be ruled out at this time in each eye.,IMPRESSION:  ,Premature retina and vitreous, each eye.,PLAN:  ,Recheck in two weeks.,",
+    "cleaned_text": "OCULAR FINDINGS: , Anterior chamber space: Cornea, iris, lens, and pupils all unremarkable on gross examination in each eye.,Ocular adnexal spaces appear very good in each eye.,Cyclomydril x2 was used to dilate the pupil in each eye.,Medial spaces are clear and the periphery is still hazy in each eye.,Ocular disc space, normal size and shape with a pink color with clear margin in each eye.,Macular spaces are normal in appearance for the age in each eye.,Posterior pole. No dilated blood vessels seen in each eye.,Periphery: The peripheral retina is still hazy and retinopathy of prematurity cannot be ruled out at this time in each eye.,IMPRESSION: ,Premature retina and vitreous, each eye.,PLAN: ,Recheck in two weeks.,",
+    "sentences": [
+      "OCULAR FINDINGS: , Anterior chamber space: Cornea, iris, lens, and pupils all unremarkable on gross examination in each eye.,Ocular adnexal spaces appear very good in each eye.,Cyclomydril x2 was used to dilate the pupil in each eye.,Medial spaces are clear and the periphery is still hazy in each eye.,Ocular disc space, normal size and shape with a pink color with clear margin in each eye.,Macular spaces are normal in appearance for the age in each eye.,Posterior pole.",
+      "No dilated blood vessels seen in each eye.,Periphery: The peripheral retina is still hazy and retinopathy of prematurity cannot be ruled out at this time in each eye.,IMPRESSION: ,Premature retina and vitreous, each eye.,PLAN: ,Recheck in two weeks.,"
+    ],
+    "sentence_count": 2
+  }
+}

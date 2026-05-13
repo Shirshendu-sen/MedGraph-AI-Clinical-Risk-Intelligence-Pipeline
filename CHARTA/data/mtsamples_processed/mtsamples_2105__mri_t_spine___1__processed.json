@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2105__mri_t_spine___1_.txt",
+    "file_name": "mtsamples_2105__mri_t_spine___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 678,
+    "processed_at": "2026-05-09T09:53:56.585645"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2105__mri_t_spine___1_.txt",
+    "text": "EXAM:  ,Thoracic Spine.,REASON FOR EXAM: , Injury.,INTERPRETATION: , The thoracic spine was examined in the AP, lateral and swimmer's projections.  There is mild chronic-appearing anterior wedging of what is believed to represent T11 and 12 vertebral bodies.  A mild amount of anterior osteophytic lipping is seen involving the thoracic spine.  There is a suggestion of generalized osteoporosis.  The intervertebral disc spaces appear generally well preserved.,The pedicles appear intact.,IMPRESSION:,1. Mild chronic-appearing anterior wedging of what is believed to represent the T11 and 12 vertebral bodies.,2. Mild degenerative changes of the thoracic spine.,3. Osteoporosis.",
+    "char_count": 678,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: ,Thoracic Spine.,REASON FOR EXAM: , Injury.,INTERPRETATION: , The thoracic spine was examined in the AP, lateral and swimmer's projections. There is mild chronic-appearing anterior wedging of what is believed to represent T11 and 12 vertebral bodies. A mild amount of anterior osteophytic lipping is seen involving the thoracic spine. There is a suggestion of generalized osteoporosis. The intervertebral disc spaces appear generally well preserved.,The pedicles appear intact.,IMPRESSION:,1. Mild chronic-appearing anterior wedging of what is believed to represent the T11 and 12 vertebral bodies.,2. Mild degenerative changes of the thoracic spine.,3. Osteoporosis.",
+    "sentences": [
+      "EXAM: ,Thoracic Spine.,REASON FOR EXAM: , Injury.,INTERPRETATION: , The thoracic spine was examined in the AP, lateral and swimmer's projections.",
+      "There is mild chronic-appearing anterior wedging of what is believed to represent T11 and 12 vertebral bodies.",
+      "A mild amount of anterior osteophytic lipping is seen involving the thoracic spine.",
+      "There is a suggestion of generalized osteoporosis.",
+      "The intervertebral disc spaces appear generally well preserved.,The pedicles appear intact.,IMPRESSION:,1.",
+      "Mild chronic-appearing anterior wedging of what is believed to represent the T11 and 12 vertebral bodies.,2.",
+      "Mild degenerative changes of the thoracic spine.,3.",
+      "Osteoporosis."
+    ],
+    "sentence_count": 8,
+    "original_length": 678,
+    "cleaned_length": 673,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM:  ,Thoracic Spine.,REASON FOR EXAM: , Injury.,INTERPRETATION: , The thoracic spine was examined in the AP, lateral and swimmer's projections.  There is mild chronic-appearing anterior wedging of what is believed to represent T11 and 12 vertebral bodies.  A mild amount of anterior osteophytic lipping is seen involving the thoracic spine.  There is a suggestion of generalized osteoporosis.  The intervertebral disc spaces appear generally well preserved.,The pedicles appear intact.,IMPRESSION:,1. Mild chronic-appearing anterior wedging of what is believed to represent the T11 and 12 vertebral bodies.,2. Mild degenerative changes of the thoracic spine.,3. Osteoporosis.",
+    "cleaned_text": "EXAM: ,Thoracic Spine.,REASON FOR EXAM: , Injury.,INTERPRETATION: , The thoracic spine was examined in the AP, lateral and swimmer's projections. There is mild chronic-appearing anterior wedging of what is believed to represent T11 and 12 vertebral bodies. A mild amount of anterior osteophytic lipping is seen involving the thoracic spine. There is a suggestion of generalized osteoporosis. The intervertebral disc spaces appear generally well preserved.,The pedicles appear intact.,IMPRESSION:,1. Mild chronic-appearing anterior wedging of what is believed to represent the T11 and 12 vertebral bodies.,2. Mild degenerative changes of the thoracic spine.,3. Osteoporosis.",
+    "sentences": [
+      "EXAM: ,Thoracic Spine.,REASON FOR EXAM: , Injury.,INTERPRETATION: , The thoracic spine was examined in the AP, lateral and swimmer's projections.",
+      "There is mild chronic-appearing anterior wedging of what is believed to represent T11 and 12 vertebral bodies.",
+      "A mild amount of anterior osteophytic lipping is seen involving the thoracic spine.",
+      "There is a suggestion of generalized osteoporosis.",
+      "The intervertebral disc spaces appear generally well preserved.,The pedicles appear intact.,IMPRESSION:,1.",
+      "Mild chronic-appearing anterior wedging of what is believed to represent the T11 and 12 vertebral bodies.,2.",
+      "Mild degenerative changes of the thoracic spine.,3.",
+      "Osteoporosis."
+    ],
+    "sentence_count": 8
+  }
+}

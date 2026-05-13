@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2215__finger_triggering_and_locking_.txt",
+    "file_name": "mtsamples_2215__finger_triggering_and_locking_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2044,
+    "processed_at": "2026-05-09T09:53:58.496353"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 215,
+      "end_char": 219,
+      "sentence_idx": 3,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 338,
+      "end_char": 348,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tendinitis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tendinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "synovitis",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 19,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "synovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

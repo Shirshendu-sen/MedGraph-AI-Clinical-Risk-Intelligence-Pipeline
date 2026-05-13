@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0817__esophagoscopy___foreign_body_removal_.txt",
+    "file_name": "mtsamples_0817__esophagoscopy___foreign_body_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2794,
+    "processed_at": "2026-05-09T09:53:26.604563"
+  },
+  "entities": [
+    {
+      "text": "biliary atresia",
+      "label": "DISEASE",
+      "start_char": 249,
+      "end_char": 264,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "biliary atresia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cholestatic jaundice",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 48,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cholestatic jaundice",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 31,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "propofol",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 11,
+      "concept_id": "C0033487",
+      "concept_name": "propofol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9385934472084045,
+      "timestamp": null
+    },
+    {
+      "text": "hyperextension",
+      "label": "DISEASE",
+      "start_char": 154,
+      "end_char": 168,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperextension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

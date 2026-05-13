@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3276__gen_med_soap___11_.txt",
+    "file_name": "mtsamples_3276__gen_med_soap___11_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1229,
+    "processed_at": "2026-05-09T09:54:17.524437"
+  },
+  "entities": [
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 68,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 43,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "strep",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 27,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "strep",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "penicillin",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 31,
+      "sentence_idx": 4,
+      "concept_id": "C0030827",
+      "concept_name": "penicillin G",
+      "kb_source": "rxnorm",
+      "link_score": 0.8628798127174377,
+      "timestamp": null
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 43,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "seizure",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 66,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 33,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Chest",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "glucose",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 11,
+      "sentence_idx": 14,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": null
+    },
+    {
+      "text": "febrile",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 85,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "febrile",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

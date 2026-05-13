@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1286__soap___shortness_of_breath_.txt",
+    "file_name": "mtsamples_1286__soap___shortness_of_breath_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1165,
+    "processed_at": "2026-05-09T09:53:38.532096"
+  },
+  "entities": [
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 61,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial fibrillation",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 43,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial fibrillation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aortic stenosis",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 67,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Status shortness of breath",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 26,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Status shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Atrial fibrillation",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 19,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Atrial fibrillation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aortic stenosis",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 80,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1959__knee_injection___1_.txt",
+    "file_name": "mtsamples_1959__knee_injection___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1006,
+    "processed_at": "2026-05-09T09:53:53.781495"
+  },
+  "entities": [
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 37,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dexamethasone",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 23,
+      "sentence_idx": 2,
+      "concept_id": "C0011777",
+      "concept_name": "dexamethasone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9694039821624756,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 75,
+      "end_char": 84,
+      "sentence_idx": 2,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 26,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 74,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 84,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "redness",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 96,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "redness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 137,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3355__female_ros_.txt",
+    "file_name": "mtsamples_3355__female_ros_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1027,
+    "processed_at": "2026-05-09T09:54:20.354341"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3355__female_ros_.txt",
+    "text": "FEMALE REVIEW OF SYSTEMS:,Constitutional:  Patient denies fevers, chills, sweats and weight changes.,Eyes:  Patient denies any visual symptoms.,Ears, Nose, and Throat:  No difficulties with hearing.  No symptoms of rhinitis or sore throat.,Cardiovascular:  Patient denies chest pains, palpitations, orthopnea and paroxysmal nocturnal dyspnea.,Respiratory:  No dyspnea on exertion, no wheezing or cough.,GI:  No nausea, vomiting, diarrhea, constipation, abdominal pain, hematochezia or melena.,GU:  No dysuria, frequency or incontinence.  No difficulties with vaginal discharge.,Musculoskeletal:  No myalgias or arthralgias.,Breasts:  Patient performs self-breast examinations and has noticed no abnormalities or nipple discharge.,Neurologic:  No chronic headaches, no seizures.  Patient denies numbness, tingling or weakness.,Psychiatric:  Patient denies problems with mood disturbance.  No problems with anxiety.,Endocrine:  No excessive urination or excessive thirst.,Dermatologic:  Patient denies any rashes or skin changes.",
+    "char_count": 1027,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "FEMALE REVIEW OF SYSTEMS:,Constitutional: Patient denies fevers, chills, sweats and weight changes.,Eyes: Patient denies any visual symptoms.,Ears, Nose, and Throat: No difficulties with hearing. No symptoms of rhinitis or sore throat.,Cardiovascular: Patient denies chest pains, palpitations, orthopnea and paroxysmal nocturnal dyspnea.,Respiratory: No dyspnea on exertion, no wheezing or cough.,GI: No nausea, vomiting, diarrhea, constipation, abdominal pain, hematochezia or melena.,GU: No dysuria, frequency or incontinence. No difficulties with vaginal discharge.,Musculoskeletal: No myalgias or arthralgias.,Breasts: Patient performs self-breast examinations and has noticed no abnormalities or nipple discharge.,Neurologic: No chronic headaches, no seizures. Patient denies numbness, tingling or weakness.,Psychiatric: Patient denies problems with mood disturbance. No problems with anxiety.,Endocrine: No excessive urination or excessive thirst.,Dermatologic: Patient denies any rashes or skin changes.",
+    "sentences": [
+      "FEMALE REVIEW OF SYSTEMS:,Constitutional: Patient denies fevers, chills, sweats and weight changes.,Eyes: Patient denies any visual symptoms.,Ears, Nose, and Throat: No difficulties with hearing.",
+      "No symptoms of rhinitis or sore throat.,Cardiovascular: Patient denies chest pains, palpitations, orthopnea and paroxysmal nocturnal dyspnea.,Respiratory: No dyspnea on exertion, no wheezing or cough.,GI: No nausea, vomiting, diarrhea, constipation, abdominal pain, hematochezia or melena.,GU: No dysuria, frequency or incontinence.",
+      "No difficulties with vaginal discharge.,Musculoskeletal: No myalgias or arthralgias.,Breasts: Patient performs self-breast examinations and has noticed no abnormalities or nipple discharge.,Neurologic: No chronic headaches, no seizures.",
+      "Patient denies numbness, tingling or weakness.,Psychiatric: Patient denies problems with mood disturbance.",
+      "No problems with anxiety.,Endocrine: No excessive urination or excessive thirst.,Dermatologic: Patient denies any rashes or skin changes."
+    ],
+    "sentence_count": 5,
+    "original_length": 1027,
+    "cleaned_length": 1010,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "FEMALE REVIEW OF SYSTEMS:,Constitutional:  Patient denies fevers, chills, sweats and weight changes.,Eyes:  Patient denies any visual symptoms.,Ears, Nose, and Throat:  No difficulties with hearing.  No symptoms of rhinitis or sore throat.,Cardiovascular:  Patient denies chest pains, palpitations, orthopnea and paroxysmal nocturnal dyspnea.,Respiratory:  No dyspnea on exertion, no wheezing or cough.,GI:  No nausea, vomiting, diarrhea, constipation, abdominal pain, hematochezia or melena.,GU:  No dysuria, frequency or incontinence.  No difficulties with vaginal discharge.,Musculoskeletal:  No myalgias or arthralgias.,Breasts:  Patient performs self-breast examinations and has noticed no abnormalities or nipple discharge.,Neurologic:  No chronic headaches, no seizures.  Patient denies numbness, tingling or weakness.,Psychiatric:  Patient denies problems with mood disturbance.  No problems with anxiety.,Endocrine:  No excessive urination or excessive thirst.,Dermatologic:  Patient denies any rashes or skin changes.",
+    "cleaned_text": "FEMALE REVIEW OF SYSTEMS:,Constitutional: Patient denies fevers, chills, sweats and weight changes.,Eyes: Patient denies any visual symptoms.,Ears, Nose, and Throat: No difficulties with hearing. No symptoms of rhinitis or sore throat.,Cardiovascular: Patient denies chest pains, palpitations, orthopnea and paroxysmal nocturnal dyspnea.,Respiratory: No dyspnea on exertion, no wheezing or cough.,GI: No nausea, vomiting, diarrhea, constipation, abdominal pain, hematochezia or melena.,GU: No dysuria, frequency or incontinence. No difficulties with vaginal discharge.,Musculoskeletal: No myalgias or arthralgias.,Breasts: Patient performs self-breast examinations and has noticed no abnormalities or nipple discharge.,Neurologic: No chronic headaches, no seizures. Patient denies numbness, tingling or weakness.,Psychiatric: Patient denies problems with mood disturbance. No problems with anxiety.,Endocrine: No excessive urination or excessive thirst.,Dermatologic: Patient denies any rashes or skin changes.",
+    "sentences": [
+      "FEMALE REVIEW OF SYSTEMS:,Constitutional: Patient denies fevers, chills, sweats and weight changes.,Eyes: Patient denies any visual symptoms.,Ears, Nose, and Throat: No difficulties with hearing.",
+      "No symptoms of rhinitis or sore throat.,Cardiovascular: Patient denies chest pains, palpitations, orthopnea and paroxysmal nocturnal dyspnea.,Respiratory: No dyspnea on exertion, no wheezing or cough.,GI: No nausea, vomiting, diarrhea, constipation, abdominal pain, hematochezia or melena.,GU: No dysuria, frequency or incontinence.",
+      "No difficulties with vaginal discharge.,Musculoskeletal: No myalgias or arthralgias.,Breasts: Patient performs self-breast examinations and has noticed no abnormalities or nipple discharge.,Neurologic: No chronic headaches, no seizures.",
+      "Patient denies numbness, tingling or weakness.,Psychiatric: Patient denies problems with mood disturbance.",
+      "No problems with anxiety.,Endocrine: No excessive urination or excessive thirst.,Dermatologic: Patient denies any rashes or skin changes."
+    ],
+    "sentence_count": 5
+  }
+}

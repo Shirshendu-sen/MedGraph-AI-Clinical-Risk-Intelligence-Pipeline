@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3637__cholecystectomy_laparoscopic_.txt",
+    "file_name": "mtsamples_3637__cholecystectomy_laparoscopic_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 6000,
+    "processed_at": "2026-05-09T09:54:25.363929"
+  },
+  "entities": [
+    {
+      "text": "Gallstone",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 34,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Gallstone",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "Gallstone",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 85,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Gallstone",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "nodularity",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 81,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nodularity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 214,
+      "end_char": 228,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "anorexia",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 58,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anorexia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 110,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "pancreatitis",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 31,
+      "sentence_idx": 11,
+      "concept_id": "C0030304",
+      "concept_name": "Pancreatin",
+      "kb_source": "mesh",
+      "link_score": 0.7637388706207275,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "gallstones",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 55,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gallstones",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "cholelithiasis",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 108,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cholelithiasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "gallstones",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 107,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gallstones",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "choledocholithiasis",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 140,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "choledocholithiasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 60,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 110,
+      "end_char": 117,
+      "sentence_idx": 17,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "carbon-dioxide",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 63,
+      "sentence_idx": 22,
+      "concept_id": "C0007012",
+      "concept_name": "carbon dioxide",
+      "kb_source": "rxnorm",
+      "link_score": 0.8179547786712646,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "gallstones",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 32,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gallstones",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 180,
+      "end_char": 188,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 61,
+      "end_char": 69,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-20"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/20/2003",
+      "start_char": 1107,
+      "end_char": 1117
+    }
+  ]
+}

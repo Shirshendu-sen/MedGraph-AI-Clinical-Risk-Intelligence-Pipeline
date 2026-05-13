@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1185__ash_split_venous_port_.txt",
+    "file_name": "mtsamples_1185__ash_split_venous_port_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2175,
+    "processed_at": "2026-05-09T09:53:36.280862"
+  },
+  "entities": [
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothorax",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 74,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

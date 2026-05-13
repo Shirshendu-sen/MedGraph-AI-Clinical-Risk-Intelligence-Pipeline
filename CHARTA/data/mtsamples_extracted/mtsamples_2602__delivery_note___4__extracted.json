@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2602__delivery_note___4_.txt",
+    "file_name": "mtsamples_2602__delivery_note___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1794,
+    "processed_at": "2026-05-09T09:54:05.067927"
+  },
+  "entities": [
+    {
+      "text": "meconium",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 56,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 5,
+      "end_char": 12,
+      "sentence_idx": 3,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "numb",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 81,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numb",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "meconium",
+      "label": "CHEMICAL",
+      "start_char": 104,
+      "end_char": 112,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "perineum tear",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 56,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perineum tear",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/30/08",
+      "start_char": 83,
+      "end_char": 91
+    }
+  ]
+}

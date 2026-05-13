@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1271__barium_swallow_study___speech_evaluation_.txt",
+    "file_name": "mtsamples_1271__barium_swallow_study___speech_evaluation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4228,
+    "processed_at": "2026-05-09T09:53:38.313073"
+  },
+  "entities": [
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 255,
+      "end_char": 263,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "barium",
+      "label": "CHEMICAL",
+      "start_char": 70,
+      "end_char": 76,
+      "sentence_idx": 2,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9710781574249268,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 9,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 45,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "finger occlusion",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 129,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "finger occlusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 207,
+      "end_char": 215,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "head and neck cancer",
+      "label": "DISEASE",
+      "start_char": 148,
+      "end_char": 168,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head and neck cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 223,
+      "end_char": 231,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "barium",
+      "label": "CHEMICAL",
+      "start_char": 447,
+      "end_char": 453,
+      "sentence_idx": 13,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9710781574249268,
+      "timestamp": null
+    },
+    {
+      "text": "WEEKS):,1",
+      "label": "DISEASE",
+      "start_char": 489,
+      "end_char": 498,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "WEEKS):,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "barium",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 29,
+      "sentence_idx": 14,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9710781574249268,
+      "timestamp": null
+    },
+    {
+      "text": "WEEKS):,1",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 139,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "WEEKS):,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 57,
+      "end_char": 60,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "finger occlusion",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 70,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "finger occlusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

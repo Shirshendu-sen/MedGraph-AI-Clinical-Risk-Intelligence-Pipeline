@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1709__cerebral_angiogram___mra_.txt",
+    "file_name": "mtsamples_1709__cerebral_angiogram___mra_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1673,
+    "processed_at": "2026-05-09T09:53:48.826386"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 141,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "visual obscurations",
+      "label": "DISEASE",
+      "start_char": 157,
+      "end_char": 176,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "visual obscurations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "clumsiness",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 103,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clumsiness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "Quinidine",
+      "label": "CHEMICAL",
+      "start_char": 78,
+      "end_char": 87,
+      "sentence_idx": 2,
+      "concept_id": "C0034414",
+      "concept_name": "quinidine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9633352160453796,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "Lasix",
+      "label": "CHEMICAL",
+      "start_char": 100,
+      "end_char": 105,
+      "sentence_idx": 2,
+      "concept_id": "C0699992",
+      "concept_name": "Lasix",
+      "kb_source": "rxnorm",
+      "link_score": 0.9658849239349365,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "KCL",
+      "label": "CHEMICAL",
+      "start_char": 116,
+      "end_char": 119,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "KCL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "Elavil",
+      "label": "CHEMICAL",
+      "start_char": 121,
+      "end_char": 127,
+      "sentence_idx": 2,
+      "concept_id": "C0087119",
+      "concept_name": "Elavil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9873966574668884,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "Obesity",
+      "label": "DISEASE",
+      "start_char": 148,
+      "end_char": 155,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Obesity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 184,
+      "end_char": 196,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "Hypercholesterolemia",
+      "label": "DISEASE",
+      "start_char": 220,
+      "end_char": 240,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hypercholesterolemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "Briquet's syndrome",
+      "label": "DISEASE",
+      "start_char": 245,
+      "end_char": 263,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Briquet's syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "hysterical paralysis",
+      "label": "DISEASE",
+      "start_char": 272,
+      "end_char": 292,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hysterical paralysis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "left neck lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 334,
+      "end_char": 359,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left neck lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "chlorambucil/prednisone",
+      "label": "CHEMICAL",
+      "start_char": 385,
+      "end_char": 408,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chlorambucil/prednisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "CLL",
+      "label": "DISEASE",
+      "start_char": 470,
+      "end_char": 473,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CLL",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "chlorambucil/prednisone",
+      "label": "CHEMICAL",
+      "start_char": 508,
+      "end_char": 531,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chlorambucil/prednisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "SNHL",
+      "label": "DISEASE",
+      "start_char": 589,
+      "end_char": 593,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SNHL",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-01-10"
+    },
+    {
+      "text": "FHX",
+      "label": "CHEMICAL",
+      "start_char": 594,
+      "end_char": 597,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FHX",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1996-01-10"
+    },
+    {
+      "text": "obesity",
+      "label": "DISEASE",
+      "start_char": 749,
+      "end_char": 756,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obesity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1996-01-10"
+    },
+    {
+      "text": "artery aneurysm",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 70,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "artery aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "artery aneurysm",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 126,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "artery aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "left aneurysm",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 94,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "aneurysm",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 31,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1991-01-07"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "1/7/91",
+      "start_char": 258,
+      "end_char": 264
+    },
+    {
+      "raw_text": "1/10/96",
+      "start_char": 846,
+      "end_char": 853
+    },
+    {
+      "raw_text": "1/8/91",
+      "start_char": 1321,
+      "end_char": 1327
+    },
+    {
+      "raw_text": "1/16/91",
+      "start_char": 1460,
+      "end_char": 1467
+    }
+  ]
+}

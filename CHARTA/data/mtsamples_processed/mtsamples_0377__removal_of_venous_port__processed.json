@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0377__removal_of_venous_port_.txt",
+    "file_name": "mtsamples_0377__removal_of_venous_port_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1202,
+    "processed_at": "2026-05-09T09:53:14.332946"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0377__removal_of_venous_port_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Acute lymphocytic leukemia in remission.,POSTOPERATIVE DIAGNOSIS: , Acute lymphocytic leukemia in remission.,OPERATION PERFORMED:  ,Removal of venous port.,ANESTHESIA: , General.,INDICATIONS: , This 9-year-old young lady presented with ALL in Orange County and had a port placed at that time.  She subsequently has now undergone chemotherapy here and is now off therapy.  She no longer needs her venous port so, comes to the operating room today for its removal.,OPERATIVE PROCEDURE: , After the induction of general anesthetic, the exit site was prepped and draped in usual manner.  The previous incision was opened by excising the old scar.  The port pocket was then opened and the port was removed from the pocket.  There was a resistance to the catheter being removed and so therefore, we began following the catheter along its path opening the tract until finally the catheter seemed to come free and could be pulled out without difficulty.  The port pocket was then closed using a #3-0 Vicryl in subcutaneous tissue, #5-0 subcuticular Monocryl in the skin.  Sterile dressing was applied.  Young lady was awakened and taken to the recovery room in satisfactory condition.",
+    "char_count": 1202,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Acute lymphocytic leukemia in remission.,POSTOPERATIVE DIAGNOSIS: , Acute lymphocytic leukemia in remission.,OPERATION PERFORMED: ,Removal of venous port.,ANESTHESIA: , General.,INDICATIONS: , This 9-year-old young lady presented with ALL in Orange County and had a port placed at that time. She subsequently has now undergone chemotherapy here and is now off therapy. She no longer needs her venous port so, comes to the operating room today for its removal.,OPERATIVE PROCEDURE: , After the induction of general anesthetic, the exit site was prepped and draped in usual manner. The previous incision was opened by excising the old scar. The port pocket was then opened and the port was removed from the pocket. There was a resistance to the catheter being removed and so therefore, we began following the catheter along its path opening the tract until finally the catheter seemed to come free and could be pulled out without difficulty. The port pocket was then closed using a #3-0 Vicryl in subcutaneous tissue, #5-0 subcuticular Monocryl in the skin. Sterile dressing was applied. Young lady was awakened and taken to the recovery room in satisfactory condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Acute lymphocytic leukemia in remission.,POSTOPERATIVE DIAGNOSIS: , Acute lymphocytic leukemia in remission.,OPERATION PERFORMED: ,Removal of venous port.,ANESTHESIA: , General.,INDICATIONS: , This 9-year-old young lady presented with ALL in Orange County and had a port placed at that time.",
+      "She subsequently has now undergone chemotherapy here and is now off therapy.",
+      "She no longer needs her venous port so, comes to the operating room today for its removal.,OPERATIVE PROCEDURE: , After the induction of general anesthetic, the exit site was prepped and draped in usual manner.",
+      "The previous incision was opened by excising the old scar.",
+      "The port pocket was then opened and the port was removed from the pocket.",
+      "There was a resistance to the catheter being removed and so therefore, we began following the catheter along its path opening the tract until finally the catheter seemed to come free and could be pulled out without difficulty.",
+      "The port pocket was then closed using a #3-0 Vicryl in subcutaneous tissue, #5-0 subcuticular Monocryl in the skin.",
+      "Sterile dressing was applied.",
+      "Young lady was awakened and taken to the recovery room in satisfactory condition."
+    ],
+    "sentence_count": 9,
+    "original_length": 1202,
+    "cleaned_length": 1193,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Acute lymphocytic leukemia in remission.,POSTOPERATIVE DIAGNOSIS: , Acute lymphocytic leukemia in remission.,OPERATION PERFORMED:  ,Removal of venous port.,ANESTHESIA: , General.,INDICATIONS: , This 9-year-old young lady presented with ALL in Orange County and had a port placed at that time.  She subsequently has now undergone chemotherapy here and is now off therapy.  She no longer needs her venous port so, comes to the operating room today for its removal.,OPERATIVE PROCEDURE: , After the induction of general anesthetic, the exit site was prepped and draped in usual manner.  The previous incision was opened by excising the old scar.  The port pocket was then opened and the port was removed from the pocket.  There was a resistance to the catheter being removed and so therefore, we began following the catheter along its path opening the tract until finally the catheter seemed to come free and could be pulled out without difficulty.  The port pocket was then closed using a #3-0 Vicryl in subcutaneous tissue, #5-0 subcuticular Monocryl in the skin.  Sterile dressing was applied.  Young lady was awakened and taken to the recovery room in satisfactory condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Acute lymphocytic leukemia in remission.,POSTOPERATIVE DIAGNOSIS: , Acute lymphocytic leukemia in remission.,OPERATION PERFORMED: ,Removal of venous port.,ANESTHESIA: , General.,INDICATIONS: , This 9-year-old young lady presented with ALL in Orange County and had a port placed at that time. She subsequently has now undergone chemotherapy here and is now off therapy. She no longer needs her venous port so, comes to the operating room today for its removal.,OPERATIVE PROCEDURE: , After the induction of general anesthetic, the exit site was prepped and draped in usual manner. The previous incision was opened by excising the old scar. The port pocket was then opened and the port was removed from the pocket. There was a resistance to the catheter being removed and so therefore, we began following the catheter along its path opening the tract until finally the catheter seemed to come free and could be pulled out without difficulty. The port pocket was then closed using a #3-0 Vicryl in subcutaneous tissue, #5-0 subcuticular Monocryl in the skin. Sterile dressing was applied. Young lady was awakened and taken to the recovery room in satisfactory condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Acute lymphocytic leukemia in remission.,POSTOPERATIVE DIAGNOSIS: , Acute lymphocytic leukemia in remission.,OPERATION PERFORMED: ,Removal of venous port.,ANESTHESIA: , General.,INDICATIONS: , This 9-year-old young lady presented with ALL in Orange County and had a port placed at that time.",
+      "She subsequently has now undergone chemotherapy here and is now off therapy.",
+      "She no longer needs her venous port so, comes to the operating room today for its removal.,OPERATIVE PROCEDURE: , After the induction of general anesthetic, the exit site was prepped and draped in usual manner.",
+      "The previous incision was opened by excising the old scar.",
+      "The port pocket was then opened and the port was removed from the pocket.",
+      "There was a resistance to the catheter being removed and so therefore, we began following the catheter along its path opening the tract until finally the catheter seemed to come free and could be pulled out without difficulty.",
+      "The port pocket was then closed using a #3-0 Vicryl in subcutaneous tissue, #5-0 subcuticular Monocryl in the skin.",
+      "Sterile dressing was applied.",
+      "Young lady was awakened and taken to the recovery room in satisfactory condition."
+    ],
+    "sentence_count": 9
+  }
+}

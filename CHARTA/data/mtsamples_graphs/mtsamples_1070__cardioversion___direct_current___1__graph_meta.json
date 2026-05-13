@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1070__cardioversion___direct_current___1_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 10,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0733444": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1070__cardioversion___direct_current___1__graph.pt",
+  "source_dataset": "mtsamples_1070__cardioversion___direct_current___1"
+}

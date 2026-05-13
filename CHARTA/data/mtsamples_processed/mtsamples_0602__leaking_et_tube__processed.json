@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0602__leaking_et_tube_.txt",
+    "file_name": "mtsamples_0602__leaking_et_tube_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 591,
+    "processed_at": "2026-05-09T09:53:20.485566"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0602__leaking_et_tube_.txt",
+    "text": "ASSESSMENT:  ,The patient needed reintubation due to a leaking tube.  I explained to the patient the procedure that I was going to do and he nodded in seeming understanding of the procedure.,Using Versed and succinylcholine, we were able to sedate and paralyze him to perform the procedure.  His potassium this morning was normal.  Using an 8.5 ET tube under direct visualization, the tube was passed through the cords.  The patient tolerated the procedure extremely well.  Auscultation of the lungs revealed bilateral equal breath sounds.  Chest x-ray is pending.  CO2 monitor was positive.",
+    "char_count": 591,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "ASSESSMENT: ,The patient needed reintubation due to a leaking tube. I explained to the patient the procedure that I was going to do and he nodded in seeming understanding of the procedure.,Using Versed and succinylcholine, we were able to sedate and paralyze him to perform the procedure. His potassium this morning was normal. Using an 8.5 ET tube under direct visualization, the tube was passed through the cords. The patient tolerated the procedure extremely well. Auscultation of the lungs revealed bilateral equal breath sounds. Chest x-ray is pending. CO2 monitor was positive.",
+    "sentences": [
+      "ASSESSMENT: ,The patient needed reintubation due to a leaking tube.",
+      "I explained to the patient the procedure that I was going to do and he nodded in seeming understanding of the procedure.,Using Versed and succinylcholine, we were able to sedate and paralyze him to perform the procedure.",
+      "His potassium this morning was normal.",
+      "Using an 8.5 ET tube under direct visualization, the tube was passed through the cords.",
+      "The patient tolerated the procedure extremely well.",
+      "Auscultation of the lungs revealed bilateral equal breath sounds.",
+      "Chest x-ray is pending.",
+      "CO2 monitor was positive."
+    ],
+    "sentence_count": 8,
+    "original_length": 591,
+    "cleaned_length": 583,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "ASSESSMENT:  ,The patient needed reintubation due to a leaking tube.  I explained to the patient the procedure that I was going to do and he nodded in seeming understanding of the procedure.,Using Versed and succinylcholine, we were able to sedate and paralyze him to perform the procedure.  His potassium this morning was normal.  Using an 8.5 ET tube under direct visualization, the tube was passed through the cords.  The patient tolerated the procedure extremely well.  Auscultation of the lungs revealed bilateral equal breath sounds.  Chest x-ray is pending.  CO2 monitor was positive.",
+    "cleaned_text": "ASSESSMENT: ,The patient needed reintubation due to a leaking tube. I explained to the patient the procedure that I was going to do and he nodded in seeming understanding of the procedure.,Using Versed and succinylcholine, we were able to sedate and paralyze him to perform the procedure. His potassium this morning was normal. Using an 8.5 ET tube under direct visualization, the tube was passed through the cords. The patient tolerated the procedure extremely well. Auscultation of the lungs revealed bilateral equal breath sounds. Chest x-ray is pending. CO2 monitor was positive.",
+    "sentences": [
+      "ASSESSMENT: ,The patient needed reintubation due to a leaking tube.",
+      "I explained to the patient the procedure that I was going to do and he nodded in seeming understanding of the procedure.,Using Versed and succinylcholine, we were able to sedate and paralyze him to perform the procedure.",
+      "His potassium this morning was normal.",
+      "Using an 8.5 ET tube under direct visualization, the tube was passed through the cords.",
+      "The patient tolerated the procedure extremely well.",
+      "Auscultation of the lungs revealed bilateral equal breath sounds.",
+      "Chest x-ray is pending.",
+      "CO2 monitor was positive."
+    ],
+    "sentence_count": 8
+  }
+}

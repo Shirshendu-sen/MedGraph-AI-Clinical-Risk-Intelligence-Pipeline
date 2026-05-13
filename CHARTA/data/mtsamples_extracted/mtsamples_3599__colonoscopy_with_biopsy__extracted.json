@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3599__colonoscopy_with_biopsy_.txt",
+    "file_name": "mtsamples_3599__colonoscopy_with_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1511,
+    "processed_at": "2026-05-09T09:54:24.803435"
+  },
+  "entities": [
+    {
+      "text": "heme-positive",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 109,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "heme-positive",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "colitis",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 67,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 196,
+      "end_char": 205,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "perforation",
+      "label": "DISEASE",
+      "start_char": 207,
+      "end_char": 218,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 256,
+      "end_char": 264,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "patient.,With",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 48,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patient.,With",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 131,
+      "end_char": 137,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Demerol",
+      "label": "CHEMICAL",
+      "start_char": 151,
+      "end_char": 158,
+      "sentence_idx": 2,
+      "concept_id": "C0935966",
+      "concept_name": "Demerol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9676215052604675,
+      "timestamp": null
+    },
+    {
+      "text": "overt colitis",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 38,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "overt colitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "telangiectasia",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 54,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "telangiectasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neoplasia",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 74,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neoplasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhoids",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 75,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tortuous spastic",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 21,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tortuous spastic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throughout.,4",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 60,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throughout.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "time.,3",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 71,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "time.,3",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

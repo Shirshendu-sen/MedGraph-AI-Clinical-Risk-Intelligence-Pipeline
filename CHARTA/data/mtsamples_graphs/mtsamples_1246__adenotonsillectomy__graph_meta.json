@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_1246__adenotonsillectomy_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 38,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699673": 1,
+    "C0030827": 2,
+    "C0009214": 3,
+    "C0678143": 4,
+    "C0030346": 5,
+    "C0033405": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1246__adenotonsillectomy__graph.pt",
+  "source_dataset": "mtsamples_1246__adenotonsillectomy"
+}

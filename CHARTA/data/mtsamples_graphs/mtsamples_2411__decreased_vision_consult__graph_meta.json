@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_2411__decreased_vision_consult_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 46,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0031923": 1,
+    "C0700021": 2,
+    "C0085542": 3,
+    "C0719542": 4,
+    "C0593887": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2411__decreased_vision_consult__graph.pt",
+  "source_dataset": "mtsamples_2411__decreased_vision_consult"
+}

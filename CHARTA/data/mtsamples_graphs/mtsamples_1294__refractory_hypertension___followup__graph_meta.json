@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_1294__refractory_hypertension___followup_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 29,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0162712": 2,
+    "C0004147": 3,
+    "C0718711": 4,
+    "C0678136": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1294__refractory_hypertension___followup__graph.pt",
+  "source_dataset": "mtsamples_1294__refractory_hypertension___followup"
+}

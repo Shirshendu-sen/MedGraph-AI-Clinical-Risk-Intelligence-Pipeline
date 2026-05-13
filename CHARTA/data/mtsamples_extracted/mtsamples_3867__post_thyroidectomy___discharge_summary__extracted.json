@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3867__post_thyroidectomy___discharge_summary_.txt",
+    "file_name": "mtsamples_3867__post_thyroidectomy___discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1256,
+    "processed_at": "2026-05-09T09:54:28.401266"
+  },
+  "entities": [
+    {
+      "text": "thyroid goiter",
+      "label": "DISEASE",
+      "start_char": 301,
+      "end_char": 315,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyroid goiter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-09-22"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 43,
+      "sentence_idx": 3,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-09-22"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 93,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-09-22"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 128,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-09-22"
+    },
+    {
+      "text": "Vicodin",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 38,
+      "sentence_idx": 8,
+      "concept_id": "C0483514",
+      "concept_name": "Vicodin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9674537181854248,
+      "timestamp": "2008-09-22"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 47,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-09-22"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/22/08",
+      "start_char": 521,
+      "end_char": 529
+    },
+    {
+      "raw_text": "09/25/08",
+      "start_char": 846,
+      "end_char": 854
+    }
+  ]
+}

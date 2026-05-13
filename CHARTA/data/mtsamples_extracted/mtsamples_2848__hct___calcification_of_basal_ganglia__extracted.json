@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2848__hct___calcification_of_basal_ganglia_.txt",
+    "file_name": "mtsamples_2848__hct___calcification_of_basal_ganglia_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1969,
+    "processed_at": "2026-05-09T09:54:09.622169"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-07"
+    },
+    {
+      "text": "memory loss",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 99,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "memory loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-07"
+    },
+    {
+      "text": "FHX",
+      "label": "CHEMICAL",
+      "start_char": 95,
+      "end_char": 98,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FHX",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-07"
+    },
+    {
+      "text": "diabetes mellitus",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 151,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-07"
+    },
+    {
+      "text": "Denies ETOH/illicit drug/Tobacco",
+      "label": "DISEASE",
+      "start_char": 168,
+      "end_char": 200,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Denies ETOH/illicit drug/Tobacco",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-07"
+    },
+    {
+      "text": "Afebrile",
+      "label": "DISEASE",
+      "start_char": 233,
+      "end_char": 241,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Afebrile",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-07"
+    },
+    {
+      "text": "NB",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 8,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NB",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-07"
+    },
+    {
+      "text": "Romberg",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 28,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Romberg",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-07"
+    },
+    {
+      "text": "Verbal associative fluency",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 161,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Verbal associative fluency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-07"
+    },
+    {
+      "text": "cerebral atrophy",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 126,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cerebral atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-07"
+    },
+    {
+      "text": "associative mild enlargement of the ventricles consistent",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 189,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "associative mild enlargement of the ventricles consistent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-07"
+    },
+    {
+      "text": "Calcification",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-07"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/7/92",
+      "start_char": 1457,
+      "end_char": 1464
+    },
+    {
+      "raw_text": "12/7/92",
+      "start_char": 1779,
+      "end_char": 1786
+    }
+  ]
+}

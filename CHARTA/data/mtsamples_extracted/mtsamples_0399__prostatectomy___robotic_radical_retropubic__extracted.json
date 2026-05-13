@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0399__prostatectomy___robotic_radical_retropubic_.txt",
+    "file_name": "mtsamples_0399__prostatectomy___robotic_radical_retropubic_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4346,
+    "processed_at": "2026-05-09T09:53:14.760837"
+  },
+  "entities": [
+    {
+      "text": "Adenocarcinoma of the prostate.,POSTOPERATIVE DIAGNOSIS: , Adenocarcinoma of the prostate.,PROCEDURE,1",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 128,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Adenocarcinoma of the prostate.,POSTOPERATIVE DIAGNOSIS: , Adenocarcinoma of the prostate.,PROCEDURE,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 83,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 116,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sepsis",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 124,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sepsis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 140,
+      "end_char": 146,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder neck contractures",
+      "label": "DISEASE",
+      "start_char": 148,
+      "end_char": 173,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder neck contractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "urinary fistulae",
+      "label": "DISEASE",
+      "start_char": 213,
+      "end_char": 229,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary fistulae",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "impotence",
+      "label": "DISEASE",
+      "start_char": 231,
+      "end_char": 240,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impotence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "incontinence",
+      "label": "DISEASE",
+      "start_char": 242,
+      "end_char": 254,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "incontinence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abdominal hernia",
+      "label": "DISEASE",
+      "start_char": 327,
+      "end_char": 343,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osteitis",
+      "label": "DISEASE",
+      "start_char": 345,
+      "end_char": 353,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pelvic pain",
+      "label": "DISEASE",
+      "start_char": 368,
+      "end_char": 379,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 52,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 60,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "JP",
+      "label": "DISEASE",
+      "start_char": 2,
+      "end_char": 4,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "JP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

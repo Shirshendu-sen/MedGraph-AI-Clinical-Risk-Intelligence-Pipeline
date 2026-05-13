@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3544__esophagogastroduodenoscopy___1_.txt",
+    "file_name": "mtsamples_3544__esophagogastroduodenoscopy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2529,
+    "processed_at": "2026-05-09T09:54:23.456795"
+  },
+  "entities": [
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 128,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "solids",
+      "label": "CHEMICAL",
+      "start_char": 132,
+      "end_char": 138,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "solids",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Loose lower esophageal sphincter",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 111,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Loose lower esophageal sphincter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 179,
+      "end_char": 187,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "perforation",
+      "label": "DISEASE",
+      "start_char": 189,
+      "end_char": 200,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 224,
+      "end_char": 233,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adverse medical reaction",
+      "label": "DISEASE",
+      "start_char": 235,
+      "end_char": 259,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adverse medical reaction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lower esophageal sphincter",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 105,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower esophageal sphincter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ulcers",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 46,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ulcers",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lower esophageal sphincter",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 125,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower esophageal sphincter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Loose lower esophageal sphincter.,PLAN:,1",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 41,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Loose lower esophageal sphincter.,PLAN:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "omeprazole",
+      "label": "CHEMICAL",
+      "start_char": 9,
+      "end_char": 19,
+      "sentence_idx": 18,
+      "concept_id": "C0028978",
+      "concept_name": "omeprazole",
+      "kb_source": "rxnorm",
+      "link_score": 0.9738892912864685,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

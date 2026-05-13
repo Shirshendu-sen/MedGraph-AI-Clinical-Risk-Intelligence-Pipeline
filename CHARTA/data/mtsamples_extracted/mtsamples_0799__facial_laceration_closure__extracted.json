@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0799__facial_laceration_closure_.txt",
+    "file_name": "mtsamples_0799__facial_laceration_closure_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2058,
+    "processed_at": "2026-05-09T09:53:26.122770"
+  },
+  "entities": [
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 316,
+      "end_char": 325,
+      "sentence_idx": 0,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 341,
+      "end_char": 352,
+      "sentence_idx": 0,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "loss of consciousness",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 50,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of consciousness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 84,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 295,
+      "end_char": 304,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 306,
+      "end_char": 314,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cosmetic deformity",
+      "label": "DISEASE",
+      "start_char": 316,
+      "end_char": 334,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cosmetic deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 54,
+      "end_char": 63,
+      "sentence_idx": 7,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 79,
+      "end_char": 90,
+      "sentence_idx": 7,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "Tincture of Benzoin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 19,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tincture of Benzoin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 60,
+      "end_char": 70,
+      "sentence_idx": 11,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

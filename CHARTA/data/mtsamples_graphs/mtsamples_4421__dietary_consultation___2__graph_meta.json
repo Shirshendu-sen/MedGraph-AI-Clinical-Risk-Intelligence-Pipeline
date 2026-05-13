@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4421__dietary_consultation___2_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 16,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0025598": 1,
+    "C0591573": 2
+  },
+  "visit_dates": [
+    "2004-05-12"
+  ],
+  "graph_file": "mtsamples_4421__dietary_consultation___2__graph.pt",
+  "source_dataset": "mtsamples_4421__dietary_consultation___2"
+}

@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1649__ct_scan_of_brain_with_contrast__.txt",
+    "file_name": "mtsamples_1649__ct_scan_of_brain_with_contrast__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2956,
+    "processed_at": "2026-05-09T09:53:47.528864"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "strokes",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 65,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "strokes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 75,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "50%LICA stenosis",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 56,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "50%LICA stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "confusion",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "confusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 222,
+      "end_char": 228,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "left hemiparesis",
+      "label": "DISEASE",
+      "start_char": 249,
+      "end_char": 265,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left hemiparesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "stoke",
+      "label": "DISEASE",
+      "start_char": 295,
+      "end_char": 300,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stoke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "Alzheimer's disease",
+      "label": "DISEASE",
+      "start_char": 370,
+      "end_char": 389,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Alzheimer's disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 394,
+      "end_char": 400,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-08"
+    },
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 470,
+      "end_char": 481,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-08"
+    },
+    {
+      "text": "Des",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 47,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Des",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "dysdiadochokinesis",
+      "label": "DISEASE",
+      "start_char": 289,
+      "end_char": 307,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysdiadochokinesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "GS",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "GS",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "ANA",
+      "label": "CHEMICAL",
+      "start_char": 20,
+      "end_char": 23,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ANA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "amoxacillin",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 41,
+      "sentence_idx": 14,
+      "concept_id": "C0029983",
+      "concept_name": "oxacillin",
+      "kb_source": "rxnorm",
+      "link_score": 0.7802751064300537,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "Vitamin B12",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 15,
+      "concept_id": "C0042845",
+      "concept_name": "vitamin B12",
+      "kb_source": "rxnorm",
+      "link_score": 0.9755880236625671,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "Vitamin B12",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 36,
+      "sentence_idx": 17,
+      "concept_id": "C0042845",
+      "concept_name": "vitamin B12",
+      "kb_source": "rxnorm",
+      "link_score": 0.9755880236625671,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "Thiamine",
+      "label": "CHEMICAL",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 18,
+      "concept_id": "C0039840",
+      "concept_name": "thiamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9470314979553223,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "Folate",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 47,
+      "sentence_idx": 18,
+      "concept_id": "C0178638",
+      "concept_name": "folate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9739503860473633,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "ASA",
+      "label": "CHEMICAL",
+      "start_char": 60,
+      "end_char": 63,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ASA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "gyriform",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 48,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gyriform",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "infarct",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 121,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarct",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "infarct",
+      "label": "DISEASE",
+      "start_char": 162,
+      "end_char": 169,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarct",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "confusion",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "confusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "strokes",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 72,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "strokes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-31"
+    },
+    {
+      "text": "Vitamin B12",
+      "label": "CHEMICAL",
+      "start_char": 77,
+      "end_char": 88,
+      "sentence_idx": 21,
+      "concept_id": "C0042845",
+      "concept_name": "vitamin B12",
+      "kb_source": "rxnorm",
+      "link_score": 0.9755880236625671,
+      "timestamp": "1992-12-31"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/31/92",
+      "start_char": 143,
+      "end_char": 151
+    },
+    {
+      "raw_text": "1/8/93",
+      "start_char": 642,
+      "end_char": 648
+    },
+    {
+      "raw_text": "1/11/93",
+      "start_char": 681,
+      "end_char": 688
+    },
+    {
+      "raw_text": "1/19/93",
+      "start_char": 2636,
+      "end_char": 2643
+    }
+  ]
+}

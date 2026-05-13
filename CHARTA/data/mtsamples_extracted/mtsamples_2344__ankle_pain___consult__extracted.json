@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2344__ankle_pain___consult_.txt",
+    "file_name": "mtsamples_2344__ankle_pain___consult_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2162,
+    "processed_at": "2026-05-09T09:54:00.423673"
+  },
+  "entities": [
+    {
+      "text": "injuries",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 28,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injuries",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right ankle pain",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 33,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ankle pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diaphoresis",
+      "label": "DISEASE",
+      "start_char": 163,
+      "end_char": 174,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diaphoresis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ecchymosis",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 22,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ecchymosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 34,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 144,
+      "end_char": 152,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ankle fracture",
+      "label": "DISEASE",
+      "start_char": 247,
+      "end_char": 261,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ankle fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 50,
+      "sentence_idx": 17,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 137,
+      "end_char": 141,
+      "sentence_idx": 17,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "ankle injury",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 83,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ankle injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 34,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "contusion",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 45,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 55,
+      "sentence_idx": 23,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

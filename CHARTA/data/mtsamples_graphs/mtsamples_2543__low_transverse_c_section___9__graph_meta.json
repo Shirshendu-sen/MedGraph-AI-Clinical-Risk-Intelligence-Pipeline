@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2543__low_transverse_c_section___9_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 11,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0592245": 1,
+    "C0733348": 2
+  },
+  "visit_dates": [
+    "2003-09-16"
+  ],
+  "graph_file": "mtsamples_2543__low_transverse_c_section___9__graph.pt",
+  "source_dataset": "mtsamples_2543__low_transverse_c_section___9"
+}

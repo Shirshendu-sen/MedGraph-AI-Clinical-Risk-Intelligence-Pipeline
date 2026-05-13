@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0180__yag_laser_capsulotomy_.txt",
+    "file_name": "mtsamples_0180__yag_laser_capsulotomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1481,
+    "processed_at": "2026-05-09T09:53:08.678541"
+  },
+  "entities": [
+    {
+      "text": "tetracaine",
+      "label": "CHEMICAL",
+      "start_char": 275,
+      "end_char": 285,
+      "sentence_idx": 0,
+      "concept_id": "C0039629",
+      "concept_name": "tetracaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9587721824645996,
+      "timestamp": null
+    },
+    {
+      "text": "opacity",
+      "label": "DISEASE",
+      "start_char": 403,
+      "end_char": 410,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "opacity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "decrease in visual acuity",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 52,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "decrease in visual acuity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "opacity",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 29,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "opacity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lens",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lens",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Alphagan",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 13,
+      "concept_id": "C0594452",
+      "concept_name": "Alphagan",
+      "kb_source": "rxnorm",
+      "link_score": 0.9700726866722107,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

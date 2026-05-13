@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2042__release_of_a1_pulley___1_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 11,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1
+  },
+  "visit_dates": [
+    "2003-08-21"
+  ],
+  "graph_file": "mtsamples_2042__release_of_a1_pulley___1__graph.pt",
+  "source_dataset": "mtsamples_2042__release_of_a1_pulley___1"
+}

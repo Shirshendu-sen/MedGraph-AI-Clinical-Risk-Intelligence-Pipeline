@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0062__penile_prosthesis_replacement_.txt",
+    "file_name": "mtsamples_0062__penile_prosthesis_replacement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 8470,
+    "processed_at": "2026-05-09T09:53:05.127674"
+  },
+  "entities": [
+    {
+      "text": "Nonfunctioning",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nonfunctioning",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Peyronie's disease.,POSTOPERATIVE DIAGNOSES:,1",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 46,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Peyronie's disease.,POSTOPERATIVE DIAGNOSES:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Nonfunctioning",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nonfunctioning",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Peyronie's disease and prior placement of a triple component inflatable penile prosthesis",
+      "label": "DISEASE",
+      "start_char": 305,
+      "end_char": 394,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Peyronie's disease and prior placement of a triple component inflatable penile prosthesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 208,
+      "end_char": 216,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 249,
+      "end_char": 257,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

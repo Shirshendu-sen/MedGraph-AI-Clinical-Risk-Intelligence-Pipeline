@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2402__intraocular_lens_implant_.txt",
+    "file_name": "mtsamples_2402__intraocular_lens_implant_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4778,
+    "processed_at": "2026-05-09T09:54:01.160829"
+  },
+  "entities": [
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 166,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intraocular lens implant",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 27,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intraocular lens implant",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "corneal edema",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 26,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "corneal edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 54,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Diabetic",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diabetic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Diabetic",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diabetic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "peripheral anterior synechiae",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 138,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peripheral anterior synechiae",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "synechiae",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 18,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "synechiae",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "IOL",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 51,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "IOL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "IOL",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 41,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "IOL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

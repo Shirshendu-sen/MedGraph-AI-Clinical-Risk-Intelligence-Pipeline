@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1540__mri_shoulder___2_.txt",
+    "file_name": "mtsamples_1540__mri_shoulder___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2248,
+    "processed_at": "2026-05-09T09:53:44.096810"
+  },
+  "entities": [
+    {
+      "text": "left shoulder pain",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 86,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-10-04"
+    },
+    {
+      "text": "restricted external rotation",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 119,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "restricted external rotation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-10-04"
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 200,
+      "end_char": 212,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-10-04"
+    },
+    {
+      "text": "peritendinous edema",
+      "label": "DISEASE",
+      "start_char": 259,
+      "end_char": 278,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peritendinous edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-10-04"
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 14,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-10-04"
+    },
+    {
+      "text": "subluxation",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 132,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-10-04"
+    },
+    {
+      "text": "tendinitis",
+      "label": "DISEASE",
+      "start_char": 175,
+      "end_char": 185,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-10-04"
+    },
+    {
+      "text": "intratendinous edema",
+      "label": "DISEASE",
+      "start_char": 191,
+      "end_char": 211,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intratendinous edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-10-04"
+    },
+    {
+      "text": "labral ligamentous capsular",
+      "label": "DISEASE",
+      "start_char": 322,
+      "end_char": 349,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "labral ligamentous capsular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-10-04"
+    },
+    {
+      "text": "interstitial edema",
+      "label": "DISEASE",
+      "start_char": 661,
+      "end_char": 679,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "interstitial edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-10-04"
+    },
+    {
+      "text": "subluxation",
+      "label": "DISEASE",
+      "start_char": 798,
+      "end_char": 809,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-10-04"
+    },
+    {
+      "text": "tendinitis",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 66,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-10-04"
+    },
+    {
+      "text": "tear.,Normal supraspinatus",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 160,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tear.,Normal supraspinatus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-10-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/04/05",
+      "start_char": 194,
+      "end_char": 202
+    }
+  ]
+}

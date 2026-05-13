@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2601__delivery_note___5_.txt",
+    "file_name": "mtsamples_2601__delivery_note___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 811,
+    "processed_at": "2026-05-09T09:54:05.055588"
+  },
+  "entities": [
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 39,
+      "sentence_idx": 1,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": null
+    },
+    {
+      "text": "Artificial rupture",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 18,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Artificial rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Perineum",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Perineum",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

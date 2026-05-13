@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0796__external_cephalic_version_.txt",
+    "file_name": "mtsamples_0796__external_cephalic_version_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1292,
+    "processed_at": "2026-05-09T09:53:26.068393"
+  },
+  "entities": [
+    {
+      "text": "intrauterine pregnancy",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 58,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intrauterine pregnancy",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 152,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "terbutaline",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 48,
+      "sentence_idx": 2,
+      "concept_id": "C0039542",
+      "concept_name": "terbutaline",
+      "kb_source": "rxnorm",
+      "link_score": 0.9421314001083374,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

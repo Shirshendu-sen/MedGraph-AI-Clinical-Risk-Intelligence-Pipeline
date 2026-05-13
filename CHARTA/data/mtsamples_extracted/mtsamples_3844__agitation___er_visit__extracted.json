@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3844__agitation___er_visit_.txt",
+    "file_name": "mtsamples_3844__agitation___er_visit_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3264,
+    "processed_at": "2026-05-09T09:54:28.189105"
+  },
+  "entities": [
+    {
+      "text": "poisoned",
+      "label": "CHEMICAL",
+      "start_char": 66,
+      "end_char": 74,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "poisoned",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 77,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 38,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 17,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 28,
+      "sentence_idx": 10,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 47,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tremor",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 22,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tremor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 30,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rash",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 26,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rash",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "petechiae",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 39,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "petechiae",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cyanosis",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 20,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cyanosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 38,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "agitation",
+      "label": "DISEASE",
+      "start_char": 182,
+      "end_char": 191,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "agitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ativan",
+      "label": "CHEMICAL",
+      "start_char": 220,
+      "end_char": 226,
+      "sentence_idx": 31,
+      "concept_id": "C0699194",
+      "concept_name": "Ativan",
+      "kb_source": "rxnorm",
+      "link_score": 0.9886443614959717,
+      "timestamp": null
+    },
+    {
+      "text": "Ativan",
+      "label": "CHEMICAL",
+      "start_char": 103,
+      "end_char": 109,
+      "sentence_idx": 36,
+      "concept_id": "C0699194",
+      "concept_name": "Ativan",
+      "kb_source": "rxnorm",
+      "link_score": 0.9886443614959717,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

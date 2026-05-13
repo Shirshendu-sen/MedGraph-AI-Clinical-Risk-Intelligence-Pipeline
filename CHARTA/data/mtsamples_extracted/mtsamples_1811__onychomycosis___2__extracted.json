@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1811__onychomycosis___2_.txt",
+    "file_name": "mtsamples_1811__onychomycosis___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1005,
+    "processed_at": "2026-05-09T09:53:50.827064"
+  },
+  "entities": [
+    {
+      "text": "Adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 155,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "delirium",
+      "label": "DISEASE",
+      "start_char": 157,
+      "end_char": 165,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "delirium",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dehydration",
+      "label": "DISEASE",
+      "start_char": 174,
+      "end_char": 185,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dehydration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anemia",
+      "label": "DISEASE",
+      "start_char": 187,
+      "end_char": 193,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 206,
+      "end_char": 218,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ASPIRIN.,O",
+      "label": "CHEMICAL",
+      "start_char": 299,
+      "end_char": 309,
+      "sentence_idx": 0,
+      "concept_id": "C0004057",
+      "concept_name": "aspirin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9666159152984619,
+      "timestamp": null
+    },
+    {
+      "text": "mycotic nails",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 60,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mycotic nails",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 49,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Onychomycosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Onychomycosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Peripheral vascular disease",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 27,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Peripheral vascular disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pain",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 4,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "painful mycotic nails",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 99,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "painful mycotic nails",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

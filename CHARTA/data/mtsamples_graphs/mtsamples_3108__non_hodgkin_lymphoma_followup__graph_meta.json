@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_3108__non_hodgkin_lymphoma_followup_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 82,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0007562": 1,
+    "C0013090": 2,
+    "C0012125": 3,
+    "C0592278": 4,
+    "C0701055": 5,
+    "C0006675": 6,
+    "C0025559": 7,
+    "C0699992": 8,
+    "C0001963": 9
+  },
+  "visit_dates": [
+    "1988-03-29"
+  ],
+  "graph_file": "mtsamples_3108__non_hodgkin_lymphoma_followup__graph.pt",
+  "source_dataset": "mtsamples_3108__non_hodgkin_lymphoma_followup"
+}

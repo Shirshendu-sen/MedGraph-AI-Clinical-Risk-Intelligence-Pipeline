@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2575__hysterectomy__bso____appendectomy__.txt",
+    "file_name": "mtsamples_2575__hysterectomy__bso____appendectomy__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 7155,
+    "processed_at": "2026-05-09T09:54:04.469702"
+  },
+  "entities": [
+    {
+      "text": "malignancy",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 39,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malignancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cystocele",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 38,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cystocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rectocele",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 52,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rectocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "uterine tumor",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 155,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "uterine tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 87,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 104,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "appendix",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "appendix",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumors",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 45,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "uterine fibroid",
+      "label": "DISEASE",
+      "start_char": 157,
+      "end_char": 172,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "uterine fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "leiomyosarcoma",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 72,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "leiomyosarcoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 96,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "avascular",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 114,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "avascular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "avascular",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 83,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "avascular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 11,
+      "sentence_idx": 48,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rectocele",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 30,
+      "sentence_idx": 56,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rectocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

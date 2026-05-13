@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0313__suction__dilation____curettage___1_.txt",
+    "file_name": "mtsamples_0313__suction__dilation____curettage___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2149,
+    "processed_at": "2026-05-09T09:53:12.234734"
+  },
+  "entities": [
+    {
+      "text": "Methergine",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 43,
+      "sentence_idx": 13,
+      "concept_id": "C0733811",
+      "concept_name": "Methergine",
+      "kb_source": "rxnorm",
+      "link_score": 0.955941915512085,
+      "timestamp": null
+    },
+    {
+      "text": "Methergine",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 24,
+      "sentence_idx": 18,
+      "concept_id": "C0733811",
+      "concept_name": "Methergine",
+      "kb_source": "rxnorm",
+      "link_score": 0.955941915512085,
+      "timestamp": null
+    },
+    {
+      "text": "Motrin",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 32,
+      "sentence_idx": 18,
+      "concept_id": "C0699203",
+      "concept_name": "Motrin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9656757116317749,
+      "timestamp": null
+    },
+    {
+      "text": "doxycycline",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 49,
+      "sentence_idx": 18,
+      "concept_id": "C0013090",
+      "concept_name": "doxycycline",
+      "kb_source": "rxnorm",
+      "link_score": 0.9588553309440613,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

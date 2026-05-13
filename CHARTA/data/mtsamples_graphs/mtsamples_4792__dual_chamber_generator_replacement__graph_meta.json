@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4792__dual_chamber_generator_replacement_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 13,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0015846": 1,
+    "C0023660": 2,
+    "C0013090": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4792__dual_chamber_generator_replacement__graph.pt",
+  "source_dataset": "mtsamples_4792__dual_chamber_generator_replacement"
+}

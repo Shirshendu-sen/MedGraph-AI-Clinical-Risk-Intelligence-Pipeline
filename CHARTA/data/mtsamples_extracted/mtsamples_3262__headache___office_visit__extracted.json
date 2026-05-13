@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3262__headache___office_visit_.txt",
+    "file_name": "mtsamples_3262__headache___office_visit_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1603,
+    "processed_at": "2026-05-09T09:54:17.236002"
+  },
+  "entities": [
+    {
+      "text": "left ulnar neuropathy",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 120,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left ulnar neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "right ulnar neuropathy",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 153,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ulnar neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "carpal tunnel",
+      "label": "DISEASE",
+      "start_char": 182,
+      "end_char": 195,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "diabetic neuropathy",
+      "label": "DISEASE",
+      "start_char": 200,
+      "end_char": 219,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 128,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "Diabetes",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 63,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 77,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "CVA",
+      "label": "CHEMICAL",
+      "start_char": 108,
+      "end_char": 111,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CVA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "diabetic",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 125,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "Glyburide",
+      "label": "CHEMICAL",
+      "start_char": 154,
+      "end_char": 163,
+      "sentence_idx": 3,
+      "concept_id": "C0017628",
+      "concept_name": "glyburide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9396923780441284,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "Avandia",
+      "label": "CHEMICAL",
+      "start_char": 165,
+      "end_char": 172,
+      "sentence_idx": 3,
+      "concept_id": "C0875967",
+      "concept_name": "Avandia",
+      "kb_source": "rxnorm",
+      "link_score": 0.993594229221344,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "metformin",
+      "label": "CHEMICAL",
+      "start_char": 174,
+      "end_char": 183,
+      "sentence_idx": 3,
+      "concept_id": "C0025598",
+      "concept_name": "metformin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9634568095207214,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "lisinopril",
+      "label": "CHEMICAL",
+      "start_char": 185,
+      "end_char": 195,
+      "sentence_idx": 3,
+      "concept_id": "C0065374",
+      "concept_name": "lisinopril",
+      "kb_source": "rxnorm",
+      "link_score": 0.9948257803916931,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "Lipitor",
+      "label": "CHEMICAL",
+      "start_char": 197,
+      "end_char": 204,
+      "sentence_idx": 3,
+      "concept_id": "C0593906",
+      "concept_name": "Lipitor",
+      "kb_source": "rxnorm",
+      "link_score": 0.9869036078453064,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "aspirin",
+      "label": "CHEMICAL",
+      "start_char": 206,
+      "end_char": 213,
+      "sentence_idx": 3,
+      "concept_id": "C0004057",
+      "concept_name": "aspirin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736717343330383,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "metoprolol",
+      "label": "CHEMICAL",
+      "start_char": 215,
+      "end_char": 225,
+      "sentence_idx": 3,
+      "concept_id": "C0025859",
+      "concept_name": "metoprolol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9745320081710815,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 45,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 86,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "Zonegran",
+      "label": "CHEMICAL",
+      "start_char": 111,
+      "end_char": 119,
+      "sentence_idx": 6,
+      "concept_id": "C0876224",
+      "concept_name": "Zonegran",
+      "kb_source": "rxnorm",
+      "link_score": 0.9654874205589294,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "Zonegran",
+      "label": "CHEMICAL",
+      "start_char": 163,
+      "end_char": 171,
+      "sentence_idx": 6,
+      "concept_id": "C0876224",
+      "concept_name": "Zonegran",
+      "kb_source": "rxnorm",
+      "link_score": 0.9654874205589294,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "Neurontin",
+      "label": "CHEMICAL",
+      "start_char": 116,
+      "end_char": 125,
+      "sentence_idx": 7,
+      "concept_id": "C0678176",
+      "concept_name": "Neurontin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9693526029586792,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "Lyrica",
+      "label": "CHEMICAL",
+      "start_char": 129,
+      "end_char": 135,
+      "sentence_idx": 7,
+      "concept_id": "C1570232",
+      "concept_name": "Lyrica",
+      "kb_source": "rxnorm",
+      "link_score": 0.9573138952255249,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "nerve block",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 38,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nerve block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-08"
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 119,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-08"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "August 8, 2006",
+      "start_char": 275,
+      "end_char": 289
+    },
+    {
+      "raw_text": "August 7, 2006",
+      "start_char": 1122,
+      "end_char": 1136
+    }
+  ]
+}

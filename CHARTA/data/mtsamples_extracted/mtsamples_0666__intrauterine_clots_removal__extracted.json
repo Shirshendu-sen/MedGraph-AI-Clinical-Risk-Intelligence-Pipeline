@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0666__intrauterine_clots_removal_.txt",
+    "file_name": "mtsamples_0666__intrauterine_clots_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1922,
+    "processed_at": "2026-05-09T09:53:22.003897"
+  },
+  "entities": [
+    {
+      "text": "intrauterine clots.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 41,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine clots.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 36,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 99,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bleeding",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2066__osteotomy___bunionectomy___1_.txt",
+    "file_name": "mtsamples_2066__osteotomy___bunionectomy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 6514,
+    "processed_at": "2026-05-09T09:53:55.673710"
+  },
+  "entities": [
+    {
+      "text": "right talus bunion",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 58,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right talus bunion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Kenalog",
+      "label": "CHEMICAL",
+      "start_char": 280,
+      "end_char": 287,
+      "sentence_idx": 14,
+      "concept_id": "C0699689",
+      "concept_name": "Kenalog",
+      "kb_source": "rxnorm",
+      "link_score": 0.9883806109428406,
+      "timestamp": null
+    },
+    {
+      "text": "Esmarch bandage",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 18,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Esmarch bandage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 147,
+      "end_char": 155,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 85,
+      "sentence_idx": 36,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "hypertrophic dorsal exostosis",
+      "label": "DISEASE",
+      "start_char": 148,
+      "end_char": 177,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertrophic dorsal exostosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Vicoprofen",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 24,
+      "sentence_idx": 58,
+      "concept_id": "C0724280",
+      "concept_name": "Vicoprofen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9762079119682312,
+      "timestamp": null
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 34,
+      "sentence_idx": 58,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 55,
+      "sentence_idx": 58,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Keflex",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 20,
+      "sentence_idx": 59,
+      "concept_id": "C0700517",
+      "concept_name": "Keflex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9780697822570801,
+      "timestamp": null
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 30,
+      "sentence_idx": 59,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "t.i.d",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 37,
+      "sentence_idx": 59,
+      "concept_id": "UNKNOWN",
+      "concept_name": "t.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

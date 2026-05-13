@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1162__bilateral_myringotomies___2_.txt",
+    "file_name": "mtsamples_1162__bilateral_myringotomies___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 963,
+    "processed_at": "2026-05-09T09:53:35.887024"
+  },
+  "entities": [
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 50,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 107,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NAME",
+      "label": "CHEMICAL",
+      "start_char": 140,
+      "end_char": 144,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NAME",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PE",
+      "label": "CHEMICAL",
+      "start_char": 200,
+      "end_char": 202,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mucopurulent",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 53,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mucopurulent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Floxin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 6,
+      "concept_id": "C0699173",
+      "concept_name": "Floxin",
+      "kb_source": "rxnorm",
+      "link_score": 0.979972243309021,
+      "timestamp": null
+    },
+    {
+      "text": "mucopurulent",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 93,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mucopurulent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

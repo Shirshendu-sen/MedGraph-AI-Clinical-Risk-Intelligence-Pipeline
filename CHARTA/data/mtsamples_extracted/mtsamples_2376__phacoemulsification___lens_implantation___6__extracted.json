@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2376__phacoemulsification___lens_implantation___6_.txt",
+    "file_name": "mtsamples_2376__phacoemulsification___lens_implantation___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3942,
+    "processed_at": "2026-05-09T09:54:00.878350"
+  },
+  "entities": [
+    {
+      "text": "XXX diopter",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 152,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "XXX diopter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cyclogyl",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 31,
+      "sentence_idx": 1,
+      "concept_id": "C0010563",
+      "concept_name": "Cyclogyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.964970052242279,
+      "timestamp": null
+    },
+    {
+      "text": "Acular",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 42,
+      "sentence_idx": 1,
+      "concept_id": "C0592931",
+      "concept_name": "Acular",
+      "kb_source": "rxnorm",
+      "link_score": 0.9779049158096313,
+      "timestamp": null
+    },
+    {
+      "text": "Neo-Synephrine",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 62,
+      "sentence_idx": 1,
+      "concept_id": "C0039086",
+      "concept_name": "synephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.7176992297172546,
+      "timestamp": null
+    },
+    {
+      "text": "suite.,Inside",
+      "label": "CHEMICAL",
+      "start_char": 67,
+      "end_char": 80,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "suite.,Inside",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Propofol",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 91,
+      "sentence_idx": 4,
+      "concept_id": "C0033487",
+      "concept_name": "propofol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9385934472084045,
+      "timestamp": null
+    },
+    {
+      "text": "somnolent",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 110,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "somnolent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 184,
+      "end_char": 193,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lens",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lens",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Miostat",
+      "label": "CHEMICAL",
+      "start_char": 117,
+      "end_char": 124,
+      "sentence_idx": 29,
+      "concept_id": "C1707266",
+      "concept_name": "Miostat",
+      "kb_source": "rxnorm",
+      "link_score": 0.9718464016914368,
+      "timestamp": null
+    },
+    {
+      "text": "tightness",
+      "label": "DISEASE",
+      "start_char": 198,
+      "end_char": 207,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tightness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "TobraDex",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 48,
+      "sentence_idx": 31,
+      "concept_id": "C0723765",
+      "concept_name": "Tobradex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9831443428993225,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

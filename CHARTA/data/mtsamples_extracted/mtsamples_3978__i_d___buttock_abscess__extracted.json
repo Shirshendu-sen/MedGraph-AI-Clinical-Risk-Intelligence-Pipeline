@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3978__i_d___buttock_abscess_.txt",
+    "file_name": "mtsamples_3978__i_d___buttock_abscess_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 988,
+    "processed_at": "2026-05-09T09:54:31.279477"
+  },
+  "entities": [
+    {
+      "text": "Buttock abscess",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 38,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Buttock abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "buttock",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 116,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "buttock",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Purulent",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Purulent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Purulent",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Purulent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "buttock abscess",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 38,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "buttock abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

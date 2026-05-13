@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3178__weight_loss_evaluation_.txt",
+    "file_name": "mtsamples_3178__weight_loss_evaluation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 72,
+    "processed_at": "2026-05-09T09:54:16.008329"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3178__weight_loss_evaluation_.txt",
+    "text": "REASON FOR VISIT:,  Weight loss evaluation.,HISTORY OF PRESENT ILLNESS:,",
+    "char_count": 72,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "REASON FOR VISIT:, Weight loss evaluation.,HISTORY OF PRESENT ILLNESS:,",
+    "sentences": [
+      "REASON FOR VISIT:, Weight loss evaluation.,HISTORY OF PRESENT ILLNESS:,"
+    ],
+    "sentence_count": 1,
+    "original_length": 72,
+    "cleaned_length": 71,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "REASON FOR VISIT:,  Weight loss evaluation.,HISTORY OF PRESENT ILLNESS:,",
+    "cleaned_text": "REASON FOR VISIT:, Weight loss evaluation.,HISTORY OF PRESENT ILLNESS:,",
+    "sentences": [
+      "REASON FOR VISIT:, Weight loss evaluation.,HISTORY OF PRESENT ILLNESS:,"
+    ],
+    "sentence_count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0311__subxiphoid_pericardiotomy_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0012963": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0311__subxiphoid_pericardiotomy__graph.pt",
+  "source_dataset": "mtsamples_0311__subxiphoid_pericardiotomy"
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4595__tracheostomy_change_.txt",
+    "file_name": "mtsamples_4595__tracheostomy_change_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2800,
+    "processed_at": "2026-05-09T09:54:41.923810"
+  },
+  "entities": [
+    {
+      "text": "chronic obstructive pulmonary disease",
+      "label": "DISEASE",
+      "start_char": 209,
+      "end_char": 246,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic obstructive pulmonary disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "congestive heart failure",
+      "label": "DISEASE",
+      "start_char": 251,
+      "end_char": 275,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congestive heart failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "transglottic edema",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 61,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "transglottic edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "acetic acid",
+      "label": "CHEMICAL",
+      "start_char": 259,
+      "end_char": 270,
+      "sentence_idx": 28,
+      "concept_id": "C0000983",
+      "concept_name": "acetic acid",
+      "kb_source": "rxnorm",
+      "link_score": 0.992364227771759,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

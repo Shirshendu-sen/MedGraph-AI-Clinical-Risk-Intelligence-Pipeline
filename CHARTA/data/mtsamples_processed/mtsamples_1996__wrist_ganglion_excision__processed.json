@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1996__wrist_ganglion_excision_.txt",
+    "file_name": "mtsamples_1996__wrist_ganglion_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1057,
+    "processed_at": "2026-05-09T09:53:54.380206"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1996__wrist_ganglion_excision_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Wrist ganglion.,POSTOPERATIVE DIAGNOSIS: , Wrist ganglion.,TITLE OF PROCEDURE: , Excision of dorsal wrist ganglion.,PROCEDURE: , After administering appropriate antibiotics and general anesthesia, the upper extremity was prepped and draped in the usual standard fashion.  The arm was exsanguinated with an Esmarch and tourniquet inflated to 250 mmHg.  I made a transverse incision directly over the ganglion.  Dissection was carried down through the extensor retinaculum, identifying the 3rd and the 4th compartments and retracting them.  I then excised the ganglion and its stalk.  In addition, approximately a square centimeter of the dorsal capsule was removed at the origin of stalk, leaving enough of a defect to prevent formation of a one-way valve.  We then identified the scapholunate ligament, which was uninjured.  I irrigated and closed in layers and injected Marcaine with epinephrine.  I dressed and splinted the wound.  The patient was sent to the recovery room in good condition, having tolerated the procedure well.",
+    "char_count": 1057,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Wrist ganglion.,POSTOPERATIVE DIAGNOSIS: , Wrist ganglion.,TITLE OF PROCEDURE: , Excision of dorsal wrist ganglion.,PROCEDURE: , After administering appropriate antibiotics and general anesthesia, the upper extremity was prepped and draped in the usual standard fashion. The arm was exsanguinated with an Esmarch and tourniquet inflated to 250 mmHg. I made a transverse incision directly over the ganglion. Dissection was carried down through the extensor retinaculum, identifying the 3rd and the 4th compartments and retracting them. I then excised the ganglion and its stalk. In addition, approximately a square centimeter of the dorsal capsule was removed at the origin of stalk, leaving enough of a defect to prevent formation of a one-way valve. We then identified the scapholunate ligament, which was uninjured. I irrigated and closed in layers and injected Marcaine with epinephrine. I dressed and splinted the wound. The patient was sent to the recovery room in good condition, having tolerated the procedure well.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Wrist ganglion.,POSTOPERATIVE DIAGNOSIS: , Wrist ganglion.,TITLE OF PROCEDURE: , Excision of dorsal wrist ganglion.,PROCEDURE: , After administering appropriate antibiotics and general anesthesia, the upper extremity was prepped and draped in the usual standard fashion.",
+      "The arm was exsanguinated with an Esmarch and tourniquet inflated to 250 mmHg.",
+      "I made a transverse incision directly over the ganglion.",
+      "Dissection was carried down through the extensor retinaculum, identifying the 3rd and the 4th compartments and retracting them.",
+      "I then excised the ganglion and its stalk.",
+      "In addition, approximately a square centimeter of the dorsal capsule was removed at the origin of stalk, leaving enough of a defect to prevent formation of a one-way valve.",
+      "We then identified the scapholunate ligament, which was uninjured.",
+      "I irrigated and closed in layers and injected Marcaine with epinephrine.",
+      "I dressed and splinted the wound.",
+      "The patient was sent to the recovery room in good condition, having tolerated the procedure well."
+    ],
+    "sentence_count": 10,
+    "original_length": 1057,
+    "cleaned_length": 1048,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Wrist ganglion.,POSTOPERATIVE DIAGNOSIS: , Wrist ganglion.,TITLE OF PROCEDURE: , Excision of dorsal wrist ganglion.,PROCEDURE: , After administering appropriate antibiotics and general anesthesia, the upper extremity was prepped and draped in the usual standard fashion.  The arm was exsanguinated with an Esmarch and tourniquet inflated to 250 mmHg.  I made a transverse incision directly over the ganglion.  Dissection was carried down through the extensor retinaculum, identifying the 3rd and the 4th compartments and retracting them.  I then excised the ganglion and its stalk.  In addition, approximately a square centimeter of the dorsal capsule was removed at the origin of stalk, leaving enough of a defect to prevent formation of a one-way valve.  We then identified the scapholunate ligament, which was uninjured.  I irrigated and closed in layers and injected Marcaine with epinephrine.  I dressed and splinted the wound.  The patient was sent to the recovery room in good condition, having tolerated the procedure well.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Wrist ganglion.,POSTOPERATIVE DIAGNOSIS: , Wrist ganglion.,TITLE OF PROCEDURE: , Excision of dorsal wrist ganglion.,PROCEDURE: , After administering appropriate antibiotics and general anesthesia, the upper extremity was prepped and draped in the usual standard fashion. The arm was exsanguinated with an Esmarch and tourniquet inflated to 250 mmHg. I made a transverse incision directly over the ganglion. Dissection was carried down through the extensor retinaculum, identifying the 3rd and the 4th compartments and retracting them. I then excised the ganglion and its stalk. In addition, approximately a square centimeter of the dorsal capsule was removed at the origin of stalk, leaving enough of a defect to prevent formation of a one-way valve. We then identified the scapholunate ligament, which was uninjured. I irrigated and closed in layers and injected Marcaine with epinephrine. I dressed and splinted the wound. The patient was sent to the recovery room in good condition, having tolerated the procedure well.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Wrist ganglion.,POSTOPERATIVE DIAGNOSIS: , Wrist ganglion.,TITLE OF PROCEDURE: , Excision of dorsal wrist ganglion.,PROCEDURE: , After administering appropriate antibiotics and general anesthesia, the upper extremity was prepped and draped in the usual standard fashion.",
+      "The arm was exsanguinated with an Esmarch and tourniquet inflated to 250 mmHg.",
+      "I made a transverse incision directly over the ganglion.",
+      "Dissection was carried down through the extensor retinaculum, identifying the 3rd and the 4th compartments and retracting them.",
+      "I then excised the ganglion and its stalk.",
+      "In addition, approximately a square centimeter of the dorsal capsule was removed at the origin of stalk, leaving enough of a defect to prevent formation of a one-way valve.",
+      "We then identified the scapholunate ligament, which was uninjured.",
+      "I irrigated and closed in layers and injected Marcaine with epinephrine.",
+      "I dressed and splinted the wound.",
+      "The patient was sent to the recovery room in good condition, having tolerated the procedure well."
+    ],
+    "sentence_count": 10
+  }
+}

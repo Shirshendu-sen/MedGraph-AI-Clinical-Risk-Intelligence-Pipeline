@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_1332__multiple_medical_problems_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 71,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0004057": 1,
+    "C2723006": 2,
+    "C0087162": 3,
+    "C0006675": 4,
+    "C0527315": 5,
+    "C0699142": 6,
+    "C0016860": 7,
+    "C0002333": 8,
+    "C0012265": 9
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1332__multiple_medical_problems__graph.pt",
+  "source_dataset": "mtsamples_1332__multiple_medical_problems"
+}

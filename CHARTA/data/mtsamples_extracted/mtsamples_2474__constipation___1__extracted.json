@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2474__constipation___1_.txt",
+    "file_name": "mtsamples_2474__constipation___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 469,
+    "processed_at": "2026-05-09T09:54:02.361723"
+  },
+  "entities": [
+    {
+      "text": "Constipation",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Constipation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Milk of Magnesia 30 mL daily p.r.n.",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 35,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Milk of Magnesia 30 mL daily p.r.n.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "constipation",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 56,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "constipation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "enema",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 101,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "enema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

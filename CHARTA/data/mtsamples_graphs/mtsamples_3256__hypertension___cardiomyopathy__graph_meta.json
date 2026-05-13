@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_3256__hypertension___cardiomyopathy_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 66,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0376325": 1,
+    "C0030346": 2,
+    "C0009170": 3,
+    "C0699992": 4,
+    "C0020223": 5,
+    "C2723006": 6,
+    "C0065374": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3256__hypertension___cardiomyopathy__graph.pt",
+  "source_dataset": "mtsamples_3256__hypertension___cardiomyopathy"
+}

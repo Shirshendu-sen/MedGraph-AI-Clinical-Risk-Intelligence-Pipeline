@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1184__aspiration___knee_joint_.txt",
+    "file_name": "mtsamples_1184__aspiration___knee_joint_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1827,
+    "processed_at": "2026-05-09T09:53:36.266717"
+  },
+  "entities": [
+    {
+      "text": "Erythema of the right knee",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 52,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Erythema of the right knee",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "septic",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 77,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "septic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Erythema of the right knee",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 136,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Erythema of the right knee",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right septic",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 170,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right septic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 74,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prepatellar",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 41,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prepatellar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Kefzol",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 31,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Kefzol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Rocephin",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 51,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Rocephin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 105,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "septic",
+      "label": "DISEASE",
+      "start_char": 150,
+      "end_char": 156,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "septic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 108,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cellulitis",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 139,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cellulitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

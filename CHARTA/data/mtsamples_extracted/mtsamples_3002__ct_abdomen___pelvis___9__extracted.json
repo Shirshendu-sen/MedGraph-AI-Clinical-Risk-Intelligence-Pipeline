@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3002__ct_abdomen___pelvis___9_.txt",
+    "file_name": "mtsamples_3002__ct_abdomen___pelvis___9_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1301,
+    "processed_at": "2026-05-09T09:54:12.288105"
+  },
+  "entities": [
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 98,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 112,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calcifications",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 23,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcifications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pelvic abscess",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 61,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstruction",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 14,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cholelithiasis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cholelithiasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

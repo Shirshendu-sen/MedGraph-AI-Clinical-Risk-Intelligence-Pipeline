@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2339__anterior_cervical_discectomy___2_.txt",
+    "file_name": "mtsamples_2339__anterior_cervical_discectomy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1412,
+    "processed_at": "2026-05-09T09:54:00.271676"
+  },
+  "entities": [
+    {
+      "text": "Right C5-C6 herniated nucleus pulposus.,PRIMARY OPERATIVE PROCEDURE: , Anterior cervical discectomy at C5-6 and placement of artificial disk replacement.,SUMMARY",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 184,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right C5-C6 herniated nucleus pulposus.,PRIMARY OPERATIVE PROCEDURE: , Anterior cervical discectomy at C5-6 and placement of artificial disk replacement.,SUMMARY",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-27"
+    },
+    {
+      "text": "neck pain",
+      "label": "DISEASE",
+      "start_char": 246,
+      "end_char": 255,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neck pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-27"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 270,
+      "end_char": 274,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-08-27"
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 112,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-27"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 68,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-08-27"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 81,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-27"
+    },
+    {
+      "text": "Flexeril",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 39,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Flexeril",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-08-27"
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 51,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-08-27"
+    },
+    {
+      "text": "t.i.d",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 58,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "t.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-08-27"
+    },
+    {
+      "text": "q.6",
+      "label": "CHEMICAL",
+      "start_char": 114,
+      "end_char": 117,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "q.6",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-08-27"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/27/2007",
+      "start_char": 785,
+      "end_char": 795
+    }
+  ]
+}

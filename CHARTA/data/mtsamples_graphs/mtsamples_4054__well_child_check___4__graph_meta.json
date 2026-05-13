@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4054__well_child_check___4_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 15,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699142": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4054__well_child_check___4__graph.pt",
+  "source_dataset": "mtsamples_4054__well_child_check___4"
+}

@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4574__chiropractic_initial_evaluation___1_.txt",
+    "file_name": "mtsamples_4574__chiropractic_initial_evaluation___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 932,
+    "processed_at": "2026-05-09T09:54:41.572764"
+  },
+  "entities": [
+    {
+      "text": "left ankle pain",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 50,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left ankle pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-12-01"
+    },
+    {
+      "text": "low back pain",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 68,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "low back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-12-01"
+    },
+    {
+      "text": "neck pain",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 89,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neck pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-12-01"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 51,
+      "sentence_idx": 7,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2004-12-01"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "December 1, 2004",
+      "start_char": 119,
+      "end_char": 135
+    },
+    {
+      "raw_text": "November 16, 2004",
+      "start_char": 160,
+      "end_char": 177
+    },
+    {
+      "raw_text": "November 21, 2004",
+      "start_char": 736,
+      "end_char": 753
+    },
+    {
+      "raw_text": "December 1, 2004",
+      "start_char": 914,
+      "end_char": 930
+    }
+  ]
+}

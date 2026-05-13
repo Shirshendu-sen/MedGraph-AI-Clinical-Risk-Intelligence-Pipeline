@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4497__chronic_sinusitis_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 51,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C1878038": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4497__chronic_sinusitis__graph.pt",
+  "source_dataset": "mtsamples_4497__chronic_sinusitis"
+}

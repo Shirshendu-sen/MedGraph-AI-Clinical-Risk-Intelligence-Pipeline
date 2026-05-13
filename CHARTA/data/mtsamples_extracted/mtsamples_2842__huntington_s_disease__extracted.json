@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2842__huntington_s_disease_.txt",
+    "file_name": "mtsamples_2842__huntington_s_disease_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2813,
+    "processed_at": "2026-05-09T09:54:09.548012"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "deterioration of motor and cognitive skills",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 165,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "deterioration of motor and cognitive skills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "slurred speech",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 91,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "slurred speech",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "fidgety",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 25,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fidgety",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "Sertraline",
+      "label": "CHEMICAL",
+      "start_char": 86,
+      "end_char": 96,
+      "sentence_idx": 7,
+      "concept_id": "C0074393",
+      "concept_name": "sertraline",
+      "kb_source": "rxnorm",
+      "link_score": 0.9451436996459961,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "Fluoxetine",
+      "label": "CHEMICAL",
+      "start_char": 101,
+      "end_char": 111,
+      "sentence_idx": 7,
+      "concept_id": "C0016365",
+      "concept_name": "FLUoxetine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9512410759925842,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 126,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "Huntington Disease",
+      "label": "DISEASE",
+      "start_char": 195,
+      "end_char": 213,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Huntington Disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "MGM",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "MGM",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "Huntington Disease",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 48,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Huntington Disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "choreiform movements",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 25,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "choreiform movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "dystonic",
+      "label": "DISEASE",
+      "start_char": 171,
+      "end_char": 179,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dystonic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "choreiform movements",
+      "label": "DISEASE",
+      "start_char": 184,
+      "end_char": 204,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "choreiform movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "impersistence",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 76,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impersistence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "Huntington Disease",
+      "label": "DISEASE",
+      "start_char": 168,
+      "end_char": 186,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Huntington Disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "Elavil",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 19,
+      "concept_id": "C0087119",
+      "concept_name": "Elavil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9873966574668884,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "qhs",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 15,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "qhs",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "memory loss only.,His chorea",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 82,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "memory loss only.,His chorea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "impersistence",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 32,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impersistence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "mood/affect",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 15,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mood/affect",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "Huntington Disease",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 137,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Huntington Disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 49,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-03-16"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "3/16/93",
+      "start_char": 87,
+      "end_char": 94
+    },
+    {
+      "raw_text": "6/5/96",
+      "start_char": 2647,
+      "end_char": 2653
+    },
+    {
+      "raw_text": "8/23/96",
+      "start_char": 2761,
+      "end_char": 2768
+    }
+  ]
+}

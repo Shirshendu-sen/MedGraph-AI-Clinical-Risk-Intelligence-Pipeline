@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4918__bronchoscopy___4_.txt",
+    "file_name": "mtsamples_4918__bronchoscopy___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1434,
+    "processed_at": "2026-05-09T09:54:47.537482"
+  },
+  "entities": [
+    {
+      "text": "Tracheal stenosis",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 42,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tracheal stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tracheal stenosis",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 117,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tracheal stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Subglottic stenosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 19,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Subglottic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tracheal granulation",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 20,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tracheal granulation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

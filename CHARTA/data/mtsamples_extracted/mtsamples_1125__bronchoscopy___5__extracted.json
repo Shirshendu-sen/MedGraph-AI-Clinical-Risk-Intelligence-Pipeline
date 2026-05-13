@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1125__bronchoscopy___5_.txt",
+    "file_name": "mtsamples_1125__bronchoscopy___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2997,
+    "processed_at": "2026-05-09T09:53:34.699382"
+  },
+  "entities": [
+    {
+      "text": "Airway stenosis",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 40,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Airway stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Airway stenosis",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 131,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Airway stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Argon",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 4,
+      "concept_id": "C0003781",
+      "concept_name": "argon",
+      "kb_source": "rxnorm",
+      "link_score": 0.9578985571861267,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "high-grade occlusion",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 42,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "high-grade occlusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 116,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 24,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "High-grade obstruction of the right main bronchus",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 49,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "High-grade obstruction of the right main bronchus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "airway obstruction",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 51,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "airway obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 186,
+      "end_char": 194,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

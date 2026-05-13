@@ -1,0 +1,229 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3946__chronic_abscesses___discharge_summary_.txt",
+    "file_name": "mtsamples_3946__chronic_abscesses___discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3743,
+    "processed_at": "2026-05-09T09:54:29.587974"
+  },
+  "entities": [
+    {
+      "text": "right thigh.,PROCEDURES",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 119,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right thigh.,PROCEDURES",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "heroin",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 39,
+      "sentence_idx": 9,
+      "concept_id": "C0011892",
+      "concept_name": "heroin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9742270112037659,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "heroin",
+      "label": "CHEMICAL",
+      "start_char": 69,
+      "end_char": 75,
+      "sentence_idx": 14,
+      "concept_id": "C0011892",
+      "concept_name": "heroin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9742270112037659,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "Clostridium",
+      "label": "CHEMICAL",
+      "start_char": 45,
+      "end_char": 56,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Clostridium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "hypoalbuminemia",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 48,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypoalbuminemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "necrotic",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 71,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 54,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "VAC",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 30,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VAC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "SCDs",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 24,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SCDs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "VAC",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 22,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VAC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "DVT",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 50,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 77,
+      "sentence_idx": 47,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "irritation",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 92,
+      "sentence_idx": 47,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irritation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 105,
+      "sentence_idx": 47,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-05"
+    },
+    {
+      "text": "Augmentin XR",
+      "label": "CHEMICAL",
+      "start_char": 113,
+      "end_char": 125,
+      "sentence_idx": 52,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Augmentin XR",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-03-05"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "03/05/08",
+      "start_char": 218,
+      "end_char": 226
+    },
+    {
+      "raw_text": "03/16/08",
+      "start_char": 337,
+      "end_char": 345
+    },
+    {
+      "raw_text": "04/01/08",
+      "start_char": 460,
+      "end_char": 468
+    },
+    {
+      "raw_text": "03/05/08",
+      "start_char": 887,
+      "end_char": 895
+    },
+    {
+      "raw_text": "03/16/08",
+      "start_char": 1823,
+      "end_char": 1831
+    },
+    {
+      "raw_text": "04/01/08",
+      "start_char": 2359,
+      "end_char": 2367
+    },
+    {
+      "raw_text": "04/11/08",
+      "start_char": 3286,
+      "end_char": 3294
+    }
+  ]
+}

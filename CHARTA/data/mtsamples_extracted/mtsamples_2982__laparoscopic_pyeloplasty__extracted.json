@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2982__laparoscopic_pyeloplasty_.txt",
+    "file_name": "mtsamples_2982__laparoscopic_pyeloplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4955,
+    "processed_at": "2026-05-09T09:54:11.949382"
+  },
+  "entities": [
+    {
+      "text": "Right ureteropelvic junction obstruction.,2",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 43,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right ureteropelvic junction obstruction.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pyeloplasty.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 41,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pyeloplasty.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right ureteropelvic junction obstruction",
+      "label": "DISEASE",
+      "start_char": 127,
+      "end_char": 167,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ureteropelvic junction obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ureteropelvic junction obstruction",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 129,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ureteropelvic junction obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bowel injury",
+      "label": "DISEASE",
+      "start_char": 167,
+      "end_char": 179,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bowel injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ureteropelvic junction obstruction",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 72,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ureteropelvic junction obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 48,
+      "sentence_idx": 46,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3676__status_post_tympanoplasty__",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 11,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699173": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3676__status_post_tympanoplasty___graph.pt",
+  "source_dataset": "mtsamples_3676__status_post_tympanoplasty_"
+}

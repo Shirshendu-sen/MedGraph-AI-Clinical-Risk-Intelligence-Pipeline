@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0631__laparoscopic_cholecystectomy___7_.txt",
+    "file_name": "mtsamples_0631__laparoscopic_cholecystectomy___7_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2541,
+    "processed_at": "2026-05-09T09:53:21.231510"
+  },
+  "entities": [
+    {
+      "text": "Cholecystitis",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 39,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cholecystitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cholecystitis",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 99,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cholecystitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 37,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 65,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adhesions",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 94,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adhesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

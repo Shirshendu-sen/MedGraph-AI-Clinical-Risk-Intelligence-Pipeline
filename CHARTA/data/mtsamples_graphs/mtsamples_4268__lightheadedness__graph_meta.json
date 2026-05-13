@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4268__lightheadedness_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0024002": 1,
+    "C0025859": 2,
+    "C0008377": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4268__lightheadedness__graph.pt",
+  "source_dataset": "mtsamples_4268__lightheadedness"
+}

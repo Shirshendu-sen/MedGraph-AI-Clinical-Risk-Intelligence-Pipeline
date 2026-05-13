@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2398__ophthalmology___letter___3_.txt",
+    "file_name": "mtsamples_2398__ophthalmology___letter___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2274,
+    "processed_at": "2026-05-09T09:54:01.091516"
+  },
+  "entities": [
+    {
+      "text": "DOB",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 21,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DOB",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "glaucoma",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 77,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glaucoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 62,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "floaters",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 119,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "floaters",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "brow ache",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 145,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "brow ache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "glaucoma",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 40,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glaucoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "non-insulin dependent diabetes",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 64,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-insulin dependent diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "peripheral iridectomies",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 97,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peripheral iridectomies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "optic nerve damage",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 59,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "optic nerve damage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2251__closed_orif___ankle_.txt",
+    "file_name": "mtsamples_2251__closed_orif___ankle_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5894,
+    "processed_at": "2026-05-09T09:53:58.847871"
+  },
+  "entities": [
+    {
+      "text": "Dislocation right ankle.,POSTOPERATIVE DIAGNOSES:,1",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 51,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dislocation right ankle.,POSTOPERATIVE DIAGNOSES:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dislocation",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dislocation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "comminuted fracture",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 110,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "comminuted fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 187,
+      "end_char": 195,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right ankle pain",
+      "label": "DISEASE",
+      "start_char": 351,
+      "end_char": 367,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ankle pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 58,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 107,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 85,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 72,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 17,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 67,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 35,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_3998__teeth__full_mouth__extraction_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 25,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0025605": 1,
+    "C0220847": 2,
+    "C0023660": 3,
+    "C0014563": 4,
+    "C0030346": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3998__teeth__full_mouth__extraction__graph.pt",
+  "source_dataset": "mtsamples_3998__teeth__full_mouth__extraction"
+}

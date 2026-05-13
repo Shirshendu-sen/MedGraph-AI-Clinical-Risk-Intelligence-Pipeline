@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_1769__psych_consult___depression___2_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 139,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0004057": 2,
+    "C0012265": 3,
+    "C1170371": 4,
+    "C0723893": 5,
+    "C0699992": 6,
+    "C0023660": 7,
+    "C0678140": 8,
+    "C0700776": 9,
+    "C0032825": 10,
+    "C0206046": 11
+  },
+  "visit_dates": [
+    "2007-01-29"
+  ],
+  "graph_file": "mtsamples_1769__psych_consult___depression___2__graph.pt",
+  "source_dataset": "mtsamples_1769__psych_consult___depression___2"
+}

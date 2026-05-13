@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_1322__possible_spider_bite_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 23,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C1105819": 1,
+    "C0701055": 2,
+    "C0020268": 3,
+    "C0991534": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1322__possible_spider_bite__graph.pt",
+  "source_dataset": "mtsamples_1322__possible_spider_bite"
+}

@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2419__cataract_.txt",
+    "file_name": "mtsamples_2419__cataract_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3091,
+    "processed_at": "2026-05-09T09:54:01.460785"
+  },
+  "entities": [
+    {
+      "text": "Steroid",
+      "label": "CHEMICAL",
+      "start_char": 142,
+      "end_char": 149,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Diabetes",
+      "label": "DISEASE",
+      "start_char": 178,
+      "end_char": 186,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "visual loss",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 36,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "visual loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 64,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 39,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 209,
+      "end_char": 217,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataracts",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 20,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataracts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 78,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 193,
+      "end_char": 201,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 277,
+      "end_char": 285,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lens",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 52,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lens",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

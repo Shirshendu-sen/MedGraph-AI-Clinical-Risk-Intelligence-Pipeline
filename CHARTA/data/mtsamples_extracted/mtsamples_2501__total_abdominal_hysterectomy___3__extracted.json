@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2501__total_abdominal_hysterectomy___3_.txt",
+    "file_name": "mtsamples_2501__total_abdominal_hysterectomy___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 7190,
+    "processed_at": "2026-05-09T09:54:03.357498"
+  },
+  "entities": [
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 16,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 16,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "procedure.,FLUIDS",
+      "label": "DISEASE",
+      "start_char": 283,
+      "end_char": 300,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "procedure.,FLUIDS",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroids",
+      "label": "DISEASE",
+      "start_char": 435,
+      "end_char": 443,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroids",
+      "label": "DISEASE",
+      "start_char": 755,
+      "end_char": 763,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adnexal adhesions",
+      "label": "DISEASE",
+      "start_char": 797,
+      "end_char": 814,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adnexal adhesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 38,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vasopressin",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 49,
+      "sentence_idx": 20,
+      "concept_id": "C1705480",
+      "concept_name": "vasopressin (USP)",
+      "kb_source": "rxnorm",
+      "link_score": 0.7574823498725891,
+      "timestamp": null
+    },
+    {
+      "text": "fibroids",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 127,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "uterine and ovarian vessels",
+      "label": "DISEASE",
+      "start_char": 177,
+      "end_char": 204,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "uterine and ovarian vessels",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

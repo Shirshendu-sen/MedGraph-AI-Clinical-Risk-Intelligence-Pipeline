@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1959__knee_injection___1_.txt",
+    "file_name": "mtsamples_1959__knee_injection___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1006,
+    "processed_at": "2026-05-09T09:53:53.781495"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1959__knee_injection___1_.txt",
+    "text": "PROCEDURE: , Right knee joint steroid injection.,PREOPERATIVE DIAGNOSIS:,  Osteoarthritis of the right knee.,POSTOPERATIVE DIAGNOSIS:,  Osteoarthritis of the right knee.,PROCEDURE:  ,The patient was apprised of the risks and the benefits of the procedure and consented.  The patient's right knee was sterilely prepped with Betadine.  A 4 mg of dexamethasone was drawn up into a 5 mL syringe with a 3 mL of 1% lidocaine.  The patient was injected with a 1.5-inch 25-gauze needle at the medial aspect of his right flexed knee.  There were no complications.  The patient tolerated the procedure well.  There was minimal bleeding.  The patient was instructed to ice his knee upon leaving clinic and refrain from overuse over the next 3 days.  The patient was instructed to go to the emergency room with any usual pain, swelling, or redness occurred in the injected area.  The patient was given a followup appointment to evaluate response to the injection to his increased range of motion and reduction of pain.",
+    "char_count": 1006,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE: , Right knee joint steroid injection.,PREOPERATIVE DIAGNOSIS:, Osteoarthritis of the right knee.,POSTOPERATIVE DIAGNOSIS:, Osteoarthritis of the right knee.,PROCEDURE: ,The patient was apprised of the risks and the benefits of the procedure and consented. The patient's right knee was sterilely prepped with Betadine. A 4 mg of dexamethasone was drawn up into a 5 mL syringe with a 3 mL of 1% lidocaine. The patient was injected with a 1.5-inch 25-gauze needle at the medial aspect of his right flexed knee. There were no complications. The patient tolerated the procedure well. There was minimal bleeding. The patient was instructed to ice his knee upon leaving clinic and refrain from overuse over the next 3 days. The patient was instructed to go to the emergency room with any usual pain, swelling, or redness occurred in the injected area. The patient was given a followup appointment to evaluate response to the injection to his increased range of motion and reduction of pain.",
+    "sentences": [
+      "PROCEDURE: , Right knee joint steroid injection.,PREOPERATIVE DIAGNOSIS:, Osteoarthritis of the right knee.,POSTOPERATIVE DIAGNOSIS:, Osteoarthritis of the right knee.,PROCEDURE: ,The patient was apprised of the risks and the benefits of the procedure and consented.",
+      "The patient's right knee was sterilely prepped with Betadine.",
+      "A 4 mg of dexamethasone was drawn up into a 5 mL syringe with a 3 mL of 1% lidocaine.",
+      "The patient was injected with a 1.5-inch 25-gauze needle at the medial aspect of his right flexed knee.",
+      "There were no complications.",
+      "The patient tolerated the procedure well.",
+      "There was minimal bleeding.",
+      "The patient was instructed to ice his knee upon leaving clinic and refrain from overuse over the next 3 days.",
+      "The patient was instructed to go to the emergency room with any usual pain, swelling, or redness occurred in the injected area.",
+      "The patient was given a followup appointment to evaluate response to the injection to his increased range of motion and reduction of pain."
+    ],
+    "sentence_count": 10,
+    "original_length": 1006,
+    "cleaned_length": 994,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE: , Right knee joint steroid injection.,PREOPERATIVE DIAGNOSIS:,  Osteoarthritis of the right knee.,POSTOPERATIVE DIAGNOSIS:,  Osteoarthritis of the right knee.,PROCEDURE:  ,The patient was apprised of the risks and the benefits of the procedure and consented.  The patient's right knee was sterilely prepped with Betadine.  A 4 mg of dexamethasone was drawn up into a 5 mL syringe with a 3 mL of 1% lidocaine.  The patient was injected with a 1.5-inch 25-gauze needle at the medial aspect of his right flexed knee.  There were no complications.  The patient tolerated the procedure well.  There was minimal bleeding.  The patient was instructed to ice his knee upon leaving clinic and refrain from overuse over the next 3 days.  The patient was instructed to go to the emergency room with any usual pain, swelling, or redness occurred in the injected area.  The patient was given a followup appointment to evaluate response to the injection to his increased range of motion and reduction of pain.",
+    "cleaned_text": "PROCEDURE: , Right knee joint steroid injection.,PREOPERATIVE DIAGNOSIS:, Osteoarthritis of the right knee.,POSTOPERATIVE DIAGNOSIS:, Osteoarthritis of the right knee.,PROCEDURE: ,The patient was apprised of the risks and the benefits of the procedure and consented. The patient's right knee was sterilely prepped with Betadine. A 4 mg of dexamethasone was drawn up into a 5 mL syringe with a 3 mL of 1% lidocaine. The patient was injected with a 1.5-inch 25-gauze needle at the medial aspect of his right flexed knee. There were no complications. The patient tolerated the procedure well. There was minimal bleeding. The patient was instructed to ice his knee upon leaving clinic and refrain from overuse over the next 3 days. The patient was instructed to go to the emergency room with any usual pain, swelling, or redness occurred in the injected area. The patient was given a followup appointment to evaluate response to the injection to his increased range of motion and reduction of pain.",
+    "sentences": [
+      "PROCEDURE: , Right knee joint steroid injection.,PREOPERATIVE DIAGNOSIS:, Osteoarthritis of the right knee.,POSTOPERATIVE DIAGNOSIS:, Osteoarthritis of the right knee.,PROCEDURE: ,The patient was apprised of the risks and the benefits of the procedure and consented.",
+      "The patient's right knee was sterilely prepped with Betadine.",
+      "A 4 mg of dexamethasone was drawn up into a 5 mL syringe with a 3 mL of 1% lidocaine.",
+      "The patient was injected with a 1.5-inch 25-gauze needle at the medial aspect of his right flexed knee.",
+      "There were no complications.",
+      "The patient tolerated the procedure well.",
+      "There was minimal bleeding.",
+      "The patient was instructed to ice his knee upon leaving clinic and refrain from overuse over the next 3 days.",
+      "The patient was instructed to go to the emergency room with any usual pain, swelling, or redness occurred in the injected area.",
+      "The patient was given a followup appointment to evaluate response to the injection to his increased range of motion and reduction of pain."
+    ],
+    "sentence_count": 10
+  }
+}

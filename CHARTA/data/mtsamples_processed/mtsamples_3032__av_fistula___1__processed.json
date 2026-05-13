@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3032__av_fistula___1_.txt",
+    "file_name": "mtsamples_3032__av_fistula___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1064,
+    "processed_at": "2026-05-09T09:54:12.701039"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3032__av_fistula___1_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS,End-stage renal disease.,POSTOPERATIVE DIAGNOSIS,End-stage renal disease.,PROCEDURE,Venogram of the left arm and creation of left brachiocephalic arteriovenous fistula.,ANESTHESIA,General.,DESCRIPTION OF PROCEDURE,The patient was taken to the operating room where after induction of general anesthetic, the patient's arm was prepped and draped in a sterile fashion.  The IV catheter was inserted into the vein on the lower surface of the left forearm.  Venogram was performed, which demonstrated adequate appearance of the cephalic vein above the elbow.,Through a transverse incision, the cephalic vein and brachial artery were both exposed at the antecubital fossa.  The cephalic vein was divided, and the proximal end was anastomosed to the artery in an end-to-side fashion with a running 6-0 Prolene suture.,The clamps were removed establishing flow through the fistula.  Hemostasis was obtained.  The wound was closed in layers with PDS sutures.  Sterile dressing was applied.  The patient was taken to recovery room in stable condition.",
+    "char_count": 1064,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS,End-stage renal disease.,POSTOPERATIVE DIAGNOSIS,End-stage renal disease.,PROCEDURE,Venogram of the left arm and creation of left brachiocephalic arteriovenous fistula.,ANESTHESIA,General.,DESCRIPTION OF PROCEDURE,The patient was taken to the operating room where after induction of general anesthetic, the patient's arm was prepped and draped in a sterile fashion. The IV catheter was inserted into the vein on the lower surface of the left forearm. Venogram was performed, which demonstrated adequate appearance of the cephalic vein above the elbow.,Through a transverse incision, the cephalic vein and brachial artery were both exposed at the antecubital fossa. The cephalic vein was divided, and the proximal end was anastomosed to the artery in an end-to-side fashion with a running 6-0 Prolene suture.,The clamps were removed establishing flow through the fistula. Hemostasis was obtained. The wound was closed in layers with PDS sutures. Sterile dressing was applied. The patient was taken to recovery room in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS,End-stage renal disease.,POSTOPERATIVE DIAGNOSIS,End-stage renal disease.,PROCEDURE,Venogram of the left arm and creation of left brachiocephalic arteriovenous fistula.,ANESTHESIA,General.,DESCRIPTION OF PROCEDURE,The patient was taken to the operating room where after induction of general anesthetic, the patient's arm was prepped and draped in a sterile fashion.",
+      "The IV catheter was inserted into the vein on the lower surface of the left forearm.",
+      "Venogram was performed, which demonstrated adequate appearance of the cephalic vein above the elbow.,Through a transverse incision, the cephalic vein and brachial artery were both exposed at the antecubital fossa.",
+      "The cephalic vein was divided, and the proximal end was anastomosed to the artery in an end-to-side fashion with a running 6-0 Prolene suture.,The clamps were removed establishing flow through the fistula.",
+      "Hemostasis was obtained.",
+      "The wound was closed in layers with PDS sutures.",
+      "Sterile dressing was applied.",
+      "The patient was taken to recovery room in stable condition."
+    ],
+    "sentence_count": 8,
+    "original_length": 1064,
+    "cleaned_length": 1057,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS,End-stage renal disease.,POSTOPERATIVE DIAGNOSIS,End-stage renal disease.,PROCEDURE,Venogram of the left arm and creation of left brachiocephalic arteriovenous fistula.,ANESTHESIA,General.,DESCRIPTION OF PROCEDURE,The patient was taken to the operating room where after induction of general anesthetic, the patient's arm was prepped and draped in a sterile fashion.  The IV catheter was inserted into the vein on the lower surface of the left forearm.  Venogram was performed, which demonstrated adequate appearance of the cephalic vein above the elbow.,Through a transverse incision, the cephalic vein and brachial artery were both exposed at the antecubital fossa.  The cephalic vein was divided, and the proximal end was anastomosed to the artery in an end-to-side fashion with a running 6-0 Prolene suture.,The clamps were removed establishing flow through the fistula.  Hemostasis was obtained.  The wound was closed in layers with PDS sutures.  Sterile dressing was applied.  The patient was taken to recovery room in stable condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS,End-stage renal disease.,POSTOPERATIVE DIAGNOSIS,End-stage renal disease.,PROCEDURE,Venogram of the left arm and creation of left brachiocephalic arteriovenous fistula.,ANESTHESIA,General.,DESCRIPTION OF PROCEDURE,The patient was taken to the operating room where after induction of general anesthetic, the patient's arm was prepped and draped in a sterile fashion. The IV catheter was inserted into the vein on the lower surface of the left forearm. Venogram was performed, which demonstrated adequate appearance of the cephalic vein above the elbow.,Through a transverse incision, the cephalic vein and brachial artery were both exposed at the antecubital fossa. The cephalic vein was divided, and the proximal end was anastomosed to the artery in an end-to-side fashion with a running 6-0 Prolene suture.,The clamps were removed establishing flow through the fistula. Hemostasis was obtained. The wound was closed in layers with PDS sutures. Sterile dressing was applied. The patient was taken to recovery room in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS,End-stage renal disease.,POSTOPERATIVE DIAGNOSIS,End-stage renal disease.,PROCEDURE,Venogram of the left arm and creation of left brachiocephalic arteriovenous fistula.,ANESTHESIA,General.,DESCRIPTION OF PROCEDURE,The patient was taken to the operating room where after induction of general anesthetic, the patient's arm was prepped and draped in a sterile fashion.",
+      "The IV catheter was inserted into the vein on the lower surface of the left forearm.",
+      "Venogram was performed, which demonstrated adequate appearance of the cephalic vein above the elbow.,Through a transverse incision, the cephalic vein and brachial artery were both exposed at the antecubital fossa.",
+      "The cephalic vein was divided, and the proximal end was anastomosed to the artery in an end-to-side fashion with a running 6-0 Prolene suture.,The clamps were removed establishing flow through the fistula.",
+      "Hemostasis was obtained.",
+      "The wound was closed in layers with PDS sutures.",
+      "Sterile dressing was applied.",
+      "The patient was taken to recovery room in stable condition."
+    ],
+    "sentence_count": 8
+  }
+}

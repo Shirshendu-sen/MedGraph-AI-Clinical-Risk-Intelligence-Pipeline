@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2906__ct_brain__subdural_hematoma_.txt",
+    "file_name": "mtsamples_2906__ct_brain__subdural_hematoma_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1622,
+    "processed_at": "2026-05-09T09:54:10.485307"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "unsteadiness",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 29,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "unsteadiness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "unsteadiness",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 52,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "unsteadiness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "meclizine",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 60,
+      "sentence_idx": 2,
+      "concept_id": "C0025039",
+      "concept_name": "meclizine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9418461322784424,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "left facial/LUE/LLE weakness",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 126,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left facial/LUE/LLE weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "arrhythmia",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 82,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arrhythmia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "lip lesion",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 125,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lip lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "ago.,SHX/FHX",
+      "label": "CHEMICAL",
+      "start_char": 131,
+      "end_char": 143,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ago.,SHX/FHX",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "ETOH",
+      "label": "CHEMICAL",
+      "start_char": 7,
+      "end_char": 11,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ETOH",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "Meclizine",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 35,
+      "sentence_idx": 7,
+      "concept_id": "C0025039",
+      "concept_name": "meclizine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9418461322784424,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "Procardia",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 46,
+      "sentence_idx": 7,
+      "concept_id": "C0700861",
+      "concept_name": "Procardia",
+      "kb_source": "rxnorm",
+      "link_score": 0.9662284851074219,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "Afebrile",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 66,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Afebrile",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "Left hemiparesis",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 107,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left hemiparesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "left hemiparesis",
+      "label": "DISEASE",
+      "start_char": 215,
+      "end_char": 231,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left hemiparesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "LLE",
+      "label": "CHEMICAL",
+      "start_char": 267,
+      "end_char": 270,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 430,
+      "end_char": 438,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 162,
+      "end_char": 170,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 54,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-08"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/8/92",
+      "start_char": 487,
+      "end_char": 494
+    },
+    {
+      "raw_text": "12/8/92",
+      "start_char": 1481,
+      "end_char": 1488
+    }
+  ]
+}

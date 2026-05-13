@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2493__ultrasound_ob___4_.txt",
+    "file_name": "mtsamples_2493__ultrasound_ob___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 440,
+    "processed_at": "2026-05-09T09:54:03.279832"
+  },
+  "entities": [
+    {
+      "text": "FL",
+      "label": "CHEMICAL",
+      "start_char": 437,
+      "end_char": 439,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

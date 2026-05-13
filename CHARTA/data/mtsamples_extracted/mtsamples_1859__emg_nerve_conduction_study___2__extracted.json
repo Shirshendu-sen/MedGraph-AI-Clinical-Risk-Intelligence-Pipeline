@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1859__emg_nerve_conduction_study___2_.txt",
+    "file_name": "mtsamples_1859__emg_nerve_conduction_study___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1953,
+    "processed_at": "2026-05-09T09:53:51.905635"
+  },
+  "entities": [
+    {
+      "text": "opioid dependence",
+      "label": "DISEASE",
+      "start_char": 144,
+      "end_char": 161,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "opioid dependence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "low back pain",
+      "label": "DISEASE",
+      "start_char": 188,
+      "end_char": 201,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "low back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 105,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 185,
+      "end_char": 189,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "hyporeflexia",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 40,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyporeflexia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "myelopathy",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 106,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myelopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Babinski",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Babinski",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 58,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "peripheral neuropathy",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 81,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peripheral neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3139__hdr_brachytherapy_.txt",
+    "file_name": "mtsamples_3139__hdr_brachytherapy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1289,
+    "processed_at": "2026-05-09T09:54:15.510855"
+  },
+  "entities": [
+    {
+      "text": "HDR",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "HDR",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "HDR",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 38,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "HDR",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

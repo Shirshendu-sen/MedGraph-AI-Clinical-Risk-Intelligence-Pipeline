@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_3096__posttransplant_lymphoproliferative_disorder_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 57,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0393022": 1,
+    "C0010583": 2,
+    "C0011015": 3,
+    "C0042679": 4,
+    "C0032952": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3096__posttransplant_lymphoproliferative_disorder__graph.pt",
+  "source_dataset": "mtsamples_3096__posttransplant_lymphoproliferative_disorder"
+}

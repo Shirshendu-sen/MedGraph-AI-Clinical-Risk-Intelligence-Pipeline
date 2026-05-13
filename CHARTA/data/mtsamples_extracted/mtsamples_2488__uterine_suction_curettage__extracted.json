@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2488__uterine_suction_curettage_.txt",
+    "file_name": "mtsamples_2488__uterine_suction_curettage_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3528,
+    "processed_at": "2026-05-09T09:54:03.209927"
+  },
+  "entities": [
+    {
+      "text": "5, para 1-0-3-1",
+      "label": "CHEMICAL",
+      "start_char": 408,
+      "end_char": 423,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "5, para 1-0-3-1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2005-12-18"
+    },
+    {
+      "text": "vaginal bleeding",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 40,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vaginal bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-12-18"
+    },
+    {
+      "text": "pelvic cramping",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 74,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic cramping",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-12-18"
+    },
+    {
+      "text": "anteverted",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 41,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anteverted",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-12-18"
+    },
+    {
+      "text": "povidone",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 91,
+      "sentence_idx": 16,
+      "concept_id": "C0032856",
+      "concept_name": "povidone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9535313844680786,
+      "timestamp": "2005-12-18"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-12-18"
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 24,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-12-18"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/18/05",
+      "start_char": 440,
+      "end_char": 448
+    }
+  ]
+}

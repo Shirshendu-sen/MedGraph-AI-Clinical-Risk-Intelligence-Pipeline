@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2135__mri_c3___cord_compression__.txt",
+    "file_name": "mtsamples_2135__mri_c3___cord_compression__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1658,
+    "processed_at": "2026-05-09T09:53:56.870992"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 114,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 123,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 35,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "bowel/bladder",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 27,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bowel/bladder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 51,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "abnormal muscle",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 29,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal muscle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "PP",
+      "label": "CHEMICAL",
+      "start_char": 56,
+      "end_char": 58,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 277,
+      "end_char": 281,
+      "sentence_idx": 10,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 286,
+      "end_char": 294,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "Carpal Tunnel Syndrome",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 83,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Carpal Tunnel Syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 40,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-01"
+    },
+    {
+      "text": "Elavil",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 32,
+      "sentence_idx": 15,
+      "concept_id": "C0087119",
+      "concept_name": "Elavil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9873966574668884,
+      "timestamp": "1992-12-01"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/1/92",
+      "start_char": 1249,
+      "end_char": 1256
+    }
+  ]
+}

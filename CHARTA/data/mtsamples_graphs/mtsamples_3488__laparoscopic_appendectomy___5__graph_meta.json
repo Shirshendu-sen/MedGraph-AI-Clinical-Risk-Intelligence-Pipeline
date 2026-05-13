@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3488__laparoscopic_appendectomy___5_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 4,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3488__laparoscopic_appendectomy___5__graph.pt",
+  "source_dataset": "mtsamples_3488__laparoscopic_appendectomy___5"
+}

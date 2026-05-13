@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_2149__lower_back_pain_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 99,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0724054": 1,
+    "C0060926": 2,
+    "C0002600": 3,
+    "C0030346": 4,
+    "C0483514": 5,
+    "C0025605": 6,
+    "C1505021": 7,
+    "C0081876": 8,
+    "C0040610": 9,
+    "C0719198": 10,
+    "C0699958": 11
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2149__lower_back_pain__graph.pt",
+  "source_dataset": "mtsamples_2149__lower_back_pain"
+}

@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_2742__tia___cosult_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 45,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0002645": 1,
+    "C0700940": 2,
+    "C0699992": 3,
+    "C0010294": 4,
+    "C0017725": 5,
+    "C0699129": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2742__tia___cosult__graph.pt",
+  "source_dataset": "mtsamples_2742__tia___cosult"
+}

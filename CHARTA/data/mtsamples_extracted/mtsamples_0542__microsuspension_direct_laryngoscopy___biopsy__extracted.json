@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0542__microsuspension_direct_laryngoscopy___biopsy_.txt",
+    "file_name": "mtsamples_0542__microsuspension_direct_laryngoscopy___biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2867,
+    "processed_at": "2026-05-09T09:53:18.722083"
+  },
+  "entities": [
+    {
+      "text": "Fullness",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fullness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pathology.,PROCEDURE",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 82,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pathology.,PROCEDURE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 267,
+      "end_char": 271,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 30,
+      "sentence_idx": 3,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "fullness",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 48,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fullness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tooth",
+      "label": "DISEASE",
+      "start_char": 2,
+      "end_char": 7,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tooth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epiglottis",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 73,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epiglottis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epiglottis",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 56,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epiglottis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fullness",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 47,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fullness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "friable",
+      "label": "CHEMICAL",
+      "start_char": 118,
+      "end_char": 125,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "friable",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "studding",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 65,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "studding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

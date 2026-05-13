@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4629__stress_test_adenosine_myoview_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 11,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0001443": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4629__stress_test_adenosine_myoview__graph.pt",
+  "source_dataset": "mtsamples_4629__stress_test_adenosine_myoview"
+}

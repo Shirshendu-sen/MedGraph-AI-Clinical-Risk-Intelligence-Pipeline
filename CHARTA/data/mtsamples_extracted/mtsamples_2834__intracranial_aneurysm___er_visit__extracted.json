@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2834__intracranial_aneurysm___er_visit_.txt",
+    "file_name": "mtsamples_2834__intracranial_aneurysm___er_visit_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1545,
+    "processed_at": "2026-05-09T09:54:09.389391"
+  },
+  "entities": [
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 117,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aneurysm",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 68,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 20,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 83,
+      "sentence_idx": 3,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "photophobia",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 21,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "photophobia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 28,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 38,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 298,
+      "end_char": 306,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intracranial bleed",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 105,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intracranial bleed",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 153,
+      "end_char": 166,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "morphine",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 20,
+      "sentence_idx": 8,
+      "concept_id": "C0026549",
+      "concept_name": "morphine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9600629210472107,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 29,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 46,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Headache",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 57,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

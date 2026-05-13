@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1264__speech_therapy_evaluation_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 24,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0009170": 1,
+    "C0025611": 2,
+    "C0032821": 3
+  },
+  "visit_dates": [
+    "2008-09-19"
+  ],
+  "graph_file": "mtsamples_1264__speech_therapy_evaluation__graph.pt",
+  "source_dataset": "mtsamples_1264__speech_therapy_evaluation"
+}

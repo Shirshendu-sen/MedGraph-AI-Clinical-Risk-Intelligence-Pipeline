@@ -1,0 +1,27 @@
+{
+  "patient_id": "mtsamples_1354__hand_discomfort___followup_",
+  "num_entities": 14,
+  "num_visits": 1,
+  "num_edges": 76,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0087119": 1,
+    "C0699177": 2,
+    "C0376569": 3,
+    "C0006675": 4,
+    "C0042866": 5,
+    "C0016410": 6,
+    "C0020261": 7,
+    "C0700776": 8,
+    "C0040805": 9,
+    "C0004057": 10,
+    "C0034977": 11,
+    "C0719199": 12,
+    "C0052796": 13
+  },
+  "visit_dates": [
+    "2026-01-10"
+  ],
+  "graph_file": "mtsamples_1354__hand_discomfort___followup__graph.pt",
+  "source_dataset": "mtsamples_1354__hand_discomfort___followup"
+}

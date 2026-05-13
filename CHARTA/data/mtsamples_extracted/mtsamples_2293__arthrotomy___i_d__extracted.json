@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2293__arthrotomy___i_d_.txt",
+    "file_name": "mtsamples_2293__arthrotomy___i_d_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3350,
+    "processed_at": "2026-05-09T09:53:59.481984"
+  },
+  "entities": [
+    {
+      "text": "Hemarthrosis",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 38,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hemarthrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hemarthrosis",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 146,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hemarthrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Polyethylene",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 3,
+      "concept_id": "C0032487",
+      "concept_name": "polyethylenes",
+      "kb_source": "rxnorm",
+      "link_score": 0.8553687930107117,
+      "timestamp": null
+    },
+    {
+      "text": "Coumadin",
+      "label": "CHEMICAL",
+      "start_char": 90,
+      "end_char": 98,
+      "sentence_idx": 4,
+      "concept_id": "C0699129",
+      "concept_name": "Coumadin",
+      "kb_source": "rxnorm",
+      "link_score": 0.947939395904541,
+      "timestamp": null
+    },
+    {
+      "text": "hemarthrosis",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 57,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemarthrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "irritable",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 91,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irritable",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 33,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronic pain",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 123,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary embolism",
+      "label": "DISEASE",
+      "start_char": 287,
+      "end_char": 305,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "myocardial infarction",
+      "label": "DISEASE",
+      "start_char": 307,
+      "end_char": 328,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myocardial infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "death",
+      "label": "DISEASE",
+      "start_char": 342,
+      "end_char": 347,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "death",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fatty necrotic",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 30,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fatty necrotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "necrotic",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 83,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1805__neuroma_excision_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0770565": 1,
+    "C0055361": 2,
+    "C0030346": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1805__neuroma_excision__graph.pt",
+  "source_dataset": "mtsamples_1805__neuroma_excision"
+}

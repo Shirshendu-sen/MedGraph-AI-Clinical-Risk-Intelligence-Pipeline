@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0088__laparoscopic_orchiopexy_.txt",
+    "file_name": "mtsamples_0088__laparoscopic_orchiopexy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4391,
+    "processed_at": "2026-05-09T09:53:05.871159"
+  },
+  "entities": [
+    {
+      "text": "undescended",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 47,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "undescended",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbon dioxide",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 46,
+      "sentence_idx": 8,
+      "concept_id": "C0007012",
+      "concept_name": "carbon dioxide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9571364521980286,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 52,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 186,
+      "end_char": 192,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 57,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 123,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Toradol",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 26,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Toradol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

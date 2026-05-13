@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_2262__cemented_arthroplasty_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 20,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0700787": 2,
+    "C0026549": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2262__cemented_arthroplasty__graph.pt",
+  "source_dataset": "mtsamples_2262__cemented_arthroplasty"
+}

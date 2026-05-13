@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3748__bmt___bilateral_myringotomy_tubes_.txt",
+    "file_name": "mtsamples_3748__bmt___bilateral_myringotomy_tubes_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1405,
+    "processed_at": "2026-05-09T09:54:26.913534"
+  },
+  "entities": [
+    {
+      "text": "infections",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 28,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infections",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infections",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 46,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infections",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 107,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 26,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

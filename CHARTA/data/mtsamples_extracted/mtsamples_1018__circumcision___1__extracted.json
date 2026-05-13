@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1018__circumcision___1_.txt",
+    "file_name": "mtsamples_1018__circumcision___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1267,
+    "processed_at": "2026-05-09T09:53:31.436792"
+  },
+  "entities": [
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 53,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 60,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

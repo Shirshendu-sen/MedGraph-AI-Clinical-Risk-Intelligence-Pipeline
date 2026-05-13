@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4581__ultrasound___carotid___1_.txt",
+    "file_name": "mtsamples_4581__ultrasound___carotid___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 896,
+    "processed_at": "2026-05-09T09:54:41.687459"
+  },
+  "entities": [
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 83,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 98,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

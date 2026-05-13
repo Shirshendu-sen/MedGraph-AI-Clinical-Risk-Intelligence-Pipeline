@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0408__port_a_cath_insertion___1_.txt",
+    "file_name": "mtsamples_0408__port_a_cath_insertion___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2835,
+    "processed_at": "2026-05-09T09:53:15.137734"
+  },
+  "entities": [
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 157,
+      "end_char": 165,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 171,
+      "end_char": 182,
+      "sentence_idx": 5,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 59,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 65,
+      "end_char": 76,
+      "sentence_idx": 8,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 45,
+      "end_char": 52,
+      "sentence_idx": 15,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": null
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 46,
+      "sentence_idx": 19,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": null
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 144,
+      "end_char": 151,
+      "sentence_idx": 28,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

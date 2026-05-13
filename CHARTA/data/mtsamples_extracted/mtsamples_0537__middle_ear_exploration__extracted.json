@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0537__middle_ear_exploration_.txt",
+    "file_name": "mtsamples_0537__middle_ear_exploration_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3019,
+    "processed_at": "2026-05-09T09:53:18.614012"
+  },
+  "entities": [
+    {
+      "text": "sensorineural conductive",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 71,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sensorineural conductive",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sensorineural conductive",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 157,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sensorineural conductive",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "loss.,PROCEDURE",
+      "label": "CHEMICAL",
+      "start_char": 166,
+      "end_char": 181,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss.,PROCEDURE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hearing loss",
+      "label": "DISEASE",
+      "start_char": 437,
+      "end_char": 449,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hearing loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otosclerosis",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 58,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otosclerosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otosclerosis",
+      "label": "DISEASE",
+      "start_char": 162,
+      "end_char": 174,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otosclerosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 56,
+      "sentence_idx": 7,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 45,
+      "end_char": 54,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 69,
+      "end_char": 80,
+      "sentence_idx": 9,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "Ciprodex",
+      "label": "CHEMICAL",
+      "start_char": 90,
+      "end_char": 98,
+      "sentence_idx": 25,
+      "concept_id": "C1330135",
+      "concept_name": "Ciprodex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715818762779236,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

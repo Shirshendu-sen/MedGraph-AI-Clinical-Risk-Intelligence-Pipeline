@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_1593__mri_brain___cryptococcus_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 47,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0029904": 1,
+    "C0699142": 2,
+    "C0017725": 3,
+    "C0085795": 4
+  },
+  "visit_dates": [
+    "1995-10-18"
+  ],
+  "graph_file": "mtsamples_1593__mri_brain___cryptococcus__graph.pt",
+  "source_dataset": "mtsamples_1593__mri_brain___cryptococcus"
+}

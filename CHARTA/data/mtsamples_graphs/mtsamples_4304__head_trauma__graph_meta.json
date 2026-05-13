@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_4304__head_trauma_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 53,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0029904": 1,
+    "C0699512": 2,
+    "C0592278": 3,
+    "C0699770": 4,
+    "C0002658": 5
+  },
+  "visit_dates": [
+    "1995-02-20"
+  ],
+  "graph_file": "mtsamples_4304__head_trauma__graph.pt",
+  "source_dataset": "mtsamples_4304__head_trauma"
+}

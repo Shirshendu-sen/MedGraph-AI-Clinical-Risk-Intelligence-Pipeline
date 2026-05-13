@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2424__cataract___second_opinion_.txt",
+    "file_name": "mtsamples_2424__cataract___second_opinion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1438,
+    "processed_at": "2026-05-09T09:54:01.531339"
+  },
+  "entities": [
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 82,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Manifest",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Manifest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "OU",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 57,
+      "sentence_idx": 9,
+      "concept_id": "C0029904",
+      "concept_name": "Acocantherin",
+      "kb_source": "mesh",
+      "link_score": 0.727530837059021,
+      "timestamp": null
+    },
+    {
+      "text": "nuclear sclerosis",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 32,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nuclear sclerosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 57,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "choroidal",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 35,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "choroidal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cataracts",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cataracts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 16,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 132,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

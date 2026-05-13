@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2735__video_eeg___2_.txt",
+    "file_name": "mtsamples_2735__video_eeg___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 154,
+    "processed_at": "2026-05-09T09:54:06.736471"
+  },
+  "entities": [
+    {
+      "text": "drowsiness",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 47,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "drowsiness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

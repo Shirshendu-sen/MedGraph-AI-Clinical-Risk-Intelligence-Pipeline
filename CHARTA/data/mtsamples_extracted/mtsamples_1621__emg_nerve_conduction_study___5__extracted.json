@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1621__emg_nerve_conduction_study___5_.txt",
+    "file_name": "mtsamples_1621__emg_nerve_conduction_study___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2177,
+    "processed_at": "2026-05-09T09:53:46.972070"
+  },
+  "entities": [
+    {
+      "text": "rheumatoid arthritis",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 65,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rheumatoid arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibromyalgia",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 79,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibromyalgia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 93,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypercholesterolemia",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 115,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypercholesterolemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "irritable bowel syndrome",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 145,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irritable bowel syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carpal tunnel release.,On",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 52,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel release.,On",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Babinski",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 11,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Babinski",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 16,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 35,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "C6/C7 radiculopathy",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 35,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "C6/C7 radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right lumbosacral radiculopathies",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 38,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right lumbosacral radiculopathies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lumbosacral radiculopathies",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 84,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lumbosacral radiculopathies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

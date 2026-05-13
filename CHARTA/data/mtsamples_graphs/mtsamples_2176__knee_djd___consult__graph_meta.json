@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_2176__knee_djd___consult_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 84,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0487782": 2,
+    "C0025605": 3,
+    "C0065374": 4,
+    "C0935966": 5,
+    "C0721336": 6,
+    "C0701042": 7,
+    "C0020740": 8,
+    "C0001963": 9
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2176__knee_djd___consult__graph.pt",
+  "source_dataset": "mtsamples_2176__knee_djd___consult"
+}

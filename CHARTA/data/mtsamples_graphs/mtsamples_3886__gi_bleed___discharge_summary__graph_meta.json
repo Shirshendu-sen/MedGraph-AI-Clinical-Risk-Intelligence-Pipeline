@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_3886__gi_bleed___discharge_summary_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 56,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699129": 1,
+    "C0699992": 2,
+    "C0004147": 3,
+    "C0875954": 4,
+    "C0728780": 5,
+    "C0065374": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3886__gi_bleed___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3886__gi_bleed___discharge_summary"
+}

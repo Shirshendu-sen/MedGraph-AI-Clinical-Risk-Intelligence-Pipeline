@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3849__urology_discharge_summary_.txt",
+    "file_name": "mtsamples_3849__urology_discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1197,
+    "processed_at": "2026-05-09T09:54:28.240470"
+  },
+  "entities": [
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 218,
+      "end_char": 226,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder neck obstruction",
+      "label": "DISEASE",
+      "start_char": 243,
+      "end_char": 267,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder neck obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "creatinine",
+      "label": "CHEMICAL",
+      "start_char": 74,
+      "end_char": 84,
+      "sentence_idx": 2,
+      "concept_id": "C0010294",
+      "concept_name": "creatinine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9711365103721619,
+      "timestamp": null
+    },
+    {
+      "text": "granulomatous disease",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 47,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "granulomatous disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 89,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematuria",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 94,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bactrim",
+      "label": "CHEMICAL",
+      "start_char": 103,
+      "end_char": 110,
+      "sentence_idx": 9,
+      "concept_id": "C0591139",
+      "concept_name": "Bactrim",
+      "kb_source": "rxnorm",
+      "link_score": 0.9739254117012024,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 227,
+      "end_char": 235,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "benign bladder neck obstruction",
+      "label": "DISEASE",
+      "start_char": 241,
+      "end_char": 272,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "benign bladder neck obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

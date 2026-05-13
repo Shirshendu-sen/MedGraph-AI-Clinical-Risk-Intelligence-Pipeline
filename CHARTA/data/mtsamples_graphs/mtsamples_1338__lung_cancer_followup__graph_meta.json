@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_1338__lung_cancer_followup_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 51,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0079083": 1,
+    "C0015133": 2,
+    "C0030346": 3,
+    "C0040165": 4,
+    "C0040235": 5,
+    "C0483514": 6
+  },
+  "visit_dates": [
+    "2010-08-12"
+  ],
+  "graph_file": "mtsamples_1338__lung_cancer_followup__graph.pt",
+  "source_dataset": "mtsamples_1338__lung_cancer_followup"
+}

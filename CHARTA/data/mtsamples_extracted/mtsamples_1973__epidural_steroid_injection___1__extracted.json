@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1973__epidural_steroid_injection___1_.txt",
+    "file_name": "mtsamples_1973__epidural_steroid_injection___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1052,
+    "processed_at": "2026-05-09T09:53:54.000523"
+  },
+  "entities": [
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 190,
+      "end_char": 197,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 47,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Depo-Medrol",
+      "label": "CHEMICAL",
+      "start_char": 61,
+      "end_char": 72,
+      "sentence_idx": 5,
+      "concept_id": "C0057476",
+      "concept_name": "Depo-Medrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9515208005905151,
+      "timestamp": null
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 108,
+      "end_char": 115,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

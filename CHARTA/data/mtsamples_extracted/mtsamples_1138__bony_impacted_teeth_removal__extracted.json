@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1138__bony_impacted_teeth_removal_.txt",
+    "file_name": "mtsamples_1138__bony_impacted_teeth_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2776,
+    "processed_at": "2026-05-09T09:53:35.015851"
+  },
+  "entities": [
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 14,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 113,
+      "end_char": 122,
+      "sentence_idx": 1,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 141,
+      "end_char": 152,
+      "sentence_idx": 1,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "bupivacaine",
+      "label": "CHEMICAL",
+      "start_char": 168,
+      "end_char": 179,
+      "sentence_idx": 1,
+      "concept_id": "C0006400",
+      "concept_name": "bupivacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9624806642532349,
+      "timestamp": null
+    },
+    {
+      "text": "1:200,000 epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 190,
+      "end_char": 211,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:200,000 epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tooth",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tooth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tooth",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 42,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tooth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tooth",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tooth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 44,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NG",
+      "label": "CHEMICAL",
+      "start_char": 3,
+      "end_char": 5,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

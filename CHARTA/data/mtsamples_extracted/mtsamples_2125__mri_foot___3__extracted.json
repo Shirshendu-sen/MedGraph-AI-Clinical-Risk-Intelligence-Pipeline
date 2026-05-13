@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2125__mri_foot___3_.txt",
+    "file_name": "mtsamples_2125__mri_foot___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3469,
+    "processed_at": "2026-05-09T09:53:56.794869"
+  },
+  "entities": [
+    {
+      "text": "ankle pain",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 67,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ankle pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 44,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 110,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 191,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 352,
+      "end_char": 357,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 458,
+      "end_char": 463,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "tendinosis",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 86,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 41,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "hypertrophic tear",
+      "label": "DISEASE",
+      "start_char": 190,
+      "end_char": 207,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertrophic tear",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "synovitis",
+      "label": "DISEASE",
+      "start_char": 315,
+      "end_char": 324,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "synovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "flexor hallucis longus",
+      "label": "DISEASE",
+      "start_char": 360,
+      "end_char": 382,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "flexor hallucis longus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "tendinosis",
+      "label": "DISEASE",
+      "start_char": 499,
+      "end_char": 509,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "distal tibiofibular syndesmotic ligamentous complex.,Normal lateral, subtalar and deltoid ligamentous",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 224,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "distal tibiofibular syndesmotic ligamentous complex.,Normal lateral, subtalar and deltoid ligamentous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "erosions of the inferior neck of the talus",
+      "label": "CHEMICAL",
+      "start_char": 249,
+      "end_char": 291,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erosions of the inferior neck of the talus",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 568,
+      "end_char": 575,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "synovitis",
+      "label": "DISEASE",
+      "start_char": 725,
+      "end_char": 734,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "synovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "flexor hallucis longus",
+      "label": "DISEASE",
+      "start_char": 770,
+      "end_char": 792,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "flexor hallucis longus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    },
+    {
+      "text": "tendinosis",
+      "label": "DISEASE",
+      "start_char": 993,
+      "end_char": 1003,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-05-27"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "05/27/2005",
+      "start_char": 443,
+      "end_char": 453
+    }
+  ]
+}

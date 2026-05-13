@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4773__exercise_stress_test_.txt",
+    "file_name": "mtsamples_4773__exercise_stress_test_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1224,
+    "processed_at": "2026-05-09T09:54:44.496630"
+  },
+  "entities": [
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 38,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fatigue",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 42,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fatigue",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 31,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ischemia",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 26,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 45,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Chest pain",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tetraphosphate",
+      "label": "CHEMICAL",
+      "start_char": 148,
+      "end_char": 162,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tetraphosphate",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

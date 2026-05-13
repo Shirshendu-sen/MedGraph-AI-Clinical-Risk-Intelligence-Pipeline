@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_1245__angiography___catheterization___1_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 32,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1,
+    "C0004259": 2,
+    "C0017887": 3,
+    "C0004057": 4,
+    "C0633084": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1245__angiography___catheterization___1__graph.pt",
+  "source_dataset": "mtsamples_1245__angiography___catheterization___1"
+}

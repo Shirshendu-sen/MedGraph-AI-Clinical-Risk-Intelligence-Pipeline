@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2454__normal_male_ros_template___1_.txt",
+    "file_name": "mtsamples_2454__normal_male_ros_template___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 937,
+    "processed_at": "2026-05-09T09:54:02.037650"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2454__normal_male_ros_template___1_.txt",
+    "text": "REVIEW OF SYSTEMS:,CONSTITUTIONAL:  Patient denies fevers, chills, sweats and weight changes.,EYES:  Patient denies any visual symptoms.,EARS, NOSE, AND THROAT:  No difficulties with hearing.  No symptoms of rhinitis or sore throat.,CARDIOVASCULAR:  Patient denies chest pains, palpitations, orthopnea and paroxysmal nocturnal dyspnea.,RESPIRATORY:  No dyspnea on exertion, no wheezing or cough.,GI:  No nausea, vomiting, diarrhea, constipation, abdominal pain, hematochezia or melena.,GU:  No urinary hesitancy or dribbling.  No nocturia or urinary frequency.  No abnormal urethral discharge.,MUSCULOSKELETAL:  No myalgias or arthralgias.,NEUROLOGIC:  No chronic headaches, no seizures.  Patient denies numbness, tingling or weakness.,PSYCHIATRIC:  Patient denies problems with mood disturbance.  No problems with anxiety.,ENDOCRINE:  No excessive urination or excessive thirst.,DERMATOLOGIC:  Patient denies any rashes or skin changes.",
+    "char_count": 937,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "REVIEW OF SYSTEMS:,CONSTITUTIONAL: Patient denies fevers, chills, sweats and weight changes.,EYES: Patient denies any visual symptoms.,EARS, NOSE, AND THROAT: No difficulties with hearing. No symptoms of rhinitis or sore throat.,CARDIOVASCULAR: Patient denies chest pains, palpitations, orthopnea and paroxysmal nocturnal dyspnea.,RESPIRATORY: No dyspnea on exertion, no wheezing or cough.,GI: No nausea, vomiting, diarrhea, constipation, abdominal pain, hematochezia or melena.,GU: No urinary hesitancy or dribbling. No nocturia or urinary frequency. No abnormal urethral discharge.,MUSCULOSKELETAL: No myalgias or arthralgias.,NEUROLOGIC: No chronic headaches, no seizures. Patient denies numbness, tingling or weakness.,PSYCHIATRIC: Patient denies problems with mood disturbance. No problems with anxiety.,ENDOCRINE: No excessive urination or excessive thirst.,DERMATOLOGIC: Patient denies any rashes or skin changes.",
+    "sentences": [
+      "REVIEW OF SYSTEMS:,CONSTITUTIONAL: Patient denies fevers, chills, sweats and weight changes.,EYES: Patient denies any visual symptoms.,EARS, NOSE, AND THROAT: No difficulties with hearing.",
+      "No symptoms of rhinitis or sore throat.,CARDIOVASCULAR: Patient denies chest pains, palpitations, orthopnea and paroxysmal nocturnal dyspnea.,RESPIRATORY: No dyspnea on exertion, no wheezing or cough.,GI: No nausea, vomiting, diarrhea, constipation, abdominal pain, hematochezia or melena.,GU: No urinary hesitancy or dribbling.",
+      "No nocturia or urinary frequency.",
+      "No abnormal urethral discharge.,MUSCULOSKELETAL: No myalgias or arthralgias.,NEUROLOGIC: No chronic headaches, no seizures.",
+      "Patient denies numbness, tingling or weakness.,PSYCHIATRIC: Patient denies problems with mood disturbance.",
+      "No problems with anxiety.,ENDOCRINE: No excessive urination or excessive thirst.,DERMATOLOGIC: Patient denies any rashes or skin changes."
+    ],
+    "sentence_count": 6,
+    "original_length": 937,
+    "cleaned_length": 920,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "REVIEW OF SYSTEMS:,CONSTITUTIONAL:  Patient denies fevers, chills, sweats and weight changes.,EYES:  Patient denies any visual symptoms.,EARS, NOSE, AND THROAT:  No difficulties with hearing.  No symptoms of rhinitis or sore throat.,CARDIOVASCULAR:  Patient denies chest pains, palpitations, orthopnea and paroxysmal nocturnal dyspnea.,RESPIRATORY:  No dyspnea on exertion, no wheezing or cough.,GI:  No nausea, vomiting, diarrhea, constipation, abdominal pain, hematochezia or melena.,GU:  No urinary hesitancy or dribbling.  No nocturia or urinary frequency.  No abnormal urethral discharge.,MUSCULOSKELETAL:  No myalgias or arthralgias.,NEUROLOGIC:  No chronic headaches, no seizures.  Patient denies numbness, tingling or weakness.,PSYCHIATRIC:  Patient denies problems with mood disturbance.  No problems with anxiety.,ENDOCRINE:  No excessive urination or excessive thirst.,DERMATOLOGIC:  Patient denies any rashes or skin changes.",
+    "cleaned_text": "REVIEW OF SYSTEMS:,CONSTITUTIONAL: Patient denies fevers, chills, sweats and weight changes.,EYES: Patient denies any visual symptoms.,EARS, NOSE, AND THROAT: No difficulties with hearing. No symptoms of rhinitis or sore throat.,CARDIOVASCULAR: Patient denies chest pains, palpitations, orthopnea and paroxysmal nocturnal dyspnea.,RESPIRATORY: No dyspnea on exertion, no wheezing or cough.,GI: No nausea, vomiting, diarrhea, constipation, abdominal pain, hematochezia or melena.,GU: No urinary hesitancy or dribbling. No nocturia or urinary frequency. No abnormal urethral discharge.,MUSCULOSKELETAL: No myalgias or arthralgias.,NEUROLOGIC: No chronic headaches, no seizures. Patient denies numbness, tingling or weakness.,PSYCHIATRIC: Patient denies problems with mood disturbance. No problems with anxiety.,ENDOCRINE: No excessive urination or excessive thirst.,DERMATOLOGIC: Patient denies any rashes or skin changes.",
+    "sentences": [
+      "REVIEW OF SYSTEMS:,CONSTITUTIONAL: Patient denies fevers, chills, sweats and weight changes.,EYES: Patient denies any visual symptoms.,EARS, NOSE, AND THROAT: No difficulties with hearing.",
+      "No symptoms of rhinitis or sore throat.,CARDIOVASCULAR: Patient denies chest pains, palpitations, orthopnea and paroxysmal nocturnal dyspnea.,RESPIRATORY: No dyspnea on exertion, no wheezing or cough.,GI: No nausea, vomiting, diarrhea, constipation, abdominal pain, hematochezia or melena.,GU: No urinary hesitancy or dribbling.",
+      "No nocturia or urinary frequency.",
+      "No abnormal urethral discharge.,MUSCULOSKELETAL: No myalgias or arthralgias.,NEUROLOGIC: No chronic headaches, no seizures.",
+      "Patient denies numbness, tingling or weakness.,PSYCHIATRIC: Patient denies problems with mood disturbance.",
+      "No problems with anxiety.,ENDOCRINE: No excessive urination or excessive thirst.,DERMATOLOGIC: Patient denies any rashes or skin changes."
+    ],
+    "sentence_count": 6
+  }
+}

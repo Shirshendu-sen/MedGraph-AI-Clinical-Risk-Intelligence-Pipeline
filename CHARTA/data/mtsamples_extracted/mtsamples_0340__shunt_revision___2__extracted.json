@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0340__shunt_revision___2_.txt",
+    "file_name": "mtsamples_0340__shunt_revision___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2658,
+    "processed_at": "2026-05-09T09:53:13.530949"
+  },
+  "entities": [
+    {
+      "text": "Headaches",
+      "label": "DISEASE",
+      "start_char": 362,
+      "end_char": 371,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "irritability",
+      "label": "DISEASE",
+      "start_char": 373,
+      "end_char": 385,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irritability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 36,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subgaleal",
+      "label": "DISEASE",
+      "start_char": 150,
+      "end_char": 159,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subgaleal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 45,
+      "sentence_idx": 16,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3773__completion_thyroidectomy_.txt",
+    "file_name": "mtsamples_3773__completion_thyroidectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2966,
+    "processed_at": "2026-05-09T09:54:27.275145"
+  },
+  "entities": [
+    {
+      "text": "papillary thyroid carcinoma",
+      "label": "DISEASE",
+      "start_char": 301,
+      "end_char": 328,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "papillary thyroid carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 59,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 70,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injury to nerves including vocal fold paralysis",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 119,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury to nerves including vocal fold paralysis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hoarseness",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 131,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hoarseness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calcium",
+      "label": "CHEMICAL",
+      "start_char": 137,
+      "end_char": 144,
+      "sentence_idx": 3,
+      "concept_id": "C0006675",
+      "concept_name": "calcium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9792689085006714,
+      "timestamp": null
+    },
+    {
+      "text": "cosmetic deformity",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 170,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cosmetic deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thyroid carcinoma",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 109,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyroid carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thyroid carcinoma",
+      "label": "DISEASE",
+      "start_char": 197,
+      "end_char": 214,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyroid carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 46,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

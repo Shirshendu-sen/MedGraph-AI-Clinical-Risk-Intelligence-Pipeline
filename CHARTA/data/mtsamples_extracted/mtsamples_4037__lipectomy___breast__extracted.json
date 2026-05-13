@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4037__lipectomy___breast_.txt",
+    "file_name": "mtsamples_4037__lipectomy___breast_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2093,
+    "processed_at": "2026-05-09T09:54:32.358918"
+  },
+  "entities": [
+    {
+      "text": "Mammary hypertrophy",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 42,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Mammary hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Mammary hypertrophy",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 106,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Mammary hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 120,
+      "sentence_idx": 3,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

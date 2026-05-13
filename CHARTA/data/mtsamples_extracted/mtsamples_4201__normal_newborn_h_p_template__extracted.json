@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4201__normal_newborn_h_p_template_.txt",
+    "file_name": "mtsamples_4201__normal_newborn_h_p_template_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2614,
+    "processed_at": "2026-05-09T09:54:34.826551"
+  },
+  "entities": [
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 111,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "strep",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 24,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "strep",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "smoke",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 17,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "smoke",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 32,
+      "sentence_idx": 8,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "Nares",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nares",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Palate",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "murmurs",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "murmurs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Normal bowel sounds",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 19,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Normal bowel sounds",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hepatosplenomegaly",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 21,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hepatosplenomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ortolani",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 58,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ortolani",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hepatitis B",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 35,
+      "concept_id": "C0019169",
+      "concept_name": "B virus, Hepatitis",
+      "kb_source": "mesh",
+      "link_score": 0.8374722599983215,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

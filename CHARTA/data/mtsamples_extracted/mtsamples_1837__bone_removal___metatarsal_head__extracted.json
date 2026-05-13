@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1837__bone_removal___metatarsal_head_.txt",
+    "file_name": "mtsamples_1837__bone_removal___metatarsal_head_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4122,
+    "processed_at": "2026-05-09T09:53:51.602920"
+  },
+  "entities": [
+    {
+      "text": "ulcer",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 57,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ulcer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ulcer",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 23,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ulcer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "copious",
+      "label": "CHEMICAL",
+      "start_char": 67,
+      "end_char": 74,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "copious",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 115,
+      "end_char": 124,
+      "sentence_idx": 8,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 134,
+      "end_char": 142,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Esmarch bandage",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 18,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Esmarch bandage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tooth",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 38,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tooth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertrophic exostosis",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 32,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertrophic exostosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subcuteneous",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 93,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subcuteneous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ulcer",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 9,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ulcer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gentamicin",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 36,
+      "sentence_idx": 27,
+      "concept_id": "C3854019",
+      "concept_name": "gentamicin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9848167896270752,
+      "timestamp": null
+    },
+    {
+      "text": "shoe",
+      "label": "CHEMICAL",
+      "start_char": 22,
+      "end_char": 26,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shoe",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocodone",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 51,
+      "sentence_idx": 36,
+      "concept_id": "C0020264",
+      "concept_name": "HYDROcodone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9713261723518372,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

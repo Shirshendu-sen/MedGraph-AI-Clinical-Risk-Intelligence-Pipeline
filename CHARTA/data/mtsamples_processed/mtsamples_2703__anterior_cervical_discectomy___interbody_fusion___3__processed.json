@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2703__anterior_cervical_discectomy___interbody_fusion___3_.txt",
+    "file_name": "mtsamples_2703__anterior_cervical_discectomy___interbody_fusion___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 777,
+    "processed_at": "2026-05-09T09:54:06.321016"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2703__anterior_cervical_discectomy___interbody_fusion___3_.txt",
+    "text": "PREOPERATIVE DIAGNOSES:,  ,1.  Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2.  Neck pain with left radiculopathy, progressive (723.1/723.4).,3.  Headaches, progressive (784.0).,POSTOPERATIVE DIAGNOSES:,  ,1.  Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2.  Neck pain with left radiculopathy, progressive (723.1/723.4).,3.  Headaches, progressive (784.0).,PROCEDURES:,  ,1.  Anterior cervical discectomy at C5-C6 for neural decompression (63075).,2.  Anterior interbody fusion C5-C6 (22554) utilizing Bengal cage (22851).,3.  Anterior cervical instrumentation at C5-C6 for stabilization by Uniplate construction at C5-C6 (22845); with intraoperative x-ray x2.,SERVICE:  ,  Neurosurgery,ANESTHESIA:,",
+    "char_count": 777,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSES:, ,1. Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2. Neck pain with left radiculopathy, progressive (723.1/723.4).,3. Headaches, progressive (784.0).,POSTOPERATIVE DIAGNOSES:, ,1. Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2. Neck pain with left radiculopathy, progressive (723.1/723.4).,3. Headaches, progressive (784.0).,PROCEDURES:, ,1. Anterior cervical discectomy at C5-C6 for neural decompression (63075).,2. Anterior interbody fusion C5-C6 (22554) utilizing Bengal cage (22851).,3. Anterior cervical instrumentation at C5-C6 for stabilization by Uniplate construction at C5-C6 (22845); with intraoperative x-ray x2.,SERVICE: , Neurosurgery,ANESTHESIA:,",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES:, ,1.",
+      "Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2.",
+      "Neck pain with left radiculopathy, progressive (723.1/723.4).,3.",
+      "Headaches, progressive (784.0).,POSTOPERATIVE DIAGNOSES:, ,1.",
+      "Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2.",
+      "Neck pain with left radiculopathy, progressive (723.1/723.4).,3.",
+      "Headaches, progressive (784.0).,PROCEDURES:, ,1.",
+      "Anterior cervical discectomy at C5-C6 for neural decompression (63075).,2.",
+      "Anterior interbody fusion C5-C6 (22554) utilizing Bengal cage (22851).,3.",
+      "Anterior cervical instrumentation at C5-C6 for stabilization by Uniplate construction at C5-C6 (22845); with intraoperative x-ray x2.,SERVICE: , Neurosurgery,ANESTHESIA:,"
+    ],
+    "sentence_count": 10,
+    "original_length": 777,
+    "cleaned_length": 763,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSES:,  ,1.  Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2.  Neck pain with left radiculopathy, progressive (723.1/723.4).,3.  Headaches, progressive (784.0).,POSTOPERATIVE DIAGNOSES:,  ,1.  Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2.  Neck pain with left radiculopathy, progressive (723.1/723.4).,3.  Headaches, progressive (784.0).,PROCEDURES:,  ,1.  Anterior cervical discectomy at C5-C6 for neural decompression (63075).,2.  Anterior interbody fusion C5-C6 (22554) utilizing Bengal cage (22851).,3.  Anterior cervical instrumentation at C5-C6 for stabilization by Uniplate construction at C5-C6 (22845); with intraoperative x-ray x2.,SERVICE:  ,  Neurosurgery,ANESTHESIA:,",
+    "cleaned_text": "PREOPERATIVE DIAGNOSES:, ,1. Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2. Neck pain with left radiculopathy, progressive (723.1/723.4).,3. Headaches, progressive (784.0).,POSTOPERATIVE DIAGNOSES:, ,1. Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2. Neck pain with left radiculopathy, progressive (723.1/723.4).,3. Headaches, progressive (784.0).,PROCEDURES:, ,1. Anterior cervical discectomy at C5-C6 for neural decompression (63075).,2. Anterior interbody fusion C5-C6 (22554) utilizing Bengal cage (22851).,3. Anterior cervical instrumentation at C5-C6 for stabilization by Uniplate construction at C5-C6 (22845); with intraoperative x-ray x2.,SERVICE: , Neurosurgery,ANESTHESIA:,",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES:, ,1.",
+      "Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2.",
+      "Neck pain with left radiculopathy, progressive (723.1/723.4).,3.",
+      "Headaches, progressive (784.0).,POSTOPERATIVE DIAGNOSES:, ,1.",
+      "Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2.",
+      "Neck pain with left radiculopathy, progressive (723.1/723.4).,3.",
+      "Headaches, progressive (784.0).,PROCEDURES:, ,1.",
+      "Anterior cervical discectomy at C5-C6 for neural decompression (63075).,2.",
+      "Anterior interbody fusion C5-C6 (22554) utilizing Bengal cage (22851).,3.",
+      "Anterior cervical instrumentation at C5-C6 for stabilization by Uniplate construction at C5-C6 (22845); with intraoperative x-ray x2.,SERVICE: , Neurosurgery,ANESTHESIA:,"
+    ],
+    "sentence_count": 10
+  }
+}

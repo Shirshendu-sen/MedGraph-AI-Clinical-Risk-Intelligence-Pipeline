@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0909__delivery_note_.txt",
+    "file_name": "mtsamples_0909__delivery_note_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4239,
+    "processed_at": "2026-05-09T09:53:28.836320"
+  },
+  "entities": [
+    {
+      "text": "preterm labor",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 87,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "preterm labor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "nifedipine",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 119,
+      "sentence_idx": 0,
+      "concept_id": "C0028066",
+      "concept_name": "nifedipine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9521645903587341,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "nifedipine",
+      "label": "CHEMICAL",
+      "start_char": 138,
+      "end_char": 148,
+      "sentence_idx": 0,
+      "concept_id": "C0028066",
+      "concept_name": "nifedipine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9521645903587341,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "intrauterine fetal demise",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 92,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine fetal demise",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 18,
+      "sentence_idx": 7,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "labor pain",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 34,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "labor pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "gentamicin",
+      "label": "CHEMICAL",
+      "start_char": 75,
+      "end_char": 85,
+      "sentence_idx": 9,
+      "concept_id": "C3854019",
+      "concept_name": "gentamicin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9848167896270752,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "clindamycin",
+      "label": "CHEMICAL",
+      "start_char": 90,
+      "end_char": 101,
+      "sentence_idx": 9,
+      "concept_id": "C0008947",
+      "concept_name": "clindamycin",
+      "kb_source": "rxnorm",
+      "link_score": 0.978070855140686,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "penicillin allergy",
+      "label": "CHEMICAL",
+      "start_char": 115,
+      "end_char": 133,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "penicillin allergy",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "febrile",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 20,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "febrile",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "artificial rupture",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 28,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "artificial rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "abruption",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 21,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abruption",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 17,
+      "end_char": 24,
+      "sentence_idx": 39,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 53,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "midline laceration",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 148,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "midline laceration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 55,
+      "sentence_idx": 49,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "endometritis",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 81,
+      "sentence_idx": 49,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "infectious disease",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 95,
+      "sentence_idx": 50,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infectious disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/29/08",
+      "start_char": 219,
+      "end_char": 227
+    },
+    {
+      "raw_text": "12/29/08",
+      "start_char": 288,
+      "end_char": 296
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1195__arthroscopy___glenoid_labrum_.txt",
+    "file_name": "mtsamples_1195__arthroscopy___glenoid_labrum_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4355,
+    "processed_at": "2026-05-09T09:53:36.483952"
+  },
+  "entities": [
+    {
+      "text": "Glenoid labrum tear",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 19,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Glenoid labrum tear",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right shoulder pain",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 37,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 75,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "degenerative tear",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 36,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "degenerative tear",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chondromalacia",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 20,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "this.,Another",
+      "label": "CHEMICAL",
+      "start_char": 77,
+      "end_char": 90,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "this.,Another",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chondromalacia",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 120,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

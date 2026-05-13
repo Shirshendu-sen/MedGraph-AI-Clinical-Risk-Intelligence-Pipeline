@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_4487__comprehensive_neurological_evaluation_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 77,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0591395": 1,
+    "C0004609": 2,
+    "C1878038": 3,
+    "C0032952": 4,
+    "C0699458": 5,
+    "C0595425": 6
+  },
+  "visit_dates": [
+    "2002-11-14"
+  ],
+  "graph_file": "mtsamples_4487__comprehensive_neurological_evaluation__graph.pt",
+  "source_dataset": "mtsamples_4487__comprehensive_neurological_evaluation"
+}

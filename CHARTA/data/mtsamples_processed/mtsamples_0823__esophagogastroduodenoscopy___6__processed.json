@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0823__esophagogastroduodenoscopy___6_.txt",
+    "file_name": "mtsamples_0823__esophagogastroduodenoscopy___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 702,
+    "processed_at": "2026-05-09T09:53:26.765985"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0823__esophagogastroduodenoscopy___6_.txt",
+    "text": "PROCEDURE IN DETAIL: , Following premedication with Vistaril 50 mg and Atropine 0.4 mg IM, the patient received Versed 5.0 mg intravenously after Cetacaine spray to the posterior palate.  The Olympus video gastroscope was then introduced into the upper esophagus and passed by direct vision to the descending duodenum.  The upper, mid and lower portions of the esophagus; the lesser and greater curves of the stomach; anterior and posterior walls; body and antrum; pylorus; duodenal bulb; and duodenum were all normal.  No evidence of friability, ulceration or tumor mass was encountered.  The instrument was withdrawn to the antrum, and biopsies taken for CLO testing, and then the instrument removed.",
+    "char_count": 702,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE IN DETAIL: , Following premedication with Vistaril 50 mg and Atropine 0.4 mg IM, the patient received Versed 5.0 mg intravenously after Cetacaine spray to the posterior palate. The Olympus video gastroscope was then introduced into the upper esophagus and passed by direct vision to the descending duodenum. The upper, mid and lower portions of the esophagus; the lesser and greater curves of the stomach; anterior and posterior walls; body and antrum; pylorus; duodenal bulb; and duodenum were all normal. No evidence of friability, ulceration or tumor mass was encountered. The instrument was withdrawn to the antrum, and biopsies taken for CLO testing, and then the instrument removed.",
+    "sentences": [
+      "PROCEDURE IN DETAIL: , Following premedication with Vistaril 50 mg and Atropine 0.4 mg IM, the patient received Versed 5.0 mg intravenously after Cetacaine spray to the posterior palate.",
+      "The Olympus video gastroscope was then introduced into the upper esophagus and passed by direct vision to the descending duodenum.",
+      "The upper, mid and lower portions of the esophagus; the lesser and greater curves of the stomach; anterior and posterior walls; body and antrum; pylorus; duodenal bulb; and duodenum were all normal.",
+      "No evidence of friability, ulceration or tumor mass was encountered.",
+      "The instrument was withdrawn to the antrum, and biopsies taken for CLO testing, and then the instrument removed."
+    ],
+    "sentence_count": 5,
+    "original_length": 702,
+    "cleaned_length": 698,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE IN DETAIL: , Following premedication with Vistaril 50 mg and Atropine 0.4 mg IM, the patient received Versed 5.0 mg intravenously after Cetacaine spray to the posterior palate.  The Olympus video gastroscope was then introduced into the upper esophagus and passed by direct vision to the descending duodenum.  The upper, mid and lower portions of the esophagus; the lesser and greater curves of the stomach; anterior and posterior walls; body and antrum; pylorus; duodenal bulb; and duodenum were all normal.  No evidence of friability, ulceration or tumor mass was encountered.  The instrument was withdrawn to the antrum, and biopsies taken for CLO testing, and then the instrument removed.",
+    "cleaned_text": "PROCEDURE IN DETAIL: , Following premedication with Vistaril 50 mg and Atropine 0.4 mg IM, the patient received Versed 5.0 mg intravenously after Cetacaine spray to the posterior palate. The Olympus video gastroscope was then introduced into the upper esophagus and passed by direct vision to the descending duodenum. The upper, mid and lower portions of the esophagus; the lesser and greater curves of the stomach; anterior and posterior walls; body and antrum; pylorus; duodenal bulb; and duodenum were all normal. No evidence of friability, ulceration or tumor mass was encountered. The instrument was withdrawn to the antrum, and biopsies taken for CLO testing, and then the instrument removed.",
+    "sentences": [
+      "PROCEDURE IN DETAIL: , Following premedication with Vistaril 50 mg and Atropine 0.4 mg IM, the patient received Versed 5.0 mg intravenously after Cetacaine spray to the posterior palate.",
+      "The Olympus video gastroscope was then introduced into the upper esophagus and passed by direct vision to the descending duodenum.",
+      "The upper, mid and lower portions of the esophagus; the lesser and greater curves of the stomach; anterior and posterior walls; body and antrum; pylorus; duodenal bulb; and duodenum were all normal.",
+      "No evidence of friability, ulceration or tumor mass was encountered.",
+      "The instrument was withdrawn to the antrum, and biopsies taken for CLO testing, and then the instrument removed."
+    ],
+    "sentence_count": 5
+  }
+}

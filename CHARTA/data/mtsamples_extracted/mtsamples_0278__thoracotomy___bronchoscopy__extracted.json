@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0278__thoracotomy___bronchoscopy_.txt",
+    "file_name": "mtsamples_0278__thoracotomy___bronchoscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4823,
+    "processed_at": "2026-05-09T09:53:11.200032"
+  },
+  "entities": [
+    {
+      "text": "right pleural effusion",
+      "label": "DISEASE",
+      "start_char": 319,
+      "end_char": 341,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right pleural effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-14"
+    },
+    {
+      "text": "pleural effusion",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 98,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-14"
+    },
+    {
+      "text": "ASP",
+      "label": "CHEMICAL",
+      "start_char": 106,
+      "end_char": 109,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ASP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-14"
+    },
+    {
+      "text": "fibrinous",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 28,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrinous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-14"
+    },
+    {
+      "text": "fibrinous",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 45,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrinous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-14"
+    },
+    {
+      "text": "fibrinous",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 77,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrinous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-14"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 50,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-14"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/14/03",
+      "start_char": 423,
+      "end_char": 431
+    }
+  ]
+}

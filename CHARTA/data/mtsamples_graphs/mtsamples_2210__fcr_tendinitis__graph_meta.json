@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2210__fcr_tendinitis_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0010137": 1,
+    "C0020740": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2210__fcr_tendinitis__graph.pt",
+  "source_dataset": "mtsamples_2210__fcr_tendinitis"
+}

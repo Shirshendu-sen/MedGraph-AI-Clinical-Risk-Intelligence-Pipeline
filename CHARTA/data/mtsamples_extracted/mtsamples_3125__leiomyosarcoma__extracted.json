@@ -1,0 +1,457 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3125__leiomyosarcoma_.txt",
+    "file_name": "mtsamples_3125__leiomyosarcoma_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3498,
+    "processed_at": "2026-05-09T09:54:15.240550"
+  },
+  "entities": [
+    {
+      "text": "DIAGNOSES:,1",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 22,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DIAGNOSES:,1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "pneumonia.,PROCEDURES",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 32,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia.,PROCEDURES",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "CIVI-coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 41,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CIVI-coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "Cytoxan",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 50,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cytoxan",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "Adriamycin",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 62,
+      "sentence_idx": 6,
+      "concept_id": "C0085752",
+      "concept_name": "Adriamycin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9791991114616394,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "DTIC",
+      "label": "CHEMICAL",
+      "start_char": 68,
+      "end_char": 72,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DTIC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "PE",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 13,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 23,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "rheumatoid arthritis",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 79,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rheumatoid arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "leiomyosarcoma",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 92,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "leiomyosarcoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "CIVI-coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 53,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CIVI-coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "pulmonary embolus",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 47,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary embolus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 58,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 81,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "Leiomyosarcoma",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Leiomyosarcoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "Cytoxan",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 51,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cytoxan",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "Adriamycin",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 63,
+      "sentence_idx": 22,
+      "concept_id": "C0085752",
+      "concept_name": "Adriamycin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9791991114616394,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "DTIC",
+      "label": "CHEMICAL",
+      "start_char": 69,
+      "end_char": 73,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DTIC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "pulmonary embolism",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 29,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "dyspnea",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 79,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dyspnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 116,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "pulmonary embolism",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 67,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "Lovenox",
+      "label": "CHEMICAL",
+      "start_char": 121,
+      "end_char": 128,
+      "sentence_idx": 25,
+      "concept_id": "C0728963",
+      "concept_name": "Lovenox",
+      "kb_source": "rxnorm",
+      "link_score": 0.9913882613182068,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 89,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 28,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "intermittent headaches",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 98,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intermittent headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 41,
+      "sentence_idx": 28,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "intracranial abnormalities",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 156,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intracranial abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "sinusitis",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 43,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinusitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "Pancytopenia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pancytopenia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 20,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "cancer",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 56,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    },
+    {
+      "text": "fevers",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 53,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fevers",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-22"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "May 1, 2008",
+      "start_char": 1337,
+      "end_char": 1348
+    },
+    {
+      "raw_text": "07/22/2008",
+      "start_char": 266,
+      "end_char": 276
+    },
+    {
+      "raw_text": "07/29/2008",
+      "start_char": 280,
+      "end_char": 290
+    },
+    {
+      "raw_text": "07/24/2008",
+      "start_char": 2263,
+      "end_char": 2273
+    },
+    {
+      "raw_text": "07/26/2008",
+      "start_char": 2716,
+      "end_char": 2726
+    },
+    {
+      "raw_text": "08/05/2008",
+      "start_char": 3251,
+      "end_char": 3261
+    },
+    {
+      "raw_text": "08/12/2008",
+      "start_char": 3311,
+      "end_char": 3321
+    }
+  ]
+}

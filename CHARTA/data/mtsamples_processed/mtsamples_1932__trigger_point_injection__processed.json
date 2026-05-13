@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1932__trigger_point_injection_.txt",
+    "file_name": "mtsamples_1932__trigger_point_injection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 11,
+    "processed_at": "2026-05-09T09:53:53.317483"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1932__trigger_point_injection_.txt",
+    "text": "OPERATION:,",
+    "char_count": 11,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "OPERATION:,",
+    "sentences": [
+      "OPERATION:,"
+    ],
+    "sentence_count": 1,
+    "original_length": 11,
+    "cleaned_length": 11,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "OPERATION:,",
+    "cleaned_text": "OPERATION:,",
+    "sentences": [
+      "OPERATION:,"
+    ],
+    "sentence_count": 1
+  }
+}

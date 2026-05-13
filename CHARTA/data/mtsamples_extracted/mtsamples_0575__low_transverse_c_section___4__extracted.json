@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0575__low_transverse_c_section___4_.txt",
+    "file_name": "mtsamples_0575__low_transverse_c_section___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2500,
+    "processed_at": "2026-05-09T09:53:19.645454"
+  },
+  "entities": [
+    {
+      "text": "Meconium",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Meconium",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bleeding",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 60,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

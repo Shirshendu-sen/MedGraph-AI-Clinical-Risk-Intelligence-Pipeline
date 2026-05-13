@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4872__cardiac_consultation___1_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 21,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4872__cardiac_consultation___1__graph.pt",
+  "source_dataset": "mtsamples_4872__cardiac_consultation___1"
+}

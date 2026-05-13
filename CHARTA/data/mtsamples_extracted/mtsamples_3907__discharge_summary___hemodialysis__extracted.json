@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3907__discharge_summary___hemodialysis_.txt",
+    "file_name": "mtsamples_3907__discharge_summary___hemodialysis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2162,
+    "processed_at": "2026-05-09T09:54:29.165005"
+  },
+  "entities": [
+    {
+      "text": "End-stage renal disease",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 23,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "End-stage renal disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-04-14"
+    },
+    {
+      "text": "Congestive heart failure",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 24,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Congestive heart failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-04-14"
+    },
+    {
+      "text": "Diabetes",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-04-14"
+    },
+    {
+      "text": "lumbar diskitis",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 45,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lumbar diskitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-04-14"
+    },
+    {
+      "text": "constipation",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 50,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "constipation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-04-14"
+    },
+    {
+      "text": "confusion",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 52,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "confusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-04-14"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 32,
+      "sentence_idx": 16,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-04-14"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "April 14, 2008",
+      "start_char": 391,
+      "end_char": 405
+    },
+    {
+      "raw_text": "May 9, 2008",
+      "start_char": 1175,
+      "end_char": 1186
+    }
+  ]
+}

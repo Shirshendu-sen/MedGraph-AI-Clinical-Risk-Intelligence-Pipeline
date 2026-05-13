@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1460__rheumatology_progress_note_.txt",
+    "file_name": "mtsamples_1460__rheumatology_progress_note_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1248,
+    "processed_at": "2026-05-09T09:53:42.583335"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1460__rheumatology_progress_note_.txt",
+    "text": "SUBJECTIVE:,  The patient is here for a follow-up.  The patient has a history of lupus, currently on Plaquenil 200-mg b.i.d.  Eye report was noted and appreciated.  The patient states that she is having some aches and pains of the hands and elbows that started recently a few weeks ago.  She denied having any trauma.  She states that the pain is bothering her.  She denies having any fevers, chills, or any joint effusion or swelling at this point.  She noted also that there is some increase in her hair loss in the recent times.,OBJECTIVE:,  The patient is alert and oriented.  General physical exam is unremarkable.  Musculoskeletal exam reveals positive tenderness in both lateral epicondyles of both elbows, no effusion.  Hand examination is unremarkable today.  The rest of the musculoskeletal exam is unremarkable.,ASSESSMENT:,  Epicondylitis, both elbows, possibly secondary to lupus flare-up.,PLAN:,  We will inject both elbows with 40-mg of Kenalog mixed with 1 cc of lidocaine.  The posterior approach was chosen under sterile conditions.  The patient tolerated both procedures well.  I will obtain CBC and urinalysis today.  If the patient's pain does not improve, I will consider adding methotrexate to her therapy.,Sample Doctor M.D.",
+    "char_count": 1248,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "SUBJECTIVE:, The patient is here for a follow-up. The patient has a history of lupus, currently on Plaquenil 200-mg b.i.d. Eye report was noted and appreciated. The patient states that she is having some aches and pains of the hands and elbows that started recently a few weeks ago. She denied having any trauma. She states that the pain is bothering her. She denies having any fevers, chills, or any joint effusion or swelling at this point. She noted also that there is some increase in her hair loss in the recent times.,OBJECTIVE:, The patient is alert and oriented. General physical exam is unremarkable. Musculoskeletal exam reveals positive tenderness in both lateral epicondyles of both elbows, no effusion. Hand examination is unremarkable today. The rest of the musculoskeletal exam is unremarkable.,ASSESSMENT:, Epicondylitis, both elbows, possibly secondary to lupus flare-up.,PLAN:, We will inject both elbows with 40-mg of Kenalog mixed with 1 cc of lidocaine. The posterior approach was chosen under sterile conditions. The patient tolerated both procedures well. I will obtain CBC and urinalysis today. If the patient's pain does not improve, I will consider adding methotrexate to her therapy.,Sample Doctor M.D.",
+    "sentences": [
+      "SUBJECTIVE:, The patient is here for a follow-up.",
+      "The patient has a history of lupus, currently on Plaquenil 200-mg b.i.d.",
+      "Eye report was noted and appreciated.",
+      "The patient states that she is having some aches and pains of the hands and elbows that started recently a few weeks ago.",
+      "She denied having any trauma.",
+      "She states that the pain is bothering her.",
+      "She denies having any fevers, chills, or any joint effusion or swelling at this point.",
+      "She noted also that there is some increase in her hair loss in the recent times.,OBJECTIVE:, The patient is alert and oriented.",
+      "General physical exam is unremarkable.",
+      "Musculoskeletal exam reveals positive tenderness in both lateral epicondyles of both elbows, no effusion.",
+      "Hand examination is unremarkable today.",
+      "The rest of the musculoskeletal exam is unremarkable.,ASSESSMENT:, Epicondylitis, both elbows, possibly secondary to lupus flare-up.,PLAN:, We will inject both elbows with 40-mg of Kenalog mixed with 1 cc of lidocaine.",
+      "The posterior approach was chosen under sterile conditions.",
+      "The patient tolerated both procedures well.",
+      "I will obtain CBC and urinalysis today.",
+      "If the patient's pain does not improve, I will consider adding methotrexate to her therapy.,Sample Doctor M.D."
+    ],
+    "sentence_count": 16,
+    "original_length": 1248,
+    "cleaned_length": 1229,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "SUBJECTIVE:,  The patient is here for a follow-up.  The patient has a history of lupus, currently on Plaquenil 200-mg b.i.d.  Eye report was noted and appreciated.  The patient states that she is having some aches and pains of the hands and elbows that started recently a few weeks ago.  She denied having any trauma.  She states that the pain is bothering her.  She denies having any fevers, chills, or any joint effusion or swelling at this point.  She noted also that there is some increase in her hair loss in the recent times.,OBJECTIVE:,  The patient is alert and oriented.  General physical exam is unremarkable.  Musculoskeletal exam reveals positive tenderness in both lateral epicondyles of both elbows, no effusion.  Hand examination is unremarkable today.  The rest of the musculoskeletal exam is unremarkable.,ASSESSMENT:,  Epicondylitis, both elbows, possibly secondary to lupus flare-up.,PLAN:,  We will inject both elbows with 40-mg of Kenalog mixed with 1 cc of lidocaine.  The posterior approach was chosen under sterile conditions.  The patient tolerated both procedures well.  I will obtain CBC and urinalysis today.  If the patient's pain does not improve, I will consider adding methotrexate to her therapy.,Sample Doctor M.D.",
+    "cleaned_text": "SUBJECTIVE:, The patient is here for a follow-up. The patient has a history of lupus, currently on Plaquenil 200-mg b.i.d. Eye report was noted and appreciated. The patient states that she is having some aches and pains of the hands and elbows that started recently a few weeks ago. She denied having any trauma. She states that the pain is bothering her. She denies having any fevers, chills, or any joint effusion or swelling at this point. She noted also that there is some increase in her hair loss in the recent times.,OBJECTIVE:, The patient is alert and oriented. General physical exam is unremarkable. Musculoskeletal exam reveals positive tenderness in both lateral epicondyles of both elbows, no effusion. Hand examination is unremarkable today. The rest of the musculoskeletal exam is unremarkable.,ASSESSMENT:, Epicondylitis, both elbows, possibly secondary to lupus flare-up.,PLAN:, We will inject both elbows with 40-mg of Kenalog mixed with 1 cc of lidocaine. The posterior approach was chosen under sterile conditions. The patient tolerated both procedures well. I will obtain CBC and urinalysis today. If the patient's pain does not improve, I will consider adding methotrexate to her therapy.,Sample Doctor M.D.",
+    "sentences": [
+      "SUBJECTIVE:, The patient is here for a follow-up.",
+      "The patient has a history of lupus, currently on Plaquenil 200-mg b.i.d.",
+      "Eye report was noted and appreciated.",
+      "The patient states that she is having some aches and pains of the hands and elbows that started recently a few weeks ago.",
+      "She denied having any trauma.",
+      "She states that the pain is bothering her.",
+      "She denies having any fevers, chills, or any joint effusion or swelling at this point.",
+      "She noted also that there is some increase in her hair loss in the recent times.,OBJECTIVE:, The patient is alert and oriented.",
+      "General physical exam is unremarkable.",
+      "Musculoskeletal exam reveals positive tenderness in both lateral epicondyles of both elbows, no effusion.",
+      "Hand examination is unremarkable today.",
+      "The rest of the musculoskeletal exam is unremarkable.,ASSESSMENT:, Epicondylitis, both elbows, possibly secondary to lupus flare-up.,PLAN:, We will inject both elbows with 40-mg of Kenalog mixed with 1 cc of lidocaine.",
+      "The posterior approach was chosen under sterile conditions.",
+      "The patient tolerated both procedures well.",
+      "I will obtain CBC and urinalysis today.",
+      "If the patient's pain does not improve, I will consider adding methotrexate to her therapy.,Sample Doctor M.D."
+    ],
+    "sentence_count": 16
+  }
+}

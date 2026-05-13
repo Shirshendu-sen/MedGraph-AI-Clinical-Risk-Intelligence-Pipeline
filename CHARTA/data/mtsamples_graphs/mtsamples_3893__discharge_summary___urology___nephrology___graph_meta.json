@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_3893__discharge_summary___urology___nephrology__",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 59,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0010294": 1,
+    "C0007559": 2,
+    "C0014025": 3,
+    "C0700187": 4,
+    "C0020223": 5,
+    "C0699992": 6,
+    "C0008809": 7
+  },
+  "visit_dates": [
+    "2026-03-29"
+  ],
+  "graph_file": "mtsamples_3893__discharge_summary___urology___nephrology___graph.pt",
+  "source_dataset": "mtsamples_3893__discharge_summary___urology___nephrology_"
+}

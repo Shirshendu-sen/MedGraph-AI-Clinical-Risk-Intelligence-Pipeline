@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_1330__mesothelioma___chart_note_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 24,
+  "entity_index": {
+    "C0591423": 0,
+    "C0728755": 1,
+    "C0699142": 2,
+    "UNKNOWN": 3,
+    "C0030346": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1330__mesothelioma___chart_note__graph.pt",
+  "source_dataset": "mtsamples_1330__mesothelioma___chart_note"
+}

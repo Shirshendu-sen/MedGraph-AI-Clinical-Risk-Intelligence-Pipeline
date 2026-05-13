@@ -1,0 +1,24 @@
+{
+  "patient_id": "mtsamples_4161__peripheral_effusion___consult_",
+  "num_entities": 11,
+  "num_visits": 1,
+  "num_edges": 94,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0012306": 1,
+    "C0014806": 2,
+    "C0007561": 3,
+    "C0006681": 4,
+    "C0487782": 5,
+    "C0030054": 6,
+    "C0037473": 7,
+    "C0032821": 8,
+    "C0010294": 9,
+    "C0017725": 10
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4161__peripheral_effusion___consult__graph.pt",
+  "source_dataset": "mtsamples_4161__peripheral_effusion___consult"
+}

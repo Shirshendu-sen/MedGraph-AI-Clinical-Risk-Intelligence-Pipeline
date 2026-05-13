@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3930__death_summary___2_.txt",
+    "file_name": "mtsamples_3930__death_summary___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1994,
+    "processed_at": "2026-05-09T09:54:29.320950"
+  },
+  "entities": [
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 90,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 116,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "osteoporosis",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 130,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoporosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "congestive heart failure",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 160,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congestive heart failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 183,
+      "end_char": 192,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "congestive heart failure",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 48,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congestive heart failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anorexia",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 59,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anorexia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sinus tachycardia",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 112,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinus tachycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 47,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "congestive heart failure",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 85,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congestive heart failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lasix",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 46,
+      "sentence_idx": 17,
+      "concept_id": "C0699992",
+      "concept_name": "Lasix",
+      "kb_source": "rxnorm",
+      "link_score": 0.9658849239349365,
+      "timestamp": null
+    },
+    {
+      "text": "DNR",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 43,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DNR",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 71,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "congestive heart failure",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 100,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congestive heart failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 134,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2001__ulnar_nerve_transposition_.txt",
+    "file_name": "mtsamples_2001__ulnar_nerve_transposition_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1731,
+    "processed_at": "2026-05-09T09:53:54.434449"
+  },
+  "entities": [
+    {
+      "text": "bipolar electrocautery",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 64,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar electrocautery",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 25,
+      "sentence_idx": 9,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3004__ct_kub_.txt",
+    "file_name": "mtsamples_3004__ct_kub_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1299,
+    "processed_at": "2026-05-09T09:54:12.299390"
+  },
+  "entities": [
+    {
+      "text": "hydronephrosis",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 26,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydronephrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-16"
+    },
+    {
+      "text": "calcifications",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 24,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcifications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-16"
+    },
+    {
+      "text": "phleboliths",
+      "label": "DISEASE",
+      "start_char": 218,
+      "end_char": 229,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "phleboliths",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-16"
+    },
+    {
+      "text": "renal enlargement",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 40,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "renal enlargement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-16"
+    },
+    {
+      "text": "phleboliths",
+      "label": "DISEASE",
+      "start_char": 155,
+      "end_char": 166,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "phleboliths",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-16"
+    },
+    {
+      "text": "renal stone",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 14,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "renal stone",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-16"
+    },
+    {
+      "text": "pelvic calcifications",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 38,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic calcifications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-16"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "01/16/09",
+      "start_char": 171,
+      "end_char": 179
+    }
+  ]
+}

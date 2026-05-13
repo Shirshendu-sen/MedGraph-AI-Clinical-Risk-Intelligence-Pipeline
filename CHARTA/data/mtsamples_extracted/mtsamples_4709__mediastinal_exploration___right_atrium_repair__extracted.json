@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4709__mediastinal_exploration___right_atrium_repair_.txt",
+    "file_name": "mtsamples_4709__mediastinal_exploration___right_atrium_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2264,
+    "processed_at": "2026-05-09T09:54:43.673371"
+  },
+  "entities": [
+    {
+      "text": "mitral valve repair",
+      "label": "DISEASE",
+      "start_char": 186,
+      "end_char": 205,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral valve repair",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cardiac tamponade",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 69,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardiac tamponade",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypotension",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 124,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypotension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 80,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 26,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

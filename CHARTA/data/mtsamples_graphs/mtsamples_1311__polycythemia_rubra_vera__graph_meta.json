@@ -1,0 +1,24 @@
+{
+  "patient_id": "mtsamples_1311__polycythemia_rubra_vera_",
+  "num_entities": 11,
+  "num_visits": 1,
+  "num_edges": 98,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0040165": 1,
+    "C0025270": 2,
+    "C0004057": 3,
+    "C0036581": 4,
+    "C0527315": 5,
+    "C0702069": 6,
+    "C0244821": 7,
+    "C0042874": 8,
+    "C0483514": 9,
+    "C0719949": 10
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1311__polycythemia_rubra_vera__graph.pt",
+  "source_dataset": "mtsamples_1311__polycythemia_rubra_vera"
+}

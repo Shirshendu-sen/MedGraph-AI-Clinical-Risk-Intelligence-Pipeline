@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0700__i_d___gluteal_abscess_.txt",
+    "file_name": "mtsamples_0700__i_d___gluteal_abscess_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3421,
+    "processed_at": "2026-05-09T09:53:22.698132"
+  },
+  "entities": [
+    {
+      "text": "Postoperative wound infection",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 29,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Postoperative wound infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 26,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "wound infection",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 65,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "wound infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 69,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 171,
+      "end_char": 178,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4738__heart_catheterization__ventriculography____angiography___7_.txt",
+    "file_name": "mtsamples_4738__heart_catheterization__ventriculography____angiography___7_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2761,
+    "processed_at": "2026-05-09T09:54:44.031411"
+  },
+  "entities": [
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 202,
+      "end_char": 211,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 84,
+      "end_char": 91,
+      "sentence_idx": 2,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": null
+    },
+    {
+      "text": "AL1",
+      "label": "CHEMICAL",
+      "start_char": 15,
+      "end_char": 18,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AL1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ventricular branch",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 137,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ventricular branch",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mitral insufficiency",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 32,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral insufficiency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left ventricular systolic function.,Given",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 48,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left ventricular systolic function.,Given",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 160,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "disease of the circumflex",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 53,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "disease of the circumflex",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

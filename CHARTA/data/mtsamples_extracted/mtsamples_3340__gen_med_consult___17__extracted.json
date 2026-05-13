@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3340__gen_med_consult___17_.txt",
+    "file_name": "mtsamples_3340__gen_med_consult___17_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1483,
+    "processed_at": "2026-05-09T09:54:20.111541"
+  },
+  "entities": [
+    {
+      "text": "complaint of intermittent fever",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 145,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "complaint of intermittent fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Amoxil",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 38,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Amoxil",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sinus infection",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 77,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinus infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergic rhinitis",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 66,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergic rhinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Zyrtec",
+      "label": "CHEMICAL",
+      "start_char": 90,
+      "end_char": 96,
+      "sentence_idx": 2,
+      "concept_id": "C0162723",
+      "concept_name": "Zyrtec",
+      "kb_source": "rxnorm",
+      "link_score": 0.9963204860687256,
+      "timestamp": null
+    },
+    {
+      "text": "tooth",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 26,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tooth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "drooling",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 57,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "drooling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vomiting or diarrhea",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 34,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting or diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Appetite",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Appetite",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Nares",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nares",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "turgor.,ASSESSMENT:,1",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 57,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "turgor.,ASSESSMENT:,1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Allergic rhinitis.,2",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 20,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Allergic rhinitis.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fever",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Sinusitis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Sinusitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Zyrtec",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 59,
+      "sentence_idx": 22,
+      "concept_id": "C0162723",
+      "concept_name": "Zyrtec",
+      "kb_source": "rxnorm",
+      "link_score": 0.9963204860687256,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

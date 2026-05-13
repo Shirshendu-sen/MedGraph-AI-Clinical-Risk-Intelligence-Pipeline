@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4783__endovascular_brachytherapy_.txt",
+    "file_name": "mtsamples_4783__endovascular_brachytherapy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1038,
+    "processed_at": "2026-05-09T09:54:44.613350"
+  },
+  "entities": [
+    {
+      "text": "angioplasty",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 82,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "angioplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "restenosis",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 106,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "restenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery injury",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 152,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "strontium",
+      "label": "CHEMICAL",
+      "start_char": 87,
+      "end_char": 96,
+      "sentence_idx": 2,
+      "concept_id": "C0038467",
+      "concept_name": "strontium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9599837064743042,
+      "timestamp": null
+    },
+    {
+      "text": "toxicity",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 88,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "toxicity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cardiac ischemia",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 113,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardiac ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

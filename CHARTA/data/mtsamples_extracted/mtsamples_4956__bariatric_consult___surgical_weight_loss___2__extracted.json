@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4956__bariatric_consult___surgical_weight_loss___2_.txt",
+    "file_name": "mtsamples_4956__bariatric_consult___surgical_weight_loss___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1763,
+    "processed_at": "2026-05-09T09:54:48.136178"
+  },
+  "entities": [
+    {
+      "text": "non-insulin dependent diabetes",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 42,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-insulin dependent diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left knee arthritis",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 29,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left knee arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhoids.,PAST",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 62,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids.,PAST",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol addiction",
+      "label": "DISEASE",
+      "start_char": 262,
+      "end_char": 279,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "alcohol addiction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "overweight",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 29,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "overweight",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Diabetes",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 64,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Actos",
+      "label": "CHEMICAL",
+      "start_char": 125,
+      "end_char": 130,
+      "sentence_idx": 7,
+      "concept_id": "C0875954",
+      "concept_name": "Actos",
+      "kb_source": "rxnorm",
+      "link_score": 0.9564660787582397,
+      "timestamp": null
+    },
+    {
+      "text": "Amaryl 2",
+      "label": "CHEMICAL",
+      "start_char": 144,
+      "end_char": 152,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Amaryl 2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "meloxicam",
+      "label": "CHEMICAL",
+      "start_char": 173,
+      "end_char": 182,
+      "sentence_idx": 7,
+      "concept_id": "C0083381",
+      "concept_name": "meloxicam",
+      "kb_source": "rxnorm",
+      "link_score": 0.9697638154029846,
+      "timestamp": null
+    },
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 225,
+      "end_char": 234,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "caffeine",
+      "label": "CHEMICAL",
+      "start_char": 275,
+      "end_char": 283,
+      "sentence_idx": 7,
+      "concept_id": "C0006644",
+      "concept_name": "caffeine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9414069056510925,
+      "timestamp": null
+    },
+    {
+      "text": "nonicteric sclerae",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 46,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nonicteric sclerae",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 25,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "clubbing",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 35,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clubbing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1388__endometrial_cancer_followup_.txt",
+    "file_name": "mtsamples_1388__endometrial_cancer_followup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1535,
+    "processed_at": "2026-05-09T09:53:40.382483"
+  },
+  "entities": [
+    {
+      "text": "cisplatin",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 36,
+      "sentence_idx": 2,
+      "concept_id": "C0008838",
+      "concept_name": "CISplatin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9408295154571533,
+      "timestamp": "2010-03-22"
+    },
+    {
+      "text": "Adriamycin",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 48,
+      "sentence_idx": 2,
+      "concept_id": "C0085752",
+      "concept_name": "Adriamycin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9791991114616394,
+      "timestamp": "2010-03-22"
+    },
+    {
+      "text": "abnormal vaginal bleeding",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 177,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal vaginal bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-22"
+    },
+    {
+      "text": "adnexa",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 144,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adnexa",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-22"
+    },
+    {
+      "text": "endometrial adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 67,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometrial adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-22"
+    },
+    {
+      "text": "seroma",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 66,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-22"
+    },
+    {
+      "text": "q.d",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 86,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "q.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2010-03-22"
+    },
+    {
+      "text": "ferrous sulfate",
+      "label": "CHEMICAL",
+      "start_char": 89,
+      "end_char": 104,
+      "sentence_idx": 12,
+      "concept_id": "C0060282",
+      "concept_name": "ferrous sulfate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9771414399147034,
+      "timestamp": "2010-03-22"
+    },
+    {
+      "text": "multivitamin q.d",
+      "label": "CHEMICAL",
+      "start_char": 120,
+      "end_char": 136,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "multivitamin q.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2010-03-22"
+    },
+    {
+      "text": "nausea",
+      "label": "DISEASE",
+      "start_char": 170,
+      "end_char": 176,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-22"
+    },
+    {
+      "text": "insomnia",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 189,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "insomnia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-22"
+    },
+    {
+      "text": "gabapentin",
+      "label": "CHEMICAL",
+      "start_char": 191,
+      "end_char": 201,
+      "sentence_idx": 12,
+      "concept_id": "C0060926",
+      "concept_name": "gabapentin",
+      "kb_source": "rxnorm",
+      "link_score": 0.954128623008728,
+      "timestamp": "2010-03-22"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "03/22/2010",
+      "start_char": 396,
+      "end_char": 406
+    },
+    {
+      "raw_text": "04/01/2010",
+      "start_char": 562,
+      "end_char": 572
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_2812__mri_brain___toxoplasmosis_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 98,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0024730": 1,
+    "C0591139": 2,
+    "C0699601": 3,
+    "C0001367": 4,
+    "C0699034": 5,
+    "C0164662": 6,
+    "C0140575": 7,
+    "C0029904": 8,
+    "C0016911": 9,
+    "C0034283": 10,
+    "C0038675": 11
+  },
+  "visit_dates": [
+    "1995-07-14"
+  ],
+  "graph_file": "mtsamples_2812__mri_brain___toxoplasmosis__graph.pt",
+  "source_dataset": "mtsamples_2812__mri_brain___toxoplasmosis"
+}

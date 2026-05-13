@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0423__pilonidal_cyst_excision_.txt",
+    "file_name": "mtsamples_0423__pilonidal_cyst_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 957,
+    "processed_at": "2026-05-09T09:53:15.715833"
+  },
+  "entities": [
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 53,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 118,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 34,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

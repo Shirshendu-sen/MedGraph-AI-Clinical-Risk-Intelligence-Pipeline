@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2583__hysterectomy___discharge_summary___1_.txt",
+    "file_name": "mtsamples_2583__hysterectomy___discharge_summary___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1200,
+    "processed_at": "2026-05-09T09:54:04.649206"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2583__hysterectomy___discharge_summary___1_.txt",
+    "text": "ADMISSION DIAGNOSES:,1.  Menometrorrhagia.,2.  Dysmenorrhea.,3.  Small uterine fibroids.,DISCHARGE DIAGNOSES:,1.  Menorrhagia.,2.  Dysmenorrhea.,3.  Small uterine fibroids.,OPERATION PERFORMED:  ,Total vaginal hysterectomy.,BRIEF HISTORY AND PHYSICAL:  ,The patient is a 42 year-old white female, gravida 3, para 2, with two prior vaginal deliveries.  She is having increasing menometrorrhagia and dysmenorrhea.  Ultrasound shows a small uterine fibroid.  She has failed oral contraceptives and surgical therapy is planned.,PAST HISTORY: , Significant for reflux.,SURGICAL HISTORY:  ,Tubal ligation.,PHYSICAL EXAMINATION: , A top normal sized uterus with normal adnexa.,LABORATORY VALUES:  ,Her discharge hemoglobin is 12.4.,HOSPITAL COURSE: , She was taken to the operating room on 11/05/07 where a total vaginal hysterectomy was performed under general anesthesia.  Postoperatively, she has done well.  Bowel and bladder function have returned normally.  She is ambulating well, tolerating a regular diet.  Routine postoperative instructions given and said follow up will be in four weeks in the office.,DISCHARGE MEDICATIONS: , Preoperative meds plus Vicodin for pain.,DISCHARGE CONDITION: , Good.",
+    "char_count": 1200,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "ADMISSION DIAGNOSES:,1. Menometrorrhagia.,2. Dysmenorrhea.,3. Small uterine fibroids.,DISCHARGE DIAGNOSES:,1. Menorrhagia.,2. Dysmenorrhea.,3. Small uterine fibroids.,OPERATION PERFORMED: ,Total vaginal hysterectomy.,BRIEF HISTORY AND PHYSICAL: ,The patient is a 42 year-old white female, gravida 3, para 2, with two prior vaginal deliveries. She is having increasing menometrorrhagia and dysmenorrhea. Ultrasound shows a small uterine fibroid. She has failed oral contraceptives and surgical therapy is planned.,PAST HISTORY: , Significant for reflux.,SURGICAL HISTORY: ,Tubal ligation.,PHYSICAL EXAMINATION: , A top normal sized uterus with normal adnexa.,LABORATORY VALUES: ,Her discharge hemoglobin is 12.4.,HOSPITAL COURSE: , She was taken to the operating room on 11/05/07 where a total vaginal hysterectomy was performed under general anesthesia. Postoperatively, she has done well. Bowel and bladder function have returned normally. She is ambulating well, tolerating a regular diet. Routine postoperative instructions given and said follow up will be in four weeks in the office.,DISCHARGE MEDICATIONS: , Preoperative meds plus Vicodin for pain.,DISCHARGE CONDITION: , Good.",
+    "sentences": [
+      "ADMISSION DIAGNOSES:,1.",
+      "Menometrorrhagia.,2.",
+      "Dysmenorrhea.,3.",
+      "Small uterine fibroids.,DISCHARGE DIAGNOSES:,1.",
+      "Menorrhagia.,2.",
+      "Dysmenorrhea.,3.",
+      "Small uterine fibroids.,OPERATION PERFORMED: ,Total vaginal hysterectomy.,BRIEF HISTORY AND PHYSICAL: ,The patient is a 42 year-old white female, gravida 3, para 2, with two prior vaginal deliveries.",
+      "She is having increasing menometrorrhagia and dysmenorrhea.",
+      "Ultrasound shows a small uterine fibroid.",
+      "She has failed oral contraceptives and surgical therapy is planned.,PAST HISTORY: , Significant for reflux.,SURGICAL HISTORY: ,Tubal ligation.,PHYSICAL EXAMINATION: , A top normal sized uterus with normal adnexa.,LABORATORY VALUES: ,Her discharge hemoglobin is 12.4.,HOSPITAL COURSE: , She was taken to the operating room on 11/05/07 where a total vaginal hysterectomy was performed under general anesthesia.",
+      "Postoperatively, she has done well.",
+      "Bowel and bladder function have returned normally.",
+      "She is ambulating well, tolerating a regular diet.",
+      "Routine postoperative instructions given and said follow up will be in four weeks in the office.,DISCHARGE MEDICATIONS: , Preoperative meds plus Vicodin for pain.,DISCHARGE CONDITION: , Good."
+    ],
+    "sentence_count": 14,
+    "original_length": 1200,
+    "cleaned_length": 1183,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "ADMISSION DIAGNOSES:,1.  Menometrorrhagia.,2.  Dysmenorrhea.,3.  Small uterine fibroids.,DISCHARGE DIAGNOSES:,1.  Menorrhagia.,2.  Dysmenorrhea.,3.  Small uterine fibroids.,OPERATION PERFORMED:  ,Total vaginal hysterectomy.,BRIEF HISTORY AND PHYSICAL:  ,The patient is a 42 year-old white female, gravida 3, para 2, with two prior vaginal deliveries.  She is having increasing menometrorrhagia and dysmenorrhea.  Ultrasound shows a small uterine fibroid.  She has failed oral contraceptives and surgical therapy is planned.,PAST HISTORY: , Significant for reflux.,SURGICAL HISTORY:  ,Tubal ligation.,PHYSICAL EXAMINATION: , A top normal sized uterus with normal adnexa.,LABORATORY VALUES:  ,Her discharge hemoglobin is 12.4.,HOSPITAL COURSE: , She was taken to the operating room on 11/05/07 where a total vaginal hysterectomy was performed under general anesthesia.  Postoperatively, she has done well.  Bowel and bladder function have returned normally.  She is ambulating well, tolerating a regular diet.  Routine postoperative instructions given and said follow up will be in four weeks in the office.,DISCHARGE MEDICATIONS: , Preoperative meds plus Vicodin for pain.,DISCHARGE CONDITION: , Good.",
+    "cleaned_text": "ADMISSION DIAGNOSES:,1. Menometrorrhagia.,2. Dysmenorrhea.,3. Small uterine fibroids.,DISCHARGE DIAGNOSES:,1. Menorrhagia.,2. Dysmenorrhea.,3. Small uterine fibroids.,OPERATION PERFORMED: ,Total vaginal hysterectomy.,BRIEF HISTORY AND PHYSICAL: ,The patient is a 42 year-old white female, gravida 3, para 2, with two prior vaginal deliveries. She is having increasing menometrorrhagia and dysmenorrhea. Ultrasound shows a small uterine fibroid. She has failed oral contraceptives and surgical therapy is planned.,PAST HISTORY: , Significant for reflux.,SURGICAL HISTORY: ,Tubal ligation.,PHYSICAL EXAMINATION: , A top normal sized uterus with normal adnexa.,LABORATORY VALUES: ,Her discharge hemoglobin is 12.4.,HOSPITAL COURSE: , She was taken to the operating room on 11/05/07 where a total vaginal hysterectomy was performed under general anesthesia. Postoperatively, she has done well. Bowel and bladder function have returned normally. She is ambulating well, tolerating a regular diet. Routine postoperative instructions given and said follow up will be in four weeks in the office.,DISCHARGE MEDICATIONS: , Preoperative meds plus Vicodin for pain.,DISCHARGE CONDITION: , Good.",
+    "sentences": [
+      "ADMISSION DIAGNOSES:,1.",
+      "Menometrorrhagia.,2.",
+      "Dysmenorrhea.,3.",
+      "Small uterine fibroids.,DISCHARGE DIAGNOSES:,1.",
+      "Menorrhagia.,2.",
+      "Dysmenorrhea.,3.",
+      "Small uterine fibroids.,OPERATION PERFORMED: ,Total vaginal hysterectomy.,BRIEF HISTORY AND PHYSICAL: ,The patient is a 42 year-old white female, gravida 3, para 2, with two prior vaginal deliveries.",
+      "She is having increasing menometrorrhagia and dysmenorrhea.",
+      "Ultrasound shows a small uterine fibroid.",
+      "She has failed oral contraceptives and surgical therapy is planned.,PAST HISTORY: , Significant for reflux.,SURGICAL HISTORY: ,Tubal ligation.,PHYSICAL EXAMINATION: , A top normal sized uterus with normal adnexa.,LABORATORY VALUES: ,Her discharge hemoglobin is 12.4.,HOSPITAL COURSE: , She was taken to the operating room on 11/05/07 where a total vaginal hysterectomy was performed under general anesthesia.",
+      "Postoperatively, she has done well.",
+      "Bowel and bladder function have returned normally.",
+      "She is ambulating well, tolerating a regular diet.",
+      "Routine postoperative instructions given and said follow up will be in four weeks in the office.,DISCHARGE MEDICATIONS: , Preoperative meds plus Vicodin for pain.,DISCHARGE CONDITION: , Good."
+    ],
+    "sentence_count": 14
+  }
+}

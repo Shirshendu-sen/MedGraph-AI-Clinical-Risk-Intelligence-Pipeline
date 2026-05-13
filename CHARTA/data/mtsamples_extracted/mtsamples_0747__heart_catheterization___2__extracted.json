@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0747__heart_catheterization___2_.txt",
+    "file_name": "mtsamples_0747__heart_catheterization___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3117,
+    "processed_at": "2026-05-09T09:53:24.548442"
+  },
+  "entities": [
+    {
+      "text": "congestive heart failure",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 100,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congestive heart failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 151,
+      "end_char": 160,
+      "sentence_idx": 1,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "O2",
+      "label": "CHEMICAL",
+      "start_char": 168,
+      "end_char": 170,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "O2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "orthostasis",
+      "label": "DISEASE",
+      "start_char": 659,
+      "end_char": 670,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "orthostasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 53,
+      "sentence_idx": 18,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    },
+    {
+      "text": "ventricular tachycardia",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 111,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ventricular tachycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lasix",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 31,
+      "sentence_idx": 20,
+      "concept_id": "C0699992",
+      "concept_name": "Lasix",
+      "kb_source": "rxnorm",
+      "link_score": 0.9658849239349365,
+      "timestamp": null
+    },
+    {
+      "text": "q.d",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 47,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "q.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "amiodarone",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 31,
+      "sentence_idx": 21,
+      "concept_id": "C0002598",
+      "concept_name": "amiodarone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9443445801734924,
+      "timestamp": null
+    },
+    {
+      "text": "Isordil",
+      "label": "CHEMICAL",
+      "start_char": 80,
+      "end_char": 87,
+      "sentence_idx": 23,
+      "concept_id": "C0590720",
+      "concept_name": "Isordil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9882832765579224,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_4322__gi_consultation___3_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 80,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699279": 1,
+    "C0376325": 2,
+    "C0699142": 3,
+    "C0042845": 4,
+    "C0483514": 5,
+    "C0004057": 6,
+    "C0721044": 7,
+    "C0592278": 8
+  },
+  "visit_dates": [
+    "2004-08-04"
+  ],
+  "graph_file": "mtsamples_4322__gi_consultation___3__graph.pt",
+  "source_dataset": "mtsamples_4322__gi_consultation___3"
+}

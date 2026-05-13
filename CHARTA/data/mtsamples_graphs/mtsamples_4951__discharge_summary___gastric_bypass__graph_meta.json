@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4951__discharge_summary___gastric_bypass_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0042105": 2,
+    "C0282139": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4951__discharge_summary___gastric_bypass__graph.pt",
+  "source_dataset": "mtsamples_4951__discharge_summary___gastric_bypass"
+}

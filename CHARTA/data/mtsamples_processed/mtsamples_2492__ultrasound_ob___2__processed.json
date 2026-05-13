@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2492__ultrasound_ob___2_.txt",
+    "file_name": "mtsamples_2492__ultrasound_ob___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 631,
+    "processed_at": "2026-05-09T09:54:03.275832"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2492__ultrasound_ob___2_.txt",
+    "text": "FINDINGS:,By dates the patient is 8 weeks, 2 days.,There is a gestational sac within the endometrial cavity measuring 2.1cm consistent with 6 weeks 4 days. There is a fetal pole measuring 7mm consistent with 6 weeks 4 days. There was no fetal heart motion on Doppler or on color Doppler.,There is no fluid within the endometrial cavity.,There is a 2.8 x 1.2cm right adnexal cyst.,IMPRESSION:,Gestational sac with a fetal pole but no fetal heart motion consistent with fetal demise at 6 weeks 4 days. By dates the patient is 8 weeks, 2 days.,A preliminary report was called by the ultrasound technologist to the referring physician.",
+    "char_count": 631,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "FINDINGS:,By dates the patient is 8 weeks, 2 days.,There is a gestational sac within the endometrial cavity measuring 2.1cm consistent with 6 weeks 4 days. There is a fetal pole measuring 7mm consistent with 6 weeks 4 days. There was no fetal heart motion on Doppler or on color Doppler.,There is no fluid within the endometrial cavity.,There is a 2.8 x 1.2cm right adnexal cyst.,IMPRESSION:,Gestational sac with a fetal pole but no fetal heart motion consistent with fetal demise at 6 weeks 4 days. By dates the patient is 8 weeks, 2 days.,A preliminary report was called by the ultrasound technologist to the referring physician.",
+    "sentences": [
+      "FINDINGS:,By dates the patient is 8 weeks, 2 days.,There is a gestational sac within the endometrial cavity measuring 2.1cm consistent with 6 weeks 4 days.",
+      "There is a fetal pole measuring 7mm consistent with 6 weeks 4 days.",
+      "There was no fetal heart motion on Doppler or on color Doppler.,There is no fluid within the endometrial cavity.,There is a 2.8 x 1.2cm right adnexal cyst.,IMPRESSION:,Gestational sac with a fetal pole but no fetal heart motion consistent with fetal demise at 6 weeks 4 days.",
+      "By dates the patient is 8 weeks, 2 days.,A preliminary report was called by the ultrasound technologist to the referring physician."
+    ],
+    "sentence_count": 4,
+    "original_length": 631,
+    "cleaned_length": 631,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "FINDINGS:,By dates the patient is 8 weeks, 2 days.,There is a gestational sac within the endometrial cavity measuring 2.1cm consistent with 6 weeks 4 days. There is a fetal pole measuring 7mm consistent with 6 weeks 4 days. There was no fetal heart motion on Doppler or on color Doppler.,There is no fluid within the endometrial cavity.,There is a 2.8 x 1.2cm right adnexal cyst.,IMPRESSION:,Gestational sac with a fetal pole but no fetal heart motion consistent with fetal demise at 6 weeks 4 days. By dates the patient is 8 weeks, 2 days.,A preliminary report was called by the ultrasound technologist to the referring physician.",
+    "cleaned_text": "FINDINGS:,By dates the patient is 8 weeks, 2 days.,There is a gestational sac within the endometrial cavity measuring 2.1cm consistent with 6 weeks 4 days. There is a fetal pole measuring 7mm consistent with 6 weeks 4 days. There was no fetal heart motion on Doppler or on color Doppler.,There is no fluid within the endometrial cavity.,There is a 2.8 x 1.2cm right adnexal cyst.,IMPRESSION:,Gestational sac with a fetal pole but no fetal heart motion consistent with fetal demise at 6 weeks 4 days. By dates the patient is 8 weeks, 2 days.,A preliminary report was called by the ultrasound technologist to the referring physician.",
+    "sentences": [
+      "FINDINGS:,By dates the patient is 8 weeks, 2 days.,There is a gestational sac within the endometrial cavity measuring 2.1cm consistent with 6 weeks 4 days.",
+      "There is a fetal pole measuring 7mm consistent with 6 weeks 4 days.",
+      "There was no fetal heart motion on Doppler or on color Doppler.,There is no fluid within the endometrial cavity.,There is a 2.8 x 1.2cm right adnexal cyst.,IMPRESSION:,Gestational sac with a fetal pole but no fetal heart motion consistent with fetal demise at 6 weeks 4 days.",
+      "By dates the patient is 8 weeks, 2 days.,A preliminary report was called by the ultrasound technologist to the referring physician."
+    ],
+    "sentence_count": 4
+  }
+}

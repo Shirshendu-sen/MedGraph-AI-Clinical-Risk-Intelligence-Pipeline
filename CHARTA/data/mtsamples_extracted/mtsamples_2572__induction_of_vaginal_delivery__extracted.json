@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2572__induction_of_vaginal_delivery_.txt",
+    "file_name": "mtsamples_2572__induction_of_vaginal_delivery_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1250,
+    "processed_at": "2026-05-09T09:54:04.440524"
+  },
+  "entities": [
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 16,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "4, para 0",
+      "label": "CHEMICAL",
+      "start_char": 179,
+      "end_char": 188,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "4, para 0",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "oligohydramnios",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 45,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "oligohydramnios",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 151,
+      "end_char": 158,
+      "sentence_idx": 6,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

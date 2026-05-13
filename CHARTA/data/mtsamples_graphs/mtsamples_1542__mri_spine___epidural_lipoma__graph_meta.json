@@ -1,0 +1,24 @@
+{
+  "patient_id": "mtsamples_1542__mri_spine___epidural_lipoma_",
+  "num_entities": 11,
+  "num_visits": 1,
+  "num_edges": 93,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0017725": 1,
+    "C0178638": 2,
+    "C0019134": 3,
+    "C0740057": 4,
+    "C0699129": 5,
+    "C0284660": 6,
+    "C0023870": 7,
+    "C0010294": 8,
+    "C0032952": 9,
+    "C0699279": 10
+  },
+  "visit_dates": [
+    "1993-05-03"
+  ],
+  "graph_file": "mtsamples_1542__mri_spine___epidural_lipoma__graph.pt",
+  "source_dataset": "mtsamples_1542__mri_spine___epidural_lipoma"
+}

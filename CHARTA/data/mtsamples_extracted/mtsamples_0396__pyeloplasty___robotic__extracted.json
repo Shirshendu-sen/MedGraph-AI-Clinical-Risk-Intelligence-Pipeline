@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0396__pyeloplasty___robotic_.txt",
+    "file_name": "mtsamples_0396__pyeloplasty___robotic_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5304,
+    "processed_at": "2026-05-09T09:53:14.705334"
+  },
+  "entities": [
+    {
+      "text": "hematuria",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 103,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right renal stones",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 149,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right renal stones",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "povidone-iodine",
+      "label": "CHEMICAL",
+      "start_char": 72,
+      "end_char": 87,
+      "sentence_idx": 14,
+      "concept_id": "C0032857",
+      "concept_name": "povidone-iodine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9491499066352844,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 73,
+      "end_char": 76,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "kidney stones",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 35,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "kidney stones",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hemostasis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hemostasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0409__postop_transanal_excision_.txt",
+    "file_name": "mtsamples_0409__postop_transanal_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1817,
+    "processed_at": "2026-05-09T09:53:15.166056"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0409__postop_transanal_excision_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Bleeding after transanal excision five days ago.,POSTOPERATIVE DIAGNOSIS: , Bleeding after transanal excision five days ago.,PROCEDURE:,  Exam under anesthesia with control of bleeding via cautery.,ANESTHESIA:,  General endotracheal.,INDICATION: , The patient is a 42-year-old gentleman who is five days out from transanal excision of a benign anterior base lesion.  He presents today with diarrhea and bleeding.  Digital exam reveals bright red blood on the finger.  He is for exam under anesthesia and control of hemorrhage at this time.,FINDINGS: , There was an ulcer where most of the polypoid lesion had been excised before.  In a near total fashion the wound had opened and again there was a raw ulcer surface in between the edges of the mucosa.  There were a few discrete sites of mild oozing, which were treated with cautery and #1 suture.  No other obvious bleeding was seen.,TECHNIQUE: , The patient was taken to the operating room and placed on the operative table in supine position.  After adequate general anesthesia was induced, the patient was then placed in modified prone position.  His buttocks were taped, prepped and draped in a sterile fashion.  The anterior rectal wall was exposed using a Parks anal retractor.  The entire wound was visualized with a few rotations of the retractor and a few sites along the edges were seen to be oozing and were touched up with cautery.  There was one spot in the corner that was oozing and this may have been from simply opening the retractor enough to see well.  This was controlled with a 3-0 Monocryl figure-of-eight suture.  At the completion, there was no bleeding, no oozing, it was completely dry, and we removed our retractor, and the patient was then turned and extubated and taken to the recovery room in stable condition.",
+    "char_count": 1817,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Bleeding after transanal excision five days ago.,POSTOPERATIVE DIAGNOSIS: , Bleeding after transanal excision five days ago.,PROCEDURE:, Exam under anesthesia with control of bleeding via cautery.,ANESTHESIA:, General endotracheal.,INDICATION: , The patient is a 42-year-old gentleman who is five days out from transanal excision of a benign anterior base lesion. He presents today with diarrhea and bleeding. Digital exam reveals bright red blood on the finger. He is for exam under anesthesia and control of hemorrhage at this time.,FINDINGS: , There was an ulcer where most of the polypoid lesion had been excised before. In a near total fashion the wound had opened and again there was a raw ulcer surface in between the edges of the mucosa. There were a few discrete sites of mild oozing, which were treated with cautery and #1 suture. No other obvious bleeding was seen.,TECHNIQUE: , The patient was taken to the operating room and placed on the operative table in supine position. After adequate general anesthesia was induced, the patient was then placed in modified prone position. His buttocks were taped, prepped and draped in a sterile fashion. The anterior rectal wall was exposed using a Parks anal retractor. The entire wound was visualized with a few rotations of the retractor and a few sites along the edges were seen to be oozing and were touched up with cautery. There was one spot in the corner that was oozing and this may have been from simply opening the retractor enough to see well. This was controlled with a 3-0 Monocryl figure-of-eight suture. At the completion, there was no bleeding, no oozing, it was completely dry, and we removed our retractor, and the patient was then turned and extubated and taken to the recovery room in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Bleeding after transanal excision five days ago.,POSTOPERATIVE DIAGNOSIS: , Bleeding after transanal excision five days ago.,PROCEDURE:, Exam under anesthesia with control of bleeding via cautery.,ANESTHESIA:, General endotracheal.,INDICATION: , The patient is a 42-year-old gentleman who is five days out from transanal excision of a benign anterior base lesion.",
+      "He presents today with diarrhea and bleeding.",
+      "Digital exam reveals bright red blood on the finger.",
+      "He is for exam under anesthesia and control of hemorrhage at this time.,FINDINGS: , There was an ulcer where most of the polypoid lesion had been excised before.",
+      "In a near total fashion the wound had opened and again there was a raw ulcer surface in between the edges of the mucosa.",
+      "There were a few discrete sites of mild oozing, which were treated with cautery and #1 suture.",
+      "No other obvious bleeding was seen.,TECHNIQUE: , The patient was taken to the operating room and placed on the operative table in supine position.",
+      "After adequate general anesthesia was induced, the patient was then placed in modified prone position.",
+      "His buttocks were taped, prepped and draped in a sterile fashion.",
+      "The anterior rectal wall was exposed using a Parks anal retractor.",
+      "The entire wound was visualized with a few rotations of the retractor and a few sites along the edges were seen to be oozing and were touched up with cautery.",
+      "There was one spot in the corner that was oozing and this may have been from simply opening the retractor enough to see well.",
+      "This was controlled with a 3-0 Monocryl figure-of-eight suture.",
+      "At the completion, there was no bleeding, no oozing, it was completely dry, and we removed our retractor, and the patient was then turned and extubated and taken to the recovery room in stable condition."
+    ],
+    "sentence_count": 14,
+    "original_length": 1817,
+    "cleaned_length": 1802,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Bleeding after transanal excision five days ago.,POSTOPERATIVE DIAGNOSIS: , Bleeding after transanal excision five days ago.,PROCEDURE:,  Exam under anesthesia with control of bleeding via cautery.,ANESTHESIA:,  General endotracheal.,INDICATION: , The patient is a 42-year-old gentleman who is five days out from transanal excision of a benign anterior base lesion.  He presents today with diarrhea and bleeding.  Digital exam reveals bright red blood on the finger.  He is for exam under anesthesia and control of hemorrhage at this time.,FINDINGS: , There was an ulcer where most of the polypoid lesion had been excised before.  In a near total fashion the wound had opened and again there was a raw ulcer surface in between the edges of the mucosa.  There were a few discrete sites of mild oozing, which were treated with cautery and #1 suture.  No other obvious bleeding was seen.,TECHNIQUE: , The patient was taken to the operating room and placed on the operative table in supine position.  After adequate general anesthesia was induced, the patient was then placed in modified prone position.  His buttocks were taped, prepped and draped in a sterile fashion.  The anterior rectal wall was exposed using a Parks anal retractor.  The entire wound was visualized with a few rotations of the retractor and a few sites along the edges were seen to be oozing and were touched up with cautery.  There was one spot in the corner that was oozing and this may have been from simply opening the retractor enough to see well.  This was controlled with a 3-0 Monocryl figure-of-eight suture.  At the completion, there was no bleeding, no oozing, it was completely dry, and we removed our retractor, and the patient was then turned and extubated and taken to the recovery room in stable condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Bleeding after transanal excision five days ago.,POSTOPERATIVE DIAGNOSIS: , Bleeding after transanal excision five days ago.,PROCEDURE:, Exam under anesthesia with control of bleeding via cautery.,ANESTHESIA:, General endotracheal.,INDICATION: , The patient is a 42-year-old gentleman who is five days out from transanal excision of a benign anterior base lesion. He presents today with diarrhea and bleeding. Digital exam reveals bright red blood on the finger. He is for exam under anesthesia and control of hemorrhage at this time.,FINDINGS: , There was an ulcer where most of the polypoid lesion had been excised before. In a near total fashion the wound had opened and again there was a raw ulcer surface in between the edges of the mucosa. There were a few discrete sites of mild oozing, which were treated with cautery and #1 suture. No other obvious bleeding was seen.,TECHNIQUE: , The patient was taken to the operating room and placed on the operative table in supine position. After adequate general anesthesia was induced, the patient was then placed in modified prone position. His buttocks were taped, prepped and draped in a sterile fashion. The anterior rectal wall was exposed using a Parks anal retractor. The entire wound was visualized with a few rotations of the retractor and a few sites along the edges were seen to be oozing and were touched up with cautery. There was one spot in the corner that was oozing and this may have been from simply opening the retractor enough to see well. This was controlled with a 3-0 Monocryl figure-of-eight suture. At the completion, there was no bleeding, no oozing, it was completely dry, and we removed our retractor, and the patient was then turned and extubated and taken to the recovery room in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Bleeding after transanal excision five days ago.,POSTOPERATIVE DIAGNOSIS: , Bleeding after transanal excision five days ago.,PROCEDURE:, Exam under anesthesia with control of bleeding via cautery.,ANESTHESIA:, General endotracheal.,INDICATION: , The patient is a 42-year-old gentleman who is five days out from transanal excision of a benign anterior base lesion.",
+      "He presents today with diarrhea and bleeding.",
+      "Digital exam reveals bright red blood on the finger.",
+      "He is for exam under anesthesia and control of hemorrhage at this time.,FINDINGS: , There was an ulcer where most of the polypoid lesion had been excised before.",
+      "In a near total fashion the wound had opened and again there was a raw ulcer surface in between the edges of the mucosa.",
+      "There were a few discrete sites of mild oozing, which were treated with cautery and #1 suture.",
+      "No other obvious bleeding was seen.,TECHNIQUE: , The patient was taken to the operating room and placed on the operative table in supine position.",
+      "After adequate general anesthesia was induced, the patient was then placed in modified prone position.",
+      "His buttocks were taped, prepped and draped in a sterile fashion.",
+      "The anterior rectal wall was exposed using a Parks anal retractor.",
+      "The entire wound was visualized with a few rotations of the retractor and a few sites along the edges were seen to be oozing and were touched up with cautery.",
+      "There was one spot in the corner that was oozing and this may have been from simply opening the retractor enough to see well.",
+      "This was controlled with a 3-0 Monocryl figure-of-eight suture.",
+      "At the completion, there was no bleeding, no oozing, it was completely dry, and we removed our retractor, and the patient was then turned and extubated and taken to the recovery room in stable condition."
+    ],
+    "sentence_count": 14
+  }
+}

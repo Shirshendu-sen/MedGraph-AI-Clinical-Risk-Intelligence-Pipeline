@@ -1,0 +1,27 @@
+{
+  "patient_id": "mtsamples_4537__atrial_fibrillation___consult_",
+  "num_entities": 14,
+  "num_visits": 1,
+  "num_edges": 123,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C1435704": 1,
+    "C0162712": 2,
+    "C0004057": 3,
+    "C0282139": 4,
+    "C0022860": 5,
+    "C0699512": 6,
+    "C0074393": 7,
+    "C0678181": 8,
+    "C0037473": 9,
+    "C0032821": 10,
+    "C0973231": 11,
+    "C0010294": 12,
+    "C0699129": 13
+  },
+  "visit_dates": [
+    "2007-08-29"
+  ],
+  "graph_file": "mtsamples_4537__atrial_fibrillation___consult__graph.pt",
+  "source_dataset": "mtsamples_4537__atrial_fibrillation___consult"
+}

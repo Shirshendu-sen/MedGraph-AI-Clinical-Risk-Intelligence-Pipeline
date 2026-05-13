@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0724__hemicraniectomy_.txt",
+    "file_name": "mtsamples_0724__hemicraniectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4918,
+    "processed_at": "2026-05-09T09:53:23.336243"
+  },
+  "entities": [
+    {
+      "text": "traumatic brain injury",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 80,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "traumatic brain injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "traumatic brain injury",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 46,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "traumatic brain injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 76,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "traumatic brain injury",
+      "label": "DISEASE",
+      "start_char": 176,
+      "end_char": 198,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "traumatic brain injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 88,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 108,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "contusions",
+      "label": "DISEASE",
+      "start_char": 215,
+      "end_char": 225,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contusions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

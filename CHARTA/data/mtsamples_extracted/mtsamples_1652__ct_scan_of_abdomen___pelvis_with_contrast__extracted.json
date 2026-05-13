@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1652__ct_scan_of_abdomen___pelvis_with_contrast_.txt",
+    "file_name": "mtsamples_1652__ct_scan_of_abdomen___pelvis_with_contrast_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1435,
+    "processed_at": "2026-05-09T09:53:47.637067"
+  },
+  "entities": [
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 16,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nondependent",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 59,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nondependent",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 41,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

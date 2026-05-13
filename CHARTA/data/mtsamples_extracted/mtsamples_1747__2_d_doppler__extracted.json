@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1747__2_d_doppler_.txt",
+    "file_name": "mtsamples_1747__2_d_doppler_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 662,
+    "processed_at": "2026-05-09T09:53:49.440823"
+  },
+  "entities": [
+    {
+      "text": "aortic stenosis",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 20,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left ventricular hypertrophy",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 33,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left ventricular hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aortic regurgitation",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 37,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tricuspid regurgitation",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 28,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tricuspid regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tricuspid regurgitation",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 28,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tricuspid regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

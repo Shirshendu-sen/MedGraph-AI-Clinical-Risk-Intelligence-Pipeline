@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1681__ct_brain___sah_.txt",
+    "file_name": "mtsamples_1681__ct_brain___sah_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2579,
+    "processed_at": "2026-05-09T09:53:48.294140"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "Headache",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 13,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 150,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 44,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "urinary incontinence",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 65,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary incontinence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "questioned.,CN",
+      "label": "CHEMICAL",
+      "start_char": 34,
+      "end_char": 48,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "questioned.,CN",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "papilledema",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 64,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "papilledema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "EOM",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EOM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "left facial weakness",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 27,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left facial weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "LLE weakness",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 40,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LLE weakness",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "perimesencephalic subarachnoid hemorrhage",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 57,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perimesencephalic subarachnoid hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "thrombosis",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 97,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "SAH",
+      "label": "DISEASE",
+      "start_char": 250,
+      "end_char": 253,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SAH",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-11-28"
+    },
+    {
+      "text": "thrombosis",
+      "label": "DISEASE",
+      "start_char": 282,
+      "end_char": 292,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1997-11-28"
+    },
+    {
+      "text": "oral contraceptive",
+      "label": "CHEMICAL",
+      "start_char": 300,
+      "end_char": 318,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "oral contraceptive",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1997-11-28"
+    },
+    {
+      "text": "blurred vision",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 83,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blurred vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "lightheadedness",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 103,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lightheadedness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    },
+    {
+      "text": "seizure",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 31,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1987-11-27"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "11/27/87",
+      "start_char": 85,
+      "end_char": 93
+    },
+    {
+      "raw_text": "11/28/97",
+      "start_char": 399,
+      "end_char": 407
+    },
+    {
+      "raw_text": "12/1/87",
+      "start_char": 2051,
+      "end_char": 2058
+    }
+  ]
+}

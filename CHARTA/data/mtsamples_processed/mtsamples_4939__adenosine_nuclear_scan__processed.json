@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4939__adenosine_nuclear_scan_.txt",
+    "file_name": "mtsamples_4939__adenosine_nuclear_scan_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 940,
+    "processed_at": "2026-05-09T09:54:47.848441"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4939__adenosine_nuclear_scan_.txt",
+    "text": "INDICATION: , Chest pain.,TYPE OF TEST: , Adenosine with nuclear scan as the patient unable to walk on a treadmill.,INTERPRETATION:, Resting heart rate of 67, blood pressure of 129/86.  EKG, normal sinus rhythm.  Post-Lexiscan 0.4 mg, heart rate was 83, blood pressure 142/74.  EKG remained the same.  No symptoms were noted.,SUMMARY:,1.  Nondiagnostic adenosine stress test.,2.  Nuclear interpretation as below.,NUCLEAR INTERPRETATION:,  Resting and stress images were obtained with 10.4, 33.1 mCi of tetrofosmin injected intravenously by standard protocol.  Nuclear myocardial perfusion scan demonstrates homogeneous and uniform distribution of the tracer uptake without any evidence of reversible or fixed defect.  Gated SPECT revealed normal wall motion, ejection fraction of 58%.  End-diastolic volume of 74, end-systolic volume of 31.,IMPRESSION:,1.  Normal nuclear myocardial perfusion scan.,2.  Ejection fraction 58% by gated SPECT.",
+    "char_count": 940,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "INDICATION: , Chest pain.,TYPE OF TEST: , Adenosine with nuclear scan as the patient unable to walk on a treadmill.,INTERPRETATION:, Resting heart rate of 67, blood pressure of 129/86. EKG, normal sinus rhythm. Post-Lexiscan 0.4 mg, heart rate was 83, blood pressure 142/74. EKG remained the same. No symptoms were noted.,SUMMARY:,1. Nondiagnostic adenosine stress test.,2. Nuclear interpretation as below.,NUCLEAR INTERPRETATION:, Resting and stress images were obtained with 10.4, 33.1 mCi of tetrofosmin injected intravenously by standard protocol. Nuclear myocardial perfusion scan demonstrates homogeneous and uniform distribution of the tracer uptake without any evidence of reversible or fixed defect. Gated SPECT revealed normal wall motion, ejection fraction of 58%. End-diastolic volume of 74, end-systolic volume of 31.,IMPRESSION:,1. Normal nuclear myocardial perfusion scan.,2. Ejection fraction 58% by gated SPECT.",
+    "sentences": [
+      "INDICATION: , Chest pain.,TYPE OF TEST: , Adenosine with nuclear scan as the patient unable to walk on a treadmill.,INTERPRETATION:, Resting heart rate of 67, blood pressure of 129/86.",
+      "EKG, normal sinus rhythm.",
+      "Post-Lexiscan 0.4 mg, heart rate was 83, blood pressure 142/74.",
+      "EKG remained the same.",
+      "No symptoms were noted.,SUMMARY:,1.",
+      "Nondiagnostic adenosine stress test.,2.",
+      "Nuclear interpretation as below.,NUCLEAR INTERPRETATION:, Resting and stress images were obtained with 10.4, 33.1 mCi of tetrofosmin injected intravenously by standard protocol.",
+      "Nuclear myocardial perfusion scan demonstrates homogeneous and uniform distribution of the tracer uptake without any evidence of reversible or fixed defect.",
+      "Gated SPECT revealed normal wall motion, ejection fraction of 58%.",
+      "End-diastolic volume of 74, end-systolic volume of 31.,IMPRESSION:,1.",
+      "Normal nuclear myocardial perfusion scan.,2.",
+      "Ejection fraction 58% by gated SPECT."
+    ],
+    "sentence_count": 12,
+    "original_length": 940,
+    "cleaned_length": 928,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "INDICATION: , Chest pain.,TYPE OF TEST: , Adenosine with nuclear scan as the patient unable to walk on a treadmill.,INTERPRETATION:, Resting heart rate of 67, blood pressure of 129/86.  EKG, normal sinus rhythm.  Post-Lexiscan 0.4 mg, heart rate was 83, blood pressure 142/74.  EKG remained the same.  No symptoms were noted.,SUMMARY:,1.  Nondiagnostic adenosine stress test.,2.  Nuclear interpretation as below.,NUCLEAR INTERPRETATION:,  Resting and stress images were obtained with 10.4, 33.1 mCi of tetrofosmin injected intravenously by standard protocol.  Nuclear myocardial perfusion scan demonstrates homogeneous and uniform distribution of the tracer uptake without any evidence of reversible or fixed defect.  Gated SPECT revealed normal wall motion, ejection fraction of 58%.  End-diastolic volume of 74, end-systolic volume of 31.,IMPRESSION:,1.  Normal nuclear myocardial perfusion scan.,2.  Ejection fraction 58% by gated SPECT.",
+    "cleaned_text": "INDICATION: , Chest pain.,TYPE OF TEST: , Adenosine with nuclear scan as the patient unable to walk on a treadmill.,INTERPRETATION:, Resting heart rate of 67, blood pressure of 129/86. EKG, normal sinus rhythm. Post-Lexiscan 0.4 mg, heart rate was 83, blood pressure 142/74. EKG remained the same. No symptoms were noted.,SUMMARY:,1. Nondiagnostic adenosine stress test.,2. Nuclear interpretation as below.,NUCLEAR INTERPRETATION:, Resting and stress images were obtained with 10.4, 33.1 mCi of tetrofosmin injected intravenously by standard protocol. Nuclear myocardial perfusion scan demonstrates homogeneous and uniform distribution of the tracer uptake without any evidence of reversible or fixed defect. Gated SPECT revealed normal wall motion, ejection fraction of 58%. End-diastolic volume of 74, end-systolic volume of 31.,IMPRESSION:,1. Normal nuclear myocardial perfusion scan.,2. Ejection fraction 58% by gated SPECT.",
+    "sentences": [
+      "INDICATION: , Chest pain.,TYPE OF TEST: , Adenosine with nuclear scan as the patient unable to walk on a treadmill.,INTERPRETATION:, Resting heart rate of 67, blood pressure of 129/86.",
+      "EKG, normal sinus rhythm.",
+      "Post-Lexiscan 0.4 mg, heart rate was 83, blood pressure 142/74.",
+      "EKG remained the same.",
+      "No symptoms were noted.,SUMMARY:,1.",
+      "Nondiagnostic adenosine stress test.,2.",
+      "Nuclear interpretation as below.,NUCLEAR INTERPRETATION:, Resting and stress images were obtained with 10.4, 33.1 mCi of tetrofosmin injected intravenously by standard protocol.",
+      "Nuclear myocardial perfusion scan demonstrates homogeneous and uniform distribution of the tracer uptake without any evidence of reversible or fixed defect.",
+      "Gated SPECT revealed normal wall motion, ejection fraction of 58%.",
+      "End-diastolic volume of 74, end-systolic volume of 31.,IMPRESSION:,1.",
+      "Normal nuclear myocardial perfusion scan.,2.",
+      "Ejection fraction 58% by gated SPECT."
+    ],
+    "sentence_count": 12
+  }
+}

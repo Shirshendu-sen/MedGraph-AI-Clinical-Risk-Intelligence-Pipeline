@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2703__anterior_cervical_discectomy___interbody_fusion___3_.txt",
+    "file_name": "mtsamples_2703__anterior_cervical_discectomy___interbody_fusion___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 777,
+    "processed_at": "2026-05-09T09:54:06.321016"
+  },
+  "entities": [
+    {
+      "text": "Spondylosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cervical stenosis",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 34,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cervical stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 9,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "left radiculopathy",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 33,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Headaches",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Spondylosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cervical stenosis",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 34,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cervical stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 9,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "left radiculopathy",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 33,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Headaches",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

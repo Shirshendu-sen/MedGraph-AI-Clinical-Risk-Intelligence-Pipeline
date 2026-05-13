@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_2929__chest_ct___myasthenia_gravis_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 54,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0700005": 1,
+    "C0033209": 2,
+    "C0001041": 3
+  },
+  "visit_dates": [
+    "1992-12-23"
+  ],
+  "graph_file": "mtsamples_2929__chest_ct___myasthenia_gravis__graph.pt",
+  "source_dataset": "mtsamples_2929__chest_ct___myasthenia_gravis"
+}

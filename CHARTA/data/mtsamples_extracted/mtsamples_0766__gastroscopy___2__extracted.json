@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0766__gastroscopy___2_.txt",
+    "file_name": "mtsamples_0766__gastroscopy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1319,
+    "processed_at": "2026-05-09T09:53:25.179446"
+  },
+  "entities": [
+    {
+      "text": "Dysphagia",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 59,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 59,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophagus",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophagus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 107,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "incisors",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 54,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "incisors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "reflux, damage",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 109,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "reflux, damage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Barrett",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 121,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Barrett",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 84,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 164,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "well.,FINAL",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 39,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "well.,FINAL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 27,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

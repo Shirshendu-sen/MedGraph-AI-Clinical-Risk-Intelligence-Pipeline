@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1989__cervical_epidural_steroid_injection___1_.txt",
+    "file_name": "mtsamples_1989__cervical_epidural_steroid_injection___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1140,
+    "processed_at": "2026-05-09T09:53:54.316030"
+  },
+  "entities": [
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 48,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "methyl prednisolone acetate",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 91,
+      "sentence_idx": 7,
+      "concept_id": "C0600901",
+      "concept_name": "methylprednisolone acetate",
+      "kb_source": "rxnorm",
+      "link_score": 0.8605257272720337,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

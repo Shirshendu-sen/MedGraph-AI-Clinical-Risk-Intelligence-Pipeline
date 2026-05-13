@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1140__brain_stimulator_electrode_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 13,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1140__brain_stimulator_electrode__graph.pt",
+  "source_dataset": "mtsamples_1140__brain_stimulator_electrode"
+}

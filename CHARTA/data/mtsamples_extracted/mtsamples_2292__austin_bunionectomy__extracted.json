@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2292__austin_bunionectomy_.txt",
+    "file_name": "mtsamples_2292__austin_bunionectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4599,
+    "processed_at": "2026-05-09T09:53:59.475985"
+  },
+  "entities": [
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 285,
+      "end_char": 293,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 301,
+      "end_char": 310,
+      "sentence_idx": 0,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "bleeders",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 16,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeders",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hyperemia",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 19,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 26,
+      "sentence_idx": 32,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

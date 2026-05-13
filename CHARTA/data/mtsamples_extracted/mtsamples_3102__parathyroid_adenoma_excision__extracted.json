@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3102__parathyroid_adenoma_excision_.txt",
+    "file_name": "mtsamples_3102__parathyroid_adenoma_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3302,
+    "processed_at": "2026-05-09T09:54:14.956777"
+  },
+  "entities": [
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 211,
+      "end_char": 220,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dementia",
+      "label": "DISEASE",
+      "start_char": 319,
+      "end_char": 327,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dementia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Aricept",
+      "label": "CHEMICAL",
+      "start_char": 17,
+      "end_char": 24,
+      "sentence_idx": 1,
+      "concept_id": "C0527315",
+      "concept_name": "Aricept",
+      "kb_source": "rxnorm",
+      "link_score": 0.9906173944473267,
+      "timestamp": null
+    },
+    {
+      "text": "hallucinations",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 99,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hallucinations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypercalcemic",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 33,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypercalcemic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hyperextend",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 70,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperextend",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "foam head",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 37,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "foam head",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chlorhexidine",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 50,
+      "sentence_idx": 10,
+      "concept_id": "C0008196",
+      "concept_name": "chlorhexidine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9488893151283264,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 36,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 53,
+      "sentence_idx": 11,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "superior parathyroid adenoma",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 91,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "superior parathyroid adenoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "parathyroid adenoma",
+      "label": "DISEASE",
+      "start_char": 314,
+      "end_char": 333,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "parathyroid adenoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hyperparathyroidism",
+      "label": "DISEASE",
+      "start_char": 163,
+      "end_char": 182,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperparathyroidism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenoma",
+      "label": "DISEASE",
+      "start_char": 214,
+      "end_char": 221,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

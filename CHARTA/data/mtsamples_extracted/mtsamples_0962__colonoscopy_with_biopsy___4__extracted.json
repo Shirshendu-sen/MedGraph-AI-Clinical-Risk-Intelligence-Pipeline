@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0962__colonoscopy_with_biopsy___4_.txt",
+    "file_name": "mtsamples_0962__colonoscopy_with_biopsy___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2864,
+    "processed_at": "2026-05-09T09:53:30.212092"
+  },
+  "entities": [
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 56,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 115,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 73,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 92,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prednisone",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 93,
+      "sentence_idx": 2,
+      "concept_id": "C0032952",
+      "concept_name": "prednisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9636675715446472,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 46,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 70,
+      "sentence_idx": 7,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 18,
+      "sentence_idx": 10,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "respiratory or cardiovascular collapse",
+      "label": "DISEASE",
+      "start_char": 170,
+      "end_char": 208,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "respiratory or cardiovascular collapse",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "irritable bowel syndrome",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 160,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irritable bowel syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "propofol",
+      "label": "CHEMICAL",
+      "start_char": 78,
+      "end_char": 86,
+      "sentence_idx": 22,
+      "concept_id": "C0033487",
+      "concept_name": "propofol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9385934472084045,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

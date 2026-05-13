@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3233__normal_female_exam_template_.txt",
+    "file_name": "mtsamples_3233__normal_female_exam_template_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2044,
+    "processed_at": "2026-05-09T09:54:16.695046"
+  },
+  "entities": [
+    {
+      "text": "irides",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irides",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 50,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breasts",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 24,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breasts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "genitalia",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 54,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "genitalia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "head and neck by inspection showed no obvious deformity",
+      "label": "DISEASE",
+      "start_char": 195,
+      "end_char": 250,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head and neck by inspection showed no obvious deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dry",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 31,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dry",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

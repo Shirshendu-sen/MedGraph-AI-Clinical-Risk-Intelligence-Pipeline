@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3743__bmt___adenoidectomy_.txt",
+    "file_name": "mtsamples_3743__bmt___adenoidectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2261,
+    "processed_at": "2026-05-09T09:54:26.878909"
+  },
+  "entities": [
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 40,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 89,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 256,
+      "end_char": 262,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 43,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 39,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "microperforation",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 70,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "microperforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Floxin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 14,
+      "concept_id": "C0699173",
+      "concept_name": "Floxin",
+      "kb_source": "rxnorm",
+      "link_score": 0.979972243309021,
+      "timestamp": null
+    },
+    {
+      "text": "Floxin",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 37,
+      "sentence_idx": 19,
+      "concept_id": "C0699173",
+      "concept_name": "Floxin",
+      "kb_source": "rxnorm",
+      "link_score": 0.979972243309021,
+      "timestamp": null
+    },
+    {
+      "text": "mouth gag mouth",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 36,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mouth gag mouth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 39,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenoidal",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 47,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenoidal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

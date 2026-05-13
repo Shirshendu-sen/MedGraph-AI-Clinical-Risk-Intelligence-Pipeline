@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_2038__scarf_bunionectomy_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0008947": 2,
+    "C0023660": 3,
+    "C0724280": 4,
+    "C0009214": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2038__scarf_bunionectomy__graph.pt",
+  "source_dataset": "mtsamples_2038__scarf_bunionectomy"
+}

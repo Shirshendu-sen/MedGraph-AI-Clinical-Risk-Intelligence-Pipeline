@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3419__care_conference_with_family_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0026549": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3419__care_conference_with_family__graph.pt",
+  "source_dataset": "mtsamples_3419__care_conference_with_family"
+}

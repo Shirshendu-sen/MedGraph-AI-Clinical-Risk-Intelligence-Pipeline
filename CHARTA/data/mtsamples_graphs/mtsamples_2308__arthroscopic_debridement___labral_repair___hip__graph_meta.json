@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2308__arthroscopic_debridement___labral_repair___hip_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 5,
+  "entity_index": {
+    "C0001963": 0,
+    "UNKNOWN": 1,
+    "C0073571": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2308__arthroscopic_debridement___labral_repair___hip__graph.pt",
+  "source_dataset": "mtsamples_2308__arthroscopic_debridement___labral_repair___hip"
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2346__ac_separation_revision___hardware_removal_.txt",
+    "file_name": "mtsamples_2346__ac_separation_revision___hardware_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1437,
+    "processed_at": "2026-05-09T09:54:00.478676"
+  },
+  "entities": [
+    {
+      "text": "tenodesis",
+      "label": "DISEASE",
+      "start_char": 345,
+      "end_char": 354,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenodesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenodesis",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 125,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenodesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

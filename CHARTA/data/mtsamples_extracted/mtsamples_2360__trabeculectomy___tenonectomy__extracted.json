@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2360__trabeculectomy___tenonectomy_.txt",
+    "file_name": "mtsamples_2360__trabeculectomy___tenonectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3117,
+    "processed_at": "2026-05-09T09:54:00.668785"
+  },
+  "entities": [
+    {
+      "text": "glaucoma",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glaucoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "glaucoma",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glaucoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "conjunctival",
+      "label": "DISEASE",
+      "start_char": 171,
+      "end_char": 183,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "conjunctival",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mitomycin",
+      "label": "CHEMICAL",
+      "start_char": 207,
+      "end_char": 216,
+      "sentence_idx": 4,
+      "concept_id": "C0002475",
+      "concept_name": "mitomycin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9772151708602905,
+      "timestamp": null
+    },
+    {
+      "text": "pilocarpine",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 58,
+      "sentence_idx": 5,
+      "concept_id": "C0031923",
+      "concept_name": "pilocarpine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9506012797355652,
+      "timestamp": null
+    },
+    {
+      "text": "propofol",
+      "label": "CHEMICAL",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 6,
+      "concept_id": "C0033487",
+      "concept_name": "propofol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9385934472084045,
+      "timestamp": null
+    },
+    {
+      "text": "somnolent",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 51,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "somnolent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 117,
+      "end_char": 126,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mitomycin",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 41,
+      "sentence_idx": 18,
+      "concept_id": "C0002475",
+      "concept_name": "mitomycin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9772151708602905,
+      "timestamp": null
+    },
+    {
+      "text": "BV",
+      "label": "CHEMICAL",
+      "start_char": 80,
+      "end_char": 82,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BV",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 15,
+      "end_char": 22,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "homatropine",
+      "label": "CHEMICAL",
+      "start_char": 59,
+      "end_char": 70,
+      "sentence_idx": 27,
+      "concept_id": "C0062922",
+      "concept_name": "homatropine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9468659162521362,
+      "timestamp": null
+    },
+    {
+      "text": "Vigamox",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 35,
+      "sentence_idx": 28,
+      "concept_id": "C1330598",
+      "concept_name": "Vigamox",
+      "kb_source": "rxnorm",
+      "link_score": 0.9880033135414124,
+      "timestamp": null
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 51,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

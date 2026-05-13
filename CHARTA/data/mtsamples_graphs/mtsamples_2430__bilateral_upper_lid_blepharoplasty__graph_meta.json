@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_2430__bilateral_upper_lid_blepharoplasty_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 25,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1,
+    "C0030054": 2,
+    "C0014563": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2430__bilateral_upper_lid_blepharoplasty__graph.pt",
+  "source_dataset": "mtsamples_2430__bilateral_upper_lid_blepharoplasty"
+}

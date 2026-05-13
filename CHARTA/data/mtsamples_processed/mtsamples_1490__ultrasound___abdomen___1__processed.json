@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1490__ultrasound___abdomen___1_.txt",
+    "file_name": "mtsamples_1490__ultrasound___abdomen___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1036,
+    "processed_at": "2026-05-09T09:53:43.229899"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1490__ultrasound___abdomen___1_.txt",
+    "text": "EXAM: , Ultrasound Abdomen., ,REASON FOR EXAM: , Elevated liver function tests., ,INTERPRETATION: , The liver demonstrates heterogeneously increased echotexture with significant fatty infiltration.  The gallbladder is surgically absent. There is no fluid collection in the cholecystectomy bed.  There is dilatation of the common bile duct up to 1 cm.  There is also dilatation of the pancreatic duct that measures up to 3 mm.  There is caliectasis in the right kidney.  The bladder is significantly distended measuring 937 cc in volume.  The caliectasis in the right kidney may be secondary to back pressure from the distended bladder.  The aorta is normal in caliber., ,IMPRESSION:,1.  Dilated common duct as well as pancreatic duct as described.  Given the dilatation of these two ducts, ERCP versus MRCP is recommended to exclude obstructing mass.  The findings could reflect changes of cholecystectomy.  ,2.  Significantly distended bladder with probably resultant caliectasis in the right kidney.  Clinical correlation recommended.",
+    "char_count": 1036,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , Ultrasound Abdomen., ,REASON FOR EXAM: , Elevated liver function tests., ,INTERPRETATION: , The liver demonstrates heterogeneously increased echotexture with significant fatty infiltration. The gallbladder is surgically absent. There is no fluid collection in the cholecystectomy bed. There is dilatation of the common bile duct up to 1 cm. There is also dilatation of the pancreatic duct that measures up to 3 mm. There is caliectasis in the right kidney. The bladder is significantly distended measuring 937 cc in volume. The caliectasis in the right kidney may be secondary to back pressure from the distended bladder. The aorta is normal in caliber., ,IMPRESSION:,1. Dilated common duct as well as pancreatic duct as described. Given the dilatation of these two ducts, ERCP versus MRCP is recommended to exclude obstructing mass. The findings could reflect changes of cholecystectomy. ,2. Significantly distended bladder with probably resultant caliectasis in the right kidney. Clinical correlation recommended.",
+    "sentences": [
+      "EXAM: , Ultrasound Abdomen., ,REASON FOR EXAM: , Elevated liver function tests., ,INTERPRETATION: , The liver demonstrates heterogeneously increased echotexture with significant fatty infiltration.",
+      "The gallbladder is surgically absent.",
+      "There is no fluid collection in the cholecystectomy bed.",
+      "There is dilatation of the common bile duct up to 1 cm.",
+      "There is also dilatation of the pancreatic duct that measures up to 3 mm.",
+      "There is caliectasis in the right kidney.",
+      "The bladder is significantly distended measuring 937 cc in volume.",
+      "The caliectasis in the right kidney may be secondary to back pressure from the distended bladder.",
+      "The aorta is normal in caliber., ,IMPRESSION:,1.",
+      "Dilated common duct as well as pancreatic duct as described.",
+      "Given the dilatation of these two ducts, ERCP versus MRCP is recommended to exclude obstructing mass.",
+      "The findings could reflect changes of cholecystectomy. ,2.",
+      "Significantly distended bladder with probably resultant caliectasis in the right kidney.",
+      "Clinical correlation recommended."
+    ],
+    "sentence_count": 14,
+    "original_length": 1036,
+    "cleaned_length": 1023,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , Ultrasound Abdomen., ,REASON FOR EXAM: , Elevated liver function tests., ,INTERPRETATION: , The liver demonstrates heterogeneously increased echotexture with significant fatty infiltration.  The gallbladder is surgically absent. There is no fluid collection in the cholecystectomy bed.  There is dilatation of the common bile duct up to 1 cm.  There is also dilatation of the pancreatic duct that measures up to 3 mm.  There is caliectasis in the right kidney.  The bladder is significantly distended measuring 937 cc in volume.  The caliectasis in the right kidney may be secondary to back pressure from the distended bladder.  The aorta is normal in caliber., ,IMPRESSION:,1.  Dilated common duct as well as pancreatic duct as described.  Given the dilatation of these two ducts, ERCP versus MRCP is recommended to exclude obstructing mass.  The findings could reflect changes of cholecystectomy.  ,2.  Significantly distended bladder with probably resultant caliectasis in the right kidney.  Clinical correlation recommended.",
+    "cleaned_text": "EXAM: , Ultrasound Abdomen., ,REASON FOR EXAM: , Elevated liver function tests., ,INTERPRETATION: , The liver demonstrates heterogeneously increased echotexture with significant fatty infiltration. The gallbladder is surgically absent. There is no fluid collection in the cholecystectomy bed. There is dilatation of the common bile duct up to 1 cm. There is also dilatation of the pancreatic duct that measures up to 3 mm. There is caliectasis in the right kidney. The bladder is significantly distended measuring 937 cc in volume. The caliectasis in the right kidney may be secondary to back pressure from the distended bladder. The aorta is normal in caliber., ,IMPRESSION:,1. Dilated common duct as well as pancreatic duct as described. Given the dilatation of these two ducts, ERCP versus MRCP is recommended to exclude obstructing mass. The findings could reflect changes of cholecystectomy. ,2. Significantly distended bladder with probably resultant caliectasis in the right kidney. Clinical correlation recommended.",
+    "sentences": [
+      "EXAM: , Ultrasound Abdomen., ,REASON FOR EXAM: , Elevated liver function tests., ,INTERPRETATION: , The liver demonstrates heterogeneously increased echotexture with significant fatty infiltration.",
+      "The gallbladder is surgically absent.",
+      "There is no fluid collection in the cholecystectomy bed.",
+      "There is dilatation of the common bile duct up to 1 cm.",
+      "There is also dilatation of the pancreatic duct that measures up to 3 mm.",
+      "There is caliectasis in the right kidney.",
+      "The bladder is significantly distended measuring 937 cc in volume.",
+      "The caliectasis in the right kidney may be secondary to back pressure from the distended bladder.",
+      "The aorta is normal in caliber., ,IMPRESSION:,1.",
+      "Dilated common duct as well as pancreatic duct as described.",
+      "Given the dilatation of these two ducts, ERCP versus MRCP is recommended to exclude obstructing mass.",
+      "The findings could reflect changes of cholecystectomy. ,2.",
+      "Significantly distended bladder with probably resultant caliectasis in the right kidney.",
+      "Clinical correlation recommended."
+    ],
+    "sentence_count": 14
+  }
+}

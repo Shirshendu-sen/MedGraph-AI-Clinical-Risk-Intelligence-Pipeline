@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3516__gastroscopy_.txt",
+    "file_name": "mtsamples_3516__gastroscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1800,
+    "processed_at": "2026-05-09T09:54:23.142298"
+  },
+  "entities": [
+    {
+      "text": "Dysphagia",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 35,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophageal spasm.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 71,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophageal spasm.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "upper esophageal sphincter",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 61,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper esophageal sphincter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "incisors",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 104,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "incisors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erosions",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erosions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 43,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "incisors",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 92,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "incisors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 28,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cardia",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 76,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 126,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia.,4",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 16,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

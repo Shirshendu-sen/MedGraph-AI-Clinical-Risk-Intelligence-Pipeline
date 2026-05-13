@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0325__spinal_manipulation_.txt",
+    "file_name": "mtsamples_0325__spinal_manipulation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5051,
+    "processed_at": "2026-05-09T09:53:12.547207"
+  },
+  "entities": [
+    {
+      "text": "Sacro-iliitis",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 39,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Sacro-iliitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lumbo-sacral segmental dysfunction",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 83,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lumbo-sacral segmental dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thoraco-lumbar segmental dysfunction",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 129,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thoraco-lumbar segmental dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "739.2",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 136,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "739.2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Sacro-iliitis",
+      "label": "DISEASE",
+      "start_char": 213,
+      "end_char": 226,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Sacro-iliitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lumbo-sacral segmental dysfunction",
+      "label": "DISEASE",
+      "start_char": 236,
+      "end_char": 270,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lumbo-sacral segmental dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thoraco-lumbar segmental dysfunction",
+      "label": "DISEASE",
+      "start_char": 280,
+      "end_char": 316,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thoraco-lumbar segmental dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "739.2",
+      "label": "DISEASE",
+      "start_char": 318,
+      "end_char": 323,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "739.2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "myalgia/fibromyositis",
+      "label": "DISEASE",
+      "start_char": 342,
+      "end_char": 363,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myalgia/fibromyositis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 446,
+      "end_char": 454,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vascular accidents",
+      "label": "DISEASE",
+      "start_char": 456,
+      "end_char": 474,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vascular accidents",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 481,
+      "end_char": 491,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

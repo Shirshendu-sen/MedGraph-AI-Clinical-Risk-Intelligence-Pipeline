@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0637__laparoscopic_cholecystectomy___4_.txt",
+    "file_name": "mtsamples_0637__laparoscopic_cholecystectomy___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1881,
+    "processed_at": "2026-05-09T09:53:21.325576"
+  },
+  "entities": [
+    {
+      "text": "necrotic",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 83,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 23,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 51,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

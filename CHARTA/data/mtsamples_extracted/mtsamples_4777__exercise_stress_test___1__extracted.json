@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4777__exercise_stress_test___1_.txt",
+    "file_name": "mtsamples_4777__exercise_stress_test___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1325,
+    "processed_at": "2026-05-09T09:54:44.549375"
+  },
+  "entities": [
+    {
+      "text": "ST depressions",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 54,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ST depressions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "angina",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 115,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "angina",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 30,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dysrhythmias",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 15,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysrhythmias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ischemia",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 77,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 20,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3104__nuclear_medicine_lymphatic_scan_.txt",
+    "file_name": "mtsamples_3104__nuclear_medicine_lymphatic_scan_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 720,
+    "processed_at": "2026-05-09T09:54:15.016403"
+  },
+  "entities": [],
+  "relations": [],
+  "temporal_expressions": []
+}

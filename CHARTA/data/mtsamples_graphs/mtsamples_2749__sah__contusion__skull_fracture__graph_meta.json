@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2749__sah__contusion__skull_fracture_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 24,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699187": 1
+  },
+  "visit_dates": [
+    "1992-11-18"
+  ],
+  "graph_file": "mtsamples_2749__sah__contusion__skull_fracture__graph.pt",
+  "source_dataset": "mtsamples_2749__sah__contusion__skull_fracture"
+}

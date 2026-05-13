@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2320__anterior_cervical_discectomy___fusion___7_.txt",
+    "file_name": "mtsamples_2320__anterior_cervical_discectomy___fusion___7_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2924,
+    "processed_at": "2026-05-09T09:53:59.806929"
+  },
+  "entities": [
+    {
+      "text": "neck pain",
+      "label": "DISEASE",
+      "start_char": 292,
+      "end_char": 301,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neck pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-02"
+    },
+    {
+      "text": "upper extremity symptoms",
+      "label": "DISEASE",
+      "start_char": 313,
+      "end_char": 337,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper extremity symptoms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-02"
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 23,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-02"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 51,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-02"
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 63,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-02"
+    },
+    {
+      "text": "neurologic deficit",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 111,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neurologic deficit",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-02"
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 131,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-02"
+    },
+    {
+      "text": "hoarseness",
+      "label": "DISEASE",
+      "start_char": 220,
+      "end_char": 230,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hoarseness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-02"
+    },
+    {
+      "text": "platysmas",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "platysmas",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-02"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/02/2007",
+      "start_char": 833,
+      "end_char": 843
+    }
+  ]
+}

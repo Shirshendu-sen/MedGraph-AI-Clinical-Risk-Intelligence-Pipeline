@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0549__mediastinal_exploration_.txt",
+    "file_name": "mtsamples_0549__mediastinal_exploration_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2450,
+    "processed_at": "2026-05-09T09:53:18.864350"
+  },
+  "entities": [
+    {
+      "text": "cardiac arrest",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 53,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardiac arrest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "purulence",
+      "label": "DISEASE",
+      "start_char": 323,
+      "end_char": 332,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "purulence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 336,
+      "end_char": 344,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vancomycin",
+      "label": "CHEMICAL",
+      "start_char": 76,
+      "end_char": 86,
+      "sentence_idx": 9,
+      "concept_id": "C0042313",
+      "concept_name": "vancomycin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736526608467102,
+      "timestamp": null
+    },
+    {
+      "text": "desaturation",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 88,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "desaturation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

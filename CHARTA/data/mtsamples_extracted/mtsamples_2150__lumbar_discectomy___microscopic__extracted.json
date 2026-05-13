@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2150__lumbar_discectomy___microscopic_.txt",
+    "file_name": "mtsamples_2150__lumbar_discectomy___microscopic_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4918,
+    "processed_at": "2026-05-09T09:53:57.430584"
+  },
+  "entities": [
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 21,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 21,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left leg pain",
+      "label": "DISEASE",
+      "start_char": 222,
+      "end_char": 235,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left leg pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 39,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 122,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 110,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstructions",
+      "label": "DISEASE",
+      "start_char": 183,
+      "end_char": 195,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

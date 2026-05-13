@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2918__craniopharyngioma___postop_.txt",
+    "file_name": "mtsamples_2918__craniopharyngioma___postop_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1614,
+    "processed_at": "2026-05-09T09:54:10.684625"
+  },
+  "entities": [
+    {
+      "text": "blurred vision",
+      "label": "DISEASE",
+      "start_char": 180,
+      "end_char": 194,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blurred vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "suprasellar tumor",
+      "label": "DISEASE",
+      "start_char": 247,
+      "end_char": 264,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "suprasellar tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 96,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "craniopharyngioma",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 39,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "craniopharyngioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 32,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "tinnitus",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tinnitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "bitemporal hemianopsia",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 31,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bitemporal hemianopsia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "motor or sensory deficits",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 44,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "motor or sensory deficits",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "craniopharyngioma",
+      "label": "DISEASE",
+      "start_char": 177,
+      "end_char": 194,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "craniopharyngioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "01/04/07",
+      "start_char": 306,
+      "end_char": 314
+    }
+  ]
+}

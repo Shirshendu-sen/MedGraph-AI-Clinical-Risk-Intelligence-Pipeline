@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0635__laparoscopic_cholecystectomy_.txt",
+    "file_name": "mtsamples_0635__laparoscopic_cholecystectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1235,
+    "processed_at": "2026-05-09T09:53:21.299421"
+  },
+  "entities": [
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 42,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2766__new_onset_seizure_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 29,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0876060": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2766__new_onset_seizure__graph.pt",
+  "source_dataset": "mtsamples_2766__new_onset_seizure"
+}

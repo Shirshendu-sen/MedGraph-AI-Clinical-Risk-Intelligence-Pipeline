@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0837__escharotomy_.txt",
+    "file_name": "mtsamples_0837__escharotomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2509,
+    "processed_at": "2026-05-09T09:53:27.187906"
+  },
+  "entities": [
+    {
+      "text": "compartment syndrome",
+      "label": "DISEASE",
+      "start_char": 137,
+      "end_char": 157,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "compartment syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "compartment syndrome",
+      "label": "DISEASE",
+      "start_char": 327,
+      "end_char": 347,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "compartment syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "upper extremity.,PROCEDURES",
+      "label": "DISEASE",
+      "start_char": 361,
+      "end_char": 388,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper extremity.,PROCEDURES",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "upper extremity burns",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 48,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper extremity burns",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Propofol",
+      "label": "CHEMICAL",
+      "start_char": 74,
+      "end_char": 82,
+      "sentence_idx": 2,
+      "concept_id": "C0033487",
+      "concept_name": "propofol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9385934472084045,
+      "timestamp": null
+    },
+    {
+      "text": "burns",
+      "label": "DISEASE",
+      "start_char": 234,
+      "end_char": 239,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "burns",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "burns",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 89,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "burns",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "compartment syndrome",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 125,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "compartment syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 80,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abrasions",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 77,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abrasions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Silvadene cream",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 15,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Silvadene cream",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

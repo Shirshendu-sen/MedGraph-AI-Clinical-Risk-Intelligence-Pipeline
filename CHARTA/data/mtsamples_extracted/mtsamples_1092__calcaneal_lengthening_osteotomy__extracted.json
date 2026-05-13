@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1092__calcaneal_lengthening_osteotomy_.txt",
+    "file_name": "mtsamples_1092__calcaneal_lengthening_osteotomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4809,
+    "processed_at": "2026-05-09T09:53:33.843297"
+  },
+  "entities": [
+    {
+      "text": "split.,PROCEDURES",
+      "label": "CHEMICAL",
+      "start_char": 102,
+      "end_char": 119,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "split.,PROCEDURES",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 162,
+      "end_char": 170,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 103,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 54,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 64,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nonunion",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 177,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nonunion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 26,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nervous branch",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 36,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nervous branch",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "de-lengthened",
+      "label": "CHEMICAL",
+      "start_char": 71,
+      "end_char": 84,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "de-lengthened",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 52,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 89,
+      "end_char": 97,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 227,
+      "end_char": 231,
+      "sentence_idx": 46,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 88,
+      "sentence_idx": 49,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "AFO",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 28,
+      "sentence_idx": 50,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AFO",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

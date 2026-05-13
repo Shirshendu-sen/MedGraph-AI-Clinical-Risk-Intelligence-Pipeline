@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_2415__cataract_surgery_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 11,
+  "entity_index": {
+    "C0002026": 0,
+    "C0733444": 1,
+    "C0039629": 2,
+    "C0023660": 3,
+    "C0040235": 4,
+    "UNKNOWN": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2415__cataract_surgery__graph.pt",
+  "source_dataset": "mtsamples_2415__cataract_surgery"
+}

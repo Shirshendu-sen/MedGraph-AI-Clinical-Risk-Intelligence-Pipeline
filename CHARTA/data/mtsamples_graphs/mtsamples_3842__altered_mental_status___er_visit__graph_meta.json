@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3842__altered_mental_status___er_visit_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0024730": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3842__altered_mental_status___er_visit__graph.pt",
+  "source_dataset": "mtsamples_3842__altered_mental_status___er_visit"
+}

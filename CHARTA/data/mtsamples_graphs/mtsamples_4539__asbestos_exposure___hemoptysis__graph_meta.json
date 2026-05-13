@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_4539__asbestos_exposure___hemoptysis_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 56,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699129": 1,
+    "C0286036": 2,
+    "C0719949": 3,
+    "C0719509": 4,
+    "C0699992": 5,
+    "C0678181": 6,
+    "C0037473": 7,
+    "C0032821": 8,
+    "C0010294": 9,
+    "C0017725": 10,
+    "C0006675": 11
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4539__asbestos_exposure___hemoptysis__graph.pt",
+  "source_dataset": "mtsamples_4539__asbestos_exposure___hemoptysis"
+}

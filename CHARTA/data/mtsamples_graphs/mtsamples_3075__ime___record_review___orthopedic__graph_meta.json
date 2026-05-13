@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3075__ime___record_review___orthopedic_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 53,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0699142": 2
+  },
+  "visit_dates": [
+    "2008-11-20"
+  ],
+  "graph_file": "mtsamples_3075__ime___record_review___orthopedic__graph.pt",
+  "source_dataset": "mtsamples_3075__ime___record_review___orthopedic"
+}

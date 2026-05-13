@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3865__occupational_therapy_discharge_summary_.txt",
+    "file_name": "mtsamples_3865__occupational_therapy_discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 668,
+    "processed_at": "2026-05-09T09:54:28.391065"
+  },
+  "entities": [
+    {
+      "text": "brain injury",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 35,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "brain injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-12-11"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/11/06",
+      "start_char": 130,
+      "end_char": 138
+    }
+  ]
+}

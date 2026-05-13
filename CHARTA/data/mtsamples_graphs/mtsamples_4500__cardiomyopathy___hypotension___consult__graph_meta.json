@@ -1,0 +1,27 @@
+{
+  "patient_id": "mtsamples_4500__cardiomyopathy___hypotension___consult_",
+  "num_entities": 14,
+  "num_visits": 1,
+  "num_edges": 85,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0070166": 1,
+    "C0074554": 2,
+    "C0074722": 3,
+    "C0060926": 4,
+    "C0040165": 5,
+    "C0012265": 6,
+    "C0033228": 7,
+    "C0004057": 8,
+    "C0244404": 9,
+    "C0006681": 10,
+    "C0102118": 11,
+    "C0025859": 12,
+    "C0525227": 13
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4500__cardiomyopathy___hypotension___consult__graph.pt",
+  "source_dataset": "mtsamples_4500__cardiomyopathy___hypotension___consult"
+}

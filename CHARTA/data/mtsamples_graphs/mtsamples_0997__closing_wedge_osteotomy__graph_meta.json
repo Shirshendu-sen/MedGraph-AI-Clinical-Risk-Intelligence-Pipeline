@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_0997__closing_wedge_osteotomy_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 25,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0023660": 2,
+    "C0014563": 3,
+    "C0700517": 4,
+    "C0724054": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0997__closing_wedge_osteotomy__graph.pt",
+  "source_dataset": "mtsamples_0997__closing_wedge_osteotomy"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4516__breast_calcifications___preop_consult__",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 44,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1
+  },
+  "visit_dates": [
+    "2008-06-04"
+  ],
+  "graph_file": "mtsamples_4516__breast_calcifications___preop_consult___graph.pt",
+  "source_dataset": "mtsamples_4516__breast_calcifications___preop_consult_"
+}

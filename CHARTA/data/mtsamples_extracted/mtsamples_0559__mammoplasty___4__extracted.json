@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0559__mammoplasty___4_.txt",
+    "file_name": "mtsamples_0559__mammoplasty___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1624,
+    "processed_at": "2026-05-09T09:53:19.090091"
+  },
+  "entities": [
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 134,
+      "end_char": 143,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "1:200,000",
+      "label": "CHEMICAL",
+      "start_char": 149,
+      "end_char": 158,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:200,000",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breasts",
+      "label": "DISEASE",
+      "start_char": 188,
+      "end_char": 195,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breasts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

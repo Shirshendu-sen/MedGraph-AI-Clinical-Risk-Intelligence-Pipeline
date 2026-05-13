@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3689__sinus_fractures_repairs_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0014563": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3689__sinus_fractures_repairs__graph.pt",
+  "source_dataset": "mtsamples_3689__sinus_fractures_repairs"
+}

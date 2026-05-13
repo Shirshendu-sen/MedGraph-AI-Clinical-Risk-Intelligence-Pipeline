@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1981__cervical_medial_branch_blocks_.txt",
+    "file_name": "mtsamples_1981__cervical_medial_branch_blocks_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2190,
+    "processed_at": "2026-05-09T09:53:54.110983"
+  },
+  "entities": [
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 86,
+      "end_char": 92,
+      "sentence_idx": 2,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "C7 medial branch block",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 28,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "C7 medial branch block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "medial branch block",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 28,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "medial branch block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 241,
+      "end_char": 249,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "methyl prednisolone acetate",
+      "label": "CHEMICAL",
+      "start_char": 274,
+      "end_char": 301,
+      "sentence_idx": 11,
+      "concept_id": "C0600901",
+      "concept_name": "methylprednisolone acetate",
+      "kb_source": "rxnorm",
+      "link_score": 0.8605257272720337,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

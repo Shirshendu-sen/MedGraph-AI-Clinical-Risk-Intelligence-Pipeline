@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3973__wasp_sting___soap_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0700899": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3973__wasp_sting___soap__graph.pt",
+  "source_dataset": "mtsamples_3973__wasp_sting___soap"
+}

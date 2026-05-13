@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4643__radionuclide_stress_test_.txt",
+    "file_name": "mtsamples_4643__radionuclide_stress_test_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1470,
+    "processed_at": "2026-05-09T09:54:42.698476"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4643__radionuclide_stress_test_.txt",
+    "text": "INDICATION FOR STUDY: , Elevated cardiac enzymes, fullness in chest, abnormal EKG, and risk factors.,MEDICATIONS:,  Femara, verapamil, Dyazide, Hyzaar, glyburide, and metformin.,BASELINE EKG: , Sinus rhythm at 84 beats per minute, poor anteroseptal R-wave progression, mild lateral ST abnormalities.,EXERCISE RESULTS:,1.  The patient exercised for 3 minutes stopping due to fatigue.  No chest pain.,2.  Heart rate increased from 84 to 138 or 93% of maximum predicted heart rate.  Blood pressure rose from 150/88 to 210/100.  There was a slight increase in her repolorization abnormalities in a non-specific pattern.,NUCLEAR PROTOCOL:  ,Same day rest/stress protocol was utilized with 11 mCi for the rest dose and 33 mCi for the stress test.,NUCLEAR RESULTS:,1.  Nuclear perfusion imaging, review of the raw projection data reveals adequate image acquisition.  The resting images showed decreased uptake in the anterior wall.  However the apex is spared of this defect.  There is no significant change between rest and stress images.  The sum score is 0.,2.  The Gated SPECT shows moderate LVH with slightly low EF of 48%.,IMPRESSION:,1.  No evidence of exercise induced ischemia at a high myocardial workload.  This essentially excludes obstructive CAD as a cause of her elevated troponin.,2.  Mild hypertensive cardiomyopathy with an EF of 48%.,3.  Poor exercise capacity due to cardiovascular deconditioning.,4.  Suboptimally controlled blood pressure on today's exam.",
+    "char_count": 1470,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "INDICATION FOR STUDY: , Elevated cardiac enzymes, fullness in chest, abnormal EKG, and risk factors.,MEDICATIONS:, Femara, verapamil, Dyazide, Hyzaar, glyburide, and metformin.,BASELINE EKG: , Sinus rhythm at 84 beats per minute, poor anteroseptal R-wave progression, mild lateral ST abnormalities.,EXERCISE RESULTS:,1. The patient exercised for 3 minutes stopping due to fatigue. No chest pain.,2. Heart rate increased from 84 to 138 or 93% of maximum predicted heart rate. Blood pressure rose from 150/88 to 210/100. There was a slight increase in her repolorization abnormalities in a non-specific pattern.,NUCLEAR PROTOCOL: ,Same day rest/stress protocol was utilized with 11 mCi for the rest dose and 33 mCi for the stress test.,NUCLEAR RESULTS:,1. Nuclear perfusion imaging, review of the raw projection data reveals adequate image acquisition. The resting images showed decreased uptake in the anterior wall. However the apex is spared of this defect. There is no significant change between rest and stress images. The sum score is 0.,2. The Gated SPECT shows moderate LVH with slightly low EF of 48%.,IMPRESSION:,1. No evidence of exercise induced ischemia at a high myocardial workload. This essentially excludes obstructive coronary artery disease as a cause of her elevated troponin.,2. Mild hypertensive cardiomyopathy with an EF of 48%.,3. Poor exercise capacity due to cardiovascular deconditioning.,4. Suboptimally controlled blood pressure on today's exam.",
+    "sentences": [
+      "INDICATION FOR STUDY: , Elevated cardiac enzymes, fullness in chest, abnormal EKG, and risk factors.,MEDICATIONS:, Femara, verapamil, Dyazide, Hyzaar, glyburide, and metformin.,BASELINE EKG: , Sinus rhythm at 84 beats per minute, poor anteroseptal R-wave progression, mild lateral ST abnormalities.,EXERCISE RESULTS:,1.",
+      "The patient exercised for 3 minutes stopping due to fatigue.",
+      "No chest pain.,2.",
+      "Heart rate increased from 84 to 138 or 93% of maximum predicted heart rate.",
+      "Blood pressure rose from 150/88 to 210/100.",
+      "There was a slight increase in her repolorization abnormalities in a non-specific pattern.,NUCLEAR PROTOCOL: ,Same day rest/stress protocol was utilized with 11 mCi for the rest dose and 33 mCi for the stress test.,NUCLEAR RESULTS:,1.",
+      "Nuclear perfusion imaging, review of the raw projection data reveals adequate image acquisition.",
+      "The resting images showed decreased uptake in the anterior wall.",
+      "However the apex is spared of this defect.",
+      "There is no significant change between rest and stress images.",
+      "The sum score is 0.,2.",
+      "The Gated SPECT shows moderate LVH with slightly low EF of 48%.,IMPRESSION:,1.",
+      "No evidence of exercise induced ischemia at a high myocardial workload.",
+      "This essentially excludes obstructive coronary artery disease as a cause of her elevated troponin.,2.",
+      "Mild hypertensive cardiomyopathy with an EF of 48%.,3.",
+      "Poor exercise capacity due to cardiovascular deconditioning.,4.",
+      "Suboptimally controlled blood pressure on today's exam."
+    ],
+    "sentence_count": 17,
+    "original_length": 1470,
+    "cleaned_length": 1472,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "INDICATION FOR STUDY: , Elevated cardiac enzymes, fullness in chest, abnormal EKG, and risk factors.,MEDICATIONS:,  Femara, verapamil, Dyazide, Hyzaar, glyburide, and metformin.,BASELINE EKG: , Sinus rhythm at 84 beats per minute, poor anteroseptal R-wave progression, mild lateral ST abnormalities.,EXERCISE RESULTS:,1.  The patient exercised for 3 minutes stopping due to fatigue.  No chest pain.,2.  Heart rate increased from 84 to 138 or 93% of maximum predicted heart rate.  Blood pressure rose from 150/88 to 210/100.  There was a slight increase in her repolorization abnormalities in a non-specific pattern.,NUCLEAR PROTOCOL:  ,Same day rest/stress protocol was utilized with 11 mCi for the rest dose and 33 mCi for the stress test.,NUCLEAR RESULTS:,1.  Nuclear perfusion imaging, review of the raw projection data reveals adequate image acquisition.  The resting images showed decreased uptake in the anterior wall.  However the apex is spared of this defect.  There is no significant change between rest and stress images.  The sum score is 0.,2.  The Gated SPECT shows moderate LVH with slightly low EF of 48%.,IMPRESSION:,1.  No evidence of exercise induced ischemia at a high myocardial workload.  This essentially excludes obstructive CAD as a cause of her elevated troponin.,2.  Mild hypertensive cardiomyopathy with an EF of 48%.,3.  Poor exercise capacity due to cardiovascular deconditioning.,4.  Suboptimally controlled blood pressure on today's exam.",
+    "cleaned_text": "INDICATION FOR STUDY: , Elevated cardiac enzymes, fullness in chest, abnormal EKG, and risk factors.,MEDICATIONS:, Femara, verapamil, Dyazide, Hyzaar, glyburide, and metformin.,BASELINE EKG: , Sinus rhythm at 84 beats per minute, poor anteroseptal R-wave progression, mild lateral ST abnormalities.,EXERCISE RESULTS:,1. The patient exercised for 3 minutes stopping due to fatigue. No chest pain.,2. Heart rate increased from 84 to 138 or 93% of maximum predicted heart rate. Blood pressure rose from 150/88 to 210/100. There was a slight increase in her repolorization abnormalities in a non-specific pattern.,NUCLEAR PROTOCOL: ,Same day rest/stress protocol was utilized with 11 mCi for the rest dose and 33 mCi for the stress test.,NUCLEAR RESULTS:,1. Nuclear perfusion imaging, review of the raw projection data reveals adequate image acquisition. The resting images showed decreased uptake in the anterior wall. However the apex is spared of this defect. There is no significant change between rest and stress images. The sum score is 0.,2. The Gated SPECT shows moderate LVH with slightly low EF of 48%.,IMPRESSION:,1. No evidence of exercise induced ischemia at a high myocardial workload. This essentially excludes obstructive coronary artery disease as a cause of her elevated troponin.,2. Mild hypertensive cardiomyopathy with an EF of 48%.,3. Poor exercise capacity due to cardiovascular deconditioning.,4. Suboptimally controlled blood pressure on today's exam.",
+    "sentences": [
+      "INDICATION FOR STUDY: , Elevated cardiac enzymes, fullness in chest, abnormal EKG, and risk factors.,MEDICATIONS:, Femara, verapamil, Dyazide, Hyzaar, glyburide, and metformin.,BASELINE EKG: , Sinus rhythm at 84 beats per minute, poor anteroseptal R-wave progression, mild lateral ST abnormalities.,EXERCISE RESULTS:,1.",
+      "The patient exercised for 3 minutes stopping due to fatigue.",
+      "No chest pain.,2.",
+      "Heart rate increased from 84 to 138 or 93% of maximum predicted heart rate.",
+      "Blood pressure rose from 150/88 to 210/100.",
+      "There was a slight increase in her repolorization abnormalities in a non-specific pattern.,NUCLEAR PROTOCOL: ,Same day rest/stress protocol was utilized with 11 mCi for the rest dose and 33 mCi for the stress test.,NUCLEAR RESULTS:,1.",
+      "Nuclear perfusion imaging, review of the raw projection data reveals adequate image acquisition.",
+      "The resting images showed decreased uptake in the anterior wall.",
+      "However the apex is spared of this defect.",
+      "There is no significant change between rest and stress images.",
+      "The sum score is 0.,2.",
+      "The Gated SPECT shows moderate LVH with slightly low EF of 48%.,IMPRESSION:,1.",
+      "No evidence of exercise induced ischemia at a high myocardial workload.",
+      "This essentially excludes obstructive coronary artery disease as a cause of her elevated troponin.,2.",
+      "Mild hypertensive cardiomyopathy with an EF of 48%.,3.",
+      "Poor exercise capacity due to cardiovascular deconditioning.,4.",
+      "Suboptimally controlled blood pressure on today's exam."
+    ],
+    "sentence_count": 17
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4364__gen_med_consult___21_.txt",
+    "file_name": "mtsamples_4364__gen_med_consult___21_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1614,
+    "processed_at": "2026-05-09T09:54:37.750107"
+  },
+  "entities": [
+    {
+      "text": "stuffiness",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 96,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stuffiness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "congestion",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 108,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congestion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Zyrtec",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 20,
+      "sentence_idx": 1,
+      "concept_id": "C0162723",
+      "concept_name": "Zyrtec",
+      "kb_source": "rxnorm",
+      "link_score": 0.9963204860687256,
+      "timestamp": null
+    },
+    {
+      "text": "allergy",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 26,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fundi",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fundi",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tachypnea",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 12,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tachypnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "wheezing",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "wheezing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "clubbing",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 40,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clubbing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cyanosis",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 50,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cyanosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 59,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rashes",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 9,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rashes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Allergic rhinitis",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 47,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Allergic rhinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Zyrtec",
+      "label": "CHEMICAL",
+      "start_char": 67,
+      "end_char": 73,
+      "sentence_idx": 20,
+      "concept_id": "C0162723",
+      "concept_name": "Zyrtec",
+      "kb_source": "rxnorm",
+      "link_score": 0.9963204860687256,
+      "timestamp": null
+    },
+    {
+      "text": "allergy",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 72,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

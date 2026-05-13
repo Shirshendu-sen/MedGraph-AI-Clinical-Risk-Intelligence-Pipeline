@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0424__pinning___hip_.txt",
+    "file_name": "mtsamples_0424__pinning___hip_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2717,
+    "processed_at": "2026-05-09T09:53:15.755506"
+  },
+  "entities": [
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 405,
+      "end_char": 413,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 54,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 64,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stiffness or damage",
+      "label": "DISEASE",
+      "start_char": 170,
+      "end_char": 189,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stiffness or damage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 26,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 50,
+      "end_char": 58,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Vicodin",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 28,
+      "sentence_idx": 26,
+      "concept_id": "C0483514",
+      "concept_name": "Vicodin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9674537181854248,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 37,
+      "sentence_idx": 26,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

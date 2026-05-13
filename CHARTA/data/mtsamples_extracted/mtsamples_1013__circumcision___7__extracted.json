@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1013__circumcision___7_.txt",
+    "file_name": "mtsamples_1013__circumcision___7_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 810,
+    "processed_at": "2026-05-09T09:53:31.195637"
+  },
+  "entities": [
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "EMLA",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 4,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EMLA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 28,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

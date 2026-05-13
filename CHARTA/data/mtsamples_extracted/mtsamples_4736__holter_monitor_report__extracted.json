@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4736__holter_monitor_report_.txt",
+    "file_name": "mtsamples_4736__holter_monitor_report_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 333,
+    "processed_at": "2026-05-09T09:54:44.000983"
+  },
+  "entities": [
+    {
+      "text": "supraventricular arrhythmia.,3",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 33,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraventricular arrhythmia.,3",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "premature ventricular contractions.,4",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 46,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "premature ventricular contractions.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial ventricular block",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 38,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial ventricular block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "premature atrial contractions",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 71,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "premature atrial contractions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

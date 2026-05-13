@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1926__broviac_catheter_placement_.txt",
+    "file_name": "mtsamples_1926__broviac_catheter_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2826,
+    "processed_at": "2026-05-09T09:53:53.174692"
+  },
+  "entities": [
+    {
+      "text": "access.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 55,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "access.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 204,
+      "end_char": 208,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "septic",
+      "label": "DISEASE",
+      "start_char": 252,
+      "end_char": 258,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "septic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osteomyelitis",
+      "label": "DISEASE",
+      "start_char": 283,
+      "end_char": 296,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteomyelitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chlorhexidine",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 68,
+      "sentence_idx": 12,
+      "concept_id": "C0008196",
+      "concept_name": "chlorhexidine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9488893151283264,
+      "timestamp": null
+    },
+    {
+      "text": "fibrous",
+      "label": "DISEASE",
+      "start_char": 156,
+      "end_char": 163,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "occlusive",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 19,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "occlusive",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 62,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1168__bifrontal_cranioplasty_.txt",
+    "file_name": "mtsamples_1168__bifrontal_cranioplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2579,
+    "processed_at": "2026-05-09T09:53:35.993290"
+  },
+  "entities": [
+    {
+      "text": "Cranial defect",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 39,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cranial defect",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cranial defect",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 135,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cranial defect",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chondrosarcoma",
+      "label": "DISEASE",
+      "start_char": 398,
+      "end_char": 412,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chondrosarcoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bone flap infection",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 111,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bone flap infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ceftriaxone",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 53,
+      "sentence_idx": 7,
+      "concept_id": "C0007561",
+      "concept_name": "ceftriaxone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9476279020309448,
+      "timestamp": null
+    },
+    {
+      "text": "vancomycin",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 65,
+      "sentence_idx": 7,
+      "concept_id": "C0042313",
+      "concept_name": "vancomycin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736526608467102,
+      "timestamp": null
+    },
+    {
+      "text": "Flagyl",
+      "label": "CHEMICAL",
+      "start_char": 71,
+      "end_char": 77,
+      "sentence_idx": 7,
+      "concept_id": "C0699678",
+      "concept_name": "Flagyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9641984701156616,
+      "timestamp": null
+    },
+    {
+      "text": "venous thromboembolism",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 195,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "venous thromboembolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "titanium",
+      "label": "CHEMICAL",
+      "start_char": 96,
+      "end_char": 104,
+      "sentence_idx": 13,
+      "concept_id": "C0040302",
+      "concept_name": "titanium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9754260182380676,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

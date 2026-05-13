@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2746__soap___temporal_mass_.txt",
+    "file_name": "mtsamples_2746__soap___temporal_mass_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1846,
+    "processed_at": "2026-05-09T09:54:06.843288"
+  },
+  "entities": [
+    {
+      "text": "seizures",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 144,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-29"
+    },
+    {
+      "text": "seizures",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 65,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-29"
+    },
+    {
+      "text": "high-grade glioma",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 121,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "high-grade glioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-29"
+    },
+    {
+      "text": "Cranial nerves II",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 17,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cranial nerves II",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-29"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 40,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-07-29"
+    },
+    {
+      "text": "high-grade glioma",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 101,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "high-grade glioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-29"
+    },
+    {
+      "text": "glioblastoma multiforme",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 144,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glioblastoma multiforme",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-29"
+    },
+    {
+      "text": "high-grade glioma",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 71,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "high-grade glioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-29"
+    },
+    {
+      "text": "high-grade glioma",
+      "label": "DISEASE",
+      "start_char": 288,
+      "end_char": 305,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "high-grade glioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-29"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 126,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-29"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "07/29/2008",
+      "start_char": 97,
+      "end_char": 107
+    }
+  ]
+}

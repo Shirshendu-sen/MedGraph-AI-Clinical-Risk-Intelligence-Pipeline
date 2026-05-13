@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3982__facial_rhytids_.txt",
+    "file_name": "mtsamples_3982__facial_rhytids_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1006,
+    "processed_at": "2026-05-09T09:54:31.341393"
+  },
+  "entities": [
+    {
+      "text": "skin disease",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 98,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "skin disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fullness",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 128,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fullness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 149,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 160,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nerve injury",
+      "label": "DISEASE",
+      "start_char": 222,
+      "end_char": 234,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nerve injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 236,
+      "end_char": 244,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertrophic scarring",
+      "label": "DISEASE",
+      "start_char": 279,
+      "end_char": 300,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertrophic scarring",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

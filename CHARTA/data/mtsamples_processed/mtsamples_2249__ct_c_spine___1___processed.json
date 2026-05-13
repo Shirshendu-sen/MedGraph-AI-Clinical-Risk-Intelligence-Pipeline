@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2249__ct_c_spine___1__.txt",
+    "file_name": "mtsamples_2249__ct_c_spine___1__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 882,
+    "processed_at": "2026-05-09T09:53:58.837642"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2249__ct_c_spine___1__.txt",
+    "text": "EXAM: , CT cervical spine.,REASON FOR EXAM: , MVA, feeling sleepy, headache, shoulder and rib pain.,TECHNIQUE:,  Axial images through the cervical spine with coronal and sagittal reconstructions.,FINDINGS:,  There is reversal of the normal cervical curvature at the vertebral body heights.  The intervertebral disk spaces are otherwise maintained.  There is no prevertebral soft tissue swelling.  The facets are aligned.  The tip of the clivus and occiput appear intact.  On the coronal reconstructed sequence, there is satisfactory alignment of C1 on C2, no evidence of a base of dens fracture.,The included portions of the first and second ribs are intact.  There is no evidence of a posterior element fracture.  Included portions of the mastoid air cells appear clear.  There is no CT evidence of a moderate or high-grade stenosis.,IMPRESSION: , No acute process, cervical spine.",
+    "char_count": 882,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , CT cervical spine.,REASON FOR EXAM: , MVA, feeling sleepy, headache, shoulder and rib pain.,TECHNIQUE:, Axial images through the cervical spine with coronal and sagittal reconstructions.,FINDINGS:, There is reversal of the normal cervical curvature at the vertebral body heights. The intervertebral disk spaces are otherwise maintained. There is no prevertebral soft tissue swelling. The facets are aligned. The tip of the clivus and occiput appear intact. On the coronal reconstructed sequence, there is satisfactory alignment of C1 on C2, no evidence of a base of dens fracture.,The included portions of the first and second ribs are intact. There is no evidence of a posterior element fracture. Included portions of the mastoid air cells appear clear. There is no CT evidence of a moderate or high-grade stenosis.,IMPRESSION: , No acute process, cervical spine.",
+    "sentences": [
+      "EXAM: , CT cervical spine.,REASON FOR EXAM: , MVA, feeling sleepy, headache, shoulder and rib pain.,TECHNIQUE:, Axial images through the cervical spine with coronal and sagittal reconstructions.,FINDINGS:, There is reversal of the normal cervical curvature at the vertebral body heights.",
+      "The intervertebral disk spaces are otherwise maintained.",
+      "There is no prevertebral soft tissue swelling.",
+      "The facets are aligned.",
+      "The tip of the clivus and occiput appear intact.",
+      "On the coronal reconstructed sequence, there is satisfactory alignment of C1 on C2, no evidence of a base of dens fracture.,The included portions of the first and second ribs are intact.",
+      "There is no evidence of a posterior element fracture.",
+      "Included portions of the mastoid air cells appear clear.",
+      "There is no CT evidence of a moderate or high-grade stenosis.,IMPRESSION: , No acute process, cervical spine."
+    ],
+    "sentence_count": 9,
+    "original_length": 882,
+    "cleaned_length": 872,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , CT cervical spine.,REASON FOR EXAM: , MVA, feeling sleepy, headache, shoulder and rib pain.,TECHNIQUE:,  Axial images through the cervical spine with coronal and sagittal reconstructions.,FINDINGS:,  There is reversal of the normal cervical curvature at the vertebral body heights.  The intervertebral disk spaces are otherwise maintained.  There is no prevertebral soft tissue swelling.  The facets are aligned.  The tip of the clivus and occiput appear intact.  On the coronal reconstructed sequence, there is satisfactory alignment of C1 on C2, no evidence of a base of dens fracture.,The included portions of the first and second ribs are intact.  There is no evidence of a posterior element fracture.  Included portions of the mastoid air cells appear clear.  There is no CT evidence of a moderate or high-grade stenosis.,IMPRESSION: , No acute process, cervical spine.",
+    "cleaned_text": "EXAM: , CT cervical spine.,REASON FOR EXAM: , MVA, feeling sleepy, headache, shoulder and rib pain.,TECHNIQUE:, Axial images through the cervical spine with coronal and sagittal reconstructions.,FINDINGS:, There is reversal of the normal cervical curvature at the vertebral body heights. The intervertebral disk spaces are otherwise maintained. There is no prevertebral soft tissue swelling. The facets are aligned. The tip of the clivus and occiput appear intact. On the coronal reconstructed sequence, there is satisfactory alignment of C1 on C2, no evidence of a base of dens fracture.,The included portions of the first and second ribs are intact. There is no evidence of a posterior element fracture. Included portions of the mastoid air cells appear clear. There is no CT evidence of a moderate or high-grade stenosis.,IMPRESSION: , No acute process, cervical spine.",
+    "sentences": [
+      "EXAM: , CT cervical spine.,REASON FOR EXAM: , MVA, feeling sleepy, headache, shoulder and rib pain.,TECHNIQUE:, Axial images through the cervical spine with coronal and sagittal reconstructions.,FINDINGS:, There is reversal of the normal cervical curvature at the vertebral body heights.",
+      "The intervertebral disk spaces are otherwise maintained.",
+      "There is no prevertebral soft tissue swelling.",
+      "The facets are aligned.",
+      "The tip of the clivus and occiput appear intact.",
+      "On the coronal reconstructed sequence, there is satisfactory alignment of C1 on C2, no evidence of a base of dens fracture.,The included portions of the first and second ribs are intact.",
+      "There is no evidence of a posterior element fracture.",
+      "Included portions of the mastoid air cells appear clear.",
+      "There is no CT evidence of a moderate or high-grade stenosis.,IMPRESSION: , No acute process, cervical spine."
+    ],
+    "sentence_count": 9
+  }
+}

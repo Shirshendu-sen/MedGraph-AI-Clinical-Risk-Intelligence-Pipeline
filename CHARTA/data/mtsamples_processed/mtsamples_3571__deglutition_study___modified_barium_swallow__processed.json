@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3571__deglutition_study___modified_barium_swallow_.txt",
+    "file_name": "mtsamples_3571__deglutition_study___modified_barium_swallow_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 651,
+    "processed_at": "2026-05-09T09:54:23.750011"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3571__deglutition_study___modified_barium_swallow_.txt",
+    "text": "EXAM: , Modified barium swallow.,SYMPTOM:,  Dysphagia with possible aspiration.,FINDINGS:,  A cookie deglutition study was performed.  The patient was examined in the direct lateral position.,Patient was challenged with thin liquids, thick liquid, semisolids and solids.,Persistently demonstrable is the presence of penetration with thin liquids.  This is not evident with thick liquids, semisolids or solids.,There is weakness in the oral phase of deglutition.  Subglottic region appears normal.  There is no evidence of aspiration demonstrated.,IMPRESSION: , Penetration demonstrated with thin liquids with weakness of the oral phase of deglutition.",
+    "char_count": 651,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , Modified barium swallow.,SYMPTOM:, Dysphagia with possible aspiration.,FINDINGS:, A cookie deglutition study was performed. The patient was examined in the direct lateral position.,Patient was challenged with thin liquids, thick liquid, semisolids and solids.,Persistently demonstrable is the presence of penetration with thin liquids. This is not evident with thick liquids, semisolids or solids.,There is weakness in the oral phase of deglutition. Subglottic region appears normal. There is no evidence of aspiration demonstrated.,IMPRESSION: , Penetration demonstrated with thin liquids with weakness of the oral phase of deglutition.",
+    "sentences": [
+      "EXAM: , Modified barium swallow.,SYMPTOM:, Dysphagia with possible aspiration.,FINDINGS:, A cookie deglutition study was performed.",
+      "The patient was examined in the direct lateral position.,Patient was challenged with thin liquids, thick liquid, semisolids and solids.,Persistently demonstrable is the presence of penetration with thin liquids.",
+      "This is not evident with thick liquids, semisolids or solids.,There is weakness in the oral phase of deglutition.",
+      "Subglottic region appears normal.",
+      "There is no evidence of aspiration demonstrated.,IMPRESSION: , Penetration demonstrated with thin liquids with weakness of the oral phase of deglutition."
+    ],
+    "sentence_count": 5,
+    "original_length": 651,
+    "cleaned_length": 645,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , Modified barium swallow.,SYMPTOM:,  Dysphagia with possible aspiration.,FINDINGS:,  A cookie deglutition study was performed.  The patient was examined in the direct lateral position.,Patient was challenged with thin liquids, thick liquid, semisolids and solids.,Persistently demonstrable is the presence of penetration with thin liquids.  This is not evident with thick liquids, semisolids or solids.,There is weakness in the oral phase of deglutition.  Subglottic region appears normal.  There is no evidence of aspiration demonstrated.,IMPRESSION: , Penetration demonstrated with thin liquids with weakness of the oral phase of deglutition.",
+    "cleaned_text": "EXAM: , Modified barium swallow.,SYMPTOM:, Dysphagia with possible aspiration.,FINDINGS:, A cookie deglutition study was performed. The patient was examined in the direct lateral position.,Patient was challenged with thin liquids, thick liquid, semisolids and solids.,Persistently demonstrable is the presence of penetration with thin liquids. This is not evident with thick liquids, semisolids or solids.,There is weakness in the oral phase of deglutition. Subglottic region appears normal. There is no evidence of aspiration demonstrated.,IMPRESSION: , Penetration demonstrated with thin liquids with weakness of the oral phase of deglutition.",
+    "sentences": [
+      "EXAM: , Modified barium swallow.,SYMPTOM:, Dysphagia with possible aspiration.,FINDINGS:, A cookie deglutition study was performed.",
+      "The patient was examined in the direct lateral position.,Patient was challenged with thin liquids, thick liquid, semisolids and solids.,Persistently demonstrable is the presence of penetration with thin liquids.",
+      "This is not evident with thick liquids, semisolids or solids.,There is weakness in the oral phase of deglutition.",
+      "Subglottic region appears normal.",
+      "There is no evidence of aspiration demonstrated.,IMPRESSION: , Penetration demonstrated with thin liquids with weakness of the oral phase of deglutition."
+    ],
+    "sentence_count": 5
+  }
+}

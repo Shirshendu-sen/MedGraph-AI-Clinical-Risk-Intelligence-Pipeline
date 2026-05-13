@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2529__pelvic_laparotomy_.txt",
+    "file_name": "mtsamples_2529__pelvic_laparotomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2662,
+    "processed_at": "2026-05-09T09:54:03.812594"
+  },
+  "entities": [
+    {
+      "text": "left adnexal mass",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 49,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left adnexal mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pelvic adhesions",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 112,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pelvic adhesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pain-Buster Pain",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 60,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pain-Buster Pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "norethindrone acetate",
+      "label": "CHEMICAL",
+      "start_char": 82,
+      "end_char": 103,
+      "sentence_idx": 5,
+      "concept_id": "C0068980",
+      "concept_name": "norethindrone acetate",
+      "kb_source": "rxnorm",
+      "link_score": 0.967808187007904,
+      "timestamp": null
+    },
+    {
+      "text": "ovarian neoplasm",
+      "label": "DISEASE",
+      "start_char": 166,
+      "end_char": 182,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ovarian neoplasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "malignancy",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 66,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malignancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 18,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pain-Buster Pain",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 25,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pain-Buster Pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 64,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

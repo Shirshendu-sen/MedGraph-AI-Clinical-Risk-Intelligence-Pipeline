@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2603__delivery_note___3_.txt",
+    "file_name": "mtsamples_2603__delivery_note___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1172,
+    "processed_at": "2026-05-09T09:54:05.083602"
+  },
+  "entities": [
+    {
+      "text": "Meconium",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 21,
+      "sentence_idx": 9,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "meconium",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 59,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-23"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/23/08",
+      "start_char": 20,
+      "end_char": 28
+    }
+  ]
+}

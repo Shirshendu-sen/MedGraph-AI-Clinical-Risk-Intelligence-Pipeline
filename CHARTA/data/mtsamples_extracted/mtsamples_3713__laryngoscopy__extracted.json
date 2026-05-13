@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3713__laryngoscopy_.txt",
+    "file_name": "mtsamples_3713__laryngoscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2908,
+    "processed_at": "2026-05-09T09:54:26.496689"
+  },
+  "entities": [
+    {
+      "text": "upper tracheal stenosis",
+      "label": "DISEASE",
+      "start_char": 330,
+      "end_char": 353,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper tracheal stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 52,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dyspnea",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 64,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dyspnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "death",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 95,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "death",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 85,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 96,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hoarseness",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 152,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hoarseness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 189,
+      "end_char": 197,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "airway obstruction",
+      "label": "DISEASE",
+      "start_char": 231,
+      "end_char": 249,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "airway obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Epiglottis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Epiglottis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 85,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ulcers",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 116,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ulcers",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "restenosis",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 89,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "restenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 96,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

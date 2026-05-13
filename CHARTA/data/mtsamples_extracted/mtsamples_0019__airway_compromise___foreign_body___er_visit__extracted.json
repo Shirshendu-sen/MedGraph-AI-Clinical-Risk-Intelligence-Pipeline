@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0019__airway_compromise___foreign_body___er_visit_.txt",
+    "file_name": "mtsamples_0019__airway_compromise___foreign_body___er_visit_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1630,
+    "processed_at": "2026-05-09T09:53:03.588136"
+  },
+  "entities": [
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 80,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 94,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "asthma",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 102,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "asthma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Humulin",
+      "label": "CHEMICAL",
+      "start_char": 228,
+      "end_char": 235,
+      "sentence_idx": 1,
+      "concept_id": "C3538423",
+      "concept_name": "Humulin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9625306129455566,
+      "timestamp": null
+    },
+    {
+      "text": "Diprivan",
+      "label": "CHEMICAL",
+      "start_char": 237,
+      "end_char": 245,
+      "sentence_idx": 1,
+      "concept_id": "C0678120",
+      "concept_name": "Diprivan",
+      "kb_source": "rxnorm",
+      "link_score": 0.9885100722312927,
+      "timestamp": null
+    },
+    {
+      "text": "Proventil",
+      "label": "CHEMICAL",
+      "start_char": 247,
+      "end_char": 256,
+      "sentence_idx": 1,
+      "concept_id": "C0699770",
+      "concept_name": "Proventil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9571302533149719,
+      "timestamp": null
+    },
+    {
+      "text": "Unasyn",
+      "label": "CHEMICAL",
+      "start_char": 258,
+      "end_char": 264,
+      "sentence_idx": 1,
+      "concept_id": "C0147814",
+      "concept_name": "Unasyn",
+      "kb_source": "rxnorm",
+      "link_score": 0.9733964800834656,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 364,
+      "end_char": 371,
+      "sentence_idx": 1,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "fishbone",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 94,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fishbone",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

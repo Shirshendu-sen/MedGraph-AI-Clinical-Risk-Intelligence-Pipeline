@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3656__appendectomy_laparoscopic_.txt",
+    "file_name": "mtsamples_3656__appendectomy_laparoscopic_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2544,
+    "processed_at": "2026-05-09T09:54:25.585129"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 299,
+      "end_char": 303,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "appendicitis",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 76,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "appendicitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "appendicitis",
+      "label": "DISEASE",
+      "start_char": 207,
+      "end_char": 219,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "appendicitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

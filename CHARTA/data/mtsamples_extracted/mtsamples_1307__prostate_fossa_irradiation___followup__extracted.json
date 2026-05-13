@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1307__prostate_fossa_irradiation___followup_.txt",
+    "file_name": "mtsamples_1307__prostate_fossa_irradiation___followup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2508,
+    "processed_at": "2026-05-09T09:53:38.818331"
+  },
+  "entities": [
+    {
+      "text": "adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 166,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "abdominal cramping",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 112,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal cramping",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "sore throat",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 145,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sore throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "hematochezia",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 26,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematochezia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "Abdominal cramping",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 64,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Abdominal cramping",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "full-time.,NUTRITIONAL",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 43,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "full-time.,NUTRITIONAL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "Appetite",
+      "label": "CHEMICAL",
+      "start_char": 54,
+      "end_char": 62,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Appetite",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "depressed",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 81,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depressed",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "Timolol",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 11,
+      "concept_id": "C0040233",
+      "concept_name": "timolol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9858434200286865,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "thrush",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 33,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrush",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "palpable",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 52,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palpable",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "clubbing, cyanosis",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 81,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clubbing, cyanosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    },
+    {
+      "text": "cancer",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 64,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-05-08"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "2 days ago",
+      "start_char": 211,
+      "end_char": 221
+    }
+  ]
+}

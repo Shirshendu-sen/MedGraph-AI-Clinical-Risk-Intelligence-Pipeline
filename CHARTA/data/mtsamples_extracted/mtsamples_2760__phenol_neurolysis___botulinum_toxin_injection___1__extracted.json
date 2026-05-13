@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2760__phenol_neurolysis___botulinum_toxin_injection___1_.txt",
+    "file_name": "mtsamples_2760__phenol_neurolysis___botulinum_toxin_injection___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2001,
+    "processed_at": "2026-05-09T09:54:07.031363"
+  },
+  "entities": [
+    {
+      "text": "Phenol neurolysis left musculocutaneous nerve",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 68,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Phenol neurolysis left musculocutaneous nerve",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Spastic quadriparesis",
+      "label": "DISEASE",
+      "start_char": 199,
+      "end_char": 220,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Spastic quadriparesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "traumatic brain injury",
+      "label": "DISEASE",
+      "start_char": 234,
+      "end_char": 256,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "traumatic brain injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Spastic quadriparesis",
+      "label": "DISEASE",
+      "start_char": 291,
+      "end_char": 312,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Spastic quadriparesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "traumatic brain injury",
+      "label": "DISEASE",
+      "start_char": 326,
+      "end_char": 348,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "traumatic brain injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chlorhexidine",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 64,
+      "sentence_idx": 4,
+      "concept_id": "C0008196",
+      "concept_name": "chlorhexidine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9488893151283264,
+      "timestamp": null
+    },
+    {
+      "text": "phenol",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 22,
+      "sentence_idx": 7,
+      "concept_id": "C0070570",
+      "concept_name": "phenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9937645792961121,
+      "timestamp": null
+    },
+    {
+      "text": "phenol",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 70,
+      "sentence_idx": 8,
+      "concept_id": "C0070570",
+      "concept_name": "phenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9937645792961121,
+      "timestamp": null
+    },
+    {
+      "text": "phenol",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 31,
+      "sentence_idx": 10,
+      "concept_id": "C0070570",
+      "concept_name": "phenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9937645792961121,
+      "timestamp": null
+    },
+    {
+      "text": "elbow flexion contraction",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 82,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "elbow flexion contraction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3965__dietary_consult___2_.txt",
+    "file_name": "mtsamples_3965__dietary_consult___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 975,
+    "processed_at": "2026-05-09T09:54:30.439670"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3965__dietary_consult___2_.txt",
+    "text": "SUBJECTIVE:,  The patient's assistant brings in her food diary sheets.  The patient says she stays active by walking at the mall.,OBJECTIVE:,  Weight today is 201 pounds, which is down 3 pounds in the past month.  She has lost a total of 24 pounds.  I praised this and encouraged her to continue.  I went over her food diary.  I praised her three-meal pattern and all of her positive food choices, especially the use of sugar-free Kool-Aid, sugar-free Jell-O, sugar-free lemonade, diet pop, as well as the variety of foods she is using in her three-meal pattern.  I encouraged her to continue all of this.,ASSESSMENT:,  The patient has been successful with weight loss due to assistance from others in keeping a food diary, picking lower-calorie items, her three-meal pattern, getting a balanced diet, and all her physical activity.  She needs to continue all this.,PLAN:,  Followup is set for 06/13/05 to check the patient's weight, her food diary, and answer any questions.",
+    "char_count": 975,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "SUBJECTIVE:, The patient's assistant brings in her food diary sheets. The patient says she stays active by walking at the mall.,OBJECTIVE:, Weight today is 201 pounds, which is down 3 pounds in the past month. She has lost a total of 24 pounds. I praised this and encouraged her to continue. I went over her food diary. I praised her three-meal pattern and all of her positive food choices, especially the use of sugar-free Kool-Aid, sugar-free Jell-O, sugar-free lemonade, diet pop, as well as the variety of foods she is using in her three-meal pattern. I encouraged her to continue all of this.,ASSESSMENT:, The patient has been successful with weight loss due to assistance from others in keeping a food diary, picking lower-calorie items, her three-meal pattern, getting a balanced diet, and all her physical activity. She needs to continue all this.,PLAN:, Followup is set for 06/13/05 to check the patient's weight, her food diary, and answer any questions.",
+    "sentences": [
+      "SUBJECTIVE:, The patient's assistant brings in her food diary sheets.",
+      "The patient says she stays active by walking at the mall.,OBJECTIVE:, Weight today is 201 pounds, which is down 3 pounds in the past month.",
+      "She has lost a total of 24 pounds.",
+      "I praised this and encouraged her to continue.",
+      "I went over her food diary.",
+      "I praised her three-meal pattern and all of her positive food choices, especially the use of sugar-free Kool-Aid, sugar-free Jell-O, sugar-free lemonade, diet pop, as well as the variety of foods she is using in her three-meal pattern.",
+      "I encouraged her to continue all of this.,ASSESSMENT:, The patient has been successful with weight loss due to assistance from others in keeping a food diary, picking lower-calorie items, her three-meal pattern, getting a balanced diet, and all her physical activity.",
+      "She needs to continue all this.,PLAN:, Followup is set for 06/13/05 to check the patient's weight, her food diary, and answer any questions."
+    ],
+    "sentence_count": 8,
+    "original_length": 975,
+    "cleaned_length": 964,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "SUBJECTIVE:,  The patient's assistant brings in her food diary sheets.  The patient says she stays active by walking at the mall.,OBJECTIVE:,  Weight today is 201 pounds, which is down 3 pounds in the past month.  She has lost a total of 24 pounds.  I praised this and encouraged her to continue.  I went over her food diary.  I praised her three-meal pattern and all of her positive food choices, especially the use of sugar-free Kool-Aid, sugar-free Jell-O, sugar-free lemonade, diet pop, as well as the variety of foods she is using in her three-meal pattern.  I encouraged her to continue all of this.,ASSESSMENT:,  The patient has been successful with weight loss due to assistance from others in keeping a food diary, picking lower-calorie items, her three-meal pattern, getting a balanced diet, and all her physical activity.  She needs to continue all this.,PLAN:,  Followup is set for 06/13/05 to check the patient's weight, her food diary, and answer any questions.",
+    "cleaned_text": "SUBJECTIVE:, The patient's assistant brings in her food diary sheets. The patient says she stays active by walking at the mall.,OBJECTIVE:, Weight today is 201 pounds, which is down 3 pounds in the past month. She has lost a total of 24 pounds. I praised this and encouraged her to continue. I went over her food diary. I praised her three-meal pattern and all of her positive food choices, especially the use of sugar-free Kool-Aid, sugar-free Jell-O, sugar-free lemonade, diet pop, as well as the variety of foods she is using in her three-meal pattern. I encouraged her to continue all of this.,ASSESSMENT:, The patient has been successful with weight loss due to assistance from others in keeping a food diary, picking lower-calorie items, her three-meal pattern, getting a balanced diet, and all her physical activity. She needs to continue all this.,PLAN:, Followup is set for 06/13/05 to check the patient's weight, her food diary, and answer any questions.",
+    "sentences": [
+      "SUBJECTIVE:, The patient's assistant brings in her food diary sheets.",
+      "The patient says she stays active by walking at the mall.,OBJECTIVE:, Weight today is 201 pounds, which is down 3 pounds in the past month.",
+      "She has lost a total of 24 pounds.",
+      "I praised this and encouraged her to continue.",
+      "I went over her food diary.",
+      "I praised her three-meal pattern and all of her positive food choices, especially the use of sugar-free Kool-Aid, sugar-free Jell-O, sugar-free lemonade, diet pop, as well as the variety of foods she is using in her three-meal pattern.",
+      "I encouraged her to continue all of this.,ASSESSMENT:, The patient has been successful with weight loss due to assistance from others in keeping a food diary, picking lower-calorie items, her three-meal pattern, getting a balanced diet, and all her physical activity.",
+      "She needs to continue all this.,PLAN:, Followup is set for 06/13/05 to check the patient's weight, her food diary, and answer any questions."
+    ],
+    "sentence_count": 8
+  }
+}

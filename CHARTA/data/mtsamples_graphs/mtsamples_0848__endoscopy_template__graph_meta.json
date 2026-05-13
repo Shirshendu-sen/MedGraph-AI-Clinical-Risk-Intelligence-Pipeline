@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0848__endoscopy_template_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 5,
+  "entity_index": {
+    "C0055141": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0848__endoscopy_template__graph.pt",
+  "source_dataset": "mtsamples_0848__endoscopy_template"
+}

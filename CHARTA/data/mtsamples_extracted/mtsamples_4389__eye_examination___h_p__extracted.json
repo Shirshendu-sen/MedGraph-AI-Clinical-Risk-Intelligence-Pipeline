@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4389__eye_examination___h_p_.txt",
+    "file_name": "mtsamples_4389__eye_examination___h_p_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2714,
+    "processed_at": "2026-05-09T09:54:38.025476"
+  },
+  "entities": [
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 123,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aspirin",
+      "label": "CHEMICAL",
+      "start_char": 127,
+      "end_char": 134,
+      "sentence_idx": 0,
+      "concept_id": "C0004057",
+      "concept_name": "aspirin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736717343330383,
+      "timestamp": null
+    },
+    {
+      "text": "disorientation",
+      "label": "DISEASE",
+      "start_char": 148,
+      "end_char": 162,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "disorientation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "amoxicillin-clavulanate",
+      "label": "CHEMICAL",
+      "start_char": 223,
+      "end_char": 246,
+      "sentence_idx": 0,
+      "concept_id": "C0054066",
+      "concept_name": "amoxicillin / clavulanate",
+      "kb_source": "rxnorm",
+      "link_score": 0.8774212002754211,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 220,
+      "end_char": 227,
+      "sentence_idx": 2,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "blurred vision.,Constitutional",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 158,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blurred vision.,Constitutional",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 205,
+      "end_char": 210,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 212,
+      "end_char": 220,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nausea",
+      "label": "DISEASE",
+      "start_char": 222,
+      "end_char": 228,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ductions",
+      "label": "DISEASE",
+      "start_char": 627,
+      "end_char": 635,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ductions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Alphagan",
+      "label": "CHEMICAL",
+      "start_char": 803,
+      "end_char": 811,
+      "sentence_idx": 5,
+      "concept_id": "C0594452",
+      "concept_name": "Alphagan",
+      "kb_source": "rxnorm",
+      "link_score": 0.9700726866722107,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 957,
+      "end_char": 966,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "avascular",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 29,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "avascular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

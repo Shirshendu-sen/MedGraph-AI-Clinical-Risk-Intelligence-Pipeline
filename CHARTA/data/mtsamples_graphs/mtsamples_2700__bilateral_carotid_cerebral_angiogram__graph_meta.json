@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2700__bilateral_carotid_cerebral_angiogram_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0019134": 1,
+    "C0033603": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2700__bilateral_carotid_cerebral_angiogram__graph.pt",
+  "source_dataset": "mtsamples_2700__bilateral_carotid_cerebral_angiogram"
+}

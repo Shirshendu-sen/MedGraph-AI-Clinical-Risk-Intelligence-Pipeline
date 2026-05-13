@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_2432__telemetry_monitoring_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 42,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0302583": 1,
+    "C1505021": 2,
+    "C0592558": 3,
+    "C0010592": 4,
+    "C0032952": 5,
+    "C0020223": 6,
+    "C0081876": 7,
+    "C0017642": 8,
+    "C0004057": 9
+  },
+  "visit_dates": [
+    "2007-04-26"
+  ],
+  "graph_file": "mtsamples_2432__telemetry_monitoring__graph.pt",
+  "source_dataset": "mtsamples_2432__telemetry_monitoring"
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4658__pulmonary_function_test___2_.txt",
+    "file_name": "mtsamples_4658__pulmonary_function_test___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 814,
+    "processed_at": "2026-05-09T09:54:42.933534"
+  },
+  "entities": [
+    {
+      "text": "Dyspnea",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 53,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dyspnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "airway obstruction",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 40,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "airway obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "airway obstruction",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 78,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "airway obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

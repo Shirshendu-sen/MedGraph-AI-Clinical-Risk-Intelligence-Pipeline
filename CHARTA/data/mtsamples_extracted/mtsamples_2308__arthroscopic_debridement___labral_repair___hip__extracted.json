@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2308__arthroscopic_debridement___labral_repair___hip_.txt",
+    "file_name": "mtsamples_2308__arthroscopic_debridement___labral_repair___hip_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2484,
+    "processed_at": "2026-05-09T09:53:59.671082"
+  },
+  "entities": [
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 22,
+      "end_char": 29,
+      "sentence_idx": 7,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "anterior lip articular cartilage delamination",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 130,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anterior lip articular cartilage delamination",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ropivacaine",
+      "label": "CHEMICAL",
+      "start_char": 94,
+      "end_char": 105,
+      "sentence_idx": 25,
+      "concept_id": "C0073571",
+      "concept_name": "ropivacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9624372124671936,
+      "timestamp": null
+    },
+    {
+      "text": "ropivacaine",
+      "label": "CHEMICAL",
+      "start_char": 135,
+      "end_char": 146,
+      "sentence_idx": 25,
+      "concept_id": "C0073571",
+      "concept_name": "ropivacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9624372124671936,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2089__orif___malleolus_.txt",
+    "file_name": "mtsamples_2089__orif___malleolus_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2070,
+    "processed_at": "2026-05-09T09:53:56.071362"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2089__orif___malleolus_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Left lateral malleolus fracture.,POSTOPERATIVE DIAGNOSIS:,  Left lateral malleolus fracture.,PROCEDURE PERFORMED: , Open reduction and internal fixation of left lateral malleolus.,ANESTHESIA:  ,General.,TOURNIQUET TIME: , 59 minutes.,COMPLICATIONS: , None.,BLOOD LOSS: , Negligible.,CLOSURE: , 2-0 Vicryl and staples.,INDICATIONS FOR SURGERY:,  This is a young gentleman with soccer injury to his left ankle and an x-ray showed displaced lateral malleolus fracture with widening of the mortise now for ORIF.  The risks and perceivable complications of the surgeries were discussed with the patient via a translator as well as nonsurgical treatment options and this was scheduled emergently.,OPERATIVE PROCEDURE: , The patient was taken to the operative room where general anesthesia was successfully introduced.  The right ankle was prepped and draped in standard fashion.  The tourniquet was applied about the right upper thigh.  An Esmarch tourniquet was used to exsanguinate the ankle.  The tourniquet was insufflated to a pressure 325 mm for approximately 59 minutes.  An approximately 6 inch longitudinal incision was made just over the lateral malleolus.  Care was taken to spare overlying nerves and vessels.  An elevator was used to expose the fracture.  The fracture was freed of old hematoma and reduced with a reducing clamp.  An interfragmentary cortical screw was placed of 28 mm with excellent purchase.  The intraoperative image showed excellent reduction.  A 5-hole semitubular plate was then contoured to the lateral malleolus and fixed with 3 cortical screws proximally and 2 cancellous screws distally.  Excellent stability of fracture was achieved.  Final fluoroscopy showed a reduction to be anatomic in 2 planes.  The wound was irrigated with copious amounts of normal saline.  Deep tissue was closed with 2-0 Vicryl.  The skin was approximated with 2-0 Vicryl and closed with staples.  Dry sterile dressing was applied.,The patient tolerated the procedure, was awakened and taken to the recovery room in stable condition.",
+    "char_count": 2070,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Left lateral malleolus fracture.,POSTOPERATIVE DIAGNOSIS:, Left lateral malleolus fracture.,PROCEDURE PERFORMED: , Open reduction and internal fixation of left lateral malleolus.,ANESTHESIA: ,General.,TOURNIQUET TIME: , 59 minutes.,COMPLICATIONS: , None.,BLOOD LOSS: , Negligible.,CLOSURE: , 2-0 Vicryl and staples.,INDICATIONS FOR SURGERY:, This is a young gentleman with soccer injury to his left ankle and an x-ray showed displaced lateral malleolus fracture with widening of the mortise now for ORIF. The risks and perceivable complications of the surgeries were discussed with the patient via a translator as well as nonsurgical treatment options and this was scheduled emergently.,OPERATIVE PROCEDURE: , The patient was taken to the operative room where general anesthesia was successfully introduced. The right ankle was prepped and draped in standard fashion. The tourniquet was applied about the right upper thigh. An Esmarch tourniquet was used to exsanguinate the ankle. The tourniquet was insufflated to a pressure 325 mm for approximately 59 minutes. An approximately 6 inch longitudinal incision was made just over the lateral malleolus. Care was taken to spare overlying nerves and vessels. An elevator was used to expose the fracture. The fracture was freed of old hematoma and reduced with a reducing clamp. An interfragmentary cortical screw was placed of 28 mm with excellent purchase. The intraoperative image showed excellent reduction. A 5-hole semitubular plate was then contoured to the lateral malleolus and fixed with 3 cortical screws proximally and 2 cancellous screws distally. Excellent stability of fracture was achieved. Final fluoroscopy showed a reduction to be anatomic in 2 planes. The wound was irrigated with copious amounts of normal saline. Deep tissue was closed with 2-0 Vicryl. The skin was approximated with 2-0 Vicryl and closed with staples. Dry sterile dressing was applied.,The patient tolerated the procedure, was awakened and taken to the recovery room in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Left lateral malleolus fracture.,POSTOPERATIVE DIAGNOSIS:, Left lateral malleolus fracture.,PROCEDURE PERFORMED: , Open reduction and internal fixation of left lateral malleolus.,ANESTHESIA: ,General.,TOURNIQUET TIME: , 59 minutes.,COMPLICATIONS: , None.,BLOOD LOSS: , Negligible.,CLOSURE: , 2-0 Vicryl and staples.,INDICATIONS FOR SURGERY:, This is a young gentleman with soccer injury to his left ankle and an x-ray showed displaced lateral malleolus fracture with widening of the mortise now for ORIF.",
+      "The risks and perceivable complications of the surgeries were discussed with the patient via a translator as well as nonsurgical treatment options and this was scheduled emergently.,OPERATIVE PROCEDURE: , The patient was taken to the operative room where general anesthesia was successfully introduced.",
+      "The right ankle was prepped and draped in standard fashion.",
+      "The tourniquet was applied about the right upper thigh.",
+      "An Esmarch tourniquet was used to exsanguinate the ankle.",
+      "The tourniquet was insufflated to a pressure 325 mm for approximately 59 minutes.",
+      "An approximately 6 inch longitudinal incision was made just over the lateral malleolus.",
+      "Care was taken to spare overlying nerves and vessels.",
+      "An elevator was used to expose the fracture.",
+      "The fracture was freed of old hematoma and reduced with a reducing clamp.",
+      "An interfragmentary cortical screw was placed of 28 mm with excellent purchase.",
+      "The intraoperative image showed excellent reduction.",
+      "A 5-hole semitubular plate was then contoured to the lateral malleolus and fixed with 3 cortical screws proximally and 2 cancellous screws distally.",
+      "Excellent stability of fracture was achieved.",
+      "Final fluoroscopy showed a reduction to be anatomic in 2 planes.",
+      "The wound was irrigated with copious amounts of normal saline.",
+      "Deep tissue was closed with 2-0 Vicryl.",
+      "The skin was approximated with 2-0 Vicryl and closed with staples.",
+      "Dry sterile dressing was applied.,The patient tolerated the procedure, was awakened and taken to the recovery room in stable condition."
+    ],
+    "sentence_count": 19,
+    "original_length": 2070,
+    "cleaned_length": 2049,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Left lateral malleolus fracture.,POSTOPERATIVE DIAGNOSIS:,  Left lateral malleolus fracture.,PROCEDURE PERFORMED: , Open reduction and internal fixation of left lateral malleolus.,ANESTHESIA:  ,General.,TOURNIQUET TIME: , 59 minutes.,COMPLICATIONS: , None.,BLOOD LOSS: , Negligible.,CLOSURE: , 2-0 Vicryl and staples.,INDICATIONS FOR SURGERY:,  This is a young gentleman with soccer injury to his left ankle and an x-ray showed displaced lateral malleolus fracture with widening of the mortise now for ORIF.  The risks and perceivable complications of the surgeries were discussed with the patient via a translator as well as nonsurgical treatment options and this was scheduled emergently.,OPERATIVE PROCEDURE: , The patient was taken to the operative room where general anesthesia was successfully introduced.  The right ankle was prepped and draped in standard fashion.  The tourniquet was applied about the right upper thigh.  An Esmarch tourniquet was used to exsanguinate the ankle.  The tourniquet was insufflated to a pressure 325 mm for approximately 59 minutes.  An approximately 6 inch longitudinal incision was made just over the lateral malleolus.  Care was taken to spare overlying nerves and vessels.  An elevator was used to expose the fracture.  The fracture was freed of old hematoma and reduced with a reducing clamp.  An interfragmentary cortical screw was placed of 28 mm with excellent purchase.  The intraoperative image showed excellent reduction.  A 5-hole semitubular plate was then contoured to the lateral malleolus and fixed with 3 cortical screws proximally and 2 cancellous screws distally.  Excellent stability of fracture was achieved.  Final fluoroscopy showed a reduction to be anatomic in 2 planes.  The wound was irrigated with copious amounts of normal saline.  Deep tissue was closed with 2-0 Vicryl.  The skin was approximated with 2-0 Vicryl and closed with staples.  Dry sterile dressing was applied.,The patient tolerated the procedure, was awakened and taken to the recovery room in stable condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Left lateral malleolus fracture.,POSTOPERATIVE DIAGNOSIS:, Left lateral malleolus fracture.,PROCEDURE PERFORMED: , Open reduction and internal fixation of left lateral malleolus.,ANESTHESIA: ,General.,TOURNIQUET TIME: , 59 minutes.,COMPLICATIONS: , None.,BLOOD LOSS: , Negligible.,CLOSURE: , 2-0 Vicryl and staples.,INDICATIONS FOR SURGERY:, This is a young gentleman with soccer injury to his left ankle and an x-ray showed displaced lateral malleolus fracture with widening of the mortise now for ORIF. The risks and perceivable complications of the surgeries were discussed with the patient via a translator as well as nonsurgical treatment options and this was scheduled emergently.,OPERATIVE PROCEDURE: , The patient was taken to the operative room where general anesthesia was successfully introduced. The right ankle was prepped and draped in standard fashion. The tourniquet was applied about the right upper thigh. An Esmarch tourniquet was used to exsanguinate the ankle. The tourniquet was insufflated to a pressure 325 mm for approximately 59 minutes. An approximately 6 inch longitudinal incision was made just over the lateral malleolus. Care was taken to spare overlying nerves and vessels. An elevator was used to expose the fracture. The fracture was freed of old hematoma and reduced with a reducing clamp. An interfragmentary cortical screw was placed of 28 mm with excellent purchase. The intraoperative image showed excellent reduction. A 5-hole semitubular plate was then contoured to the lateral malleolus and fixed with 3 cortical screws proximally and 2 cancellous screws distally. Excellent stability of fracture was achieved. Final fluoroscopy showed a reduction to be anatomic in 2 planes. The wound was irrigated with copious amounts of normal saline. Deep tissue was closed with 2-0 Vicryl. The skin was approximated with 2-0 Vicryl and closed with staples. Dry sterile dressing was applied.,The patient tolerated the procedure, was awakened and taken to the recovery room in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Left lateral malleolus fracture.,POSTOPERATIVE DIAGNOSIS:, Left lateral malleolus fracture.,PROCEDURE PERFORMED: , Open reduction and internal fixation of left lateral malleolus.,ANESTHESIA: ,General.,TOURNIQUET TIME: , 59 minutes.,COMPLICATIONS: , None.,BLOOD LOSS: , Negligible.,CLOSURE: , 2-0 Vicryl and staples.,INDICATIONS FOR SURGERY:, This is a young gentleman with soccer injury to his left ankle and an x-ray showed displaced lateral malleolus fracture with widening of the mortise now for ORIF.",
+      "The risks and perceivable complications of the surgeries were discussed with the patient via a translator as well as nonsurgical treatment options and this was scheduled emergently.,OPERATIVE PROCEDURE: , The patient was taken to the operative room where general anesthesia was successfully introduced.",
+      "The right ankle was prepped and draped in standard fashion.",
+      "The tourniquet was applied about the right upper thigh.",
+      "An Esmarch tourniquet was used to exsanguinate the ankle.",
+      "The tourniquet was insufflated to a pressure 325 mm for approximately 59 minutes.",
+      "An approximately 6 inch longitudinal incision was made just over the lateral malleolus.",
+      "Care was taken to spare overlying nerves and vessels.",
+      "An elevator was used to expose the fracture.",
+      "The fracture was freed of old hematoma and reduced with a reducing clamp.",
+      "An interfragmentary cortical screw was placed of 28 mm with excellent purchase.",
+      "The intraoperative image showed excellent reduction.",
+      "A 5-hole semitubular plate was then contoured to the lateral malleolus and fixed with 3 cortical screws proximally and 2 cancellous screws distally.",
+      "Excellent stability of fracture was achieved.",
+      "Final fluoroscopy showed a reduction to be anatomic in 2 planes.",
+      "The wound was irrigated with copious amounts of normal saline.",
+      "Deep tissue was closed with 2-0 Vicryl.",
+      "The skin was approximated with 2-0 Vicryl and closed with staples.",
+      "Dry sterile dressing was applied.,The patient tolerated the procedure, was awakened and taken to the recovery room in stable condition."
+    ],
+    "sentence_count": 19
+  }
+}

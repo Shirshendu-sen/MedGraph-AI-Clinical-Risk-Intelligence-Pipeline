@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2902__ct_c_spine___1__.txt",
+    "file_name": "mtsamples_2902__ct_c_spine___1__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 882,
+    "processed_at": "2026-05-09T09:54:10.429123"
+  },
+  "entities": [
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 75,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dens",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 113,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dens",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 52,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

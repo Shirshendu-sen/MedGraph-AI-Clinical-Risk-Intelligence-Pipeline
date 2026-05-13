@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1609__hepatobiliary_scan_.txt",
+    "file_name": "mtsamples_1609__hepatobiliary_scan_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 937,
+    "processed_at": "2026-05-09T09:53:46.208052"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 33,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2009-02-13"
+    },
+    {
+      "text": "acute cholecystitis or cystic duct",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 47,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute cholecystitis or cystic duct",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-13"
+    },
+    {
+      "text": "chronic cholecystitis",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 128,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic cholecystitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-13"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "02/13/09",
+      "start_char": 120,
+      "end_char": 128
+    },
+    {
+      "raw_text": "02/13/09",
+      "start_char": 165,
+      "end_char": 173
+    }
+  ]
+}

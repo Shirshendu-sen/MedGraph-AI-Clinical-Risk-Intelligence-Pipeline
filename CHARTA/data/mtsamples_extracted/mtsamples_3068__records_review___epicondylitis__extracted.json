@@ -1,0 +1,485 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3068__records_review___epicondylitis_.txt",
+    "file_name": "mtsamples_3068__records_review___epicondylitis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 7221,
+    "processed_at": "2026-05-09T09:54:13.961671"
+  },
+  "entities": [
+    {
+      "text": "Lateral epicondylitis",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 42,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lateral epicondylitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "Carpal tunnel syndrome right.,Mr",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 126,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Carpal tunnel syndrome right.,Mr",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "XXXX",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 4,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "XXXX",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "disassembler",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 65,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "disassembler",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 134,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 58,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "carpal tunnel syndrome",
+      "label": "DISEASE",
+      "start_char": 188,
+      "end_char": 210,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "numb",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 53,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numb",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 21,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "carpal tunnel syndrome",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 76,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 73,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 238,
+      "end_char": 245,
+      "sentence_idx": 26,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "time.,On",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 53,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "time.,On",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 138,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "ecchymosis",
+      "label": "DISEASE",
+      "start_char": 157,
+      "end_char": 167,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ecchymosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "Tinel",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tinel",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "pronation",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 98,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pronation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "supination",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 113,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supination",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "Tinel",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tinel",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "neuropathy",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 102,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "carpal tunnel syndrome.,ASSESSMENT: , Please state your opinion for the following questions based upon your review of the enclosed medical records on January 23, 2009, examination of the claimant.,Please",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 311,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel syndrome.,ASSESSMENT: , Please state your opinion for the following questions based upon your review of the enclosed medical records on January 23, 2009, examination of the claimant.,Please",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "lateral epicondylitis",
+      "label": "DISEASE",
+      "start_char": 522,
+      "end_char": 543,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lateral epicondylitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-18"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 71,
+      "sentence_idx": 43,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 68,
+      "sentence_idx": 44,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 47,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "lateral epicondylitis",
+      "label": "DISEASE",
+      "start_char": 188,
+      "end_char": 209,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lateral epicondylitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "lateral epicondylitis",
+      "label": "DISEASE",
+      "start_char": 170,
+      "end_char": 191,
+      "sentence_idx": 46,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lateral epicondylitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "lateral epicondylitis",
+      "label": "DISEASE",
+      "start_char": 175,
+      "end_char": 196,
+      "sentence_idx": 47,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lateral epicondylitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "lateral epicondylitis",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 145,
+      "sentence_idx": 48,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lateral epicondylitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "lateral epicondylitis",
+      "label": "DISEASE",
+      "start_char": 272,
+      "end_char": 293,
+      "sentence_idx": 49,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lateral epicondylitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "lateral epicondylitis",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 138,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lateral epicondylitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "epicondylitis",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 126,
+      "sentence_idx": 52,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epicondylitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    },
+    {
+      "text": "carpal tunnel syndrome",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 216,
+      "sentence_idx": 52,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-11"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "September 11, 2007",
+      "start_char": 246,
+      "end_char": 264
+    },
+    {
+      "raw_text": "October 18, 2007",
+      "start_char": 779,
+      "end_char": 795
+    },
+    {
+      "raw_text": "October 11, 2007",
+      "start_char": 1077,
+      "end_char": 1093
+    },
+    {
+      "raw_text": "December 3, 2008",
+      "start_char": 1562,
+      "end_char": 1578
+    },
+    {
+      "raw_text": "December 20, 2007",
+      "start_char": 4095,
+      "end_char": 4112
+    },
+    {
+      "raw_text": "November 17, 2008",
+      "start_char": 4410,
+      "end_char": 4427
+    },
+    {
+      "raw_text": "January 23, 2009",
+      "start_char": 4668,
+      "end_char": 4684
+    },
+    {
+      "raw_text": "December 3, 2008",
+      "start_char": 4764,
+      "end_char": 4780
+    },
+    {
+      "raw_text": "January 23, 2009",
+      "start_char": 4984,
+      "end_char": 5000
+    },
+    {
+      "raw_text": "January 23, 2009",
+      "start_char": 5504,
+      "end_char": 5520
+    },
+    {
+      "raw_text": "December 8, 2008",
+      "start_char": 5894,
+      "end_char": 5910
+    },
+    {
+      "raw_text": "February 1, 2009",
+      "start_char": 5919,
+      "end_char": 5935
+    },
+    {
+      "raw_text": "December 8, 2008",
+      "start_char": 6158,
+      "end_char": 6174
+    },
+    {
+      "raw_text": "February 1, 2009",
+      "start_char": 6183,
+      "end_char": 6199
+    },
+    {
+      "raw_text": "January 23, 2009",
+      "start_char": 6356,
+      "end_char": 6372
+    }
+  ]
+}

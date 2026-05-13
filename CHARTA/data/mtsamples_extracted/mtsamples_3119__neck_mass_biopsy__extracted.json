@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3119__neck_mass_biopsy_.txt",
+    "file_name": "mtsamples_3119__neck_mass_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4282,
+    "processed_at": "2026-05-09T09:54:15.173909"
+  },
+  "entities": [
+    {
+      "text": "Left neck mass biopsy.,2",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 24,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left neck mass biopsy.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "squamous",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 126,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "squamous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "squamous cell carcinoma.,With",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 127,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "squamous cell carcinoma.,With",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0364__salpingooophorectomy___laparoscopic_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 17,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0364__salpingooophorectomy___laparoscopic__graph.pt",
+  "source_dataset": "mtsamples_0364__salpingooophorectomy___laparoscopic"
+}

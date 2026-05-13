@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_2279__bunionectomy___akin_osteotomy_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1,
+    "C0770565": 2,
+    "C0030346": 3,
+    "C0483514": 4,
+    "C0700017": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2279__bunionectomy___akin_osteotomy__graph.pt",
+  "source_dataset": "mtsamples_2279__bunionectomy___akin_osteotomy"
+}

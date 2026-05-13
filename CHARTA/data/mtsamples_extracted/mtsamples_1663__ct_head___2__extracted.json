@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1663__ct_head___2_.txt",
+    "file_name": "mtsamples_1663__ct_head___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1209,
+    "processed_at": "2026-05-09T09:53:47.901023"
+  },
+  "entities": [
+    {
+      "text": "hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 79,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    },
+    {
+      "text": "subdurals",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 36,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subdurals",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    },
+    {
+      "text": "hygroma",
+      "label": "DISEASE",
+      "start_char": 174,
+      "end_char": 181,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hygroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "January 16, 2008",
+      "start_char": 154,
+      "end_char": 170
+    },
+    {
+      "raw_text": "February 12, 2008",
+      "start_char": 219,
+      "end_char": 236
+    },
+    {
+      "raw_text": "January 16, 2008",
+      "start_char": 746,
+      "end_char": 762
+    },
+    {
+      "raw_text": "03/11/2008",
+      "start_char": 354,
+      "end_char": 364
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_3805__hyperbilirubinemia___4_day_old_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 59,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1,
+    "C0037473": 2,
+    "C0032821": 3,
+    "C0017725": 4,
+    "C0010294": 5,
+    "C0006675": 6,
+    "C0016945": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3805__hyperbilirubinemia___4_day_old__graph.pt",
+  "source_dataset": "mtsamples_3805__hyperbilirubinemia___4_day_old"
+}

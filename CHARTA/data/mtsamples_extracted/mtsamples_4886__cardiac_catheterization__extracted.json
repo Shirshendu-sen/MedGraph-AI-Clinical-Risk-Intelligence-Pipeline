@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4886__cardiac_catheterization_.txt",
+    "file_name": "mtsamples_4886__cardiac_catheterization_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4012,
+    "processed_at": "2026-05-09T09:54:46.934811"
+  },
+  "entities": [
+    {
+      "text": "Syncope",
+      "label": "DISEASE",
+      "start_char": 259,
+      "end_char": 266,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Syncope",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "31/14/21"
+    },
+    {
+      "text": "pulmonary arterial pressures",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 32,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary arterial pressures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "31/14/21"
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 215,
+      "end_char": 222,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "31/14/21"
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 120,
+      "end_char": 127,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "31/14/21"
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 57,
+      "end_char": 64,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "31/14/21"
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 110,
+      "end_char": 117,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "31/14/21"
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 56,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "31/14/21"
+    },
+    {
+      "text": "mitral regurgitation",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 33,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "31/14/21"
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 42,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "31/14/21"
+    },
+    {
+      "text": "aortic stenosis",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 34,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "31/14/21"
+    },
+    {
+      "text": "aortic valve replacement",
+      "label": "DISEASE",
+      "start_char": 287,
+      "end_char": 311,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic valve replacement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "31/14/21"
+    },
+    {
+      "text": "mitral valve repair/replacement",
+      "label": "DISEASE",
+      "start_char": 323,
+      "end_char": 354,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral valve repair/replacement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "31/14/21"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "31/14/21",
+      "start_char": 1163,
+      "end_char": 1171
+    }
+  ]
+}

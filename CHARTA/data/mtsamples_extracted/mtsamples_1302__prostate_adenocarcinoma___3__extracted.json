@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1302__prostate_adenocarcinoma___3_.txt",
+    "file_name": "mtsamples_1302__prostate_adenocarcinoma___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1102,
+    "processed_at": "2026-05-09T09:53:38.781331"
+  },
+  "entities": [
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 261,
+      "end_char": 269,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Prostate",
+      "label": "DISEASE",
+      "start_char": 312,
+      "end_char": 320,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 340,
+      "end_char": 354,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 38,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 66,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

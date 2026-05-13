@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1374__gen_med_progress_note___1_.txt",
+    "file_name": "mtsamples_1374__gen_med_progress_note___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1666,
+    "processed_at": "2026-05-09T09:53:40.117196"
+  },
+  "entities": [
+    {
+      "text": "diabetes mellitus",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 47,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 34,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 50,
+      "sentence_idx": 8,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "flaky",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 50,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "flaky",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Diabetes",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

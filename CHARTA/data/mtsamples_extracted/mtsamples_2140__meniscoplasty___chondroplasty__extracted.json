@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2140__meniscoplasty___chondroplasty_.txt",
+    "file_name": "mtsamples_2140__meniscoplasty___chondroplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5373,
+    "processed_at": "2026-05-09T09:53:56.981113"
+  },
+  "entities": [
+    {
+      "text": "Osteochondral lesion",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 20,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Osteochondral lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-03-10"
+    },
+    {
+      "text": "Degenerative joint disease",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 26,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Degenerative joint disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-03-10"
+    },
+    {
+      "text": "Patella grade-II",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 16,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Patella grade-II",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-03-10"
+    },
+    {
+      "text": "knee pain",
+      "label": "DISEASE",
+      "start_char": 199,
+      "end_char": 208,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-03-10"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 84,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-03-10"
+    },
+    {
+      "text": "chondromalacia",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 94,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-03-10"
+    },
+    {
+      "text": "loose",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 30,
+      "sentence_idx": 48,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loose",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-03-10"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 142,
+      "sentence_idx": 50,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-03-10"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 43,
+      "sentence_idx": 56,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-03-10"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "03/10/03",
+      "start_char": 821,
+      "end_char": 829
+    },
+    {
+      "raw_text": "09/08/03",
+      "start_char": 1118,
+      "end_char": 1126
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2012__total_knee_arthoplasty___right___1_.txt",
+    "file_name": "mtsamples_2012__total_knee_arthoplasty___right___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4859,
+    "processed_at": "2026-05-09T09:53:54.555533"
+  },
+  "entities": [
+    {
+      "text": "degenerative joint disease of the right",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 71,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "degenerative joint disease of the right",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "degenerative joint disease of the right knee.,PROCEDURE",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 167,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "degenerative joint disease of the right knee.,PROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "knee arthroplasty",
+      "label": "DISEASE",
+      "start_char": 182,
+      "end_char": 199,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee arthroplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cobalt",
+      "label": "CHEMICAL",
+      "start_char": 34,
+      "end_char": 40,
+      "sentence_idx": 1,
+      "concept_id": "C0009148",
+      "concept_name": "cobalt",
+      "kb_source": "rxnorm",
+      "link_score": 0.9848915338516235,
+      "timestamp": null
+    },
+    {
+      "text": "right knee pain",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 132,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "knee pain",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 135,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 140,
+      "end_char": 148,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vessel damage",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 43,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vessel damage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 54,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 75,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mild-to-moderate osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 145,
+      "end_char": 176,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mild-to-moderate osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 226,
+      "end_char": 240,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "71-mm",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 32,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "71-mm",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cement hardened",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 19,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cement hardened",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

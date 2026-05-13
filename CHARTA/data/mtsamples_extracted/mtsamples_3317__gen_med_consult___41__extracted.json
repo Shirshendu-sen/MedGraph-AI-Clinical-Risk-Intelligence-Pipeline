@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3317__gen_med_consult___41_.txt",
+    "file_name": "mtsamples_3317__gen_med_consult___41_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2486,
+    "processed_at": "2026-05-09T09:54:18.508469"
+  },
+  "entities": [
+    {
+      "text": "backache",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "backache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "stomachache",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 59,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stomachache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "dysuria",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 72,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "Fever",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 34,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "kidney stones",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 32,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "kidney stones",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "urinary tract infection",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 87,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary tract infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "Normocephalic",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 40,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Normocephalic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "nonerythematous",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 46,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nonerythematous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 70,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 80,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 25,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "tachypnea",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 37,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tachypnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "organomegaly",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 15,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "organomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 33,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "UA",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 23,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "UA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "Rocephin",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Rocephin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 70,
+      "end_char": 73,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    },
+    {
+      "text": "strep",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 11,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "strep",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-01"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "06/01/2004",
+      "start_char": 374,
+      "end_char": 384
+    }
+  ]
+}

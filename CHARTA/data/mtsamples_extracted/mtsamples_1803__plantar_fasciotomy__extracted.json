@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1803__plantar_fasciotomy_.txt",
+    "file_name": "mtsamples_1803__plantar_fasciotomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3101,
+    "processed_at": "2026-05-09T09:53:50.690859"
+  },
+  "entities": [
+    {
+      "text": "fascitis",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fascitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fascitis",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 97,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fascitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 199,
+      "end_char": 207,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 39,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "plantar fascitis",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 61,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "plantar fascitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 82,
+      "end_char": 90,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Esmarch bandage",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 18,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Esmarch bandage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 53,
+      "sentence_idx": 22,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "postoperative pain",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 39,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "postoperative pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Vicodin",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 65,
+      "sentence_idx": 24,
+      "concept_id": "C0483514",
+      "concept_name": "Vicodin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9674537181854248,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 101,
+      "sentence_idx": 24,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "b.i.d",
+      "label": "CHEMICAL",
+      "start_char": 138,
+      "end_char": 143,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "b.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

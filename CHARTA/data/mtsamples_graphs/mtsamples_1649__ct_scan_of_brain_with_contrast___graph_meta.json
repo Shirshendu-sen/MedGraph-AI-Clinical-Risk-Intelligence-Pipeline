@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_1649__ct_scan_of_brain_with_contrast__",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 40,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0029983": 1,
+    "C0042845": 2,
+    "C0039840": 3,
+    "C0178638": 4
+  },
+  "visit_dates": [
+    "1992-12-31"
+  ],
+  "graph_file": "mtsamples_1649__ct_scan_of_brain_with_contrast___graph.pt",
+  "source_dataset": "mtsamples_1649__ct_scan_of_brain_with_contrast_"
+}

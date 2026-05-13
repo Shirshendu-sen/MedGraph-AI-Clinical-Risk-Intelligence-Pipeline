@@ -1,0 +1,636 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2185__ime___record_review___orthopedic_.txt",
+    "file_name": "mtsamples_2185__ime___record_review___orthopedic_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 11506,
+    "processed_at": "2026-05-09T09:53:58.045684"
+  },
+  "entities": [
+    {
+      "text": "neck stiffness",
+      "label": "DISEASE",
+      "start_char": 339,
+      "end_char": 353,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neck stiffness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "whiplash",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 51,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "whiplash",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "concussion",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 68,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "concussion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "acoustic neuroma",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 112,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acoustic neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "acoustic neuroma",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 68,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acoustic neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "neuroma",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 188,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "neuroma",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 142,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "neuroma",
+      "label": "DISEASE",
+      "start_char": 239,
+      "end_char": 246,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "aches",
+      "label": "DISEASE",
+      "start_char": 351,
+      "end_char": 356,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 361,
+      "end_char": 365,
+      "sentence_idx": 16,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 479,
+      "end_char": 483,
+      "sentence_idx": 16,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "acoustic neuroma",
+      "label": "DISEASE",
+      "start_char": 582,
+      "end_char": 598,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acoustic neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 196,
+      "end_char": 201,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "acoustic neuroma",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 55,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acoustic neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "Tylenol",
+      "label": "CHEMICAL",
+      "start_char": 116,
+      "end_char": 123,
+      "sentence_idx": 19,
+      "concept_id": "C0699142",
+      "concept_name": "Tylenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9819504022598267,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "smoke",
+      "label": "CHEMICAL",
+      "start_char": 182,
+      "end_char": 187,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "smoke",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "mesothelioma",
+      "label": "DISEASE",
+      "start_char": 280,
+      "end_char": 292,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mesothelioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "head contusion",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 73,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "loss of consciousness",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 82,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of consciousness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "acoustic neuroma",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 55,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acoustic neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "concussion",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 25,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "concussion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "acoustic neuroma",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 165,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acoustic neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "confusion",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 46,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "confusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "acoustic neuroma",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 74,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acoustic neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "neuroma",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 118,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 75,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "thoracic stiffness",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 121,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thoracic stiffness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "thoracolumbar subluxation",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 141,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thoracolumbar subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "hyperextension",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 36,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperextension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "ulnar neuropathy",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 66,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ulnar neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "acoustic neuroma",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 97,
+      "sentence_idx": 48,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acoustic neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "acoustic neuroma",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 96,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acoustic neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 121,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 116,
+      "sentence_idx": 52,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 26,
+      "sentence_idx": 57,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "lumbar muscle spasms",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 60,
+      "sentence_idx": 58,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lumbar muscle spasms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "Knee jerks",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 60,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Knee jerks",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "ankle jerks",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 33,
+      "sentence_idx": 60,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ankle jerks",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "Tinel",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 61,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tinel",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "hip joints",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 14,
+      "sentence_idx": 71,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hip joints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "sprain",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 124,
+      "sentence_idx": 75,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sprain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "sprain",
+      "label": "DISEASE",
+      "start_char": 217,
+      "end_char": 223,
+      "sentence_idx": 75,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sprain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "neuroma",
+      "label": "DISEASE",
+      "start_char": 364,
+      "end_char": 371,
+      "sentence_idx": 75,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "overweight",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 52,
+      "sentence_idx": 76,
+      "concept_id": "UNKNOWN",
+      "concept_name": "overweight",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 125,
+      "end_char": 136,
+      "sentence_idx": 76,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    },
+    {
+      "text": "disability",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 92,
+      "sentence_idx": 79,
+      "concept_id": "UNKNOWN",
+      "concept_name": "disability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-11-20"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "November 20, 2008",
+      "start_char": 879,
+      "end_char": 896
+    },
+    {
+      "raw_text": "November 20, 2008",
+      "start_char": 957,
+      "end_char": 974
+    },
+    {
+      "raw_text": "November 20, 2008",
+      "start_char": 4176,
+      "end_char": 4193
+    },
+    {
+      "raw_text": "November 24, 2008",
+      "start_char": 4519,
+      "end_char": 4536
+    },
+    {
+      "raw_text": "November 24, 2008",
+      "start_char": 4562,
+      "end_char": 4579
+    },
+    {
+      "raw_text": "November 24, 2008",
+      "start_char": 5054,
+      "end_char": 5071
+    },
+    {
+      "raw_text": "December 9, 2008",
+      "start_char": 5167,
+      "end_char": 5183
+    },
+    {
+      "raw_text": "January 8, 2009",
+      "start_char": 5558,
+      "end_char": 5573
+    },
+    {
+      "raw_text": "January 26, 2009",
+      "start_char": 5760,
+      "end_char": 5776
+    },
+    {
+      "raw_text": "April 13, 2009",
+      "start_char": 5920,
+      "end_char": 5934
+    },
+    {
+      "raw_text": "April 17, 2009",
+      "start_char": 6255,
+      "end_char": 6269
+    },
+    {
+      "raw_text": "April 29, 2009",
+      "start_char": 6490,
+      "end_char": 6504
+    },
+    {
+      "raw_text": "November 20, 2008",
+      "start_char": 10909,
+      "end_char": 10926
+    },
+    {
+      "raw_text": "11/24/08",
+      "start_char": 9842,
+      "end_char": 9850
+    }
+  ]
+}

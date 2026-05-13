@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1330__mesothelioma___chart_note_.txt",
+    "file_name": "mtsamples_1330__mesothelioma___chart_note_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 802,
+    "processed_at": "2026-05-09T09:53:39.324903"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1330__mesothelioma___chart_note_.txt",
+    "text": "The patient's home regimen includes Duragesic patch at 125 mcg every 3 days.  She is currently on a Dilaudid PCA of 1 mg every 10 minutes lockout, Dilaudid boluses 2 mg q.3 h. p.r.n., Ativan 2 mg q.4 h., Tylenol per rectum.  The patient was offered multiple procedures to help with her abdominal pain including a thoracic epidural placement for sympathetic block for pain control and a celiac plexuses/neurolytic block.  The patient's family and she will continue to think about these pain procedures and let us know if they are interested in either.  For the moment, we will not make any further recommendations on her current medical management.  We did ask Dr. X, a psychiatrist, who works for the Pain Service to come in and see Ms. A as anxiety is a large component of her suffering at this time.,",
+    "char_count": 802,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "The patient's home regimen includes Duragesic patch at 125 mcg every 3 days. She is currently on a Dilaudid PCA of 1 mg every 10 minutes lockout, Dilaudid boluses 2 mg q.3 h. p.r.n., Ativan 2 mg q.4 h., Tylenol per rectum. The patient was offered multiple procedures to help with her abdominal pain including a thoracic epidural placement for sympathetic block for pain control and a celiac plexuses/neurolytic block. The patient's family and she will continue to think about these pain procedures and let us know if they are interested in either. For the moment, we will not make any further recommendations on her current medical management. We did ask Dr. X, a psychiatrist, who works for the Pain Service to come in and see Ms. A as anxiety is a large component of her suffering at this time.,",
+    "sentences": [
+      "The patient's home regimen includes Duragesic patch at 125 mcg every 3 days.",
+      "She is currently on a Dilaudid PCA of 1 mg every 10 minutes lockout, Dilaudid boluses 2 mg q.3 h. p.r.n., Ativan 2 mg q.4 h., Tylenol per rectum.",
+      "The patient was offered multiple procedures to help with her abdominal pain including a thoracic epidural placement for sympathetic block for pain control and a celiac plexuses/neurolytic block.",
+      "The patient's family and she will continue to think about these pain procedures and let us know if they are interested in either.",
+      "For the moment, we will not make any further recommendations on her current medical management.",
+      "We did ask Dr.",
+      "X, a psychiatrist, who works for the Pain Service to come in and see Ms.",
+      "A as anxiety is a large component of her suffering at this time.,"
+    ],
+    "sentence_count": 8,
+    "original_length": 802,
+    "cleaned_length": 797,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "The patient's home regimen includes Duragesic patch at 125 mcg every 3 days.  She is currently on a Dilaudid PCA of 1 mg every 10 minutes lockout, Dilaudid boluses 2 mg q.3 h. p.r.n., Ativan 2 mg q.4 h., Tylenol per rectum.  The patient was offered multiple procedures to help with her abdominal pain including a thoracic epidural placement for sympathetic block for pain control and a celiac plexuses/neurolytic block.  The patient's family and she will continue to think about these pain procedures and let us know if they are interested in either.  For the moment, we will not make any further recommendations on her current medical management.  We did ask Dr. X, a psychiatrist, who works for the Pain Service to come in and see Ms. A as anxiety is a large component of her suffering at this time.,",
+    "cleaned_text": "The patient's home regimen includes Duragesic patch at 125 mcg every 3 days. She is currently on a Dilaudid PCA of 1 mg every 10 minutes lockout, Dilaudid boluses 2 mg q.3 h. p.r.n., Ativan 2 mg q.4 h., Tylenol per rectum. The patient was offered multiple procedures to help with her abdominal pain including a thoracic epidural placement for sympathetic block for pain control and a celiac plexuses/neurolytic block. The patient's family and she will continue to think about these pain procedures and let us know if they are interested in either. For the moment, we will not make any further recommendations on her current medical management. We did ask Dr. X, a psychiatrist, who works for the Pain Service to come in and see Ms. A as anxiety is a large component of her suffering at this time.,",
+    "sentences": [
+      "The patient's home regimen includes Duragesic patch at 125 mcg every 3 days.",
+      "She is currently on a Dilaudid PCA of 1 mg every 10 minutes lockout, Dilaudid boluses 2 mg q.3 h. p.r.n., Ativan 2 mg q.4 h., Tylenol per rectum.",
+      "The patient was offered multiple procedures to help with her abdominal pain including a thoracic epidural placement for sympathetic block for pain control and a celiac plexuses/neurolytic block.",
+      "The patient's family and she will continue to think about these pain procedures and let us know if they are interested in either.",
+      "For the moment, we will not make any further recommendations on her current medical management.",
+      "We did ask Dr.",
+      "X, a psychiatrist, who works for the Pain Service to come in and see Ms.",
+      "A as anxiety is a large component of her suffering at this time.,"
+    ],
+    "sentence_count": 8
+  }
+}

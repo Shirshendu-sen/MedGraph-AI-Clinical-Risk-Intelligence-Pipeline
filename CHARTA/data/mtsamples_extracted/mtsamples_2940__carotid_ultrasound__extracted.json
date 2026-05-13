@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2940__carotid_ultrasound_.txt",
+    "file_name": "mtsamples_2940__carotid_ultrasound_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2408,
+    "processed_at": "2026-05-09T09:54:11.061114"
+  },
+  "entities": [
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 144,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 198,
+      "end_char": 206,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "m/second.,On",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 62,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "m/second.,On",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 115,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 206,
+      "end_char": 214,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

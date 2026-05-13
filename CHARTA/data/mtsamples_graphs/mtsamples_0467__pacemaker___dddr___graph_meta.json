@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0467__pacemaker___dddr__",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 5,
+  "entity_index": {
+    "C0023660": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0467__pacemaker___dddr___graph.pt",
+  "source_dataset": "mtsamples_0467__pacemaker___dddr_"
+}

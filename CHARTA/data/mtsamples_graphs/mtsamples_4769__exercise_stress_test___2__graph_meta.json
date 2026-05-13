@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4769__exercise_stress_test___2_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 16,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0085934": 1,
+    "C0699034": 2,
+    "C0028978": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4769__exercise_stress_test___2__graph.pt",
+  "source_dataset": "mtsamples_4769__exercise_stress_test___2"
+}

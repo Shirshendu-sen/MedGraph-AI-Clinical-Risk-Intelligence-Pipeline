@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0613__laparoscopy___3_.txt",
+    "file_name": "mtsamples_0613__laparoscopy___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5034,
+    "processed_at": "2026-05-09T09:53:20.799507"
+  },
+  "entities": [
+    {
+      "text": "pelvic pain",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 45,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometrial implant.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 46,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometrial implant.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronic recurrent pelvic pain",
+      "label": "DISEASE",
+      "start_char": 180,
+      "end_char": 209,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic recurrent pelvic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "estrogen",
+      "label": "CHEMICAL",
+      "start_char": 231,
+      "end_char": 239,
+      "sentence_idx": 3,
+      "concept_id": "C0014939",
+      "concept_name": "estrogens",
+      "kb_source": "rxnorm",
+      "link_score": 0.8052107095718384,
+      "timestamp": null
+    },
+    {
+      "text": "adnexal",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 84,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adnexal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbon dioxide",
+      "label": "CHEMICAL",
+      "start_char": 112,
+      "end_char": 126,
+      "sentence_idx": 10,
+      "concept_id": "C0007012",
+      "concept_name": "carbon dioxide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9571364521980286,
+      "timestamp": null
+    },
+    {
+      "text": "adiposity",
+      "label": "DISEASE",
+      "start_char": 196,
+      "end_char": 205,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adiposity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intentional uterine perforation",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 72,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intentional uterine perforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbon",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 57,
+      "sentence_idx": 24,
+      "concept_id": "C3715099",
+      "concept_name": "carbonate ion",
+      "kb_source": "rxnorm",
+      "link_score": 0.715225338935852,
+      "timestamp": null
+    },
+    {
+      "text": "carbon chars",
+      "label": "CHEMICAL",
+      "start_char": 73,
+      "end_char": 85,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carbon chars",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "smoke",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 9,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "smoke",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 125,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bupivacaine",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 55,
+      "sentence_idx": 34,
+      "concept_id": "C0006400",
+      "concept_name": "bupivacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9624806642532349,
+      "timestamp": null
+    },
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 108,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

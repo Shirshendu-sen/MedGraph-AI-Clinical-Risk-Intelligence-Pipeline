@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4809__ct_angiography_.txt",
+    "file_name": "mtsamples_4809__ct_angiography_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 632,
+    "processed_at": "2026-05-09T09:54:44.955684"
+  },
+  "entities": [
+    {
+      "text": "Chest pain",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 64,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 85,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 95,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary embolism",
+      "label": "DISEASE",
+      "start_char": 198,
+      "end_char": 216,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleural effusion",
+      "label": "DISEASE",
+      "start_char": 383,
+      "end_char": 399,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothorax",
+      "label": "DISEASE",
+      "start_char": 404,
+      "end_char": 416,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 48,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osseous lesion",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 29,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osseous lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary arterial embolism",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 97,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary arterial embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

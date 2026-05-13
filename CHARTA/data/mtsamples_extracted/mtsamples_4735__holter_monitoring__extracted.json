@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4735__holter_monitoring_.txt",
+    "file_name": "mtsamples_4735__holter_monitoring_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 838,
+    "processed_at": "2026-05-09T09:54:43.990718"
+  },
+  "entities": [
+    {
+      "text": "Bradycardia",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 25,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bradycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "premature atrial contractions",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 51,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "premature atrial contractions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "supraventricular tachycardia",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 89,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraventricular tachycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "premature ventricular contraction",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 54,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "premature ventricular contraction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ventricular bigemini",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 73,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ventricular bigemini",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "premature ventricular contractions",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 99,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "premature ventricular contractions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ventricular tachycardia",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 26,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ventricular tachycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

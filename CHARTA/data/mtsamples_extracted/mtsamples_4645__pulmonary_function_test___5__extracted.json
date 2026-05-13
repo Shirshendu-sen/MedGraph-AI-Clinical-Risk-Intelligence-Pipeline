@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4645__pulmonary_function_test___5_.txt",
+    "file_name": "mtsamples_4645__pulmonary_function_test___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 398,
+    "processed_at": "2026-05-09T09:54:42.743568"
+  },
+  "entities": [
+    {
+      "text": "FVC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FVC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

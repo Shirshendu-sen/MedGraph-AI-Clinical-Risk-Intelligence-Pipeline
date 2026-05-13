@@ -1,0 +1,385 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1677__ct_brain___stroke__.txt",
+    "file_name": "mtsamples_1677__ct_brain___stroke__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2726,
+    "processed_at": "2026-05-09T09:53:48.198995"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "dysarthria",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 127,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysarthria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "diplopia",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 137,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diplopia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 139,
+      "end_char": 148,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 66,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "HCTZ",
+      "label": "CHEMICAL",
+      "start_char": 164,
+      "end_char": 168,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "HCTZ",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "mellitus type 2",
+      "label": "DISEASE",
+      "start_char": 231,
+      "end_char": 246,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mellitus type 2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "retinal detachment",
+      "label": "DISEASE",
+      "start_char": 333,
+      "end_char": 351,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retinal detachment",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "Cataract",
+      "label": "DISEASE",
+      "start_char": 389,
+      "end_char": 397,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-04"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 452,
+      "end_char": 458,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-04"
+    },
+    {
+      "text": "MG",
+      "label": "CHEMICAL",
+      "start_char": 461,
+      "end_char": 463,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "MG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-04"
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 465,
+      "end_char": 488,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-04"
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 499,
+      "end_char": 522,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-04"
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 576,
+      "end_char": 588,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-04"
+    },
+    {
+      "text": "diabetes mellitus",
+      "label": "DISEASE",
+      "start_char": 594,
+      "end_char": 611,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-04"
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 65,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "dysarthria",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 36,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysarthria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "Optic",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Optic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "EOM",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EOM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "lower facial weakness",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 27,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower facial weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "Unsteady wide-based",
+      "label": "DISEASE",
+      "start_char": 171,
+      "end_char": 190,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Unsteady wide-based",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "GS",
+      "label": "CHEMICAL",
+      "start_char": 121,
+      "end_char": 123,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "GS",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "glucose",
+      "label": "CHEMICAL",
+      "start_char": 135,
+      "end_char": 142,
+      "sentence_idx": 16,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "LV hypertrophy",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 61,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LV hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "valvular abnormalities",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 25,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "valvular abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "thrombus",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "RLE weakness",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 121,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "RLE weakness",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 176,
+      "end_char": 182,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-03"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "1/3/93",
+      "start_char": 51,
+      "end_char": 57
+    },
+    {
+      "raw_text": "1/4/93",
+      "start_char": 655,
+      "end_char": 661
+    },
+    {
+      "raw_text": "1/5/93",
+      "start_char": 768,
+      "end_char": 774
+    },
+    {
+      "raw_text": "1/5/93",
+      "start_char": 2271,
+      "end_char": 2277
+    },
+    {
+      "raw_text": "1/5/93",
+      "start_char": 2303,
+      "end_char": 2309
+    },
+    {
+      "raw_text": "6 months ago",
+      "start_char": 816,
+      "end_char": 828
+    },
+    {
+      "raw_text": "6 months ago",
+      "start_char": 888,
+      "end_char": 900
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2015__tlif_.txt",
+    "file_name": "mtsamples_2015__tlif_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 9542,
+    "processed_at": "2026-05-09T09:53:54.586199"
+  },
+  "entities": [
+    {
+      "text": "low back pain",
+      "label": "DISEASE",
+      "start_char": 340,
+      "end_char": 353,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "low back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 42,
+      "sentence_idx": 16,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 59,
+      "end_char": 70,
+      "sentence_idx": 16,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 49,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

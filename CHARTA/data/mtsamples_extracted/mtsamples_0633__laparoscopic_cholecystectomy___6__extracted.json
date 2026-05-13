@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0633__laparoscopic_cholecystectomy___6_.txt",
+    "file_name": "mtsamples_0633__laparoscopic_cholecystectomy___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 71,
+    "processed_at": "2026-05-09T09:53:21.266811"
+  },
+  "entities": [
+    {
+      "text": "Cholelithiasis",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 39,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cholelithiasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "choledocholithiasis",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 69,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "choledocholithiasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1968__hypogastric_plexus_block_.txt",
+    "file_name": "mtsamples_1968__hypogastric_plexus_block_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 959,
+    "processed_at": "2026-05-09T09:53:53.933925"
+  },
+  "entities": [
+    {
+      "text": "NAME",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 4,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NAME",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Depo-Medrol",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 75,
+      "sentence_idx": 5,
+      "concept_id": "C0057476",
+      "concept_name": "Depo-Medrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9515208005905151,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

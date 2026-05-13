@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3941__cholecystitis___discharge_summary_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0302583": 2
+  },
+  "visit_dates": [
+    "2007-12-09"
+  ],
+  "graph_file": "mtsamples_3941__cholecystitis___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3941__cholecystitis___discharge_summary"
+}

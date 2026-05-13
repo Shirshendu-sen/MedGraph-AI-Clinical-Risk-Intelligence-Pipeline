@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_1424__cardiology_progress_note___1_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 44,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0010294": 1,
+    "C0037473": 2,
+    "C0032821": 3,
+    "C0012265": 4,
+    "C0699129": 5,
+    "C0019134": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1424__cardiology_progress_note___1__graph.pt",
+  "source_dataset": "mtsamples_1424__cardiology_progress_note___1"
+}

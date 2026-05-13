@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3837__ankle_pain_.txt",
+    "file_name": "mtsamples_3837__ankle_pain_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 821,
+    "processed_at": "2026-05-09T09:54:28.092200"
+  },
+  "entities": [
+    {
+      "text": "injuries",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 17,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injuries",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injuries",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injuries",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Adderall",
+      "label": "CHEMICAL",
+      "start_char": 208,
+      "end_char": 216,
+      "sentence_idx": 4,
+      "concept_id": "C0290795",
+      "concept_name": "Adderall",
+      "kb_source": "rxnorm",
+      "link_score": 0.9406176209449768,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

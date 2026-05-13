@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0865__egd___peg_tube_placement_.txt",
+    "file_name": "mtsamples_0865__egd___peg_tube_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2790,
+    "processed_at": "2026-05-09T09:53:27.765935"
+  },
+  "entities": [
+    {
+      "text": "protein-calorie",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 42,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "protein-calorie",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nausea, vomiting",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 28,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea, vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Protein-calorie",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 15,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Protein-calorie",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nausea, vomiting",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 28,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea, vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PEG tube",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 57,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG tube",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 127,
+      "end_char": 136,
+      "sentence_idx": 4,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "nausea and vomiting",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 76,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea and vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dehydration",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 92,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dehydration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PEG tube.,PROCEDURE",
+      "label": "CHEMICAL",
+      "start_char": 120,
+      "end_char": 139,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG tube.,PROCEDURE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "malignancy",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 45,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malignancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "enterogastritis",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 30,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "enterogastritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 52,
+      "sentence_idx": 17,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "PEG",
+      "label": "CHEMICAL",
+      "start_char": 78,
+      "end_char": 81,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PEG tube",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 46,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG tube",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

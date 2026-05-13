@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3044__pediatric___letter_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 18,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0032950": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3044__pediatric___letter__graph.pt",
+  "source_dataset": "mtsamples_3044__pediatric___letter"
+}

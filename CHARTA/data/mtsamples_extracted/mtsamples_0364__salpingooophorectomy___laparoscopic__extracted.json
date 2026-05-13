@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0364__salpingooophorectomy___laparoscopic_.txt",
+    "file_name": "mtsamples_0364__salpingooophorectomy___laparoscopic_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5624,
+    "processed_at": "2026-05-09T09:53:14.082551"
+  },
+  "entities": [
+    {
+      "text": "Right ovarian mass.,POSTOPERATIVE DIAGNOSES:,1",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 46,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right ovarian mass.,POSTOPERATIVE DIAGNOSES:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right ovarian cyst",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 54,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ovarian cyst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "normal-appearing vulva and vagina",
+      "label": "DISEASE",
+      "start_char": 387,
+      "end_char": 420,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normal-appearing vulva and vagina",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right adnexal mass",
+      "label": "DISEASE",
+      "start_char": 494,
+      "end_char": 512,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right adnexal mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "torsed",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 103,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "torsed",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "complaint of right lower quadrant pain",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 196,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "complaint of right lower quadrant pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 40,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "nausea and vomiting",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 48,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea and vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chills",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 29,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhagic",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 105,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhagic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 7,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

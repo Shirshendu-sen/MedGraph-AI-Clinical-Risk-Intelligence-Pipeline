@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1515__radiofrequency_thermocoagulation___2_.txt",
+    "file_name": "mtsamples_1515__radiofrequency_thermocoagulation___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3223,
+    "processed_at": "2026-05-09T09:53:43.719038"
+  },
+  "entities": [
+    {
+      "text": "Pain",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 60,
+      "end_char": 66,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fentanyl.,ESTIMATED BLOOD LOSS",
+      "label": "CHEMICAL",
+      "start_char": 71,
+      "end_char": 101,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fentanyl.,ESTIMATED BLOOD LOSS",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "reflex sympathetic dystrophy",
+      "label": "DISEASE",
+      "start_char": 160,
+      "end_char": 188,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "reflex sympathetic dystrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allodynia",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 22,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allodynia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 28,
+      "sentence_idx": 3,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "head and neck was",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 21,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head and neck was",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hyperextension",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 62,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperextension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 76,
+      "end_char": 83,
+      "sentence_idx": 7,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "venous or arterial blood",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 27,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "venous or arterial blood",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 153,
+      "end_char": 161,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "triamcinolone",
+      "label": "CHEMICAL",
+      "start_char": 171,
+      "end_char": 184,
+      "sentence_idx": 17,
+      "concept_id": "C0040864",
+      "concept_name": "triamcinolone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9628795981407166,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 101,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adverse sequelae",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 142,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adverse sequelae",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

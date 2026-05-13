@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0522__neck_dissection_.txt",
+    "file_name": "mtsamples_0522__neck_dissection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2892,
+    "processed_at": "2026-05-09T09:53:18.271373"
+  },
+  "entities": [
+    {
+      "text": "papillary cancer",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 53,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "papillary cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "papillary cancer",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 120,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "papillary cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thyroid cancer",
+      "label": "DISEASE",
+      "start_char": 278,
+      "end_char": 292,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyroid cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "papillary cell type",
+      "label": "DISEASE",
+      "start_char": 294,
+      "end_char": 313,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "papillary cell type",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cancer",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 134,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "capitis",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 86,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "capitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 67,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

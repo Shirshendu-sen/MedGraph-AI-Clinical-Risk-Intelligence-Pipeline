@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1484__ultrasound___lower_extremity___1_.txt",
+    "file_name": "mtsamples_1484__ultrasound___lower_extremity___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 539,
+    "processed_at": "2026-05-09T09:53:43.093481"
+  },
+  "entities": [
+    {
+      "text": "venous thrombosis",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 159,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "venous thrombosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

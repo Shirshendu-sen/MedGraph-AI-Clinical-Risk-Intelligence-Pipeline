@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0916__de_quervain_release___carpal_.txt",
+    "file_name": "mtsamples_0916__de_quervain_release___carpal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2550,
+    "processed_at": "2026-05-09T09:53:29.015198"
+  },
+  "entities": [
+    {
+      "text": "Quervain's stenosing tenosynovitis.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 79,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Quervain's stenosing tenosynovitis.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Quervain's stenosing tenosynovitis.,TITLE",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 71,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Quervain's stenosing tenosynovitis.,TITLE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Quervain",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Quervain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 25,
+      "sentence_idx": 17,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

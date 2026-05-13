@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3557__endoscopy___2_.txt",
+    "file_name": "mtsamples_3557__endoscopy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1637,
+    "processed_at": "2026-05-09T09:54:23.569834"
+  },
+  "entities": [
+    {
+      "text": "erosions",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erosions",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 27,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erosion",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 20,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erosion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erosion",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 115,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erosion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 60,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "today.,2",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "today.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

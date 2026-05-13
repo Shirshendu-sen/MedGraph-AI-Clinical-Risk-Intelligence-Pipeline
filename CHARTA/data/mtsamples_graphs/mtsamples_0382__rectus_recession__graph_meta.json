@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0382__rectus_recession_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 4,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0723765": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0382__rectus_recession__graph.pt",
+  "source_dataset": "mtsamples_0382__rectus_recession"
+}

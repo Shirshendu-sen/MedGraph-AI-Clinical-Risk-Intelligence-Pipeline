@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1013__circumcision___7_.txt",
+    "file_name": "mtsamples_1013__circumcision___7_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 810,
+    "processed_at": "2026-05-09T09:53:31.195637"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1013__circumcision___7_.txt",
+    "text": "PROCEDURE:,  Circumcision.,ANESTHESIA: , EMLA.,FINDINGS: , Normal penis.  The foreskin was normal in appearance and measured 1.6 cm.  There was no bleeding at the circumcision site.,PROCEDURE:,  Patient was placed on the circumcision restraint board.  EMLA had been applied approximately 90 minutes before.  A time-out was completed satisfactorily per protocol.  The area was prepped with Betadine.  The foreskin was grasped with sterile clamps and was dissected away from the corona and the glans penis with blunt dissection.  A Mogen clamp was applied to the cervix.  The excess foreskin was excised with the scalpel.  The clamp was removed.  At this point, the procedure was terminated.  Sterile Vaseline and gauze was applied to the glans penis.  There were no complications.  There was minimal blood loss.",
+    "char_count": 810,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE:, Circumcision.,ANESTHESIA: , EMLA.,FINDINGS: , Normal penis. The foreskin was normal in appearance and measured 1.6 cm. There was no bleeding at the circumcision site.,PROCEDURE:, Patient was placed on the circumcision restraint board. EMLA had been applied approximately 90 minutes before. A time-out was completed satisfactorily per protocol. The area was prepped with Betadine. The foreskin was grasped with sterile clamps and was dissected away from the corona and the glans penis with blunt dissection. A Mogen clamp was applied to the cervix. The excess foreskin was excised with the scalpel. The clamp was removed. At this point, the procedure was terminated. Sterile Vaseline and gauze was applied to the glans penis. There were no complications. There was minimal blood loss.",
+    "sentences": [
+      "PROCEDURE:, Circumcision.,ANESTHESIA: , EMLA.,FINDINGS: , Normal penis.",
+      "The foreskin was normal in appearance and measured 1.6 cm.",
+      "There was no bleeding at the circumcision site.,PROCEDURE:, Patient was placed on the circumcision restraint board.",
+      "EMLA had been applied approximately 90 minutes before.",
+      "A time-out was completed satisfactorily per protocol.",
+      "The area was prepped with Betadine.",
+      "The foreskin was grasped with sterile clamps and was dissected away from the corona and the glans penis with blunt dissection.",
+      "A Mogen clamp was applied to the cervix.",
+      "The excess foreskin was excised with the scalpel.",
+      "The clamp was removed.",
+      "At this point, the procedure was terminated.",
+      "Sterile Vaseline and gauze was applied to the glans penis.",
+      "There were no complications.",
+      "There was minimal blood loss."
+    ],
+    "sentence_count": 14,
+    "original_length": 810,
+    "cleaned_length": 795,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE:,  Circumcision.,ANESTHESIA: , EMLA.,FINDINGS: , Normal penis.  The foreskin was normal in appearance and measured 1.6 cm.  There was no bleeding at the circumcision site.,PROCEDURE:,  Patient was placed on the circumcision restraint board.  EMLA had been applied approximately 90 minutes before.  A time-out was completed satisfactorily per protocol.  The area was prepped with Betadine.  The foreskin was grasped with sterile clamps and was dissected away from the corona and the glans penis with blunt dissection.  A Mogen clamp was applied to the cervix.  The excess foreskin was excised with the scalpel.  The clamp was removed.  At this point, the procedure was terminated.  Sterile Vaseline and gauze was applied to the glans penis.  There were no complications.  There was minimal blood loss.",
+    "cleaned_text": "PROCEDURE:, Circumcision.,ANESTHESIA: , EMLA.,FINDINGS: , Normal penis. The foreskin was normal in appearance and measured 1.6 cm. There was no bleeding at the circumcision site.,PROCEDURE:, Patient was placed on the circumcision restraint board. EMLA had been applied approximately 90 minutes before. A time-out was completed satisfactorily per protocol. The area was prepped with Betadine. The foreskin was grasped with sterile clamps and was dissected away from the corona and the glans penis with blunt dissection. A Mogen clamp was applied to the cervix. The excess foreskin was excised with the scalpel. The clamp was removed. At this point, the procedure was terminated. Sterile Vaseline and gauze was applied to the glans penis. There were no complications. There was minimal blood loss.",
+    "sentences": [
+      "PROCEDURE:, Circumcision.,ANESTHESIA: , EMLA.,FINDINGS: , Normal penis.",
+      "The foreskin was normal in appearance and measured 1.6 cm.",
+      "There was no bleeding at the circumcision site.,PROCEDURE:, Patient was placed on the circumcision restraint board.",
+      "EMLA had been applied approximately 90 minutes before.",
+      "A time-out was completed satisfactorily per protocol.",
+      "The area was prepped with Betadine.",
+      "The foreskin was grasped with sterile clamps and was dissected away from the corona and the glans penis with blunt dissection.",
+      "A Mogen clamp was applied to the cervix.",
+      "The excess foreskin was excised with the scalpel.",
+      "The clamp was removed.",
+      "At this point, the procedure was terminated.",
+      "Sterile Vaseline and gauze was applied to the glans penis.",
+      "There were no complications.",
+      "There was minimal blood loss."
+    ],
+    "sentence_count": 14
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2719__anterior_cervical_discectomy___arthrodesis___2_.txt",
+    "file_name": "mtsamples_2719__anterior_cervical_discectomy___arthrodesis___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4410,
+    "processed_at": "2026-05-09T09:54:06.449597"
+  },
+  "entities": [
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 45,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 133,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "avascular",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "avascular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar electrocautery",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 80,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar electrocautery",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bleeding",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 57,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

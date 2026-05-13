@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_1003__closure_of_complex_lacerations_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 21,
+  "entity_index": {
+    "C0023660": 0,
+    "C0030346": 1,
+    "C0014563": 2,
+    "C0700517": 3,
+    "C0014806": 4,
+    "UNKNOWN": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1003__closure_of_complex_lacerations__graph.pt",
+  "source_dataset": "mtsamples_1003__closure_of_complex_lacerations"
+}

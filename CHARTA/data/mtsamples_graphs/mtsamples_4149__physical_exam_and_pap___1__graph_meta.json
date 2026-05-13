@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_4149__physical_exam_and_pap___1_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 31,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008377": 1,
+    "C0039617": 2,
+    "C0699142": 3,
+    "C0594492": 4,
+    "C0020268": 5
+  },
+  "visit_dates": [
+    "2004-08-29"
+  ],
+  "graph_file": "mtsamples_4149__physical_exam_and_pap___1__graph.pt",
+  "source_dataset": "mtsamples_4149__physical_exam_and_pap___1"
+}

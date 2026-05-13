@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1319__pain_management_progress_note_.txt",
+    "file_name": "mtsamples_1319__pain_management_progress_note_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1704,
+    "processed_at": "2026-05-09T09:53:39.179958"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 30,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 24,
+      "sentence_idx": 3,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "oxycodone",
+      "label": "CHEMICAL",
+      "start_char": 146,
+      "end_char": 155,
+      "sentence_idx": 5,
+      "concept_id": "C0030049",
+      "concept_name": "oxycodone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9748417139053345,
+      "timestamp": null
+    },
+    {
+      "text": "methadone",
+      "label": "CHEMICAL",
+      "start_char": 160,
+      "end_char": 169,
+      "sentence_idx": 5,
+      "concept_id": "C0025605",
+      "concept_name": "methadone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9353088736534119,
+      "timestamp": null
+    },
+    {
+      "text": "anxiety",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 145,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anxiety",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 147,
+      "end_char": 157,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 189,
+      "end_char": 193,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "muscle spasm",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 65,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "muscle spasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "capitis",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 122,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "capitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "muscle spasm",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 60,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "muscle spasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 161,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "capitis",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 69,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "capitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

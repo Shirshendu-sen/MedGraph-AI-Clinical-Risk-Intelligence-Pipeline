@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_0844__endotracheal_intubation_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 16,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699129": 1,
+    "C0019134": 2,
+    "C0015131": 3,
+    "C0038627": 4,
+    "C0013030": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0844__endotracheal_intubation__graph.pt",
+  "source_dataset": "mtsamples_0844__endotracheal_intubation"
+}

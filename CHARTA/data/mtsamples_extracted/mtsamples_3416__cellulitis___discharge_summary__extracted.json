@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3416__cellulitis___discharge_summary_.txt",
+    "file_name": "mtsamples_3416__cellulitis___discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1922,
+    "processed_at": "2026-05-09T09:54:21.457273"
+  },
+  "entities": [
+    {
+      "text": "aureus cellulitis.,ADDITIONAL",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 146,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aureus cellulitis.,ADDITIONAL",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "DIAGNOSES:,1",
+      "label": "CHEMICAL",
+      "start_char": 157,
+      "end_char": 169,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DIAGNOSES:,1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "hepatitis",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 20,
+      "sentence_idx": 3,
+      "concept_id": "C0376325",
+      "concept_name": "Hepatitis A viruses",
+      "kb_source": "mesh",
+      "link_score": 0.7903865575790405,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "cellulitis",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 89,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cellulitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 21,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 55,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "liver hepatitis",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 105,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "liver hepatitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "cirrhosis",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 76,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cirrhosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 16,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "venostasis",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 66,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "venostasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "vancomycin",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 33,
+      "sentence_idx": 14,
+      "concept_id": "C0042313",
+      "concept_name": "vancomycin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736526608467102,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "redness",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 89,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "redness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 102,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "doxycycline",
+      "label": "CHEMICAL",
+      "start_char": 104,
+      "end_char": 115,
+      "sentence_idx": 18,
+      "concept_id": "C0013090",
+      "concept_name": "doxycycline",
+      "kb_source": "rxnorm",
+      "link_score": 0.9588553309440613,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "Percocet",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 43,
+      "sentence_idx": 19,
+      "concept_id": "C0086787",
+      "concept_name": "Percocet",
+      "kb_source": "rxnorm",
+      "link_score": 0.9522022008895874,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "OxyContin",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 57,
+      "sentence_idx": 19,
+      "concept_id": "C0722364",
+      "concept_name": "OxyCONTIN",
+      "kb_source": "rxnorm",
+      "link_score": 0.9780247807502747,
+      "timestamp": "2008-03-26"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "03/26/08",
+      "start_char": 722,
+      "end_char": 730
+    },
+    {
+      "raw_text": "04/03/08",
+      "start_char": 1424,
+      "end_char": 1432
+    }
+  ]
+}

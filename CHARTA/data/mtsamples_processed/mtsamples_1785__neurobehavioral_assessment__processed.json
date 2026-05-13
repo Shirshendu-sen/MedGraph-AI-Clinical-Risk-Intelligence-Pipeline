@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1785__neurobehavioral_assessment_.txt",
+    "file_name": "mtsamples_1785__neurobehavioral_assessment_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 513,
+    "processed_at": "2026-05-09T09:53:50.410060"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1785__neurobehavioral_assessment_.txt",
+    "text": "BENDER-GESTALT TEST: , Not organic.,BECK TESTING:,Depression: 37,Anxiety: 41,Hopelessness: 10,Suicide Ideation:  18,SUMMARY:,  The patient was cooperative and appeared to follow the test instructions. There is no evidence of organicity on the Bender. He endorsed symptoms of depression and anxiety. He has moderately negative expectancies regarding his future and is expressing suicidal ideation. Great care should be taken to confirm the accuracy of the results as the patients seems over-medicated and/or drunk.",
+    "char_count": 513,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "BENDER-GESTALT TEST: , Not organic.,BECK TESTING:,Depression: 37,Anxiety: 41,Hopelessness: 10,Suicide Ideation: 18,SUMMARY:, The patient was cooperative and appeared to follow the test instructions. There is no evidence of organicity on the Bender. He endorsed symptoms of depression and anxiety. He has moderately negative expectancies regarding his future and is expressing suicidal ideation. Great care should be taken to confirm the accuracy of the results as the patients seems over-medicated and/or drunk.",
+    "sentences": [
+      "BENDER-GESTALT TEST: , Not organic.,BECK TESTING:,Depression: 37,Anxiety: 41,Hopelessness: 10,Suicide Ideation: 18,SUMMARY:, The patient was cooperative and appeared to follow the test instructions.",
+      "There is no evidence of organicity on the Bender.",
+      "He endorsed symptoms of depression and anxiety.",
+      "He has moderately negative expectancies regarding his future and is expressing suicidal ideation.",
+      "Great care should be taken to confirm the accuracy of the results as the patients seems over-medicated and/or drunk."
+    ],
+    "sentence_count": 5,
+    "original_length": 513,
+    "cleaned_length": 511,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "BENDER-GESTALT TEST: , Not organic.,BECK TESTING:,Depression: 37,Anxiety: 41,Hopelessness: 10,Suicide Ideation:  18,SUMMARY:,  The patient was cooperative and appeared to follow the test instructions. There is no evidence of organicity on the Bender. He endorsed symptoms of depression and anxiety. He has moderately negative expectancies regarding his future and is expressing suicidal ideation. Great care should be taken to confirm the accuracy of the results as the patients seems over-medicated and/or drunk.",
+    "cleaned_text": "BENDER-GESTALT TEST: , Not organic.,BECK TESTING:,Depression: 37,Anxiety: 41,Hopelessness: 10,Suicide Ideation: 18,SUMMARY:, The patient was cooperative and appeared to follow the test instructions. There is no evidence of organicity on the Bender. He endorsed symptoms of depression and anxiety. He has moderately negative expectancies regarding his future and is expressing suicidal ideation. Great care should be taken to confirm the accuracy of the results as the patients seems over-medicated and/or drunk.",
+    "sentences": [
+      "BENDER-GESTALT TEST: , Not organic.,BECK TESTING:,Depression: 37,Anxiety: 41,Hopelessness: 10,Suicide Ideation: 18,SUMMARY:, The patient was cooperative and appeared to follow the test instructions.",
+      "There is no evidence of organicity on the Bender.",
+      "He endorsed symptoms of depression and anxiety.",
+      "He has moderately negative expectancies regarding his future and is expressing suicidal ideation.",
+      "Great care should be taken to confirm the accuracy of the results as the patients seems over-medicated and/or drunk."
+    ],
+    "sentence_count": 5
+  }
+}

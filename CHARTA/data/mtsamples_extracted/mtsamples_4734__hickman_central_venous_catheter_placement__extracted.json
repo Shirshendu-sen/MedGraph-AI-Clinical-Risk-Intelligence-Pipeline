@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4734__hickman_central_venous_catheter_placement_.txt",
+    "file_name": "mtsamples_4734__hickman_central_venous_catheter_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1651,
+    "processed_at": "2026-05-09T09:54:43.977455"
+  },
+  "entities": [],
+  "relations": [],
+  "temporal_expressions": []
+}

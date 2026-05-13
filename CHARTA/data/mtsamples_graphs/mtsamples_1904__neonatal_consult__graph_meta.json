@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_1904__neonatal_consult_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 108,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0002680": 1,
+    "C0007554": 2,
+    "C0042313": 3,
+    "C0030054": 4,
+    "C1704263": 5,
+    "C0030346": 6,
+    "C0037473": 7,
+    "C0032821": 8,
+    "C0973231": 9,
+    "C0010294": 10,
+    "C0017725": 11
+  },
+  "visit_dates": [
+    "2006-09-13"
+  ],
+  "graph_file": "mtsamples_1904__neonatal_consult__graph.pt",
+  "source_dataset": "mtsamples_1904__neonatal_consult"
+}

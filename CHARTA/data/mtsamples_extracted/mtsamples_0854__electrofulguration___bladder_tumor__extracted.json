@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0854__electrofulguration___bladder_tumor_.txt",
+    "file_name": "mtsamples_0854__electrofulguration___bladder_tumor_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 928,
+    "processed_at": "2026-05-09T09:53:27.554789"
+  },
+  "entities": [
+    {
+      "text": "tumors",
+      "label": "DISEASE",
+      "start_char": 266,
+      "end_char": 272,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 71,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "papillomatosis",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 100,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "papillomatosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

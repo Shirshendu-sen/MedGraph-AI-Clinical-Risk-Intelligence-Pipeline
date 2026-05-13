@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3165__bcca_excision___canthus_.txt",
+    "file_name": "mtsamples_3165__bcca_excision___canthus_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1838,
+    "processed_at": "2026-05-09T09:54:15.830006"
+  },
+  "entities": [
+    {
+      "text": "Basal cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Basal cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Basal cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 135,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Basal cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "basal cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 199,
+      "end_char": 219,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "basal cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "basal cell carcinoma of the right medial canthus",
+      "label": "DISEASE",
+      "start_char": 479,
+      "end_char": 527,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "basal cell carcinoma of the right medial canthus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pHisoHex",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 34,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pHisoHex",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 92,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "1:100,000",
+      "label": "CHEMICAL",
+      "start_char": 98,
+      "end_char": 107,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:100,000",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "basal cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 36,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "basal cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 67,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin ointment",
+      "label": "CHEMICAL",
+      "start_char": 97,
+      "end_char": 116,
+      "sentence_idx": 8,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.7576655149459839,
+      "timestamp": null
+    },
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

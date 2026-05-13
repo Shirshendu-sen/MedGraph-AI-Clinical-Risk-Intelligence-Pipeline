@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4189__normal_physical_exam_template___7_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 54,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4189__normal_physical_exam_template___7__graph.pt",
+  "source_dataset": "mtsamples_4189__normal_physical_exam_template___7"
+}

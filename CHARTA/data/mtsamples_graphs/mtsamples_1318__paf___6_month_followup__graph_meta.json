@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_1318__paf___6_month_followup_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 64,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0590743": 1,
+    "C0037982": 2,
+    "C1098080": 3,
+    "C0015620": 4,
+    "C0004057": 5,
+    "C0483514": 6,
+    "C0939400": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1318__paf___6_month_followup__graph.pt",
+  "source_dataset": "mtsamples_1318__paf___6_month_followup"
+}

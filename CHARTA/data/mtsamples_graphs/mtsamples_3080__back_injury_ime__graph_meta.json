@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3080__back_injury_ime_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 53,
+  "entity_index": {
+    "C0162723": 0,
+    "C0020264": 1,
+    "UNKNOWN": 2,
+    "C0030346": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3080__back_injury_ime__graph.pt",
+  "source_dataset": "mtsamples_3080__back_injury_ime"
+}

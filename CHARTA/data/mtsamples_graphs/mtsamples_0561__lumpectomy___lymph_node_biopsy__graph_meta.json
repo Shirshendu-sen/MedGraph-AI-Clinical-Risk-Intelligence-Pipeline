@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0561__lumpectomy___lymph_node_biopsy_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 7,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0025746": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0561__lumpectomy___lymph_node_biopsy__graph.pt",
+  "source_dataset": "mtsamples_0561__lumpectomy___lymph_node_biopsy"
+}

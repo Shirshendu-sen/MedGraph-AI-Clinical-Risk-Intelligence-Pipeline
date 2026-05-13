@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2315__antibiotic_impregnated_beads_placement_.txt",
+    "file_name": "mtsamples_2315__antibiotic_impregnated_beads_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1469,
+    "processed_at": "2026-05-09T09:53:59.752600"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2315__antibiotic_impregnated_beads_placement_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS:,  Open calcaneus fracture on the right.,POSTOPERATIVE DIAGNOSIS:,  Open calcaneus fracture on the right.,PROCEDURES:,  ,1.  Irrigation and debridement of skin, subcutaneous tissue, fascia and bone associated with an open fracture.,2.  Placement of antibiotic-impregnated beads.,ANESTHESIA:,  General.,BLOOD LOSS:,  Minimal.,COMPLICATIONS:,  None.,FINDINGS:,  Healing skin with no gross purulence identified, some fibrinous material around the beads.,SUMMARY:,  After informed consent was obtained and verified, the patient was brought to the operating room and placed supine on the operating table.  After uneventful general anesthesia was obtained, her right leg was sterilely prepped and draped in a normal fashion.  The tourniquet was inflated and the previous wound was opened.  Dr. X came in to look at the wound and the beads were removed, all 25 beads were extracted, and pulsatile lavage, and curette, etc., were used to debride the wound.  The wound margins were healthy with the exception of very central triangular incision area.  The edges were debrided and then 19 antibiotic-impregnated beads with gentamicin and tobramycin were inserted and the wound was further closed today.,The skin edges were approximated under minimal tension.  The soft dressing was placed.  An Ace was placed.  She was awakened from the anesthesia and taken to recovery room in a stable condition.  Final needle, instrument, and sponge counts were correct.",
+    "char_count": 1469,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS:, Open calcaneus fracture on the right.,POSTOPERATIVE DIAGNOSIS:, Open calcaneus fracture on the right.,PROCEDURES:, ,1. Irrigation and debridement of skin, subcutaneous tissue, fascia and bone associated with an open fracture.,2. Placement of antibiotic-impregnated beads.,ANESTHESIA:, General.,BLOOD LOSS:, Minimal.,COMPLICATIONS:, None.,FINDINGS:, Healing skin with no gross purulence identified, some fibrinous material around the beads.,SUMMARY:, After informed consent was obtained and verified, the patient was brought to the operating room and placed supine on the operating table. After uneventful general anesthesia was obtained, her right leg was sterilely prepped and draped in a normal fashion. The tourniquet was inflated and the previous wound was opened. Dr. X came in to look at the wound and the beads were removed, all 25 beads were extracted, and pulsatile lavage, and curette, etc., were used to debride the wound. The wound margins were healthy with the exception of very central triangular incision area. The edges were debrided and then 19 antibiotic-impregnated beads with gentamicin and tobramycin were inserted and the wound was further closed today.,The skin edges were approximated under minimal tension. The soft dressing was placed. An Ace was placed. She was awakened from the anesthesia and taken to recovery room in a stable condition. Final needle, instrument, and sponge counts were correct.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS:, Open calcaneus fracture on the right.,POSTOPERATIVE DIAGNOSIS:, Open calcaneus fracture on the right.,PROCEDURES:, ,1.",
+      "Irrigation and debridement of skin, subcutaneous tissue, fascia and bone associated with an open fracture.,2.",
+      "Placement of antibiotic-impregnated beads.,ANESTHESIA:, General.,BLOOD LOSS:, Minimal.,COMPLICATIONS:, None.,FINDINGS:, Healing skin with no gross purulence identified, some fibrinous material around the beads.,SUMMARY:, After informed consent was obtained and verified, the patient was brought to the operating room and placed supine on the operating table.",
+      "After uneventful general anesthesia was obtained, her right leg was sterilely prepped and draped in a normal fashion.",
+      "The tourniquet was inflated and the previous wound was opened.",
+      "Dr.",
+      "X came in to look at the wound and the beads were removed, all 25 beads were extracted, and pulsatile lavage, and curette, etc., were used to debride the wound.",
+      "The wound margins were healthy with the exception of very central triangular incision area.",
+      "The edges were debrided and then 19 antibiotic-impregnated beads with gentamicin and tobramycin were inserted and the wound was further closed today.,The skin edges were approximated under minimal tension.",
+      "The soft dressing was placed.",
+      "An Ace was placed.",
+      "She was awakened from the anesthesia and taken to recovery room in a stable condition.",
+      "Final needle, instrument, and sponge counts were correct."
+    ],
+    "sentence_count": 13,
+    "original_length": 1469,
+    "cleaned_length": 1450,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS:,  Open calcaneus fracture on the right.,POSTOPERATIVE DIAGNOSIS:,  Open calcaneus fracture on the right.,PROCEDURES:,  ,1.  Irrigation and debridement of skin, subcutaneous tissue, fascia and bone associated with an open fracture.,2.  Placement of antibiotic-impregnated beads.,ANESTHESIA:,  General.,BLOOD LOSS:,  Minimal.,COMPLICATIONS:,  None.,FINDINGS:,  Healing skin with no gross purulence identified, some fibrinous material around the beads.,SUMMARY:,  After informed consent was obtained and verified, the patient was brought to the operating room and placed supine on the operating table.  After uneventful general anesthesia was obtained, her right leg was sterilely prepped and draped in a normal fashion.  The tourniquet was inflated and the previous wound was opened.  Dr. X came in to look at the wound and the beads were removed, all 25 beads were extracted, and pulsatile lavage, and curette, etc., were used to debride the wound.  The wound margins were healthy with the exception of very central triangular incision area.  The edges were debrided and then 19 antibiotic-impregnated beads with gentamicin and tobramycin were inserted and the wound was further closed today.,The skin edges were approximated under minimal tension.  The soft dressing was placed.  An Ace was placed.  She was awakened from the anesthesia and taken to recovery room in a stable condition.  Final needle, instrument, and sponge counts were correct.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS:, Open calcaneus fracture on the right.,POSTOPERATIVE DIAGNOSIS:, Open calcaneus fracture on the right.,PROCEDURES:, ,1. Irrigation and debridement of skin, subcutaneous tissue, fascia and bone associated with an open fracture.,2. Placement of antibiotic-impregnated beads.,ANESTHESIA:, General.,BLOOD LOSS:, Minimal.,COMPLICATIONS:, None.,FINDINGS:, Healing skin with no gross purulence identified, some fibrinous material around the beads.,SUMMARY:, After informed consent was obtained and verified, the patient was brought to the operating room and placed supine on the operating table. After uneventful general anesthesia was obtained, her right leg was sterilely prepped and draped in a normal fashion. The tourniquet was inflated and the previous wound was opened. Dr. X came in to look at the wound and the beads were removed, all 25 beads were extracted, and pulsatile lavage, and curette, etc., were used to debride the wound. The wound margins were healthy with the exception of very central triangular incision area. The edges were debrided and then 19 antibiotic-impregnated beads with gentamicin and tobramycin were inserted and the wound was further closed today.,The skin edges were approximated under minimal tension. The soft dressing was placed. An Ace was placed. She was awakened from the anesthesia and taken to recovery room in a stable condition. Final needle, instrument, and sponge counts were correct.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS:, Open calcaneus fracture on the right.,POSTOPERATIVE DIAGNOSIS:, Open calcaneus fracture on the right.,PROCEDURES:, ,1.",
+      "Irrigation and debridement of skin, subcutaneous tissue, fascia and bone associated with an open fracture.,2.",
+      "Placement of antibiotic-impregnated beads.,ANESTHESIA:, General.,BLOOD LOSS:, Minimal.,COMPLICATIONS:, None.,FINDINGS:, Healing skin with no gross purulence identified, some fibrinous material around the beads.,SUMMARY:, After informed consent was obtained and verified, the patient was brought to the operating room and placed supine on the operating table.",
+      "After uneventful general anesthesia was obtained, her right leg was sterilely prepped and draped in a normal fashion.",
+      "The tourniquet was inflated and the previous wound was opened.",
+      "Dr.",
+      "X came in to look at the wound and the beads were removed, all 25 beads were extracted, and pulsatile lavage, and curette, etc., were used to debride the wound.",
+      "The wound margins were healthy with the exception of very central triangular incision area.",
+      "The edges were debrided and then 19 antibiotic-impregnated beads with gentamicin and tobramycin were inserted and the wound was further closed today.,The skin edges were approximated under minimal tension.",
+      "The soft dressing was placed.",
+      "An Ace was placed.",
+      "She was awakened from the anesthesia and taken to recovery room in a stable condition.",
+      "Final needle, instrument, and sponge counts were correct."
+    ],
+    "sentence_count": 13
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2574__hysterectomy__tah___bso__.txt",
+    "file_name": "mtsamples_2574__hysterectomy__tah___bso__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4126,
+    "processed_at": "2026-05-09T09:54:04.451788"
+  },
+  "entities": [
+    {
+      "text": "endometrial cancer",
+      "label": "DISEASE",
+      "start_char": 261,
+      "end_char": 279,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometrial cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 557,
+      "end_char": 565,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometrial carcinoma",
+      "label": "DISEASE",
+      "start_char": 599,
+      "end_char": 620,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometrial carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neoplasm",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 42,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neoplasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "noted.,Retractors",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 71,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "noted.,Retractors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "noted.,Retractors",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 95,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "noted.,Retractors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

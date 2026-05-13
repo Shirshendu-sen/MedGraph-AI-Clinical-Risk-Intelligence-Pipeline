@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1115__bronchoscopy___bronchoalveolar_lavage_.txt",
+    "file_name": "mtsamples_1115__bronchoscopy___bronchoalveolar_lavage_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 859,
+    "processed_at": "2026-05-09T09:53:34.451156"
+  },
+  "entities": [
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 240,
+      "end_char": 246,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "respiratory failure",
+      "label": "DISEASE",
+      "start_char": 267,
+      "end_char": 286,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "respiratory failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 443,
+      "end_char": 449,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

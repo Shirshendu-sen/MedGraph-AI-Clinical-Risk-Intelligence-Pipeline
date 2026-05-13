@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2792__mri_spine_.txt",
+    "file_name": "mtsamples_2792__mri_spine_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1771,
+    "processed_at": "2026-05-09T09:54:07.943691"
+  },
+  "entities": [
+    {
+      "text": "cord deformity",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 144,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cord deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 45,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "deformity",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 73,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 100,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "impingement of the transversing nerve root",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 120,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impingement of the transversing nerve root",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

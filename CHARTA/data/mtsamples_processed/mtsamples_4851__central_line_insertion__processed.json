@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4851__central_line_insertion_.txt",
+    "file_name": "mtsamples_4851__central_line_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 839,
+    "processed_at": "2026-05-09T09:54:46.387111"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4851__central_line_insertion_.txt",
+    "text": "PREOPERATIVE DIAGNOSES,1.  Empyema thoracis.,2.  Need for intravenous antibiotics.,POSTOPERATIVE DIAGNOSES,1.  Empyema thoracis.,2.  Need for intravenous antibiotics.,PROCEDURE:,  Central line insertion.,DESCRIPTION OF PROCEDURE: , With the patient in his room, after obtaining the informed consent, his left deltopectoral area was prepped and draped in the usual fashion.  Xylocaine 1% was infiltrated and with the patient in the Trendelenburg position, the left subclavian vein was subcutaneously cannulated without any difficulty.  The triple-lumen catheter was inserted and all ports were flushed out and were irrigated with normal saline.  The catheter was fixed to the skin with sutures.  The dressing was applied and then the chest x-ray was obtained which showed no complications of the procedure and good position of the catheter.",
+    "char_count": 839,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSES,1. Empyema thoracis.,2. Need for intravenous antibiotics.,POSTOPERATIVE DIAGNOSES,1. Empyema thoracis.,2. Need for intravenous antibiotics.,PROCEDURE:, Central line insertion.,DESCRIPTION OF PROCEDURE: , With the patient in his room, after obtaining the informed consent, his left deltopectoral area was prepped and draped in the usual fashion. Xylocaine 1% was infiltrated and with the patient in the Trendelenburg position, the left subclavian vein was subcutaneously cannulated without any difficulty. The triple-lumen catheter was inserted and all ports were flushed out and were irrigated with normal saline. The catheter was fixed to the skin with sutures. The dressing was applied and then the chest x-ray was obtained which showed no complications of the procedure and good position of the catheter.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES,1.",
+      "Empyema thoracis.,2.",
+      "Need for intravenous antibiotics.,POSTOPERATIVE DIAGNOSES,1.",
+      "Empyema thoracis.,2.",
+      "Need for intravenous antibiotics.,PROCEDURE:, Central line insertion.,DESCRIPTION OF PROCEDURE: , With the patient in his room, after obtaining the informed consent, his left deltopectoral area was prepped and draped in the usual fashion.",
+      "Xylocaine 1% was infiltrated and with the patient in the Trendelenburg position, the left subclavian vein was subcutaneously cannulated without any difficulty.",
+      "The triple-lumen catheter was inserted and all ports were flushed out and were irrigated with normal saline.",
+      "The catheter was fixed to the skin with sutures.",
+      "The dressing was applied and then the chest x-ray was obtained which showed no complications of the procedure and good position of the catheter."
+    ],
+    "sentence_count": 9,
+    "original_length": 839,
+    "cleaned_length": 830,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSES,1.  Empyema thoracis.,2.  Need for intravenous antibiotics.,POSTOPERATIVE DIAGNOSES,1.  Empyema thoracis.,2.  Need for intravenous antibiotics.,PROCEDURE:,  Central line insertion.,DESCRIPTION OF PROCEDURE: , With the patient in his room, after obtaining the informed consent, his left deltopectoral area was prepped and draped in the usual fashion.  Xylocaine 1% was infiltrated and with the patient in the Trendelenburg position, the left subclavian vein was subcutaneously cannulated without any difficulty.  The triple-lumen catheter was inserted and all ports were flushed out and were irrigated with normal saline.  The catheter was fixed to the skin with sutures.  The dressing was applied and then the chest x-ray was obtained which showed no complications of the procedure and good position of the catheter.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSES,1. Empyema thoracis.,2. Need for intravenous antibiotics.,POSTOPERATIVE DIAGNOSES,1. Empyema thoracis.,2. Need for intravenous antibiotics.,PROCEDURE:, Central line insertion.,DESCRIPTION OF PROCEDURE: , With the patient in his room, after obtaining the informed consent, his left deltopectoral area was prepped and draped in the usual fashion. Xylocaine 1% was infiltrated and with the patient in the Trendelenburg position, the left subclavian vein was subcutaneously cannulated without any difficulty. The triple-lumen catheter was inserted and all ports were flushed out and were irrigated with normal saline. The catheter was fixed to the skin with sutures. The dressing was applied and then the chest x-ray was obtained which showed no complications of the procedure and good position of the catheter.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES,1.",
+      "Empyema thoracis.,2.",
+      "Need for intravenous antibiotics.,POSTOPERATIVE DIAGNOSES,1.",
+      "Empyema thoracis.,2.",
+      "Need for intravenous antibiotics.,PROCEDURE:, Central line insertion.,DESCRIPTION OF PROCEDURE: , With the patient in his room, after obtaining the informed consent, his left deltopectoral area was prepped and draped in the usual fashion.",
+      "Xylocaine 1% was infiltrated and with the patient in the Trendelenburg position, the left subclavian vein was subcutaneously cannulated without any difficulty.",
+      "The triple-lumen catheter was inserted and all ports were flushed out and were irrigated with normal saline.",
+      "The catheter was fixed to the skin with sutures.",
+      "The dressing was applied and then the chest x-ray was obtained which showed no complications of the procedure and good position of the catheter."
+    ],
+    "sentence_count": 9
+  }
+}

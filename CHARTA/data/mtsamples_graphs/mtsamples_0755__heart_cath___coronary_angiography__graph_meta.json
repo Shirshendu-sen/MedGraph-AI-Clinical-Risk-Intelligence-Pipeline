@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_0755__heart_cath___coronary_angiography_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 34,
+  "entity_index": {
+    "C0023660": 0,
+    "C0015846": 1,
+    "UNKNOWN": 2,
+    "C0001443": 3,
+    "C0003781": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0755__heart_cath___coronary_angiography__graph.pt",
+  "source_dataset": "mtsamples_0755__heart_cath___coronary_angiography"
+}

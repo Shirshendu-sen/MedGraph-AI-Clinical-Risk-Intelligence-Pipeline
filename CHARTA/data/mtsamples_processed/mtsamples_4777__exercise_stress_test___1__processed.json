@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4777__exercise_stress_test___1_.txt",
+    "file_name": "mtsamples_4777__exercise_stress_test___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1325,
+    "processed_at": "2026-05-09T09:54:44.549375"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4777__exercise_stress_test___1_.txt",
+    "text": "Informed written consent has been obtained from the patient.  I explained the procedure to her prior to initiation of such.  The appropriate time-out procedure as per Medical Center protocol was performed prior to the procedure being begun while the patient was actively participating with appropriate identification of the patient, procedure, physician, documentation, position.  There were no safety concerns noted by staff nor myself.,REST ECHO:,  EF 60%.  No wall motion abnormalities.  EKG shows normal sinus rhythm with mild ST depressions.  The patient exercised for 7 minutes 30 seconds on a standard Bruce protocol, exceeding target heart rate; no angina nor significant ECG changes seen.  Peak stress echo imaging shows EF of 75%, no regional wall motion abnormalities.  There was resting hypertension noted, systolic of approximately 152 mmHg with appropriate response of blood pressure to exercise.  No dysrhythmias noted.,IMPRESSION:,1.  Negative exercise ECG/echocardiogram stress evaluation for inducible ischemia in excess of target heart rate.,2.  Resting hypertension with appropriate response of blood pressure to exercise.,These results have been discussed with the patient.  Other management as per the hospital-based internal medicine service.,To be clear, there were no complications of this procedure.",
+    "char_count": 1325,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "Informed written consent has been obtained from the patient. I explained the procedure to her prior to initiation of such. The appropriate time-out procedure as per Medical Center protocol was performed prior to the procedure being begun while the patient was actively participating with appropriate identification of the patient, procedure, physician, documentation, position. There were no safety concerns noted by staff nor myself.,REST ECHO:, EF 60%. No wall motion abnormalities. EKG shows normal sinus rhythm with mild ST depressions. The patient exercised for 7 minutes 30 seconds on a standard Bruce protocol, exceeding target heart rate; no angina nor significant ECG changes seen. Peak stress echo imaging shows EF of 75%, no regional wall motion abnormalities. There was resting hypertension noted, systolic of approximately 152 mmHg with appropriate response of blood pressure to exercise. No dysrhythmias noted.,IMPRESSION:,1. Negative exercise ECG/echocardiogram stress evaluation for inducible ischemia in excess of target heart rate.,2. Resting hypertension with appropriate response of blood pressure to exercise.,These results have been discussed with the patient. Other management as per the hospital-based internal medicine service.,To be clear, there were no complications of this procedure.",
+    "sentences": [
+      "Informed written consent has been obtained from the patient.",
+      "I explained the procedure to her prior to initiation of such.",
+      "The appropriate time-out procedure as per Medical Center protocol was performed prior to the procedure being begun while the patient was actively participating with appropriate identification of the patient, procedure, physician, documentation, position.",
+      "There were no safety concerns noted by staff nor myself.,REST ECHO:, EF 60%.",
+      "No wall motion abnormalities.",
+      "EKG shows normal sinus rhythm with mild ST depressions.",
+      "The patient exercised for 7 minutes 30 seconds on a standard Bruce protocol, exceeding target heart rate; no angina nor significant ECG changes seen.",
+      "Peak stress echo imaging shows EF of 75%, no regional wall motion abnormalities.",
+      "There was resting hypertension noted, systolic of approximately 152 mmHg with appropriate response of blood pressure to exercise.",
+      "No dysrhythmias noted.,IMPRESSION:,1.",
+      "Negative exercise ECG/echocardiogram stress evaluation for inducible ischemia in excess of target heart rate.,2.",
+      "Resting hypertension with appropriate response of blood pressure to exercise.,These results have been discussed with the patient.",
+      "Other management as per the hospital-based internal medicine service.,To be clear, there were no complications of this procedure."
+    ],
+    "sentence_count": 13,
+    "original_length": 1325,
+    "cleaned_length": 1312,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "Informed written consent has been obtained from the patient.  I explained the procedure to her prior to initiation of such.  The appropriate time-out procedure as per Medical Center protocol was performed prior to the procedure being begun while the patient was actively participating with appropriate identification of the patient, procedure, physician, documentation, position.  There were no safety concerns noted by staff nor myself.,REST ECHO:,  EF 60%.  No wall motion abnormalities.  EKG shows normal sinus rhythm with mild ST depressions.  The patient exercised for 7 minutes 30 seconds on a standard Bruce protocol, exceeding target heart rate; no angina nor significant ECG changes seen.  Peak stress echo imaging shows EF of 75%, no regional wall motion abnormalities.  There was resting hypertension noted, systolic of approximately 152 mmHg with appropriate response of blood pressure to exercise.  No dysrhythmias noted.,IMPRESSION:,1.  Negative exercise ECG/echocardiogram stress evaluation for inducible ischemia in excess of target heart rate.,2.  Resting hypertension with appropriate response of blood pressure to exercise.,These results have been discussed with the patient.  Other management as per the hospital-based internal medicine service.,To be clear, there were no complications of this procedure.",
+    "cleaned_text": "Informed written consent has been obtained from the patient. I explained the procedure to her prior to initiation of such. The appropriate time-out procedure as per Medical Center protocol was performed prior to the procedure being begun while the patient was actively participating with appropriate identification of the patient, procedure, physician, documentation, position. There were no safety concerns noted by staff nor myself.,REST ECHO:, EF 60%. No wall motion abnormalities. EKG shows normal sinus rhythm with mild ST depressions. The patient exercised for 7 minutes 30 seconds on a standard Bruce protocol, exceeding target heart rate; no angina nor significant ECG changes seen. Peak stress echo imaging shows EF of 75%, no regional wall motion abnormalities. There was resting hypertension noted, systolic of approximately 152 mmHg with appropriate response of blood pressure to exercise. No dysrhythmias noted.,IMPRESSION:,1. Negative exercise ECG/echocardiogram stress evaluation for inducible ischemia in excess of target heart rate.,2. Resting hypertension with appropriate response of blood pressure to exercise.,These results have been discussed with the patient. Other management as per the hospital-based internal medicine service.,To be clear, there were no complications of this procedure.",
+    "sentences": [
+      "Informed written consent has been obtained from the patient.",
+      "I explained the procedure to her prior to initiation of such.",
+      "The appropriate time-out procedure as per Medical Center protocol was performed prior to the procedure being begun while the patient was actively participating with appropriate identification of the patient, procedure, physician, documentation, position.",
+      "There were no safety concerns noted by staff nor myself.,REST ECHO:, EF 60%.",
+      "No wall motion abnormalities.",
+      "EKG shows normal sinus rhythm with mild ST depressions.",
+      "The patient exercised for 7 minutes 30 seconds on a standard Bruce protocol, exceeding target heart rate; no angina nor significant ECG changes seen.",
+      "Peak stress echo imaging shows EF of 75%, no regional wall motion abnormalities.",
+      "There was resting hypertension noted, systolic of approximately 152 mmHg with appropriate response of blood pressure to exercise.",
+      "No dysrhythmias noted.,IMPRESSION:,1.",
+      "Negative exercise ECG/echocardiogram stress evaluation for inducible ischemia in excess of target heart rate.,2.",
+      "Resting hypertension with appropriate response of blood pressure to exercise.,These results have been discussed with the patient.",
+      "Other management as per the hospital-based internal medicine service.,To be clear, there were no complications of this procedure."
+    ],
+    "sentence_count": 13
+  }
+}

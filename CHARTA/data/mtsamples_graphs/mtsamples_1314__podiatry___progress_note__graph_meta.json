@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1314__podiatry___progress_note_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 20,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0023660": 2,
+    "C0113286": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1314__podiatry___progress_note__graph.pt",
+  "source_dataset": "mtsamples_1314__podiatry___progress_note"
+}

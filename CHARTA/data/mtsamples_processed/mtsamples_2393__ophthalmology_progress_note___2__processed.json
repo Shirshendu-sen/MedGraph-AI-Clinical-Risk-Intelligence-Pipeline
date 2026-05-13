@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2393__ophthalmology_progress_note___2_.txt",
+    "file_name": "mtsamples_2393__ophthalmology_progress_note___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 318,
+    "processed_at": "2026-05-09T09:54:00.980433"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2393__ophthalmology_progress_note___2_.txt",
+    "text": "A fluorescein angiogram was ordered at today's visit to rule out macular edema.  We have asked her to return in one to two weeks' time to discuss the results of her angiogram and possible intervention and will be sure to keep you apprised of her ongoing progress.  A copy of the angiogram is enclosed for your records.",
+    "char_count": 318,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "A fluorescein angiogram was ordered at today's visit to rule out macular edema. We have asked her to return in one to two weeks' time to discuss the results of her angiogram and possible intervention and will be sure to keep you apprised of her ongoing progress. A copy of the angiogram is enclosed for your records.",
+    "sentences": [
+      "A fluorescein angiogram was ordered at today's visit to rule out macular edema.",
+      "We have asked her to return in one to two weeks' time to discuss the results of her angiogram and possible intervention and will be sure to keep you apprised of her ongoing progress.",
+      "A copy of the angiogram is enclosed for your records."
+    ],
+    "sentence_count": 3,
+    "original_length": 318,
+    "cleaned_length": 316,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "A fluorescein angiogram was ordered at today's visit to rule out macular edema.  We have asked her to return in one to two weeks' time to discuss the results of her angiogram and possible intervention and will be sure to keep you apprised of her ongoing progress.  A copy of the angiogram is enclosed for your records.",
+    "cleaned_text": "A fluorescein angiogram was ordered at today's visit to rule out macular edema. We have asked her to return in one to two weeks' time to discuss the results of her angiogram and possible intervention and will be sure to keep you apprised of her ongoing progress. A copy of the angiogram is enclosed for your records.",
+    "sentences": [
+      "A fluorescein angiogram was ordered at today's visit to rule out macular edema.",
+      "We have asked her to return in one to two weeks' time to discuss the results of her angiogram and possible intervention and will be sure to keep you apprised of her ongoing progress.",
+      "A copy of the angiogram is enclosed for your records."
+    ],
+    "sentence_count": 3
+  }
+}

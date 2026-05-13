@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2965__psychosocial_eval___donor_.txt",
+    "file_name": "mtsamples_2965__psychosocial_eval___donor_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5604,
+    "processed_at": "2026-05-09T09:54:11.448724"
+  },
+  "entities": [
+    {
+      "text": "illness",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 96,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "illness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "kidney transplant.\",When",
+      "label": "DISEASE",
+      "start_char": 287,
+      "end_char": 311,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "kidney transplant.\",When",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 23,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "RECIPIENT:,What",
+      "label": "DISEASE",
+      "start_char": 167,
+      "end_char": 182,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "RECIPIENT:,What",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 25,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 82,
+      "sentence_idx": 14,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "asthma",
+      "label": "DISEASE",
+      "start_char": 232,
+      "end_char": 238,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "asthma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Folic",
+      "label": "CHEMICAL",
+      "start_char": 84,
+      "end_char": 89,
+      "sentence_idx": 17,
+      "concept_id": "C0016410",
+      "concept_name": "folic acid",
+      "kb_source": "rxnorm",
+      "link_score": 0.7791088819503784,
+      "timestamp": null
+    },
+    {
+      "text": "to.\",ALCOHOL",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 95,
+      "sentence_idx": 18,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7084086537361145,
+      "timestamp": null
+    },
+    {
+      "text": "smoke",
+      "label": "CHEMICAL",
+      "start_char": 124,
+      "end_char": 129,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "smoke",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "No.\",Any",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 141,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "No.\",Any",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tampo",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 174,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tampo",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

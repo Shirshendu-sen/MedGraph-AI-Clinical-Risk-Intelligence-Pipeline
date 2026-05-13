@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0981__colonoscopy___4_.txt",
+    "file_name": "mtsamples_0981__colonoscopy___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 793,
+    "processed_at": "2026-05-09T09:53:30.607199"
+  },
+  "entities": [
+    {
+      "text": "Diarrhea",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "irritable",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 54,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irritable",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Demerol",
+      "label": "CHEMICAL",
+      "start_char": 140,
+      "end_char": 147,
+      "sentence_idx": 0,
+      "concept_id": "C0935966",
+      "concept_name": "Demerol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9676215052604675,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "colon, hepatic flexure, transverse colon, splenic flexure, descending colon, sigmoid colon",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 111,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colon, hepatic flexure, transverse colon, splenic flexure, descending colon, sigmoid colon",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 223,
+      "end_char": 228,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neoplasm",
+      "label": "DISEASE",
+      "start_char": 239,
+      "end_char": 247,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neoplasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "irritable bowel syndrome",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 69,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irritable bowel syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

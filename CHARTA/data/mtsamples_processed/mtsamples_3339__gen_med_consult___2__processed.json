@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3339__gen_med_consult___2_.txt",
+    "file_name": "mtsamples_3339__gen_med_consult___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 409,
+    "processed_at": "2026-05-09T09:54:20.097112"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3339__gen_med_consult___2_.txt",
+    "text": "HISTORY OF PRESENT ILLNESS:, This is the initial clinic visit for a 41-year-old worker who is seen for a foreign body to his left eye.  He states that he was doing his normal job when he felt a foreign body sensation.  He attempted to flush this at work, but has had persistent pain which has progressively worsened throughout the course of the day.  He has no significant blurriness of vision or photophobia.",
+    "char_count": 409,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "HISTORY OF PRESENT ILLNESS:, This is the initial clinic visit for a 41-year-old worker who is seen for a foreign body to his left eye. He states that he was doing his normal job when he felt a foreign body sensation. He attempted to flush this at work, but has had persistent pain which has progressively worsened throughout the course of the day. He has no significant blurriness of vision or photophobia.",
+    "sentences": [
+      "HISTORY OF PRESENT ILLNESS:, This is the initial clinic visit for a 41-year-old worker who is seen for a foreign body to his left eye.",
+      "He states that he was doing his normal job when he felt a foreign body sensation.",
+      "He attempted to flush this at work, but has had persistent pain which has progressively worsened throughout the course of the day.",
+      "He has no significant blurriness of vision or photophobia."
+    ],
+    "sentence_count": 4,
+    "original_length": 409,
+    "cleaned_length": 406,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "HISTORY OF PRESENT ILLNESS:, This is the initial clinic visit for a 41-year-old worker who is seen for a foreign body to his left eye.  He states that he was doing his normal job when he felt a foreign body sensation.  He attempted to flush this at work, but has had persistent pain which has progressively worsened throughout the course of the day.  He has no significant blurriness of vision or photophobia.",
+    "cleaned_text": "HISTORY OF PRESENT ILLNESS:, This is the initial clinic visit for a 41-year-old worker who is seen for a foreign body to his left eye. He states that he was doing his normal job when he felt a foreign body sensation. He attempted to flush this at work, but has had persistent pain which has progressively worsened throughout the course of the day. He has no significant blurriness of vision or photophobia.",
+    "sentences": [
+      "HISTORY OF PRESENT ILLNESS:, This is the initial clinic visit for a 41-year-old worker who is seen for a foreign body to his left eye.",
+      "He states that he was doing his normal job when he felt a foreign body sensation.",
+      "He attempted to flush this at work, but has had persistent pain which has progressively worsened throughout the course of the day.",
+      "He has no significant blurriness of vision or photophobia."
+    ],
+    "sentence_count": 4
+  }
+}

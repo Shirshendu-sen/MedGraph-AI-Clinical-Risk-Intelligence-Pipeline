@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1244__anterior_cervical_discectomy_.txt",
+    "file_name": "mtsamples_1244__anterior_cervical_discectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 8170,
+    "processed_at": "2026-05-09T09:53:37.627356"
+  },
+  "entities": [
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 20,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 20,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arthrodesis",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 23,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthrodesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 228,
+      "end_char": 239,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "myelopathy",
+      "label": "DISEASE",
+      "start_char": 245,
+      "end_char": 255,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myelopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cord compression",
+      "label": "DISEASE",
+      "start_char": 260,
+      "end_char": 276,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cord compression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cord compression",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 48,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cord compression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 66,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 33,
+      "sentence_idx": 18,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "methylprednisolone",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 22,
+      "sentence_idx": 21,
+      "concept_id": "C0025815",
+      "concept_name": "methylPREDNISolone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9701598286628723,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 140,
+      "end_char": 148,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "smoking",
+      "label": "CHEMICAL",
+      "start_char": 129,
+      "end_char": 136,
+      "sentence_idx": 49,
+      "concept_id": "UNKNOWN",
+      "concept_name": "smoking",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 49,
+      "sentence_idx": 59,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

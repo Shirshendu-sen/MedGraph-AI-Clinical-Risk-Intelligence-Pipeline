@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4582__triple_lumen_catheter_insertion___1_.txt",
+    "file_name": "mtsamples_4582__triple_lumen_catheter_insertion___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2263,
+    "processed_at": "2026-05-09T09:54:41.693459"
+  },
+  "entities": [
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 219,
+      "end_char": 228,
+      "sentence_idx": 0,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "respiratory failure",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 61,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "respiratory failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 140,
+      "end_char": 149,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "protein-calorie malnutrition",
+      "label": "DISEASE",
+      "start_char": 174,
+      "end_char": 202,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "protein-calorie malnutrition",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 34,
+      "sentence_idx": 4,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "dark venous blood",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 155,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dark venous blood",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

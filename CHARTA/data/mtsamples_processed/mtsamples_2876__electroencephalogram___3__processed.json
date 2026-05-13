@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2876__electroencephalogram___3_.txt",
+    "file_name": "mtsamples_2876__electroencephalogram___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 305,
+    "processed_at": "2026-05-09T09:54:10.070242"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2876__electroencephalogram___3_.txt",
+    "text": "IMPRESSION:,  Abnormal electroencephalogram revealing generalized poorly organized slowing, with more prominent slowing noted at the right compared to the left hemisphere head regions and rare sharp wave activity noted bilaterally, somewhat more prevalent on the right.  Clinical correlation is suggested.",
+    "char_count": 305,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "IMPRESSION:, Abnormal electroencephalogram revealing generalized poorly organized slowing, with more prominent slowing noted at the right compared to the left hemisphere head regions and rare sharp wave activity noted bilaterally, somewhat more prevalent on the right. Clinical correlation is suggested.",
+    "sentences": [
+      "IMPRESSION:, Abnormal electroencephalogram revealing generalized poorly organized slowing, with more prominent slowing noted at the right compared to the left hemisphere head regions and rare sharp wave activity noted bilaterally, somewhat more prevalent on the right.",
+      "Clinical correlation is suggested."
+    ],
+    "sentence_count": 2,
+    "original_length": 305,
+    "cleaned_length": 303,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "IMPRESSION:,  Abnormal electroencephalogram revealing generalized poorly organized slowing, with more prominent slowing noted at the right compared to the left hemisphere head regions and rare sharp wave activity noted bilaterally, somewhat more prevalent on the right.  Clinical correlation is suggested.",
+    "cleaned_text": "IMPRESSION:, Abnormal electroencephalogram revealing generalized poorly organized slowing, with more prominent slowing noted at the right compared to the left hemisphere head regions and rare sharp wave activity noted bilaterally, somewhat more prevalent on the right. Clinical correlation is suggested.",
+    "sentences": [
+      "IMPRESSION:, Abnormal electroencephalogram revealing generalized poorly organized slowing, with more prominent slowing noted at the right compared to the left hemisphere head regions and rare sharp wave activity noted bilaterally, somewhat more prevalent on the right.",
+      "Clinical correlation is suggested."
+    ],
+    "sentence_count": 2
+  }
+}

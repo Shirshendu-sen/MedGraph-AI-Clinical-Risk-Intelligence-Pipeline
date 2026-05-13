@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3527__esophagogastroduodenoscopy___gastrostomy_tube_insertion_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0286036": 1,
+    "C0023660": 2
+  },
+  "visit_dates": [
+    "2003-08-18"
+  ],
+  "graph_file": "mtsamples_3527__esophagogastroduodenoscopy___gastrostomy_tube_insertion__graph.pt",
+  "source_dataset": "mtsamples_3527__esophagogastroduodenoscopy___gastrostomy_tube_insertion"
+}

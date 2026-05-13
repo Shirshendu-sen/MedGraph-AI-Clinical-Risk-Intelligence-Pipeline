@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_2959__renal_failure___consult_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 79,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0010294": 1,
+    "C0065374": 2,
+    "C0006675": 3,
+    "C0012265": 4,
+    "C0076107": 5,
+    "C0699992": 6,
+    "C0302583": 7,
+    "C0032821": 8
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2959__renal_failure___consult__graph.pt",
+  "source_dataset": "mtsamples_2959__renal_failure___consult"
+}

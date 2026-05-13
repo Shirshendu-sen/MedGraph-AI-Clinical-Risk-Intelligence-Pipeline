@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3993__teeth_extraction___i_d___1_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 19,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1,
+    "C0014563": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3993__teeth_extraction___i_d___1__graph.pt",
+  "source_dataset": "mtsamples_3993__teeth_extraction___i_d___1"
+}

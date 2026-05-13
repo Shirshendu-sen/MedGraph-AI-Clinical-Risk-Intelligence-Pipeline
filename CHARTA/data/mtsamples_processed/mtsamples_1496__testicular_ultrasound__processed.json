@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1496__testicular_ultrasound_.txt",
+    "file_name": "mtsamples_1496__testicular_ultrasound_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 741,
+    "processed_at": "2026-05-09T09:53:43.333157"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1496__testicular_ultrasound_.txt",
+    "text": "TESTICULAR ULTRASOUND,REASON FOR EXAM:  ,Left testicular swelling for one day.,FINDINGS:  ,The left testicle is normal in size and attenuation, it measures 3.2 x 1.7 x 2.3 cm.  The right epididymis measures up to 9 mm.  There is a hydrocele on the right side.  Normal flow is seen within the testicle and epididymis on the right.,The left testicle is normal in size and attenuation, it measures 3.9 x 2.1 x 2.6 cm.  The left testicle shows normal blood flow.  The left epididymis measures up to 9 mm and shows a markedly increased vascular flow.  There is mild scrotal wall thickening.  A hydrocele is seen on the left side.,IMPRESSION:,1.  Hypervascularity of the left epididymis compatible with left epididymitis.,2.  Bilateral hydroceles.",
+    "char_count": 741,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "TESTICULAR ULTRASOUND,REASON FOR EXAM: ,Left testicular swelling for one day.,FINDINGS: ,The left testicle is normal in size and attenuation, it measures 3.2 x 1.7 x 2.3 cm. The right epididymis measures up to 9 mm. There is a hydrocele on the right side. Normal flow is seen within the testicle and epididymis on the right.,The left testicle is normal in size and attenuation, it measures 3.9 x 2.1 x 2.6 cm. The left testicle shows normal blood flow. The left epididymis measures up to 9 mm and shows a markedly increased vascular flow. There is mild scrotal wall thickening. A hydrocele is seen on the left side.,IMPRESSION:,1. Hypervascularity of the left epididymis compatible with left epididymitis.,2. Bilateral hydroceles.",
+    "sentences": [
+      "TESTICULAR ULTRASOUND,REASON FOR EXAM: ,Left testicular swelling for one day.,FINDINGS: ,The left testicle is normal in size and attenuation, it measures 3.2 x 1.7 x 2.3 cm.",
+      "The right epididymis measures up to 9 mm.",
+      "There is a hydrocele on the right side.",
+      "Normal flow is seen within the testicle and epididymis on the right.,The left testicle is normal in size and attenuation, it measures 3.9 x 2.1 x 2.6 cm.",
+      "The left testicle shows normal blood flow.",
+      "The left epididymis measures up to 9 mm and shows a markedly increased vascular flow.",
+      "There is mild scrotal wall thickening.",
+      "A hydrocele is seen on the left side.,IMPRESSION:,1.",
+      "Hypervascularity of the left epididymis compatible with left epididymitis.,2.",
+      "Bilateral hydroceles."
+    ],
+    "sentence_count": 10,
+    "original_length": 741,
+    "cleaned_length": 730,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "TESTICULAR ULTRASOUND,REASON FOR EXAM:  ,Left testicular swelling for one day.,FINDINGS:  ,The left testicle is normal in size and attenuation, it measures 3.2 x 1.7 x 2.3 cm.  The right epididymis measures up to 9 mm.  There is a hydrocele on the right side.  Normal flow is seen within the testicle and epididymis on the right.,The left testicle is normal in size and attenuation, it measures 3.9 x 2.1 x 2.6 cm.  The left testicle shows normal blood flow.  The left epididymis measures up to 9 mm and shows a markedly increased vascular flow.  There is mild scrotal wall thickening.  A hydrocele is seen on the left side.,IMPRESSION:,1.  Hypervascularity of the left epididymis compatible with left epididymitis.,2.  Bilateral hydroceles.",
+    "cleaned_text": "TESTICULAR ULTRASOUND,REASON FOR EXAM: ,Left testicular swelling for one day.,FINDINGS: ,The left testicle is normal in size and attenuation, it measures 3.2 x 1.7 x 2.3 cm. The right epididymis measures up to 9 mm. There is a hydrocele on the right side. Normal flow is seen within the testicle and epididymis on the right.,The left testicle is normal in size and attenuation, it measures 3.9 x 2.1 x 2.6 cm. The left testicle shows normal blood flow. The left epididymis measures up to 9 mm and shows a markedly increased vascular flow. There is mild scrotal wall thickening. A hydrocele is seen on the left side.,IMPRESSION:,1. Hypervascularity of the left epididymis compatible with left epididymitis.,2. Bilateral hydroceles.",
+    "sentences": [
+      "TESTICULAR ULTRASOUND,REASON FOR EXAM: ,Left testicular swelling for one day.,FINDINGS: ,The left testicle is normal in size and attenuation, it measures 3.2 x 1.7 x 2.3 cm.",
+      "The right epididymis measures up to 9 mm.",
+      "There is a hydrocele on the right side.",
+      "Normal flow is seen within the testicle and epididymis on the right.,The left testicle is normal in size and attenuation, it measures 3.9 x 2.1 x 2.6 cm.",
+      "The left testicle shows normal blood flow.",
+      "The left epididymis measures up to 9 mm and shows a markedly increased vascular flow.",
+      "There is mild scrotal wall thickening.",
+      "A hydrocele is seen on the left side.,IMPRESSION:,1.",
+      "Hypervascularity of the left epididymis compatible with left epididymitis.,2.",
+      "Bilateral hydroceles."
+    ],
+    "sentence_count": 10
+  }
+}

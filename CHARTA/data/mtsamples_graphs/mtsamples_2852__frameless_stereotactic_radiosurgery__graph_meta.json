@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2852__frameless_stereotactic_radiosurgery_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 14,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0740057": 1
+  },
+  "visit_dates": [
+    "2004-05-14"
+  ],
+  "graph_file": "mtsamples_2852__frameless_stereotactic_radiosurgery__graph.pt",
+  "source_dataset": "mtsamples_2852__frameless_stereotactic_radiosurgery"
+}

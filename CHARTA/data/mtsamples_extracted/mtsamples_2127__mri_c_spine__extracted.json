@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2127__mri_c_spine_.txt",
+    "file_name": "mtsamples_2127__mri_c_spine_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1985,
+    "processed_at": "2026-05-09T09:53:56.805870"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-07-29"
+    },
+    {
+      "text": "Left hemibody numbness.,HX",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 31,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left hemibody numbness.,HX",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-07-29"
+    },
+    {
+      "text": "left hemibody numbness",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 93,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left hemibody numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-07-29"
+    },
+    {
+      "text": "tingling, weakness",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 120,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tingling, weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-07-29"
+    },
+    {
+      "text": "ataxia",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 128,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ataxia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-07-29"
+    },
+    {
+      "text": "multiple sclerosis",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 77,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "multiple sclerosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-07-29"
+    },
+    {
+      "text": "Lhermitte's or Uhthoff's phenomena.,MEDS:, none.,PMH:, 1)Bronchitis twice",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 96,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lhermitte's or Uhthoff's phenomena.,MEDS:, none.,PMH:, 1)Bronchitis twice",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-07-29"
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 161,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-07-07"
+    },
+    {
+      "text": "strokes",
+      "label": "DISEASE",
+      "start_char": 170,
+      "end_char": 177,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "strokes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-07-07"
+    },
+    {
+      "text": "diabetes mellitus",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 28,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-07-29"
+    },
+    {
+      "text": "dysesthesias",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 125,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysesthesias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-07-29"
+    },
+    {
+      "text": "B12",
+      "label": "CHEMICAL",
+      "start_char": 149,
+      "end_char": 152,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "B12",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-07-07"
+    },
+    {
+      "text": "gadolinium",
+      "label": "CHEMICAL",
+      "start_char": 81,
+      "end_char": 91,
+      "sentence_idx": 9,
+      "concept_id": "C0016911",
+      "concept_name": "gadolinium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9583680033683777,
+      "timestamp": "1993-07-29"
+    },
+    {
+      "text": "Glucose",
+      "label": "CHEMICAL",
+      "start_char": 115,
+      "end_char": 122,
+      "sentence_idx": 10,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": "1993-07-29"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "7/29/93",
+      "start_char": 58,
+      "end_char": 65
+    },
+    {
+      "raw_text": "7/7/93",
+      "start_char": 207,
+      "end_char": 213
+    },
+    {
+      "raw_text": "7/16/93",
+      "start_char": 1534,
+      "end_char": 1541
+    },
+    {
+      "raw_text": "2 months ago",
+      "start_char": 523,
+      "end_char": 535
+    }
+  ]
+}

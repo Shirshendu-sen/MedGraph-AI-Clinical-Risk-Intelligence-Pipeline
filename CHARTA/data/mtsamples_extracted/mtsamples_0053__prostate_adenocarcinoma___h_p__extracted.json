@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0053__prostate_adenocarcinoma___h_p_.txt",
+    "file_name": "mtsamples_0053__prostate_adenocarcinoma___h_p_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2064,
+    "processed_at": "2026-05-09T09:53:04.773825"
+  },
+  "entities": [
+    {
+      "text": "adenocarcinoma of the prostate",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 117,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma of the prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "enlargement",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 115,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "enlargement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "XXX",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "XXX",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 150,
+      "end_char": 158,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erectile dysfunction",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 27,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erectile dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lisinopril",
+      "label": "CHEMICAL",
+      "start_char": 77,
+      "end_char": 87,
+      "sentence_idx": 8,
+      "concept_id": "C0065374",
+      "concept_name": "lisinopril",
+      "kb_source": "rxnorm",
+      "link_score": 0.9948257803916931,
+      "timestamp": null
+    },
+    {
+      "text": "Aspirin",
+      "label": "CHEMICAL",
+      "start_char": 89,
+      "end_char": 96,
+      "sentence_idx": 8,
+      "concept_id": "C0004057",
+      "concept_name": "aspirin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736717343330383,
+      "timestamp": null
+    },
+    {
+      "text": "Zocor",
+      "label": "CHEMICAL",
+      "start_char": 98,
+      "end_char": 103,
+      "sentence_idx": 8,
+      "concept_id": "C0678181",
+      "concept_name": "Zocor",
+      "kb_source": "rxnorm",
+      "link_score": 0.9880419373512268,
+      "timestamp": null
+    },
+    {
+      "text": "drug allergies",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 109,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "drug allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstructive urinary symptoms",
+      "label": "DISEASE",
+      "start_char": 155,
+      "end_char": 183,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive urinary symptoms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Adenocarcinoma of the prostate.,2",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 33,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Adenocarcinoma of the prostate.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 26,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood transfusions",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 49,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood transfusions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

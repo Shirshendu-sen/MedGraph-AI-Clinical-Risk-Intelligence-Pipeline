@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0858__emergency_c_section__.txt",
+    "file_name": "mtsamples_0858__emergency_c_section__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4316,
+    "processed_at": "2026-05-09T09:53:27.629482"
+  },
+  "entities": [
+    {
+      "text": "deceleration.,PROCEDURE",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 72,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "deceleration.,PROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "OP",
+      "label": "CHEMICAL",
+      "start_char": 289,
+      "end_char": 291,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "OP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "1, para 0 female",
+      "label": "CHEMICAL",
+      "start_char": 96,
+      "end_char": 112,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1, para 0 female",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 172,
+      "end_char": 179,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 9,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": null
+    },
+    {
+      "text": "IPC",
+      "label": "CHEMICAL",
+      "start_char": 50,
+      "end_char": 53,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "IPC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Clock",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Clock",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 159,
+      "end_char": 168,
+      "sentence_idx": 20,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 352,
+      "end_char": 361,
+      "sentence_idx": 20,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 437,
+      "end_char": 446,
+      "sentence_idx": 20,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

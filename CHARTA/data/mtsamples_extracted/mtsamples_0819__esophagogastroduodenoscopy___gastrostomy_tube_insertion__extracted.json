@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0819__esophagogastroduodenoscopy___gastrostomy_tube_insertion_.txt",
+    "file_name": "mtsamples_0819__esophagogastroduodenoscopy___gastrostomy_tube_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2521,
+    "processed_at": "2026-05-09T09:53:26.705631"
+  },
+  "entities": [
+    {
+      "text": "Protein-calorie",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 15,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Protein-calorie",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "Protein-calorie malnutrition.,PROCEDURES PERFORMED:,1",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 53,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Protein-calorie malnutrition.,PROCEDURES PERFORMED:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "CVA",
+      "label": "CHEMICAL",
+      "start_char": 350,
+      "end_char": 353,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CVA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "CVAs",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 42,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CVAs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "encephalopathic",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 73,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "encephalopathic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "respiratory failure",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 132,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "respiratory failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "neuromuscular dysfunction",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 46,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuromuscular dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "esophagitis",
+      "label": "DISEASE",
+      "start_char": 223,
+      "end_char": 234,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophagitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "gastritis",
+      "label": "DISEASE",
+      "start_char": 246,
+      "end_char": 255,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gastritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "EGD",
+      "label": "DISEASE",
+      "start_char": 260,
+      "end_char": 263,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EGD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "Prevacid",
+      "label": "CHEMICAL",
+      "start_char": 282,
+      "end_char": 290,
+      "sentence_idx": 9,
+      "concept_id": "C0286036",
+      "concept_name": "Prevacid",
+      "kb_source": "rxnorm",
+      "link_score": 0.9654388427734375,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "cardia",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "gastritis",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 31,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gastritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "PEG",
+      "label": "CHEMICAL",
+      "start_char": 82,
+      "end_char": 85,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 48,
+      "sentence_idx": 17,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "PEG tube",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 19,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG tube",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "PEG back",
+      "label": "CHEMICAL",
+      "start_char": 72,
+      "end_char": 80,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG back",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    },
+    {
+      "text": "PEG tube",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 19,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG tube",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-18"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/18/2003",
+      "start_char": 539,
+      "end_char": 549
+    }
+  ]
+}

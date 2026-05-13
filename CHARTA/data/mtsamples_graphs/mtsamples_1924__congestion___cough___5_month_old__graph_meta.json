@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1924__congestion___cough___5_month_old_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 15,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1924__congestion___cough___5_month_old__graph.pt",
+  "source_dataset": "mtsamples_1924__congestion___cough___5_month_old"
+}

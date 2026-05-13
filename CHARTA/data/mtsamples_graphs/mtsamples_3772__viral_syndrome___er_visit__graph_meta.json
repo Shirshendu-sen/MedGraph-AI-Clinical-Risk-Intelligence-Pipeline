@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_3772__viral_syndrome___er_visit_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 51,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699129": 1,
+    "C0722418": 2,
+    "C0001927": 3,
+    "C0678176": 4,
+    "C0699992": 5,
+    "C0030054": 6,
+    "C0020264": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3772__viral_syndrome___er_visit__graph.pt",
+  "source_dataset": "mtsamples_3772__viral_syndrome___er_visit"
+}

@@ -1,0 +1,31 @@
+{
+  "patient_id": "mtsamples_4695__multiple_medical_problems___discharge_summary_",
+  "num_entities": 18,
+  "num_visits": 1,
+  "num_edges": 154,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0678180": 1,
+    "C0939412": 2,
+    "C0721336": 3,
+    "C0042313": 4,
+    "C0591139": 5,
+    "C0719509": 6,
+    "C0699992": 7,
+    "C0008377": 8,
+    "C0591971": 9,
+    "C0162723": 10,
+    "C0060282": 11,
+    "C0939400": 12,
+    "C0678176": 13,
+    "C0015846": 14,
+    "C0006675": 15,
+    "C0042866": 16,
+    "C0006681": 17
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4695__multiple_medical_problems___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_4695__multiple_medical_problems___discharge_summary"
+}

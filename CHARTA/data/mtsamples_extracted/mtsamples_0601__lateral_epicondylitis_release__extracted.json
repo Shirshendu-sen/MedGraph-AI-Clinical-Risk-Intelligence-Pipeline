@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0601__lateral_epicondylitis_release_.txt",
+    "file_name": "mtsamples_0601__lateral_epicondylitis_release_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 48,
+    "processed_at": "2026-05-09T09:53:20.439487"
+  },
+  "entities": [
+    {
+      "text": "Lateral epicondylitis",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lateral epicondylitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

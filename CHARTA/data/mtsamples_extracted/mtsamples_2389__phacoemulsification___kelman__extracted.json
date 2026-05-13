@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2389__phacoemulsification___kelman_.txt",
+    "file_name": "mtsamples_2389__phacoemulsification___kelman_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2000,
+    "processed_at": "2026-05-09T09:54:00.961889"
+  },
+  "entities": [
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 51,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 116,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blurry vision",
+      "label": "DISEASE",
+      "start_char": 353,
+      "end_char": 366,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blurry vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tetracaine",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 3,
+      "concept_id": "C0039629",
+      "concept_name": "tetracaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9587721824645996,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 67,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Provisc",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 40,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Provisc",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diopter",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 71,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diopter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Provisc",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 20,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Provisc",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Zymar",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 15,
+      "concept_id": "C1258065",
+      "concept_name": "Zymar",
+      "kb_source": "rxnorm",
+      "link_score": 0.985726535320282,
+      "timestamp": null
+    },
+    {
+      "text": "Pred",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 14,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pred",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

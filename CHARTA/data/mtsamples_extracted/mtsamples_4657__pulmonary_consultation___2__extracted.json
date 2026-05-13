@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4657__pulmonary_consultation___2_.txt",
+    "file_name": "mtsamples_4657__pulmonary_consultation___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1844,
+    "processed_at": "2026-05-09T09:54:42.912470"
+  },
+  "entities": [
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 56,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "atherosclerotic",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 76,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atherosclerotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "Glucovance",
+      "label": "CHEMICAL",
+      "start_char": 149,
+      "end_char": 159,
+      "sentence_idx": 0,
+      "concept_id": "C0939344",
+      "concept_name": "Glucovance",
+      "kb_source": "rxnorm",
+      "link_score": 0.9916431307792664,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "Seroquel",
+      "label": "CHEMICAL",
+      "start_char": 161,
+      "end_char": 169,
+      "sentence_idx": 0,
+      "concept_id": "C0287163",
+      "concept_name": "Seroquel",
+      "kb_source": "rxnorm",
+      "link_score": 0.9809253215789795,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "Nexium.,PAST",
+      "label": "DISEASE",
+      "start_char": 183,
+      "end_char": 195,
+      "sentence_idx": 0,
+      "concept_id": "C0939400",
+      "concept_name": "Nexium",
+      "kb_source": "mesh",
+      "link_score": 0.7421904802322388,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "alcohol abuse",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 16,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "alcohol abuse",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "Afebrile",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Afebrile",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "O2",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "O2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "Normocephalic",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 20,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Normocephalic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "Decreased breath",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 23,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Decreased breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "Disturbed breath",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 16,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Disturbed breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "organomegaly",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 15,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "organomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "cyanosis",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 24,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cyanosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "clubbing",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 34,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clubbing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "oropharyngeal dysphagia",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 146,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "oropharyngeal dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "Cough",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "combination of gastroesophageal reflux",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 68,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "combination of gastroesophageal reflux",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    },
+    {
+      "text": "CVA",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 7,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CVA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2006-11-02"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "11/02/2006",
+      "start_char": 973,
+      "end_char": 983
+    }
+  ]
+}

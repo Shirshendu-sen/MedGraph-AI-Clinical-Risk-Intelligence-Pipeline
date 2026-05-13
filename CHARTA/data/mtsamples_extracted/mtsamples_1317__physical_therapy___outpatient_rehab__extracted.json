@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1317__physical_therapy___outpatient_rehab_.txt",
+    "file_name": "mtsamples_1317__physical_therapy___outpatient_rehab_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1212,
+    "processed_at": "2026-05-09T09:53:39.046965"
+  },
+  "entities": [
+    {
+      "text": "11/16/06",
+      "label": "CHEMICAL",
+      "start_char": 57,
+      "end_char": 65,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "11/16/06",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2006-11-21"
+    },
+    {
+      "text": "poisoning",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 83,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "poisoning",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-11-21"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 150,
+      "end_char": 154,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2006-11-21"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 76,
+      "sentence_idx": 3,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2006-11-21"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "11/16/06",
+      "start_char": 57,
+      "end_char": 65
+    },
+    {
+      "raw_text": "11/21/06",
+      "start_char": 69,
+      "end_char": 77
+    },
+    {
+      "raw_text": "12/21/06",
+      "start_char": 1173,
+      "end_char": 1181
+    }
+  ]
+}

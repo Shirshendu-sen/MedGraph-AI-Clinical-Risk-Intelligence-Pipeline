@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4584__treadmill_test_.txt",
+    "file_name": "mtsamples_4584__treadmill_test_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 860,
+    "processed_at": "2026-05-09T09:54:41.713817"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4584__treadmill_test_.txt",
+    "text": "REASON FOR EXAMINATION:,  Abnormal EKG.,FINDINGS: , The patient was exercised according to standard Bruce protocol for 9 minutes achieving maximal heart rate of 146 resulting in 85% of age-predicted maximal heart rate.  Peak blood pressure was 132/60.  The patient did not experience any chest discomfort during stress or recovery.  The test was terminated due to leg fatigue and achieving target heart rate.,Electrocardiogram during stress and recovery did not reveal an additional 1 mm of ST depression compared to the baseline electrocardiogram.  Technetium was injected at 5 minutes into stress.,IMPRESSION:,1.  Good exercise tolerance.,2.  Adequate heart rate and blood pressure response.,3.  This maximal treadmill test did not evoke significant and diagnostic clinical or electrocardiographic evidence for significant occlusive coronary artery disease.,",
+    "char_count": 860,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "REASON FOR EXAMINATION:, Abnormal EKG.,FINDINGS: , The patient was exercised according to standard Bruce protocol for 9 minutes achieving maximal heart rate of 146 resulting in 85% of age-predicted maximal heart rate. Peak blood pressure was 132/60. The patient did not experience any chest discomfort during stress or recovery. The test was terminated due to leg fatigue and achieving target heart rate.,Electrocardiogram during stress and recovery did not reveal an additional 1 mm of ST depression compared to the baseline electrocardiogram. Technetium was injected at 5 minutes into stress.,IMPRESSION:,1. Good exercise tolerance.,2. Adequate heart rate and blood pressure response.,3. This maximal treadmill test did not evoke significant and diagnostic clinical or electrocardiographic evidence for significant occlusive coronary artery disease.,",
+    "sentences": [
+      "REASON FOR EXAMINATION:, Abnormal EKG.,FINDINGS: , The patient was exercised according to standard Bruce protocol for 9 minutes achieving maximal heart rate of 146 resulting in 85% of age-predicted maximal heart rate.",
+      "Peak blood pressure was 132/60.",
+      "The patient did not experience any chest discomfort during stress or recovery.",
+      "The test was terminated due to leg fatigue and achieving target heart rate.,Electrocardiogram during stress and recovery did not reveal an additional 1 mm of ST depression compared to the baseline electrocardiogram.",
+      "Technetium was injected at 5 minutes into stress.,IMPRESSION:,1.",
+      "Good exercise tolerance.,2.",
+      "Adequate heart rate and blood pressure response.,3.",
+      "This maximal treadmill test did not evoke significant and diagnostic clinical or electrocardiographic evidence for significant occlusive coronary artery disease.,"
+    ],
+    "sentence_count": 8,
+    "original_length": 860,
+    "cleaned_length": 852,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "REASON FOR EXAMINATION:,  Abnormal EKG.,FINDINGS: , The patient was exercised according to standard Bruce protocol for 9 minutes achieving maximal heart rate of 146 resulting in 85% of age-predicted maximal heart rate.  Peak blood pressure was 132/60.  The patient did not experience any chest discomfort during stress or recovery.  The test was terminated due to leg fatigue and achieving target heart rate.,Electrocardiogram during stress and recovery did not reveal an additional 1 mm of ST depression compared to the baseline electrocardiogram.  Technetium was injected at 5 minutes into stress.,IMPRESSION:,1.  Good exercise tolerance.,2.  Adequate heart rate and blood pressure response.,3.  This maximal treadmill test did not evoke significant and diagnostic clinical or electrocardiographic evidence for significant occlusive coronary artery disease.,",
+    "cleaned_text": "REASON FOR EXAMINATION:, Abnormal EKG.,FINDINGS: , The patient was exercised according to standard Bruce protocol for 9 minutes achieving maximal heart rate of 146 resulting in 85% of age-predicted maximal heart rate. Peak blood pressure was 132/60. The patient did not experience any chest discomfort during stress or recovery. The test was terminated due to leg fatigue and achieving target heart rate.,Electrocardiogram during stress and recovery did not reveal an additional 1 mm of ST depression compared to the baseline electrocardiogram. Technetium was injected at 5 minutes into stress.,IMPRESSION:,1. Good exercise tolerance.,2. Adequate heart rate and blood pressure response.,3. This maximal treadmill test did not evoke significant and diagnostic clinical or electrocardiographic evidence for significant occlusive coronary artery disease.,",
+    "sentences": [
+      "REASON FOR EXAMINATION:, Abnormal EKG.,FINDINGS: , The patient was exercised according to standard Bruce protocol for 9 minutes achieving maximal heart rate of 146 resulting in 85% of age-predicted maximal heart rate.",
+      "Peak blood pressure was 132/60.",
+      "The patient did not experience any chest discomfort during stress or recovery.",
+      "The test was terminated due to leg fatigue and achieving target heart rate.,Electrocardiogram during stress and recovery did not reveal an additional 1 mm of ST depression compared to the baseline electrocardiogram.",
+      "Technetium was injected at 5 minutes into stress.,IMPRESSION:,1.",
+      "Good exercise tolerance.,2.",
+      "Adequate heart rate and blood pressure response.,3.",
+      "This maximal treadmill test did not evoke significant and diagnostic clinical or electrocardiographic evidence for significant occlusive coronary artery disease.,"
+    ],
+    "sentence_count": 8
+  }
+}

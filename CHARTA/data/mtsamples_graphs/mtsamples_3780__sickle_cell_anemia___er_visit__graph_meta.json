@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_3780__sickle_cell_anemia___er_visit_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 51,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0026549": 2,
+    "C0016410": 3,
+    "C0700899": 4,
+    "C0012522": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3780__sickle_cell_anemia___er_visit__graph.pt",
+  "source_dataset": "mtsamples_3780__sickle_cell_anemia___er_visit"
+}

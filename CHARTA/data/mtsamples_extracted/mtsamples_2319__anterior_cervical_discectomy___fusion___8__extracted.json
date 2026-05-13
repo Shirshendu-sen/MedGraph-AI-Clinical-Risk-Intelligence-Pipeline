@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2319__anterior_cervical_discectomy___fusion___8_.txt",
+    "file_name": "mtsamples_2319__anterior_cervical_discectomy___fusion___8_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2871,
+    "processed_at": "2026-05-09T09:53:59.800927"
+  },
+  "entities": [
+    {
+      "text": "neck pain",
+      "label": "DISEASE",
+      "start_char": 196,
+      "end_char": 205,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neck pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 287,
+      "end_char": 291,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 25,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "paralysis",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 43,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paralysis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hoarse voice",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 57,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hoarse voice",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nerve injuries",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 73,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nerve injuries",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 88,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 97,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2139__mcbride_bunionectomy___wedge_osteotomy_.txt",
+    "file_name": "mtsamples_2139__mcbride_bunionectomy___wedge_osteotomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5966,
+    "processed_at": "2026-05-09T09:53:56.973601"
+  },
+  "entities": [
+    {
+      "text": "Right hallux abductovalgus",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 51,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right hallux abductovalgus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right hallux abductovalgus",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 115,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right hallux abductovalgus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 56,
+      "end_char": 65,
+      "sentence_idx": 4,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 81,
+      "end_char": 89,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "extensor hallucis brevis",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 28,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "extensor hallucis brevis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 70,
+      "end_char": 78,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dexamethasone",
+      "label": "CHEMICAL",
+      "start_char": 96,
+      "end_char": 109,
+      "sentence_idx": 32,
+      "concept_id": "C0011777",
+      "concept_name": "dexamethasone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9694039821624756,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

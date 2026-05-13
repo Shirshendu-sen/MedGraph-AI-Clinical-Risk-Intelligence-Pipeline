@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2364__scleral_buckle_opening___general_anesthesia_.txt",
+    "file_name": "mtsamples_2364__scleral_buckle_opening___general_anesthesia_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 635,
+    "processed_at": "2026-05-09T09:54:00.729952"
+  },
+  "entities": [
+    {
+      "text": "conjunctival",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 81,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "conjunctival",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

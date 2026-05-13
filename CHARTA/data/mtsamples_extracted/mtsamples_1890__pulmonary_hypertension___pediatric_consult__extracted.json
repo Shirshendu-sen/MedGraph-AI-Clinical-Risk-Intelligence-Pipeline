@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1890__pulmonary_hypertension___pediatric_consult_.txt",
+    "file_name": "mtsamples_1890__pulmonary_hypertension___pediatric_consult_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1473,
+    "processed_at": "2026-05-09T09:53:52.525108"
+  },
+  "entities": [
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 48,
+      "sentence_idx": 0,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2008-12-20"
+    },
+    {
+      "text": "premature rupture",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 32,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "premature rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-20"
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 68,
+      "end_char": 74,
+      "sentence_idx": 5,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2008-12-20"
+    },
+    {
+      "text": "pulmonary hypertension",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 54,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-20"
+    },
+    {
+      "text": "pulmonary hypertension",
+      "label": "DISEASE",
+      "start_char": 165,
+      "end_char": 187,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-20"
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 47,
+      "sentence_idx": 11,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2008-12-20"
+    },
+    {
+      "text": "nitric oxide",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 50,
+      "sentence_idx": 12,
+      "concept_id": "C0028128",
+      "concept_name": "nitric oxide",
+      "kb_source": "rxnorm",
+      "link_score": 0.982782244682312,
+      "timestamp": "2008-12-20"
+    },
+    {
+      "text": "Indocin",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 18,
+      "sentence_idx": 13,
+      "concept_id": "C0700798",
+      "concept_name": "Indocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9518181085586548,
+      "timestamp": "2008-12-20"
+    },
+    {
+      "text": "pulmonary artery pressures",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 49,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary artery pressures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-20"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/20/08",
+      "start_char": 172,
+      "end_char": 180
+    }
+  ]
+}

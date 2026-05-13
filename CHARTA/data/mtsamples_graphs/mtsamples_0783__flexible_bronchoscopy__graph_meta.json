@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_0783__flexible_bronchoscopy_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 10,
+  "entity_index": {
+    "C0074414": 0,
+    "C0033487": 1,
+    "C0023660": 2,
+    "UNKNOWN": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0783__flexible_bronchoscopy__graph.pt",
+  "source_dataset": "mtsamples_0783__flexible_bronchoscopy"
+}

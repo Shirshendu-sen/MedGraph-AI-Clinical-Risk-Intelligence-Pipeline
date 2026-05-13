@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3007__ct_abdomen___pelvis___7_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 10,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0030304": 2,
+    "C0010294": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3007__ct_abdomen___pelvis___7__graph.pt",
+  "source_dataset": "mtsamples_3007__ct_abdomen___pelvis___7"
+}

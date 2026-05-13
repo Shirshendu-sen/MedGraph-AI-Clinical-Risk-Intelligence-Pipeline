@@ -1,0 +1,33 @@
+{
+  "patient_id": "mtsamples_2979__kidney_transplant___followup_",
+  "num_entities": 20,
+  "num_visits": 1,
+  "num_edges": 195,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0939530": 1,
+    "C0700763": 2,
+    "C0004057": 3,
+    "C0878061": 4,
+    "C0593906": 5,
+    "C1170736": 6,
+    "C0876043": 7,
+    "C0001367": 8,
+    "C0060282": 9,
+    "C0025859": 10,
+    "C0025270": 11,
+    "C0591139": 12,
+    "C0037473": 13,
+    "C0024467": 14,
+    "C0032821": 15,
+    "C0010294": 16,
+    "C0006675": 17,
+    "C0008377": 18,
+    "C0010592": 19
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2979__kidney_transplant___followup__graph.pt",
+  "source_dataset": "mtsamples_2979__kidney_transplant___followup"
+}

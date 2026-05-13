@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1625__emg_nerve_conduction_study___3_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C1878038": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1625__emg_nerve_conduction_study___3__graph.pt",
+  "source_dataset": "mtsamples_1625__emg_nerve_conduction_study___3"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0073__overactive_bladder_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 15,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0591395": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0073__overactive_bladder__graph.pt",
+  "source_dataset": "mtsamples_0073__overactive_bladder"
+}

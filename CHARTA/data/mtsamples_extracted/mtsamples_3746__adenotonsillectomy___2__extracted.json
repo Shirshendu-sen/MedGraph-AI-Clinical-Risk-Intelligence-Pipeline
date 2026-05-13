@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3746__adenotonsillectomy___2_.txt",
+    "file_name": "mtsamples_3746__adenotonsillectomy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1886,
+    "processed_at": "2026-05-09T09:54:26.895291"
+  },
+  "entities": [
+    {
+      "text": "Adenotonsillitis",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 41,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Adenotonsillitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenotonsillitis",
+      "label": "DISEASE",
+      "start_char": 188,
+      "end_char": 204,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenotonsillitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertrophy",
+      "label": "DISEASE",
+      "start_char": 210,
+      "end_char": 221,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstructive symptoms",
+      "label": "DISEASE",
+      "start_char": 226,
+      "end_char": 246,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive symptoms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Adenotonsillectomy",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 18,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Adenotonsillectomy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 86,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 42,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 24,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

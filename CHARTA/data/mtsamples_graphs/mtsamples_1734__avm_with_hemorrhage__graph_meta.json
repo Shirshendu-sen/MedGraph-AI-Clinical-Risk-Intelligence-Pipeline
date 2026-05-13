@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1734__avm_with_hemorrhage_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 29,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0600203": 1
+  },
+  "visit_dates": [
+    "1971-03-15"
+  ],
+  "graph_file": "mtsamples_1734__avm_with_hemorrhage__graph.pt",
+  "source_dataset": "mtsamples_1734__avm_with_hemorrhage"
+}

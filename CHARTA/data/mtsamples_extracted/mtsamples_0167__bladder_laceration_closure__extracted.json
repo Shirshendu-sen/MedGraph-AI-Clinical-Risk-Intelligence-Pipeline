@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0167__bladder_laceration_closure_.txt",
+    "file_name": "mtsamples_0167__bladder_laceration_closure_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1103,
+    "processed_at": "2026-05-09T09:53:08.125333"
+  },
+  "entities": [
+    {
+      "text": "bladder laceration",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 56,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder laceration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

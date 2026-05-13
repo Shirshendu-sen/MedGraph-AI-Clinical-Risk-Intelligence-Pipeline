@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1116__bronchoscopy___7_.txt",
+    "file_name": "mtsamples_1116__bronchoscopy___7_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 317,
+    "processed_at": "2026-05-09T09:53:34.464325"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1116__bronchoscopy___7_.txt",
+    "text": "PROCEDURE:,  Diagnostic fiberoptic bronchoscopy.,ANESTHESIA:  ,  Plain lidocaine 2% was given intrabronchially for local anesthesia.,PREOPERATIVE MEDICATIONS:,  ,1.  Lortab (10 mg) plus Phenergan (25 mg), p.o.  1 hour before the procedure.,2.  Versed a total of 5 mg given IV push during the procedure.,INDICATIONS: ,",
+    "char_count": 317,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE:, Diagnostic fiberoptic bronchoscopy.,ANESTHESIA: , Plain lidocaine 2% was given intrabronchially for local anesthesia.,PREOPERATIVE MEDICATIONS:, ,1. Lortab (10 mg) plus Phenergan (25 mg), p.o. 1 hour before the procedure.,2. Versed a total of 5 mg given IV push during the procedure.,INDICATIONS: ,",
+    "sentences": [
+      "PROCEDURE:, Diagnostic fiberoptic bronchoscopy.,ANESTHESIA: , Plain lidocaine 2% was given intrabronchially for local anesthesia.,PREOPERATIVE MEDICATIONS:, ,1.",
+      "Lortab (10 mg) plus Phenergan (25 mg), p.o. 1 hour before the procedure.,2.",
+      "Versed a total of 5 mg given IV push during the procedure.,INDICATIONS: ,"
+    ],
+    "sentence_count": 3,
+    "original_length": 317,
+    "cleaned_length": 310,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE:,  Diagnostic fiberoptic bronchoscopy.,ANESTHESIA:  ,  Plain lidocaine 2% was given intrabronchially for local anesthesia.,PREOPERATIVE MEDICATIONS:,  ,1.  Lortab (10 mg) plus Phenergan (25 mg), p.o.  1 hour before the procedure.,2.  Versed a total of 5 mg given IV push during the procedure.,INDICATIONS: ,",
+    "cleaned_text": "PROCEDURE:, Diagnostic fiberoptic bronchoscopy.,ANESTHESIA: , Plain lidocaine 2% was given intrabronchially for local anesthesia.,PREOPERATIVE MEDICATIONS:, ,1. Lortab (10 mg) plus Phenergan (25 mg), p.o. 1 hour before the procedure.,2. Versed a total of 5 mg given IV push during the procedure.,INDICATIONS: ,",
+    "sentences": [
+      "PROCEDURE:, Diagnostic fiberoptic bronchoscopy.,ANESTHESIA: , Plain lidocaine 2% was given intrabronchially for local anesthesia.,PREOPERATIVE MEDICATIONS:, ,1.",
+      "Lortab (10 mg) plus Phenergan (25 mg), p.o. 1 hour before the procedure.,2.",
+      "Versed a total of 5 mg given IV push during the procedure.,INDICATIONS: ,"
+    ],
+    "sentence_count": 3
+  }
+}

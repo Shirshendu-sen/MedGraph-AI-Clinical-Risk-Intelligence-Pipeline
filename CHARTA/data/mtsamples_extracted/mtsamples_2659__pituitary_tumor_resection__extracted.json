@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2659__pituitary_tumor_resection_.txt",
+    "file_name": "mtsamples_2659__pituitary_tumor_resection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1779,
+    "processed_at": "2026-05-09T09:54:05.699096"
+  },
+  "entities": [
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 170,
+      "end_char": 179,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pituitary tumor",
+      "label": "DISEASE",
+      "start_char": 225,
+      "end_char": 240,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pituitary tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 68,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 32,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhagic",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 29,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhagic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "necrotic",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

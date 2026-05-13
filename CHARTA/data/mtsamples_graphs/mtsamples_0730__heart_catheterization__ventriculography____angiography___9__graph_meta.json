@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0730__heart_catheterization__ventriculography____angiography___9_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0015846": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0730__heart_catheterization__ventriculography____angiography___9__graph.pt",
+  "source_dataset": "mtsamples_0730__heart_catheterization__ventriculography____angiography___9"
+}

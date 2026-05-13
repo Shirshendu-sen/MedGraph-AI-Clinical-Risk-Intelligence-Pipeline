@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3757__total_thyroidectomy_.txt",
+    "file_name": "mtsamples_3757__total_thyroidectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5773,
+    "processed_at": "2026-05-09T09:54:27.019759"
+  },
+  "entities": [
+    {
+      "text": "Thyroid goiter",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 39,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Thyroid goiter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Thyroid goiter",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 119,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Thyroid goiter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "54-year-old",
+      "label": "DISEASE",
+      "start_char": 407,
+      "end_char": 418,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "54-year-old",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "complaints of dysphagia",
+      "label": "DISEASE",
+      "start_char": 521,
+      "end_char": 544,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "complaints of dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 61,
+      "sentence_idx": 6,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 66,
+      "end_char": 77,
+      "sentence_idx": 6,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "dehiscence of the platysma",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 57,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dehiscence of the platysma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trachea",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 21,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trachea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 87,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 115,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 48,
+      "sentence_idx": 35,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    },
+    {
+      "text": "JP",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 105,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "JP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

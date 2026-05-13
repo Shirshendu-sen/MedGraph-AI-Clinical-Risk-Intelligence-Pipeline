@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2522__spontaneous_vaginal_delivery_.txt",
+    "file_name": "mtsamples_2522__spontaneous_vaginal_delivery_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2316,
+    "processed_at": "2026-05-09T09:54:03.670756"
+  },
+  "entities": [
+    {
+      "text": "EDC",
+      "label": "CHEMICAL",
+      "start_char": 231,
+      "end_char": 234,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EDC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "hepatitis B surface antigen",
+      "label": "CHEMICAL",
+      "start_char": 101,
+      "end_char": 128,
+      "sentence_idx": 1,
+      "concept_id": "C0062527",
+      "concept_name": "hepatitis B surface antigen vaccine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9047082662582397,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "complaint of contractions",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 105,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "complaint of contractions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "meconium",
+      "label": "CHEMICAL",
+      "start_char": 246,
+      "end_char": 254,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "Nubain",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 20,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nubain",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "meconium",
+      "label": "CHEMICAL",
+      "start_char": 129,
+      "end_char": 137,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "ROA",
+      "label": "DISEASE",
+      "start_char": 166,
+      "end_char": 169,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ROA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 37,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "abrasions",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 54,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abrasions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/30/2003",
+      "start_char": 238,
+      "end_char": 248
+    }
+  ]
+}

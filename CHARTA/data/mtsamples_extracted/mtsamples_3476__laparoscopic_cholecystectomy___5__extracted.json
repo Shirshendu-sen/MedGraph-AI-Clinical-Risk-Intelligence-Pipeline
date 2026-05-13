@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3476__laparoscopic_cholecystectomy___5_.txt",
+    "file_name": "mtsamples_3476__laparoscopic_cholecystectomy___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 40,
+    "processed_at": "2026-05-09T09:54:22.385737"
+  },
+  "entities": [
+    {
+      "text": "Biliary colic",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 39,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Biliary colic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

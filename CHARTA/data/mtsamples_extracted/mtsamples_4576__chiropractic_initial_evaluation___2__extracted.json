@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4576__chiropractic_initial_evaluation___2_.txt",
+    "file_name": "mtsamples_4576__chiropractic_initial_evaluation___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3332,
+    "processed_at": "2026-05-09T09:54:41.609081"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 37,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 16,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "tightness",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 30,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tightness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 76,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anxiety",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 31,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anxiety",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anterior head carriage",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 79,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anterior head carriage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 421,
+      "end_char": 425,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 473,
+      "end_char": 477,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 613,
+      "end_char": 617,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 771,
+      "end_char": 775,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 48,
+      "sentence_idx": 12,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 38,
+      "sentence_idx": 20,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "tissue injury",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 64,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tissue injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "permanent disability",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 104,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "permanent disability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

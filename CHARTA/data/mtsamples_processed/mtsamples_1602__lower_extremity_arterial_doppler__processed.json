@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1602__lower_extremity_arterial_doppler_.txt",
+    "file_name": "mtsamples_1602__lower_extremity_arterial_doppler_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 503,
+    "processed_at": "2026-05-09T09:53:45.924959"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1602__lower_extremity_arterial_doppler_.txt",
+    "text": "RIGHT LOWER EXTREMITY:,  The arterial system was visualized showing triphasic waveform from the common femoral to popliteal and biphasic waveform at the posterior tibial artery with ankle brachial index of 0/8.,LEFT LOWER EXTREMITY:,  The arterial system was visualized with triphasic waveform from the common femoral to the popliteal artery, with biphasic waveform at the posterior tibial artery.  Ankle brachial index of 0.9.,IMPRESSION: , Mild bilateral lower extremity arterial obstructive disease.,",
+    "char_count": 503,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "RIGHT LOWER EXTREMITY:, The arterial system was visualized showing triphasic waveform from the common femoral to popliteal and biphasic waveform at the posterior tibial artery with ankle brachial index of 0/8.,LEFT LOWER EXTREMITY:, The arterial system was visualized with triphasic waveform from the common femoral to the popliteal artery, with biphasic waveform at the posterior tibial artery. Ankle brachial index of 0.9.,IMPRESSION: , Mild bilateral lower extremity arterial obstructive disease.,",
+    "sentences": [
+      "RIGHT LOWER EXTREMITY:, The arterial system was visualized showing triphasic waveform from the common femoral to popliteal and biphasic waveform at the posterior tibial artery with ankle brachial index of 0/8.,LEFT LOWER EXTREMITY:, The arterial system was visualized with triphasic waveform from the common femoral to the popliteal artery, with biphasic waveform at the posterior tibial artery.",
+      "Ankle brachial index of 0.9.,IMPRESSION: , Mild bilateral lower extremity arterial obstructive disease.,"
+    ],
+    "sentence_count": 2,
+    "original_length": 503,
+    "cleaned_length": 500,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "RIGHT LOWER EXTREMITY:,  The arterial system was visualized showing triphasic waveform from the common femoral to popliteal and biphasic waveform at the posterior tibial artery with ankle brachial index of 0/8.,LEFT LOWER EXTREMITY:,  The arterial system was visualized with triphasic waveform from the common femoral to the popliteal artery, with biphasic waveform at the posterior tibial artery.  Ankle brachial index of 0.9.,IMPRESSION: , Mild bilateral lower extremity arterial obstructive disease.,",
+    "cleaned_text": "RIGHT LOWER EXTREMITY:, The arterial system was visualized showing triphasic waveform from the common femoral to popliteal and biphasic waveform at the posterior tibial artery with ankle brachial index of 0/8.,LEFT LOWER EXTREMITY:, The arterial system was visualized with triphasic waveform from the common femoral to the popliteal artery, with biphasic waveform at the posterior tibial artery. Ankle brachial index of 0.9.,IMPRESSION: , Mild bilateral lower extremity arterial obstructive disease.,",
+    "sentences": [
+      "RIGHT LOWER EXTREMITY:, The arterial system was visualized showing triphasic waveform from the common femoral to popliteal and biphasic waveform at the posterior tibial artery with ankle brachial index of 0/8.,LEFT LOWER EXTREMITY:, The arterial system was visualized with triphasic waveform from the common femoral to the popliteal artery, with biphasic waveform at the posterior tibial artery.",
+      "Ankle brachial index of 0.9.,IMPRESSION: , Mild bilateral lower extremity arterial obstructive disease.,"
+    ],
+    "sentence_count": 2
+  }
+}

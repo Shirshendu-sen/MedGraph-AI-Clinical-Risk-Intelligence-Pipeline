@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2913__creutzfeldt_jakob_disease_.txt",
+    "file_name": "mtsamples_2913__creutzfeldt_jakob_disease_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5171,
+    "processed_at": "2026-05-09T09:54:10.588155"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "memory and cognitive decline.,HX",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 49,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "memory and cognitive decline.,HX",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "memory and cognitive decline",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 135,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "memory and cognitive decline",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "back.,Her mental status",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 68,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "back.,Her mental status",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "B12",
+      "label": "CHEMICAL",
+      "start_char": 22,
+      "end_char": 25,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "B12",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "Folate",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 33,
+      "sentence_idx": 7,
+      "concept_id": "C0178638",
+      "concept_name": "folate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9739503860473633,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "Dementia",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 35,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dementia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "dementing illness",
+      "label": "DISEASE",
+      "start_char": 235,
+      "end_char": 252,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dementing illness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 254,
+      "end_char": 260,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 262,
+      "end_char": 274,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "diabetes mellitus",
+      "label": "DISEASE",
+      "start_char": 276,
+      "end_char": 293,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "neurological disease",
+      "label": "DISEASE",
+      "start_char": 304,
+      "end_char": 324,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neurological disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 38,
+      "sentence_idx": 14,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "A&O",
+      "label": "CHEMICAL",
+      "start_char": 111,
+      "end_char": 114,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "A&O",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "Right homonymous inferior quadrantanopsia",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 142,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right homonymous inferior quadrantanopsia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "right homonymous hemianopsia",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 186,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right homonymous hemianopsia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "Romberg",
+      "label": "DISEASE",
+      "start_char": 208,
+      "end_char": 215,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Romberg",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "GS",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 63,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "GS",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "UA",
+      "label": "CHEMICAL",
+      "start_char": 79,
+      "end_char": 81,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "UA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "glucose",
+      "label": "CHEMICAL",
+      "start_char": 50,
+      "end_char": 57,
+      "sentence_idx": 24,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "necrosis",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 95,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "vasculitis",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 107,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vasculitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "Creutzfeldt-Jakob Disease",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 54,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Creutzfeldt-Jakob Disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "CJD",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 126,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CJD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    },
+    {
+      "text": "CJD",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 61,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CJD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-01-12"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "1/12/95",
+      "start_char": 81,
+      "end_char": 88
+    },
+    {
+      "raw_text": "1/12/95",
+      "start_char": 1697,
+      "end_char": 1704
+    },
+    {
+      "raw_text": "1/23/95",
+      "start_char": 4409,
+      "end_char": 4416
+    },
+    {
+      "raw_text": "2/15/95",
+      "start_char": 4637,
+      "end_char": 4644
+    }
+  ]
+}

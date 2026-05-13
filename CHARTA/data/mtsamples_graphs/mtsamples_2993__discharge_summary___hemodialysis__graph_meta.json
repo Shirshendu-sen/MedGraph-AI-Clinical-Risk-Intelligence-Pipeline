@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2993__discharge_summary___hemodialysis_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1
+  },
+  "visit_dates": [
+    "2008-04-14"
+  ],
+  "graph_file": "mtsamples_2993__discharge_summary___hemodialysis__graph.pt",
+  "source_dataset": "mtsamples_2993__discharge_summary___hemodialysis"
+}

@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2942__brain_stimulator_electrode_.txt",
+    "file_name": "mtsamples_2942__brain_stimulator_electrode_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4955,
+    "processed_at": "2026-05-09T09:54:11.072748"
+  },
+  "entities": [
+    {
+      "text": "Tremor",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 32,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tremor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dystonic",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 42,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dystonic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tremor",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 82,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tremor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dystonic",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 92,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dystonic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tremor",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 135,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tremor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "movements",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 127,
+      "end_char": 135,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 143,
+      "end_char": 152,
+      "sentence_idx": 11,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 39,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subgaleal",
+      "label": "DISEASE",
+      "start_char": 2,
+      "end_char": 11,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subgaleal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 43,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

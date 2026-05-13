@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1441__video_eeg___1_.txt",
+    "file_name": "mtsamples_1441__video_eeg___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1470,
+    "processed_at": "2026-05-09T09:53:41.904078"
+  },
+  "entities": [
+    {
+      "text": "seizures",
+      "label": "DISEASE",
+      "start_char": 163,
+      "end_char": 171,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "epilepsy",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epilepsy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-29"
+    },
+    {
+      "text": "non-epileptic events",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 75,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-epileptic events",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "epileptic seizures",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 76,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epileptic seizures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-30"
+    },
+    {
+      "text": "non-epileptic",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 93,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-epileptic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/29/2008",
+      "start_char": 30,
+      "end_char": 40
+    },
+    {
+      "raw_text": "12/30/2008",
+      "start_char": 61,
+      "end_char": 71
+    }
+  ]
+}

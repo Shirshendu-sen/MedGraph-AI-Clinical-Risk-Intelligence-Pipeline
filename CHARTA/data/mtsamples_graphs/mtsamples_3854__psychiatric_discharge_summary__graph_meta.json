@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_3854__psychiatric_discharge_summary_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 46,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0376325": 1,
+    "C0033371": 2,
+    "C0287163": 3,
+    "C0527258": 4,
+    "C0592071": 5
+  },
+  "visit_dates": [
+    "2010-01-11"
+  ],
+  "graph_file": "mtsamples_3854__psychiatric_discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3854__psychiatric_discharge_summary"
+}

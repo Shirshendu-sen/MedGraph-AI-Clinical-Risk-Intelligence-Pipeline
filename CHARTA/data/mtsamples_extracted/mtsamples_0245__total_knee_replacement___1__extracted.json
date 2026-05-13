@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0245__total_knee_replacement___1_.txt",
+    "file_name": "mtsamples_0245__total_knee_replacement___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4397,
+    "processed_at": "2026-05-09T09:53:10.230754"
+  },
+  "entities": [
+    {
+      "text": "anterior subluxation",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 47,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anterior subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "femoral intramedullary hole",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 31,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "femoral intramedullary hole",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "poly",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 35,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "poly",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cement hardened",
+      "label": "CHEMICAL",
+      "start_char": 104,
+      "end_char": 119,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cement hardened",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

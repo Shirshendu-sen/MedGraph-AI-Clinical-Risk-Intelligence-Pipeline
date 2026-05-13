@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_2588__endometrial_cancer_followup_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 20,
+  "entity_index": {
+    "C0008838": 0,
+    "C0085752": 1,
+    "UNKNOWN": 2,
+    "C0060282": 3,
+    "C0060926": 4
+  },
+  "visit_dates": [
+    "2010-03-22"
+  ],
+  "graph_file": "mtsamples_2588__endometrial_cancer_followup__graph.pt",
+  "source_dataset": "mtsamples_2588__endometrial_cancer_followup"
+}

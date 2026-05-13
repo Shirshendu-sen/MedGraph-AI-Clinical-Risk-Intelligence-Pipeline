@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_3258__hiv_followup___1_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 31,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0939514": 2,
+    "C0020740": 3,
+    "C0010294": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3258__hiv_followup___1__graph.pt",
+  "source_dataset": "mtsamples_3258__hiv_followup___1"
+}

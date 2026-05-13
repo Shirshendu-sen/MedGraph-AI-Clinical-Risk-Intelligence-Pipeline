@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0984__colonoscopy___18_.txt",
+    "file_name": "mtsamples_0984__colonoscopy___18_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1680,
+    "processed_at": "2026-05-09T09:53:30.664162"
+  },
+  "entities": [
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 252,
+      "end_char": 259,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammatory bowel disease",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 56,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammatory bowel disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammatory bowel disease",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 53,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammatory bowel disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pedunculated polyp",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 30,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pedunculated polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 16,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "colon, transverse colon, ascending colon",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 151,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colon, transverse colon, ascending colon",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 14,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 74,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 73,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 56,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 107,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenomatous",
+      "label": "DISEASE",
+      "start_char": 170,
+      "end_char": 181,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenomatous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 11,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

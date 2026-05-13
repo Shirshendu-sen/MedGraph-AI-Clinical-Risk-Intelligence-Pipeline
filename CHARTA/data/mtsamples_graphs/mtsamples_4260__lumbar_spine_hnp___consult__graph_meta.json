@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4260__lumbar_spine_hnp___consult_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 32,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1
+  },
+  "visit_dates": [
+    "2026-02-10"
+  ],
+  "graph_file": "mtsamples_4260__lumbar_spine_hnp___consult__graph.pt",
+  "source_dataset": "mtsamples_4260__lumbar_spine_hnp___consult"
+}

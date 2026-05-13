@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1006__clear_corneal_temporal_incision_.txt",
+    "file_name": "mtsamples_1006__clear_corneal_temporal_incision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1433,
+    "processed_at": "2026-05-09T09:53:31.089387"
+  },
+  "entities": [
+    {
+      "text": "NO",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 35,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NO",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Healon",
+      "label": "CHEMICAL",
+      "start_char": 82,
+      "end_char": 88,
+      "sentence_idx": 6,
+      "concept_id": "C0700889",
+      "concept_name": "Healon",
+      "kb_source": "rxnorm",
+      "link_score": 0.9655555486679077,
+      "timestamp": null
+    },
+    {
+      "text": "lens",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lens",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Maxitrol",
+      "label": "CHEMICAL",
+      "start_char": 75,
+      "end_char": 83,
+      "sentence_idx": 10,
+      "concept_id": "C0526091",
+      "concept_name": "Maxitrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9620206356048584,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

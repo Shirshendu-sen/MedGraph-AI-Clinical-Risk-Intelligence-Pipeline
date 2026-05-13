@@ -1,0 +1,1145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3055__chiropractic_ime___2_.txt",
+    "file_name": "mtsamples_3055__chiropractic_ime___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 18425,
+    "processed_at": "2026-05-09T09:54:12.965683"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 38,
+      "sentence_idx": 12,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 67,
+      "sentence_idx": 15,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain.,He",
+      "label": "CHEMICAL",
+      "start_char": 139,
+      "end_char": 147,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pain.,He",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "vertebral compression",
+      "label": "DISEASE",
+      "start_char": 177,
+      "end_char": 198,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vertebral compression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 199,
+      "end_char": 208,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "T6-T7 or T7-T8.,Mr",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 91,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "T6-T7 or T7-T8.,Mr",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 247,
+      "end_char": 251,
+      "sentence_idx": 30,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 25,
+      "sentence_idx": 32,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "ache",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 37,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 33,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 72,
+      "sentence_idx": 33,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 40,
+      "sentence_idx": 34,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 116,
+      "sentence_idx": 34,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 87,
+      "sentence_idx": 35,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 198,
+      "sentence_idx": 35,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 126,
+      "sentence_idx": 36,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "basis.,He",
+      "label": "CHEMICAL",
+      "start_char": 196,
+      "end_char": 205,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "basis.,He",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 245,
+      "end_char": 249,
+      "sentence_idx": 37,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 343,
+      "end_char": 347,
+      "sentence_idx": 37,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 370,
+      "end_char": 378,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "ibuprofen",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 27,
+      "sentence_idx": 38,
+      "concept_id": "C0020740",
+      "concept_name": "ibuprofen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736760258674622,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain.,He",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 72,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pain.,He",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "ibuprofen",
+      "label": "CHEMICAL",
+      "start_char": 154,
+      "end_char": 163,
+      "sentence_idx": 38,
+      "concept_id": "C0020740",
+      "concept_name": "ibuprofen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736760258674622,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 177,
+      "sentence_idx": 38,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain.,He",
+      "label": "CHEMICAL",
+      "start_char": 207,
+      "end_char": 215,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pain.,He",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "loss of consciousness",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 61,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of consciousness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 15,
+      "sentence_idx": 43,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 54,
+      "sentence_idx": 46,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "back or neck injuries",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 44,
+      "sentence_idx": 48,
+      "concept_id": "UNKNOWN",
+      "concept_name": "back or neck injuries",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 35,
+      "sentence_idx": 50,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 23,
+      "sentence_idx": 53,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "hydrocodone/acetaminophen",
+      "label": "CHEMICAL",
+      "start_char": 120,
+      "end_char": 145,
+      "sentence_idx": 56,
+      "concept_id": "C0717367",
+      "concept_name": "acetaminophen / hydrocodone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9137352705001831,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "Motrin",
+      "label": "CHEMICAL",
+      "start_char": 158,
+      "end_char": 164,
+      "sentence_idx": 56,
+      "concept_id": "C0699203",
+      "concept_name": "Motrin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9656757116317749,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "acute injury",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 52,
+      "sentence_idx": 61,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 41,
+      "sentence_idx": 66,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "tightness",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 49,
+      "sentence_idx": 67,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tightness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 28,
+      "sentence_idx": 71,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 40,
+      "sentence_idx": 72,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 50,
+      "sentence_idx": 73,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "Motrin",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 24,
+      "sentence_idx": 74,
+      "concept_id": "C0699203",
+      "concept_name": "Motrin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9656757116317749,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 40,
+      "sentence_idx": 81,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 67,
+      "sentence_idx": 83,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 24,
+      "sentence_idx": 92,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 93,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 94,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "ibuprofen",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 64,
+      "sentence_idx": 96,
+      "concept_id": "C0020740",
+      "concept_name": "ibuprofen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736760258674622,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "Oswestry Disability",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 135,
+      "sentence_idx": 98,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Oswestry Disability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 45,
+      "sentence_idx": 99,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "sore",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 55,
+      "sentence_idx": 99,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sore",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "aching",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 66,
+      "sentence_idx": 99,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aching",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 17,
+      "sentence_idx": 100,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 25,
+      "sentence_idx": 102,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 33,
+      "sentence_idx": 103,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 112,
+      "sentence_idx": 103,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 69,
+      "sentence_idx": 104,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 72,
+      "sentence_idx": 105,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 74,
+      "sentence_idx": 106,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 62,
+      "sentence_idx": 110,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 44,
+      "sentence_idx": 112,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "ibuprofen",
+      "label": "CHEMICAL",
+      "start_char": 112,
+      "end_char": 121,
+      "sentence_idx": 114,
+      "concept_id": "C0020740",
+      "concept_name": "ibuprofen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736760258674622,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 146,
+      "sentence_idx": 114,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 56,
+      "sentence_idx": 116,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "treatment.,April",
+      "label": "CHEMICAL",
+      "start_char": 215,
+      "end_char": 231,
+      "sentence_idx": 116,
+      "concept_id": "UNKNOWN",
+      "concept_name": "treatment.,April",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 34,
+      "sentence_idx": 117,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "kyphosis",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 140,
+      "sentence_idx": 121,
+      "concept_id": "UNKNOWN",
+      "concept_name": "kyphosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "degenerative disc disease",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 93,
+      "sentence_idx": 122,
+      "concept_id": "UNKNOWN",
+      "concept_name": "degenerative disc disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "psoriasis",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 102,
+      "sentence_idx": 125,
+      "concept_id": "UNKNOWN",
+      "concept_name": "psoriasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 128,
+      "sentence_idx": 125,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 61,
+      "sentence_idx": 127,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 49,
+      "sentence_idx": 131,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "psoriasis",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 63,
+      "sentence_idx": 131,
+      "concept_id": "UNKNOWN",
+      "concept_name": "psoriasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "chronic back pain",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 38,
+      "sentence_idx": 136,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 37,
+      "sentence_idx": 139,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "thoracic pain",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 43,
+      "sentence_idx": 144,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thoracic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "thoracic spine pain",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 47,
+      "sentence_idx": 154,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thoracic spine pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 96,
+      "sentence_idx": 159,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 54,
+      "sentence_idx": 162,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "upper extremity radicular symptoms",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 44,
+      "sentence_idx": 165,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper extremity radicular symptoms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "lower extremity weakness or discoordination",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 53,
+      "sentence_idx": 166,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower extremity weakness or discoordination",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "spasticity",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 23,
+      "sentence_idx": 174,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spasticity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 23,
+      "sentence_idx": 175,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-10-04"
+    },
+    {
+      "text": "thoracic spine complaints",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 54,
+      "sentence_idx": 182,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thoracic spine complaints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "thoracic spine pain",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 31,
+      "sentence_idx": 194,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thoracic spine pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-10-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "October 4, 2000",
+      "start_char": 17,
+      "end_char": 32
+    },
+    {
+      "raw_text": "September 5, 2003",
+      "start_char": 55,
+      "end_char": 72
+    },
+    {
+      "raw_text": "October 4, 2000",
+      "start_char": 962,
+      "end_char": 977
+    },
+    {
+      "raw_text": "October 4, 2000",
+      "start_char": 2671,
+      "end_char": 2686
+    },
+    {
+      "raw_text": "October 4, 2000",
+      "start_char": 5603,
+      "end_char": 5618
+    },
+    {
+      "raw_text": "October 4, 2000",
+      "start_char": 6147,
+      "end_char": 6162
+    },
+    {
+      "raw_text": "October 4, 2000",
+      "start_char": 7101,
+      "end_char": 7116
+    },
+    {
+      "raw_text": "October 4, 2000",
+      "start_char": 7228,
+      "end_char": 7243
+    },
+    {
+      "raw_text": "October 8, 2000",
+      "start_char": 7253,
+      "end_char": 7268
+    },
+    {
+      "raw_text": "November 21, 2000",
+      "start_char": 7608,
+      "end_char": 7625
+    },
+    {
+      "raw_text": "December 4, 2000",
+      "start_char": 8720,
+      "end_char": 8736
+    },
+    {
+      "raw_text": "December 8, 2000",
+      "start_char": 9395,
+      "end_char": 9411
+    },
+    {
+      "raw_text": "December 11, 2000",
+      "start_char": 9681,
+      "end_char": 9698
+    },
+    {
+      "raw_text": "December 11, 2000",
+      "start_char": 11346,
+      "end_char": 11363
+    },
+    {
+      "raw_text": "December 13, 2000",
+      "start_char": 11497,
+      "end_char": 11514
+    },
+    {
+      "raw_text": "December 13, 2000",
+      "start_char": 11640,
+      "end_char": 11657
+    },
+    {
+      "raw_text": "October 4, 2000",
+      "start_char": 11773,
+      "end_char": 11788
+    },
+    {
+      "raw_text": "December 26, 2000",
+      "start_char": 12602,
+      "end_char": 12619
+    },
+    {
+      "raw_text": "April 5, 2001",
+      "start_char": 12683,
+      "end_char": 12696
+    },
+    {
+      "raw_text": "April 12, 2001",
+      "start_char": 12828,
+      "end_char": 12842
+    },
+    {
+      "raw_text": "April 16, 2001",
+      "start_char": 12916,
+      "end_char": 12930
+    },
+    {
+      "raw_text": "April 19, 2001",
+      "start_char": 12983,
+      "end_char": 12997
+    },
+    {
+      "raw_text": "April 26, 2001",
+      "start_char": 13050,
+      "end_char": 13064
+    },
+    {
+      "raw_text": "September 6, 2002",
+      "start_char": 13309,
+      "end_char": 13326
+    },
+    {
+      "raw_text": "May 12, 2003",
+      "start_char": 13916,
+      "end_char": 13928
+    },
+    {
+      "raw_text": "June 10, 2003",
+      "start_char": 14900,
+      "end_char": 14913
+    },
+    {
+      "raw_text": "October 4, 2000",
+      "start_char": 15300,
+      "end_char": 15315
+    }
+  ]
+}

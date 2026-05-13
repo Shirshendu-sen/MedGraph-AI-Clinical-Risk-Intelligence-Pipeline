@@ -1,0 +1,24 @@
+{
+  "patient_id": "mtsamples_2102__mri_t_spine___spinal_mets_",
+  "num_entities": 11,
+  "num_visits": 1,
+  "num_edges": 97,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0025859": 1,
+    "C0700899": 2,
+    "C0012373": 3,
+    "C0590720": 4,
+    "C0014025": 5,
+    "C0021246": 6,
+    "C0039542": 7,
+    "C0027235": 8,
+    "C0016410": 9,
+    "C0740057": 10
+  },
+  "visit_dates": [
+    "39/42/79"
+  ],
+  "graph_file": "mtsamples_2102__mri_t_spine___spinal_mets__graph.pt",
+  "source_dataset": "mtsamples_2102__mri_t_spine___spinal_mets"
+}

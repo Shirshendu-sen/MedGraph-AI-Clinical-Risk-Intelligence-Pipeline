@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1071__cardioversion___unsuccessful_.txt",
+    "file_name": "mtsamples_1071__cardioversion___unsuccessful_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1031,
+    "processed_at": "2026-05-09T09:53:33.167621"
+  },
+  "entities": [
+    {
+      "text": "fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 131,
+      "end_char": 139,
+      "sentence_idx": 2,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 152,
+      "end_char": 158,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial flutter",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 105,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial flutter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "amiodarone",
+      "label": "CHEMICAL",
+      "start_char": 182,
+      "end_char": 192,
+      "sentence_idx": 7,
+      "concept_id": "C0002598",
+      "concept_name": "amiodarone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9443445801734924,
+      "timestamp": null
+    },
+    {
+      "text": "atrial fibrillation",
+      "label": "DISEASE",
+      "start_char": 437,
+      "end_char": 456,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial fibrillation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

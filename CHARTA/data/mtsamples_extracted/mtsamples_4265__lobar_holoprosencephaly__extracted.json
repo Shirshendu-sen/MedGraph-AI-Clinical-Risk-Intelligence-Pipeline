@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4265__lobar_holoprosencephaly_.txt",
+    "file_name": "mtsamples_4265__lobar_holoprosencephaly_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2694,
+    "processed_at": "2026-05-09T09:54:36.203726"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-11"
+    },
+    {
+      "text": "Delayed motor development.,HX",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 34,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Delayed motor development.,HX",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-11"
+    },
+    {
+      "text": "pregnancy-labor-spontaneous vaginal",
+      "label": "CHEMICAL",
+      "start_char": 198,
+      "end_char": 233,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pregnancy-labor-spontaneous vaginal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-11"
+    },
+    {
+      "text": "toxic intrauterine",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 42,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "toxic intrauterine",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-11"
+    },
+    {
+      "text": "seizures",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 71,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-11"
+    },
+    {
+      "text": "neurologic diseases",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 148,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neurologic diseases",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-11"
+    },
+    {
+      "text": "esotropia",
+      "label": "DISEASE",
+      "start_char": 379,
+      "end_char": 388,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esotropia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-11"
+    },
+    {
+      "text": "Tremulous",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tremulous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-11"
+    },
+    {
+      "text": "papilledema",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 22,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "papilledema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-11"
+    },
+    {
+      "text": "truncal ataxia",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 144,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "truncal ataxia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-11"
+    },
+    {
+      "text": "lower extremities",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 22,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower extremities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-11"
+    },
+    {
+      "text": "pes planovalgus",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 117,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pes planovalgus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-11"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/11/92",
+      "start_char": 2029,
+      "end_char": 2037
+    }
+  ]
+}

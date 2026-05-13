@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3195__revocation_admission_.txt",
+    "file_name": "mtsamples_3195__revocation_admission_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3172,
+    "processed_at": "2026-05-09T09:54:16.264496"
+  },
+  "entities": [
+    {
+      "text": "90-day",
+      "label": "CHEMICAL",
+      "start_char": 63,
+      "end_char": 69,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "90-day",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "hallucinations",
+      "label": "DISEASE",
+      "start_char": 205,
+      "end_char": 219,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hallucinations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "confusion",
+      "label": "DISEASE",
+      "start_char": 224,
+      "end_char": 233,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "confusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "psychiatric",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 20,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "psychiatric",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "schizophrenia",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 45,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "schizophrenia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "Invega",
+      "label": "CHEMICAL",
+      "start_char": 172,
+      "end_char": 178,
+      "sentence_idx": 2,
+      "concept_id": "C1828935",
+      "concept_name": "Invega",
+      "kb_source": "rxnorm",
+      "link_score": 0.9621489644050598,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "hyperlipidemia",
+      "label": "DISEASE",
+      "start_char": 330,
+      "end_char": 344,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperlipidemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "gemfibrozil",
+      "label": "CHEMICAL",
+      "start_char": 350,
+      "end_char": 361,
+      "sentence_idx": 2,
+      "concept_id": "C0017245",
+      "concept_name": "gemfibrozil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9775627851486206,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "psychiatric",
+      "label": "DISEASE",
+      "start_char": 204,
+      "end_char": 215,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "psychiatric",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "methamphetamines",
+      "label": "CHEMICAL",
+      "start_char": 78,
+      "end_char": 94,
+      "sentence_idx": 7,
+      "concept_id": "C0025611",
+      "concept_name": "metamfetamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.8955223560333252,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 30,
+      "sentence_idx": 9,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "smoke",
+      "label": "CHEMICAL",
+      "start_char": 8,
+      "end_char": 13,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "smoke",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "PCP",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 34,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PCP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "confusion",
+      "label": "DISEASE",
+      "start_char": 174,
+      "end_char": 183,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "confusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "acne",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 133,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acne",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "Cranial nerves II",
+      "label": "DISEASE",
+      "start_char": 211,
+      "end_char": 228,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cranial nerves II",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "UA",
+      "label": "CHEMICAL",
+      "start_char": 60,
+      "end_char": 62,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "UA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "hyperlipidemia",
+      "label": "DISEASE",
+      "start_char": 160,
+      "end_char": 174,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperlipidemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "gemfibrozil",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 32,
+      "sentence_idx": 22,
+      "concept_id": "C0017245",
+      "concept_name": "gemfibrozil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9775627851486206,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "b.i.d",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 42,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "b.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2009-12-19"
+    },
+    {
+      "text": "vitamin",
+      "label": "CHEMICAL",
+      "start_char": 108,
+      "end_char": 115,
+      "sentence_idx": 22,
+      "concept_id": "C0025270",
+      "concept_name": "menadione",
+      "kb_source": "rxnorm",
+      "link_score": 0.9835401177406311,
+      "timestamp": "2009-12-19"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/19/2009",
+      "start_char": 458,
+      "end_char": 468
+    }
+  ]
+}

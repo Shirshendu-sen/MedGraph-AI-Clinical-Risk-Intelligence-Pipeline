@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4610__thoracotomy___esophageal_exploration_.txt",
+    "file_name": "mtsamples_4610__thoracotomy___esophageal_exploration_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4311,
+    "processed_at": "2026-05-09T09:54:42.138188"
+  },
+  "entities": [
+    {
+      "text": "esophageal perforation.,3",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 62,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophageal perforation.,3",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophageal stricture",
+      "label": "DISEASE",
+      "start_char": 201,
+      "end_char": 221,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophageal stricture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "retching",
+      "label": "DISEASE",
+      "start_char": 261,
+      "end_char": 269,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retching",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophageal rupture",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 25,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophageal rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "purulent",
+      "label": "DISEASE",
+      "start_char": 182,
+      "end_char": 190,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "purulent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 50,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophagus",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 28,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophagus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 88,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "perforation",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 103,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stricture",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 190,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stricture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

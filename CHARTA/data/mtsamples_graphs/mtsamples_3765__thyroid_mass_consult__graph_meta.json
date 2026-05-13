@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_3765__thyroid_mass_consult_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 46,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0021968": 2,
+    "C0006675": 3,
+    "C0042866": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3765__thyroid_mass_consult__graph.pt",
+  "source_dataset": "mtsamples_3765__thyroid_mass_consult"
+}

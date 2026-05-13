@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3189__soap___substance_abuse_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 26,
+  "entity_index": {
+    "C0025605": 0,
+    "C0011892": 1,
+    "UNKNOWN": 2,
+    "C0016365": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3189__soap___substance_abuse__graph.pt",
+  "source_dataset": "mtsamples_3189__soap___substance_abuse"
+}

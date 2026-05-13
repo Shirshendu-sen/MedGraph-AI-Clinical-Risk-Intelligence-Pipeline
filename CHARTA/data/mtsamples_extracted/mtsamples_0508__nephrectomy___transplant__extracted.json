@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0508__nephrectomy___transplant_.txt",
+    "file_name": "mtsamples_0508__nephrectomy___transplant_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1742,
+    "processed_at": "2026-05-09T09:53:17.865528"
+  },
+  "entities": [
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 163,
+      "end_char": 168,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "condition.,ESTIMATED",
+      "label": "CHEMICAL",
+      "start_char": 192,
+      "end_char": 212,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "condition.,ESTIMATED",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

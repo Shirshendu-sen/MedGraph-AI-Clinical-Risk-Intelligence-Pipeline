@@ -1,0 +1,380 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0403__pulmonary_atresia_.txt",
+    "file_name": "mtsamples_0403__pulmonary_atresia_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 10443,
+    "processed_at": "2026-05-09T09:53:14.976363"
+  },
+  "entities": [
+    {
+      "text": "pulmonary atresia",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 66,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary atresia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 50,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "pulmonary artery angioplasty",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 98,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary artery angioplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "elevated Fontan pressures",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 85,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "elevated Fontan pressures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "patent Fontan fenestration",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 139,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patent Fontan fenestration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "intolerance of Fontan fenestration occlusion",
+      "label": "DISEASE",
+      "start_char": 144,
+      "end_char": 188,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intolerance of Fontan fenestration occlusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "Fontan fenestration occlusion",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 105,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fontan fenestration occlusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "tricuspid valvuloplasty",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 161,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tricuspid valvuloplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "right ventricular hypertension",
+      "label": "DISEASE",
+      "start_char": 184,
+      "end_char": 214,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ventricular hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "membranous ventricular aneurysm",
+      "label": "DISEASE",
+      "start_char": 230,
+      "end_char": 261,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "membranous ventricular aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 351,
+      "end_char": 360,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2006-08-01"
+    },
+    {
+      "text": "atrial septal defect",
+      "label": "DISEASE",
+      "start_char": 155,
+      "end_char": 175,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial septal defect",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "prolapse",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 108,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prolapse",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "aneurysmal membranous ventricular septum",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 149,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysmal membranous ventricular septum",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "angioplasty",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 19,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "angioplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "muscular ventricular septal defect",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 52,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "muscular ventricular septal defect",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 123,
+      "end_char": 129,
+      "sentence_idx": 37,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "inferior vena cava",
+      "label": "DISEASE",
+      "start_char": 326,
+      "end_char": 344,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inferior vena cava",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "normal-appearing renal collecting systems were visualized.",
+      "label": "DISEASE",
+      "start_char": 390,
+      "end_char": 448,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normal-appearing renal collecting systems were visualized.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-01"
+    },
+    {
+      "text": "Oxygen",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 49,
+      "sentence_idx": 40,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "desaturation",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 69,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "desaturation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "saturated",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 46,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "saturated",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "Left ventricular systolic pressure",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 34,
+      "sentence_idx": 48,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left ventricular systolic pressure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "occlusion of Fontan fenestration",
+      "label": "DISEASE",
+      "start_char": 155,
+      "end_char": 187,
+      "sentence_idx": 62,
+      "concept_id": "UNKNOWN",
+      "concept_name": "occlusion of Fontan fenestration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "0.921",
+      "label": "CHEMICAL",
+      "start_char": 124,
+      "end_char": 129,
+      "sentence_idx": 65,
+      "concept_id": "UNKNOWN",
+      "concept_name": "0.921",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "trace aortic insufficiency",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 85,
+      "sentence_idx": 67,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trace aortic insufficiency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "Hypertensive",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 80,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hypertensive",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    },
+    {
+      "text": "Aneurysm",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 81,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1999-05-26"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "05/26/1999",
+      "start_char": 246,
+      "end_char": 256
+    },
+    {
+      "raw_text": "08/01/2006",
+      "start_char": 441,
+      "end_char": 451
+    },
+    {
+      "raw_text": "09/25/2001",
+      "start_char": 562,
+      "end_char": 572
+    },
+    {
+      "raw_text": "11/20/2003",
+      "start_char": 727,
+      "end_char": 737
+    },
+    {
+      "raw_text": "03/22/2004",
+      "start_char": 901,
+      "end_char": 911
+    },
+    {
+      "raw_text": "09/07/2006",
+      "start_char": 1101,
+      "end_char": 1111
+    }
+  ]
+}

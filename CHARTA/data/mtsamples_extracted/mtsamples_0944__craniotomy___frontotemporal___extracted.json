@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0944__craniotomy___frontotemporal__.txt",
+    "file_name": "mtsamples_0944__craniotomy___frontotemporal__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3689,
+    "processed_at": "2026-05-09T09:53:29.535313"
+  },
+  "entities": [
+    {
+      "text": "Right frontotemporal chronic subacute subdural",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 71,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right frontotemporal chronic subacute subdural",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right frontotemporal chronic subacute subdural hematoma.,TITLE OF THE OPERATION: , Right frontotemporal",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 211,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right frontotemporal chronic subacute subdural hematoma.,TITLE OF THE OPERATION: , Right frontotemporal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 241,
+      "end_char": 249,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "head injury",
+      "label": "DISEASE",
+      "start_char": 401,
+      "end_char": 412,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "head injury",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 46,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 127,
+      "end_char": 135,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder tumors",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 41,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder tumors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder tumor",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 134,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thin",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 34,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar electrocautery",
+      "label": "DISEASE",
+      "start_char": 147,
+      "end_char": 169,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar electrocautery",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 88,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 81,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 76,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

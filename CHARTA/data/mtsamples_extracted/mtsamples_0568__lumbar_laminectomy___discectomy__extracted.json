@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0568__lumbar_laminectomy___discectomy_.txt",
+    "file_name": "mtsamples_0568__lumbar_laminectomy___discectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5425,
+    "processed_at": "2026-05-09T09:53:19.434203"
+  },
+  "entities": [
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 92,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-28"
+    },
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 199,
+      "end_char": 207,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-28"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 321,
+      "end_char": 325,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-28"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 73,
+      "sentence_idx": 3,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-28"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 43,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-28"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 31,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-28"
+    },
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 58,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-28"
+    },
+    {
+      "text": "Conray",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 43,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Conray",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-28"
+    },
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-28"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 155,
+      "end_char": 159,
+      "sentence_idx": 43,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-28"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/28/03",
+      "start_char": 362,
+      "end_char": 370
+    },
+    {
+      "raw_text": "08/27/03",
+      "start_char": 711,
+      "end_char": 719
+    },
+    {
+      "raw_text": "08/28/03",
+      "start_char": 1277,
+      "end_char": 1285
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2182__intramedullary_nail_fixation_.txt",
+    "file_name": "mtsamples_2182__intramedullary_nail_fixation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2691,
+    "processed_at": "2026-05-09T09:53:58.006878"
+  },
+  "entities": [
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 77,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CPT",
+      "label": "CHEMICAL",
+      "start_char": 195,
+      "end_char": 198,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CPT",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 85,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 95,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injuries",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 105,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injuries",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nonunion",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 146,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nonunion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "malunion",
+      "label": "DISEASE",
+      "start_char": 150,
+      "end_char": 158,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malunion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "compartment syndrome",
+      "label": "DISEASE",
+      "start_char": 182,
+      "end_char": 202,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "compartment syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 103,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 186,
+      "end_char": 194,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

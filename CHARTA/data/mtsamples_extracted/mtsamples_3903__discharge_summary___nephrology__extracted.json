@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3903__discharge_summary___nephrology_.txt",
+    "file_name": "mtsamples_3903__discharge_summary___nephrology_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2975,
+    "processed_at": "2026-05-09T09:54:29.062262"
+  },
+  "entities": [
+    {
+      "text": "Left renal cell carcinoma, left renal cyst.,DISCHARGE",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 75,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left renal cell carcinoma, left renal cyst.,DISCHARGE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "Left renal cell carcinoma, left renal cyst.,SECONDARY DIAGNOSES:,1",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 154,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left renal cell carcinoma, left renal cyst.,SECONDARY DIAGNOSES:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "Chronic obstructive pulmonary disease.,2",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 40,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chronic obstructive pulmonary disease.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "left renal cyst decortication",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 98,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left renal cyst decortication",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "left renal cell carcinoma with multiple renal cysts",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 107,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left renal cell carcinoma with multiple renal cysts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "renal cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 169,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "renal cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "Left renal cyst decortication",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 29,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left renal cyst decortication",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "left renal cyst decortication",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 138,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left renal cyst decortication",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "enlarged renal cysts",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 57,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "enlarged renal cysts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "JP",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 9,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "JP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "bowel movements",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 74,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bowel movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 83,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 65,
+      "sentence_idx": 28,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 22,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 59,
+      "sentence_idx": 29,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "nausea,",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 68,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea,",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 77,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    },
+    {
+      "text": "concerns.,FOLLOWUP",
+      "label": "CHEMICAL",
+      "start_char": 92,
+      "end_char": 110,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "concerns.,FOLLOWUP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-06-18"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "June 18, 2008",
+      "start_char": 495,
+      "end_char": 508
+    },
+    {
+      "raw_text": "8/12/2008",
+      "start_char": 2442,
+      "end_char": 2451
+    },
+    {
+      "raw_text": "08/12/2008",
+      "start_char": 2878,
+      "end_char": 2888
+    }
+  ]
+}

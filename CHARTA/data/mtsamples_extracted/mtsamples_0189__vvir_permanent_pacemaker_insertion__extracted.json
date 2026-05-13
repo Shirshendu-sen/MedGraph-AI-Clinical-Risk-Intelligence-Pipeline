@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0189__vvir_permanent_pacemaker_insertion_.txt",
+    "file_name": "mtsamples_0189__vvir_permanent_pacemaker_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3989,
+    "processed_at": "2026-05-09T09:53:08.882854"
+  },
+  "entities": [
+    {
+      "text": "aortic stenosis",
+      "label": "DISEASE",
+      "start_char": 222,
+      "end_char": 237,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "congestive heart failure symptoms",
+      "label": "DISEASE",
+      "start_char": 295,
+      "end_char": 328,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congestive heart failure symptoms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tachybrady arrhythmias",
+      "label": "DISEASE",
+      "start_char": 350,
+      "end_char": 372,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tachybrady arrhythmias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "beta-blocker",
+      "label": "CHEMICAL",
+      "start_char": 471,
+      "end_char": 483,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "beta-blocker",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 8,
+      "end_char": 17,
+      "sentence_idx": 9,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 34,
+      "sentence_idx": 9,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "pectoris",
+      "label": "DISEASE",
+      "start_char": 162,
+      "end_char": 170,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pectoris",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 57,
+      "end_char": 64,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pectoris",
+      "label": "DISEASE",
+      "start_char": 216,
+      "end_char": 224,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pectoris",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 301,
+      "end_char": 308,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 136,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "congestive heart failure",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 86,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congestive heart failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tachybrady",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 101,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tachybrady",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

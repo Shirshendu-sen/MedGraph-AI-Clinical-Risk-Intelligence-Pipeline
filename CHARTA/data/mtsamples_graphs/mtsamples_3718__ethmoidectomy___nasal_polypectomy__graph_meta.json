@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3718__ethmoidectomy___nasal_polypectomy_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0009170": 1,
+    "C0023660": 2,
+    "C0014563": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3718__ethmoidectomy___nasal_polypectomy__graph.pt",
+  "source_dataset": "mtsamples_3718__ethmoidectomy___nasal_polypectomy"
+}

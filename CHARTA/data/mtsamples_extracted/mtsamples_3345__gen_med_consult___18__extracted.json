@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3345__gen_med_consult___18_.txt",
+    "file_name": "mtsamples_3345__gen_med_consult___18_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1776,
+    "processed_at": "2026-05-09T09:54:20.209702"
+  },
+  "entities": [
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 64,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "congestion",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 79,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congestion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "congestion",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 27,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congestion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cough",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sinusitis",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 145,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinusitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 11,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Nares",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nares",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 49,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 13,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "shotty lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 55,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shotty lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sinusitis",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 54,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinusitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Amoxicillin",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 94,
+      "sentence_idx": 24,
+      "concept_id": "C0002645",
+      "concept_name": "amoxicillin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9782153964042664,
+      "timestamp": null
+    },
+    {
+      "text": "Tylenol",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 26,
+      "concept_id": "C0699142",
+      "concept_name": "Tylenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9819504022598267,
+      "timestamp": null
+    },
+    {
+      "text": "Motrin",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 18,
+      "sentence_idx": 26,
+      "concept_id": "C0699203",
+      "concept_name": "Motrin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9656757116317749,
+      "timestamp": null
+    },
+    {
+      "text": "decongestant",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 55,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "decongestant",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

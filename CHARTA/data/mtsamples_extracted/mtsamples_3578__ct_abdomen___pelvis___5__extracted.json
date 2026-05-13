@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3578__ct_abdomen___pelvis___5_.txt",
+    "file_name": "mtsamples_3578__ct_abdomen___pelvis___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1746,
+    "processed_at": "2026-05-09T09:54:23.805309"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 125,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "small bowel obstruction",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 49,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "small bowel obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleural effusions",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 72,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 30,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenopathy",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 57,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atherosclerosis",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 34,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atherosclerosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "phleboliths",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 119,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "phleboliths",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenopathy",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 152,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "appendix.,2.Moderate",
+      "label": "CHEMICAL",
+      "start_char": 136,
+      "end_char": 156,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "appendix.,2.Moderate",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "urinary tract infection",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 113,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary tract infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

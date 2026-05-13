@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4660__port_a_cath_insertion_.txt",
+    "file_name": "mtsamples_4660__port_a_cath_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1070,
+    "processed_at": "2026-05-09T09:54:42.968291"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4660__port_a_cath_insertion_.txt",
+    "text": "PROCEDURE PERFORMED: , Port-A-Cath insertion.,ANESTHESIA: , MAC.,COMPLICATIONS: , None.,ESTIMATED BLOOD LOSS:  ,Minimal.,PROCEDURE IN DETAIL:  ,Patient was prepped and draped in sterile fashion.  The left subclavian vein was cannulated with a wire.  Fluoroscopic confirmation of the wire in appropriate position was performed.  Then catheter was inserted after subcutaneous pocket was created, the sheath dilators were advanced, and the wire and dilator were removed.  Once the catheter was advanced through the sheath, the sheath was peeled away.  Catheter was left in place, which was attached to hub, placed in the subcutaneous pocket, sewn in place with 2-0 silk sutures, and then all hemostasis was further reconfirmed.  No hemorrhage was identified.  The port was in appropriate position with fluoroscopic confirmation.  The wound was closed in 2 layers, the 1st layer being 3-0 Vicryl, the 2nd layer being 4-0 Monocryl subcuticular stitch.  Dressed with Steri-Strips and 4 x 4's.  Port was checked.  Had good blood return, flushed readily with heparinized saline.",
+    "char_count": 1070,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE PERFORMED: , Port-A-Cath insertion.,ANESTHESIA: , MAC.,COMPLICATIONS: , None.,ESTIMATED BLOOD LOSS: ,Minimal.,PROCEDURE IN DETAIL: ,Patient was prepped and draped in sterile fashion. The left subclavian vein was cannulated with a wire. Fluoroscopic confirmation of the wire in appropriate position was performed. Then catheter was inserted after subcutaneous pocket was created, the sheath dilators were advanced, and the wire and dilator were removed. Once the catheter was advanced through the sheath, the sheath was peeled away. Catheter was left in place, which was attached to hub, placed in the subcutaneous pocket, sewn in place with 2-0 silk sutures, and then all hemostasis was further reconfirmed. No hemorrhage was identified. The port was in appropriate position with fluoroscopic confirmation. The wound was closed in 2 layers, the 1st layer being 3-0 Vicryl, the 2nd layer being 4-0 Monocryl subcuticular stitch. Dressed with Steri-Strips and 4 x 4's. Port was checked. Had good blood return, flushed readily with heparinized saline.",
+    "sentences": [
+      "PROCEDURE PERFORMED: , Port-A-Cath insertion.,ANESTHESIA: , MAC.,COMPLICATIONS: , None.,ESTIMATED BLOOD LOSS: ,Minimal.,PROCEDURE IN DETAIL: ,Patient was prepped and draped in sterile fashion.",
+      "The left subclavian vein was cannulated with a wire.",
+      "Fluoroscopic confirmation of the wire in appropriate position was performed.",
+      "Then catheter was inserted after subcutaneous pocket was created, the sheath dilators were advanced, and the wire and dilator were removed.",
+      "Once the catheter was advanced through the sheath, the sheath was peeled away.",
+      "Catheter was left in place, which was attached to hub, placed in the subcutaneous pocket, sewn in place with 2-0 silk sutures, and then all hemostasis was further reconfirmed.",
+      "No hemorrhage was identified.",
+      "The port was in appropriate position with fluoroscopic confirmation.",
+      "The wound was closed in 2 layers, the 1st layer being 3-0 Vicryl, the 2nd layer being 4-0 Monocryl subcuticular stitch.",
+      "Dressed with Steri-Strips and 4 x 4's.",
+      "Port was checked.",
+      "Had good blood return, flushed readily with heparinized saline."
+    ],
+    "sentence_count": 12,
+    "original_length": 1070,
+    "cleaned_length": 1057,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE PERFORMED: , Port-A-Cath insertion.,ANESTHESIA: , MAC.,COMPLICATIONS: , None.,ESTIMATED BLOOD LOSS:  ,Minimal.,PROCEDURE IN DETAIL:  ,Patient was prepped and draped in sterile fashion.  The left subclavian vein was cannulated with a wire.  Fluoroscopic confirmation of the wire in appropriate position was performed.  Then catheter was inserted after subcutaneous pocket was created, the sheath dilators were advanced, and the wire and dilator were removed.  Once the catheter was advanced through the sheath, the sheath was peeled away.  Catheter was left in place, which was attached to hub, placed in the subcutaneous pocket, sewn in place with 2-0 silk sutures, and then all hemostasis was further reconfirmed.  No hemorrhage was identified.  The port was in appropriate position with fluoroscopic confirmation.  The wound was closed in 2 layers, the 1st layer being 3-0 Vicryl, the 2nd layer being 4-0 Monocryl subcuticular stitch.  Dressed with Steri-Strips and 4 x 4's.  Port was checked.  Had good blood return, flushed readily with heparinized saline.",
+    "cleaned_text": "PROCEDURE PERFORMED: , Port-A-Cath insertion.,ANESTHESIA: , MAC.,COMPLICATIONS: , None.,ESTIMATED BLOOD LOSS: ,Minimal.,PROCEDURE IN DETAIL: ,Patient was prepped and draped in sterile fashion. The left subclavian vein was cannulated with a wire. Fluoroscopic confirmation of the wire in appropriate position was performed. Then catheter was inserted after subcutaneous pocket was created, the sheath dilators were advanced, and the wire and dilator were removed. Once the catheter was advanced through the sheath, the sheath was peeled away. Catheter was left in place, which was attached to hub, placed in the subcutaneous pocket, sewn in place with 2-0 silk sutures, and then all hemostasis was further reconfirmed. No hemorrhage was identified. The port was in appropriate position with fluoroscopic confirmation. The wound was closed in 2 layers, the 1st layer being 3-0 Vicryl, the 2nd layer being 4-0 Monocryl subcuticular stitch. Dressed with Steri-Strips and 4 x 4's. Port was checked. Had good blood return, flushed readily with heparinized saline.",
+    "sentences": [
+      "PROCEDURE PERFORMED: , Port-A-Cath insertion.,ANESTHESIA: , MAC.,COMPLICATIONS: , None.,ESTIMATED BLOOD LOSS: ,Minimal.,PROCEDURE IN DETAIL: ,Patient was prepped and draped in sterile fashion.",
+      "The left subclavian vein was cannulated with a wire.",
+      "Fluoroscopic confirmation of the wire in appropriate position was performed.",
+      "Then catheter was inserted after subcutaneous pocket was created, the sheath dilators were advanced, and the wire and dilator were removed.",
+      "Once the catheter was advanced through the sheath, the sheath was peeled away.",
+      "Catheter was left in place, which was attached to hub, placed in the subcutaneous pocket, sewn in place with 2-0 silk sutures, and then all hemostasis was further reconfirmed.",
+      "No hemorrhage was identified.",
+      "The port was in appropriate position with fluoroscopic confirmation.",
+      "The wound was closed in 2 layers, the 1st layer being 3-0 Vicryl, the 2nd layer being 4-0 Monocryl subcuticular stitch.",
+      "Dressed with Steri-Strips and 4 x 4's.",
+      "Port was checked.",
+      "Had good blood return, flushed readily with heparinized saline."
+    ],
+    "sentence_count": 12
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_4065__uveitis_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 48,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0302583": 1,
+    "C0026926": 2,
+    "C0025677": 3,
+    "C0596005": 4,
+    "C0019169": 5,
+    "C0376325": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4065__uveitis__graph.pt",
+  "source_dataset": "mtsamples_4065__uveitis"
+}

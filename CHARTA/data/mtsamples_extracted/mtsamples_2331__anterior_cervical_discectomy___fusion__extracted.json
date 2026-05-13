@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2331__anterior_cervical_discectomy___fusion_.txt",
+    "file_name": "mtsamples_2331__anterior_cervical_discectomy___fusion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2954,
+    "processed_at": "2026-05-09T09:54:00.001080"
+  },
+  "entities": [
+    {
+      "text": "spondylotic myelopathy",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 56,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylotic myelopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cord compression",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 78,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cord compression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylotic myelopathy",
+      "label": "DISEASE",
+      "start_char": 140,
+      "end_char": 162,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylotic myelopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cord compression",
+      "label": "DISEASE",
+      "start_char": 168,
+      "end_char": 184,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cord compression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 198,
+      "end_char": 209,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "teeth beneath the bellies of the longus colli muscles",
+      "label": "DISEASE",
+      "start_char": 200,
+      "end_char": 253,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "teeth beneath the bellies of the longus colli muscles",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "titanium",
+      "label": "CHEMICAL",
+      "start_char": 181,
+      "end_char": 189,
+      "sentence_idx": 13,
+      "concept_id": "C0040302",
+      "concept_name": "titanium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9754260182380676,
+      "timestamp": null
+    },
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

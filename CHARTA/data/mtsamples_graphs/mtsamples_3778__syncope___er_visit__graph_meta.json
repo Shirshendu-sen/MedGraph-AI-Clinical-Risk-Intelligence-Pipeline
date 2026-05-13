@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_3778__syncope___er_visit_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 73,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699129": 1,
+    "C0004057": 2,
+    "C0699992": 3,
+    "C0040165": 4,
+    "C0065374": 5,
+    "C0722418": 6,
+    "C0876139": 7,
+    "C2723006": 8,
+    "C0025270": 9,
+    "C1170736": 10,
+    "C0162723": 11
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3778__syncope___er_visit__graph.pt",
+  "source_dataset": "mtsamples_3778__syncope___er_visit"
+}

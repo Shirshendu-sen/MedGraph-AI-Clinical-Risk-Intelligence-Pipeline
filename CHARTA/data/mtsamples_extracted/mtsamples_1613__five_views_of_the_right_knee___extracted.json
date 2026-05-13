@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1613__five_views_of_the_right_knee__.txt",
+    "file_name": "mtsamples_1613__five_views_of_the_right_knee__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 855,
+    "processed_at": "2026-05-09T09:53:46.792044"
+  },
+  "entities": [
+    {
+      "text": "Pain",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 53,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 73,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 146,
+      "end_char": 155,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dislocations",
+      "label": "DISEASE",
+      "start_char": 157,
+      "end_char": 169,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dislocations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subluxations",
+      "label": "DISEASE",
+      "start_char": 174,
+      "end_char": 186,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "patella alta.,IMPRESSION:,1",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 91,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patella alta.,IMPRESSION:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 38,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dislocations",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 52,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dislocations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Growth arrest",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Growth arrest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "patella alta",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 91,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patella alta",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

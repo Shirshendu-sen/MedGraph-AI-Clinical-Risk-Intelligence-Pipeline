@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0562__lymph_node_excisional_biopsy_.txt",
+    "file_name": "mtsamples_0562__lymph_node_excisional_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1648,
+    "processed_at": "2026-05-09T09:53:19.146772"
+  },
+  "entities": [
+    {
+      "text": "triple-negative infiltrating ductal carcinoma of the breast",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 121,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "triple-negative infiltrating ductal carcinoma of the breast",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left axillary adenopathy",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 57,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left axillary adenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

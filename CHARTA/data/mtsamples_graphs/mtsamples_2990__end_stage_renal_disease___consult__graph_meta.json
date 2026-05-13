@@ -1,0 +1,31 @@
+{
+  "patient_id": "mtsamples_2990__end_stage_renal_disease___consult_",
+  "num_entities": 18,
+  "num_visits": 1,
+  "num_edges": 192,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0017887": 1,
+    "C0001963": 2,
+    "C0025859": 3,
+    "C0633084": 4,
+    "C0592076": 5,
+    "C0699992": 6,
+    "C0162712": 7,
+    "C0678181": 8,
+    "C0020223": 9,
+    "C0006681": 10,
+    "C3536832": 11,
+    "C0037473": 12,
+    "C0032821": 13,
+    "C0596019": 14,
+    "C3715099": 15,
+    "C0010294": 16,
+    "C0017725": 17
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2990__end_stage_renal_disease___consult__graph.pt",
+  "source_dataset": "mtsamples_2990__end_stage_renal_disease___consult"
+}

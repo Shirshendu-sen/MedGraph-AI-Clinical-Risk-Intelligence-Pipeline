@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1610__intensity_modulated_radiation_therapy_.txt",
+    "file_name": "mtsamples_1610__intensity_modulated_radiation_therapy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1639,
+    "processed_at": "2026-05-09T09:53:46.223982"
+  },
+  "entities": [
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 88,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0482__orif__closed_reduction__screw_fixation__etc__",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008947": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0482__orif__closed_reduction__screw_fixation__etc___graph.pt",
+  "source_dataset": "mtsamples_0482__orif__closed_reduction__screw_fixation__etc_"
+}

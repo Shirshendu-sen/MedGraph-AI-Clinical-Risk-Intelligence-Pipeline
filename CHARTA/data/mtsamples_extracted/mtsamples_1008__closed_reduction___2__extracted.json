@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1008__closed_reduction___2_.txt",
+    "file_name": "mtsamples_1008__closed_reduction___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1554,
+    "processed_at": "2026-05-09T09:53:31.129046"
+  },
+  "entities": [
+    {
+      "text": "both-bone forearm fracture",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 74,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "both-bone forearm fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-26"
+    },
+    {
+      "text": "angulation",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 36,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "angulation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-26"
+    },
+    {
+      "text": "propofol",
+      "label": "CHEMICAL",
+      "start_char": 128,
+      "end_char": 136,
+      "sentence_idx": 4,
+      "concept_id": "C0033487",
+      "concept_name": "propofol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9385934472084045,
+      "timestamp": "2008-07-26"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 171,
+      "end_char": 179,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-26"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-26"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 162,
+      "end_char": 170,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-26"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "07/26/2008",
+      "start_char": 286,
+      "end_char": 296
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0738__heart_catheterization__ventriculography____angiography___1_.txt",
+    "file_name": "mtsamples_0738__heart_catheterization__ventriculography____angiography___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3484,
+    "processed_at": "2026-05-09T09:53:24.329652"
+  },
+  "entities": [
+    {
+      "text": "troponin-positive myocardial infarction",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 76,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "troponin-positive myocardial infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right groin",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right groin",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 73,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 18,
+      "sentence_idx": 5,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": null
+    },
+    {
+      "text": "Nitroglycerin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 9,
+      "concept_id": "C0017887",
+      "concept_name": "nitroglycerin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9811209440231323,
+      "timestamp": null
+    },
+    {
+      "text": "Nitroglycerin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 12,
+      "concept_id": "C0017887",
+      "concept_name": "nitroglycerin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9811209440231323,
+      "timestamp": null
+    },
+    {
+      "text": "ReoPro",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 15,
+      "concept_id": "C0592046",
+      "concept_name": "ReoPro",
+      "kb_source": "rxnorm",
+      "link_score": 0.9569587707519531,
+      "timestamp": null
+    },
+    {
+      "text": "ReoPro",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 16,
+      "concept_id": "C0592046",
+      "concept_name": "ReoPro",
+      "kb_source": "rxnorm",
+      "link_score": 0.9569587707519531,
+      "timestamp": null
+    },
+    {
+      "text": "Plavix",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 23,
+      "concept_id": "C0633084",
+      "concept_name": "Plavix",
+      "kb_source": "rxnorm",
+      "link_score": 0.9820790886878967,
+      "timestamp": null
+    },
+    {
+      "text": "MR",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 16,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "MR",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 25,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Triple-vessel coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 37,
+      "sentence_idx": 44,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Triple-vessel coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Plavix",
+      "label": "CHEMICAL",
+      "start_char": 110,
+      "end_char": 116,
+      "sentence_idx": 45,
+      "concept_id": "C0633084",
+      "concept_name": "Plavix",
+      "kb_source": "rxnorm",
+      "link_score": 0.9820790886878967,
+      "timestamp": null
+    },
+    {
+      "text": "Zocor",
+      "label": "CHEMICAL",
+      "start_char": 15,
+      "end_char": 20,
+      "sentence_idx": 46,
+      "concept_id": "C0678181",
+      "concept_name": "Zocor",
+      "kb_source": "rxnorm",
+      "link_score": 0.9880419373512268,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

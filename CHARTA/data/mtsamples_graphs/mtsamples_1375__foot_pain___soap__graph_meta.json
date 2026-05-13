@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1375__foot_pain___soap_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    "2004-05-14"
+  ],
+  "graph_file": "mtsamples_1375__foot_pain___soap__graph.pt",
+  "source_dataset": "mtsamples_1375__foot_pain___soap"
+}

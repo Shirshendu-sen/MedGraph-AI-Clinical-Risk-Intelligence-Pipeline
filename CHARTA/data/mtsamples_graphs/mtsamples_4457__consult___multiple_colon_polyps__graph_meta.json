@@ -1,0 +1,29 @@
+{
+  "patient_id": "mtsamples_4457__consult___multiple_colon_polyps_",
+  "num_entities": 16,
+  "num_visits": 1,
+  "num_edges": 168,
+  "entity_index": {
+    "C0040610": 0,
+    "C0020264": 1,
+    "C0078839": 2,
+    "C0040869": 3,
+    "C0004147": 4,
+    "C0042866": 5,
+    "C0723893": 6,
+    "C0074554": 7,
+    "C0020740": 8,
+    "UNKNOWN": 9,
+    "C1570232": 10,
+    "C0376325": 11,
+    "C0001963": 12,
+    "C0026926": 13,
+    "C0019169": 14,
+    "C0004749": 15
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4457__consult___multiple_colon_polyps__graph.pt",
+  "source_dataset": "mtsamples_4457__consult___multiple_colon_polyps"
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2003__ulnar_nerve_decompression_.txt",
+    "file_name": "mtsamples_2003__ulnar_nerve_decompression_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2689,
+    "processed_at": "2026-05-09T09:53:54.443621"
+  },
+  "entities": [
+    {
+      "text": "cubital tunnel syndrome",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 54,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cubital tunnel syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cubital tunnel syndrome",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 138,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cubital tunnel syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subluxation",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 40,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

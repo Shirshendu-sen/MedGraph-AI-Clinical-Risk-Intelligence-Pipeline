@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3607__colonoscopy___9_.txt",
+    "file_name": "mtsamples_3607__colonoscopy___9_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2088,
+    "processed_at": "2026-05-09T09:54:25.037677"
+  },
+  "entities": [
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 127,
+      "end_char": 132,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Demerol",
+      "label": "CHEMICAL",
+      "start_char": 178,
+      "end_char": 185,
+      "sentence_idx": 0,
+      "concept_id": "C0935966",
+      "concept_name": "Demerol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9676215052604675,
+      "timestamp": null
+    },
+    {
+      "text": "Prostate",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 82,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticula",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 22,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyps",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 34,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 47,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sigmoid colon",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 27,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sigmoid colon",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Diverticulosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diverticulosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neoplasm",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neoplasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

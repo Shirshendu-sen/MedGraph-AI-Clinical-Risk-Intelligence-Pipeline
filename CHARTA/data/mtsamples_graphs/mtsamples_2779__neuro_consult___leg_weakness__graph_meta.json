@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_2779__neuro_consult___leg_weakness_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 73,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0593906": 2,
+    "C1170736": 3,
+    "C0017725": 4,
+    "C0051696": 5,
+    "C0719949": 6,
+    "C0020261": 7,
+    "C1161310": 8,
+    "C0004057": 9
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2779__neuro_consult___leg_weakness__graph.pt",
+  "source_dataset": "mtsamples_2779__neuro_consult___leg_weakness"
+}

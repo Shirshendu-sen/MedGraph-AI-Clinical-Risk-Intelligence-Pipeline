@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4959__autopsy___4_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 70,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0001962": 1,
+    "C0043047": 2
+  },
+  "visit_dates": [
+    "1996-12-26"
+  ],
+  "graph_file": "mtsamples_4959__autopsy___4__graph.pt",
+  "source_dataset": "mtsamples_4959__autopsy___4"
+}

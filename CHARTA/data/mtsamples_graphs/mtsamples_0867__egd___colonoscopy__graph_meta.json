@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_0867__egd___colonoscopy_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 26,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0935966": 1,
+    "C3536832": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0867__egd___colonoscopy__graph.pt",
+  "source_dataset": "mtsamples_0867__egd___colonoscopy"
+}

@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2944__arnold_chiari_ii_with_syrinx_.txt",
+    "file_name": "mtsamples_2944__arnold_chiari_ii_with_syrinx_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1587,
+    "processed_at": "2026-05-09T09:54:11.092173"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-09-29"
+    },
+    {
+      "text": "numbness.,HX",
+      "label": "CHEMICAL",
+      "start_char": 17,
+      "end_char": 29,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness.,HX",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-09-29"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 112,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-29"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 136,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1992-09-29"
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 178,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-29"
+    },
+    {
+      "text": "Left ptosis repair",
+      "label": "DISEASE",
+      "start_char": 228,
+      "end_char": 246,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left ptosis repair",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-29"
+    },
+    {
+      "text": "stature",
+      "label": "DISEASE",
+      "start_char": 453,
+      "end_char": 460,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stature",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-29"
+    },
+    {
+      "text": "Left ptosis",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 35,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left ptosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-29"
+    },
+    {
+      "text": "hypesthesia",
+      "label": "DISEASE",
+      "start_char": 140,
+      "end_char": 151,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypesthesia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-29"
+    },
+    {
+      "text": "Babinski",
+      "label": "DISEASE",
+      "start_char": 253,
+      "end_char": 261,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Babinski",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-29"
+    },
+    {
+      "text": "Arnold Chiari II",
+      "label": "DISEASE",
+      "start_char": 349,
+      "end_char": 365,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Arnold Chiari II",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-29"
+    },
+    {
+      "text": "compression of ventral pontomedullary junction",
+      "label": "DISEASE",
+      "start_char": 415,
+      "end_char": 461,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "compression of ventral pontomedullary junction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-29"
+    },
+    {
+      "text": "spastic gait",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 54,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spastic gait",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-29"
+    },
+    {
+      "text": "hyperreflexia",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 91,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperreflexia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-29"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "9/29/92",
+      "start_char": 1271,
+      "end_char": 1278
+    },
+    {
+      "raw_text": "6/18/93",
+      "start_char": 1312,
+      "end_char": 1319
+    },
+    {
+      "raw_text": "4/8/94",
+      "start_char": 1390,
+      "end_char": 1396
+    }
+  ]
+}

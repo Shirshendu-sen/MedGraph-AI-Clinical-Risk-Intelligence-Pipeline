@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4686__pacemaker__single_chamber__.txt",
+    "file_name": "mtsamples_4686__pacemaker__single_chamber__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3919,
+    "processed_at": "2026-05-09T09:54:43.349084"
+  },
+  "entities": [
+    {
+      "text": "AV dissociation",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 105,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AV dissociation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Benadryl",
+      "label": "CHEMICAL",
+      "start_char": 129,
+      "end_char": 137,
+      "sentence_idx": 7,
+      "concept_id": "C0700899",
+      "concept_name": "Benadryl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9881684184074402,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 103,
+      "end_char": 112,
+      "sentence_idx": 10,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "asystole",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 25,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "asystole",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 77,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "asystole",
+      "label": "DISEASE",
+      "start_char": 274,
+      "end_char": 282,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "asystole",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

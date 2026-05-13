@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0317__subperiosteal_abscess_debridement_.txt",
+    "file_name": "mtsamples_0317__subperiosteal_abscess_debridement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2459,
+    "processed_at": "2026-05-09T09:53:12.304025"
+  },
+  "entities": [
+    {
+      "text": "burns",
+      "label": "DISEASE",
+      "start_char": 419,
+      "end_char": 424,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "burns",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 459,
+      "end_char": 466,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "purulence",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 43,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "purulence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subperiosteal abscess",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 48,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subperiosteal abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 72,
+      "sentence_idx": 14,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 59,
+      "sentence_idx": 16,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 50,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

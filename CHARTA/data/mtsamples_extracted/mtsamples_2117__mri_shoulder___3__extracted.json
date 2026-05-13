@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2117__mri_shoulder___3_.txt",
+    "file_name": "mtsamples_2117__mri_shoulder___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1801,
+    "processed_at": "2026-05-09T09:53:56.710365"
+  },
+  "entities": [
+    {
+      "text": "subluxation",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 23,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-02-16"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 159,
+      "end_char": 167,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-02-16"
+    },
+    {
+      "text": "acromiale",
+      "label": "DISEASE",
+      "start_char": 166,
+      "end_char": 175,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acromiale",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-02-16"
+    },
+    {
+      "text": "reactive marrow edema",
+      "label": "DISEASE",
+      "start_char": 198,
+      "end_char": 219,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "reactive marrow edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-02-16"
+    },
+    {
+      "text": "acromiale",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 78,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acromiale",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-02-16"
+    },
+    {
+      "text": "acromiale",
+      "label": "DISEASE",
+      "start_char": 420,
+      "end_char": 429,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acromiale",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-02-16"
+    },
+    {
+      "text": "reactive marrow edema",
+      "label": "DISEASE",
+      "start_char": 444,
+      "end_char": 465,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "reactive marrow edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-02-16"
+    },
+    {
+      "text": "acromiale",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 83,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acromiale",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-02-16"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "02/16/06",
+      "start_char": 157,
+      "end_char": 165
+    }
+  ]
+}

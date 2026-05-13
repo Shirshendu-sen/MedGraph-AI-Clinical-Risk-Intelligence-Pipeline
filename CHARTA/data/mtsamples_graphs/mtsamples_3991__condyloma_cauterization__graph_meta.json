@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_3991__condyloma_cauterization_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 28,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0000983": 2,
+    "C0023660": 3,
+    "C0483514": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3991__condyloma_cauterization__graph.pt",
+  "source_dataset": "mtsamples_3991__condyloma_cauterization"
+}

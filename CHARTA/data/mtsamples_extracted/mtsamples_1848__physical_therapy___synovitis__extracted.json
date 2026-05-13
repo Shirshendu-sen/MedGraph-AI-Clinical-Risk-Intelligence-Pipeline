@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1848__physical_therapy___synovitis_.txt",
+    "file_name": "mtsamples_1848__physical_therapy___synovitis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4140,
+    "processed_at": "2026-05-09T09:53:51.756185"
+  },
+  "entities": [
+    {
+      "text": "left knee pain",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 183,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "knee brace",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 28,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee brace",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "knee degenerative",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 96,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee degenerative",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 49,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "Pain",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 69,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 26,
+      "sentence_idx": 12,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "knee brace",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 14,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee brace",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "knee brace",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 129,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee brace",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 235,
+      "end_char": 239,
+      "sentence_idx": 15,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 27,
+      "sentence_idx": 17,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "knee joints",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 76,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee joints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 62,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "BE",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 54,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 32,
+      "sentence_idx": 27,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "Pain",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 50,
+      "sentence_idx": 27,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 117,
+      "sentence_idx": 28,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "BE",
+      "label": "CHEMICAL",
+      "start_char": 118,
+      "end_char": 120,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 82,
+      "sentence_idx": 33,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-10-02"
+    },
+    {
+      "text": "Prognosis",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 138,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prognosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-02"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/02/08",
+      "start_char": 212,
+      "end_char": 220
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_3081__hospice_visit___chf_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 60,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0719509": 2,
+    "C0065374": 3,
+    "C0012265": 4,
+    "C0699992": 5,
+    "C0699142": 6,
+    "C0723045": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3081__hospice_visit___chf__graph.pt",
+  "source_dataset": "mtsamples_3081__hospice_visit___chf"
+}

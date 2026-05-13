@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0468__pacemaker_insertion_.txt",
+    "file_name": "mtsamples_0468__pacemaker_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 974,
+    "processed_at": "2026-05-09T09:53:16.839981"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0468__pacemaker_insertion_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS:, Tachybrady syndrome.,POSTOPERATIVE DIAGNOSIS:, Tachybrady syndrome.,OPERATIVE PROCEDURE:, Insertion of transvenous pacemaker.,ANESTHESIA:, Local,PROCEDURE AND GROSS FINDINGS:, The patient's chest was prepped with Betadine solution and a small amount of Lidocaine infiltrated.  In the left subclavian region, a subclavian stick was performed without difficulty, and a wire was inserted. Fluoroscopy confirmed the presence of the wire in the superior vena cava.  An introducer was then placed over the wire.  The wire was removed and replace by a ventricular lead that was seated under Fluoroscopy. Following calibration, the lead was attached to a pacemaker generator that was inserted in a subcutaneous pocket in the left subclavian area.  ,The subcutaneous tissues were irrigated and closed with Interrupted 4-O Vicryl, and the skin was closed with staples.  Sterile dressings were placed, and the patient was returned to the ICU in good condition.",
+    "char_count": 974,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS:, Tachybrady syndrome.,POSTOPERATIVE DIAGNOSIS:, Tachybrady syndrome.,OPERATIVE PROCEDURE:, Insertion of transvenous pacemaker.,ANESTHESIA:, Local,PROCEDURE AND GROSS FINDINGS:, The patient's chest was prepped with Betadine solution and a small amount of Lidocaine infiltrated. In the left subclavian region, a subclavian stick was performed without difficulty, and a wire was inserted. Fluoroscopy confirmed the presence of the wire in the superior vena cava. An introducer was then placed over the wire. The wire was removed and replace by a ventricular lead that was seated under Fluoroscopy. Following calibration, the lead was attached to a pacemaker generator that was inserted in a subcutaneous pocket in the left subclavian area. ,The subcutaneous tissues were irrigated and closed with Interrupted 4-O Vicryl, and the skin was closed with staples. Sterile dressings were placed, and the patient was returned to the ICU in good condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS:, Tachybrady syndrome.,POSTOPERATIVE DIAGNOSIS:, Tachybrady syndrome.,OPERATIVE PROCEDURE:, Insertion of transvenous pacemaker.,ANESTHESIA:, Local,PROCEDURE AND GROSS FINDINGS:, The patient's chest was prepped with Betadine solution and a small amount of Lidocaine infiltrated.",
+      "In the left subclavian region, a subclavian stick was performed without difficulty, and a wire was inserted.",
+      "Fluoroscopy confirmed the presence of the wire in the superior vena cava.",
+      "An introducer was then placed over the wire.",
+      "The wire was removed and replace by a ventricular lead that was seated under Fluoroscopy.",
+      "Following calibration, the lead was attached to a pacemaker generator that was inserted in a subcutaneous pocket in the left subclavian area. ,The subcutaneous tissues were irrigated and closed with Interrupted 4-O Vicryl, and the skin was closed with staples.",
+      "Sterile dressings were placed, and the patient was returned to the ICU in good condition."
+    ],
+    "sentence_count": 7,
+    "original_length": 974,
+    "cleaned_length": 969,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS:, Tachybrady syndrome.,POSTOPERATIVE DIAGNOSIS:, Tachybrady syndrome.,OPERATIVE PROCEDURE:, Insertion of transvenous pacemaker.,ANESTHESIA:, Local,PROCEDURE AND GROSS FINDINGS:, The patient's chest was prepped with Betadine solution and a small amount of Lidocaine infiltrated.  In the left subclavian region, a subclavian stick was performed without difficulty, and a wire was inserted. Fluoroscopy confirmed the presence of the wire in the superior vena cava.  An introducer was then placed over the wire.  The wire was removed and replace by a ventricular lead that was seated under Fluoroscopy. Following calibration, the lead was attached to a pacemaker generator that was inserted in a subcutaneous pocket in the left subclavian area.  ,The subcutaneous tissues were irrigated and closed with Interrupted 4-O Vicryl, and the skin was closed with staples.  Sterile dressings were placed, and the patient was returned to the ICU in good condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS:, Tachybrady syndrome.,POSTOPERATIVE DIAGNOSIS:, Tachybrady syndrome.,OPERATIVE PROCEDURE:, Insertion of transvenous pacemaker.,ANESTHESIA:, Local,PROCEDURE AND GROSS FINDINGS:, The patient's chest was prepped with Betadine solution and a small amount of Lidocaine infiltrated. In the left subclavian region, a subclavian stick was performed without difficulty, and a wire was inserted. Fluoroscopy confirmed the presence of the wire in the superior vena cava. An introducer was then placed over the wire. The wire was removed and replace by a ventricular lead that was seated under Fluoroscopy. Following calibration, the lead was attached to a pacemaker generator that was inserted in a subcutaneous pocket in the left subclavian area. ,The subcutaneous tissues were irrigated and closed with Interrupted 4-O Vicryl, and the skin was closed with staples. Sterile dressings were placed, and the patient was returned to the ICU in good condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS:, Tachybrady syndrome.,POSTOPERATIVE DIAGNOSIS:, Tachybrady syndrome.,OPERATIVE PROCEDURE:, Insertion of transvenous pacemaker.,ANESTHESIA:, Local,PROCEDURE AND GROSS FINDINGS:, The patient's chest was prepped with Betadine solution and a small amount of Lidocaine infiltrated.",
+      "In the left subclavian region, a subclavian stick was performed without difficulty, and a wire was inserted.",
+      "Fluoroscopy confirmed the presence of the wire in the superior vena cava.",
+      "An introducer was then placed over the wire.",
+      "The wire was removed and replace by a ventricular lead that was seated under Fluoroscopy.",
+      "Following calibration, the lead was attached to a pacemaker generator that was inserted in a subcutaneous pocket in the left subclavian area. ,The subcutaneous tissues were irrigated and closed with Interrupted 4-O Vicryl, and the skin was closed with staples.",
+      "Sterile dressings were placed, and the patient was returned to the ICU in good condition."
+    ],
+    "sentence_count": 7
+  }
+}

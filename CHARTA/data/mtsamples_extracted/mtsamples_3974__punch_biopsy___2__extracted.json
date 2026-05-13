@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3974__punch_biopsy___2_.txt",
+    "file_name": "mtsamples_3974__punch_biopsy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1057,
+    "processed_at": "2026-05-09T09:54:31.207844"
+  },
+  "entities": [
+    {
+      "text": "skin lesion",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "skin lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "skin lesion",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 106,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "skin lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "squamous cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 98,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "squamous cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

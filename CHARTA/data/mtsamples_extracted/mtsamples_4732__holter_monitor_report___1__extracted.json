@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4732__holter_monitor_report___1_.txt",
+    "file_name": "mtsamples_4732__holter_monitor_report___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 370,
+    "processed_at": "2026-05-09T09:54:43.954748"
+  },
+  "entities": [
+    {
+      "text": "ventricular ectopic",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 66,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ventricular ectopic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "supraventricular couplets.,One supraventricular triplet reported.,Triplet",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 96,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraventricular couplets.,One supraventricular triplet reported.,Triplet",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

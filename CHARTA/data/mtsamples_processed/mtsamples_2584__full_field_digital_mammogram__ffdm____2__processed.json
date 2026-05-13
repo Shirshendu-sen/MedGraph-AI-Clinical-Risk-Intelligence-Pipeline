@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2584__full_field_digital_mammogram__ffdm____2_.txt",
+    "file_name": "mtsamples_2584__full_field_digital_mammogram__ffdm____2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1865,
+    "processed_at": "2026-05-09T09:54:04.729937"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2584__full_field_digital_mammogram__ffdm____2_.txt",
+    "text": "EXAM: , Screening full-field digital mammogram.,HISTORY:,  Screening examination of a 58-year-old female who currently denies complaints.  Patient has had diagnosis of right breast cancer in 1984 with subsequent radiation therapy.  The patient's sister was also diagnosed with breast cancer at the age of 59.,TECHNIQUE: , Standard digital mammographic imaging was performed.  The examination was performed with iCAD Second Look Version 7.2.,COMPARISON: , Most recently obtained __________.,FINDINGS: , The right breast is again smaller than the left.  There is a scar marker with underlying skin thickening and retraction along the upper margin of the right breast.  The breasts are again composed of a mixture of adipose tissue and a moderate amount of heterogeneously-dense fibroglandular tissue.  There is again some coarsening of the right breast parenchyma with architectural distortion which is unchanged and most consistent with postsurgical and postradiation changes.  A few benign-appearing microcalcifications are present.,No dominant malignant-appearing mass lesion, developing area of architectural distortion or suspicious-appearing cluster of microcalcifications are identified.  The skin is stable.  No enlarged axillary lymph node is seen.,IMPRESSION:,1.  No significant interval changes are seen.  No mammographic evidence of malignancy is identified.,2.  Annual screening mammography is recommended or sooner if clinical symptoms warrant.,BIRADS Classification 2 - Benign,MAMMOGRAPHY INFORMATION:,1.  A certain percentage of cancers, probably 10% to 15%, will not be identified by mammography.,2.  Lack of radiographic evidence of malignancy should not delay a biopsy if a clinically suspicious mass is present.,3.  These images were obtained with FDA-approved digital mammography equipment, and iCAD Second Look Software Version 7.2 was utilized.",
+    "char_count": 1865,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , Screening full-field digital mammogram.,HISTORY:, Screening examination of a 58-year-old female who currently denies complaints. Patient has had diagnosis of right breast cancer in 1984 with subsequent radiation therapy. The patient's sister was also diagnosed with breast cancer at the age of 59.,TECHNIQUE: , Standard digital mammographic imaging was performed. The examination was performed with iCAD Second Look Version 7.2.,COMPARISON: , Most recently obtained __________.,FINDINGS: , The right breast is again smaller than the left. There is a scar marker with underlying skin thickening and retraction along the upper margin of the right breast. The breasts are again composed of a mixture of adipose tissue and a moderate amount of heterogeneously-dense fibroglandular tissue. There is again some coarsening of the right breast parenchyma with architectural distortion which is unchanged and most consistent with postsurgical and postradiation changes. A few benign-appearing microcalcifications are present.,No dominant malignant-appearing mass lesion, developing area of architectural distortion or suspicious-appearing cluster of microcalcifications are identified. The skin is stable. No enlarged axillary lymph node is seen.,IMPRESSION:,1. No significant interval changes are seen. No mammographic evidence of malignancy is identified.,2. Annual screening mammography is recommended or sooner if clinical symptoms warrant.,BIRADS Classification 2 - Benign,MAMMOGRAPHY INFORMATION:,1. A certain percentage of cancers, probably 10% to 15%, will not be identified by mammography.,2. Lack of radiographic evidence of malignancy should not delay a biopsy if a clinically suspicious mass is present.,3. These images were obtained with FDA-approved digital mammography equipment, and iCAD Second Look Software Version 7.2 was utilized.",
+    "sentences": [
+      "EXAM: , Screening full-field digital mammogram.,HISTORY:, Screening examination of a 58-year-old female who currently denies complaints.",
+      "Patient has had diagnosis of right breast cancer in 1984 with subsequent radiation therapy.",
+      "The patient's sister was also diagnosed with breast cancer at the age of 59.,TECHNIQUE: , Standard digital mammographic imaging was performed.",
+      "The examination was performed with iCAD Second Look Version 7.2.,COMPARISON: , Most recently obtained __________.,FINDINGS: , The right breast is again smaller than the left.",
+      "There is a scar marker with underlying skin thickening and retraction along the upper margin of the right breast.",
+      "The breasts are again composed of a mixture of adipose tissue and a moderate amount of heterogeneously-dense fibroglandular tissue.",
+      "There is again some coarsening of the right breast parenchyma with architectural distortion which is unchanged and most consistent with postsurgical and postradiation changes.",
+      "A few benign-appearing microcalcifications are present.,No dominant malignant-appearing mass lesion, developing area of architectural distortion or suspicious-appearing cluster of microcalcifications are identified.",
+      "The skin is stable.",
+      "No enlarged axillary lymph node is seen.,IMPRESSION:,1.",
+      "No significant interval changes are seen.",
+      "No mammographic evidence of malignancy is identified.,2.",
+      "Annual screening mammography is recommended or sooner if clinical symptoms warrant.,BIRADS Classification 2 - Benign,MAMMOGRAPHY INFORMATION:,1.",
+      "A certain percentage of cancers, probably 10% to 15%, will not be identified by mammography.,2.",
+      "Lack of radiographic evidence of malignancy should not delay a biopsy if a clinically suspicious mass is present.,3.",
+      "These images were obtained with FDA-approved digital mammography equipment, and iCAD Second Look Software Version 7.2 was utilized."
+    ],
+    "sentence_count": 16,
+    "original_length": 1865,
+    "cleaned_length": 1849,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , Screening full-field digital mammogram.,HISTORY:,  Screening examination of a 58-year-old female who currently denies complaints.  Patient has had diagnosis of right breast cancer in 1984 with subsequent radiation therapy.  The patient's sister was also diagnosed with breast cancer at the age of 59.,TECHNIQUE: , Standard digital mammographic imaging was performed.  The examination was performed with iCAD Second Look Version 7.2.,COMPARISON: , Most recently obtained __________.,FINDINGS: , The right breast is again smaller than the left.  There is a scar marker with underlying skin thickening and retraction along the upper margin of the right breast.  The breasts are again composed of a mixture of adipose tissue and a moderate amount of heterogeneously-dense fibroglandular tissue.  There is again some coarsening of the right breast parenchyma with architectural distortion which is unchanged and most consistent with postsurgical and postradiation changes.  A few benign-appearing microcalcifications are present.,No dominant malignant-appearing mass lesion, developing area of architectural distortion or suspicious-appearing cluster of microcalcifications are identified.  The skin is stable.  No enlarged axillary lymph node is seen.,IMPRESSION:,1.  No significant interval changes are seen.  No mammographic evidence of malignancy is identified.,2.  Annual screening mammography is recommended or sooner if clinical symptoms warrant.,BIRADS Classification 2 - Benign,MAMMOGRAPHY INFORMATION:,1.  A certain percentage of cancers, probably 10% to 15%, will not be identified by mammography.,2.  Lack of radiographic evidence of malignancy should not delay a biopsy if a clinically suspicious mass is present.,3.  These images were obtained with FDA-approved digital mammography equipment, and iCAD Second Look Software Version 7.2 was utilized.",
+    "cleaned_text": "EXAM: , Screening full-field digital mammogram.,HISTORY:, Screening examination of a 58-year-old female who currently denies complaints. Patient has had diagnosis of right breast cancer in 1984 with subsequent radiation therapy. The patient's sister was also diagnosed with breast cancer at the age of 59.,TECHNIQUE: , Standard digital mammographic imaging was performed. The examination was performed with iCAD Second Look Version 7.2.,COMPARISON: , Most recently obtained __________.,FINDINGS: , The right breast is again smaller than the left. There is a scar marker with underlying skin thickening and retraction along the upper margin of the right breast. The breasts are again composed of a mixture of adipose tissue and a moderate amount of heterogeneously-dense fibroglandular tissue. There is again some coarsening of the right breast parenchyma with architectural distortion which is unchanged and most consistent with postsurgical and postradiation changes. A few benign-appearing microcalcifications are present.,No dominant malignant-appearing mass lesion, developing area of architectural distortion or suspicious-appearing cluster of microcalcifications are identified. The skin is stable. No enlarged axillary lymph node is seen.,IMPRESSION:,1. No significant interval changes are seen. No mammographic evidence of malignancy is identified.,2. Annual screening mammography is recommended or sooner if clinical symptoms warrant.,BIRADS Classification 2 - Benign,MAMMOGRAPHY INFORMATION:,1. A certain percentage of cancers, probably 10% to 15%, will not be identified by mammography.,2. Lack of radiographic evidence of malignancy should not delay a biopsy if a clinically suspicious mass is present.,3. These images were obtained with FDA-approved digital mammography equipment, and iCAD Second Look Software Version 7.2 was utilized.",
+    "sentences": [
+      "EXAM: , Screening full-field digital mammogram.,HISTORY:, Screening examination of a 58-year-old female who currently denies complaints.",
+      "Patient has had diagnosis of right breast cancer in 1984 with subsequent radiation therapy.",
+      "The patient's sister was also diagnosed with breast cancer at the age of 59.,TECHNIQUE: , Standard digital mammographic imaging was performed.",
+      "The examination was performed with iCAD Second Look Version 7.2.,COMPARISON: , Most recently obtained __________.,FINDINGS: , The right breast is again smaller than the left.",
+      "There is a scar marker with underlying skin thickening and retraction along the upper margin of the right breast.",
+      "The breasts are again composed of a mixture of adipose tissue and a moderate amount of heterogeneously-dense fibroglandular tissue.",
+      "There is again some coarsening of the right breast parenchyma with architectural distortion which is unchanged and most consistent with postsurgical and postradiation changes.",
+      "A few benign-appearing microcalcifications are present.,No dominant malignant-appearing mass lesion, developing area of architectural distortion or suspicious-appearing cluster of microcalcifications are identified.",
+      "The skin is stable.",
+      "No enlarged axillary lymph node is seen.,IMPRESSION:,1.",
+      "No significant interval changes are seen.",
+      "No mammographic evidence of malignancy is identified.,2.",
+      "Annual screening mammography is recommended or sooner if clinical symptoms warrant.,BIRADS Classification 2 - Benign,MAMMOGRAPHY INFORMATION:,1.",
+      "A certain percentage of cancers, probably 10% to 15%, will not be identified by mammography.,2.",
+      "Lack of radiographic evidence of malignancy should not delay a biopsy if a clinically suspicious mass is present.,3.",
+      "These images were obtained with FDA-approved digital mammography equipment, and iCAD Second Look Software Version 7.2 was utilized."
+    ],
+    "sentence_count": 16
+  }
+}

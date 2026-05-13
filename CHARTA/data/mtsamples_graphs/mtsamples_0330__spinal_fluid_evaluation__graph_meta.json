@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_0330__spinal_fluid_evaluation_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 89,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0037473": 1,
+    "C0032821": 2,
+    "C0596019": 3,
+    "C0010294": 4,
+    "C0017725": 5,
+    "C0004749": 6,
+    "C0002680": 7,
+    "C0007554": 8,
+    "C0023660": 9
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0330__spinal_fluid_evaluation__graph.pt",
+  "source_dataset": "mtsamples_0330__spinal_fluid_evaluation"
+}

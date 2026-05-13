@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1572__mri_cervical_spine___2_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 6,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1572__mri_cervical_spine___2__graph.pt",
+  "source_dataset": "mtsamples_1572__mri_cervical_spine___2"
+}

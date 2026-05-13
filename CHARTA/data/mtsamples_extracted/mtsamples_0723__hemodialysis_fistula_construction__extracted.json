@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0723__hemodialysis_fistula_construction_.txt",
+    "file_name": "mtsamples_0723__hemodialysis_fistula_construction_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2435,
+    "processed_at": "2026-05-09T09:53:23.313112"
+  },
+  "entities": [
+    {
+      "text": "End-stage renal disease",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 49,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "End-stage renal disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "End-stage renal disease",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 134,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "End-stage renal disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 227,
+      "end_char": 234,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 119,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 79,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vein fistula",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 111,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vein fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 20,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 54,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 52,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0596__lipectomy___abdomen_thighs_.txt",
+    "file_name": "mtsamples_0596__lipectomy___abdomen_thighs_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1523,
+    "processed_at": "2026-05-09T09:53:20.321852"
+  },
+  "entities": [
+    {
+      "text": "Lipodystrophy of the abdomen",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 54,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lipodystrophy of the abdomen",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lipodystrophy of the abdomen",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 121,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lipodystrophy of the abdomen",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pubic",
+      "label": "CHEMICAL",
+      "start_char": 103,
+      "end_char": 108,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pubic",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

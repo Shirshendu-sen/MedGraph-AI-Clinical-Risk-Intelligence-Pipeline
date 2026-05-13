@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3335__gen_med_consult___28_.txt",
+    "file_name": "mtsamples_3335__gen_med_consult___28_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1166,
+    "processed_at": "2026-05-09T09:54:20.007625"
+  },
+  "entities": [
+    {
+      "text": "injuries of the face and",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 97,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injuries of the face and",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "decreased consciousness",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 122,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "decreased consciousness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xanax",
+      "label": "CHEMICAL",
+      "start_char": 71,
+      "end_char": 76,
+      "sentence_idx": 5,
+      "concept_id": "C0699034",
+      "concept_name": "Xanax",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874747395515442,
+      "timestamp": null
+    },
+    {
+      "text": "Xanax",
+      "label": "CHEMICAL",
+      "start_char": 101,
+      "end_char": 106,
+      "sentence_idx": 5,
+      "concept_id": "C0699034",
+      "concept_name": "Xanax",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874747395515442,
+      "timestamp": null
+    },
+    {
+      "text": "Sinemet",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 40,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Sinemet",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Parkinson",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 125,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Parkinson",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Requip",
+      "label": "CHEMICAL",
+      "start_char": 149,
+      "end_char": 155,
+      "sentence_idx": 7,
+      "concept_id": "C0593342",
+      "concept_name": "Requip",
+      "kb_source": "rxnorm",
+      "link_score": 0.9597229361534119,
+      "timestamp": null
+    },
+    {
+      "text": "Neurontin",
+      "label": "CHEMICAL",
+      "start_char": 157,
+      "end_char": 166,
+      "sentence_idx": 7,
+      "concept_id": "C0678176",
+      "concept_name": "Neurontin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9693526029586792,
+      "timestamp": null
+    },
+    {
+      "text": "Sinemet",
+      "label": "CHEMICAL",
+      "start_char": 168,
+      "end_char": 175,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Sinemet",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ambien",
+      "label": "CHEMICAL",
+      "start_char": 177,
+      "end_char": 183,
+      "sentence_idx": 7,
+      "concept_id": "C0487782",
+      "concept_name": "Ambien",
+      "kb_source": "rxnorm",
+      "link_score": 0.9719052314758301,
+      "timestamp": null
+    },
+    {
+      "text": "drug allergies.,SOCIAL",
+      "label": "DISEASE",
+      "start_char": 218,
+      "end_char": 240,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "drug allergies.,SOCIAL",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

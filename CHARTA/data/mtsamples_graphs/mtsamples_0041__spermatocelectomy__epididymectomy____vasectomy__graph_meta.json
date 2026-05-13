@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_0041__spermatocelectomy__epididymectomy____vasectomy_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 25,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0004599": 1,
+    "C0013090": 2,
+    "C0483514": 3,
+    "C0030346": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0041__spermatocelectomy__epididymectomy____vasectomy__graph.pt",
+  "source_dataset": "mtsamples_0041__spermatocelectomy__epididymectomy____vasectomy"
+}

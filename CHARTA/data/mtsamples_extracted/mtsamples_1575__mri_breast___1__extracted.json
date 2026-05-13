@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1575__mri_breast___1_.txt",
+    "file_name": "mtsamples_1575__mri_breast___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1286,
+    "processed_at": "2026-05-09T09:53:44.974252"
+  },
+  "entities": [
+    {
+      "text": "malignancy",
+      "label": "DISEASE",
+      "start_char": 196,
+      "end_char": 206,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malignancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "malignancy.,She",
+      "label": "CHEMICAL",
+      "start_char": 405,
+      "end_char": 420,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malignancy.,She",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_2837__iliopsoas_hematoma___2_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 87,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0014563": 1,
+    "C0023660": 2,
+    "C0054040": 3,
+    "C0028066": 4,
+    "C0002598": 5,
+    "C0590720": 6,
+    "C0699142": 7,
+    "C0034977": 8,
+    "C0699187": 9
+  },
+  "visit_dates": [
+    "1995-02-27"
+  ],
+  "graph_file": "mtsamples_2837__iliopsoas_hematoma___2__graph.pt",
+  "source_dataset": "mtsamples_2837__iliopsoas_hematoma___2"
+}

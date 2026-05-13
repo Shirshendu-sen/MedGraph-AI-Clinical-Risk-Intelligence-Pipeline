@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1727__barium_enema_.txt",
+    "file_name": "mtsamples_1727__barium_enema_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1037,
+    "processed_at": "2026-05-09T09:53:49.118191"
+  },
+  "entities": [
+    {
+      "text": "Barium",
+      "label": "CHEMICAL",
+      "start_char": 8,
+      "end_char": 14,
+      "sentence_idx": 0,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9710781574249268,
+      "timestamp": null
+    },
+    {
+      "text": "encopresis",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 88,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "encopresis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "barium",
+      "label": "CHEMICAL",
+      "start_char": 84,
+      "end_char": 90,
+      "sentence_idx": 1,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9710781574249268,
+      "timestamp": null
+    },
+    {
+      "text": "calcifications",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 38,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcifications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "opacification",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 27,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "opacification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "barium enema",
+      "label": "CHEMICAL",
+      "start_char": 92,
+      "end_char": 104,
+      "sentence_idx": 7,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.7171887755393982,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

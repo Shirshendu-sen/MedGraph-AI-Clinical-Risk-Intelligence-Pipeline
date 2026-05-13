@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1947__mortons_neuroma_injection__.txt",
+    "file_name": "mtsamples_1947__mortons_neuroma_injection__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 210,
+    "processed_at": "2026-05-09T09:53:53.574483"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1947__mortons_neuroma_injection__.txt",
+    "text": "POST PROCEDURE INSTRUCTIONS:, The patient has been asked to report to us any redness, swelling, inflammation, or fevers.  The patient has been asked to restrict the use of the * extremity for the next 24 hours.",
+    "char_count": 210,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "POST PROCEDURE INSTRUCTIONS:, The patient has been asked to report to us any redness, swelling, inflammation, or fevers. The patient has been asked to restrict the use of the * extremity for the next 24 hours.",
+    "sentences": [
+      "POST PROCEDURE INSTRUCTIONS:, The patient has been asked to report to us any redness, swelling, inflammation, or fevers.",
+      "The patient has been asked to restrict the use of the * extremity for the next 24 hours."
+    ],
+    "sentence_count": 2,
+    "original_length": 210,
+    "cleaned_length": 209,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "POST PROCEDURE INSTRUCTIONS:, The patient has been asked to report to us any redness, swelling, inflammation, or fevers.  The patient has been asked to restrict the use of the * extremity for the next 24 hours.",
+    "cleaned_text": "POST PROCEDURE INSTRUCTIONS:, The patient has been asked to report to us any redness, swelling, inflammation, or fevers. The patient has been asked to restrict the use of the * extremity for the next 24 hours.",
+    "sentences": [
+      "POST PROCEDURE INSTRUCTIONS:, The patient has been asked to report to us any redness, swelling, inflammation, or fevers.",
+      "The patient has been asked to restrict the use of the * extremity for the next 24 hours."
+    ],
+    "sentence_count": 2
+  }
+}

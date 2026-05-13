@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3841__ant_bait_exposure___er_visit_.txt",
+    "file_name": "mtsamples_3841__ant_bait_exposure___er_visit_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1975,
+    "processed_at": "2026-05-09T09:54:28.161916"
+  },
+  "entities": [
+    {
+      "text": "Borax",
+      "label": "CHEMICAL",
+      "start_char": 207,
+      "end_char": 212,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Borax",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gagging, vomiting",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 106,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gagging, vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 99,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

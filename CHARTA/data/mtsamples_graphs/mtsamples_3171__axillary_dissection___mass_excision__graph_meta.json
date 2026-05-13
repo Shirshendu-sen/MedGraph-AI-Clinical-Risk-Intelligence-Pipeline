@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3171__axillary_dissection___mass_excision_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 18,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0483514": 2,
+    "C0700517": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3171__axillary_dissection___mass_excision__graph.pt",
+  "source_dataset": "mtsamples_3171__axillary_dissection___mass_excision"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2907__ct_brain___stroke__",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 31,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0017725": 1
+  },
+  "visit_dates": [
+    "1993-01-03"
+  ],
+  "graph_file": "mtsamples_2907__ct_brain___stroke___graph.pt",
+  "source_dataset": "mtsamples_2907__ct_brain___stroke_"
+}

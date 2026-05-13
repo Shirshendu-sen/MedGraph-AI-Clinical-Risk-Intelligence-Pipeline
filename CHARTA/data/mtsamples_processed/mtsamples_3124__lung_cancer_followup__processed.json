@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3124__lung_cancer_followup_.txt",
+    "file_name": "mtsamples_3124__lung_cancer_followup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1061,
+    "processed_at": "2026-05-09T09:54:15.225398"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3124__lung_cancer_followup_.txt",
+    "text": "CHIEF COMPLAINT:,1.  Extensive stage small cell lung cancer.,2.  Chemotherapy with carboplatin and etoposide.,3.  Left scapular pain status post CT scan of the thorax.,HISTORY OF PRESENT ILLNESS: , The patient is a 67-year-old female with extensive stage small cell lung cancer.  She is currently receiving treatment with carboplatin and etoposide.  She completed her fifth cycle on 08/12/10.  She has had ongoing back pain and was sent for a CT scan of the thorax.  She comes into clinic today accompanied by her daughters to review the results.,CURRENT MEDICATIONS: , Levothyroxine 88 mcg daily, Soriatane 25 mg daily, Timoptic 0.5% solution b.i.d., Vicodin 5/500 mg one to two tablets q.6 hours p.r.n.,ALLERGIES: , No known drug allergies.,REVIEW OF SYSTEMS:  ,The patient continues to have back pain some time she also take two pain pill.  She received platelet transfusion the other day and reported mild fever.  She denies any chills, night sweats, chest pain, or shortness of breath.  The rest of her review of systems is negative.,PHYSICAL EXAM:,VITALS:",
+    "char_count": 1061,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "CHIEF COMPLAINT:,1. Extensive stage small cell lung cancer.,2. Chemotherapy with carboplatin and etoposide.,3. Left scapular pain status post CT scan of the thorax.,HISTORY OF PRESENT ILLNESS: , The patient is a 67-year-old female with extensive stage small cell lung cancer. She is currently receiving treatment with carboplatin and etoposide. She completed her fifth cycle on 08/12/10. She has had ongoing back pain and was sent for a CT scan of the thorax. She comes into clinic today accompanied by her daughters to review the results.,CURRENT MEDICATIONS: , Levothyroxine 88 mcg daily, Soriatane 25 mg daily, Timoptic 0.5% solution b.i.d., Vicodin 5/500 mg one to two tablets q.6 hours p.r.n.,ALLERGIES: , No known drug allergies.,REVIEW OF SYSTEMS: ,The patient continues to have back pain some time she also take two pain pill. She received platelet transfusion the other day and reported mild fever. She denies any chills, night sweats, chest pain, or shortness of breath. The rest of her review of systems is negative.,PHYSICAL EXAM:,VITALS:",
+    "sentences": [
+      "CHIEF COMPLAINT:,1.",
+      "Extensive stage small cell lung cancer.,2.",
+      "Chemotherapy with carboplatin and etoposide.,3.",
+      "Left scapular pain status post CT scan of the thorax.,HISTORY OF PRESENT ILLNESS: , The patient is a 67-year-old female with extensive stage small cell lung cancer.",
+      "She is currently receiving treatment with carboplatin and etoposide.",
+      "She completed her fifth cycle on 08/12/10.",
+      "She has had ongoing back pain and was sent for a CT scan of the thorax.",
+      "She comes into clinic today accompanied by her daughters to review the results.,CURRENT MEDICATIONS: , Levothyroxine 88 mcg daily, Soriatane 25 mg daily, Timoptic 0.5% solution b.i.d., Vicodin 5/500 mg one to two tablets q.6 hours p.r.n.,ALLERGIES: , No known drug allergies.,REVIEW OF SYSTEMS: ,The patient continues to have back pain some time she also take two pain pill.",
+      "She received platelet transfusion the other day and reported mild fever.",
+      "She denies any chills, night sweats, chest pain, or shortness of breath.",
+      "The rest of her review of systems is negative.,PHYSICAL EXAM:,VITALS:"
+    ],
+    "sentence_count": 11,
+    "original_length": 1061,
+    "cleaned_length": 1050,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "CHIEF COMPLAINT:,1.  Extensive stage small cell lung cancer.,2.  Chemotherapy with carboplatin and etoposide.,3.  Left scapular pain status post CT scan of the thorax.,HISTORY OF PRESENT ILLNESS: , The patient is a 67-year-old female with extensive stage small cell lung cancer.  She is currently receiving treatment with carboplatin and etoposide.  She completed her fifth cycle on 08/12/10.  She has had ongoing back pain and was sent for a CT scan of the thorax.  She comes into clinic today accompanied by her daughters to review the results.,CURRENT MEDICATIONS: , Levothyroxine 88 mcg daily, Soriatane 25 mg daily, Timoptic 0.5% solution b.i.d., Vicodin 5/500 mg one to two tablets q.6 hours p.r.n.,ALLERGIES: , No known drug allergies.,REVIEW OF SYSTEMS:  ,The patient continues to have back pain some time she also take two pain pill.  She received platelet transfusion the other day and reported mild fever.  She denies any chills, night sweats, chest pain, or shortness of breath.  The rest of her review of systems is negative.,PHYSICAL EXAM:,VITALS:",
+    "cleaned_text": "CHIEF COMPLAINT:,1. Extensive stage small cell lung cancer.,2. Chemotherapy with carboplatin and etoposide.,3. Left scapular pain status post CT scan of the thorax.,HISTORY OF PRESENT ILLNESS: , The patient is a 67-year-old female with extensive stage small cell lung cancer. She is currently receiving treatment with carboplatin and etoposide. She completed her fifth cycle on 08/12/10. She has had ongoing back pain and was sent for a CT scan of the thorax. She comes into clinic today accompanied by her daughters to review the results.,CURRENT MEDICATIONS: , Levothyroxine 88 mcg daily, Soriatane 25 mg daily, Timoptic 0.5% solution b.i.d., Vicodin 5/500 mg one to two tablets q.6 hours p.r.n.,ALLERGIES: , No known drug allergies.,REVIEW OF SYSTEMS: ,The patient continues to have back pain some time she also take two pain pill. She received platelet transfusion the other day and reported mild fever. She denies any chills, night sweats, chest pain, or shortness of breath. The rest of her review of systems is negative.,PHYSICAL EXAM:,VITALS:",
+    "sentences": [
+      "CHIEF COMPLAINT:,1.",
+      "Extensive stage small cell lung cancer.,2.",
+      "Chemotherapy with carboplatin and etoposide.,3.",
+      "Left scapular pain status post CT scan of the thorax.,HISTORY OF PRESENT ILLNESS: , The patient is a 67-year-old female with extensive stage small cell lung cancer.",
+      "She is currently receiving treatment with carboplatin and etoposide.",
+      "She completed her fifth cycle on 08/12/10.",
+      "She has had ongoing back pain and was sent for a CT scan of the thorax.",
+      "She comes into clinic today accompanied by her daughters to review the results.,CURRENT MEDICATIONS: , Levothyroxine 88 mcg daily, Soriatane 25 mg daily, Timoptic 0.5% solution b.i.d., Vicodin 5/500 mg one to two tablets q.6 hours p.r.n.,ALLERGIES: , No known drug allergies.,REVIEW OF SYSTEMS: ,The patient continues to have back pain some time she also take two pain pill.",
+      "She received platelet transfusion the other day and reported mild fever.",
+      "She denies any chills, night sweats, chest pain, or shortness of breath.",
+      "The rest of her review of systems is negative.,PHYSICAL EXAM:,VITALS:"
+    ],
+    "sentence_count": 11
+  }
+}

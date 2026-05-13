@@ -1,0 +1,28 @@
+{
+  "patient_id": "mtsamples_4159__penile_discharge_",
+  "num_entities": 15,
+  "num_visits": 1,
+  "num_edges": 120,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0028467": 1,
+    "C0678176": 2,
+    "C0065374": 3,
+    "C0016860": 4,
+    "C0633084": 5,
+    "C0017887": 6,
+    "C0527315": 7,
+    "C0028978": 8,
+    "C0030049": 9,
+    "C0162712": 10,
+    "C0001963": 11,
+    "C0010294": 12,
+    "C0032821": 13,
+    "C0004599": 14
+  },
+  "visit_dates": [
+    "2008-07-21"
+  ],
+  "graph_file": "mtsamples_4159__penile_discharge__graph.pt",
+  "source_dataset": "mtsamples_4159__penile_discharge"
+}

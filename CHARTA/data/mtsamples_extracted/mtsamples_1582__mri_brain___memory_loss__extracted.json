@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1582__mri_brain___memory_loss_.txt",
+    "file_name": "mtsamples_1582__mri_brain___memory_loss_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2620,
+    "processed_at": "2026-05-09T09:53:45.151883"
+  },
+  "entities": [
+    {
+      "text": "neuronal loss",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 63,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuronal loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ventricular enlargement",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 139,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ventricular enlargement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "white matter hyperintensity",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 46,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "white matter hyperintensity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vasculopathic small vessel disease",
+      "label": "DISEASE",
+      "start_char": 159,
+      "end_char": 193,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vasculopathic small vessel disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypointensity",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 96,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypointensity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infarction",
+      "label": "DISEASE",
+      "start_char": 207,
+      "end_char": 217,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "amorphus hyperintensity",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 49,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "amorphus hyperintensity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vasculopathic small vessel disease",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 120,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vasculopathic small vessel disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gadolinium",
+      "label": "CHEMICAL",
+      "start_char": 133,
+      "end_char": 143,
+      "sentence_idx": 6,
+      "concept_id": "C0016911",
+      "concept_name": "gadolinium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9583680033683777,
+      "timestamp": null
+    },
+    {
+      "text": "infarction",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 89,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dolichoectasia of the basilar",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 107,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dolichoectasia of the basilar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calvarium metastases.,IMPRESSION:,Severe generalized cerebral atrophy.,Extensive chronic white matter ischemic changes",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 143,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calvarium metastases.,IMPRESSION:,Severe generalized cerebral atrophy.,Extensive chronic white matter ischemic changes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "white matter hyperintensity",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 39,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "white matter hyperintensity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gadolinium",
+      "label": "CHEMICAL",
+      "start_char": 150,
+      "end_char": 160,
+      "sentence_idx": 12,
+      "concept_id": "C0016911",
+      "concept_name": "gadolinium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9583680033683777,
+      "timestamp": null
+    },
+    {
+      "text": "recommended.,Remote lacunar infarction",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 78,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "recommended.,Remote lacunar infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2307__arthroscopic_slap_lesion_.txt",
+    "file_name": "mtsamples_2307__arthroscopic_slap_lesion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4970,
+    "processed_at": "2026-05-09T09:53:59.654688"
+  },
+  "entities": [
+    {
+      "text": "peel-back",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 144,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peel-back",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "SLAP",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 34,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SLAP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right shoulder pain",
+      "label": "DISEASE",
+      "start_char": 211,
+      "end_char": 230,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "SLAP",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 106,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SLAP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "peel-back",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 25,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peel-back",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 89,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "SLAP",
+      "label": "CHEMICAL",
+      "start_char": 124,
+      "end_char": 128,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SLAP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 2,
+      "end_char": 6,
+      "sentence_idx": 45,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 7,
+      "end_char": 15,
+      "sentence_idx": 48,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

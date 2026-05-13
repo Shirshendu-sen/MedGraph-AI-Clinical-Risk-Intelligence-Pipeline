@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2212__endoscopic_carpal_tunnel_rlease_.txt",
+    "file_name": "mtsamples_2212__endoscopic_carpal_tunnel_rlease_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2263,
+    "processed_at": "2026-05-09T09:53:58.442997"
+  },
+  "entities": [
+    {
+      "text": "carpal tunnel syndrome.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 67,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel syndrome.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carpal tunnel syndrome.,OPERATIONS",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 119,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel syndrome.,OPERATIONS",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carpal tunnel release.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 143,
+      "end_char": 176,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel release.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 36,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

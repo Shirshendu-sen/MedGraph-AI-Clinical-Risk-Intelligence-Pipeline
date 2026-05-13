@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1853__occupational_therapy_discharge_summary_.txt",
+    "file_name": "mtsamples_1853__occupational_therapy_discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 668,
+    "processed_at": "2026-05-09T09:53:51.847728"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1853__occupational_therapy_discharge_summary_.txt",
+    "text": "DIAGNOSES: , Traumatic brain injury, cervical musculoskeletal strain.,DISCHARGE SUMMARY: , The patient was seen for evaluation on 12/11/06 followed by 2 treatment sessions.  Treatment consisted of neuromuscular reeducation including therapeutic exercise to improve range of motion, strength, and coordination; functional mobility training; self-care training; cognitive retraining; caregiver instruction; and home exercise program.  Goals were not achieved, as the patient was admitted to inpatient rehabilitation center.,RECOMMENDATIONS: , Discharged from OT this date, as the patient has been admitted to Inpatient Rehabilitation Center.,Thank you for this referral.",
+    "char_count": 668,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "DIAGNOSES: , Traumatic brain injury, cervical musculoskeletal strain.,DISCHARGE SUMMARY: , The patient was seen for evaluation on 12/11/06 followed by 2 treatment sessions. Treatment consisted of neuromuscular reeducation including therapeutic exercise to improve range of motion, strength, and coordination; functional mobility training; self-care training; cognitive retraining; caregiver instruction; and home exercise program. Goals were not achieved, as the patient was admitted to inpatient rehabilitation center.,RECOMMENDATIONS: , Discharged from OT this date, as the patient has been admitted to Inpatient Rehabilitation Center.,Thank you for this referral.",
+    "sentences": [
+      "DIAGNOSES: , Traumatic brain injury, cervical musculoskeletal strain.,DISCHARGE SUMMARY: , The patient was seen for evaluation on 12/11/06 followed by 2 treatment sessions.",
+      "Treatment consisted of neuromuscular reeducation including therapeutic exercise to improve range of motion, strength, and coordination; functional mobility training; self-care training; cognitive retraining; caregiver instruction; and home exercise program.",
+      "Goals were not achieved, as the patient was admitted to inpatient rehabilitation center.,RECOMMENDATIONS: , Discharged from OT this date, as the patient has been admitted to Inpatient Rehabilitation Center.,Thank you for this referral."
+    ],
+    "sentence_count": 3,
+    "original_length": 668,
+    "cleaned_length": 666,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "DIAGNOSES: , Traumatic brain injury, cervical musculoskeletal strain.,DISCHARGE SUMMARY: , The patient was seen for evaluation on 12/11/06 followed by 2 treatment sessions.  Treatment consisted of neuromuscular reeducation including therapeutic exercise to improve range of motion, strength, and coordination; functional mobility training; self-care training; cognitive retraining; caregiver instruction; and home exercise program.  Goals were not achieved, as the patient was admitted to inpatient rehabilitation center.,RECOMMENDATIONS: , Discharged from OT this date, as the patient has been admitted to Inpatient Rehabilitation Center.,Thank you for this referral.",
+    "cleaned_text": "DIAGNOSES: , Traumatic brain injury, cervical musculoskeletal strain.,DISCHARGE SUMMARY: , The patient was seen for evaluation on 12/11/06 followed by 2 treatment sessions. Treatment consisted of neuromuscular reeducation including therapeutic exercise to improve range of motion, strength, and coordination; functional mobility training; self-care training; cognitive retraining; caregiver instruction; and home exercise program. Goals were not achieved, as the patient was admitted to inpatient rehabilitation center.,RECOMMENDATIONS: , Discharged from OT this date, as the patient has been admitted to Inpatient Rehabilitation Center.,Thank you for this referral.",
+    "sentences": [
+      "DIAGNOSES: , Traumatic brain injury, cervical musculoskeletal strain.,DISCHARGE SUMMARY: , The patient was seen for evaluation on 12/11/06 followed by 2 treatment sessions.",
+      "Treatment consisted of neuromuscular reeducation including therapeutic exercise to improve range of motion, strength, and coordination; functional mobility training; self-care training; cognitive retraining; caregiver instruction; and home exercise program.",
+      "Goals were not achieved, as the patient was admitted to inpatient rehabilitation center.,RECOMMENDATIONS: , Discharged from OT this date, as the patient has been admitted to Inpatient Rehabilitation Center.,Thank you for this referral."
+    ],
+    "sentence_count": 3
+  }
+}

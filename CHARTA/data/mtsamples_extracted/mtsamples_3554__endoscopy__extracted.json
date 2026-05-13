@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3554__endoscopy_.txt",
+    "file_name": "mtsamples_3554__endoscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 932,
+    "processed_at": "2026-05-09T09:54:23.542368"
+  },
+  "entities": [
+    {
+      "text": "Upper gastrointestinal endoscopy.,POSTOPERATIVE DIAGNOSES:,1",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 106,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Upper gastrointestinal endoscopy.,POSTOPERATIVE DIAGNOSES:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Gastroesophageal junction small",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 31,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Gastroesophageal junction small",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 17,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 202,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "duodenitis",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 38,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "duodenitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Duodenitis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Duodenitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "duodenitis",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 100,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "duodenitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 132,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 159,
+      "end_char": 167,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

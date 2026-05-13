@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2128__mri_elbow___2_.txt",
+    "file_name": "mtsamples_2128__mri_elbow___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1939,
+    "processed_at": "2026-05-09T09:53:56.810870"
+  },
+  "entities": [
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 47,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 21,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ulnar nerve neuritis",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 69,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ulnar nerve neuritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subluxing ulnar nerve however the ulnar nerve",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 139,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxing ulnar nerve however the ulnar nerve",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 124,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sprain",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 200,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sprain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 255,
+      "end_char": 267,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tendinitis",
+      "label": "DISEASE",
+      "start_char": 328,
+      "end_char": 338,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "peritendinous inflammation",
+      "label": "DISEASE",
+      "start_char": 156,
+      "end_char": 182,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peritendinous inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "interstitial inflammation",
+      "label": "DISEASE",
+      "start_char": 355,
+      "end_char": 380,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "interstitial inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subluxing",
+      "label": "DISEASE",
+      "start_char": 531,
+      "end_char": 540,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lateral epicondylitis",
+      "label": "DISEASE",
+      "start_char": 639,
+      "end_char": 660,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lateral epicondylitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tendinitis",
+      "label": "DISEASE",
+      "start_char": 672,
+      "end_char": 682,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 742,
+      "end_char": 747,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

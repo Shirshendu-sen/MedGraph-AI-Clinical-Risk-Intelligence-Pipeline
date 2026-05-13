@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2302__arthroscopic_rotator_cuff_repair_.txt",
+    "file_name": "mtsamples_2302__arthroscopic_rotator_cuff_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4025,
+    "processed_at": "2026-05-09T09:53:59.592298"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 50,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Shoulder impingement",
+      "label": "DISEASE",
+      "start_char": 273,
+      "end_char": 293,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Shoulder impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Shoulder impingement",
+      "label": "DISEASE",
+      "start_char": 366,
+      "end_char": 386,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Shoulder impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "supraspinatus",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 17,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraspinatus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 51,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

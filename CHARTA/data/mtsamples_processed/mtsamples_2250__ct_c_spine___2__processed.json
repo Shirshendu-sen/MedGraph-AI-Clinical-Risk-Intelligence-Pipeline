@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2250__ct_c_spine___2_.txt",
+    "file_name": "mtsamples_2250__ct_c_spine___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 531,
+    "processed_at": "2026-05-09T09:53:58.840641"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2250__ct_c_spine___2_.txt",
+    "text": "EXAM:,  CT cervical spine (C-spine) for trauma.,FINDINGS:,  CT examination of the cervical spine was performed without contrast.  Coronal and sagittal reformats were obtained for better anatomical localization.  Cervical vertebral body height, alignment and interspacing are maintained.  There is no evidence of fractures or destructive osseous lesions.  There are no significant degenerative endplate or facet changes.  No significant osseous central canal or foraminal narrowing is present.,IMPRESSION: , Negative cervical spine.",
+    "char_count": 531,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM:, CT cervical spine (C-spine) for trauma.,FINDINGS:, CT examination of the cervical spine was performed without contrast. Coronal and sagittal reformats were obtained for better anatomical localization. Cervical vertebral body height, alignment and interspacing are maintained. There is no evidence of fractures or destructive osseous lesions. There are no significant degenerative endplate or facet changes. No significant osseous central canal or foraminal narrowing is present.,IMPRESSION: , Negative cervical spine.",
+    "sentences": [
+      "EXAM:, CT cervical spine (C-spine) for trauma.,FINDINGS:, CT examination of the cervical spine was performed without contrast.",
+      "Coronal and sagittal reformats were obtained for better anatomical localization.",
+      "Cervical vertebral body height, alignment and interspacing are maintained.",
+      "There is no evidence of fractures or destructive osseous lesions.",
+      "There are no significant degenerative endplate or facet changes.",
+      "No significant osseous central canal or foraminal narrowing is present.,IMPRESSION: , Negative cervical spine."
+    ],
+    "sentence_count": 6,
+    "original_length": 531,
+    "cleaned_length": 524,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM:,  CT cervical spine (C-spine) for trauma.,FINDINGS:,  CT examination of the cervical spine was performed without contrast.  Coronal and sagittal reformats were obtained for better anatomical localization.  Cervical vertebral body height, alignment and interspacing are maintained.  There is no evidence of fractures or destructive osseous lesions.  There are no significant degenerative endplate or facet changes.  No significant osseous central canal or foraminal narrowing is present.,IMPRESSION: , Negative cervical spine.",
+    "cleaned_text": "EXAM:, CT cervical spine (C-spine) for trauma.,FINDINGS:, CT examination of the cervical spine was performed without contrast. Coronal and sagittal reformats were obtained for better anatomical localization. Cervical vertebral body height, alignment and interspacing are maintained. There is no evidence of fractures or destructive osseous lesions. There are no significant degenerative endplate or facet changes. No significant osseous central canal or foraminal narrowing is present.,IMPRESSION: , Negative cervical spine.",
+    "sentences": [
+      "EXAM:, CT cervical spine (C-spine) for trauma.,FINDINGS:, CT examination of the cervical spine was performed without contrast.",
+      "Coronal and sagittal reformats were obtained for better anatomical localization.",
+      "Cervical vertebral body height, alignment and interspacing are maintained.",
+      "There is no evidence of fractures or destructive osseous lesions.",
+      "There are no significant degenerative endplate or facet changes.",
+      "No significant osseous central canal or foraminal narrowing is present.,IMPRESSION: , Negative cervical spine."
+    ],
+    "sentence_count": 6
+  }
+}

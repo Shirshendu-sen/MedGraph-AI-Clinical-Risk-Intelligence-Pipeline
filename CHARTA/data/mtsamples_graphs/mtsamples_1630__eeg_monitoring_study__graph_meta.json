@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1630__eeg_monitoring_study_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 15,
+  "entity_index": {
+    "C0042291": 0,
+    "C0876224": 1,
+    "C0876060": 2,
+    "UNKNOWN": 3
+  },
+  "visit_dates": [
+    "2006-08-21"
+  ],
+  "graph_file": "mtsamples_1630__eeg_monitoring_study__graph.pt",
+  "source_dataset": "mtsamples_1630__eeg_monitoring_study"
+}

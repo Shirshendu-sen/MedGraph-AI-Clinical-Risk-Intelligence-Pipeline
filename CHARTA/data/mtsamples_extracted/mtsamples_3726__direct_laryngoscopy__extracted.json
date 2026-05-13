@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3726__direct_laryngoscopy_.txt",
+    "file_name": "mtsamples_3726__direct_laryngoscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1016,
+    "processed_at": "2026-05-09T09:54:26.693120"
+  },
+  "entities": [
+    {
+      "text": "subglottic stenosis",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 72,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subglottic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stoma",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 9,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "suprastomal fibroma",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 41,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "suprastomal fibroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bleeding",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2264__carpal_tunnel_release___6_.txt",
+    "file_name": "mtsamples_2264__carpal_tunnel_release___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2470,
+    "processed_at": "2026-05-09T09:53:59.016494"
+  },
+  "entities": [
+    {
+      "text": "carpal tunnel syndrome.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 68,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel syndrome.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carpal tunnel syndrome.,OPERATIVE",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 119,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel syndrome.,OPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 658,
+      "end_char": 667,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carpal tunnel",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 95,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 120,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 146,
+      "end_char": 154,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 190,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 206,
+      "end_char": 215,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 69,
+      "end_char": 79,
+      "sentence_idx": 15,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

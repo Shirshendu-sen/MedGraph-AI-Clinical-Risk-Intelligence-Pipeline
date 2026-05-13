@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4705__mayoview_.txt",
+    "file_name": "mtsamples_4705__mayoview_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1360,
+    "processed_at": "2026-05-09T09:54:43.633456"
+  },
+  "entities": [
+    {
+      "text": "adenosine",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "C0001443",
+      "concept_name": "adenosine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563736915588379,
+      "timestamp": null
+    },
+    {
+      "text": "adenosine",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 53,
+      "sentence_idx": 1,
+      "concept_id": "C0001443",
+      "concept_name": "adenosine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563736915588379,
+      "timestamp": null
+    },
+    {
+      "text": "adenosine",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 35,
+      "sentence_idx": 2,
+      "concept_id": "C0001443",
+      "concept_name": "adenosine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563736915588379,
+      "timestamp": null
+    },
+    {
+      "text": "adenosine",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 28,
+      "sentence_idx": 3,
+      "concept_id": "C0001443",
+      "concept_name": "adenosine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563736915588379,
+      "timestamp": null
+    },
+    {
+      "text": "adenosine",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 41,
+      "sentence_idx": 6,
+      "concept_id": "C0001443",
+      "concept_name": "adenosine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563736915588379,
+      "timestamp": null
+    },
+    {
+      "text": "adenosine",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 40,
+      "sentence_idx": 7,
+      "concept_id": "C0001443",
+      "concept_name": "adenosine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563736915588379,
+      "timestamp": null
+    },
+    {
+      "text": "adenosine",
+      "label": "CHEMICAL",
+      "start_char": 7,
+      "end_char": 16,
+      "sentence_idx": 8,
+      "concept_id": "C0001443",
+      "concept_name": "adenosine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563736915588379,
+      "timestamp": null
+    },
+    {
+      "text": "dizziness",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 56,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dizziness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 80,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arrhythmias",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 57,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arrhythmias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenosine",
+      "label": "CHEMICAL",
+      "start_char": 89,
+      "end_char": 98,
+      "sentence_idx": 9,
+      "concept_id": "C0001443",
+      "concept_name": "adenosine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563736915588379,
+      "timestamp": null
+    },
+    {
+      "text": "isotope",
+      "label": "CHEMICAL",
+      "start_char": 138,
+      "end_char": 145,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "isotope",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenosine",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 60,
+      "sentence_idx": 11,
+      "concept_id": "C0001443",
+      "concept_name": "adenosine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563736915588379,
+      "timestamp": null
+    },
+    {
+      "text": "adenosine",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 49,
+      "sentence_idx": 13,
+      "concept_id": "C0001443",
+      "concept_name": "adenosine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563736915588379,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

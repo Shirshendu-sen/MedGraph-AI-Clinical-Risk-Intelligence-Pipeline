@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0280__thoracotomy___pleurectomy_.txt",
+    "file_name": "mtsamples_0280__thoracotomy___pleurectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3061,
+    "processed_at": "2026-05-09T09:53:11.257035"
+  },
+  "entities": [
+    {
+      "text": "Empyema",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 33,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Empyema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Empyema",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 88,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Empyema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 191,
+      "end_char": 201,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

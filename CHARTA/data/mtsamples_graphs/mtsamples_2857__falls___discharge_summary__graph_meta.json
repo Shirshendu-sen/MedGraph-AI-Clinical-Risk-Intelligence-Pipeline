@@ -1,0 +1,27 @@
+{
+  "patient_id": "mtsamples_2857__falls___discharge_summary_",
+  "num_entities": 14,
+  "num_visits": 1,
+  "num_edges": 141,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0376414": 1,
+    "C0699034": 2,
+    "C0699142": 3,
+    "C0699992": 4,
+    "C0590720": 5,
+    "C0022957": 6,
+    "C0939372": 7,
+    "C0700763": 8,
+    "C0687717": 9,
+    "C0242447": 10,
+    "C0699702": 11,
+    "C0040235": 12,
+    "C0042523": 13
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2857__falls___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_2857__falls___discharge_summary"
+}

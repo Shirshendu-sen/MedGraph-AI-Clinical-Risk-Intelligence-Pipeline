@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3153__breast_radiation_therapy_followup_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 16,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0017718": 1,
+    "C2723006": 2,
+    "C0079083": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3153__breast_radiation_therapy_followup__graph.pt",
+  "source_dataset": "mtsamples_3153__breast_radiation_therapy_followup"
+}

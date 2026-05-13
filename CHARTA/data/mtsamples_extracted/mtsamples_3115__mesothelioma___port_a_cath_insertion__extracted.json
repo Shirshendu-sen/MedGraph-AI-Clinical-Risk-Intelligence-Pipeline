@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3115__mesothelioma___port_a_cath_insertion_.txt",
+    "file_name": "mtsamples_3115__mesothelioma___port_a_cath_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1513,
+    "processed_at": "2026-05-09T09:54:15.129207"
+  },
+  "entities": [
+    {
+      "text": "mesothelioma",
+      "label": "DISEASE",
+      "start_char": 380,
+      "end_char": 392,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mesothelioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

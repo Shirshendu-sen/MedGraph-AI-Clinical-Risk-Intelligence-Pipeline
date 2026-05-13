@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3759__thyroidectomy___1_.txt",
+    "file_name": "mtsamples_3759__thyroidectomy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 6144,
+    "processed_at": "2026-05-09T09:54:27.049370"
+  },
+  "entities": [
+    {
+      "text": "thyroidectomy.,ANESTHESIA:,1",
+      "label": "CHEMICAL",
+      "start_char": 113,
+      "end_char": 141,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyroidectomy.,ANESTHESIA:,1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 56,
+      "sentence_idx": 1,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "1:100,000",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 71,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:100,000",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "Graves disease",
+      "label": "DISEASE",
+      "start_char": 185,
+      "end_char": 199,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Graves disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "thyroid goiter",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 42,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyroid goiter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "laryngeal nerve paresis",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 155,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "laryngeal nerve paresis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "paralysis",
+      "label": "DISEASE",
+      "start_char": 159,
+      "end_char": 168,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paralysis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "vocal cord dysfunction",
+      "label": "DISEASE",
+      "start_char": 172,
+      "end_char": 194,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vocal cord dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 22,
+      "sentence_idx": 9,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "1:100,000",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 37,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:100,000",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 52,
+      "sentence_idx": 9,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 156,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "nerve injury",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 48,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nerve injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 60,
+      "sentence_idx": 50,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 24,
+      "end_char": 34,
+      "sentence_idx": 56,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": "2003-09-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/04/2003",
+      "start_char": 908,
+      "end_char": 918
+    }
+  ]
+}

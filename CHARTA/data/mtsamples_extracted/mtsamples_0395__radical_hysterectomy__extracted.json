@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0395__radical_hysterectomy_.txt",
+    "file_name": "mtsamples_0395__radical_hysterectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4309,
+    "processed_at": "2026-05-09T09:53:14.694332"
+  },
+  "entities": [
+    {
+      "text": "adenocarcinoma, stage I.,POSTOPERATIVE DIAGNOSIS: , Cervical adenocarcinoma, stage I.,OPERATION",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 129,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma, stage I.,POSTOPERATIVE DIAGNOSIS: , Cervical adenocarcinoma, stage I.,OPERATION",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ovarian transposition",
+      "label": "DISEASE",
+      "start_char": 198,
+      "end_char": 219,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ovarian transposition",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenocarcinoma of the cervix",
+      "label": "DISEASE",
+      "start_char": 510,
+      "end_char": 538,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma of the cervix",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 66,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "noted.,Retractors",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 42,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "noted.,Retractors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

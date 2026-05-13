@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4592__transesophageal_echocardiogram___5_.txt",
+    "file_name": "mtsamples_4592__transesophageal_echocardiogram___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1560,
+    "processed_at": "2026-05-09T09:54:41.865903"
+  },
+  "entities": [
+    {
+      "text": "bacteremia",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 39,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bacteremia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endocarditis",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 62,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endocarditis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 20,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cetacaine",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 46,
+      "sentence_idx": 4,
+      "concept_id": "C0055141",
+      "concept_name": "Cetacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9606422781944275,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 87,
+      "end_char": 93,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "AI",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 16,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AI",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "valve and pulmonary valve",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 35,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "valve and pulmonary valve",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aortic stenosis",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 90,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1273__weight_loss_on_phentermine_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0031447": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1273__weight_loss_on_phentermine__graph.pt",
+  "source_dataset": "mtsamples_1273__weight_loss_on_phentermine"
+}

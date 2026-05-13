@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3755__adenoidectomy___tonsillectomy___lingual_frenulectomy_.txt",
+    "file_name": "mtsamples_3755__adenoidectomy___tonsillectomy___lingual_frenulectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2119,
+    "processed_at": "2026-05-09T09:54:27.006558"
+  },
+  "entities": [
+    {
+      "text": "Amputation",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Amputation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenoids",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenoid curet",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 16,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenoid curet",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

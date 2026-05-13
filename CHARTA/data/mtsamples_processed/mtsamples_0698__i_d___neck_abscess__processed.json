@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0698__i_d___neck_abscess_.txt",
+    "file_name": "mtsamples_0698__i_d___neck_abscess_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1308,
+    "processed_at": "2026-05-09T09:53:22.614497"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0698__i_d___neck_abscess_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Left neck abscess.,POSTOPERATIVE DIAGNOSIS: , Left neck abscess.,OPERATIVE PROCEDURE: , Incision and drainage of left neck abscess.,ANESTHESIA:  ,General inhalational.,DESCRIPTION OF PROCEDURE: , The patient was taken to operating room and placed supine on the operating table.  General inhalational anesthesia was administered.  The patient was draped in usual fashion.  The prominent area of the left submandibular swelling was noted and a 1-cm incision was outlined with a marking pen and the area was infiltrated with 0.5 mL of local anesthetic using 1% Xylocaine with epinephrine 1:100,000.  The incision was performed with a #15 blade.  An 18-gauge needle and 10 mL syringe was used to evacuate a small amount of the purulence from the abscess cavity.  This was submitted for culture and sensitivity, anaerobic cultures and Gram stain.  The cavity was opened with a small hemostat and a great deal of grossly purulent material was evacuated.  The cavity was irrigated with peroxide and saline.  A 0.25-inch Penrose drain was placed and secured with a single #3-0 nylon suture.  A 4 x 4 dressing was applied.  Bleeding was negligible.  There were no untoward complications.  The patient tolerated the procedure well and was transferred to the recovery room in stable condition.",
+    "char_count": 1308,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Left neck abscess.,POSTOPERATIVE DIAGNOSIS: , Left neck abscess.,OPERATIVE PROCEDURE: , Incision and drainage of left neck abscess.,ANESTHESIA: ,General inhalational.,DESCRIPTION OF PROCEDURE: , The patient was taken to operating room and placed supine on the operating table. General inhalational anesthesia was administered. The patient was draped in usual fashion. The prominent area of the left submandibular swelling was noted and a 1-cm incision was outlined with a marking pen and the area was infiltrated with 0.5 mL of local anesthetic using 1% Xylocaine with epinephrine 1:100,000. The incision was performed with a #15 blade. An 18-gauge needle and 10 mL syringe was used to evacuate a small amount of the purulence from the abscess cavity. This was submitted for culture and sensitivity, anaerobic cultures and Gram stain. The cavity was opened with a small hemostat and a great deal of grossly purulent material was evacuated. The cavity was irrigated with peroxide and saline. A 0.25-inch Penrose drain was placed and secured with a single #3-0 nylon suture. A 4 x 4 dressing was applied. Bleeding was negligible. There were no untoward complications. The patient tolerated the procedure well and was transferred to the recovery room in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Left neck abscess.,POSTOPERATIVE DIAGNOSIS: , Left neck abscess.,OPERATIVE PROCEDURE: , Incision and drainage of left neck abscess.,ANESTHESIA: ,General inhalational.,DESCRIPTION OF PROCEDURE: , The patient was taken to operating room and placed supine on the operating table.",
+      "General inhalational anesthesia was administered.",
+      "The patient was draped in usual fashion.",
+      "The prominent area of the left submandibular swelling was noted and a 1-cm incision was outlined with a marking pen and the area was infiltrated with 0.5 mL of local anesthetic using 1% Xylocaine with epinephrine 1:100,000.",
+      "The incision was performed with a #15 blade.",
+      "An 18-gauge needle and 10 mL syringe was used to evacuate a small amount of the purulence from the abscess cavity.",
+      "This was submitted for culture and sensitivity, anaerobic cultures and Gram stain.",
+      "The cavity was opened with a small hemostat and a great deal of grossly purulent material was evacuated.",
+      "The cavity was irrigated with peroxide and saline.",
+      "A 0.25-inch Penrose drain was placed and secured with a single #3-0 nylon suture.",
+      "A 4 x 4 dressing was applied.",
+      "Bleeding was negligible.",
+      "There were no untoward complications.",
+      "The patient tolerated the procedure well and was transferred to the recovery room in stable condition."
+    ],
+    "sentence_count": 14,
+    "original_length": 1308,
+    "cleaned_length": 1294,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Left neck abscess.,POSTOPERATIVE DIAGNOSIS: , Left neck abscess.,OPERATIVE PROCEDURE: , Incision and drainage of left neck abscess.,ANESTHESIA:  ,General inhalational.,DESCRIPTION OF PROCEDURE: , The patient was taken to operating room and placed supine on the operating table.  General inhalational anesthesia was administered.  The patient was draped in usual fashion.  The prominent area of the left submandibular swelling was noted and a 1-cm incision was outlined with a marking pen and the area was infiltrated with 0.5 mL of local anesthetic using 1% Xylocaine with epinephrine 1:100,000.  The incision was performed with a #15 blade.  An 18-gauge needle and 10 mL syringe was used to evacuate a small amount of the purulence from the abscess cavity.  This was submitted for culture and sensitivity, anaerobic cultures and Gram stain.  The cavity was opened with a small hemostat and a great deal of grossly purulent material was evacuated.  The cavity was irrigated with peroxide and saline.  A 0.25-inch Penrose drain was placed and secured with a single #3-0 nylon suture.  A 4 x 4 dressing was applied.  Bleeding was negligible.  There were no untoward complications.  The patient tolerated the procedure well and was transferred to the recovery room in stable condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Left neck abscess.,POSTOPERATIVE DIAGNOSIS: , Left neck abscess.,OPERATIVE PROCEDURE: , Incision and drainage of left neck abscess.,ANESTHESIA: ,General inhalational.,DESCRIPTION OF PROCEDURE: , The patient was taken to operating room and placed supine on the operating table. General inhalational anesthesia was administered. The patient was draped in usual fashion. The prominent area of the left submandibular swelling was noted and a 1-cm incision was outlined with a marking pen and the area was infiltrated with 0.5 mL of local anesthetic using 1% Xylocaine with epinephrine 1:100,000. The incision was performed with a #15 blade. An 18-gauge needle and 10 mL syringe was used to evacuate a small amount of the purulence from the abscess cavity. This was submitted for culture and sensitivity, anaerobic cultures and Gram stain. The cavity was opened with a small hemostat and a great deal of grossly purulent material was evacuated. The cavity was irrigated with peroxide and saline. A 0.25-inch Penrose drain was placed and secured with a single #3-0 nylon suture. A 4 x 4 dressing was applied. Bleeding was negligible. There were no untoward complications. The patient tolerated the procedure well and was transferred to the recovery room in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Left neck abscess.,POSTOPERATIVE DIAGNOSIS: , Left neck abscess.,OPERATIVE PROCEDURE: , Incision and drainage of left neck abscess.,ANESTHESIA: ,General inhalational.,DESCRIPTION OF PROCEDURE: , The patient was taken to operating room and placed supine on the operating table.",
+      "General inhalational anesthesia was administered.",
+      "The patient was draped in usual fashion.",
+      "The prominent area of the left submandibular swelling was noted and a 1-cm incision was outlined with a marking pen and the area was infiltrated with 0.5 mL of local anesthetic using 1% Xylocaine with epinephrine 1:100,000.",
+      "The incision was performed with a #15 blade.",
+      "An 18-gauge needle and 10 mL syringe was used to evacuate a small amount of the purulence from the abscess cavity.",
+      "This was submitted for culture and sensitivity, anaerobic cultures and Gram stain.",
+      "The cavity was opened with a small hemostat and a great deal of grossly purulent material was evacuated.",
+      "The cavity was irrigated with peroxide and saline.",
+      "A 0.25-inch Penrose drain was placed and secured with a single #3-0 nylon suture.",
+      "A 4 x 4 dressing was applied.",
+      "Bleeding was negligible.",
+      "There were no untoward complications.",
+      "The patient tolerated the procedure well and was transferred to the recovery room in stable condition."
+    ],
+    "sentence_count": 14
+  }
+}

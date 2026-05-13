@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4655__pulmonary_function_test_.txt",
+    "file_name": "mtsamples_4655__pulmonary_function_test_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 515,
+    "processed_at": "2026-05-09T09:54:42.853200"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4655__pulmonary_function_test_.txt",
+    "text": "OBSERVATIONS: , The forced vital capacity is 2.84 L and forced expiratory volume in 1 second is 1.93 L. The ratio between the two is 68%.  Small improvement is noted in the airflows after bronchodilator therapy.  Lung volumes are increased with a residual volume of 196% of predicted and total lung capacity of 142% of predicted.  Single-breath diffusing capacity is slightly reduced.,IMPRESSION: , Mild-to-moderate obstructive ventilatory impairment.  Some improvement in the airflows after bronchodilator therapy.",
+    "char_count": 515,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "OBSERVATIONS: , The forced vital capacity is 2.84 L and forced expiratory volume in 1 second is 1.93 L. The ratio between the two is 68%. Small improvement is noted in the airflows after bronchodilator therapy. Lung volumes are increased with a residual volume of 196% of predicted and total lung capacity of 142% of predicted. Single-breath diffusing capacity is slightly reduced.,IMPRESSION: , Mild-to-moderate obstructive ventilatory impairment. Some improvement in the airflows after bronchodilator therapy.",
+    "sentences": [
+      "OBSERVATIONS: , The forced vital capacity is 2.84 L and forced expiratory volume in 1 second is 1.93 L.",
+      "The ratio between the two is 68%.",
+      "Small improvement is noted in the airflows after bronchodilator therapy.",
+      "Lung volumes are increased with a residual volume of 196% of predicted and total lung capacity of 142% of predicted.",
+      "Single-breath diffusing capacity is slightly reduced.,IMPRESSION: , Mild-to-moderate obstructive ventilatory impairment.",
+      "Some improvement in the airflows after bronchodilator therapy."
+    ],
+    "sentence_count": 6,
+    "original_length": 515,
+    "cleaned_length": 511,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "OBSERVATIONS: , The forced vital capacity is 2.84 L and forced expiratory volume in 1 second is 1.93 L. The ratio between the two is 68%.  Small improvement is noted in the airflows after bronchodilator therapy.  Lung volumes are increased with a residual volume of 196% of predicted and total lung capacity of 142% of predicted.  Single-breath diffusing capacity is slightly reduced.,IMPRESSION: , Mild-to-moderate obstructive ventilatory impairment.  Some improvement in the airflows after bronchodilator therapy.",
+    "cleaned_text": "OBSERVATIONS: , The forced vital capacity is 2.84 L and forced expiratory volume in 1 second is 1.93 L. The ratio between the two is 68%. Small improvement is noted in the airflows after bronchodilator therapy. Lung volumes are increased with a residual volume of 196% of predicted and total lung capacity of 142% of predicted. Single-breath diffusing capacity is slightly reduced.,IMPRESSION: , Mild-to-moderate obstructive ventilatory impairment. Some improvement in the airflows after bronchodilator therapy.",
+    "sentences": [
+      "OBSERVATIONS: , The forced vital capacity is 2.84 L and forced expiratory volume in 1 second is 1.93 L.",
+      "The ratio between the two is 68%.",
+      "Small improvement is noted in the airflows after bronchodilator therapy.",
+      "Lung volumes are increased with a residual volume of 196% of predicted and total lung capacity of 142% of predicted.",
+      "Single-breath diffusing capacity is slightly reduced.,IMPRESSION: , Mild-to-moderate obstructive ventilatory impairment.",
+      "Some improvement in the airflows after bronchodilator therapy."
+    ],
+    "sentence_count": 6
+  }
+}

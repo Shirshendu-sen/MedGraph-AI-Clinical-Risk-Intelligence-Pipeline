@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0478__osteosynthesis_.txt",
+    "file_name": "mtsamples_0478__osteosynthesis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2697,
+    "processed_at": "2026-05-09T09:53:17.081512"
+  },
+  "entities": [
+    {
+      "text": "Acetabular fracture",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 44,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Acetabular fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 139,
+      "end_char": 147,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Acetabular fracture",
+      "label": "DISEASE",
+      "start_char": 224,
+      "end_char": 243,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Acetabular fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 338,
+      "end_char": 346,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Osteosynthesis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Osteosynthesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "acetabular fracture",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 37,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acetabular fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "iodine",
+      "label": "CHEMICAL",
+      "start_char": 264,
+      "end_char": 270,
+      "sentence_idx": 2,
+      "concept_id": "C0021968",
+      "concept_name": "iodine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9429465532302856,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 275,
+      "end_char": 282,
+      "sentence_idx": 2,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "7-hole",
+      "label": "CHEMICAL",
+      "start_char": 297,
+      "end_char": 303,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "7-hole",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "acetabular fracture",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 91,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acetabular fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 46,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

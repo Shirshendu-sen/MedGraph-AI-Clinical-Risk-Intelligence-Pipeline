@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2132__mri_c_spine___c5_6_disk_herniation_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0700017": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2132__mri_c_spine___c5_6_disk_herniation__graph.pt",
+  "source_dataset": "mtsamples_2132__mri_c_spine___c5_6_disk_herniation"
+}

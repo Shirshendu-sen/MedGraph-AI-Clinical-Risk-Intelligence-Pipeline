@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1980__coccygeal_injection_.txt",
+    "file_name": "mtsamples_1980__coccygeal_injection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 883,
+    "processed_at": "2026-05-09T09:53:54.093352"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1980__coccygeal_injection_.txt",
+    "text": "COCCYGEAL INJECTION,PROCEDURE:,:  Informed consent was obtained from the patient.  A gloved little finger was inserted into the anal region and the sacral/coccygeal joint was palpated and the coccyx was moved and it was confirmed that this reproduced pain.  After aseptic cleaning, a 25-gauge needle was inserted through the skin into the sacral/coccygeal joint.  It was confirmed that the needle was not entering the rectal cavity by finger placed in the rectum.  After aspiration, 1 mL of cortisone and 2 mL of 0.25% Marcaine were injected at the site.  Postprocedure, the needle was withdrawn.  A small pressure dressing was placed and no hematoma was observed to form.,POST PROCEDURE INSTRUCTIONS:, The patient has been asked to report to us any redness, swelling, inflammation, or fevers.  The patient has been asked to restrict the use of the * extremity for the next 24 hours.",
+    "char_count": 883,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "COCCYGEAL INJECTION,PROCEDURE:,: Informed consent was obtained from the patient. A gloved little finger was inserted into the anal region and the sacral/coccygeal joint was palpated and the coccyx was moved and it was confirmed that this reproduced pain. After aseptic cleaning, a 25-gauge needle was inserted through the skin into the sacral/coccygeal joint. It was confirmed that the needle was not entering the rectal cavity by finger placed in the rectum. After aspiration, 1 mL of cortisone and 2 mL of 0.25% Marcaine were injected at the site. Postprocedure, the needle was withdrawn. A small pressure dressing was placed and no hematoma was observed to form.,POST PROCEDURE INSTRUCTIONS:, The patient has been asked to report to us any redness, swelling, inflammation, or fevers. The patient has been asked to restrict the use of the * extremity for the next 24 hours.",
+    "sentences": [
+      "COCCYGEAL INJECTION,PROCEDURE:,: Informed consent was obtained from the patient.",
+      "A gloved little finger was inserted into the anal region and the sacral/coccygeal joint was palpated and the coccyx was moved and it was confirmed that this reproduced pain.",
+      "After aseptic cleaning, a 25-gauge needle was inserted through the skin into the sacral/coccygeal joint.",
+      "It was confirmed that the needle was not entering the rectal cavity by finger placed in the rectum.",
+      "After aspiration, 1 mL of cortisone and 2 mL of 0.25% Marcaine were injected at the site.",
+      "Postprocedure, the needle was withdrawn.",
+      "A small pressure dressing was placed and no hematoma was observed to form.,POST PROCEDURE INSTRUCTIONS:, The patient has been asked to report to us any redness, swelling, inflammation, or fevers.",
+      "The patient has been asked to restrict the use of the * extremity for the next 24 hours."
+    ],
+    "sentence_count": 8,
+    "original_length": 883,
+    "cleaned_length": 875,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "COCCYGEAL INJECTION,PROCEDURE:,:  Informed consent was obtained from the patient.  A gloved little finger was inserted into the anal region and the sacral/coccygeal joint was palpated and the coccyx was moved and it was confirmed that this reproduced pain.  After aseptic cleaning, a 25-gauge needle was inserted through the skin into the sacral/coccygeal joint.  It was confirmed that the needle was not entering the rectal cavity by finger placed in the rectum.  After aspiration, 1 mL of cortisone and 2 mL of 0.25% Marcaine were injected at the site.  Postprocedure, the needle was withdrawn.  A small pressure dressing was placed and no hematoma was observed to form.,POST PROCEDURE INSTRUCTIONS:, The patient has been asked to report to us any redness, swelling, inflammation, or fevers.  The patient has been asked to restrict the use of the * extremity for the next 24 hours.",
+    "cleaned_text": "COCCYGEAL INJECTION,PROCEDURE:,: Informed consent was obtained from the patient. A gloved little finger was inserted into the anal region and the sacral/coccygeal joint was palpated and the coccyx was moved and it was confirmed that this reproduced pain. After aseptic cleaning, a 25-gauge needle was inserted through the skin into the sacral/coccygeal joint. It was confirmed that the needle was not entering the rectal cavity by finger placed in the rectum. After aspiration, 1 mL of cortisone and 2 mL of 0.25% Marcaine were injected at the site. Postprocedure, the needle was withdrawn. A small pressure dressing was placed and no hematoma was observed to form.,POST PROCEDURE INSTRUCTIONS:, The patient has been asked to report to us any redness, swelling, inflammation, or fevers. The patient has been asked to restrict the use of the * extremity for the next 24 hours.",
+    "sentences": [
+      "COCCYGEAL INJECTION,PROCEDURE:,: Informed consent was obtained from the patient.",
+      "A gloved little finger was inserted into the anal region and the sacral/coccygeal joint was palpated and the coccyx was moved and it was confirmed that this reproduced pain.",
+      "After aseptic cleaning, a 25-gauge needle was inserted through the skin into the sacral/coccygeal joint.",
+      "It was confirmed that the needle was not entering the rectal cavity by finger placed in the rectum.",
+      "After aspiration, 1 mL of cortisone and 2 mL of 0.25% Marcaine were injected at the site.",
+      "Postprocedure, the needle was withdrawn.",
+      "A small pressure dressing was placed and no hematoma was observed to form.,POST PROCEDURE INSTRUCTIONS:, The patient has been asked to report to us any redness, swelling, inflammation, or fevers.",
+      "The patient has been asked to restrict the use of the * extremity for the next 24 hours."
+    ],
+    "sentence_count": 8
+  }
+}

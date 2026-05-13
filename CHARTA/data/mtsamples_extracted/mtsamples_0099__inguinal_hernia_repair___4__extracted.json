@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0099__inguinal_hernia_repair___4_.txt",
+    "file_name": "mtsamples_0099__inguinal_hernia_repair___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2285,
+    "processed_at": "2026-05-09T09:53:06.185331"
+  },
+  "entities": [
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 104,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 147,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right groin",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 15,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right groin",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pubic",
+      "label": "CHEMICAL",
+      "start_char": 199,
+      "end_char": 204,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pubic",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

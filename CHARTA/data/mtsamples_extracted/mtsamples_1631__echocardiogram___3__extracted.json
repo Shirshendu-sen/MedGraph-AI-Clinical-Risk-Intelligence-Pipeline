@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1631__echocardiogram___3_.txt",
+    "file_name": "mtsamples_1631__echocardiogram___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1491,
+    "processed_at": "2026-05-09T09:53:47.157273"
+  },
+  "entities": [
+    {
+      "text": "Coronary artery disease.,INTERPRETATION",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 39,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Coronary artery disease.,INTERPRETATION",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thrombi",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 20,
+      "sentence_idx": 4,
+      "concept_id": "C0040018",
+      "concept_name": "Thrombin",
+      "kb_source": "mesh",
+      "link_score": 0.8334118127822876,
+      "timestamp": null
+    },
+    {
+      "text": "mitral regurgitation",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 35,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aortic valve",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 16,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic valve",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "AI",
+      "label": "CHEMICAL",
+      "start_char": 15,
+      "end_char": 17,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AI",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tricuspid regurgitation",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 51,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tricuspid regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pericardial effusion",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 23,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pericardial effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Diastolic dysfunction",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 21,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diastolic dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary hypertension",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 27,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

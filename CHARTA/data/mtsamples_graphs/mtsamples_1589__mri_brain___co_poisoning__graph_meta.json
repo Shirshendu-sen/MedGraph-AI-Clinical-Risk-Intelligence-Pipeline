@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1589__mri_brain___co_poisoning_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 16,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1
+  },
+  "visit_dates": [
+    "1996-01-16"
+  ],
+  "graph_file": "mtsamples_1589__mri_brain___co_poisoning__graph.pt",
+  "source_dataset": "mtsamples_1589__mri_brain___co_poisoning"
+}

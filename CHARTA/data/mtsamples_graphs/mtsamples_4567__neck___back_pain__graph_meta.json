@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_4567__neck___back_pain_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 165,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0721599": 2,
+    "C0027302": 3,
+    "C0028978": 4,
+    "C0002600": 5,
+    "C0699926": 6,
+    "C0700017": 7,
+    "C0700899": 8
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4567__neck___back_pain__graph.pt",
+  "source_dataset": "mtsamples_4567__neck___back_pain"
+}

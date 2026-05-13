@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2762__radiologic_exam___spine__.txt",
+    "file_name": "mtsamples_2762__radiologic_exam___spine__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 286,
+    "processed_at": "2026-05-09T09:54:07.040559"
+  },
+  "entities": [
+    {
+      "text": "thoracic spine flexion",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 53,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thoracic spine flexion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

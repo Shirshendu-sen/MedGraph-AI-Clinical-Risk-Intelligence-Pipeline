@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1034__chest_tube_insertion_in_er_.txt",
+    "file_name": "mtsamples_1034__chest_tube_insertion_in_er_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1167,
+    "processed_at": "2026-05-09T09:53:31.828130"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1034__chest_tube_insertion_in_er_.txt",
+    "text": "PREOPERATIVE DIAGNOSES:,1.  Right spontaneous pneumothorax secondary to barometric trauma.,2.  Respiratory failure.,3.  Pneumonia with sepsis.,POSTOPERATIVE DIAGNOSES:,1.  Right spontaneous pneumothorax secondary to barometric trauma.,2.  Respiratory failure.,3.  Pneumonia with sepsis.,INFORMED CONSENT: , Not obtained.  This patient is obtunded, intubated, and septic.  This is an emergent procedure with 2-physician emergency consent signed and on the chart.,PROCEDURE: , The patient's right chest was prepped and draped in sterile fashion.  The site of insertion was anesthetized with 1% Xylocaine, and an incision was made.  Blunt dissection was carried out 2 intercostal spaces above the initial incision site.  The chest wall was opened, and a 32-French chest tube was placed into the thoracic cavity, after examination with the finger, making sure that the thoracic cavity had been entered correctly.  The chest tube was placed.,A postoperative chest x-ray is pending at this time.,The patient tolerated the procedure well and was taken to the recovery room in stable condition.,ESTIMATED BLOOD LOSS:,  10 mL,COMPLICATIONS:,  None.,SPONGE COUNT: , Correct x2.",
+    "char_count": 1167,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSES:,1. Right spontaneous pneumothorax secondary to barometric trauma.,2. Respiratory failure.,3. Pneumonia with sepsis.,POSTOPERATIVE DIAGNOSES:,1. Right spontaneous pneumothorax secondary to barometric trauma.,2. Respiratory failure.,3. Pneumonia with sepsis.,INFORMED CONSENT: , Not obtained. This patient is obtunded, intubated, and septic. This is an emergent procedure with 2-physician emergency consent signed and on the chart.,PROCEDURE: , The patient's right chest was prepped and draped in sterile fashion. The site of insertion was anesthetized with 1% Xylocaine, and an incision was made. Blunt dissection was carried out 2 intercostal spaces above the initial incision site. The chest wall was opened, and a 32-French chest tube was placed into the thoracic cavity, after examination with the finger, making sure that the thoracic cavity had been entered correctly. The chest tube was placed.,A postoperative chest x-ray is pending at this time.,The patient tolerated the procedure well and was taken to the recovery room in stable condition.,ESTIMATED BLOOD LOSS:, 10 mL,COMPLICATIONS:, None.,SPONGE COUNT: , Correct x2.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES:,1.",
+      "Right spontaneous pneumothorax secondary to barometric trauma.,2.",
+      "Respiratory failure.,3.",
+      "Pneumonia with sepsis.,POSTOPERATIVE DIAGNOSES:,1.",
+      "Right spontaneous pneumothorax secondary to barometric trauma.,2.",
+      "Respiratory failure.,3.",
+      "Pneumonia with sepsis.,INFORMED CONSENT: , Not obtained.",
+      "This patient is obtunded, intubated, and septic.",
+      "This is an emergent procedure with 2-physician emergency consent signed and on the chart.,PROCEDURE: , The patient's right chest was prepped and draped in sterile fashion.",
+      "The site of insertion was anesthetized with 1% Xylocaine, and an incision was made.",
+      "Blunt dissection was carried out 2 intercostal spaces above the initial incision site.",
+      "The chest wall was opened, and a 32-French chest tube was placed into the thoracic cavity, after examination with the finger, making sure that the thoracic cavity had been entered correctly.",
+      "The chest tube was placed.,A postoperative chest x-ray is pending at this time.,The patient tolerated the procedure well and was taken to the recovery room in stable condition.,ESTIMATED BLOOD LOSS:, 10 mL,COMPLICATIONS:, None.,SPONGE COUNT: , Correct x2."
+    ],
+    "sentence_count": 13,
+    "original_length": 1167,
+    "cleaned_length": 1153,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSES:,1.  Right spontaneous pneumothorax secondary to barometric trauma.,2.  Respiratory failure.,3.  Pneumonia with sepsis.,POSTOPERATIVE DIAGNOSES:,1.  Right spontaneous pneumothorax secondary to barometric trauma.,2.  Respiratory failure.,3.  Pneumonia with sepsis.,INFORMED CONSENT: , Not obtained.  This patient is obtunded, intubated, and septic.  This is an emergent procedure with 2-physician emergency consent signed and on the chart.,PROCEDURE: , The patient's right chest was prepped and draped in sterile fashion.  The site of insertion was anesthetized with 1% Xylocaine, and an incision was made.  Blunt dissection was carried out 2 intercostal spaces above the initial incision site.  The chest wall was opened, and a 32-French chest tube was placed into the thoracic cavity, after examination with the finger, making sure that the thoracic cavity had been entered correctly.  The chest tube was placed.,A postoperative chest x-ray is pending at this time.,The patient tolerated the procedure well and was taken to the recovery room in stable condition.,ESTIMATED BLOOD LOSS:,  10 mL,COMPLICATIONS:,  None.,SPONGE COUNT: , Correct x2.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSES:,1. Right spontaneous pneumothorax secondary to barometric trauma.,2. Respiratory failure.,3. Pneumonia with sepsis.,POSTOPERATIVE DIAGNOSES:,1. Right spontaneous pneumothorax secondary to barometric trauma.,2. Respiratory failure.,3. Pneumonia with sepsis.,INFORMED CONSENT: , Not obtained. This patient is obtunded, intubated, and septic. This is an emergent procedure with 2-physician emergency consent signed and on the chart.,PROCEDURE: , The patient's right chest was prepped and draped in sterile fashion. The site of insertion was anesthetized with 1% Xylocaine, and an incision was made. Blunt dissection was carried out 2 intercostal spaces above the initial incision site. The chest wall was opened, and a 32-French chest tube was placed into the thoracic cavity, after examination with the finger, making sure that the thoracic cavity had been entered correctly. The chest tube was placed.,A postoperative chest x-ray is pending at this time.,The patient tolerated the procedure well and was taken to the recovery room in stable condition.,ESTIMATED BLOOD LOSS:, 10 mL,COMPLICATIONS:, None.,SPONGE COUNT: , Correct x2.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES:,1.",
+      "Right spontaneous pneumothorax secondary to barometric trauma.,2.",
+      "Respiratory failure.,3.",
+      "Pneumonia with sepsis.,POSTOPERATIVE DIAGNOSES:,1.",
+      "Right spontaneous pneumothorax secondary to barometric trauma.,2.",
+      "Respiratory failure.,3.",
+      "Pneumonia with sepsis.,INFORMED CONSENT: , Not obtained.",
+      "This patient is obtunded, intubated, and septic.",
+      "This is an emergent procedure with 2-physician emergency consent signed and on the chart.,PROCEDURE: , The patient's right chest was prepped and draped in sterile fashion.",
+      "The site of insertion was anesthetized with 1% Xylocaine, and an incision was made.",
+      "Blunt dissection was carried out 2 intercostal spaces above the initial incision site.",
+      "The chest wall was opened, and a 32-French chest tube was placed into the thoracic cavity, after examination with the finger, making sure that the thoracic cavity had been entered correctly.",
+      "The chest tube was placed.,A postoperative chest x-ray is pending at this time.,The patient tolerated the procedure well and was taken to the recovery room in stable condition.,ESTIMATED BLOOD LOSS:, 10 mL,COMPLICATIONS:, None.,SPONGE COUNT: , Correct x2."
+    ],
+    "sentence_count": 13
+  }
+}

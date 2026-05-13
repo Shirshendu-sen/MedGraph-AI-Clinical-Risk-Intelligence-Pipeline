@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4069__vertigo_consult___1_.txt",
+    "file_name": "mtsamples_4069__vertigo_consult___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1045,
+    "processed_at": "2026-05-09T09:54:32.928085"
+  },
+  "entities": [
+    {
+      "text": "nystagmus",
+      "label": "DISEASE",
+      "start_char": 480,
+      "end_char": 489,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nystagmus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-08-24"
+    },
+    {
+      "text": "decompensated vestibular hypofunction",
+      "label": "DISEASE",
+      "start_char": 686,
+      "end_char": 723,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "decompensated vestibular hypofunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-08-24"
+    },
+    {
+      "text": "Decompensation vestibular hypofunction",
+      "label": "DISEASE",
+      "start_char": 739,
+      "end_char": 777,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Decompensation vestibular hypofunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-08-24"
+    },
+    {
+      "text": "betahistine",
+      "label": "CHEMICAL",
+      "start_char": 1013,
+      "end_char": 1024,
+      "sentence_idx": 0,
+      "concept_id": "C0005301",
+      "concept_name": "betahistine",
+      "kb_source": "rxnorm",
+      "link_score": 0.931712806224823,
+      "timestamp": "2010-08-24"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "August 24, 2010",
+      "start_char": 64,
+      "end_char": 79
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0505__nissen_fundoplication_.txt",
+    "file_name": "mtsamples_0505__nissen_fundoplication_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5605,
+    "processed_at": "2026-05-09T09:53:17.722704"
+  },
+  "entities": [
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 142,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 144,
+      "end_char": 152,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophageal perforation",
+      "label": "DISEASE",
+      "start_char": 154,
+      "end_char": 176,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophageal perforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "death",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 186,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "death",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "venous thrombosis",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 76,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "venous thrombosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbon dioxide",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 58,
+      "sentence_idx": 9,
+      "concept_id": "C0007012",
+      "concept_name": "carbon dioxide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9571364521980286,
+      "timestamp": null
+    },
+    {
+      "text": "avascular",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 74,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "avascular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 133,
+      "sentence_idx": 37,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

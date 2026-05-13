@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2967__peritoneal_dialysis_catheter_insertion_.txt",
+    "file_name": "mtsamples_2967__peritoneal_dialysis_catheter_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1742,
+    "processed_at": "2026-05-09T09:54:11.493659"
+  },
+  "entities": [
+    {
+      "text": "renal failure",
+      "label": "DISEASE",
+      "start_char": 223,
+      "end_char": 236,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "renal failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PD",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 25,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PD",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 61,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PD",
+      "label": "DISEASE",
+      "start_char": 2,
+      "end_char": 4,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

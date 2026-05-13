@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_4863__cardiac_radionuclide_stress_test_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 77,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C3538423": 1,
+    "C0065374": 2,
+    "C0016860": 3,
+    "C0037982": 4,
+    "C0028978": 5,
+    "C0054836": 6,
+    "C0085542": 7,
+    "C0004057": 8,
+    "C0020264": 9
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4863__cardiac_radionuclide_stress_test__graph.pt",
+  "source_dataset": "mtsamples_4863__cardiac_radionuclide_stress_test"
+}

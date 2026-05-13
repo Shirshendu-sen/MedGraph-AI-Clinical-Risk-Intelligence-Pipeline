@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4585__transthoracic_echocardiography_.txt",
+    "file_name": "mtsamples_4585__transthoracic_echocardiography_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1370,
+    "processed_at": "2026-05-09T09:54:41.764586"
+  },
+  "entities": [
+    {
+      "text": "Concentric hypertrophy",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 22,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Concentric hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calcification",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 89,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fibrocalcific valve leaflets",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 28,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fibrocalcific valve leaflets",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Atrial",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Atrial",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pericardium",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pericardium",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thrombi",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 39,
+      "sentence_idx": 11,
+      "concept_id": "C0040018",
+      "concept_name": "Thrombin",
+      "kb_source": "mesh",
+      "link_score": 0.8334118127822876,
+      "timestamp": null
+    },
+    {
+      "text": "mitral regurgitation",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 106,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aortic stenosis",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 22,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aortic stenosis",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 122,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Concentric hypertrophy",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 22,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Concentric hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aortic stenosis",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 22,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

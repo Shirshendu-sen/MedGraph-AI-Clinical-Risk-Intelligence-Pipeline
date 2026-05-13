@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2634__ventriculostomy_.txt",
+    "file_name": "mtsamples_2634__ventriculostomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2505,
+    "processed_at": "2026-05-09T09:54:05.437687"
+  },
+  "entities": [
+    {
+      "text": "Triventricular hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 395,
+      "end_char": 423,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Triventricular hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aqueductal stenosis",
+      "label": "DISEASE",
+      "start_char": 445,
+      "end_char": 464,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aqueductal stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 64,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 67,
+      "end_char": 75,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "1:200,000 epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 81,
+      "end_char": 102,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:200,000 epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aqueductal stenosis",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 97,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aqueductal stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 85,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "macrocephaly",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 82,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "macrocephaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 43,
+      "sentence_idx": 15,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

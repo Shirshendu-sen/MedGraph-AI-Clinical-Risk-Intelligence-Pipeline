@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_2841__intractable_epilepsy_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 96,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0048044": 1,
+    "C0031412": 2,
+    "C0042291": 3,
+    "C0723778": 4,
+    "C0876224": 5,
+    "C0678180": 6,
+    "C0004609": 7,
+    "C0876218": 8
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2841__intractable_epilepsy__graph.pt",
+  "source_dataset": "mtsamples_2841__intractable_epilepsy"
+}

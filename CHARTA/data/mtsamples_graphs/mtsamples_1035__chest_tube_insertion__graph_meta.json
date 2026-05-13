@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1035__chest_tube_insertion_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "C0023660": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1035__chest_tube_insertion__graph.pt",
+  "source_dataset": "mtsamples_1035__chest_tube_insertion"
+}

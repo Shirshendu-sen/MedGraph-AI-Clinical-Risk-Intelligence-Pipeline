@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2442__ortho_office_visit_.txt",
+    "file_name": "mtsamples_2442__ortho_office_visit_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 758,
+    "processed_at": "2026-05-09T09:54:01.812966"
+  },
+  "entities": [
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 113,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spasms",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 124,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spasms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "myofascitis",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 41,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myofascitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

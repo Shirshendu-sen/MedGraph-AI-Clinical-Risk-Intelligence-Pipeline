@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_4721__lobectomy___followup_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 44,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0004749": 1,
+    "C0004057": 2,
+    "C0905678": 3,
+    "C0001927": 4,
+    "C0028066": 5
+  },
+  "visit_dates": [
+    "2009-11-23"
+  ],
+  "graph_file": "mtsamples_4721__lobectomy___followup__graph.pt",
+  "source_dataset": "mtsamples_4721__lobectomy___followup"
+}

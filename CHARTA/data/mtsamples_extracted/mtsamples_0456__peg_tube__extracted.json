@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0456__peg_tube_.txt",
+    "file_name": "mtsamples_0456__peg_tube_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1801,
+    "processed_at": "2026-05-09T09:53:16.616856"
+  },
+  "entities": [
+    {
+      "text": "Protein-calorie",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 40,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Protein-calorie",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Protein-calorie",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 97,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Protein-calorie",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PEG",
+      "label": "CHEMICAL",
+      "start_char": 171,
+      "end_char": 174,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PEG",
+      "label": "CHEMICAL",
+      "start_char": 70,
+      "end_char": 73,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PEG tube",
+      "label": "CHEMICAL",
+      "start_char": 65,
+      "end_char": 73,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG tube",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PEG tube",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG tube",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PEG tube",
+      "label": "CHEMICAL",
+      "start_char": 98,
+      "end_char": 106,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG tube",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PEG",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 33,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

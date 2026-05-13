@@ -1,0 +1,29 @@
+{
+  "patient_id": "mtsamples_3879__lap_chole___discharge_summary_",
+  "num_entities": 16,
+  "num_visits": 1,
+  "num_edges": 119,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0017725": 2,
+    "C3848529": 3,
+    "C0010294": 4,
+    "C0037473": 5,
+    "C0032821": 6,
+    "C0633084": 7,
+    "C0016410": 8,
+    "C0699992": 9,
+    "C0024027": 10,
+    "C0719509": 11,
+    "C0591971": 12,
+    "C0483514": 13,
+    "C0721336": 14,
+    "C0699710": 15
+  },
+  "visit_dates": [
+    "2026-05-07"
+  ],
+  "graph_file": "mtsamples_3879__lap_chole___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3879__lap_chole___discharge_summary"
+}

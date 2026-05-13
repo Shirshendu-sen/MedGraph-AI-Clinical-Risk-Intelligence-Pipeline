@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0106__inguinal_hernia___hydrocele_repair_.txt",
+    "file_name": "mtsamples_0106__inguinal_hernia___hydrocele_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2883,
+    "processed_at": "2026-05-09T09:53:06.390552"
+  },
+  "entities": [
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 161,
+      "end_char": 167,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocele",
+      "label": "DISEASE",
+      "start_char": 172,
+      "end_char": 181,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocele",
+      "label": "DISEASE",
+      "start_char": 363,
+      "end_char": 372,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocele",
+      "label": "DISEASE",
+      "start_char": 174,
+      "end_char": 183,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocele",
+      "label": "DISEASE",
+      "start_char": 188,
+      "end_char": 197,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 201,
+      "end_char": 207,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocele",
+      "label": "DISEASE",
+      "start_char": 212,
+      "end_char": 221,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chlorhexidine",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 57,
+      "sentence_idx": 8,
+      "concept_id": "C0008196",
+      "concept_name": "chlorhexidine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9488893151283264,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 190,
+      "end_char": 198,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 211,
+      "end_char": 222,
+      "sentence_idx": 8,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocele",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 26,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

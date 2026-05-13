@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1550__mri_orbit_face_neck_.txt",
+    "file_name": "mtsamples_1550__mri_orbit_face_neck_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1811,
+    "processed_at": "2026-05-09T09:53:44.312909"
+  },
+  "entities": [
+    {
+      "text": "agent.,2",
+      "label": "CHEMICAL",
+      "start_char": 153,
+      "end_char": 161,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "agent.,2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pedunculated mass",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 119,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pedunculated mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 81,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arachnoid cyst",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 49,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arachnoid cyst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "MR",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "MR",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

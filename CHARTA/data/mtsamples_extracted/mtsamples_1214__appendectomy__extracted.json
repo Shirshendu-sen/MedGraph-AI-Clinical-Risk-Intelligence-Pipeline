@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1214__appendectomy_.txt",
+    "file_name": "mtsamples_1214__appendectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2259,
+    "processed_at": "2026-05-09T09:53:36.927827"
+  },
+  "entities": [
+    {
+      "text": "Appendicitis",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 78,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Appendicitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 161,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "taenia",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 124,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "taenia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "benzoin",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 33,
+      "sentence_idx": 15,
+      "concept_id": "C0005070",
+      "concept_name": "benzoin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563013911247253,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

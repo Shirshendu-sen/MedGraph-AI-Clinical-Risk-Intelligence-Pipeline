@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4384__foreign_body___fingernail_.txt",
+    "file_name": "mtsamples_4384__foreign_body___fingernail_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2322,
+    "processed_at": "2026-05-09T09:54:37.963091"
+  },
+  "entities": [
+    {
+      "text": "tetanus",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 121,
+      "sentence_idx": 2,
+      "concept_id": "C0039617",
+      "concept_name": "Clostridium tetani Toxin",
+      "kb_source": "mesh",
+      "link_score": 0.7945747971534729,
+      "timestamp": null
+    },
+    {
+      "text": "allergic",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 159,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tetanus",
+      "label": "DISEASE",
+      "start_char": 260,
+      "end_char": 267,
+      "sentence_idx": 2,
+      "concept_id": "C0039617",
+      "concept_name": "Clostridium tetani Toxin",
+      "kb_source": "mesh",
+      "link_score": 0.7945747971534729,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 27,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 17,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "splinter",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 116,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "splinter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "brittle",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 143,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "brittle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 133,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 137,
+      "end_char": 146,
+      "sentence_idx": 10,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 99,
+      "end_char": 109,
+      "sentence_idx": 12,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 287,
+      "end_char": 297,
+      "sentence_idx": 12,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    },
+    {
+      "text": "redness",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 30,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "redness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 36,
+      "sentence_idx": 13,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

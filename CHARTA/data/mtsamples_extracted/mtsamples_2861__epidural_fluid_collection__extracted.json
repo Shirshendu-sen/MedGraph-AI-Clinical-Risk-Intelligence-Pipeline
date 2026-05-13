@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2861__epidural_fluid_collection_.txt",
+    "file_name": "mtsamples_2861__epidural_fluid_collection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3510,
+    "processed_at": "2026-05-09T09:54:09.919788"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "succinylcholine",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 51,
+      "sentence_idx": 3,
+      "concept_id": "C0038627",
+      "concept_name": "suxamethonium",
+      "kb_source": "rxnorm",
+      "link_score": 0.952431857585907,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "s/p left knee arthroplasty",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 167,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "s/p left knee arthroplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "ETOH",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 55,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ETOH",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 143,
+      "end_char": 146,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "Babinski",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Babinski",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 27,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "contusions",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 126,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contusions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 29,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 82,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "Comminuted fractures",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 20,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Comminuted fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "Comminuted fractures",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 20,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Comminuted fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "opacification",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 120,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "opacification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "K",
+      "label": "CHEMICAL",
+      "start_char": 74,
+      "end_char": 75,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "K",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "Glucose",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 27,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "Mannitol",
+      "label": "CHEMICAL",
+      "start_char": 46,
+      "end_char": 54,
+      "sentence_idx": 27,
+      "concept_id": "C0024730",
+      "concept_name": "mannitol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9753459095954895,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "Dilantin",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 117,
+      "sentence_idx": 27,
+      "concept_id": "C0699512",
+      "concept_name": "Dilantin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9751823544502258,
+      "timestamp": "1992-10-29"
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 143,
+      "end_char": 152,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-29"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/29/92",
+      "start_char": 1646,
+      "end_char": 1654
+    },
+    {
+      "raw_text": "28/48/46",
+      "start_char": 3052,
+      "end_char": 3060
+    }
+  ]
+}

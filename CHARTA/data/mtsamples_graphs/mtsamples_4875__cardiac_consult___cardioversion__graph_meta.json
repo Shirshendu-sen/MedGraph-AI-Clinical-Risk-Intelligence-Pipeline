@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_4875__cardiac_consult___cardioversion_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 81,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0016229": 1,
+    "C0004147": 2,
+    "C0878061": 3,
+    "C0678181": 4,
+    "C0699129": 5,
+    "C0001963": 6,
+    "C0006644": 7,
+    "C0015846": 8
+  },
+  "visit_dates": [
+    "2010-01-17"
+  ],
+  "graph_file": "mtsamples_4875__cardiac_consult___cardioversion__graph.pt",
+  "source_dataset": "mtsamples_4875__cardiac_consult___cardioversion"
+}

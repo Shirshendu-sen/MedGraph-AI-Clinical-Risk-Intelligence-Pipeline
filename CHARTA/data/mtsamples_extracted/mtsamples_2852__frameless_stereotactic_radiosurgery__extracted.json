@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2852__frameless_stereotactic_radiosurgery_.txt",
+    "file_name": "mtsamples_2852__frameless_stereotactic_radiosurgery_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2904,
+    "processed_at": "2026-05-09T09:54:09.750804"
+  },
+  "entities": [
+    {
+      "text": "right occipital AVM",
+      "label": "DISEASE",
+      "start_char": 413,
+      "end_char": 432,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right occipital AVM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-14"
+    },
+    {
+      "text": "AVM",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 144,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AVM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-14"
+    },
+    {
+      "text": "necrosis",
+      "label": "DISEASE",
+      "start_char": 203,
+      "end_char": 211,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-14"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 213,
+      "end_char": 222,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-14"
+    },
+    {
+      "text": "seizures",
+      "label": "DISEASE",
+      "start_char": 224,
+      "end_char": 232,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-14"
+    },
+    {
+      "text": "visual loss",
+      "label": "DISEASE",
+      "start_char": 234,
+      "end_char": 245,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "visual loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-14"
+    },
+    {
+      "text": "neurologic deficits",
+      "label": "DISEASE",
+      "start_char": 256,
+      "end_char": 275,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neurologic deficits",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-14"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 20,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-14"
+    },
+    {
+      "text": "Gy",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 38,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Gy",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-05-14"
+    },
+    {
+      "text": "Gy",
+      "label": "CHEMICAL",
+      "start_char": 66,
+      "end_char": 68,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Gy",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-05-14"
+    },
+    {
+      "text": "AVM",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 79,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AVM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-14"
+    },
+    {
+      "text": "Decadron",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 28,
+      "concept_id": "C0740057",
+      "concept_name": "Decadron",
+      "kb_source": "rxnorm",
+      "link_score": 0.9529008269309998,
+      "timestamp": "2004-05-14"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "May 14, 2004",
+      "start_char": 2109,
+      "end_char": 2121
+    }
+  ]
+}

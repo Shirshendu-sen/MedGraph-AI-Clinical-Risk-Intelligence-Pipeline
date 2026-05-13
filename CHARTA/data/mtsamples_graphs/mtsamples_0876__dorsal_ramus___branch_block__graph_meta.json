@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_0876__dorsal_ramus___branch_block_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 17,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1,
+    "C0006400": 2,
+    "C0030346": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0876__dorsal_ramus___branch_block__graph.pt",
+  "source_dataset": "mtsamples_0876__dorsal_ramus___branch_block"
+}

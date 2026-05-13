@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_0047__pyeloureteroscopy_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 21,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0037107": 1,
+    "C0010294": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0047__pyeloureteroscopy__graph.pt",
+  "source_dataset": "mtsamples_0047__pyeloureteroscopy"
+}

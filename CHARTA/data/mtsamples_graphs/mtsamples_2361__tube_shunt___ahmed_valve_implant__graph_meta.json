@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_2361__tube_shunt___ahmed_valve_implant_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 34,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0722226": 1,
+    "C0023660": 2,
+    "C0700889": 3,
+    "C3854019": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2361__tube_shunt___ahmed_valve_implant__graph.pt",
+  "source_dataset": "mtsamples_2361__tube_shunt___ahmed_valve_implant"
+}

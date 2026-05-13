@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3331__gen_med_consult___26_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 54,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030304": 1,
+    "C0001963": 2
+  },
+  "visit_dates": [
+    "2026-03-10"
+  ],
+  "graph_file": "mtsamples_3331__gen_med_consult___26__graph.pt",
+  "source_dataset": "mtsamples_3331__gen_med_consult___26"
+}

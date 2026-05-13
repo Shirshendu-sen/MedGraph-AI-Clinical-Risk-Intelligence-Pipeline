@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2216__endoscopic_carpal_tunnel___de_quervain_s_release_.txt",
+    "file_name": "mtsamples_2216__endoscopic_carpal_tunnel___de_quervain_s_release_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3577,
+    "processed_at": "2026-05-09T09:53:58.502355"
+  },
+  "entities": [
+    {
+      "text": "Quervain",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 43,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Quervain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Quervain",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 43,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Quervain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Quervain",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 48,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Quervain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 36,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 250,
+      "end_char": 259,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenosynovitis",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 113,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenosynovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Quervain",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 126,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Quervain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "APL tendons",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 19,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "APL tendons",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

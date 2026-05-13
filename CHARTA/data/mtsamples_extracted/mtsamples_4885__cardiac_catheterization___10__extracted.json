@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4885__cardiac_catheterization___10_.txt",
+    "file_name": "mtsamples_4885__cardiac_catheterization___10_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2244,
+    "processed_at": "2026-05-09T09:54:46.928812"
+  },
+  "entities": [
+    {
+      "text": "Chest pain",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 63,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 88,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 11,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Left coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 28,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

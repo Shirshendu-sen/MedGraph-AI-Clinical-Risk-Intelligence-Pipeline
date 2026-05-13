@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_4384__foreign_body___fingernail_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "C0039617": 0,
+    "UNKNOWN": 1,
+    "C0030346": 2,
+    "C0023660": 3,
+    "C0004599": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4384__foreign_body___fingernail__graph.pt",
+  "source_dataset": "mtsamples_4384__foreign_body___fingernail"
+}

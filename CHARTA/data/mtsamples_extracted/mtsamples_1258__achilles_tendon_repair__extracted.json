@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1258__achilles_tendon_repair_.txt",
+    "file_name": "mtsamples_1258__achilles_tendon_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3370,
+    "processed_at": "2026-05-09T09:53:38.082939"
+  },
+  "entities": [
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 38,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 48,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ankle",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 17,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ankle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

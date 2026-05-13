@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1673__ct_head___4_.txt",
+    "file_name": "mtsamples_1673__ct_head___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 660,
+    "processed_at": "2026-05-09T09:53:48.105420"
+  },
+  "entities": [
+    {
+      "text": "loss of consciousness",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 90,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of consciousness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intracranial hemorrhage",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 53,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intracranial hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calvarial fractures",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 101,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calvarial fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

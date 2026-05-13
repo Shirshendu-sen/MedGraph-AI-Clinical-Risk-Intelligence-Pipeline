@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4194__normal_physical_exam_template___1_.txt",
+    "file_name": "mtsamples_4194__normal_physical_exam_template___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1160,
+    "processed_at": "2026-05-09T09:54:34.770193"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4194__normal_physical_exam_template___1_.txt",
+    "text": "GENERAL: , Vital signs and temperature as documented in nursing notes.  The patient appears stated age and is adequately developed.,EYES:,  Pupils are equal, round, reactive to light and accommodation.  Lids and conjunctivae reveal no gross abnormality.,ENT:  ,Hearing appears adequate.  No obvious asymmetry or deformity of the ears and nose.,NECK: , Trachea midline.  Symmetric with no obvious deformity or mass; no thyromegaly evident.,RESPIRATORY:,  The patient has normal and symmetric respiratory effort.  Lungs are clear to auscultation.,CARDIOVASCULAR: , S1, S2 without significant murmur.,ABDOMEN: , Abdomen is flat, soft, nontender.  Bowel sounds are active.  No masses or pulsations present.,EXTREMITIES: , Extremities reveal no remarkable dependent edema or varicosities.,MUSCULOSKELETAL:  ,The patient is ambulatory with normal and symmetric gait.  There is adequate range of motion without significant pain or deformity.,SKIN: , Essentially clear with no significant rash or lesions.  Adequate skin turgor.,NEUROLOGICAL: , No acute focal neurologic changes.,PSYCHIATRIC:,  Mental status, judgment and affect are grossly intact and normal for age.",
+    "char_count": 1160,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "GENERAL: , Vital signs and temperature as documented in nursing notes. The patient appears stated age and is adequately developed.,EYES:, Pupils are equal, round, reactive to light and accommodation. Lids and conjunctivae reveal no gross abnormality.,ENT: ,Hearing appears adequate. No obvious asymmetry or deformity of the ears and nose.,NECK: , Trachea midline. Symmetric with no obvious deformity or mass; no thyromegaly evident.,RESPIRATORY:, The patient has normal and symmetric respiratory effort. Lungs are clear to auscultation.,CARDIOVASCULAR: , S1, S2 without significant murmur.,ABDOMEN: , Abdomen is flat, soft, nontender. Bowel sounds are active. No masses or pulsations present.,EXTREMITIES: , Extremities reveal no remarkable dependent edema or varicosities.,MUSCULOSKELETAL: ,The patient is ambulatory with normal and symmetric gait. There is adequate range of motion without significant pain or deformity.,SKIN: , Essentially clear with no significant rash or lesions. Adequate skin turgor.,NEUROLOGICAL: , No acute focal neurologic changes.,PSYCHIATRIC:, Mental status, judgment and affect are grossly intact and normal for age.",
+    "sentences": [
+      "GENERAL: , Vital signs and temperature as documented in nursing notes.",
+      "The patient appears stated age and is adequately developed.,EYES:, Pupils are equal, round, reactive to light and accommodation.",
+      "Lids and conjunctivae reveal no gross abnormality.,ENT: ,Hearing appears adequate.",
+      "No obvious asymmetry or deformity of the ears and nose.,NECK: , Trachea midline.",
+      "Symmetric with no obvious deformity or mass; no thyromegaly evident.,RESPIRATORY:, The patient has normal and symmetric respiratory effort.",
+      "Lungs are clear to auscultation.,CARDIOVASCULAR: , S1, S2 without significant murmur.,ABDOMEN: , Abdomen is flat, soft, nontender.",
+      "Bowel sounds are active.",
+      "No masses or pulsations present.,EXTREMITIES: , Extremities reveal no remarkable dependent edema or varicosities.,MUSCULOSKELETAL: ,The patient is ambulatory with normal and symmetric gait.",
+      "There is adequate range of motion without significant pain or deformity.,SKIN: , Essentially clear with no significant rash or lesions.",
+      "Adequate skin turgor.,NEUROLOGICAL: , No acute focal neurologic changes.,PSYCHIATRIC:, Mental status, judgment and affect are grossly intact and normal for age."
+    ],
+    "sentence_count": 10,
+    "original_length": 1160,
+    "cleaned_length": 1146,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "GENERAL: , Vital signs and temperature as documented in nursing notes.  The patient appears stated age and is adequately developed.,EYES:,  Pupils are equal, round, reactive to light and accommodation.  Lids and conjunctivae reveal no gross abnormality.,ENT:  ,Hearing appears adequate.  No obvious asymmetry or deformity of the ears and nose.,NECK: , Trachea midline.  Symmetric with no obvious deformity or mass; no thyromegaly evident.,RESPIRATORY:,  The patient has normal and symmetric respiratory effort.  Lungs are clear to auscultation.,CARDIOVASCULAR: , S1, S2 without significant murmur.,ABDOMEN: , Abdomen is flat, soft, nontender.  Bowel sounds are active.  No masses or pulsations present.,EXTREMITIES: , Extremities reveal no remarkable dependent edema or varicosities.,MUSCULOSKELETAL:  ,The patient is ambulatory with normal and symmetric gait.  There is adequate range of motion without significant pain or deformity.,SKIN: , Essentially clear with no significant rash or lesions.  Adequate skin turgor.,NEUROLOGICAL: , No acute focal neurologic changes.,PSYCHIATRIC:,  Mental status, judgment and affect are grossly intact and normal for age.",
+    "cleaned_text": "GENERAL: , Vital signs and temperature as documented in nursing notes. The patient appears stated age and is adequately developed.,EYES:, Pupils are equal, round, reactive to light and accommodation. Lids and conjunctivae reveal no gross abnormality.,ENT: ,Hearing appears adequate. No obvious asymmetry or deformity of the ears and nose.,NECK: , Trachea midline. Symmetric with no obvious deformity or mass; no thyromegaly evident.,RESPIRATORY:, The patient has normal and symmetric respiratory effort. Lungs are clear to auscultation.,CARDIOVASCULAR: , S1, S2 without significant murmur.,ABDOMEN: , Abdomen is flat, soft, nontender. Bowel sounds are active. No masses or pulsations present.,EXTREMITIES: , Extremities reveal no remarkable dependent edema or varicosities.,MUSCULOSKELETAL: ,The patient is ambulatory with normal and symmetric gait. There is adequate range of motion without significant pain or deformity.,SKIN: , Essentially clear with no significant rash or lesions. Adequate skin turgor.,NEUROLOGICAL: , No acute focal neurologic changes.,PSYCHIATRIC:, Mental status, judgment and affect are grossly intact and normal for age.",
+    "sentences": [
+      "GENERAL: , Vital signs and temperature as documented in nursing notes.",
+      "The patient appears stated age and is adequately developed.,EYES:, Pupils are equal, round, reactive to light and accommodation.",
+      "Lids and conjunctivae reveal no gross abnormality.,ENT: ,Hearing appears adequate.",
+      "No obvious asymmetry or deformity of the ears and nose.,NECK: , Trachea midline.",
+      "Symmetric with no obvious deformity or mass; no thyromegaly evident.,RESPIRATORY:, The patient has normal and symmetric respiratory effort.",
+      "Lungs are clear to auscultation.,CARDIOVASCULAR: , S1, S2 without significant murmur.,ABDOMEN: , Abdomen is flat, soft, nontender.",
+      "Bowel sounds are active.",
+      "No masses or pulsations present.,EXTREMITIES: , Extremities reveal no remarkable dependent edema or varicosities.,MUSCULOSKELETAL: ,The patient is ambulatory with normal and symmetric gait.",
+      "There is adequate range of motion without significant pain or deformity.,SKIN: , Essentially clear with no significant rash or lesions.",
+      "Adequate skin turgor.,NEUROLOGICAL: , No acute focal neurologic changes.,PSYCHIATRIC:, Mental status, judgment and affect are grossly intact and normal for age."
+    ],
+    "sentence_count": 10
+  }
+}

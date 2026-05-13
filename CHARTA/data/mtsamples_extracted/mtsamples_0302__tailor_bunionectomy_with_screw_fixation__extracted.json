@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0302__tailor_bunionectomy_with_screw_fixation_.txt",
+    "file_name": "mtsamples_0302__tailor_bunionectomy_with_screw_fixation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 6624,
+    "processed_at": "2026-05-09T09:53:11.970603"
+  },
+  "entities": [
+    {
+      "text": "Hallux abductovalgus deformity",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 30,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hallux abductovalgus deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bunion deformity",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 23,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bunion deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hallux abductovalgus deformity",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 30,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hallux abductovalgus deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bunion deformity",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 23,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bunion deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 188,
+      "end_char": 196,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 287,
+      "end_char": 295,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dexamethasone",
+      "label": "CHEMICAL",
+      "start_char": 314,
+      "end_char": 327,
+      "sentence_idx": 4,
+      "concept_id": "C0011777",
+      "concept_name": "dexamethasone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9694039821624756,
+      "timestamp": null
+    },
+    {
+      "text": "Esmarch bandage",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 18,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Esmarch bandage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blunt dissections",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 72,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blunt dissections",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blunt dissections",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 68,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blunt dissections",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 36,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dexamethasone phosphate",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 78,
+      "sentence_idx": 41,
+      "concept_id": "C0770565",
+      "concept_name": "dexamethasone phosphate",
+      "kb_source": "rxnorm",
+      "link_score": 0.972265362739563,
+      "timestamp": null
+    },
+    {
+      "text": "compressive",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 113,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "compressive",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 45,
+      "sentence_idx": 48,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

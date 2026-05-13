@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3070__impairment_rating_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    "2002-01-01"
+  ],
+  "graph_file": "mtsamples_3070__impairment_rating__graph.pt",
+  "source_dataset": "mtsamples_3070__impairment_rating"
+}

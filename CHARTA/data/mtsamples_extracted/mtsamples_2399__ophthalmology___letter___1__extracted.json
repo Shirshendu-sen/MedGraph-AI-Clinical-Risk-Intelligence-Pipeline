@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2399__ophthalmology___letter___1_.txt",
+    "file_name": "mtsamples_2399__ophthalmology___letter___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1392,
+    "processed_at": "2026-05-09T09:54:01.103851"
+  },
+  "entities": [
+    {
+      "text": "DOB",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 21,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DOB",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataracts",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 52,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataracts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "20/50",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 137,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "20/50",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 51,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataracts",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 52,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataracts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fuchs dystrophy",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 86,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fuchs dystrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 40,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

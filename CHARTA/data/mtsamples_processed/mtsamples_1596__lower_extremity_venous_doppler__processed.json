@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1596__lower_extremity_venous_doppler_.txt",
+    "file_name": "mtsamples_1596__lower_extremity_venous_doppler_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 515,
+    "processed_at": "2026-05-09T09:53:45.701437"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1596__lower_extremity_venous_doppler_.txt",
+    "text": "LEFT LOWER EXTREMITY VENOUS DOPPLER ULTRASOUND,REASON FOR EXAM: , Status post delivery five weeks ago presenting with left calf pain.,INTERPRETATIONS: , There was normal flow, compression and augmentation within the right common femoral, superficial femoral and popliteal veins.  Lymph nodes within the left inguinal region measure up to 1 cm in short-axis.,IMPRESSION: , Lymph nodes within the left inguinal region measure up to 1 cm in short-axis, otherwise no evidence for left lower extremity venous thrombosis.",
+    "char_count": 515,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "LEFT LOWER EXTREMITY VENOUS DOPPLER ULTRASOUND,REASON FOR EXAM: , Status post delivery five weeks ago presenting with left calf pain.,INTERPRETATIONS: , There was normal flow, compression and augmentation within the right common femoral, superficial femoral and popliteal veins. Lymph nodes within the left inguinal region measure up to 1 cm in short-axis.,IMPRESSION: , Lymph nodes within the left inguinal region measure up to 1 cm in short-axis, otherwise no evidence for left lower extremity venous thrombosis.",
+    "sentences": [
+      "LEFT LOWER EXTREMITY VENOUS DOPPLER ULTRASOUND,REASON FOR EXAM: , Status post delivery five weeks ago presenting with left calf pain.,INTERPRETATIONS: , There was normal flow, compression and augmentation within the right common femoral, superficial femoral and popliteal veins.",
+      "Lymph nodes within the left inguinal region measure up to 1 cm in short-axis.,IMPRESSION: , Lymph nodes within the left inguinal region measure up to 1 cm in short-axis, otherwise no evidence for left lower extremity venous thrombosis."
+    ],
+    "sentence_count": 2,
+    "original_length": 515,
+    "cleaned_length": 514,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "LEFT LOWER EXTREMITY VENOUS DOPPLER ULTRASOUND,REASON FOR EXAM: , Status post delivery five weeks ago presenting with left calf pain.,INTERPRETATIONS: , There was normal flow, compression and augmentation within the right common femoral, superficial femoral and popliteal veins.  Lymph nodes within the left inguinal region measure up to 1 cm in short-axis.,IMPRESSION: , Lymph nodes within the left inguinal region measure up to 1 cm in short-axis, otherwise no evidence for left lower extremity venous thrombosis.",
+    "cleaned_text": "LEFT LOWER EXTREMITY VENOUS DOPPLER ULTRASOUND,REASON FOR EXAM: , Status post delivery five weeks ago presenting with left calf pain.,INTERPRETATIONS: , There was normal flow, compression and augmentation within the right common femoral, superficial femoral and popliteal veins. Lymph nodes within the left inguinal region measure up to 1 cm in short-axis.,IMPRESSION: , Lymph nodes within the left inguinal region measure up to 1 cm in short-axis, otherwise no evidence for left lower extremity venous thrombosis.",
+    "sentences": [
+      "LEFT LOWER EXTREMITY VENOUS DOPPLER ULTRASOUND,REASON FOR EXAM: , Status post delivery five weeks ago presenting with left calf pain.,INTERPRETATIONS: , There was normal flow, compression and augmentation within the right common femoral, superficial femoral and popliteal veins.",
+      "Lymph nodes within the left inguinal region measure up to 1 cm in short-axis.,IMPRESSION: , Lymph nodes within the left inguinal region measure up to 1 cm in short-axis, otherwise no evidence for left lower extremity venous thrombosis."
+    ],
+    "sentence_count": 2
+  }
+}

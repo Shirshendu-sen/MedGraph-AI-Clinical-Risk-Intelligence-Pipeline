@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2371__rectus_recession_.txt",
+    "file_name": "mtsamples_2371__rectus_recession_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2094,
+    "processed_at": "2026-05-09T09:54:00.836471"
+  },
+  "entities": [
+    {
+      "text": "esotropia",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 55,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esotropia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esotropia",
+      "label": "DISEASE",
+      "start_char": 210,
+      "end_char": 219,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esotropia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "TobraDex",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 20,
+      "concept_id": "C0723765",
+      "concept_name": "Tobradex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9831443428993225,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0304__synchromed_pump_placement_.txt",
+    "file_name": "mtsamples_0304__synchromed_pump_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3501,
+    "processed_at": "2026-05-09T09:53:12.036943"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 75,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3624__colonoscopy___12_.txt",
+    "file_name": "mtsamples_3624__colonoscopy___12_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 823,
+    "processed_at": "2026-05-09T09:54:25.184778"
+  },
+  "entities": [
+    {
+      "text": "Vistaril",
+      "label": "CHEMICAL",
+      "start_char": 249,
+      "end_char": 257,
+      "sentence_idx": 0,
+      "concept_id": "C0936278",
+      "concept_name": "Vistaril",
+      "kb_source": "rxnorm",
+      "link_score": 0.991743803024292,
+      "timestamp": null
+    },
+    {
+      "text": "Atropine",
+      "label": "CHEMICAL",
+      "start_char": 265,
+      "end_char": 273,
+      "sentence_idx": 0,
+      "concept_id": "C0004259",
+      "concept_name": "atropine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9555075764656067,
+      "timestamp": null
+    },
+    {
+      "text": "Demerol",
+      "label": "CHEMICAL",
+      "start_char": 321,
+      "end_char": 328,
+      "sentence_idx": 0,
+      "concept_id": "C0935966",
+      "concept_name": "Demerol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9676215052604675,
+      "timestamp": null
+    },
+    {
+      "text": "colon, hepatic flexure, transverse colon, splenic flexure, descending colon, rectosigmoid and rectum.",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 189,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colon, hepatic flexure, transverse colon, splenic flexure, descending colon, rectosigmoid and rectum.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

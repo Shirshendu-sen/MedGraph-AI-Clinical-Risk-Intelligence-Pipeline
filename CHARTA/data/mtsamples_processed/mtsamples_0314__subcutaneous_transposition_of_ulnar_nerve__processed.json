@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0314__subcutaneous_transposition_of_ulnar_nerve_.txt",
+    "file_name": "mtsamples_0314__subcutaneous_transposition_of_ulnar_nerve_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 62,
+    "processed_at": "2026-05-09T09:53:12.248066"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0314__subcutaneous_transposition_of_ulnar_nerve_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS:  ,1.  Right carpal tunnel syndrome.,2.",
+    "char_count": 62,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: ,1. Right carpal tunnel syndrome.,2.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: ,1.",
+      "Right carpal tunnel syndrome.,2."
+    ],
+    "sentence_count": 2,
+    "original_length": 62,
+    "cleaned_length": 60,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS:  ,1.  Right carpal tunnel syndrome.,2.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: ,1. Right carpal tunnel syndrome.,2.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: ,1.",
+      "Right carpal tunnel syndrome.,2."
+    ],
+    "sentence_count": 2
+  }
+}

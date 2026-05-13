@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_0606__laser_of_vulva_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 16,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0007012": 1,
+    "C0000983": 2,
+    "C0004599": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0606__laser_of_vulva__graph.pt",
+  "source_dataset": "mtsamples_0606__laser_of_vulva"
+}

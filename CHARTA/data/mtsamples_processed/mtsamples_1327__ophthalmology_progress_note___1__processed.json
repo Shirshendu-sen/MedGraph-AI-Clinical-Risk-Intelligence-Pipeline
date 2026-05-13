@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1327__ophthalmology_progress_note___1_.txt",
+    "file_name": "mtsamples_1327__ophthalmology_progress_note___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 250,
+    "processed_at": "2026-05-09T09:53:39.284729"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1327__ophthalmology_progress_note___1_.txt",
+    "text": "She is stable at this time and does not require any intervention at today's visit.  I have asked her to return in six months' for a followup dilated examination, but would be happy to see her sooner should you or she notice any changes in her vision.",
+    "char_count": 250,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "She is stable at this time and does not require any intervention at today's visit. I have asked her to return in six months' for a followup dilated examination, but would be happy to see her sooner should you or she notice any changes in her vision.",
+    "sentences": [
+      "She is stable at this time and does not require any intervention at today's visit.",
+      "I have asked her to return in six months' for a followup dilated examination, but would be happy to see her sooner should you or she notice any changes in her vision."
+    ],
+    "sentence_count": 2,
+    "original_length": 250,
+    "cleaned_length": 249,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "She is stable at this time and does not require any intervention at today's visit.  I have asked her to return in six months' for a followup dilated examination, but would be happy to see her sooner should you or she notice any changes in her vision.",
+    "cleaned_text": "She is stable at this time and does not require any intervention at today's visit. I have asked her to return in six months' for a followup dilated examination, but would be happy to see her sooner should you or she notice any changes in her vision.",
+    "sentences": [
+      "She is stable at this time and does not require any intervention at today's visit.",
+      "I have asked her to return in six months' for a followup dilated examination, but would be happy to see her sooner should you or she notice any changes in her vision."
+    ],
+    "sentence_count": 2
+  }
+}

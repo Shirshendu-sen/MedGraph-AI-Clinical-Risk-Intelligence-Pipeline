@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2799__mri_c_spine_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 18,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0016911": 1,
+    "C0017725": 2
+  },
+  "visit_dates": [
+    "1993-07-07"
+  ],
+  "graph_file": "mtsamples_2799__mri_c_spine__graph.pt",
+  "source_dataset": "mtsamples_2799__mri_c_spine"
+}

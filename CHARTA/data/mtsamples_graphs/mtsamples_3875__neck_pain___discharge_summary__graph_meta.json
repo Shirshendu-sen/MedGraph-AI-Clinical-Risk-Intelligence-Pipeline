@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_3875__neck_pain___discharge_summary_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 36,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0026549": 2,
+    "C0740057": 3,
+    "C0699458": 4
+  },
+  "visit_dates": [
+    "2007-09-13"
+  ],
+  "graph_file": "mtsamples_3875__neck_pain___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3875__neck_pain___discharge_summary"
+}

@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3296__gen_med_progress_note___13_.txt",
+    "file_name": "mtsamples_3296__gen_med_progress_note___13_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1414,
+    "processed_at": "2026-05-09T09:54:17.757502"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3296__gen_med_progress_note___13_.txt",
+    "text": "SUBJECTIVE: , The patient states she is feeling a bit better.,OBJECTIVE:,VITAL SIGNS:  Temperature is 95.4.  Highest temperature recorded over the past 24 hours is 102.1.,CHEST:  Examination of the chest is clear to auscultation.,CARDIOVASCULAR:  First and second heart sounds were heard.  No murmurs appreciated.,ABDOMEN:  Benign.  Right renal angle is tender.  Bowel sounds are positive.,EXTREMITIES:  There is no swelling.,NEUROLOGIC:  The patient is alert and oriented x3.  Examination is nonfocal.,LABORATORY DATA: , White count is down from 35,000 to 15.5.  Hemoglobin is 9.5, hematocrit is 30, and platelets are 269,000.  BUN is down to 22, creatinine is within normal limits.,ASSESSMENT AND PLAN:,1.  Sepsis due to urinary tract infection.  Urine culture shows Escherichia coli, resistant to Levaquin.  We changed to doripenem.,2.  Urinary tract infection, we will treat with doripenem, change Foley catheter,3.  Hypotension.  Resolved, continue intravenous fluids.,4.  Ischemic cardiomyopathy.  No evidence of decompensation, we with monitor.,5.  Diabetes type 2.  Uncontrolled.  Continue insulin sliding scale.,6.  Recent pulmonary embolism, INR is above therapeutic range, Coumadin is on hold, we will monitor.,7.  History of coronary artery disease.  Troponin indeterminate.  Cardiologist intends no further workup.  Continue medical treatment.  Most likely troponin is secondary to impaired clearance.",
+    "char_count": 1414,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "SUBJECTIVE: , The patient states she is feeling a bit better.,OBJECTIVE:,VITAL SIGNS: Temperature is 95.4. Highest temperature recorded over the past 24 hours is 102.1.,CHEST: Examination of the chest is clear to auscultation.,CARDIOVASCULAR: First and second heart sounds were heard. No murmurs appreciated.,ABDOMEN: Benign. Right renal angle is tender. Bowel sounds are positive.,EXTREMITIES: There is no swelling.,NEUROLOGIC: The patient is alert and oriented x3. Examination is nonfocal.,LABORATORY DATA: , White count is down from 35,000 to 15.5. Hemoglobin is 9.5, hematocrit is 30, and platelets are 269,000. BUN is down to 22, creatinine is within normal limits.,ASSESSMENT AND PLAN:,1. Sepsis due to urinary tract infection. Urine culture shows Escherichia coli, resistant to Levaquin. We changed to doripenem.,2. Urinary tract infection, we will treat with doripenem, change Foley catheter,3. Hypotension. Resolved, continue intravenous fluids.,4. Ischemic cardiomyopathy. No evidence of decompensation, we with monitor.,5. Diabetes type 2. Uncontrolled. Continue insulin sliding scale.,6. Recent pulmonary embolism, INR is above therapeutic range, Coumadin is on hold, we will monitor.,7. History of coronary artery disease. Troponin indeterminate. Cardiologist intends no further workup. Continue medical treatment. Most likely troponin is secondary to impaired clearance.",
+    "sentences": [
+      "SUBJECTIVE: , The patient states she is feeling a bit better.,OBJECTIVE:,VITAL SIGNS: Temperature is 95.4.",
+      "Highest temperature recorded over the past 24 hours is 102.1.,CHEST: Examination of the chest is clear to auscultation.,CARDIOVASCULAR: First and second heart sounds were heard.",
+      "No murmurs appreciated.,ABDOMEN: Benign.",
+      "Right renal angle is tender.",
+      "Bowel sounds are positive.,EXTREMITIES: There is no swelling.,NEUROLOGIC: The patient is alert and oriented x3.",
+      "Examination is nonfocal.,LABORATORY DATA: , White count is down from 35,000 to 15.5.",
+      "Hemoglobin is 9.5, hematocrit is 30, and platelets are 269,000.",
+      "BUN is down to 22, creatinine is within normal limits.,ASSESSMENT AND PLAN:,1.",
+      "Sepsis due to urinary tract infection.",
+      "Urine culture shows Escherichia coli, resistant to Levaquin.",
+      "We changed to doripenem.,2.",
+      "Urinary tract infection, we will treat with doripenem, change Foley catheter,3.",
+      "Hypotension.",
+      "Resolved, continue intravenous fluids.,4.",
+      "Ischemic cardiomyopathy.",
+      "No evidence of decompensation, we with monitor.,5.",
+      "Diabetes type 2.",
+      "Uncontrolled.",
+      "Continue insulin sliding scale.,6.",
+      "Recent pulmonary embolism, INR is above therapeutic range, Coumadin is on hold, we will monitor.,7.",
+      "History of coronary artery disease.",
+      "Troponin indeterminate.",
+      "Cardiologist intends no further workup.",
+      "Continue medical treatment.",
+      "Most likely troponin is secondary to impaired clearance."
+    ],
+    "sentence_count": 25,
+    "original_length": 1414,
+    "cleaned_length": 1384,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "SUBJECTIVE: , The patient states she is feeling a bit better.,OBJECTIVE:,VITAL SIGNS:  Temperature is 95.4.  Highest temperature recorded over the past 24 hours is 102.1.,CHEST:  Examination of the chest is clear to auscultation.,CARDIOVASCULAR:  First and second heart sounds were heard.  No murmurs appreciated.,ABDOMEN:  Benign.  Right renal angle is tender.  Bowel sounds are positive.,EXTREMITIES:  There is no swelling.,NEUROLOGIC:  The patient is alert and oriented x3.  Examination is nonfocal.,LABORATORY DATA: , White count is down from 35,000 to 15.5.  Hemoglobin is 9.5, hematocrit is 30, and platelets are 269,000.  BUN is down to 22, creatinine is within normal limits.,ASSESSMENT AND PLAN:,1.  Sepsis due to urinary tract infection.  Urine culture shows Escherichia coli, resistant to Levaquin.  We changed to doripenem.,2.  Urinary tract infection, we will treat with doripenem, change Foley catheter,3.  Hypotension.  Resolved, continue intravenous fluids.,4.  Ischemic cardiomyopathy.  No evidence of decompensation, we with monitor.,5.  Diabetes type 2.  Uncontrolled.  Continue insulin sliding scale.,6.  Recent pulmonary embolism, INR is above therapeutic range, Coumadin is on hold, we will monitor.,7.  History of coronary artery disease.  Troponin indeterminate.  Cardiologist intends no further workup.  Continue medical treatment.  Most likely troponin is secondary to impaired clearance.",
+    "cleaned_text": "SUBJECTIVE: , The patient states she is feeling a bit better.,OBJECTIVE:,VITAL SIGNS: Temperature is 95.4. Highest temperature recorded over the past 24 hours is 102.1.,CHEST: Examination of the chest is clear to auscultation.,CARDIOVASCULAR: First and second heart sounds were heard. No murmurs appreciated.,ABDOMEN: Benign. Right renal angle is tender. Bowel sounds are positive.,EXTREMITIES: There is no swelling.,NEUROLOGIC: The patient is alert and oriented x3. Examination is nonfocal.,LABORATORY DATA: , White count is down from 35,000 to 15.5. Hemoglobin is 9.5, hematocrit is 30, and platelets are 269,000. BUN is down to 22, creatinine is within normal limits.,ASSESSMENT AND PLAN:,1. Sepsis due to urinary tract infection. Urine culture shows Escherichia coli, resistant to Levaquin. We changed to doripenem.,2. Urinary tract infection, we will treat with doripenem, change Foley catheter,3. Hypotension. Resolved, continue intravenous fluids.,4. Ischemic cardiomyopathy. No evidence of decompensation, we with monitor.,5. Diabetes type 2. Uncontrolled. Continue insulin sliding scale.,6. Recent pulmonary embolism, INR is above therapeutic range, Coumadin is on hold, we will monitor.,7. History of coronary artery disease. Troponin indeterminate. Cardiologist intends no further workup. Continue medical treatment. Most likely troponin is secondary to impaired clearance.",
+    "sentences": [
+      "SUBJECTIVE: , The patient states she is feeling a bit better.,OBJECTIVE:,VITAL SIGNS: Temperature is 95.4.",
+      "Highest temperature recorded over the past 24 hours is 102.1.,CHEST: Examination of the chest is clear to auscultation.,CARDIOVASCULAR: First and second heart sounds were heard.",
+      "No murmurs appreciated.,ABDOMEN: Benign.",
+      "Right renal angle is tender.",
+      "Bowel sounds are positive.,EXTREMITIES: There is no swelling.,NEUROLOGIC: The patient is alert and oriented x3.",
+      "Examination is nonfocal.,LABORATORY DATA: , White count is down from 35,000 to 15.5.",
+      "Hemoglobin is 9.5, hematocrit is 30, and platelets are 269,000.",
+      "BUN is down to 22, creatinine is within normal limits.,ASSESSMENT AND PLAN:,1.",
+      "Sepsis due to urinary tract infection.",
+      "Urine culture shows Escherichia coli, resistant to Levaquin.",
+      "We changed to doripenem.,2.",
+      "Urinary tract infection, we will treat with doripenem, change Foley catheter,3.",
+      "Hypotension.",
+      "Resolved, continue intravenous fluids.,4.",
+      "Ischemic cardiomyopathy.",
+      "No evidence of decompensation, we with monitor.,5.",
+      "Diabetes type 2.",
+      "Uncontrolled.",
+      "Continue insulin sliding scale.,6.",
+      "Recent pulmonary embolism, INR is above therapeutic range, Coumadin is on hold, we will monitor.,7.",
+      "History of coronary artery disease.",
+      "Troponin indeterminate.",
+      "Cardiologist intends no further workup.",
+      "Continue medical treatment.",
+      "Most likely troponin is secondary to impaired clearance."
+    ],
+    "sentence_count": 25
+  }
+}

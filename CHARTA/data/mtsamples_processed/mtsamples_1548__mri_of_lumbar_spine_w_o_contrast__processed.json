@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1548__mri_of_lumbar_spine_w_o_contrast_.txt",
+    "file_name": "mtsamples_1548__mri_of_lumbar_spine_w_o_contrast_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1123,
+    "processed_at": "2026-05-09T09:53:44.264020"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1548__mri_of_lumbar_spine_w_o_contrast_.txt",
+    "text": "EXAM: , MRI of lumbar spine without contrast.,HISTORY:,  A 24-year-old female with chronic back pain.,TECHNIQUE: , Noncontrast axial and sagittal images were acquired through the lumbar spine in varying degrees of fat and water weighting.,FINDINGS: , The visualized cord is normal in signal intensity and morphology with conus terminating in proper position.  Visualized osseous structures are normal in marrow signal intensity and morphology without evidence for fracture/contusion, compression deformity, or marrow replacement process.  There are no paraspinal masses.,Disc heights, signal, and vertebral body heights are maintained throughout the lumbar spine.,L5-S1:  Central canal, neural foramina are patent.,L4-L5:  Central canal, neural foramina are patent.,L3-L4:  Central canal, neural foramen is patent.,L2-L3:  Central canal, neural foramina are patent.,L1-L2:  Central canal, neural foramina are patent.,The visualized abdominal aorta is normal in caliber.  Incidental note has been made of multiple left-sided ovarian, probable physiologic follicular cysts.,IMPRESSION: , No acute disease in the lumbar spine.",
+    "char_count": 1123,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , MRI of lumbar spine without contrast.,HISTORY:, A 24-year-old female with chronic back pain.,TECHNIQUE: , Noncontrast axial and sagittal images were acquired through the lumbar spine in varying degrees of fat and water weighting.,FINDINGS: , The visualized cord is normal in signal intensity and morphology with conus terminating in proper position. Visualized osseous structures are normal in marrow signal intensity and morphology without evidence for fracture/contusion, compression deformity, or marrow replacement process. There are no paraspinal masses.,Disc heights, signal, and vertebral body heights are maintained throughout the lumbar spine.,L5-S1: Central canal, neural foramina are patent.,L4-L5: Central canal, neural foramina are patent.,L3-L4: Central canal, neural foramen is patent.,L2-L3: Central canal, neural foramina are patent.,L1-L2: Central canal, neural foramina are patent.,The visualized abdominal aorta is normal in caliber. Incidental note has been made of multiple left-sided ovarian, probable physiologic follicular cysts.,IMPRESSION: , No acute disease in the lumbar spine.",
+    "sentences": [
+      "EXAM: , MRI of lumbar spine without contrast.,HISTORY:, A 24-year-old female with chronic back pain.,TECHNIQUE: , Noncontrast axial and sagittal images were acquired through the lumbar spine in varying degrees of fat and water weighting.,FINDINGS: , The visualized cord is normal in signal intensity and morphology with conus terminating in proper position.",
+      "Visualized osseous structures are normal in marrow signal intensity and morphology without evidence for fracture/contusion, compression deformity, or marrow replacement process.",
+      "There are no paraspinal masses.,Disc heights, signal, and vertebral body heights are maintained throughout the lumbar spine.,L5-S1: Central canal, neural foramina are patent.,L4-L5: Central canal, neural foramina are patent.,L3-L4: Central canal, neural foramen is patent.,L2-L3: Central canal, neural foramina are patent.,L1-L2: Central canal, neural foramina are patent.,The visualized abdominal aorta is normal in caliber.",
+      "Incidental note has been made of multiple left-sided ovarian, probable physiologic follicular cysts.,IMPRESSION: , No acute disease in the lumbar spine."
+    ],
+    "sentence_count": 4,
+    "original_length": 1123,
+    "cleaned_length": 1114,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , MRI of lumbar spine without contrast.,HISTORY:,  A 24-year-old female with chronic back pain.,TECHNIQUE: , Noncontrast axial and sagittal images were acquired through the lumbar spine in varying degrees of fat and water weighting.,FINDINGS: , The visualized cord is normal in signal intensity and morphology with conus terminating in proper position.  Visualized osseous structures are normal in marrow signal intensity and morphology without evidence for fracture/contusion, compression deformity, or marrow replacement process.  There are no paraspinal masses.,Disc heights, signal, and vertebral body heights are maintained throughout the lumbar spine.,L5-S1:  Central canal, neural foramina are patent.,L4-L5:  Central canal, neural foramina are patent.,L3-L4:  Central canal, neural foramen is patent.,L2-L3:  Central canal, neural foramina are patent.,L1-L2:  Central canal, neural foramina are patent.,The visualized abdominal aorta is normal in caliber.  Incidental note has been made of multiple left-sided ovarian, probable physiologic follicular cysts.,IMPRESSION: , No acute disease in the lumbar spine.",
+    "cleaned_text": "EXAM: , MRI of lumbar spine without contrast.,HISTORY:, A 24-year-old female with chronic back pain.,TECHNIQUE: , Noncontrast axial and sagittal images were acquired through the lumbar spine in varying degrees of fat and water weighting.,FINDINGS: , The visualized cord is normal in signal intensity and morphology with conus terminating in proper position. Visualized osseous structures are normal in marrow signal intensity and morphology without evidence for fracture/contusion, compression deformity, or marrow replacement process. There are no paraspinal masses.,Disc heights, signal, and vertebral body heights are maintained throughout the lumbar spine.,L5-S1: Central canal, neural foramina are patent.,L4-L5: Central canal, neural foramina are patent.,L3-L4: Central canal, neural foramen is patent.,L2-L3: Central canal, neural foramina are patent.,L1-L2: Central canal, neural foramina are patent.,The visualized abdominal aorta is normal in caliber. Incidental note has been made of multiple left-sided ovarian, probable physiologic follicular cysts.,IMPRESSION: , No acute disease in the lumbar spine.",
+    "sentences": [
+      "EXAM: , MRI of lumbar spine without contrast.,HISTORY:, A 24-year-old female with chronic back pain.,TECHNIQUE: , Noncontrast axial and sagittal images were acquired through the lumbar spine in varying degrees of fat and water weighting.,FINDINGS: , The visualized cord is normal in signal intensity and morphology with conus terminating in proper position.",
+      "Visualized osseous structures are normal in marrow signal intensity and morphology without evidence for fracture/contusion, compression deformity, or marrow replacement process.",
+      "There are no paraspinal masses.,Disc heights, signal, and vertebral body heights are maintained throughout the lumbar spine.,L5-S1: Central canal, neural foramina are patent.,L4-L5: Central canal, neural foramina are patent.,L3-L4: Central canal, neural foramen is patent.,L2-L3: Central canal, neural foramina are patent.,L1-L2: Central canal, neural foramina are patent.,The visualized abdominal aorta is normal in caliber.",
+      "Incidental note has been made of multiple left-sided ovarian, probable physiologic follicular cysts.,IMPRESSION: , No acute disease in the lumbar spine."
+    ],
+    "sentence_count": 4
+  }
+}

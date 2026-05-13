@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1969__epidural_steroid_injection___2_.txt",
+    "file_name": "mtsamples_1969__epidural_steroid_injection___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 772,
+    "processed_at": "2026-05-09T09:53:53.952352"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1969__epidural_steroid_injection___2_.txt",
+    "text": "PROCEDURE:  ,Caudal epidural steroid injection without fluoroscopy.,ANESTHESIA:,  Local sedation.,VITAL SIGNS: , See nurse's records.,PROCEDURE DETAILS: , INT was placed.  The patient was in the prone position.  The back was prepped with Betadine.  Lidocaine 1.5% was used to make a skin wheal over the sacral hiatus.  A 18-gauge Tuohy needle was then placed into the epidural space.  There were no complications from this (no blood or CSF).  After negative aspiration was performed, a mixture of 10 cc preservative free normal saline plus 160 mg preservative free Depo-Medrol was injected.  Neosporin and band-aid were applied over the puncture site.  The patient was then placed in supine position.  The patient was discharged to outpatient recovery in stable condition.",
+    "char_count": 772,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE: ,Caudal epidural steroid injection without fluoroscopy.,ANESTHESIA:, Local sedation.,VITAL SIGNS: , See nurse's records.,PROCEDURE DETAILS: , INT was placed. The patient was in the prone position. The back was prepped with Betadine. Lidocaine 1.5% was used to make a skin wheal over the sacral hiatus. A 18-gauge Tuohy needle was then placed into the epidural space. There were no complications from this (no blood or CSF). After negative aspiration was performed, a mixture of 10 cc preservative free normal saline plus 160 mg preservative free Depo-Medrol was injected. Neosporin and band-aid were applied over the puncture site. The patient was then placed in supine position. The patient was discharged to outpatient recovery in stable condition.",
+    "sentences": [
+      "PROCEDURE: ,Caudal epidural steroid injection without fluoroscopy.,ANESTHESIA:, Local sedation.,VITAL SIGNS: , See nurse's records.,PROCEDURE DETAILS: , INT was placed.",
+      "The patient was in the prone position.",
+      "The back was prepped with Betadine.",
+      "Lidocaine 1.5% was used to make a skin wheal over the sacral hiatus.",
+      "A 18-gauge Tuohy needle was then placed into the epidural space.",
+      "There were no complications from this (no blood or CSF).",
+      "After negative aspiration was performed, a mixture of 10 cc preservative free normal saline plus 160 mg preservative free Depo-Medrol was injected.",
+      "Neosporin and band-aid were applied over the puncture site.",
+      "The patient was then placed in supine position.",
+      "The patient was discharged to outpatient recovery in stable condition."
+    ],
+    "sentence_count": 10,
+    "original_length": 772,
+    "cleaned_length": 761,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE:  ,Caudal epidural steroid injection without fluoroscopy.,ANESTHESIA:,  Local sedation.,VITAL SIGNS: , See nurse's records.,PROCEDURE DETAILS: , INT was placed.  The patient was in the prone position.  The back was prepped with Betadine.  Lidocaine 1.5% was used to make a skin wheal over the sacral hiatus.  A 18-gauge Tuohy needle was then placed into the epidural space.  There were no complications from this (no blood or CSF).  After negative aspiration was performed, a mixture of 10 cc preservative free normal saline plus 160 mg preservative free Depo-Medrol was injected.  Neosporin and band-aid were applied over the puncture site.  The patient was then placed in supine position.  The patient was discharged to outpatient recovery in stable condition.",
+    "cleaned_text": "PROCEDURE: ,Caudal epidural steroid injection without fluoroscopy.,ANESTHESIA:, Local sedation.,VITAL SIGNS: , See nurse's records.,PROCEDURE DETAILS: , INT was placed. The patient was in the prone position. The back was prepped with Betadine. Lidocaine 1.5% was used to make a skin wheal over the sacral hiatus. A 18-gauge Tuohy needle was then placed into the epidural space. There were no complications from this (no blood or CSF). After negative aspiration was performed, a mixture of 10 cc preservative free normal saline plus 160 mg preservative free Depo-Medrol was injected. Neosporin and band-aid were applied over the puncture site. The patient was then placed in supine position. The patient was discharged to outpatient recovery in stable condition.",
+    "sentences": [
+      "PROCEDURE: ,Caudal epidural steroid injection without fluoroscopy.,ANESTHESIA:, Local sedation.,VITAL SIGNS: , See nurse's records.,PROCEDURE DETAILS: , INT was placed.",
+      "The patient was in the prone position.",
+      "The back was prepped with Betadine.",
+      "Lidocaine 1.5% was used to make a skin wheal over the sacral hiatus.",
+      "A 18-gauge Tuohy needle was then placed into the epidural space.",
+      "There were no complications from this (no blood or CSF).",
+      "After negative aspiration was performed, a mixture of 10 cc preservative free normal saline plus 160 mg preservative free Depo-Medrol was injected.",
+      "Neosporin and band-aid were applied over the puncture site.",
+      "The patient was then placed in supine position.",
+      "The patient was discharged to outpatient recovery in stable condition."
+    ],
+    "sentence_count": 10
+  }
+}

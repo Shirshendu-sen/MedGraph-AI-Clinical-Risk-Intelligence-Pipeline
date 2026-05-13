@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4853__carotid_endarterectomy__.txt",
+    "file_name": "mtsamples_4853__carotid_endarterectomy__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2971,
+    "processed_at": "2026-05-09T09:54:46.421109"
+  },
+  "entities": [
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 46,
+      "sentence_idx": 13,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": null
+    },
+    {
+      "text": "Protamine",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 44,
+      "sentence_idx": 26,
+      "concept_id": "C0033603",
+      "concept_name": "protamines",
+      "kb_source": "rxnorm",
+      "link_score": 0.961919367313385,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4436__consult_for_new_wheelchair_.txt",
+    "file_name": "mtsamples_4436__consult_for_new_wheelchair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 6301,
+    "processed_at": "2026-05-09T09:54:38.695066"
+  },
+  "entities": [
+    {
+      "text": "TIA",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 37,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "TIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cord injury",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 66,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cord injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes mellitus",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 124,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right forearm fracture",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 148,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right forearm fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 164,
+      "end_char": 172,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cord injury",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 88,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cord injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 50,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "upper extremity pain",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 122,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper extremity pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abduction",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 94,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abduction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "shock",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 45,
+      "sentence_idx": 53,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shock",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0252__total_hip_arthroplasty___revision_.txt",
+    "file_name": "mtsamples_0252__total_hip_arthroplasty___revision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 6156,
+    "processed_at": "2026-05-09T09:53:10.448640"
+  },
+  "entities": [
+    {
+      "text": "Infected right hip bipolar arthroplasty",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 65,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Infected right hip bipolar arthroplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Infected right hip bipolar arthroplasty",
+      "label": "DISEASE",
+      "start_char": 150,
+      "end_char": 189,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Infected right hip bipolar arthroplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "VAC",
+      "label": "CHEMICAL",
+      "start_char": 164,
+      "end_char": 167,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VAC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right bipolar",
+      "label": "DISEASE",
+      "start_char": 256,
+      "end_char": 269,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 291,
+      "end_char": 297,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrous scar",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 58,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrous scar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gluteus maximus muscle",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 80,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gluteus maximus muscle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrous",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 12,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "AA",
+      "label": "CHEMICAL",
+      "start_char": 59,
+      "end_char": 61,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 101,
+      "sentence_idx": 48,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "femoral head",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 21,
+      "sentence_idx": 67,
+      "concept_id": "UNKNOWN",
+      "concept_name": "femoral head",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adduction",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 67,
+      "sentence_idx": 69,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adduction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "VAC",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 17,
+      "sentence_idx": 74,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VAC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

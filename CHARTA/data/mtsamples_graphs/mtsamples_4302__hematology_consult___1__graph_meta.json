@@ -1,0 +1,33 @@
+{
+  "patient_id": "mtsamples_4302__hematology_consult___1_",
+  "num_entities": 20,
+  "num_visits": 1,
+  "num_edges": 187,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0302583": 1,
+    "C0042313": 2,
+    "C0699129": 3,
+    "C0042878": 4,
+    "C0041980": 5,
+    "C0010294": 6,
+    "C0016410": 7,
+    "C0019134": 8,
+    "C0023992": 9,
+    "C0027996": 10,
+    "C0081876": 11,
+    "C0719949": 12,
+    "C0537894": 13,
+    "C0057144": 14,
+    "C0015846": 15,
+    "C0026549": 16,
+    "C0030346": 17,
+    "C0206046": 18,
+    "C0025270": 19
+  },
+  "visit_dates": [
+    "2007-03-14"
+  ],
+  "graph_file": "mtsamples_4302__hematology_consult___1__graph.pt",
+  "source_dataset": "mtsamples_4302__hematology_consult___1"
+}

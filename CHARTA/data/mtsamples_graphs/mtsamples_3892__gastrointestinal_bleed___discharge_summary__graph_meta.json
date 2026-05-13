@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_3892__gastrointestinal_bleed___discharge_summary_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 36,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0025859": 1,
+    "C0633084": 2,
+    "C0700777": 3,
+    "C0876139": 4,
+    "C0030304": 5,
+    "C0136074": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3892__gastrointestinal_bleed___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3892__gastrointestinal_bleed___discharge_summary"
+}

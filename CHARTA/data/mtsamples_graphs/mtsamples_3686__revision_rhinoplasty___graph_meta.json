@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3686__revision_rhinoplasty__",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1,
+    "C0014563": 2,
+    "C0009170": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3686__revision_rhinoplasty___graph.pt",
+  "source_dataset": "mtsamples_3686__revision_rhinoplasty_"
+}

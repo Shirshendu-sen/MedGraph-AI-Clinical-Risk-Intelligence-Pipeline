@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3250__itchy_rash___er_visit_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 37,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0014563": 1,
+    "C0700899": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3250__itchy_rash___er_visit__graph.pt",
+  "source_dataset": "mtsamples_3250__itchy_rash___er_visit"
+}

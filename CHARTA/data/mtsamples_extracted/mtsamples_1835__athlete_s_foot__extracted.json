@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1835__athlete_s_foot_.txt",
+    "file_name": "mtsamples_1835__athlete_s_foot_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2642,
+    "processed_at": "2026-05-09T09:53:51.573215"
+  },
+  "entities": [
+    {
+      "text": "fungal skin infection",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 68,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fungal skin infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes mellitus",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 73,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blisters",
+      "label": "DISEASE",
+      "start_char": 228,
+      "end_char": 236,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blisters",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 21,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacterial infection",
+      "label": "DISEASE",
+      "start_char": 302,
+      "end_char": 321,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bacterial infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dry",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dry",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thongs",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 102,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thongs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Be",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Be",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polysporin ointment.,3",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 53,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polysporin ointment.,3",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 55,
+      "sentence_idx": 22,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 84,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

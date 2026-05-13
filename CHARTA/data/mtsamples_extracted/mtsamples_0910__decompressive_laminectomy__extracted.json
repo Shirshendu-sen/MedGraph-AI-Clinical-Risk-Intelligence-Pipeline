@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0910__decompressive_laminectomy_.txt",
+    "file_name": "mtsamples_0910__decompressive_laminectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 7079,
+    "processed_at": "2026-05-09T09:53:28.856653"
+  },
+  "entities": [
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 50,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cauda equina syndrome",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 77,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cauda equina syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 157,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cauda equina syndrome",
+      "label": "DISEASE",
+      "start_char": 163,
+      "end_char": 184,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cauda equina syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "muscular ligamentous",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 34,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "muscular ligamentous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "traumatic",
+      "label": "DISEASE",
+      "start_char": 281,
+      "end_char": 290,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "traumatic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 133,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar coagulation.,At this",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 59,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar coagulation.,At this",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

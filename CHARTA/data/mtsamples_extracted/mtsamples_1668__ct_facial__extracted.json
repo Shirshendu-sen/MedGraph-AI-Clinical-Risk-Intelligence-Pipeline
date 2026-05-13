@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1668__ct_facial_.txt",
+    "file_name": "mtsamples_1668__ct_facial_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 537,
+    "processed_at": "2026-05-09T09:53:47.999038"
+  },
+  "entities": [
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 208,
+      "end_char": 216,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dislocation",
+      "label": "DISEASE",
+      "start_char": 220,
+      "end_char": 231,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dislocation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "acute abnormalities",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 72,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

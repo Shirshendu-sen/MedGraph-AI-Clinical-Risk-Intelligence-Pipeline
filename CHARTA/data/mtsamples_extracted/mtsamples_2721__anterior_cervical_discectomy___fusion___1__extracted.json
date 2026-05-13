@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2721__anterior_cervical_discectomy___fusion___1_.txt",
+    "file_name": "mtsamples_2721__anterior_cervical_discectomy___fusion___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3009,
+    "processed_at": "2026-05-09T09:54:06.507795"
+  },
+  "entities": [
+    {
+      "text": "Spinal stenosis C3-C4.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 36,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Spinal stenosis C3-C4.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Spinal stenosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 15,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Spinal stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tooth beneath the blades, the longus colli muscles",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 59,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tooth beneath the blades, the longus colli muscles",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osteophytosis",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 102,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteophytosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 125,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "titanium",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 38,
+      "sentence_idx": 20,
+      "concept_id": "C0040302",
+      "concept_name": "titanium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9754260182380676,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 66,
+      "end_char": 76,
+      "sentence_idx": 22,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    },
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osteophyte",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 88,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteophyte",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "foramen stenosis",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 94,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "foramen stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 140,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 163,
+      "end_char": 167,
+      "sentence_idx": 28,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

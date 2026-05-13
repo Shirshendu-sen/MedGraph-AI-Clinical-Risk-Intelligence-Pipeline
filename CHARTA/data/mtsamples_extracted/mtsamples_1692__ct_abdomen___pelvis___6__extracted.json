@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1692__ct_abdomen___pelvis___6_.txt",
+    "file_name": "mtsamples_1692__ct_abdomen___pelvis___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 784,
+    "processed_at": "2026-05-09T09:53:48.478363"
+  },
+  "entities": [
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 45,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nausea",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 57,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "appendicitis.,The",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 52,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "appendicitis.,The",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osseous lesions",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 75,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osseous lesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "appendicitis",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 69,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "appendicitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,24 @@
+{
+  "patient_id": "mtsamples_0170__bladder_instillation_",
+  "num_entities": 11,
+  "num_visits": 1,
+  "num_edges": 51,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0699710": 2,
+    "C0600293": 3,
+    "C0087119": 4,
+    "C2723006": 5,
+    "C0026549": 6,
+    "C0023660": 7,
+    "C0699689": 8,
+    "C0019134": 9,
+    "C0074722": 10
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0170__bladder_instillation__graph.pt",
+  "source_dataset": "mtsamples_0170__bladder_instillation"
+}

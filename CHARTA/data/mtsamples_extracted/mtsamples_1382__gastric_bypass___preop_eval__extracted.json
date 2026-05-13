@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1382__gastric_bypass___preop_eval_.txt",
+    "file_name": "mtsamples_1382__gastric_bypass___preop_eval_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1034,
+    "processed_at": "2026-05-09T09:53:40.241196"
+  },
+  "entities": [
+    {
+      "text": "obesity",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 130,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obesity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "death",
+      "label": "DISEASE",
+      "start_char": 137,
+      "end_char": 142,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "death",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary embolism",
+      "label": "DISEASE",
+      "start_char": 144,
+      "end_char": 162,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anastomotic leak",
+      "label": "DISEASE",
+      "start_char": 164,
+      "end_char": 180,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anastomotic leak",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stricture, small bowel obstruction",
+      "label": "DISEASE",
+      "start_char": 222,
+      "end_char": 256,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stricture, small bowel obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 258,
+      "end_char": 266,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 272,
+      "end_char": 281,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

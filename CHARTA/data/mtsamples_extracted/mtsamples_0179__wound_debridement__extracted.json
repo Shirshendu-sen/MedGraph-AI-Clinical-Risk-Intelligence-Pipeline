@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0179__wound_debridement_.txt",
+    "file_name": "mtsamples_0179__wound_debridement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2145,
+    "processed_at": "2026-05-09T09:53:08.643935"
+  },
+  "entities": [
+    {
+      "text": "Peripheral vascular disease.,POSTOPERATIVE DIAGNOSES,1",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 54,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Peripheral vascular disease.,POSTOPERATIVE DIAGNOSES,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "VAC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VAC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "seropurulent",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 50,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seropurulent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin clindamycin",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 66,
+      "sentence_idx": 14,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.7379787564277649,
+      "timestamp": null
+    },
+    {
+      "text": "necrotic",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 23,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "VAC",
+      "label": "CHEMICAL",
+      "start_char": 223,
+      "end_char": 226,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VAC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "VAC",
+      "label": "CHEMICAL",
+      "start_char": 160,
+      "end_char": 163,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VAC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "VAC",
+      "label": "CHEMICAL",
+      "start_char": 134,
+      "end_char": 137,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VAC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

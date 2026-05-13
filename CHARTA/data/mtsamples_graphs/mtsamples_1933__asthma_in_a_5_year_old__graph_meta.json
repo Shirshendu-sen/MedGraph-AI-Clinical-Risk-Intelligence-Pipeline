@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_1933__asthma_in_a_5_year_old_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 55,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0032952": 1,
+    "C0965130": 2,
+    "C0594492": 3,
+    "C0876218": 4,
+    "C0678143": 5,
+    "C0030054": 6,
+    "C0740057": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1933__asthma_in_a_5_year_old__graph.pt",
+  "source_dataset": "mtsamples_1933__asthma_in_a_5_year_old"
+}

@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4629__stress_test_adenosine_myoview_.txt",
+    "file_name": "mtsamples_4629__stress_test_adenosine_myoview_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 657,
+    "processed_at": "2026-05-09T09:54:42.419935"
+  },
+  "entities": [
+    {
+      "text": "cardiomyopathy",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 37,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardiomyopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inferior wall myocardial infarction",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 86,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inferior wall myocardial infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Adenosine",
+      "label": "CHEMICAL",
+      "start_char": 161,
+      "end_char": 170,
+      "sentence_idx": 0,
+      "concept_id": "C0001443",
+      "concept_name": "adenosine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563736915588379,
+      "timestamp": null
+    },
+    {
+      "text": "adenosine",
+      "label": "CHEMICAL",
+      "start_char": 253,
+      "end_char": 262,
+      "sentence_idx": 0,
+      "concept_id": "C0001443",
+      "concept_name": "adenosine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563736915588379,
+      "timestamp": null
+    },
+    {
+      "text": "140",
+      "label": "CHEMICAL",
+      "start_char": 264,
+      "end_char": 267,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "140",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial fibrillation",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 30,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial fibrillation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenosine",
+      "label": "CHEMICAL",
+      "start_char": 116,
+      "end_char": 125,
+      "sentence_idx": 3,
+      "concept_id": "C0001443",
+      "concept_name": "adenosine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563736915588379,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

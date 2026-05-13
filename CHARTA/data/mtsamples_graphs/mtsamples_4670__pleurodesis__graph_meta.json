@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_4670__pleurodesis_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0026549": 1,
+    "C0023660": 2,
+    "C0728755": 3,
+    "C0030346": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4670__pleurodesis__graph.pt",
+  "source_dataset": "mtsamples_4670__pleurodesis"
+}

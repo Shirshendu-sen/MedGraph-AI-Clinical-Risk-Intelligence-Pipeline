@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2202__hardware_removal___ulnar_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 13,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699142": 1,
+    "C0009214": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2202__hardware_removal___ulnar__graph.pt",
+  "source_dataset": "mtsamples_2202__hardware_removal___ulnar"
+}

@@ -1,0 +1,24 @@
+{
+  "patient_id": "mtsamples_4632__sick_sinus_syndrome_",
+  "num_entities": 11,
+  "num_visits": 1,
+  "num_edges": 81,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0028978": 1,
+    "C0016860": 2,
+    "C0008845": 3,
+    "C0065180": 4,
+    "C0030054": 5,
+    "C0010294": 6,
+    "C0017725": 7,
+    "C0032821": 8,
+    "C0037473": 9,
+    "C0006675": 10
+  },
+  "visit_dates": [
+    "2008-12-15"
+  ],
+  "graph_file": "mtsamples_4632__sick_sinus_syndrome__graph.pt",
+  "source_dataset": "mtsamples_4632__sick_sinus_syndrome"
+}

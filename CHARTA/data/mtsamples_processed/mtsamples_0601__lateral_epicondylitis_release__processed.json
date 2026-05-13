@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0601__lateral_epicondylitis_release_.txt",
+    "file_name": "mtsamples_0601__lateral_epicondylitis_release_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 48,
+    "processed_at": "2026-05-09T09:53:20.439487"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0601__lateral_epicondylitis_release_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS:  ,Lateral epicondylitis.",
+    "char_count": 48,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: ,Lateral epicondylitis.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: ,Lateral epicondylitis."
+    ],
+    "sentence_count": 1,
+    "original_length": 48,
+    "cleaned_length": 47,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS:  ,Lateral epicondylitis.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: ,Lateral epicondylitis.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: ,Lateral epicondylitis."
+    ],
+    "sentence_count": 1
+  }
+}

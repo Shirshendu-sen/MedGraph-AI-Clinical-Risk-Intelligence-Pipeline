@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_4267__lesions___adrenal_and_pancreatic_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 92,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030304": 1,
+    "C0017642": 2,
+    "C0025598": 3,
+    "C0718711": 4,
+    "C0025859": 5,
+    "C0081876": 6,
+    "C0719805": 7,
+    "C0162723": 8,
+    "C0082607": 9
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4267__lesions___adrenal_and_pancreatic__graph.pt",
+  "source_dataset": "mtsamples_4267__lesions___adrenal_and_pancreatic"
+}

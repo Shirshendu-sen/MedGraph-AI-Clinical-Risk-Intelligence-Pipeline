@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4040__browlift__blepharoplasty____rhytidectomy_.txt",
+    "file_name": "mtsamples_4040__browlift__blepharoplasty____rhytidectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5526,
+    "processed_at": "2026-05-09T09:54:32.427388"
+  },
+  "entities": [
+    {
+      "text": "Dermatochalasia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 15,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dermatochalasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 47,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 73,
+      "sentence_idx": 7,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "preseptal",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 70,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "preseptal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "eyelid malposition",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 101,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "eyelid malposition",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hairline brow lift",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 30,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hairline brow lift",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Scleral eye protectors",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 22,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Scleral eye protectors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Maxitrol",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 43,
+      "concept_id": "C0526091",
+      "concept_name": "Maxitrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9620206356048584,
+      "timestamp": null
+    },
+    {
+      "text": "TED",
+      "label": "DISEASE",
+      "start_char": 159,
+      "end_char": 162,
+      "sentence_idx": 44,
+      "concept_id": "UNKNOWN",
+      "concept_name": "TED",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

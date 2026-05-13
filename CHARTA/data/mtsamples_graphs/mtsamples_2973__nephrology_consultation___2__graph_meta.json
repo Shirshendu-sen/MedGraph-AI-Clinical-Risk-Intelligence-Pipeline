@@ -1,0 +1,26 @@
+{
+  "patient_id": "mtsamples_2973__nephrology_consultation___2_",
+  "num_entities": 13,
+  "num_visits": 1,
+  "num_edges": 96,
+  "entity_index": {
+    "C0030304": 0,
+    "UNKNOWN": 1,
+    "C0010294": 2,
+    "C0487782": 3,
+    "C0032952": 4,
+    "C0876139": 5,
+    "C0973231": 6,
+    "C0013030": 7,
+    "C1170351": 8,
+    "C0037473": 9,
+    "C0032821": 10,
+    "C0002607": 11,
+    "C0006686": 12
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2973__nephrology_consultation___2__graph.pt",
+  "source_dataset": "mtsamples_2973__nephrology_consultation___2"
+}

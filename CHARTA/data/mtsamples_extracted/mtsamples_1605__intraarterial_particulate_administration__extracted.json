@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1605__intraarterial_particulate_administration_.txt",
+    "file_name": "mtsamples_1605__intraarterial_particulate_administration_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1187,
+    "processed_at": "2026-05-09T09:53:46.019422"
+  },
+  "entities": [
+    {
+      "text": "particulate administration.,HISTORY",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 65,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "particulate administration.,HISTORY",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 19,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right lobe liver volume",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 51,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right lobe liver volume",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 77,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 162,
+      "end_char": 167,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 204,
+      "end_char": 209,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hepatocellular carcinoma",
+      "label": "DISEASE",
+      "start_char": 223,
+      "end_char": 247,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hepatocellular carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0232__triple_lumen_catheter_insertion_.txt",
+    "file_name": "mtsamples_0232__triple_lumen_catheter_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3226,
+    "processed_at": "2026-05-09T09:53:09.871948"
+  },
+  "entities": [
+    {
+      "text": "brachial artery arterial",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 45,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "brachial artery arterial",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pancreatitis",
+      "label": "DISEASE",
+      "start_char": 229,
+      "end_char": 241,
+      "sentence_idx": 8,
+      "concept_id": "C0030304",
+      "concept_name": "Pancreatin",
+      "kb_source": "mesh",
+      "link_score": 0.7637388706207275,
+      "timestamp": null
+    },
+    {
+      "text": "hypotensive",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 30,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypotensive",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "leukocytosis",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 68,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "leukocytosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 82,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anasarca",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 95,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anasarca",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 118,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2677__laminectomy___discectomy___facetectomy_.txt",
+    "file_name": "mtsamples_2677__laminectomy___discectomy___facetectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2694,
+    "processed_at": "2026-05-09T09:54:05.941362"
+  },
+  "entities": [
+    {
+      "text": "arthrodesis",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 135,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthrodesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "axial back pain",
+      "label": "DISEASE",
+      "start_char": 367,
+      "end_char": 382,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "axial back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 81,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 92,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 100,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "paralysis",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 125,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paralysis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "death",
+      "label": "DISEASE",
+      "start_char": 196,
+      "end_char": 201,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "death",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 128,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypermobility",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 171,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypermobility",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 246,
+      "end_char": 257,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypermobility",
+      "label": "DISEASE",
+      "start_char": 287,
+      "end_char": 300,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypermobility",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 36,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 63,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

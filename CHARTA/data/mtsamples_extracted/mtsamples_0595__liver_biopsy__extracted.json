@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0595__liver_biopsy_.txt",
+    "file_name": "mtsamples_0595__liver_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1960,
+    "processed_at": "2026-05-09T09:53:20.316855"
+  },
+  "entities": [
+    {
+      "text": "liver biopsy.,ANALGESIA",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 58,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "liver biopsy.,ANALGESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergy",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 119,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "iodine",
+      "label": "CHEMICAL",
+      "start_char": 123,
+      "end_char": 129,
+      "sentence_idx": 0,
+      "concept_id": "C0021968",
+      "concept_name": "iodine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9429465532302856,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 131,
+      "end_char": 140,
+      "sentence_idx": 0,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 78,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bile peritonitis",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 96,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bile peritonitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothorax",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 129,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "death",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 139,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "death",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dullness",
+      "label": "DISEASE",
+      "start_char": 210,
+      "end_char": 218,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dullness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "povidone iodine",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 53,
+      "sentence_idx": 3,
+      "concept_id": "C0032856",
+      "concept_name": "povidone",
+      "kb_source": "rxnorm",
+      "link_score": 0.7136121988296509,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 147,
+      "end_char": 156,
+      "sentence_idx": 3,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 62,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 69,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "light-headedness",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 95,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "light-headedness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hepatitis A",
+      "label": "DISEASE",
+      "start_char": 236,
+      "end_char": 247,
+      "sentence_idx": 9,
+      "concept_id": "C0376325",
+      "concept_name": "Hepatitis A viruses",
+      "kb_source": "mesh",
+      "link_score": 0.8369195461273193,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

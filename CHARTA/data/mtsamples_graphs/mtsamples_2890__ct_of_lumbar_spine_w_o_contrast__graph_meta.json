@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2890__ct_of_lumbar_spine_w_o_contrast_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 10,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2890__ct_of_lumbar_spine_w_o_contrast__graph.pt",
+  "source_dataset": "mtsamples_2890__ct_of_lumbar_spine_w_o_contrast"
+}

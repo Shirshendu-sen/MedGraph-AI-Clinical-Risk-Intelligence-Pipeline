@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2671__lumbar_puncture___1_.txt",
+    "file_name": "mtsamples_2671__lumbar_puncture___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3252,
+    "processed_at": "2026-05-09T09:54:05.871039"
+  },
+  "entities": [
+    {
+      "text": "anemia",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 164,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bilirubin",
+      "label": "CHEMICAL",
+      "start_char": 197,
+      "end_char": 206,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bilirubin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemolysis",
+      "label": "DISEASE",
+      "start_char": 223,
+      "end_char": 232,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemolysis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemolysis",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemolysis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "urinary tract infection",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 67,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary tract infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "amoxicillin",
+      "label": "CHEMICAL",
+      "start_char": 88,
+      "end_char": 99,
+      "sentence_idx": 4,
+      "concept_id": "C0002645",
+      "concept_name": "amoxicillin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9782153964042664,
+      "timestamp": null
+    },
+    {
+      "text": "cefotaxime",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 63,
+      "sentence_idx": 6,
+      "concept_id": "C0007554",
+      "concept_name": "cefotaxime",
+      "kb_source": "rxnorm",
+      "link_score": 0.9889345765113831,
+      "timestamp": null
+    },
+    {
+      "text": "bandemia",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 134,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bandemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 39,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "meningitis",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 140,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meningitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 87,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 98,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "respiratory depression",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 122,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "respiratory depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 15,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 130,
+      "end_char": 133,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

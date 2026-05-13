@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2490__ultrasound_ob___3_.txt",
+    "file_name": "mtsamples_2490__ultrasound_ob___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 471,
+    "processed_at": "2026-05-09T09:54:03.230294"
+  },
+  "entities": [
+    {
+      "text": "31weeks",
+      "label": "DISEASE",
+      "start_char": 334,
+      "end_char": 341,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "31weeks",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "FL",
+      "label": "CHEMICAL",
+      "start_char": 468,
+      "end_char": 470,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

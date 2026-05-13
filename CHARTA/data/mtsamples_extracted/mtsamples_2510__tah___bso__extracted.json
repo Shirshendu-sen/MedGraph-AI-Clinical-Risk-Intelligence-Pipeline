@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2510__tah___bso_.txt",
+    "file_name": "mtsamples_2510__tah___bso_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4387,
+    "processed_at": "2026-05-09T09:54:03.453288"
+  },
+  "entities": [
+    {
+      "text": "pelvic pain",
+      "label": "DISEASE",
+      "start_char": 257,
+      "end_char": 268,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 17,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Perineum",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Perineum",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0834__esophageal_foreign_body_removal_.txt",
+    "file_name": "mtsamples_0834__esophageal_foreign_body_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3055,
+    "processed_at": "2026-05-09T09:53:27.123954"
+  },
+  "entities": [
+    {
+      "text": "choking",
+      "label": "DISEASE",
+      "start_char": 190,
+      "end_char": 197,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "choking",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "propofol",
+      "label": "CHEMICAL",
+      "start_char": 84,
+      "end_char": 92,
+      "sentence_idx": 7,
+      "concept_id": "C0033487",
+      "concept_name": "propofol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9385934472084045,
+      "timestamp": null
+    },
+    {
+      "text": "supraglottis",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 26,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraglottis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "glottis",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 35,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glottis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 67,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophageal damage",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 65,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophageal damage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

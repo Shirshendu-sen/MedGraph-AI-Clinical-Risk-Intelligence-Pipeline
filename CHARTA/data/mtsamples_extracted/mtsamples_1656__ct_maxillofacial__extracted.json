@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1656__ct_maxillofacial_.txt",
+    "file_name": "mtsamples_1656__ct_maxillofacial_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1014,
+    "processed_at": "2026-05-09T09:53:47.737751"
+  },
+  "entities": [
+    {
+      "text": "opacification",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 43,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "opacification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "temporomandibular joints",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 28,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "temporomandibular joints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dislocations",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 71,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dislocations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "opacification",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 48,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "opacification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 25,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

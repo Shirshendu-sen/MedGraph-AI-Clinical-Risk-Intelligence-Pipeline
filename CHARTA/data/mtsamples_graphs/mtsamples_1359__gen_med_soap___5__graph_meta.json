@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1359__gen_med_soap___5_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 25,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0290795": 2,
+    "C0284660": 3
+  },
+  "visit_dates": [
+    "2026-04-30"
+  ],
+  "graph_file": "mtsamples_1359__gen_med_soap___5__graph.pt",
+  "source_dataset": "mtsamples_1359__gen_med_soap___5"
+}

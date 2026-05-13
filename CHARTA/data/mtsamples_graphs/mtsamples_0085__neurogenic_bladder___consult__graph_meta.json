@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_0085__neurogenic_bladder___consult_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 17,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0010294": 1,
+    "C0700517": 2
+  },
+  "visit_dates": [
+    "2008-06-24"
+  ],
+  "graph_file": "mtsamples_0085__neurogenic_bladder___consult__graph.pt",
+  "source_dataset": "mtsamples_0085__neurogenic_bladder___consult"
+}

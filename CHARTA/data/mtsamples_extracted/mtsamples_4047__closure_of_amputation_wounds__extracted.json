@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4047__closure_of_amputation_wounds_.txt",
+    "file_name": "mtsamples_4047__closure_of_amputation_wounds_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2343,
+    "processed_at": "2026-05-09T09:54:32.585149"
+  },
+  "entities": [
+    {
+      "text": "upper extremity amputation.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 72,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper extremity amputation.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "upper extremity",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 106,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper extremity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "VAC",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 16,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VAC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dehiscence",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 141,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dehiscence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "groin",
+      "label": "DISEASE",
+      "start_char": 402,
+      "end_char": 407,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "groin",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dehisced",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 24,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dehisced",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "DVT",
+      "label": "DISEASE",
+      "start_char": 166,
+      "end_char": 169,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

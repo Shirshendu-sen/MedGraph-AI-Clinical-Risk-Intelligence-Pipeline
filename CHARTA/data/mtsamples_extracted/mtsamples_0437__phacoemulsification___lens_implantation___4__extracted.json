@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0437__phacoemulsification___lens_implantation___4_.txt",
+    "file_name": "mtsamples_0437__phacoemulsification___lens_implantation___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2739,
+    "processed_at": "2026-05-09T09:53:16.042938"
+  },
+  "entities": [
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 53,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Retrobulbar nerve block",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 139,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Retrobulbar nerve block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 53,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Maxitrol ointment",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 17,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Maxitrol ointment",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

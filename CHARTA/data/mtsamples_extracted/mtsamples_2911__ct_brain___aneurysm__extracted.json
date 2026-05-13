@@ -1,0 +1,457 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2911__ct_brain___aneurysm_.txt",
+    "file_name": "mtsamples_2911__ct_brain___aneurysm_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2701,
+    "processed_at": "2026-05-09T09:54:10.565702"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "Decreasing visual acuity.,HX",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 33,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Decreasing visual acuity.,HX",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "loss of visual acuity",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 129,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of visual acuity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "loss of visual acuity",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 61,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of visual acuity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 30,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "cancer",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 90,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 115,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "aneurysm",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 125,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 137,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "ETOH",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 22,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ETOH",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 131,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "craniopharyngioma",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 43,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "craniopharyngioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "pituitary adenoma",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 62,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pituitary adenoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "aneurysm",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 76,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "aneurysm",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 51,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "aneurysm",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 51,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "right hemiparesis",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 101,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right hemiparesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 45,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "infarct",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 64,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarct",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 54,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "aphasia",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 47,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "right hemiparesis",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 69,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right hemiparesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "hypoperfusion",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 27,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypoperfusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "MCA",
+      "label": "CHEMICAL",
+      "start_char": 60,
+      "end_char": 63,
+      "sentence_idx": 21,
+      "concept_id": "C0600203",
+      "concept_name": "DCA",
+      "kb_source": "rxnorm",
+      "link_score": 0.7071068286895752,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "LICA aneurysm",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 171,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LICA aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "confusion",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 41,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "confusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "right hemiparesis and right expressive aphasia",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 121,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right hemiparesis and right expressive aphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "SAH",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 21,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SAH",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "aneurysm",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "Nimodipine",
+      "label": "CHEMICAL",
+      "start_char": 17,
+      "end_char": 27,
+      "sentence_idx": 27,
+      "concept_id": "C0028094",
+      "concept_name": "niMODipine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9528313279151917,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "lethargy",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 116,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lethargy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "right hemiplegia",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 167,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right hemiplegia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "infarction",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 63,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    },
+    {
+      "text": "cerebral edema",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 54,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cerebral edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-12-29"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/29/92",
+      "start_char": 1326,
+      "end_char": 1334
+    },
+    {
+      "raw_text": "1/7/93",
+      "start_char": 1758,
+      "end_char": 1764
+    },
+    {
+      "raw_text": "2/24/93",
+      "start_char": 1769,
+      "end_char": 1776
+    },
+    {
+      "raw_text": "3/9/93",
+      "start_char": 2038,
+      "end_char": 2044
+    },
+    {
+      "raw_text": "3/14/93",
+      "start_char": 2092,
+      "end_char": 2099
+    },
+    {
+      "raw_text": "3/20/93",
+      "start_char": 2137,
+      "end_char": 2144
+    },
+    {
+      "raw_text": "3/25/93",
+      "start_char": 2389,
+      "end_char": 2396
+    }
+  ]
+}

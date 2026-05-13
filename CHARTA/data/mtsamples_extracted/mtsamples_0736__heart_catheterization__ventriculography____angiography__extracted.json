@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0736__heart_catheterization__ventriculography____angiography_.txt",
+    "file_name": "mtsamples_0736__heart_catheterization__ventriculography____angiography_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 6447,
+    "processed_at": "2026-05-09T09:53:23.762859"
+  },
+  "entities": [
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 59,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 132,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 146,
+      "end_char": 155,
+      "sentence_idx": 6,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "VENTRICULOGRAM",
+      "label": "CHEMICAL",
+      "start_char": 122,
+      "end_char": 136,
+      "sentence_idx": 46,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VENTRICULOGRAM",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mitral regurgitation",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 32,
+      "sentence_idx": 48,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 17,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 23,
+      "sentence_idx": 54,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 132,
+      "end_char": 139,
+      "sentence_idx": 55,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 177,
+      "sentence_idx": 56,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "beta-blocker",
+      "label": "CHEMICAL",
+      "start_char": 74,
+      "end_char": 86,
+      "sentence_idx": 64,
+      "concept_id": "UNKNOWN",
+      "concept_name": "beta-blocker",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aspirin",
+      "label": "CHEMICAL",
+      "start_char": 88,
+      "end_char": 95,
+      "sentence_idx": 64,
+      "concept_id": "C0004057",
+      "concept_name": "aspirin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736717343330383,
+      "timestamp": null
+    },
+    {
+      "text": "statin",
+      "label": "CHEMICAL",
+      "start_char": 97,
+      "end_char": 103,
+      "sentence_idx": 64,
+      "concept_id": "UNKNOWN",
+      "concept_name": "statin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Plavix",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 115,
+      "sentence_idx": 64,
+      "concept_id": "C0633084",
+      "concept_name": "Plavix",
+      "kb_source": "rxnorm",
+      "link_score": 0.9820790886878967,
+      "timestamp": null
+    },
+    {
+      "text": "nitrate",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 55,
+      "sentence_idx": 65,
+      "concept_id": "C3848573",
+      "concept_name": "nitrate ion",
+      "kb_source": "rxnorm",
+      "link_score": 0.8158627152442932,
+      "timestamp": null
+    },
+    {
+      "text": "Norvasc",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 19,
+      "sentence_idx": 66,
+      "concept_id": "C0162712",
+      "concept_name": "Norvasc",
+      "kb_source": "rxnorm",
+      "link_score": 0.989057183265686,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

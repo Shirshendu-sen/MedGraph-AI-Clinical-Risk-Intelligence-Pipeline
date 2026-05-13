@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2621__cone_biopsy_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 5,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0021968": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2621__cone_biopsy__graph.pt",
+  "source_dataset": "mtsamples_2621__cone_biopsy"
+}

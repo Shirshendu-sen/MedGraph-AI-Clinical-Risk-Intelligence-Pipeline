@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1828__diabetic_foot_care_.txt",
+    "file_name": "mtsamples_1828__diabetic_foot_care_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 488,
+    "processed_at": "2026-05-09T09:53:51.267142"
+  },
+  "entities": [
+    {
+      "text": "83-year-old diabetic female",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 35,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "83-year-old diabetic female",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetic foot care.,O - ,On examination, the lateral",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 131,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic foot care.,O - ,On examination, the lateral",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "toenail",
+      "label": "DISEASE",
+      "start_char": 157,
+      "end_char": 164,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "toenail",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Onychocryptosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 15,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Onychocryptosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

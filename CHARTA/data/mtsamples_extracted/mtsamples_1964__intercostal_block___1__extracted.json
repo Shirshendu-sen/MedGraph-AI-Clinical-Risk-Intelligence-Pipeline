@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1964__intercostal_block___1_.txt",
+    "file_name": "mtsamples_1964__intercostal_block___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1203,
+    "processed_at": "2026-05-09T09:53:53.859326"
+  },
+  "entities": [
+    {
+      "text": "PREPROCEDURE",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PREPROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Chest pain",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 35,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Chest pain",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 130,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 91,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 99,
+      "end_char": 108,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 119,
+      "end_char": 127,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "contusion",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 78,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "respiratory distress",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 31,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "respiratory distress",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 55,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

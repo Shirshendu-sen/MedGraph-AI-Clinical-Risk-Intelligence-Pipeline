@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_4062__weight_gain_and_edema_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 92,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0162712": 1,
+    "C0065374": 2,
+    "C0040165": 3,
+    "C0001927": 4,
+    "C0678172": 5,
+    "C0700777": 6,
+    "C0051696": 7,
+    "C0017725": 8,
+    "C0021968": 9
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4062__weight_gain_and_edema__graph.pt",
+  "source_dataset": "mtsamples_4062__weight_gain_and_edema"
+}

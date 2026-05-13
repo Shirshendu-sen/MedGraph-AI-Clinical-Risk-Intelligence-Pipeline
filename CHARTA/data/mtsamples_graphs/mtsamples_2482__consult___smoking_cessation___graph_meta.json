@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2482__consult___smoking_cessation__",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "C0699034": 0,
+    "UNKNOWN": 1,
+    "C1712042": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2482__consult___smoking_cessation___graph.pt",
+  "source_dataset": "mtsamples_2482__consult___smoking_cessation_"
+}

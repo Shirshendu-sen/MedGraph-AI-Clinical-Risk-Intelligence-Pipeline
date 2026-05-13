@@ -1,0 +1,368 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3071__occupational_medicine_consult___2_.txt",
+    "file_name": "mtsamples_3071__occupational_medicine_consult___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4620,
+    "processed_at": "2026-05-09T09:54:14.040500"
+  },
+  "entities": [
+    {
+      "text": "726.31 right medial epicondylitis",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 54,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "726.31 right medial epicondylitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "354.0 right carpal tunnel syndrome.,CONTESTED",
+      "label": "CHEMICAL",
+      "start_char": 56,
+      "end_char": 101,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "354.0 right carpal tunnel syndrome.,CONTESTED",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "354.2 right cubital tunnel",
+      "label": "CHEMICAL",
+      "start_char": 115,
+      "end_char": 141,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "354.2 right cubital tunnel",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "Vicodin",
+      "label": "CHEMICAL",
+      "start_char": 69,
+      "end_char": 76,
+      "sentence_idx": 5,
+      "concept_id": "C0483514",
+      "concept_name": "Vicodin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9674537181854248,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "right carpal tunnel syndrome",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 140,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right carpal tunnel syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 45,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "ulnar neuropathy",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 65,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ulnar neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 65,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "olecranon",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 82,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "olecranon",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 173,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 12,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "Aleve",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 24,
+      "sentence_idx": 13,
+      "concept_id": "C0718343",
+      "concept_name": "Aleve",
+      "kb_source": "rxnorm",
+      "link_score": 0.9846547842025757,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "Injury and illness",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 118,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Injury and illness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 400,
+      "end_char": 407,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "olecranon",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 74,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "olecranon",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "subluxation",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 28,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "pronation",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 69,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pronation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "supination",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 84,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supination",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "Wrist flexion",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Wrist flexion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "paresthesias",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 33,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paresthesias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "causalgia",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 30,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "causalgia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 57,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "cubital tunnel syndrome",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 87,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cubital tunnel syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "subluxation",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 30,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "subluxing",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 94,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "injury or disability",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 28,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury or disability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    },
+    {
+      "text": "injuries",
+      "label": "DISEASE",
+      "start_char": 232,
+      "end_char": 240,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injuries",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-26"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "April 26, 2006",
+      "start_char": 414,
+      "end_char": 428
+    },
+    {
+      "raw_text": "April 26, 2006",
+      "start_char": 653,
+      "end_char": 667
+    },
+    {
+      "raw_text": "June 27, 2006",
+      "start_char": 838,
+      "end_char": 851
+    },
+    {
+      "raw_text": "January 29, 2007",
+      "start_char": 1046,
+      "end_char": 1062
+    },
+    {
+      "raw_text": "April 26, 2006",
+      "start_char": 3742,
+      "end_char": 3756
+    },
+    {
+      "raw_text": "April 26, 2006",
+      "start_char": 4021,
+      "end_char": 4035
+    }
+  ]
+}

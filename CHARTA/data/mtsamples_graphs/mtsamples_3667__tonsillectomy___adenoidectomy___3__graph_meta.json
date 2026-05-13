@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3667__tonsillectomy___adenoidectomy___3_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 16,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0073571": 1,
+    "C0021968": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3667__tonsillectomy___adenoidectomy___3__graph.pt",
+  "source_dataset": "mtsamples_3667__tonsillectomy___adenoidectomy___3"
+}

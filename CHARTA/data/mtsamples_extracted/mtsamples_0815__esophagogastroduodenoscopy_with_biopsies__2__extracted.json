@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0815__esophagogastroduodenoscopy_with_biopsies__2_.txt",
+    "file_name": "mtsamples_0815__esophagogastroduodenoscopy_with_biopsies__2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2059,
+    "processed_at": "2026-05-09T09:53:26.542179"
+  },
+  "entities": [
+    {
+      "text": "Demerol",
+      "label": "CHEMICAL",
+      "start_char": 141,
+      "end_char": 148,
+      "sentence_idx": 2,
+      "concept_id": "C0935966",
+      "concept_name": "Demerol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9676215052604675,
+      "timestamp": null
+    },
+    {
+      "text": "reflux",
+      "label": "DISEASE",
+      "start_char": 315,
+      "end_char": 321,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "reflux",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "GERD type symptoms",
+      "label": "CHEMICAL",
+      "start_char": 326,
+      "end_char": 344,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "GERD type symptoms",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hoarseness",
+      "label": "DISEASE",
+      "start_char": 377,
+      "end_char": 387,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hoarseness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 400,
+      "end_char": 405,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dyspeptic",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 70,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dyspeptic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Demerol",
+      "label": "CHEMICAL",
+      "start_char": 61,
+      "end_char": 68,
+      "sentence_idx": 4,
+      "concept_id": "C0935966",
+      "concept_name": "Demerol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9676215052604675,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 73,
+      "end_char": 79,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 35,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "reflux esophagitis",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 71,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "reflux esophagitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bile reflux",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 33,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bile reflux",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 104,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "proton-pump",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 34,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "proton-pump",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 47,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2761__normal_l_spine_mri_.txt",
+    "file_name": "mtsamples_2761__normal_l_spine_mri_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 984,
+    "processed_at": "2026-05-09T09:54:07.036559"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2761__normal_l_spine_mri_.txt",
+    "text": "CC: ,Bilateral lower extremity numbness.,HX: ,21 y/o RHM complained of gradual onset numbness and incoordination of both lower extremities beginning approximately 11/5/96. The symptoms became maximal over a 12-24 hour period and have not changed since. The symptoms consist of tingling in the distal lower extremities approximately half way up the calf bilaterally. He noted decreased coordination of both lower extremities which he thought might be due to uncertainty as to where his feet were being placed in space. He denied bowel/bladder problems, or weakness or numbness elsewhere. Hot showers may improve his symptoms. He has suffered no recent flu-like illness. Past medical and family histories are unremarkable. He was on no medications.,EXAM:, Unremarkable except for mild distal vibratory sensation loss in the toes (R>L).,LAB:, CBC, Gen Screen, TSH, FT4, SPE, ANA were all WNL.,MRI L-SPINE:, Normal.,COURSE:, Normal exam and diminished symptoms at following visit 4/23/93.",
+    "char_count": 984,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "CC: ,Bilateral lower extremity numbness.,HX: ,21 y/o RHM complained of gradual onset numbness and incoordination of both lower extremities beginning approximately 11/5/96. The symptoms became maximal over a 12-24 hour period and have not changed since. The symptoms consist of tingling in the distal lower extremities approximately half way up the calf bilaterally. He noted decreased coordination of both lower extremities which he thought might be due to uncertainty as to where his feet were being placed in space. He denied bowel/bladder problems, or weakness or numbness elsewhere. Hot showers may improve his symptoms. He has suffered no recent flu-like illness. Past medical and family histories are unremarkable. He was on no medications.,EXAM:, Unremarkable except for mild distal vibratory sensation loss in the toes (R>L).,LAB:, CBC, Gen Screen, TSH, FT4, SPE, ANA were all WNL.,MRI L-SPINE:, Normal.,COURSE:, Normal exam and diminished symptoms at following visit 4/23/93.",
+    "sentences": [
+      "CC: ,Bilateral lower extremity numbness.,HX: ,21 y/o RHM complained of gradual onset numbness and incoordination of both lower extremities beginning approximately 11/5/96.",
+      "The symptoms became maximal over a 12-24 hour period and have not changed since.",
+      "The symptoms consist of tingling in the distal lower extremities approximately half way up the calf bilaterally.",
+      "He noted decreased coordination of both lower extremities which he thought might be due to uncertainty as to where his feet were being placed in space.",
+      "He denied bowel/bladder problems, or weakness or numbness elsewhere.",
+      "Hot showers may improve his symptoms.",
+      "He has suffered no recent flu-like illness.",
+      "Past medical and family histories are unremarkable.",
+      "He was on no medications.,EXAM:, Unremarkable except for mild distal vibratory sensation loss in the toes (R>L).,LAB:, CBC, Gen Screen, TSH, FT4, SPE, ANA were all WNL.,MRI L-SPINE:, Normal.,COURSE:, Normal exam and diminished symptoms at following visit 4/23/93."
+    ],
+    "sentence_count": 9,
+    "original_length": 984,
+    "cleaned_length": 984,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "CC: ,Bilateral lower extremity numbness.,HX: ,21 y/o RHM complained of gradual onset numbness and incoordination of both lower extremities beginning approximately 11/5/96. The symptoms became maximal over a 12-24 hour period and have not changed since. The symptoms consist of tingling in the distal lower extremities approximately half way up the calf bilaterally. He noted decreased coordination of both lower extremities which he thought might be due to uncertainty as to where his feet were being placed in space. He denied bowel/bladder problems, or weakness or numbness elsewhere. Hot showers may improve his symptoms. He has suffered no recent flu-like illness. Past medical and family histories are unremarkable. He was on no medications.,EXAM:, Unremarkable except for mild distal vibratory sensation loss in the toes (R>L).,LAB:, CBC, Gen Screen, TSH, FT4, SPE, ANA were all WNL.,MRI L-SPINE:, Normal.,COURSE:, Normal exam and diminished symptoms at following visit 4/23/93.",
+    "cleaned_text": "CC: ,Bilateral lower extremity numbness.,HX: ,21 y/o RHM complained of gradual onset numbness and incoordination of both lower extremities beginning approximately 11/5/96. The symptoms became maximal over a 12-24 hour period and have not changed since. The symptoms consist of tingling in the distal lower extremities approximately half way up the calf bilaterally. He noted decreased coordination of both lower extremities which he thought might be due to uncertainty as to where his feet were being placed in space. He denied bowel/bladder problems, or weakness or numbness elsewhere. Hot showers may improve his symptoms. He has suffered no recent flu-like illness. Past medical and family histories are unremarkable. He was on no medications.,EXAM:, Unremarkable except for mild distal vibratory sensation loss in the toes (R>L).,LAB:, CBC, Gen Screen, TSH, FT4, SPE, ANA were all WNL.,MRI L-SPINE:, Normal.,COURSE:, Normal exam and diminished symptoms at following visit 4/23/93.",
+    "sentences": [
+      "CC: ,Bilateral lower extremity numbness.,HX: ,21 y/o RHM complained of gradual onset numbness and incoordination of both lower extremities beginning approximately 11/5/96.",
+      "The symptoms became maximal over a 12-24 hour period and have not changed since.",
+      "The symptoms consist of tingling in the distal lower extremities approximately half way up the calf bilaterally.",
+      "He noted decreased coordination of both lower extremities which he thought might be due to uncertainty as to where his feet were being placed in space.",
+      "He denied bowel/bladder problems, or weakness or numbness elsewhere.",
+      "Hot showers may improve his symptoms.",
+      "He has suffered no recent flu-like illness.",
+      "Past medical and family histories are unremarkable.",
+      "He was on no medications.,EXAM:, Unremarkable except for mild distal vibratory sensation loss in the toes (R>L).,LAB:, CBC, Gen Screen, TSH, FT4, SPE, ANA were all WNL.,MRI L-SPINE:, Normal.,COURSE:, Normal exam and diminished symptoms at following visit 4/23/93."
+    ],
+    "sentence_count": 9
+  }
+}

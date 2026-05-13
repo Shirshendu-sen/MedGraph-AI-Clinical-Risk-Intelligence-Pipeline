@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0840__endotracheal_intubation___1_.txt",
+    "file_name": "mtsamples_0840__endotracheal_intubation___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 950,
+    "processed_at": "2026-05-09T09:53:27.236595"
+  },
+  "entities": [
+    {
+      "text": "respiratory distress",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 134,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "respiratory distress",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 112,
+      "end_char": 118,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "etomidate",
+      "label": "CHEMICAL",
+      "start_char": 129,
+      "end_char": 138,
+      "sentence_idx": 1,
+      "concept_id": "C0015131",
+      "concept_name": "etomidate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9662849307060242,
+      "timestamp": null
+    },
+    {
+      "text": "vecuronium",
+      "label": "CHEMICAL",
+      "start_char": 153,
+      "end_char": 163,
+      "sentence_idx": 1,
+      "concept_id": "C0242531",
+      "concept_name": "vecuronium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9580038785934448,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

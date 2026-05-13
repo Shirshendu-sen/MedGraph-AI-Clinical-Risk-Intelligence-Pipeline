@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4733__holter_monitor_report___2_.txt",
+    "file_name": "mtsamples_4733__holter_monitor_report___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1156,
+    "processed_at": "2026-05-09T09:54:43.970167"
+  },
+  "entities": [
+    {
+      "text": "bradycardia",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 83,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bradycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "premature ventricular contraction",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 75,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "premature ventricular contraction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial premature contractions",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 150,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial premature contractions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 51,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "premature ventricular contraction",
+      "label": "DISEASE",
+      "start_char": 206,
+      "end_char": 239,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "premature ventricular contraction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial premature contractions",
+      "label": "DISEASE",
+      "start_char": 252,
+      "end_char": 281,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial premature contractions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "AV conduction disease",
+      "label": "DISEASE",
+      "start_char": 353,
+      "end_char": 374,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AV conduction disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial bigeminy",
+      "label": "DISEASE",
+      "start_char": 435,
+      "end_char": 450,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial bigeminy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

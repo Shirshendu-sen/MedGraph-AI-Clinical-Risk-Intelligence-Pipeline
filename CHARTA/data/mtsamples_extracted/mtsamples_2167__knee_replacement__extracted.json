@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2167__knee_replacement_.txt",
+    "file_name": "mtsamples_2167__knee_replacement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4414,
+    "processed_at": "2026-05-09T09:53:57.701364"
+  },
+  "entities": [
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 64,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 142,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left knee pain",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 40,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arthritis",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 50,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cement",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cement",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cement",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cement",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "knee flexion until the cement",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 98,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee flexion until the cement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "impingement",
+      "label": "DISEASE",
+      "start_char": 154,
+      "end_char": 165,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lovenox",
+      "label": "CHEMICAL",
+      "start_char": 93,
+      "end_char": 100,
+      "sentence_idx": 51,
+      "concept_id": "C0728963",
+      "concept_name": "Lovenox",
+      "kb_source": "rxnorm",
+      "link_score": 0.9913882613182068,
+      "timestamp": null
+    },
+    {
+      "text": "DVT",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 108,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

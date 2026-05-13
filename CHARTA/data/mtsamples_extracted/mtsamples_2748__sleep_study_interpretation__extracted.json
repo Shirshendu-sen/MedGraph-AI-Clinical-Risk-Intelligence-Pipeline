@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2748__sleep_study_interpretation_.txt",
+    "file_name": "mtsamples_2748__sleep_study_interpretation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2649,
+    "processed_at": "2026-05-09T09:54:06.853289"
+  },
+  "entities": [
+    {
+      "text": "obstructive sleep apnea",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 131,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive sleep apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "snoring",
+      "label": "DISEASE",
+      "start_char": 137,
+      "end_char": 144,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "snoring",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 146,
+      "end_char": 158,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 6,
+      "end_char": 12,
+      "sentence_idx": 10,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "snoring",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 25,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "snoring",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "apnea/hypopnea",
+      "label": "DISEASE",
+      "start_char": 222,
+      "end_char": 236,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea/hypopnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "Oxygen",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 17,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "FiO2",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 45,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FiO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "Obstructive sleep",
+      "label": "DISEASE",
+      "start_char": 160,
+      "end_char": 177,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Obstructive sleep",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "apnea syndrome",
+      "label": "DISEASE",
+      "start_char": 178,
+      "end_char": 192,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "snoring",
+      "label": "DISEASE",
+      "start_char": 214,
+      "end_char": 221,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "snoring",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "apnea/hypopnea index.,RECOMMENDATIONS:,AXIS B",
+      "label": "DISEASE",
+      "start_char": 238,
+      "end_char": 283,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea/hypopnea index.,RECOMMENDATIONS:,AXIS B",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "apnea",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 11,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 60,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "daytime sleepiness",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 28,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "daytime sleepiness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    },
+    {
+      "text": "dysfunction and memory loss",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 57,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysfunction and memory loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-24"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "01/24/06",
+      "start_char": 178,
+      "end_char": 186
+    }
+  ]
+}

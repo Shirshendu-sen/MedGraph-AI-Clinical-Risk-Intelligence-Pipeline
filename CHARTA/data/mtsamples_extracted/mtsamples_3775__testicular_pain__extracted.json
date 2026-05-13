@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3775__testicular_pain_.txt",
+    "file_name": "mtsamples_3775__testicular_pain_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3882,
+    "processed_at": "2026-05-09T09:54:27.305407"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 147,
+      "end_char": 151,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 89,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "nausea,",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea,",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "vomiting or fever",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 28,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting or fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 20,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "dysuria",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 31,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 120,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 23,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 61,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "rhinorrhea",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 56,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rhinorrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "evaluation.,PAST",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 59,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "evaluation.,PAST",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 112,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "circumcision.,PAST",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 66,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "circumcision.,PAST",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 223,
+      "end_char": 227,
+      "sentence_idx": 12,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "upper respiratory infection",
+      "label": "DISEASE",
+      "start_char": 256,
+      "end_char": 283,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper respiratory infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "murmurs",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 111,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "murmurs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 23,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 59,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 105,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "torsion",
+      "label": "DISEASE",
+      "start_char": 221,
+      "end_char": 228,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "torsion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 276,
+      "end_char": 282,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "torsion",
+      "label": "DISEASE",
+      "start_char": 387,
+      "end_char": 394,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "torsion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    },
+    {
+      "text": "torsion",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 118,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "torsion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-19"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "3 weeks ago",
+      "start_char": 969,
+      "end_char": 980
+    },
+    {
+      "raw_text": "3 weeks ago",
+      "start_char": 1445,
+      "end_char": 1456
+    }
+  ]
+}

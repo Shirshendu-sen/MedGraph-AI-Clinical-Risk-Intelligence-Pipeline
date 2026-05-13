@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_4003__odontogenic_abscess_i_d_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 59,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1,
+    "C0030346": 2,
+    "C0009170": 3,
+    "C0014563": 4,
+    "C0026549": 5,
+    "C0008947": 6,
+    "C0483514": 7,
+    "C0728727": 8
+  },
+  "visit_dates": [
+    "2003-08-21"
+  ],
+  "graph_file": "mtsamples_4003__odontogenic_abscess_i_d__graph.pt",
+  "source_dataset": "mtsamples_4003__odontogenic_abscess_i_d"
+}

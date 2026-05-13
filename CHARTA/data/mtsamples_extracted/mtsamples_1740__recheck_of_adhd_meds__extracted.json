@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1740__recheck_of_adhd_meds_.txt",
+    "file_name": "mtsamples_1740__recheck_of_adhd_meds_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2489,
+    "processed_at": "2026-05-09T09:53:49.329956"
+  },
+  "entities": [
+    {
+      "text": "ADHD",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 71,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ADHD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-16"
+    },
+    {
+      "text": "Adderall",
+      "label": "CHEMICAL",
+      "start_char": 17,
+      "end_char": 25,
+      "sentence_idx": 1,
+      "concept_id": "C0290795",
+      "concept_name": "Adderall",
+      "kb_source": "rxnorm",
+      "link_score": 0.9406176209449768,
+      "timestamp": "2004-08-16"
+    },
+    {
+      "text": "Adderall",
+      "label": "CHEMICAL",
+      "start_char": 156,
+      "end_char": 164,
+      "sentence_idx": 8,
+      "concept_id": "C0290795",
+      "concept_name": "Adderall",
+      "kb_source": "rxnorm",
+      "link_score": 0.9406176209449768,
+      "timestamp": "2004-08-16"
+    },
+    {
+      "text": "attention deficit hyperactivity disorder",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 154,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "attention deficit hyperactivity disorder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-08-16"
+    },
+    {
+      "text": "Ritalin LA",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 28,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ritalin LA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-08-16"
+    },
+    {
+      "text": "Adderall",
+      "label": "CHEMICAL",
+      "start_char": 119,
+      "end_char": 127,
+      "sentence_idx": 12,
+      "concept_id": "C0290795",
+      "concept_name": "Adderall",
+      "kb_source": "rxnorm",
+      "link_score": 0.9406176209449768,
+      "timestamp": "2004-08-16"
+    },
+    {
+      "text": "Adderall",
+      "label": "CHEMICAL",
+      "start_char": 106,
+      "end_char": 114,
+      "sentence_idx": 13,
+      "concept_id": "C0290795",
+      "concept_name": "Adderall",
+      "kb_source": "rxnorm",
+      "link_score": 0.9406176209449768,
+      "timestamp": "2004-08-16"
+    },
+    {
+      "text": "Adderall",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 63,
+      "sentence_idx": 14,
+      "concept_id": "C0290795",
+      "concept_name": "Adderall",
+      "kb_source": "rxnorm",
+      "link_score": 0.9406176209449768,
+      "timestamp": "2004-08-16"
+    },
+    {
+      "text": "Adderall",
+      "label": "CHEMICAL",
+      "start_char": 97,
+      "end_char": 105,
+      "sentence_idx": 14,
+      "concept_id": "C0290795",
+      "concept_name": "Adderall",
+      "kb_source": "rxnorm",
+      "link_score": 0.9406176209449768,
+      "timestamp": "2004-08-16"
+    },
+    {
+      "text": "Ritalin LA",
+      "label": "CHEMICAL",
+      "start_char": 78,
+      "end_char": 88,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ritalin LA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-08-16"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/16/2004",
+      "start_char": 948,
+      "end_char": 958
+    },
+    {
+      "raw_text": "08/16/2004",
+      "start_char": 1114,
+      "end_char": 1124
+    }
+  ]
+}

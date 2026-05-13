@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2889__ct_scan_of__brain_w_o_contrast_.txt",
+    "file_name": "mtsamples_2889__ct_scan_of__brain_w_o_contrast_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 705,
+    "processed_at": "2026-05-09T09:54:10.342273"
+  },
+  "entities": [
+    {
+      "text": "intracranial abnormalities",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 102,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intracranial abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 29,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intracranial abnormalities",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 52,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intracranial abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

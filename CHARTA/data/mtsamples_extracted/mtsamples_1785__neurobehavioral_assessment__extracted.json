@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1785__neurobehavioral_assessment_.txt",
+    "file_name": "mtsamples_1785__neurobehavioral_assessment_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 513,
+    "processed_at": "2026-05-09T09:53:50.410060"
+  },
+  "entities": [
+    {
+      "text": "organicity",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 34,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "organicity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 34,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anxiety",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 46,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anxiety",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ideation",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 96,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ideation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

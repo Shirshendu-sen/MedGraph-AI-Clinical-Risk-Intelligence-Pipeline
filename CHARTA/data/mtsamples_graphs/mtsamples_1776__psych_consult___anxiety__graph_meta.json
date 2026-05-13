@@ -1,0 +1,28 @@
+{
+  "patient_id": "mtsamples_1776__psych_consult___anxiety_",
+  "num_entities": 15,
+  "num_visits": 1,
+  "num_edges": 127,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699194": 1,
+    "C0040805": 2,
+    "C0525726": 3,
+    "C0487782": 4,
+    "C0016277": 5,
+    "C0007561": 6,
+    "C0699142": 7,
+    "C0033405": 8,
+    "C0037473": 9,
+    "C0032821": 10,
+    "C0596019": 11,
+    "C0973231": 12,
+    "C0010294": 13,
+    "C0017725": 14
+  },
+  "visit_dates": [
+    "2007-02-06"
+  ],
+  "graph_file": "mtsamples_1776__psych_consult___anxiety__graph.pt",
+  "source_dataset": "mtsamples_1776__psych_consult___anxiety"
+}

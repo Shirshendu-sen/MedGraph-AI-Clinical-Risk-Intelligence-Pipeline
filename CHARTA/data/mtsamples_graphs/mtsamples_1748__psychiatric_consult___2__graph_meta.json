@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_1748__psychiatric_consult___2_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 42,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008845": 1,
+    "C0043031": 2,
+    "C0030054": 3,
+    "C0721754": 4,
+    "C0010294": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1748__psychiatric_consult___2__graph.pt",
+  "source_dataset": "mtsamples_1748__psychiatric_consult___2"
+}

@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3803__headache___urgent_care_visit_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 29,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699142": 1,
+    "C0009214": 2,
+    "C0030346": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3803__headache___urgent_care_visit__graph.pt",
+  "source_dataset": "mtsamples_3803__headache___urgent_care_visit"
+}

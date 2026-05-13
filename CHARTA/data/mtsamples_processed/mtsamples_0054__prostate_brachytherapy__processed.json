@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0054__prostate_brachytherapy_.txt",
+    "file_name": "mtsamples_0054__prostate_brachytherapy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1068,
+    "processed_at": "2026-05-09T09:53:04.814110"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0054__prostate_brachytherapy_.txt",
+    "text": "PROSTATE BRACHYTHERAPY - PROSTATE I-125 IMPLANTATION,This patient will be treated to the prostate with ultrasound-guided I-125 seed implantation.  The original consultation and treatment planning will be separately performed.  At the time of the implantation, special coordination will be required.  Stepping ultrasound will be performed and utilized in the pre-planning process.  Some discrepancies are frequently identified, based on the positioning, edema, and/or change in the tumor since the pre-planning process.  Re-assessment is required at the time of surgery, evaluating the pre-plan and comparing to the stepping ultrasound.  Modifications will be made in real time to add or subtract needles and seeds as required.  This may be integrated with the loading of the seeds performed by the brachytherapist, as well as coordinated with the urologist, dosimetrist or physicist.,The brachytherapy must be customized to fit the individual's tumor and prostate.  Attention is given both preoperatively and intraoperatively to avoid overdosage of rectum and bladder.",
+    "char_count": 1068,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROSTATE BRACHYTHERAPY - PROSTATE I-125 IMPLANTATION,This patient will be treated to the prostate with ultrasound-guided I-125 seed implantation. The original consultation and treatment planning will be separately performed. At the time of the implantation, special coordination will be required. Stepping ultrasound will be performed and utilized in the pre-planning process. Some discrepancies are frequently identified, based on the positioning, edema, and/or change in the tumor since the pre-planning process. Re-assessment is required at the time of surgery, evaluating the pre-plan and comparing to the stepping ultrasound. Modifications will be made in real time to add or subtract needles and seeds as required. This may be integrated with the loading of the seeds performed by the brachytherapist, as well as coordinated with the urologist, dosimetrist or physicist.,The brachytherapy must be customized to fit the individual's tumor and prostate. Attention is given both preoperatively and intraoperatively to avoid overdosage of rectum and bladder.",
+    "sentences": [
+      "PROSTATE BRACHYTHERAPY - PROSTATE I-125 IMPLANTATION,This patient will be treated to the prostate with ultrasound-guided I-125 seed implantation.",
+      "The original consultation and treatment planning will be separately performed.",
+      "At the time of the implantation, special coordination will be required.",
+      "Stepping ultrasound will be performed and utilized in the pre-planning process.",
+      "Some discrepancies are frequently identified, based on the positioning, edema, and/or change in the tumor since the pre-planning process.",
+      "Re-assessment is required at the time of surgery, evaluating the pre-plan and comparing to the stepping ultrasound.",
+      "Modifications will be made in real time to add or subtract needles and seeds as required.",
+      "This may be integrated with the loading of the seeds performed by the brachytherapist, as well as coordinated with the urologist, dosimetrist or physicist.,The brachytherapy must be customized to fit the individual's tumor and prostate.",
+      "Attention is given both preoperatively and intraoperatively to avoid overdosage of rectum and bladder."
+    ],
+    "sentence_count": 9,
+    "original_length": 1068,
+    "cleaned_length": 1060,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROSTATE BRACHYTHERAPY - PROSTATE I-125 IMPLANTATION,This patient will be treated to the prostate with ultrasound-guided I-125 seed implantation.  The original consultation and treatment planning will be separately performed.  At the time of the implantation, special coordination will be required.  Stepping ultrasound will be performed and utilized in the pre-planning process.  Some discrepancies are frequently identified, based on the positioning, edema, and/or change in the tumor since the pre-planning process.  Re-assessment is required at the time of surgery, evaluating the pre-plan and comparing to the stepping ultrasound.  Modifications will be made in real time to add or subtract needles and seeds as required.  This may be integrated with the loading of the seeds performed by the brachytherapist, as well as coordinated with the urologist, dosimetrist or physicist.,The brachytherapy must be customized to fit the individual's tumor and prostate.  Attention is given both preoperatively and intraoperatively to avoid overdosage of rectum and bladder.",
+    "cleaned_text": "PROSTATE BRACHYTHERAPY - PROSTATE I-125 IMPLANTATION,This patient will be treated to the prostate with ultrasound-guided I-125 seed implantation. The original consultation and treatment planning will be separately performed. At the time of the implantation, special coordination will be required. Stepping ultrasound will be performed and utilized in the pre-planning process. Some discrepancies are frequently identified, based on the positioning, edema, and/or change in the tumor since the pre-planning process. Re-assessment is required at the time of surgery, evaluating the pre-plan and comparing to the stepping ultrasound. Modifications will be made in real time to add or subtract needles and seeds as required. This may be integrated with the loading of the seeds performed by the brachytherapist, as well as coordinated with the urologist, dosimetrist or physicist.,The brachytherapy must be customized to fit the individual's tumor and prostate. Attention is given both preoperatively and intraoperatively to avoid overdosage of rectum and bladder.",
+    "sentences": [
+      "PROSTATE BRACHYTHERAPY - PROSTATE I-125 IMPLANTATION,This patient will be treated to the prostate with ultrasound-guided I-125 seed implantation.",
+      "The original consultation and treatment planning will be separately performed.",
+      "At the time of the implantation, special coordination will be required.",
+      "Stepping ultrasound will be performed and utilized in the pre-planning process.",
+      "Some discrepancies are frequently identified, based on the positioning, edema, and/or change in the tumor since the pre-planning process.",
+      "Re-assessment is required at the time of surgery, evaluating the pre-plan and comparing to the stepping ultrasound.",
+      "Modifications will be made in real time to add or subtract needles and seeds as required.",
+      "This may be integrated with the loading of the seeds performed by the brachytherapist, as well as coordinated with the urologist, dosimetrist or physicist.,The brachytherapy must be customized to fit the individual's tumor and prostate.",
+      "Attention is given both preoperatively and intraoperatively to avoid overdosage of rectum and bladder."
+    ],
+    "sentence_count": 9
+  }
+}

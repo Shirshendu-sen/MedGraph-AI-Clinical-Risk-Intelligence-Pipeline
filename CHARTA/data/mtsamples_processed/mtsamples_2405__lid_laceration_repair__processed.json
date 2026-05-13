@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2405__lid_laceration_repair_.txt",
+    "file_name": "mtsamples_2405__lid_laceration_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1882,
+    "processed_at": "2026-05-09T09:54:01.189106"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2405__lid_laceration_repair_.txt",
+    "text": "PREOPERATIVE DIAGNOSES:,1. XXX upper lid laceration.,2. XXX upper lid canalicular laceration.,POSTOPERATIVE DIAGNOSES:,1. XXX upper lid laceration.,2. XXX upper lid canalicular laceration.,PROCEDURES:,1. Repair of XXX upper lid laceration.,2. Repair of XXX upper lid canalicular laceration.,ANESTHESIA:, General,SPECIMENS:,  None.,COMPLICATIONS:, None.,INDICATIONS:, This is a XX-year-old (wo)man with XXX eye upper eyelid laceration involving the canaliculus.,PROCEDURE:, The risks and benefits of eye surgery were discussed at length with the patient, including bleeding, infection, re-operation, loss of vision, and loss of the eye. Informed consent was obtained. The patient was brought to the operating room and placed in the supine position, where (s)he was prepped and draped in the routine fashion for general ophthalmic plastic reconstructive surgery, once the appropriate cardiac and respiratory monitoring was placed on him/her, and once general endotracheal anesthetic had been administered. The patient then had the wound freshened up with Westcott scissors and cotton-tip applications. Hemostasis was achieved with a high-temp disposable cautery. Once this had been done, the proximal end of the XXX upper lid canalicular system was intubated with a Monoka tube on a Prolene. The proximal end was then found and this was intubated with the same tubing system. Then, two 6-0 Vicryl sutures were used to reapproximate the medial canthal tendon. Once this had been done, the skin was reapproximated with interrupted 6-0 Vicryl sutures and interrupted 6-0 plain gut sutures. To ensure that the punctum was in the correct position and in the Monoka tube was seated with a seater, and the tube was cut short. The patient's nose was suctioned of blood, and (s)he was awakened from general endotracheal anesthesia and did well. (S)he left the operating room in good condition.",
+    "char_count": 1882,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSES:,1. XXX upper lid laceration.,2. XXX upper lid canalicular laceration.,POSTOPERATIVE DIAGNOSES:,1. XXX upper lid laceration.,2. XXX upper lid canalicular laceration.,PROCEDURES:,1. Repair of XXX upper lid laceration.,2. Repair of XXX upper lid canalicular laceration.,ANESTHESIA:, General,SPECIMENS:, None.,COMPLICATIONS:, None.,INDICATIONS:, This is a XX-year-old (wo)man with XXX eye upper eyelid laceration involving the canaliculus.,PROCEDURE:, The risks and benefits of eye surgery were discussed at length with the patient, including bleeding, infection, re-operation, loss of vision, and loss of the eye. Informed consent was obtained. The patient was brought to the operating room and placed in the supine position, where (s)he was prepped and draped in the routine fashion for general ophthalmic plastic reconstructive surgery, once the appropriate cardiac and respiratory monitoring was placed on him/her, and once general endotracheal anesthetic had been administered. The patient then had the wound freshened up with Westcott scissors and cotton-tip applications. Hemostasis was achieved with a high-temp disposable cautery. Once this had been done, the proximal end of the XXX upper lid canalicular system was intubated with a Monoka tube on a Prolene. The proximal end was then found and this was intubated with the same tubing system. Then, two 6-0 Vicryl sutures were used to reapproximate the medial canthal tendon. Once this had been done, the skin was reapproximated with interrupted 6-0 Vicryl sutures and interrupted 6-0 plain gut sutures. To ensure that the punctum was in the correct position and in the Monoka tube was seated with a seater, and the tube was cut short. The patient's nose was suctioned of blood, and (s)he was awakened from general endotracheal anesthesia and did well. (S)he left the operating room in good condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES:,1.",
+      "XXX upper lid laceration.,2.",
+      "XXX upper lid canalicular laceration.,POSTOPERATIVE DIAGNOSES:,1.",
+      "XXX upper lid laceration.,2.",
+      "XXX upper lid canalicular laceration.,PROCEDURES:,1.",
+      "Repair of XXX upper lid laceration.,2.",
+      "Repair of XXX upper lid canalicular laceration.,ANESTHESIA:, General,SPECIMENS:, None.,COMPLICATIONS:, None.,INDICATIONS:, This is a XX-year-old (wo)man with XXX eye upper eyelid laceration involving the canaliculus.,PROCEDURE:, The risks and benefits of eye surgery were discussed at length with the patient, including bleeding, infection, re-operation, loss of vision, and loss of the eye.",
+      "Informed consent was obtained.",
+      "The patient was brought to the operating room and placed in the supine position, where (s)he was prepped and draped in the routine fashion for general ophthalmic plastic reconstructive surgery, once the appropriate cardiac and respiratory monitoring was placed on him/her, and once general endotracheal anesthetic had been administered.",
+      "The patient then had the wound freshened up with Westcott scissors and cotton-tip applications.",
+      "Hemostasis was achieved with a high-temp disposable cautery.",
+      "Once this had been done, the proximal end of the XXX upper lid canalicular system was intubated with a Monoka tube on a Prolene.",
+      "The proximal end was then found and this was intubated with the same tubing system.",
+      "Then, two 6-0 Vicryl sutures were used to reapproximate the medial canthal tendon.",
+      "Once this had been done, the skin was reapproximated with interrupted 6-0 Vicryl sutures and interrupted 6-0 plain gut sutures.",
+      "To ensure that the punctum was in the correct position and in the Monoka tube was seated with a seater, and the tube was cut short.",
+      "The patient's nose was suctioned of blood, and (s)he was awakened from general endotracheal anesthesia and did well. (S)he left the operating room in good condition."
+    ],
+    "sentence_count": 17,
+    "original_length": 1882,
+    "cleaned_length": 1881,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSES:,1. XXX upper lid laceration.,2. XXX upper lid canalicular laceration.,POSTOPERATIVE DIAGNOSES:,1. XXX upper lid laceration.,2. XXX upper lid canalicular laceration.,PROCEDURES:,1. Repair of XXX upper lid laceration.,2. Repair of XXX upper lid canalicular laceration.,ANESTHESIA:, General,SPECIMENS:,  None.,COMPLICATIONS:, None.,INDICATIONS:, This is a XX-year-old (wo)man with XXX eye upper eyelid laceration involving the canaliculus.,PROCEDURE:, The risks and benefits of eye surgery were discussed at length with the patient, including bleeding, infection, re-operation, loss of vision, and loss of the eye. Informed consent was obtained. The patient was brought to the operating room and placed in the supine position, where (s)he was prepped and draped in the routine fashion for general ophthalmic plastic reconstructive surgery, once the appropriate cardiac and respiratory monitoring was placed on him/her, and once general endotracheal anesthetic had been administered. The patient then had the wound freshened up with Westcott scissors and cotton-tip applications. Hemostasis was achieved with a high-temp disposable cautery. Once this had been done, the proximal end of the XXX upper lid canalicular system was intubated with a Monoka tube on a Prolene. The proximal end was then found and this was intubated with the same tubing system. Then, two 6-0 Vicryl sutures were used to reapproximate the medial canthal tendon. Once this had been done, the skin was reapproximated with interrupted 6-0 Vicryl sutures and interrupted 6-0 plain gut sutures. To ensure that the punctum was in the correct position and in the Monoka tube was seated with a seater, and the tube was cut short. The patient's nose was suctioned of blood, and (s)he was awakened from general endotracheal anesthesia and did well. (S)he left the operating room in good condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSES:,1. XXX upper lid laceration.,2. XXX upper lid canalicular laceration.,POSTOPERATIVE DIAGNOSES:,1. XXX upper lid laceration.,2. XXX upper lid canalicular laceration.,PROCEDURES:,1. Repair of XXX upper lid laceration.,2. Repair of XXX upper lid canalicular laceration.,ANESTHESIA:, General,SPECIMENS:, None.,COMPLICATIONS:, None.,INDICATIONS:, This is a XX-year-old (wo)man with XXX eye upper eyelid laceration involving the canaliculus.,PROCEDURE:, The risks and benefits of eye surgery were discussed at length with the patient, including bleeding, infection, re-operation, loss of vision, and loss of the eye. Informed consent was obtained. The patient was brought to the operating room and placed in the supine position, where (s)he was prepped and draped in the routine fashion for general ophthalmic plastic reconstructive surgery, once the appropriate cardiac and respiratory monitoring was placed on him/her, and once general endotracheal anesthetic had been administered. The patient then had the wound freshened up with Westcott scissors and cotton-tip applications. Hemostasis was achieved with a high-temp disposable cautery. Once this had been done, the proximal end of the XXX upper lid canalicular system was intubated with a Monoka tube on a Prolene. The proximal end was then found and this was intubated with the same tubing system. Then, two 6-0 Vicryl sutures were used to reapproximate the medial canthal tendon. Once this had been done, the skin was reapproximated with interrupted 6-0 Vicryl sutures and interrupted 6-0 plain gut sutures. To ensure that the punctum was in the correct position and in the Monoka tube was seated with a seater, and the tube was cut short. The patient's nose was suctioned of blood, and (s)he was awakened from general endotracheal anesthesia and did well. (S)he left the operating room in good condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES:,1.",
+      "XXX upper lid laceration.,2.",
+      "XXX upper lid canalicular laceration.,POSTOPERATIVE DIAGNOSES:,1.",
+      "XXX upper lid laceration.,2.",
+      "XXX upper lid canalicular laceration.,PROCEDURES:,1.",
+      "Repair of XXX upper lid laceration.,2.",
+      "Repair of XXX upper lid canalicular laceration.,ANESTHESIA:, General,SPECIMENS:, None.,COMPLICATIONS:, None.,INDICATIONS:, This is a XX-year-old (wo)man with XXX eye upper eyelid laceration involving the canaliculus.,PROCEDURE:, The risks and benefits of eye surgery were discussed at length with the patient, including bleeding, infection, re-operation, loss of vision, and loss of the eye.",
+      "Informed consent was obtained.",
+      "The patient was brought to the operating room and placed in the supine position, where (s)he was prepped and draped in the routine fashion for general ophthalmic plastic reconstructive surgery, once the appropriate cardiac and respiratory monitoring was placed on him/her, and once general endotracheal anesthetic had been administered.",
+      "The patient then had the wound freshened up with Westcott scissors and cotton-tip applications.",
+      "Hemostasis was achieved with a high-temp disposable cautery.",
+      "Once this had been done, the proximal end of the XXX upper lid canalicular system was intubated with a Monoka tube on a Prolene.",
+      "The proximal end was then found and this was intubated with the same tubing system.",
+      "Then, two 6-0 Vicryl sutures were used to reapproximate the medial canthal tendon.",
+      "Once this had been done, the skin was reapproximated with interrupted 6-0 Vicryl sutures and interrupted 6-0 plain gut sutures.",
+      "To ensure that the punctum was in the correct position and in the Monoka tube was seated with a seater, and the tube was cut short.",
+      "The patient's nose was suctioned of blood, and (s)he was awakened from general endotracheal anesthesia and did well. (S)he left the operating room in good condition."
+    ],
+    "sentence_count": 17
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4620__supraventricular_tachycardia___consult_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0001443": 1,
+    "C0030054": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4620__supraventricular_tachycardia___consult__graph.pt",
+  "source_dataset": "mtsamples_4620__supraventricular_tachycardia___consult"
+}

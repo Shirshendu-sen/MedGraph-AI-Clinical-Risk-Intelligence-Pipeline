@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1220__anterior_cruciate_ligament_reconstruction_.txt",
+    "file_name": "mtsamples_1220__anterior_cruciate_ligament_reconstruction_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1995,
+    "processed_at": "2026-05-09T09:53:37.045764"
+  },
+  "entities": [
+    {
+      "text": "loose",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 16,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loose",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "impingement of the meniscus",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 116,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impingement of the meniscus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 164,
+      "end_char": 172,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "notchplasty",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 134,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "notchplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "impingement",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 73,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

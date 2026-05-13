@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0255__total_hip_replacement___1_.txt",
+    "file_name": "mtsamples_0255__total_hip_replacement___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3317,
+    "processed_at": "2026-05-09T09:53:10.511054"
+  },
+  "entities": [
+    {
+      "text": "piriformis and external rotators",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 36,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "piriformis and external rotators",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Extensive degenerative disease",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 30,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Extensive degenerative disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "acetabulum.,Baseline leg-length",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 110,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acetabulum.,Baseline leg-length",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Reaming of the acetabulum",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 25,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Reaming of the acetabulum",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 68,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abduction",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 107,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abduction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intramedullary hole",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 22,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intramedullary hole",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "head and neck placement",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 97,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head and neck placement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

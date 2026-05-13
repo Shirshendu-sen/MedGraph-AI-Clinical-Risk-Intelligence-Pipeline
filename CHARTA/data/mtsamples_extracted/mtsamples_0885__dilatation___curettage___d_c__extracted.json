@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0885__dilatation___curettage___d_c_.txt",
+    "file_name": "mtsamples_0885__dilatation___curettage___d_c_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1579,
+    "processed_at": "2026-05-09T09:53:28.239408"
+  },
+  "entities": [
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 128,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 67,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

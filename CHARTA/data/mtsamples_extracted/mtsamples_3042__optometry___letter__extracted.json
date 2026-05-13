@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3042__optometry___letter_.txt",
+    "file_name": "mtsamples_3042__optometry___letter_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1271,
+    "processed_at": "2026-05-09T09:54:12.778796"
+  },
+  "entities": [
+    {
+      "text": "low vision",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 57,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "low vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

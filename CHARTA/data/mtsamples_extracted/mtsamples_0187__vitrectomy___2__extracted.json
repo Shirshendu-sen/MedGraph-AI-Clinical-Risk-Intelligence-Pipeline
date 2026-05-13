@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0187__vitrectomy___2_.txt",
+    "file_name": "mtsamples_0187__vitrectomy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1279,
+    "processed_at": "2026-05-09T09:53:08.830879"
+  },
+  "entities": [
+    {
+      "text": "Epiretinal",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 36,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Epiretinal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Epiretinal",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 53,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Epiretinal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epiretinal",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 139,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epiretinal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 178,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 91,
+      "end_char": 100,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 105,
+      "end_char": 113,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "DVT",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

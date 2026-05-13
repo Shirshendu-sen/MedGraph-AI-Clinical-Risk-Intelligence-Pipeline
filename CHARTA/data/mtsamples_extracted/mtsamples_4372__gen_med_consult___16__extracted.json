@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4372__gen_med_consult___16_.txt",
+    "file_name": "mtsamples_4372__gen_med_consult___16_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2968,
+    "processed_at": "2026-05-09T09:54:37.845692"
+  },
+  "entities": [
+    {
+      "text": "memory loss",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 82,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "memory loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-28"
+    },
+    {
+      "text": "lethargy",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lethargy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-28"
+    },
+    {
+      "text": "dizziness",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 58,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dizziness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-28"
+    },
+    {
+      "text": "HCTZ",
+      "label": "CHEMICAL",
+      "start_char": 63,
+      "end_char": 67,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "HCTZ",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-06-28"
+    },
+    {
+      "text": "Zoloft",
+      "label": "CHEMICAL",
+      "start_char": 97,
+      "end_char": 103,
+      "sentence_idx": 10,
+      "concept_id": "C0284660",
+      "concept_name": "Zoloft",
+      "kb_source": "rxnorm",
+      "link_score": 0.9763978123664856,
+      "timestamp": "2004-06-28"
+    },
+    {
+      "text": "Zyrtec",
+      "label": "CHEMICAL",
+      "start_char": 118,
+      "end_char": 124,
+      "sentence_idx": 10,
+      "concept_id": "C0162723",
+      "concept_name": "Zyrtec",
+      "kb_source": "rxnorm",
+      "link_score": 0.9963204860687256,
+      "timestamp": "2004-06-28"
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 265,
+      "end_char": 277,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-28"
+    },
+    {
+      "text": "Throat",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-28"
+    },
+    {
+      "text": "memory loss",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 22,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "memory loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-28"
+    },
+    {
+      "text": "Anxiety",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Anxiety",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-28"
+    },
+    {
+      "text": "Zoloft",
+      "label": "CHEMICAL",
+      "start_char": 20,
+      "end_char": 26,
+      "sentence_idx": 30,
+      "concept_id": "C0284660",
+      "concept_name": "Zoloft",
+      "kb_source": "rxnorm",
+      "link_score": 0.9763978123664856,
+      "timestamp": "2004-06-28"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "06/28/2004",
+      "start_char": 1256,
+      "end_char": 1266
+    }
+  ]
+}

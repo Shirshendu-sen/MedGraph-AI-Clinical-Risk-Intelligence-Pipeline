@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1983__caudal_epidural_steroid_injection_.txt",
+    "file_name": "mtsamples_1983__caudal_epidural_steroid_injection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 737,
+    "processed_at": "2026-05-09T09:53:54.157401"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1983__caudal_epidural_steroid_injection_.txt",
+    "text": "CAUDAL EPIDURAL STEROID INJECTION,PROCEDURE:,:,1.  Caudal epidural steroid injection with contrast.,2.  Utilization of fluoroscopy for confirmation of needle placement.,PREPROCEDURE PREPARATION:,  After being explained the risks and benefits of the procedure, the patient signed the standard informed consent form.  The patient was placed in the prone position and standard ASA monitors applied.  Intravenous access was established and IV sedation was used.  For further details of IV sedation and infusion, please refer to anesthesia notes.  Fluoroscopy was used to identify the appropriate anatomy.  The skin was prepped and draped in a sterile fashion and sterile technique was maintained throughout the procedure.,PROCEDURE DETAILS:,",
+    "char_count": 737,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "CAUDAL EPIDURAL STEROID INJECTION,PROCEDURE:,:,1. Caudal epidural steroid injection with contrast.,2. Utilization of fluoroscopy for confirmation of needle placement.,PREPROCEDURE PREPARATION:, After being explained the risks and benefits of the procedure, the patient signed the standard informed consent form. The patient was placed in the prone position and standard ASA monitors applied. Intravenous access was established and IV sedation was used. For further details of IV sedation and infusion, please refer to anesthesia notes. Fluoroscopy was used to identify the appropriate anatomy. The skin was prepped and draped in a sterile fashion and sterile technique was maintained throughout the procedure.,PROCEDURE DETAILS:,",
+    "sentences": [
+      "CAUDAL EPIDURAL STEROID INJECTION,PROCEDURE:,:,1.",
+      "Caudal epidural steroid injection with contrast.,2.",
+      "Utilization of fluoroscopy for confirmation of needle placement.,PREPROCEDURE PREPARATION:, After being explained the risks and benefits of the procedure, the patient signed the standard informed consent form.",
+      "The patient was placed in the prone position and standard ASA monitors applied.",
+      "Intravenous access was established and IV sedation was used.",
+      "For further details of IV sedation and infusion, please refer to anesthesia notes.",
+      "Fluoroscopy was used to identify the appropriate anatomy.",
+      "The skin was prepped and draped in a sterile fashion and sterile technique was maintained throughout the procedure.,PROCEDURE DETAILS:,"
+    ],
+    "sentence_count": 8,
+    "original_length": 737,
+    "cleaned_length": 729,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "CAUDAL EPIDURAL STEROID INJECTION,PROCEDURE:,:,1.  Caudal epidural steroid injection with contrast.,2.  Utilization of fluoroscopy for confirmation of needle placement.,PREPROCEDURE PREPARATION:,  After being explained the risks and benefits of the procedure, the patient signed the standard informed consent form.  The patient was placed in the prone position and standard ASA monitors applied.  Intravenous access was established and IV sedation was used.  For further details of IV sedation and infusion, please refer to anesthesia notes.  Fluoroscopy was used to identify the appropriate anatomy.  The skin was prepped and draped in a sterile fashion and sterile technique was maintained throughout the procedure.,PROCEDURE DETAILS:,",
+    "cleaned_text": "CAUDAL EPIDURAL STEROID INJECTION,PROCEDURE:,:,1. Caudal epidural steroid injection with contrast.,2. Utilization of fluoroscopy for confirmation of needle placement.,PREPROCEDURE PREPARATION:, After being explained the risks and benefits of the procedure, the patient signed the standard informed consent form. The patient was placed in the prone position and standard ASA monitors applied. Intravenous access was established and IV sedation was used. For further details of IV sedation and infusion, please refer to anesthesia notes. Fluoroscopy was used to identify the appropriate anatomy. The skin was prepped and draped in a sterile fashion and sterile technique was maintained throughout the procedure.,PROCEDURE DETAILS:,",
+    "sentences": [
+      "CAUDAL EPIDURAL STEROID INJECTION,PROCEDURE:,:,1.",
+      "Caudal epidural steroid injection with contrast.,2.",
+      "Utilization of fluoroscopy for confirmation of needle placement.,PREPROCEDURE PREPARATION:, After being explained the risks and benefits of the procedure, the patient signed the standard informed consent form.",
+      "The patient was placed in the prone position and standard ASA monitors applied.",
+      "Intravenous access was established and IV sedation was used.",
+      "For further details of IV sedation and infusion, please refer to anesthesia notes.",
+      "Fluoroscopy was used to identify the appropriate anatomy.",
+      "The skin was prepped and draped in a sterile fashion and sterile technique was maintained throughout the procedure.,PROCEDURE DETAILS:,"
+    ],
+    "sentence_count": 8
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4922__atrioventricular_septal_defect_.txt",
+    "file_name": "mtsamples_4922__atrioventricular_septal_defect_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 7760,
+    "processed_at": "2026-05-09T09:54:47.603611"
+  },
+  "entities": [
+    {
+      "text": "Down syndrome",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 60,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Down syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "heart disease",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 83,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "heart disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "atrioventricular septal defect",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 128,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrioventricular septal defect",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "tetralogy of Fallot with pulmonary atresia",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 175,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tetralogy of Fallot with pulmonary atresia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "atrioventricular septal defect",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 154,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrioventricular septal defect",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "pulmonary artery unifocalization",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 201,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary artery unifocalization",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "pulmonary artery stenosis",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 62,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary artery stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "pulmonary artery stenosis",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 86,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary artery stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 234,
+      "end_char": 240,
+      "sentence_idx": 6,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 175,
+      "end_char": 181,
+      "sentence_idx": 20,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "normal-appearing renal collecting systems were visualized.",
+      "label": "DISEASE",
+      "start_char": 388,
+      "end_char": 446,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normal-appearing renal collecting systems were visualized.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "Oxygen",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 48,
+      "sentence_idx": 23,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "desaturated",
+      "label": "CHEMICAL",
+      "start_char": 34,
+      "end_char": 45,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "desaturated",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "lung disease",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 90,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lung disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 120,
+      "end_char": 126,
+      "sentence_idx": 25,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "Left ventricular systolic pressure",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 34,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left ventricular systolic pressure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "Left ventricular systolic pressure",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 34,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left ventricular systolic pressure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "pulmonary insufficiency",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 101,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary insufficiency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "calcification",
+      "label": "DISEASE",
+      "start_char": 155,
+      "end_char": 168,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "Right ventricular systolic pressure",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 35,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right ventricular systolic pressure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "Tetralogy of Fallot with the pulmonary atresia.,3",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 49,
+      "sentence_idx": 50,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tetralogy of Fallot with the pulmonary atresia.,3",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "Discontinuous pulmonary arteries.,6",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 35,
+      "sentence_idx": 54,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Discontinuous pulmonary arteries.,6",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "tetralogy of Fallot with external conduit.,3",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 54,
+      "sentence_idx": 57,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tetralogy of Fallot with external conduit.,3",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "atrioventricular septal defect repair.,4",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 44,
+      "sentence_idx": 58,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrioventricular septal defect repair.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    },
+    {
+      "text": "pulmonary angioplasty",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 39,
+      "sentence_idx": 60,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary angioplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-07-20"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "07/20/2004",
+      "start_char": 683,
+      "end_char": 693
+    },
+    {
+      "raw_text": "09/13/2007",
+      "start_char": 837,
+      "end_char": 847
+    },
+    {
+      "raw_text": "11/14/2007",
+      "start_char": 1118,
+      "end_char": 1128
+    }
+  ]
+}

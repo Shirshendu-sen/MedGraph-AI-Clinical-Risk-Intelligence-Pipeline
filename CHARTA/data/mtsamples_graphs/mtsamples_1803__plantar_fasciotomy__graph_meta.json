@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1803__plantar_fasciotomy_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 21,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0023660": 2,
+    "C0483514": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1803__plantar_fasciotomy__graph.pt",
+  "source_dataset": "mtsamples_1803__plantar_fasciotomy"
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1958__lumbar_sympathetic_block_.txt",
+    "file_name": "mtsamples_1958__lumbar_sympathetic_block_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1359,
+    "processed_at": "2026-05-09T09:53:53.762494"
+  },
+  "entities": [
+    {
+      "text": "INT",
+      "label": "CHEMICAL",
+      "start_char": 157,
+      "end_char": 160,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "INT",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 155,
+      "end_char": 163,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Neosporin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Neosporin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

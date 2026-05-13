@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4533__barium_swallow_study___speech_evaluation___1_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0004749": 1
+  },
+  "visit_dates": [
+    "2026-03-10"
+  ],
+  "graph_file": "mtsamples_4533__barium_swallow_study___speech_evaluation___1__graph.pt",
+  "source_dataset": "mtsamples_4533__barium_swallow_study___speech_evaluation___1"
+}

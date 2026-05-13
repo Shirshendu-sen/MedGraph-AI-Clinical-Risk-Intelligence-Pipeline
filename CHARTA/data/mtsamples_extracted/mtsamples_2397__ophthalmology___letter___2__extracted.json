@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2397__ophthalmology___letter___2_.txt",
+    "file_name": "mtsamples_2397__ophthalmology___letter___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1942,
+    "processed_at": "2026-05-09T09:54:01.058295"
+  },
+  "entities": [
+    {
+      "text": "DOB",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 21,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DOB",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "glaucoma",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 48,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glaucoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cup-to-disc",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 53,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cup-to-disc",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "glaucoma",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 26,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glaucoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "glaucoma",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 143,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glaucoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ABC.,Sincerely",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ABC.,Sincerely",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

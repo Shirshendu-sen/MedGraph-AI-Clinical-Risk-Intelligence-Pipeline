@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4702__mediastinal_mass_resection_.txt",
+    "file_name": "mtsamples_4702__mediastinal_mass_resection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3179,
+    "processed_at": "2026-05-09T09:54:43.596806"
+  },
+  "entities": [
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 214,
+      "end_char": 219,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 29,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 76,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 15,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 14,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

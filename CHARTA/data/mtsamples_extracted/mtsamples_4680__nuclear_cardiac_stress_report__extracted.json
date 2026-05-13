@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4680__nuclear_cardiac_stress_report_.txt",
+    "file_name": "mtsamples_4680__nuclear_cardiac_stress_report_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1801,
+    "processed_at": "2026-05-09T09:54:43.211949"
+  },
+  "entities": [
+    {
+      "text": "angina pectoris",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 90,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "angina pectoris",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ischemic heart disease",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 142,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemic heart disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenosine triphosphate",
+      "label": "CHEMICAL",
+      "start_char": 275,
+      "end_char": 297,
+      "sentence_idx": 0,
+      "concept_id": "C0001480",
+      "concept_name": "adenosine triphosphate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9690974950790405,
+      "timestamp": null
+    },
+    {
+      "text": "electrocardiographic abnormalities",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 48,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "electrocardiographic abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 251,
+      "end_char": 274,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ischemia",
+      "label": "DISEASE",
+      "start_char": 290,
+      "end_char": 298,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ischemia",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 40,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 161,
+      "end_char": 184,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infarct",
+      "label": "DISEASE",
+      "start_char": 217,
+      "end_char": 224,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarct",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ischemia",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 42,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

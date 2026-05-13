@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3685__progress_note___supraglottitis_.txt",
+    "file_name": "mtsamples_3685__progress_note___supraglottitis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1345,
+    "processed_at": "2026-05-09T09:54:26.155727"
+  },
+  "entities": [
+    {
+      "text": "supraglottitis",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 26,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraglottitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-23"
+    },
+    {
+      "text": "airway obstruction",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 50,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "airway obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-23"
+    },
+    {
+      "text": "parapharyngeal cellulitis",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 80,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "parapharyngeal cellulitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-23"
+    },
+    {
+      "text": "peritonsillar cellulitis",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 109,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peritonsillar cellulitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-23"
+    },
+    {
+      "text": "supraglottic edema",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 21,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraglottic edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-23"
+    },
+    {
+      "text": "tonsils with small tonsil cyst",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 58,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tonsils with small tonsil cyst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-23"
+    },
+    {
+      "text": "supraglottic edema",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 34,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraglottic edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-23"
+    },
+    {
+      "text": "pharyngitis",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 59,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pharyngitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-23"
+    },
+    {
+      "text": "obstructive sleep apnea",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 32,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive sleep apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-23"
+    },
+    {
+      "text": "Augmentin",
+      "label": "CHEMICAL",
+      "start_char": 57,
+      "end_char": 66,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Augmentin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-05-23"
+    },
+    {
+      "text": "prednisone",
+      "label": "CHEMICAL",
+      "start_char": 79,
+      "end_char": 89,
+      "sentence_idx": 9,
+      "concept_id": "C0032952",
+      "concept_name": "prednisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9636675715446472,
+      "timestamp": "2008-05-23"
+    },
+    {
+      "text": "obstructive sleep apnea",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 141,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive sleep apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-23"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "05/23/2008",
+      "start_char": 232,
+      "end_char": 242
+    },
+    {
+      "raw_text": "05/24/2008",
+      "start_char": 258,
+      "end_char": 268
+    }
+  ]
+}

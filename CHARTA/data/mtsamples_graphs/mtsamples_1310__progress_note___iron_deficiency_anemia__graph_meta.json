@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1310__progress_note___iron_deficiency_anemia_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 56,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0302583": 1,
+    "C0030054": 2,
+    "C0030346": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1310__progress_note___iron_deficiency_anemia__graph.pt",
+  "source_dataset": "mtsamples_1310__progress_note___iron_deficiency_anemia"
+}

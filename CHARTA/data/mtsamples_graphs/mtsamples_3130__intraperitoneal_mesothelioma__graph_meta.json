@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_3130__intraperitoneal_mesothelioma_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 79,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008838": 1,
+    "C0030346": 2,
+    "C0004147": 3,
+    "C0591971": 4,
+    "C0024002": 5,
+    "C0633084": 6,
+    "C1505021": 7,
+    "C0723045": 8
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3130__intraperitoneal_mesothelioma__graph.pt",
+  "source_dataset": "mtsamples_3130__intraperitoneal_mesothelioma"
+}

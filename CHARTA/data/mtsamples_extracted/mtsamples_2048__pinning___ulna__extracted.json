@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2048__pinning___ulna_.txt",
+    "file_name": "mtsamples_2048__pinning___ulna_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2598,
+    "processed_at": "2026-05-09T09:53:55.332259"
+  },
+  "entities": [
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-12-05"
+    },
+    {
+      "text": "refracture",
+      "label": "DISEASE",
+      "start_char": 245,
+      "end_char": 255,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "refracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-05"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 35,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-05"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 55,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-05"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 65,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-05"
+    },
+    {
+      "text": "tightness",
+      "label": "DISEASE",
+      "start_char": 177,
+      "end_char": 186,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tightness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-05"
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 26,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-12-05"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 34,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-05"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-05"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-05"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 66,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-12-05"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 17,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-05"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/05/2007",
+      "start_char": 556,
+      "end_char": 566
+    }
+  ]
+}

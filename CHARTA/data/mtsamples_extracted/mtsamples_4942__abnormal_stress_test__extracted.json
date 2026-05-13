@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4942__abnormal_stress_test_.txt",
+    "file_name": "mtsamples_4942__abnormal_stress_test_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2008,
+    "processed_at": "2026-05-09T09:54:47.900620"
+  },
+  "entities": [
+    {
+      "text": "abnormal stress",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 65,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal stress",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 120,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "depressions",
+      "label": "DISEASE",
+      "start_char": 190,
+      "end_char": 201,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depressions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "ischemia",
+      "label": "DISEASE",
+      "start_char": 222,
+      "end_char": 230,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ischemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "nitroglycerin",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 38,
+      "sentence_idx": 2,
+      "concept_id": "C0017887",
+      "concept_name": "nitroglycerin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9811209440231323,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 379,
+      "end_char": 386,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 450,
+      "end_char": 458,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "rest anginal symptoms",
+      "label": "DISEASE",
+      "start_char": 590,
+      "end_char": 611,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rest anginal symptoms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "nocturnal anginal",
+      "label": "DISEASE",
+      "start_char": 624,
+      "end_char": 641,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nocturnal anginal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "abnormal stress",
+      "label": "DISEASE",
+      "start_char": 746,
+      "end_char": 761,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal stress",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "Aspirin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 6,
+      "concept_id": "C0004057",
+      "concept_name": "aspirin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736717343330383,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "Metoprolol",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 7,
+      "concept_id": "C0025859",
+      "concept_name": "metoprolol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9745320081710815,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "bradycardia",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 87,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bradycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "Nexium",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 8,
+      "concept_id": "C0939400",
+      "concept_name": "Nexium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9524024724960327,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "Zocor",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 9,
+      "concept_id": "C0678181",
+      "concept_name": "Zocor",
+      "kb_source": "rxnorm",
+      "link_score": 0.9880419373512268,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "Plavix",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 11,
+      "concept_id": "C0633084",
+      "concept_name": "Plavix",
+      "kb_source": "rxnorm",
+      "link_score": 0.9820790886878967,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "obstructive sleep apnea",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 115,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive sleep apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "GERD",
+      "label": "DISEASE",
+      "start_char": 182,
+      "end_char": 186,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "GERD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-05-03"
+    },
+    {
+      "text": "arthritis",
+      "label": "DISEASE",
+      "start_char": 188,
+      "end_char": 197,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-05-03"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "May 3, 2002",
+      "start_char": 1633,
+      "end_char": 1644
+    }
+  ]
+}

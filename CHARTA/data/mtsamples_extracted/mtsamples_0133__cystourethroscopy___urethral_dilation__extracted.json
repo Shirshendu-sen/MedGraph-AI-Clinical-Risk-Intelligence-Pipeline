@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0133__cystourethroscopy___urethral_dilation_.txt",
+    "file_name": "mtsamples_0133__cystourethroscopy___urethral_dilation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2087,
+    "processed_at": "2026-05-09T09:53:07.172659"
+  },
+  "entities": [
+    {
+      "text": "Urinary hesitancy",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 42,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Urinary hesitancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Urinary hesitancy",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 17,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Urinary hesitancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 19,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 42,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder tumor",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 31,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 26,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Levaquin",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 38,
+      "sentence_idx": 20,
+      "concept_id": "C0721336",
+      "concept_name": "Levaquin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9604581594467163,
+      "timestamp": null
+    },
+    {
+      "text": "Pyridium",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 51,
+      "sentence_idx": 20,
+      "concept_id": "C0034259",
+      "concept_name": "Pyridium",
+      "kb_source": "rxnorm",
+      "link_score": 0.980519711971283,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

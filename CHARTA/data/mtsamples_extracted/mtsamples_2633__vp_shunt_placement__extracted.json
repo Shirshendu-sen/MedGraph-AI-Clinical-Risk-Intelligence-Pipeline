@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2633__vp_shunt_placement_.txt",
+    "file_name": "mtsamples_2633__vp_shunt_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1755,
+    "processed_at": "2026-05-09T09:54:05.427687"
+  },
+  "entities": [
+    {
+      "text": "intraventricular hemorrhage",
+      "label": "DISEASE",
+      "start_char": 224,
+      "end_char": 251,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intraventricular hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "VP",
+      "label": "CHEMICAL",
+      "start_char": 327,
+      "end_char": 329,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Indermil",
+      "label": "CHEMICAL",
+      "start_char": 118,
+      "end_char": 126,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Indermil",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

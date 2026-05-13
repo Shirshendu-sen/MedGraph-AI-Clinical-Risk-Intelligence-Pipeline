@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2495__ultrasound_ob___1_.txt",
+    "file_name": "mtsamples_2495__ultrasound_ob___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 954,
+    "processed_at": "2026-05-09T09:54:03.286610"
+  },
+  "entities": [
+    {
+      "text": "previa",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 55,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "previa",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "FL",
+      "label": "CHEMICAL",
+      "start_char": 228,
+      "end_char": 230,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

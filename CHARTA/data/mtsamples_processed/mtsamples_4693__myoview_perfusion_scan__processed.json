@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4693__myoview_perfusion_scan_.txt",
+    "file_name": "mtsamples_4693__myoview_perfusion_scan_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1079,
+    "processed_at": "2026-05-09T09:54:43.438459"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4693__myoview_perfusion_scan_.txt",
+    "text": "INDICATIONS:,  Previously markedly abnormal dobutamine Myoview stress test and gated scan.,PROCEDURE DONE:,  Resting Myoview perfusion scan and gated myocardial scan.,MYOCARDIAL PERFUSION IMAGING:,  Resting myocardial perfusion SPECT imaging and gated scan were carried out with 32.6 mCi of Tc-99m Myoview.  Rest study was done and compared to previous dobutamine Myoview stress test done on Month DD, YYYY.  The lung heart ratio is 0.34.  There appears to be a moderate size inferoapical perfusion defect of moderate degree.  The gated myocardial scan revealed mild apical and distal inferoseptal hypokinesis with ejection fraction of 55%.,CONCLUSIONS:,  Study done at rest only revealed findings consistent with an inferior non-transmural scar of moderate size and moderate degree.  The left ventricular systolic function is markedly improved with much better regional wall motion of all left ventricular segments when compared to previous study done on Month DD, YYYY.  We cannot assess the presence of any reversible perfusion defects because no stress imaging was performed.",
+    "char_count": 1079,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "INDICATIONS:, Previously markedly abnormal dobutamine Myoview stress test and gated scan.,PROCEDURE DONE:, Resting Myoview perfusion scan and gated myocardial scan.,MYOCARDIAL PERFUSION IMAGING:, Resting myocardial perfusion SPECT imaging and gated scan were carried out with 32.6 mCi of Tc-99m Myoview. Rest study was done and compared to previous dobutamine Myoview stress test done on Month DD, YYYY. The lung heart ratio is 0.34. There appears to be a moderate size inferoapical perfusion defect of moderate degree. The gated myocardial scan revealed mild apical and distal inferoseptal hypokinesis with ejection fraction of 55%.,CONCLUSIONS:, Study done at rest only revealed findings consistent with an inferior non-transmural scar of moderate size and moderate degree. The left ventricular systolic function is markedly improved with much better regional wall motion of all left ventricular segments when compared to previous study done on Month DD, YYYY. We cannot assess the presence of any reversible perfusion defects because no stress imaging was performed.",
+    "sentences": [
+      "INDICATIONS:, Previously markedly abnormal dobutamine Myoview stress test and gated scan.,PROCEDURE DONE:, Resting Myoview perfusion scan and gated myocardial scan.,MYOCARDIAL PERFUSION IMAGING:, Resting myocardial perfusion SPECT imaging and gated scan were carried out with 32.6 mCi of Tc-99m Myoview.",
+      "Rest study was done and compared to previous dobutamine Myoview stress test done on Month DD, YYYY.",
+      "The lung heart ratio is 0.34.",
+      "There appears to be a moderate size inferoapical perfusion defect of moderate degree.",
+      "The gated myocardial scan revealed mild apical and distal inferoseptal hypokinesis with ejection fraction of 55%.,CONCLUSIONS:, Study done at rest only revealed findings consistent with an inferior non-transmural scar of moderate size and moderate degree.",
+      "The left ventricular systolic function is markedly improved with much better regional wall motion of all left ventricular segments when compared to previous study done on Month DD, YYYY.",
+      "We cannot assess the presence of any reversible perfusion defects because no stress imaging was performed."
+    ],
+    "sentence_count": 7,
+    "original_length": 1079,
+    "cleaned_length": 1069,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "INDICATIONS:,  Previously markedly abnormal dobutamine Myoview stress test and gated scan.,PROCEDURE DONE:,  Resting Myoview perfusion scan and gated myocardial scan.,MYOCARDIAL PERFUSION IMAGING:,  Resting myocardial perfusion SPECT imaging and gated scan were carried out with 32.6 mCi of Tc-99m Myoview.  Rest study was done and compared to previous dobutamine Myoview stress test done on Month DD, YYYY.  The lung heart ratio is 0.34.  There appears to be a moderate size inferoapical perfusion defect of moderate degree.  The gated myocardial scan revealed mild apical and distal inferoseptal hypokinesis with ejection fraction of 55%.,CONCLUSIONS:,  Study done at rest only revealed findings consistent with an inferior non-transmural scar of moderate size and moderate degree.  The left ventricular systolic function is markedly improved with much better regional wall motion of all left ventricular segments when compared to previous study done on Month DD, YYYY.  We cannot assess the presence of any reversible perfusion defects because no stress imaging was performed.",
+    "cleaned_text": "INDICATIONS:, Previously markedly abnormal dobutamine Myoview stress test and gated scan.,PROCEDURE DONE:, Resting Myoview perfusion scan and gated myocardial scan.,MYOCARDIAL PERFUSION IMAGING:, Resting myocardial perfusion SPECT imaging and gated scan were carried out with 32.6 mCi of Tc-99m Myoview. Rest study was done and compared to previous dobutamine Myoview stress test done on Month DD, YYYY. The lung heart ratio is 0.34. There appears to be a moderate size inferoapical perfusion defect of moderate degree. The gated myocardial scan revealed mild apical and distal inferoseptal hypokinesis with ejection fraction of 55%.,CONCLUSIONS:, Study done at rest only revealed findings consistent with an inferior non-transmural scar of moderate size and moderate degree. The left ventricular systolic function is markedly improved with much better regional wall motion of all left ventricular segments when compared to previous study done on Month DD, YYYY. We cannot assess the presence of any reversible perfusion defects because no stress imaging was performed.",
+    "sentences": [
+      "INDICATIONS:, Previously markedly abnormal dobutamine Myoview stress test and gated scan.,PROCEDURE DONE:, Resting Myoview perfusion scan and gated myocardial scan.,MYOCARDIAL PERFUSION IMAGING:, Resting myocardial perfusion SPECT imaging and gated scan were carried out with 32.6 mCi of Tc-99m Myoview.",
+      "Rest study was done and compared to previous dobutamine Myoview stress test done on Month DD, YYYY.",
+      "The lung heart ratio is 0.34.",
+      "There appears to be a moderate size inferoapical perfusion defect of moderate degree.",
+      "The gated myocardial scan revealed mild apical and distal inferoseptal hypokinesis with ejection fraction of 55%.,CONCLUSIONS:, Study done at rest only revealed findings consistent with an inferior non-transmural scar of moderate size and moderate degree.",
+      "The left ventricular systolic function is markedly improved with much better regional wall motion of all left ventricular segments when compared to previous study done on Month DD, YYYY.",
+      "We cannot assess the presence of any reversible perfusion defects because no stress imaging was performed."
+    ],
+    "sentence_count": 7
+  }
+}

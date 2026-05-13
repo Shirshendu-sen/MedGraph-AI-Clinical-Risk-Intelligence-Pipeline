@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_4475__consult___cerebral_peduncle_infarction_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 54,
+  "entity_index": {
+    "C0633084": 0,
+    "C0004057": 1,
+    "C0040165": 2,
+    "C0065374": 3,
+    "C0020261": 4,
+    "C0699992": 5,
+    "UNKNOWN": 6,
+    "C0030346": 7,
+    "C0008377": 8
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4475__consult___cerebral_peduncle_infarction__graph.pt",
+  "source_dataset": "mtsamples_4475__consult___cerebral_peduncle_infarction"
+}

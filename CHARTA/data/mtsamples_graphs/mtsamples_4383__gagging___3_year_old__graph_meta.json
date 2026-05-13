@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_4383__gagging___3_year_old_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 57,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0001927": 1,
+    "C0007258": 2,
+    "C0031412": 3,
+    "C0037473": 4,
+    "C0032821": 5,
+    "C0010294": 6,
+    "C0042878": 7
+  },
+  "visit_dates": [
+    "2026-05-08"
+  ],
+  "graph_file": "mtsamples_4383__gagging___3_year_old__graph.pt",
+  "source_dataset": "mtsamples_4383__gagging___3_year_old"
+}

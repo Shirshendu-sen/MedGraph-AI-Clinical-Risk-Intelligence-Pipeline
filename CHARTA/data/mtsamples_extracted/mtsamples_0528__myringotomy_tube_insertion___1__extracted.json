@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0528__myringotomy_tube_insertion___1_.txt",
+    "file_name": "mtsamples_0528__myringotomy_tube_insertion___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1395,
+    "processed_at": "2026-05-09T09:53:18.415197"
+  },
+  "entities": [
+    {
+      "text": "serous otitis",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 57,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "serous otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "serous otitis",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 123,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "serous otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infections",
+      "label": "DISEASE",
+      "start_char": 205,
+      "end_char": 215,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infections",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 167,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cerumen",
+      "label": "CHEMICAL",
+      "start_char": 369,
+      "end_char": 376,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cerumen",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Floxin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 6,
+      "concept_id": "C0699173",
+      "concept_name": "Floxin",
+      "kb_source": "rxnorm",
+      "link_score": 0.979972243309021,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

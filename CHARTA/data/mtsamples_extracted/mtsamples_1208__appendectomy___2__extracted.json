@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1208__appendectomy___2_.txt",
+    "file_name": "mtsamples_1208__appendectomy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1638,
+    "processed_at": "2026-05-09T09:53:36.728505"
+  },
+  "entities": [
+    {
+      "text": "abnormal appendix",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 24,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal appendix",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 69,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "friable",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 29,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "friable",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 261,
+      "end_char": 271,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

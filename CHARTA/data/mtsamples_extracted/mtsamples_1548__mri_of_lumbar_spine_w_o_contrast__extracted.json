@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1548__mri_of_lumbar_spine_w_o_contrast_.txt",
+    "file_name": "mtsamples_1548__mri_of_lumbar_spine_w_o_contrast_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1123,
+    "processed_at": "2026-05-09T09:53:44.264020"
+  },
+  "entities": [
+    {
+      "text": "multiple left-sided ovarian",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 60,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "multiple left-sided ovarian",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "acute disease",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 131,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0423__pilonidal_cyst_excision_.txt",
+    "file_name": "mtsamples_0423__pilonidal_cyst_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 957,
+    "processed_at": "2026-05-09T09:53:15.715833"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0423__pilonidal_cyst_excision_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Pilonidal cyst with abscess formation.,POSTOPERATIVE DIAGNOSIS:,  Pilonidal cyst with abscess formation.,OPERATION: , Excision of infected pilonidal cyst.,PROCEDURE: , After obtaining informed consent, the patient underwent a spinal anesthetic and was placed in the prone position in the operating room.  A time-out process was followed.  Antibiotics were given and then the patient was prepped and draped in the usual fashion.  It appeared to me that the abscess had drained somewhat during the night, as it was much smaller than I was anticipating.  An elliptical excision of all infected tissues down to the coccyx was performed.  Hemostasis was achieved with a cautery.  The wound was irrigated with normal saline and it was packed open with iodoform gauze and an absorptive dressing.,The patient was sent to recovery room in satisfactory condition.  Estimated blood loss was minimal.  The patient tolerated the procedure well.",
+    "char_count": 957,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Pilonidal cyst with abscess formation.,POSTOPERATIVE DIAGNOSIS:, Pilonidal cyst with abscess formation.,OPERATION: , Excision of infected pilonidal cyst.,PROCEDURE: , After obtaining informed consent, the patient underwent a spinal anesthetic and was placed in the prone position in the operating room. A time-out process was followed. Antibiotics were given and then the patient was prepped and draped in the usual fashion. It appeared to me that the abscess had drained somewhat during the night, as it was much smaller than I was anticipating. An elliptical excision of all infected tissues down to the coccyx was performed. Hemostasis was achieved with a cautery. The wound was irrigated with normal saline and it was packed open with iodoform gauze and an absorptive dressing.,The patient was sent to recovery room in satisfactory condition. Estimated blood loss was minimal. The patient tolerated the procedure well.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Pilonidal cyst with abscess formation.,POSTOPERATIVE DIAGNOSIS:, Pilonidal cyst with abscess formation.,OPERATION: , Excision of infected pilonidal cyst.,PROCEDURE: , After obtaining informed consent, the patient underwent a spinal anesthetic and was placed in the prone position in the operating room.",
+      "A time-out process was followed.",
+      "Antibiotics were given and then the patient was prepped and draped in the usual fashion.",
+      "It appeared to me that the abscess had drained somewhat during the night, as it was much smaller than I was anticipating.",
+      "An elliptical excision of all infected tissues down to the coccyx was performed.",
+      "Hemostasis was achieved with a cautery.",
+      "The wound was irrigated with normal saline and it was packed open with iodoform gauze and an absorptive dressing.,The patient was sent to recovery room in satisfactory condition.",
+      "Estimated blood loss was minimal.",
+      "The patient tolerated the procedure well."
+    ],
+    "sentence_count": 9,
+    "original_length": 957,
+    "cleaned_length": 948,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Pilonidal cyst with abscess formation.,POSTOPERATIVE DIAGNOSIS:,  Pilonidal cyst with abscess formation.,OPERATION: , Excision of infected pilonidal cyst.,PROCEDURE: , After obtaining informed consent, the patient underwent a spinal anesthetic and was placed in the prone position in the operating room.  A time-out process was followed.  Antibiotics were given and then the patient was prepped and draped in the usual fashion.  It appeared to me that the abscess had drained somewhat during the night, as it was much smaller than I was anticipating.  An elliptical excision of all infected tissues down to the coccyx was performed.  Hemostasis was achieved with a cautery.  The wound was irrigated with normal saline and it was packed open with iodoform gauze and an absorptive dressing.,The patient was sent to recovery room in satisfactory condition.  Estimated blood loss was minimal.  The patient tolerated the procedure well.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Pilonidal cyst with abscess formation.,POSTOPERATIVE DIAGNOSIS:, Pilonidal cyst with abscess formation.,OPERATION: , Excision of infected pilonidal cyst.,PROCEDURE: , After obtaining informed consent, the patient underwent a spinal anesthetic and was placed in the prone position in the operating room. A time-out process was followed. Antibiotics were given and then the patient was prepped and draped in the usual fashion. It appeared to me that the abscess had drained somewhat during the night, as it was much smaller than I was anticipating. An elliptical excision of all infected tissues down to the coccyx was performed. Hemostasis was achieved with a cautery. The wound was irrigated with normal saline and it was packed open with iodoform gauze and an absorptive dressing.,The patient was sent to recovery room in satisfactory condition. Estimated blood loss was minimal. The patient tolerated the procedure well.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Pilonidal cyst with abscess formation.,POSTOPERATIVE DIAGNOSIS:, Pilonidal cyst with abscess formation.,OPERATION: , Excision of infected pilonidal cyst.,PROCEDURE: , After obtaining informed consent, the patient underwent a spinal anesthetic and was placed in the prone position in the operating room.",
+      "A time-out process was followed.",
+      "Antibiotics were given and then the patient was prepped and draped in the usual fashion.",
+      "It appeared to me that the abscess had drained somewhat during the night, as it was much smaller than I was anticipating.",
+      "An elliptical excision of all infected tissues down to the coccyx was performed.",
+      "Hemostasis was achieved with a cautery.",
+      "The wound was irrigated with normal saline and it was packed open with iodoform gauze and an absorptive dressing.,The patient was sent to recovery room in satisfactory condition.",
+      "Estimated blood loss was minimal.",
+      "The patient tolerated the procedure well."
+    ],
+    "sentence_count": 9
+  }
+}

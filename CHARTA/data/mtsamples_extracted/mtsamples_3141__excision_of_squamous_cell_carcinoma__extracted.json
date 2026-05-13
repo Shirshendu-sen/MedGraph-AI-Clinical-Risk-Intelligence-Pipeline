@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3141__excision_of_squamous_cell_carcinoma_.txt",
+    "file_name": "mtsamples_3141__excision_of_squamous_cell_carcinoma_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1358,
+    "processed_at": "2026-05-09T09:54:15.521015"
+  },
+  "entities": [
+    {
+      "text": "Squamous cell carcinoma on the right hand",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 67,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Squamous cell carcinoma on the right hand",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Squamous cell carcinoma on the right hand",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 159,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Squamous cell carcinoma on the right hand",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "squamous cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 219,
+      "end_char": 242,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "squamous cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "squamous cell carcinoma on the dorsum of the right hand",
+      "label": "DISEASE",
+      "start_char": 363,
+      "end_char": 418,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "squamous cell carcinoma on the dorsum of the right hand",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 39,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 70,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 76,
+      "end_char": 87,
+      "sentence_idx": 6,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "cancer",
+      "label": "DISEASE",
+      "start_char": 177,
+      "end_char": 183,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

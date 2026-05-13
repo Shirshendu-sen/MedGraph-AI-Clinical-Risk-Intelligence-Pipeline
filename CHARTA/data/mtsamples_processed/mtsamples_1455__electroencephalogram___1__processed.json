@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1455__electroencephalogram___1_.txt",
+    "file_name": "mtsamples_1455__electroencephalogram___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 455,
+    "processed_at": "2026-05-09T09:53:42.474715"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1455__electroencephalogram___1_.txt",
+    "text": "REPORT:,  The electroencephalogram shows background activity at about 9-10 cycle/second bilaterally.  Little activity in the beta range is noted.  Waves of 4-7 cycle/second of low amplitude were occasionally noted.  Abundant movements and technical artifacts are noted throughout this tracing.  Hyperventilation was not performed.  Photic stimulation reveals no important changes.,CLINICAL INTERPRETATION:,  The electroencephalogram is essentially normal.",
+    "char_count": 455,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "REPORT:, The electroencephalogram shows background activity at about 9-10 cycle/second bilaterally. Little activity in the beta range is noted. Waves of 4-7 cycle/second of low amplitude were occasionally noted. Abundant movements and technical artifacts are noted throughout this tracing. Hyperventilation was not performed. Photic stimulation reveals no important changes.,CLINICAL INTERPRETATION:, The electroencephalogram is essentially normal.",
+    "sentences": [
+      "REPORT:, The electroencephalogram shows background activity at about 9-10 cycle/second bilaterally.",
+      "Little activity in the beta range is noted.",
+      "Waves of 4-7 cycle/second of low amplitude were occasionally noted.",
+      "Abundant movements and technical artifacts are noted throughout this tracing.",
+      "Hyperventilation was not performed.",
+      "Photic stimulation reveals no important changes.,CLINICAL INTERPRETATION:, The electroencephalogram is essentially normal."
+    ],
+    "sentence_count": 6,
+    "original_length": 455,
+    "cleaned_length": 448,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "REPORT:,  The electroencephalogram shows background activity at about 9-10 cycle/second bilaterally.  Little activity in the beta range is noted.  Waves of 4-7 cycle/second of low amplitude were occasionally noted.  Abundant movements and technical artifacts are noted throughout this tracing.  Hyperventilation was not performed.  Photic stimulation reveals no important changes.,CLINICAL INTERPRETATION:,  The electroencephalogram is essentially normal.",
+    "cleaned_text": "REPORT:, The electroencephalogram shows background activity at about 9-10 cycle/second bilaterally. Little activity in the beta range is noted. Waves of 4-7 cycle/second of low amplitude were occasionally noted. Abundant movements and technical artifacts are noted throughout this tracing. Hyperventilation was not performed. Photic stimulation reveals no important changes.,CLINICAL INTERPRETATION:, The electroencephalogram is essentially normal.",
+    "sentences": [
+      "REPORT:, The electroencephalogram shows background activity at about 9-10 cycle/second bilaterally.",
+      "Little activity in the beta range is noted.",
+      "Waves of 4-7 cycle/second of low amplitude were occasionally noted.",
+      "Abundant movements and technical artifacts are noted throughout this tracing.",
+      "Hyperventilation was not performed.",
+      "Photic stimulation reveals no important changes.,CLINICAL INTERPRETATION:, The electroencephalogram is essentially normal."
+    ],
+    "sentence_count": 6
+  }
+}

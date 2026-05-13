@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3008__ct_stone_protocol_.txt",
+    "file_name": "mtsamples_3008__ct_stone_protocol_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1170,
+    "processed_at": "2026-05-09T09:54:12.358656"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3008__ct_stone_protocol_.txt",
+    "text": "EXAM: , CT stone protocol.,REASON FOR EXAM:,  History of stones, rule out stones.,TECHNIQUE: , Noncontrast CT abdomen and pelvis per renal stone protocol.,FINDINGS: , Correlation is made with a prior examination dated 01/20/09.,Again identified are small intrarenal stones bilaterally.  These are unchanged.  There is no hydronephrosis or significant ureteral dilatation.  There is no stone along the expected course of the ureters or within the bladder.  There is a calcification in the low left pelvis not in line with ureter, this finding is stable and is compatible with a phlebolith.  There is no asymmetric renal enlargement or perinephric stranding.,The appendix is normal.  There is no evidence of a pericolonic inflammatory process or small bowel obstruction.,Scans through the pelvis disclose no free fluid or adenopathy.,Lung bases aside from very mild dependent atelectasis appear clear.,Given the lack of contrast, liver, spleen, adrenal glands, and the pancreas are grossly unremarkable.  The gallbladder is present.  There is no abdominal free fluid or pathologic adenopathy.,IMPRESSION:,1. Bilateral intrarenal stones, no obstruction.,2. Normal appendix.",
+    "char_count": 1170,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , CT stone protocol.,REASON FOR EXAM:, History of stones, rule out stones.,TECHNIQUE: , Noncontrast CT abdomen and pelvis per renal stone protocol.,FINDINGS: , Correlation is made with a prior examination dated 01/20/09.,Again identified are small intrarenal stones bilaterally. These are unchanged. There is no hydronephrosis or significant ureteral dilatation. There is no stone along the expected course of the ureters or within the bladder. There is a calcification in the low left pelvis not in line with ureter, this finding is stable and is compatible with a phlebolith. There is no asymmetric renal enlargement or perinephric stranding.,The appendix is normal. There is no evidence of a pericolonic inflammatory process or small bowel obstruction.,Scans through the pelvis disclose no free fluid or adenopathy.,Lung bases aside from very mild dependent atelectasis appear clear.,Given the lack of contrast, liver, spleen, adrenal glands, and the pancreas are grossly unremarkable. The gallbladder is present. There is no abdominal free fluid or pathologic adenopathy.,IMPRESSION:,1. Bilateral intrarenal stones, no obstruction.,2. Normal appendix.",
+    "sentences": [
+      "EXAM: , CT stone protocol.,REASON FOR EXAM:, History of stones, rule out stones.,TECHNIQUE: , Noncontrast CT abdomen and pelvis per renal stone protocol.,FINDINGS: , Correlation is made with a prior examination dated 01/20/09.,Again identified are small intrarenal stones bilaterally.",
+      "These are unchanged.",
+      "There is no hydronephrosis or significant ureteral dilatation.",
+      "There is no stone along the expected course of the ureters or within the bladder.",
+      "There is a calcification in the low left pelvis not in line with ureter, this finding is stable and is compatible with a phlebolith.",
+      "There is no asymmetric renal enlargement or perinephric stranding.,The appendix is normal.",
+      "There is no evidence of a pericolonic inflammatory process or small bowel obstruction.,Scans through the pelvis disclose no free fluid or adenopathy.,Lung bases aside from very mild dependent atelectasis appear clear.,Given the lack of contrast, liver, spleen, adrenal glands, and the pancreas are grossly unremarkable.",
+      "The gallbladder is present.",
+      "There is no abdominal free fluid or pathologic adenopathy.,IMPRESSION:,1.",
+      "Bilateral intrarenal stones, no obstruction.,2.",
+      "Normal appendix."
+    ],
+    "sentence_count": 11,
+    "original_length": 1170,
+    "cleaned_length": 1161,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , CT stone protocol.,REASON FOR EXAM:,  History of stones, rule out stones.,TECHNIQUE: , Noncontrast CT abdomen and pelvis per renal stone protocol.,FINDINGS: , Correlation is made with a prior examination dated 01/20/09.,Again identified are small intrarenal stones bilaterally.  These are unchanged.  There is no hydronephrosis or significant ureteral dilatation.  There is no stone along the expected course of the ureters or within the bladder.  There is a calcification in the low left pelvis not in line with ureter, this finding is stable and is compatible with a phlebolith.  There is no asymmetric renal enlargement or perinephric stranding.,The appendix is normal.  There is no evidence of a pericolonic inflammatory process or small bowel obstruction.,Scans through the pelvis disclose no free fluid or adenopathy.,Lung bases aside from very mild dependent atelectasis appear clear.,Given the lack of contrast, liver, spleen, adrenal glands, and the pancreas are grossly unremarkable.  The gallbladder is present.  There is no abdominal free fluid or pathologic adenopathy.,IMPRESSION:,1. Bilateral intrarenal stones, no obstruction.,2. Normal appendix.",
+    "cleaned_text": "EXAM: , CT stone protocol.,REASON FOR EXAM:, History of stones, rule out stones.,TECHNIQUE: , Noncontrast CT abdomen and pelvis per renal stone protocol.,FINDINGS: , Correlation is made with a prior examination dated 01/20/09.,Again identified are small intrarenal stones bilaterally. These are unchanged. There is no hydronephrosis or significant ureteral dilatation. There is no stone along the expected course of the ureters or within the bladder. There is a calcification in the low left pelvis not in line with ureter, this finding is stable and is compatible with a phlebolith. There is no asymmetric renal enlargement or perinephric stranding.,The appendix is normal. There is no evidence of a pericolonic inflammatory process or small bowel obstruction.,Scans through the pelvis disclose no free fluid or adenopathy.,Lung bases aside from very mild dependent atelectasis appear clear.,Given the lack of contrast, liver, spleen, adrenal glands, and the pancreas are grossly unremarkable. The gallbladder is present. There is no abdominal free fluid or pathologic adenopathy.,IMPRESSION:,1. Bilateral intrarenal stones, no obstruction.,2. Normal appendix.",
+    "sentences": [
+      "EXAM: , CT stone protocol.,REASON FOR EXAM:, History of stones, rule out stones.,TECHNIQUE: , Noncontrast CT abdomen and pelvis per renal stone protocol.,FINDINGS: , Correlation is made with a prior examination dated 01/20/09.,Again identified are small intrarenal stones bilaterally.",
+      "These are unchanged.",
+      "There is no hydronephrosis or significant ureteral dilatation.",
+      "There is no stone along the expected course of the ureters or within the bladder.",
+      "There is a calcification in the low left pelvis not in line with ureter, this finding is stable and is compatible with a phlebolith.",
+      "There is no asymmetric renal enlargement or perinephric stranding.,The appendix is normal.",
+      "There is no evidence of a pericolonic inflammatory process or small bowel obstruction.,Scans through the pelvis disclose no free fluid or adenopathy.,Lung bases aside from very mild dependent atelectasis appear clear.,Given the lack of contrast, liver, spleen, adrenal glands, and the pancreas are grossly unremarkable.",
+      "The gallbladder is present.",
+      "There is no abdominal free fluid or pathologic adenopathy.,IMPRESSION:,1.",
+      "Bilateral intrarenal stones, no obstruction.,2.",
+      "Normal appendix."
+    ],
+    "sentence_count": 11
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3468__laparoscopy___sigmoidoscopy_.txt",
+    "file_name": "mtsamples_3468__laparoscopy___sigmoidoscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3828,
+    "processed_at": "2026-05-09T09:54:22.251241"
+  },
+  "entities": [
+    {
+      "text": "Fever",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "Fever",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 79,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 86,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "chills",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 97,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "nausea, vomiting",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 39,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea, vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 51,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "vaginal bleeding",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 20,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vaginal bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "serosanguineous",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 47,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "serosanguineous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 37,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "injury to the bowel or pelvic sidewall",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 62,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury to the bowel or pelvic sidewall",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "serosanguineous",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 19,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "serosanguineous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "colonic injury",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 58,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colonic injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    },
+    {
+      "text": "postoperative pain",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 97,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "postoperative pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-05"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/05/03",
+      "start_char": 515,
+      "end_char": 523
+    }
+  ]
+}

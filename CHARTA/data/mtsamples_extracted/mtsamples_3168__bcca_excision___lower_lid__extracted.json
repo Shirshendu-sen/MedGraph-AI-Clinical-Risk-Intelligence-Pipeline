@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3168__bcca_excision___lower_lid_.txt",
+    "file_name": "mtsamples_3168__bcca_excision___lower_lid_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2646,
+    "processed_at": "2026-05-09T09:54:15.869161"
+  },
+  "entities": [
+    {
+      "text": "basal cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 62,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "basal cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "basal cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 143,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "basal cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "basal cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 202,
+      "end_char": 222,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "basal cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 29,
+      "sentence_idx": 1,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "frontal nerve block",
+      "label": "DISEASE",
+      "start_char": 2,
+      "end_char": 21,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "frontal nerve block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bleeding",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 410,
+      "end_char": 417,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

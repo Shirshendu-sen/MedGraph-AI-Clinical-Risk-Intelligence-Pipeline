@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1928__1_year_old_exam___h_p_.txt",
+    "file_name": "mtsamples_1928__1_year_old_exam___h_p_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3369,
+    "processed_at": "2026-05-09T09:53:53.223691"
+  },
+  "entities": [
+    {
+      "text": "cancer",
+      "label": "DISEASE",
+      "start_char": 675,
+      "end_char": 681,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 713,
+      "end_char": 725,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "normocephalic",
+      "label": "DISEASE",
+      "start_char": 298,
+      "end_char": 311,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normocephalic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bilaterally.,Left inferior palpebral",
+      "label": "DISEASE",
+      "start_char": 431,
+      "end_char": 467,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bilaterally.,Left inferior palpebral",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ductions",
+      "label": "DISEASE",
+      "start_char": 561,
+      "end_char": 569,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ductions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abnormalities of external auditory canals",
+      "label": "DISEASE",
+      "start_char": 647,
+      "end_char": 688,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormalities of external auditory canals",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 926,
+      "end_char": 932,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abnormalities.,Examination of oropharynx reveals no abnormalities",
+      "label": "DISEASE",
+      "start_char": 944,
+      "end_char": 1009,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormalities.,Examination of oropharynx reveals no abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "jaundice",
+      "label": "DISEASE",
+      "start_char": 253,
+      "end_char": 261,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "jaundice",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cyanotic",
+      "label": "DISEASE",
+      "start_char": 266,
+      "end_char": 274,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cyanotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1339__lung_biopsy_discussion_.txt",
+    "file_name": "mtsamples_1339__lung_biopsy_discussion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3589,
+    "processed_at": "2026-05-09T09:53:39.483047"
+  },
+  "entities": [
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 65,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "interstitial pneumonitis",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 117,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "interstitial pneumonitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obesity",
+      "label": "DISEASE",
+      "start_char": 268,
+      "end_char": 275,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obesity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "interstitial lung disease",
+      "label": "DISEASE",
+      "start_char": 219,
+      "end_char": 244,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "interstitial lung disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

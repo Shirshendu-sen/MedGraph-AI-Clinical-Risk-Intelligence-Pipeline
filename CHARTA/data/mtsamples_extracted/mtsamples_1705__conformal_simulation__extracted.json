@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1705__conformal_simulation_.txt",
+    "file_name": "mtsamples_1705__conformal_simulation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2288,
+    "processed_at": "2026-05-09T09:53:48.763528"
+  },
+  "entities": [
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 54,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 69,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

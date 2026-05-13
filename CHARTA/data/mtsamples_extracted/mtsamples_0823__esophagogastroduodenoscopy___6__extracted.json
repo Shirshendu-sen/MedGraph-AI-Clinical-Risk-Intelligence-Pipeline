@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0823__esophagogastroduodenoscopy___6_.txt",
+    "file_name": "mtsamples_0823__esophagogastroduodenoscopy___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 702,
+    "processed_at": "2026-05-09T09:53:26.765985"
+  },
+  "entities": [
+    {
+      "text": "Vistaril",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 60,
+      "sentence_idx": 0,
+      "concept_id": "C0936278",
+      "concept_name": "Vistaril",
+      "kb_source": "rxnorm",
+      "link_score": 0.991743803024292,
+      "timestamp": null
+    },
+    {
+      "text": "Atropine",
+      "label": "CHEMICAL",
+      "start_char": 71,
+      "end_char": 79,
+      "sentence_idx": 0,
+      "concept_id": "C0004259",
+      "concept_name": "atropine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9555075764656067,
+      "timestamp": null
+    },
+    {
+      "text": "Cetacaine",
+      "label": "CHEMICAL",
+      "start_char": 146,
+      "end_char": 155,
+      "sentence_idx": 0,
+      "concept_id": "C0055141",
+      "concept_name": "Cetacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9606422781944275,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 179,
+      "end_char": 185,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 46,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

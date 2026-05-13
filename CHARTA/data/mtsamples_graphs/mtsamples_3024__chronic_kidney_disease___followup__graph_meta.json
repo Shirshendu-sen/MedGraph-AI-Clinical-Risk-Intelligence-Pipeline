@@ -1,0 +1,33 @@
+{
+  "patient_id": "mtsamples_3024__chronic_kidney_disease___followup_",
+  "num_entities": 20,
+  "num_visits": 1,
+  "num_edges": 187,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0010294": 1,
+    "C0004057": 2,
+    "C0633084": 3,
+    "C0017642": 4,
+    "C0032821": 5,
+    "C0700777": 6,
+    "C0012265": 7,
+    "C0025270": 8,
+    "C0060282": 9,
+    "C0025859": 10,
+    "C0699992": 11,
+    "C0678181": 12,
+    "C0699142": 13,
+    "C0037473": 14,
+    "C0017725": 15,
+    "C0006675": 16,
+    "C0591301": 17,
+    "C1134440": 18,
+    "C0699129": 19
+  },
+  "visit_dates": [
+    "2006-05-30"
+  ],
+  "graph_file": "mtsamples_3024__chronic_kidney_disease___followup__graph.pt",
+  "source_dataset": "mtsamples_3024__chronic_kidney_disease___followup"
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3536__esophagogastroduodenoscopy___5_.txt",
+    "file_name": "mtsamples_3536__esophagogastroduodenoscopy___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1101,
+    "processed_at": "2026-05-09T09:54:23.335462"
+  },
+  "entities": [
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Demerol",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 2,
+      "concept_id": "C0935966",
+      "concept_name": "Demerol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9676215052604675,
+      "timestamp": null
+    },
+    {
+      "text": "Cetacaine",
+      "label": "CHEMICAL",
+      "start_char": 145,
+      "end_char": 154,
+      "sentence_idx": 2,
+      "concept_id": "C0055141",
+      "concept_name": "Cetacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9606422781944275,
+      "timestamp": null
+    },
+    {
+      "text": "cardia",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 67,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

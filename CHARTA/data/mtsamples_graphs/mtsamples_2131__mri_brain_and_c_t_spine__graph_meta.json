@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2131__mri_brain_and_c_t_spine_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 41,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0001963": 1,
+    "C0016911": 2
+  },
+  "visit_dates": [
+    "1992-09-25"
+  ],
+  "graph_file": "mtsamples_2131__mri_brain_and_c_t_spine__graph.pt",
+  "source_dataset": "mtsamples_2131__mri_brain_and_c_t_spine"
+}

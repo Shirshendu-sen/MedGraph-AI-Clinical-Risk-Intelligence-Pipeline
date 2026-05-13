@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4131__psych_consult___psychosis___1_.txt",
+    "file_name": "mtsamples_4131__psych_consult___psychosis___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2444,
+    "processed_at": "2026-05-09T09:54:33.947609"
+  },
+  "entities": [
+    {
+      "text": "t.i.d",
+      "label": "CHEMICAL",
+      "start_char": 87,
+      "end_char": 92,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "t.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ALCOHOL",
+      "label": "CHEMICAL",
+      "start_char": 287,
+      "end_char": 294,
+      "sentence_idx": 3,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "nicotine",
+      "label": "CHEMICAL",
+      "start_char": 341,
+      "end_char": 349,
+      "sentence_idx": 3,
+      "concept_id": "C0028040",
+      "concept_name": "nicotine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9582192301750183,
+      "timestamp": null
+    },
+    {
+      "text": "psychosis",
+      "label": "DISEASE",
+      "start_char": 1108,
+      "end_char": 1117,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "psychosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Psychosis",
+      "label": "DISEASE",
+      "start_char": 1168,
+      "end_char": 1177,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Psychosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dehydration",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 40,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dehydration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

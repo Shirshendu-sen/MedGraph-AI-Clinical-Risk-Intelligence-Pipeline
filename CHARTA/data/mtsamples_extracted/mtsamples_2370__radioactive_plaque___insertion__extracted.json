@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2370__radioactive_plaque___insertion_.txt",
+    "file_name": "mtsamples_2370__radioactive_plaque___insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1110,
+    "processed_at": "2026-05-09T09:54:00.816795"
+  },
+  "entities": [
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 38,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 90,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 46,
+      "end_char": 55,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Neosporin",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 42,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Neosporin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4428__dietary_consult___3_.txt",
+    "file_name": "mtsamples_4428__dietary_consult___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 895,
+    "processed_at": "2026-05-09T09:54:38.573648"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4428__dietary_consult___3_.txt",
+    "text": "SUBJECTIVE:,  The patient is brought in by an assistant with some of his food diary sheets.  They wonder if the patient needs to lose anymore weight.,OBJECTIVE:,  The patient's weight today is 186-1/2 pounds, which is down 1-1/2 pounds in the past month.  He has lost a total of 34-1/2 pounds.  I praised this.  I went over his food diary and praised all of his positive food choices reported, especially his use of sugar-free Kool-Aid, sugar-free pudding, and diet pop.  I encouraged him to continue all of that, as well as his regular physical activity.,ASSESSMENT:,  The patient is losing weight at an acceptable rate.  He needs to continue keeping a food diary and his regular physical activity.,PLAN:,  The patient plans to see Dr. XYZ at the end of May 2005.  I recommended that they ask Dr. XYZ what weight he would like for the patient to be at.  Follow up will be with me June 13, 2005.",
+    "char_count": 895,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "SUBJECTIVE:, The patient is brought in by an assistant with some of his food diary sheets. They wonder if the patient needs to lose anymore weight.,OBJECTIVE:, The patient's weight today is 186-1/2 pounds, which is down 1-1/2 pounds in the past month. He has lost a total of 34-1/2 pounds. I praised this. I went over his food diary and praised all of his positive food choices reported, especially his use of sugar-free Kool-Aid, sugar-free pudding, and diet pop. I encouraged him to continue all of that, as well as his regular physical activity.,ASSESSMENT:, The patient is losing weight at an acceptable rate. He needs to continue keeping a food diary and his regular physical activity.,PLAN:, The patient plans to see Dr. XYZ at the end of May 2005. I recommended that they ask Dr. XYZ what weight he would like for the patient to be at. Follow up will be with me June 13, 2005.",
+    "sentences": [
+      "SUBJECTIVE:, The patient is brought in by an assistant with some of his food diary sheets.",
+      "They wonder if the patient needs to lose anymore weight.,OBJECTIVE:, The patient's weight today is 186-1/2 pounds, which is down 1-1/2 pounds in the past month.",
+      "He has lost a total of 34-1/2 pounds.",
+      "I praised this.",
+      "I went over his food diary and praised all of his positive food choices reported, especially his use of sugar-free Kool-Aid, sugar-free pudding, and diet pop.",
+      "I encouraged him to continue all of that, as well as his regular physical activity.,ASSESSMENT:, The patient is losing weight at an acceptable rate.",
+      "He needs to continue keeping a food diary and his regular physical activity.,PLAN:, The patient plans to see Dr.",
+      "XYZ at the end of May 2005.",
+      "I recommended that they ask Dr.",
+      "XYZ what weight he would like for the patient to be at.",
+      "Follow up will be with me June 13, 2005."
+    ],
+    "sentence_count": 11,
+    "original_length": 895,
+    "cleaned_length": 883,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "SUBJECTIVE:,  The patient is brought in by an assistant with some of his food diary sheets.  They wonder if the patient needs to lose anymore weight.,OBJECTIVE:,  The patient's weight today is 186-1/2 pounds, which is down 1-1/2 pounds in the past month.  He has lost a total of 34-1/2 pounds.  I praised this.  I went over his food diary and praised all of his positive food choices reported, especially his use of sugar-free Kool-Aid, sugar-free pudding, and diet pop.  I encouraged him to continue all of that, as well as his regular physical activity.,ASSESSMENT:,  The patient is losing weight at an acceptable rate.  He needs to continue keeping a food diary and his regular physical activity.,PLAN:,  The patient plans to see Dr. XYZ at the end of May 2005.  I recommended that they ask Dr. XYZ what weight he would like for the patient to be at.  Follow up will be with me June 13, 2005.",
+    "cleaned_text": "SUBJECTIVE:, The patient is brought in by an assistant with some of his food diary sheets. They wonder if the patient needs to lose anymore weight.,OBJECTIVE:, The patient's weight today is 186-1/2 pounds, which is down 1-1/2 pounds in the past month. He has lost a total of 34-1/2 pounds. I praised this. I went over his food diary and praised all of his positive food choices reported, especially his use of sugar-free Kool-Aid, sugar-free pudding, and diet pop. I encouraged him to continue all of that, as well as his regular physical activity.,ASSESSMENT:, The patient is losing weight at an acceptable rate. He needs to continue keeping a food diary and his regular physical activity.,PLAN:, The patient plans to see Dr. XYZ at the end of May 2005. I recommended that they ask Dr. XYZ what weight he would like for the patient to be at. Follow up will be with me June 13, 2005.",
+    "sentences": [
+      "SUBJECTIVE:, The patient is brought in by an assistant with some of his food diary sheets.",
+      "They wonder if the patient needs to lose anymore weight.,OBJECTIVE:, The patient's weight today is 186-1/2 pounds, which is down 1-1/2 pounds in the past month.",
+      "He has lost a total of 34-1/2 pounds.",
+      "I praised this.",
+      "I went over his food diary and praised all of his positive food choices reported, especially his use of sugar-free Kool-Aid, sugar-free pudding, and diet pop.",
+      "I encouraged him to continue all of that, as well as his regular physical activity.,ASSESSMENT:, The patient is losing weight at an acceptable rate.",
+      "He needs to continue keeping a food diary and his regular physical activity.,PLAN:, The patient plans to see Dr.",
+      "XYZ at the end of May 2005.",
+      "I recommended that they ask Dr.",
+      "XYZ what weight he would like for the patient to be at.",
+      "Follow up will be with me June 13, 2005."
+    ],
+    "sentence_count": 11
+  }
+}

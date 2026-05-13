@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2368__premature_retina_and_vitreous_.txt",
+    "file_name": "mtsamples_2368__premature_retina_and_vitreous_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 729,
+    "processed_at": "2026-05-09T09:54:00.797820"
+  },
+  "entities": [
+    {
+      "text": "hazy",
+      "label": "DISEASE",
+      "start_char": 285,
+      "end_char": 289,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hazy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hazy",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 89,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hazy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "retinopathy",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 105,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retinopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prematurity",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 120,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prematurity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

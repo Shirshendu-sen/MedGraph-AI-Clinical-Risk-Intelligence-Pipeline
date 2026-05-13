@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0606__laser_of_vulva_.txt",
+    "file_name": "mtsamples_0606__laser_of_vulva_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1413,
+    "processed_at": "2026-05-09T09:53:20.566586"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0606__laser_of_vulva_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Recurrent dysplasia of vulva.,POSTOPERATIVE DIAGNOSIS:,  Same.,OPERATION PERFORMED:,  Carbon dioxide laser photo-ablation.,ANESTHESIA: , General, laryngeal mask.,INDICATIONS FOR PROCEDURE: , The patient has a past history of recurrent vulvar dysplasia.  She has had multiple prior procedures for treatment.  She was counseled to undergo laser photo-ablation.,FINDINGS:,  Examination under anesthesia revealed several slightly raised and pigmented lesions, predominantly on the left labia and perianal regions.  After staining with acetic acid, several additional areas of acetowhite epithelium were seen on both sides and in the perianal region.,PROCEDURE:  ,The patient was brought to the operating room with an IV in place.  Anesthetic was administered, after which she was placed in the lithotomy position.  Examination under anesthesia was performed, after which she was prepped and draped.  Acetic acid was applied and marking pen was utilized to outline the extent of the dysplastic lesion.  The carbon dioxide laser was then used to ablate the lesion to the third surgical plane as defined Reid.  Setting was 25 watts using a 6 mm pattern size with the silk-touch hand piece in the paint mode.  Excellent hemostasis was noted and Bacitracin was applied prophylactically.  The patient was awakened from her anesthetic and taken to the Post Anesthesia Care Unit in stable condition.",
+    "char_count": 1413,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Recurrent dysplasia of vulva.,POSTOPERATIVE DIAGNOSIS:, Same.,OPERATION PERFORMED:, Carbon dioxide laser photo-ablation.,ANESTHESIA: , General, laryngeal mask.,INDICATIONS FOR PROCEDURE: , The patient has a past history of recurrent vulvar dysplasia. She has had multiple prior procedures for treatment. She was counseled to undergo laser photo-ablation.,FINDINGS:, Examination under anesthesia revealed several slightly raised and pigmented lesions, predominantly on the left labia and perianal regions. After staining with acetic acid, several additional areas of acetowhite epithelium were seen on both sides and in the perianal region.,PROCEDURE: ,The patient was brought to the operating room with an IV in place. Anesthetic was administered, after which she was placed in the lithotomy position. Examination under anesthesia was performed, after which she was prepped and draped. Acetic acid was applied and marking pen was utilized to outline the extent of the dysplastic lesion. The carbon dioxide laser was then used to ablate the lesion to the third surgical plane as defined Reid. Setting was 25 watts using a 6 mm pattern size with the silk-touch hand piece in the paint mode. Excellent hemostasis was noted and Bacitracin was applied prophylactically. The patient was awakened from her anesthetic and taken to the Post Anesthesia Care Unit in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Recurrent dysplasia of vulva.,POSTOPERATIVE DIAGNOSIS:, Same.,OPERATION PERFORMED:, Carbon dioxide laser photo-ablation.,ANESTHESIA: , General, laryngeal mask.,INDICATIONS FOR PROCEDURE: , The patient has a past history of recurrent vulvar dysplasia.",
+      "She has had multiple prior procedures for treatment.",
+      "She was counseled to undergo laser photo-ablation.,FINDINGS:, Examination under anesthesia revealed several slightly raised and pigmented lesions, predominantly on the left labia and perianal regions.",
+      "After staining with acetic acid, several additional areas of acetowhite epithelium were seen on both sides and in the perianal region.,PROCEDURE: ,The patient was brought to the operating room with an IV in place.",
+      "Anesthetic was administered, after which she was placed in the lithotomy position.",
+      "Examination under anesthesia was performed, after which she was prepped and draped.",
+      "Acetic acid was applied and marking pen was utilized to outline the extent of the dysplastic lesion.",
+      "The carbon dioxide laser was then used to ablate the lesion to the third surgical plane as defined Reid.",
+      "Setting was 25 watts using a 6 mm pattern size with the silk-touch hand piece in the paint mode.",
+      "Excellent hemostasis was noted and Bacitracin was applied prophylactically.",
+      "The patient was awakened from her anesthetic and taken to the Post Anesthesia Care Unit in stable condition."
+    ],
+    "sentence_count": 11,
+    "original_length": 1413,
+    "cleaned_length": 1399,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Recurrent dysplasia of vulva.,POSTOPERATIVE DIAGNOSIS:,  Same.,OPERATION PERFORMED:,  Carbon dioxide laser photo-ablation.,ANESTHESIA: , General, laryngeal mask.,INDICATIONS FOR PROCEDURE: , The patient has a past history of recurrent vulvar dysplasia.  She has had multiple prior procedures for treatment.  She was counseled to undergo laser photo-ablation.,FINDINGS:,  Examination under anesthesia revealed several slightly raised and pigmented lesions, predominantly on the left labia and perianal regions.  After staining with acetic acid, several additional areas of acetowhite epithelium were seen on both sides and in the perianal region.,PROCEDURE:  ,The patient was brought to the operating room with an IV in place.  Anesthetic was administered, after which she was placed in the lithotomy position.  Examination under anesthesia was performed, after which she was prepped and draped.  Acetic acid was applied and marking pen was utilized to outline the extent of the dysplastic lesion.  The carbon dioxide laser was then used to ablate the lesion to the third surgical plane as defined Reid.  Setting was 25 watts using a 6 mm pattern size with the silk-touch hand piece in the paint mode.  Excellent hemostasis was noted and Bacitracin was applied prophylactically.  The patient was awakened from her anesthetic and taken to the Post Anesthesia Care Unit in stable condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Recurrent dysplasia of vulva.,POSTOPERATIVE DIAGNOSIS:, Same.,OPERATION PERFORMED:, Carbon dioxide laser photo-ablation.,ANESTHESIA: , General, laryngeal mask.,INDICATIONS FOR PROCEDURE: , The patient has a past history of recurrent vulvar dysplasia. She has had multiple prior procedures for treatment. She was counseled to undergo laser photo-ablation.,FINDINGS:, Examination under anesthesia revealed several slightly raised and pigmented lesions, predominantly on the left labia and perianal regions. After staining with acetic acid, several additional areas of acetowhite epithelium were seen on both sides and in the perianal region.,PROCEDURE: ,The patient was brought to the operating room with an IV in place. Anesthetic was administered, after which she was placed in the lithotomy position. Examination under anesthesia was performed, after which she was prepped and draped. Acetic acid was applied and marking pen was utilized to outline the extent of the dysplastic lesion. The carbon dioxide laser was then used to ablate the lesion to the third surgical plane as defined Reid. Setting was 25 watts using a 6 mm pattern size with the silk-touch hand piece in the paint mode. Excellent hemostasis was noted and Bacitracin was applied prophylactically. The patient was awakened from her anesthetic and taken to the Post Anesthesia Care Unit in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Recurrent dysplasia of vulva.,POSTOPERATIVE DIAGNOSIS:, Same.,OPERATION PERFORMED:, Carbon dioxide laser photo-ablation.,ANESTHESIA: , General, laryngeal mask.,INDICATIONS FOR PROCEDURE: , The patient has a past history of recurrent vulvar dysplasia.",
+      "She has had multiple prior procedures for treatment.",
+      "She was counseled to undergo laser photo-ablation.,FINDINGS:, Examination under anesthesia revealed several slightly raised and pigmented lesions, predominantly on the left labia and perianal regions.",
+      "After staining with acetic acid, several additional areas of acetowhite epithelium were seen on both sides and in the perianal region.,PROCEDURE: ,The patient was brought to the operating room with an IV in place.",
+      "Anesthetic was administered, after which she was placed in the lithotomy position.",
+      "Examination under anesthesia was performed, after which she was prepped and draped.",
+      "Acetic acid was applied and marking pen was utilized to outline the extent of the dysplastic lesion.",
+      "The carbon dioxide laser was then used to ablate the lesion to the third surgical plane as defined Reid.",
+      "Setting was 25 watts using a 6 mm pattern size with the silk-touch hand piece in the paint mode.",
+      "Excellent hemostasis was noted and Bacitracin was applied prophylactically.",
+      "The patient was awakened from her anesthetic and taken to the Post Anesthesia Care Unit in stable condition."
+    ],
+    "sentence_count": 11
+  }
+}

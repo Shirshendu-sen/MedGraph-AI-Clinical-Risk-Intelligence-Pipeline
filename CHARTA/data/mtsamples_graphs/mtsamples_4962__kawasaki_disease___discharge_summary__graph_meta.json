@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4962__kawasaki_disease___discharge_summary_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 29,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0004057": 1,
+    "C0286036": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4962__kawasaki_disease___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_4962__kawasaki_disease___discharge_summary"
+}

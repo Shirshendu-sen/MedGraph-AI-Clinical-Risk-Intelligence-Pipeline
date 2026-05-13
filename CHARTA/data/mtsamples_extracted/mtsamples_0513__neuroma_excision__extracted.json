@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0513__neuroma_excision_.txt",
+    "file_name": "mtsamples_0513__neuroma_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2303,
+    "processed_at": "2026-05-09T09:53:17.989095"
+  },
+  "entities": [
+    {
+      "text": "Morton's neuroma",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 42,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Morton's neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Morton's neuroma",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 115,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Morton's neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neuroma",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 188,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 67,
+      "end_char": 75,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 92,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dexamethasone phosphate",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 36,
+      "sentence_idx": 2,
+      "concept_id": "C0770565",
+      "concept_name": "dexamethasone phosphate",
+      "kb_source": "rxnorm",
+      "link_score": 0.972265362739563,
+      "timestamp": null
+    },
+    {
+      "text": "chlorhexidine gluconate",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 59,
+      "sentence_idx": 5,
+      "concept_id": "C0055361",
+      "concept_name": "chlorhexidine gluconate",
+      "kb_source": "rxnorm",
+      "link_score": 0.960751473903656,
+      "timestamp": null
+    },
+    {
+      "text": "neuroma",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 29,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuroma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 138,
+      "sentence_idx": 21,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

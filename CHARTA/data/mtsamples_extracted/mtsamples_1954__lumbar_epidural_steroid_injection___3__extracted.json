@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1954__lumbar_epidural_steroid_injection___3_.txt",
+    "file_name": "mtsamples_1954__lumbar_epidural_steroid_injection___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2251,
+    "processed_at": "2026-05-09T09:53:53.705109"
+  },
+  "entities": [
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 45,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 100,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 137,
+      "end_char": 144,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 232,
+      "end_char": 241,
+      "sentence_idx": 0,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 150,
+      "end_char": 158,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neurological dysfunction",
+      "label": "DISEASE",
+      "start_char": 223,
+      "end_char": 247,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neurological dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 274,
+      "end_char": 283,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 285,
+      "end_char": 293,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "death",
+      "label": "DISEASE",
+      "start_char": 303,
+      "end_char": 308,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "death",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neurological injury",
+      "label": "DISEASE",
+      "start_char": 244,
+      "end_char": 263,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neurological injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 212,
+      "end_char": 221,
+      "sentence_idx": 4,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "good loss resistance noted.,DISCHARGE SUMMARY",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 99,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "good loss resistance noted.,DISCHARGE SUMMARY",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

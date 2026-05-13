@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1073__carotid_endarterectomy___angioplasty__.txt",
+    "file_name": "mtsamples_1073__carotid_endarterectomy___angioplasty__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4163,
+    "processed_at": "2026-05-09T09:53:33.226669"
+  },
+  "entities": [
+    {
+      "text": "chronic renal failure",
+      "label": "DISEASE",
+      "start_char": 296,
+      "end_char": 317,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic renal failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carotid artery stenosis",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 52,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carotid artery stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 58,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carotid stenosis",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 49,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carotid stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atherosclerotic",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 36,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atherosclerotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "backflow bleeding",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 54,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "backflow bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atherosclerotic",
+      "label": "DISEASE",
+      "start_char": 309,
+      "end_char": 324,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atherosclerotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 27,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 138,
+      "end_char": 145,
+      "sentence_idx": 16,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": null
+    },
+    {
+      "text": "endarterectomy",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 17,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endarterectomy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 96,
+      "end_char": 103,
+      "sentence_idx": 37,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

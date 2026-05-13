@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1664__ct_head___3_.txt",
+    "file_name": "mtsamples_1664__ct_head___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1002,
+    "processed_at": "2026-05-09T09:53:47.915023"
+  },
+  "entities": [
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 40,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 94,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 120,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 86,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3878__hysterectomy___discharge_summary___2_.txt",
+    "file_name": "mtsamples_3878__hysterectomy___discharge_summary___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1843,
+    "processed_at": "2026-05-09T09:54:28.517355"
+  },
+  "entities": [
+    {
+      "text": "Microinvasive carcinoma of the cervix.,DISCHARGE",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 71,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Microinvasive carcinoma of the cervix.,DISCHARGE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-02-12"
+    },
+    {
+      "text": "Microinvasive carcinoma of the cervix.,PROCEDURE",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 133,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Microinvasive carcinoma of the cervix.,PROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-02-12"
+    },
+    {
+      "text": "microinvasive carcinoma of the cervix",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 53,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "microinvasive carcinoma of the cervix",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-02-12"
+    },
+    {
+      "text": "microinvasive carcinoma",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 136,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "microinvasive carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-02-12"
+    },
+    {
+      "text": "Vicodin",
+      "label": "CHEMICAL",
+      "start_char": 133,
+      "end_char": 140,
+      "sentence_idx": 11,
+      "concept_id": "C0483514",
+      "concept_name": "Vicodin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9674537181854248,
+      "timestamp": "2007-02-12"
+    },
+    {
+      "text": "Motrin",
+      "label": "CHEMICAL",
+      "start_char": 142,
+      "end_char": 148,
+      "sentence_idx": 11,
+      "concept_id": "C0699203",
+      "concept_name": "Motrin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9656757116317749,
+      "timestamp": "2007-02-12"
+    },
+    {
+      "text": "Macrodantin",
+      "label": "CHEMICAL",
+      "start_char": 154,
+      "end_char": 165,
+      "sentence_idx": 11,
+      "concept_id": "C0700187",
+      "concept_name": "Macrodantin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9616006016731262,
+      "timestamp": "2007-02-12"
+    },
+    {
+      "text": "urinary tract infection",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 204,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary tract infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-02-12"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "02/12/2007",
+      "start_char": 499,
+      "end_char": 509
+    },
+    {
+      "raw_text": "04/02/2007",
+      "start_char": 1116,
+      "end_char": 1126
+    }
+  ]
+}

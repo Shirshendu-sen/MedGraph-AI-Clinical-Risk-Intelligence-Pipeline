@@ -1,0 +1,409 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3909__discharge_summary___atv_accident_.txt",
+    "file_name": "mtsamples_3909__discharge_summary___atv_accident_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4893,
+    "processed_at": "2026-05-09T09:54:29.187455"
+  },
+  "entities": [
+    {
+      "text": "ATV",
+      "label": "CHEMICAL",
+      "start_char": 107,
+      "end_char": 110,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ATV",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "ATV",
+      "label": "CHEMICAL",
+      "start_char": 34,
+      "end_char": 37,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ATV",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "loss of consciousness",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 44,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of consciousness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "amnestic",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 19,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "amnestic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "left humerus fracture",
+      "label": "DISEASE",
+      "start_char": 222,
+      "end_char": 243,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left humerus fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "acute injury",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 120,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "fracture malalignment",
+      "label": "DISEASE",
+      "start_char": 172,
+      "end_char": 193,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture malalignment",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "distal humerus fracture",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 83,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "distal humerus fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "left humerus fracture",
+      "label": "DISEASE",
+      "start_char": 156,
+      "end_char": 177,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left humerus fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "left distal humerus fracture",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 166,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left distal humerus fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "left supracondylar humerus fracture",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 117,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left supracondylar humerus fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "VAC",
+      "label": "CHEMICAL",
+      "start_char": 8,
+      "end_char": 11,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VAC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 34,
+      "sentence_idx": 18,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 59,
+      "sentence_idx": 18,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "head injury",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 95,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "intracranial abnormalities",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 77,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intracranial abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "head injury",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 73,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "VAC",
+      "label": "CHEMICAL",
+      "start_char": 128,
+      "end_char": 131,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VAC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "compartment syndrome",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 63,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "compartment syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "paresthesia",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 54,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paresthesia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "pallor",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 36,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pallor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 44,
+      "sentence_idx": 28,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 30,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "abdominal injuries",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 67,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal injuries",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "left distal humerus fracture",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 82,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left distal humerus fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "left supracondylar humerus fracture",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 79,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left supracondylar humerus fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "left elbow fracture",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 49,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left elbow fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 83,
+      "sentence_idx": 40,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "loss of sensation, loss of pulse, or discoloration",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 135,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of sensation, loss of pulse, or discoloration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    },
+    {
+      "text": "paleness",
+      "label": "DISEASE",
+      "start_char": 155,
+      "end_char": 163,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paleness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-07-23"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "July 23, 2008",
+      "start_char": 303,
+      "end_char": 316
+    },
+    {
+      "raw_text": "July 26, 2008",
+      "start_char": 2925,
+      "end_char": 2938
+    },
+    {
+      "raw_text": "July 23, 2008",
+      "start_char": 4016,
+      "end_char": 4029
+    },
+    {
+      "raw_text": "July 23, 2008",
+      "start_char": 4116,
+      "end_char": 4129
+    },
+    {
+      "raw_text": "July 23, 2008",
+      "start_char": 4169,
+      "end_char": 4182
+    },
+    {
+      "raw_text": "July 26, 2008",
+      "start_char": 4239,
+      "end_char": 4252
+    },
+    {
+      "raw_text": "July 24, 2008",
+      "start_char": 4292,
+      "end_char": 4305
+    }
+  ]
+}

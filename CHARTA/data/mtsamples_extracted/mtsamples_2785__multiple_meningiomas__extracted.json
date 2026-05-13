@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2785__multiple_meningiomas_.txt",
+    "file_name": "mtsamples_2785__multiple_meningiomas_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2215,
+    "processed_at": "2026-05-09T09:54:07.782611"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "aphasia",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 30,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "meningioma",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 125,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meningioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "irritability",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 96,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irritability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 132,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "dysphasia",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 141,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 76,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 77,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "meningioma",
+      "label": "DISEASE",
+      "start_char": 164,
+      "end_char": 174,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meningioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 32,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "sphenoid meningioma",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 48,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sphenoid meningioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "lethargy",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lethargy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 60,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "left frontal meningioma",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 91,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left frontal meningioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "meningiomas",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 41,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meningiomas",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "tumors",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 12,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "left frontal meningioma",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 54,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left frontal meningioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "tonic-clonic",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 42,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tonic-clonic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "seizures",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 56,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "Jacksonian",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 94,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Jacksonian",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "RLE",
+      "label": "CHEMICAL",
+      "start_char": 108,
+      "end_char": 111,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "RLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "Phenobarbital",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 17,
+      "sentence_idx": 18,
+      "concept_id": "C0031412",
+      "concept_name": "phenobarbital",
+      "kb_source": "rxnorm",
+      "link_score": 0.9732966423034668,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "meningiomas",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 109,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meningiomas",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    },
+    {
+      "text": "aphasia",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 24,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1980-06-03"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "6/3/80",
+      "start_char": 129,
+      "end_char": 135
+    },
+    {
+      "raw_text": "9/25/84",
+      "start_char": 939,
+      "end_char": 946
+    },
+    {
+      "raw_text": "2/14/91",
+      "start_char": 1180,
+      "end_char": 1187
+    },
+    {
+      "raw_text": "2/14/91",
+      "start_char": 1259,
+      "end_char": 1266
+    },
+    {
+      "raw_text": "2/25/91",
+      "start_char": 1408,
+      "end_char": 1415
+    },
+    {
+      "raw_text": "11/21/91",
+      "start_char": 1539,
+      "end_char": 1547
+    },
+    {
+      "raw_text": "12/7/92",
+      "start_char": 1951,
+      "end_char": 1958
+    }
+  ]
+}

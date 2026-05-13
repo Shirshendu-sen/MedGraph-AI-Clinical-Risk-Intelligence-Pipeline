@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1516__renal_ultrasound_.txt",
+    "file_name": "mtsamples_1516__renal_ultrasound_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 986,
+    "processed_at": "2026-05-09T09:53:43.731192"
+  },
+  "entities": [
+    {
+      "text": "Renal failure",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 49,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Renal failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neurogenic bladder",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 69,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neurogenic bladder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydronephrosis",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 87,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydronephrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calculus",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 99,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calculus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "peripheral blood flow.,IMPRESSION:,1",
+      "label": "DISEASE",
+      "start_char": 212,
+      "end_char": 248,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peripheral blood flow.,IMPRESSION:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "iodine allergy",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 50,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "iodine allergy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "XXX",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 49,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "XXX",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "XXX",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "XXX",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

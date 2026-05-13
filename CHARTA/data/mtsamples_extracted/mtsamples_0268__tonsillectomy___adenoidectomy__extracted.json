@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0268__tonsillectomy___adenoidectomy_.txt",
+    "file_name": "mtsamples_0268__tonsillectomy___adenoidectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2445,
+    "processed_at": "2026-05-09T09:53:10.900784"
+  },
+  "entities": [
+    {
+      "text": "Afrin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Afrin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Crowe-Davis mouth gag",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 58,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Crowe-Davis mouth gag",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 81,
+      "end_char": 89,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "1:200,000 epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 95,
+      "end_char": 116,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:200,000 epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 79,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 19,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

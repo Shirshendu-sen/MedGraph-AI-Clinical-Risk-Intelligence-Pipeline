@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1083__cardiac_catheterization___7_.txt",
+    "file_name": "mtsamples_1083__cardiac_catheterization___7_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2590,
+    "processed_at": "2026-05-09T09:53:33.585322"
+  },
+  "entities": [
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 94,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mL.,PROCEDURES",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 145,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mL.,PROCEDURES",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 21,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "VENTRICULOGRAM",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 61,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VENTRICULOGRAM",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aortic regurgitation",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 23,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

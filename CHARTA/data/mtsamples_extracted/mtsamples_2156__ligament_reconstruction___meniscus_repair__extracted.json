@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2156__ligament_reconstruction___meniscus_repair_.txt",
+    "file_name": "mtsamples_2156__ligament_reconstruction___meniscus_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 7237,
+    "processed_at": "2026-05-09T09:53:57.499778"
+  },
+  "entities": [
+    {
+      "text": "Patellofemoral instability",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 26,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Patellofemoral instability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-11"
+    },
+    {
+      "text": "Chondromalacia patella.,PROCEDURES",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 34,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chondromalacia patella.,PROCEDURES",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-11"
+    },
+    {
+      "text": "patellofemoral",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 111,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patellofemoral",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-11"
+    },
+    {
+      "text": "multiple dislocations",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 131,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "multiple dislocations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-11"
+    },
+    {
+      "text": "dislocations",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 164,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dislocations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-11"
+    },
+    {
+      "text": "arthroplasty",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 110,
+      "sentence_idx": 56,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthroplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-11"
+    },
+    {
+      "text": "impingement",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 36,
+      "sentence_idx": 72,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-11"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/11/03",
+      "start_char": 2257,
+      "end_char": 2265
+    }
+  ]
+}

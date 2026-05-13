@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4380__gen_med_consult___1_.txt",
+    "file_name": "mtsamples_4380__gen_med_consult___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1460,
+    "processed_at": "2026-05-09T09:54:37.931490"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4380__gen_med_consult___1_.txt",
+    "text": "HISTORY OF PRESENT ILLNESS: ,This is the initial clinic visit for a 29-year-old man who is seen for new onset of right shoulder pain.  He states that this began approximately one week ago when he was lifting stacks of cardboard.  The motion that he describes is essentially picking up a stack of cardboard at his waist level, twisting to the right and delivering it at approximately waist level.  Sometimes he has to throw the stacks a little bit as well.  He states he felt a popping sensation on 06/30/04.  Since that time, he has had persistent shoulder pain with lifting activities.  He localizes the pain to the posterior and to a lesser extent the lateral aspect of the shoulder.  He has no upper extremity .  , ,REVIEW OF SYSTEMS: ,Focal lateral and posterior shoulder pain without a suggestion of any cervical radiculopathies.  He denies any chronic cardiac, pulmonary, GI, GU, neurologic, musculoskeletal, endocrine abnormalities.  , ,MEDICATIONS: , Claritin for allergic rhinitis.  , ,ALLERGIES: , None.  , ,PHYSICAL EXAMINATION:, Blood pressure 120/90, respirations 10, pulse 72, temperature 97.2.  He is sitting upright, alert and oriented, and in no acute distress.  Skin is warm and dry. Gross neurologic examination is normal.  ENT examination reveals normal oropharynx, nasopharynx, and tympanic membranes.  Neck: Full range of motion with no adenopathy or thyromegaly.  Cardiovascular:  Regular rate and rhythm.  Lungs:  Clear.  Abdomen: Soft.",
+    "char_count": 1460,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "HISTORY OF PRESENT ILLNESS: ,This is the initial clinic visit for a 29-year-old man who is seen for new onset of right shoulder pain. He states that this began approximately one week ago when he was lifting stacks of cardboard. The motion that he describes is essentially picking up a stack of cardboard at his waist level, twisting to the right and delivering it at approximately waist level. Sometimes he has to throw the stacks a little bit as well. He states he felt a popping sensation on 06/30/04. Since that time, he has had persistent shoulder pain with lifting activities. He localizes the pain to the posterior and to a lesser extent the lateral aspect of the shoulder. He has no upper extremity . , ,REVIEW OF SYSTEMS: ,Focal lateral and posterior shoulder pain without a suggestion of any cervical radiculopathies. He denies any chronic cardiac, pulmonary, GI, GU, neurologic, musculoskeletal, endocrine abnormalities. , ,MEDICATIONS: , Claritin for allergic rhinitis. , ,ALLERGIES: , None. , ,PHYSICAL EXAMINATION:, Blood pressure 120/90, respirations 10, pulse 72, temperature 97.2. He is sitting upright, alert and oriented, and in no acute distress. Skin is warm and dry. Gross neurologic examination is normal. ENT examination reveals normal oropharynx, nasopharynx, and tympanic membranes. Neck: Full range of motion with no adenopathy or thyromegaly. Cardiovascular: Regular rate and rhythm. Lungs: Clear. Abdomen: Soft.",
+    "sentences": [
+      "HISTORY OF PRESENT ILLNESS: ,This is the initial clinic visit for a 29-year-old man who is seen for new onset of right shoulder pain.",
+      "He states that this began approximately one week ago when he was lifting stacks of cardboard.",
+      "The motion that he describes is essentially picking up a stack of cardboard at his waist level, twisting to the right and delivering it at approximately waist level.",
+      "Sometimes he has to throw the stacks a little bit as well.",
+      "He states he felt a popping sensation on 06/30/04.",
+      "Since that time, he has had persistent shoulder pain with lifting activities.",
+      "He localizes the pain to the posterior and to a lesser extent the lateral aspect of the shoulder.",
+      "He has no upper extremity . , ,REVIEW OF SYSTEMS: ,Focal lateral and posterior shoulder pain without a suggestion of any cervical radiculopathies.",
+      "He denies any chronic cardiac, pulmonary, GI, GU, neurologic, musculoskeletal, endocrine abnormalities. , ,MEDICATIONS: , Claritin for allergic rhinitis. , ,ALLERGIES: , None. , ,PHYSICAL EXAMINATION:, Blood pressure 120/90, respirations 10, pulse 72, temperature 97.2.",
+      "He is sitting upright, alert and oriented, and in no acute distress.",
+      "Skin is warm and dry.",
+      "Gross neurologic examination is normal.",
+      "ENT examination reveals normal oropharynx, nasopharynx, and tympanic membranes.",
+      "Neck: Full range of motion with no adenopathy or thyromegaly.",
+      "Cardiovascular: Regular rate and rhythm.",
+      "Lungs: Clear.",
+      "Abdomen: Soft."
+    ],
+    "sentence_count": 17,
+    "original_length": 1460,
+    "cleaned_length": 1439,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "HISTORY OF PRESENT ILLNESS: ,This is the initial clinic visit for a 29-year-old man who is seen for new onset of right shoulder pain.  He states that this began approximately one week ago when he was lifting stacks of cardboard.  The motion that he describes is essentially picking up a stack of cardboard at his waist level, twisting to the right and delivering it at approximately waist level.  Sometimes he has to throw the stacks a little bit as well.  He states he felt a popping sensation on 06/30/04.  Since that time, he has had persistent shoulder pain with lifting activities.  He localizes the pain to the posterior and to a lesser extent the lateral aspect of the shoulder.  He has no upper extremity .  , ,REVIEW OF SYSTEMS: ,Focal lateral and posterior shoulder pain without a suggestion of any cervical radiculopathies.  He denies any chronic cardiac, pulmonary, GI, GU, neurologic, musculoskeletal, endocrine abnormalities.  , ,MEDICATIONS: , Claritin for allergic rhinitis.  , ,ALLERGIES: , None.  , ,PHYSICAL EXAMINATION:, Blood pressure 120/90, respirations 10, pulse 72, temperature 97.2.  He is sitting upright, alert and oriented, and in no acute distress.  Skin is warm and dry. Gross neurologic examination is normal.  ENT examination reveals normal oropharynx, nasopharynx, and tympanic membranes.  Neck: Full range of motion with no adenopathy or thyromegaly.  Cardiovascular:  Regular rate and rhythm.  Lungs:  Clear.  Abdomen: Soft.",
+    "cleaned_text": "HISTORY OF PRESENT ILLNESS: ,This is the initial clinic visit for a 29-year-old man who is seen for new onset of right shoulder pain. He states that this began approximately one week ago when he was lifting stacks of cardboard. The motion that he describes is essentially picking up a stack of cardboard at his waist level, twisting to the right and delivering it at approximately waist level. Sometimes he has to throw the stacks a little bit as well. He states he felt a popping sensation on 06/30/04. Since that time, he has had persistent shoulder pain with lifting activities. He localizes the pain to the posterior and to a lesser extent the lateral aspect of the shoulder. He has no upper extremity . , ,REVIEW OF SYSTEMS: ,Focal lateral and posterior shoulder pain without a suggestion of any cervical radiculopathies. He denies any chronic cardiac, pulmonary, GI, GU, neurologic, musculoskeletal, endocrine abnormalities. , ,MEDICATIONS: , Claritin for allergic rhinitis. , ,ALLERGIES: , None. , ,PHYSICAL EXAMINATION:, Blood pressure 120/90, respirations 10, pulse 72, temperature 97.2. He is sitting upright, alert and oriented, and in no acute distress. Skin is warm and dry. Gross neurologic examination is normal. ENT examination reveals normal oropharynx, nasopharynx, and tympanic membranes. Neck: Full range of motion with no adenopathy or thyromegaly. Cardiovascular: Regular rate and rhythm. Lungs: Clear. Abdomen: Soft.",
+    "sentences": [
+      "HISTORY OF PRESENT ILLNESS: ,This is the initial clinic visit for a 29-year-old man who is seen for new onset of right shoulder pain.",
+      "He states that this began approximately one week ago when he was lifting stacks of cardboard.",
+      "The motion that he describes is essentially picking up a stack of cardboard at his waist level, twisting to the right and delivering it at approximately waist level.",
+      "Sometimes he has to throw the stacks a little bit as well.",
+      "He states he felt a popping sensation on 06/30/04.",
+      "Since that time, he has had persistent shoulder pain with lifting activities.",
+      "He localizes the pain to the posterior and to a lesser extent the lateral aspect of the shoulder.",
+      "He has no upper extremity . , ,REVIEW OF SYSTEMS: ,Focal lateral and posterior shoulder pain without a suggestion of any cervical radiculopathies.",
+      "He denies any chronic cardiac, pulmonary, GI, GU, neurologic, musculoskeletal, endocrine abnormalities. , ,MEDICATIONS: , Claritin for allergic rhinitis. , ,ALLERGIES: , None. , ,PHYSICAL EXAMINATION:, Blood pressure 120/90, respirations 10, pulse 72, temperature 97.2.",
+      "He is sitting upright, alert and oriented, and in no acute distress.",
+      "Skin is warm and dry.",
+      "Gross neurologic examination is normal.",
+      "ENT examination reveals normal oropharynx, nasopharynx, and tympanic membranes.",
+      "Neck: Full range of motion with no adenopathy or thyromegaly.",
+      "Cardiovascular: Regular rate and rhythm.",
+      "Lungs: Clear.",
+      "Abdomen: Soft."
+    ],
+    "sentence_count": 17
+  }
+}

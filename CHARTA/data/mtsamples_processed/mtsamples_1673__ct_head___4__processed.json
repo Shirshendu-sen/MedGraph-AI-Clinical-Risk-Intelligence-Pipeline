@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1673__ct_head___4_.txt",
+    "file_name": "mtsamples_1673__ct_head___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 660,
+    "processed_at": "2026-05-09T09:53:48.105420"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1673__ct_head___4_.txt",
+    "text": "EXAM: , CT head without contrast.,INDICATIONS: , Assaulted, positive loss of consciousness, rule out bleed.,TECHNIQUE: , CT examination of the head was performed without intravenous contrast administration.  There are no comparison studies.,FINDINGS:  ,There are no abnormal extraaxial fluid collections.  There is no midline shift or mass effect.  Ventricular system demonstrates no dilatation.  There is no evidence of acute intracranial hemorrhage.  The calvarium is intact.  There is a laceration in the left parietal region of the scalp without underlying calvarial fractures.  The mastoid air cells are clear.,IMPRESSION:  ,No acute intracranial process.",
+    "char_count": 660,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , CT head without contrast.,INDICATIONS: , Assaulted, positive loss of consciousness, rule out bleed.,TECHNIQUE: , CT examination of the head was performed without intravenous contrast administration. There are no comparison studies.,FINDINGS: ,There are no abnormal extraaxial fluid collections. There is no midline shift or mass effect. Ventricular system demonstrates no dilatation. There is no evidence of acute intracranial hemorrhage. The calvarium is intact. There is a laceration in the left parietal region of the scalp without underlying calvarial fractures. The mastoid air cells are clear.,IMPRESSION: ,No acute intracranial process.",
+    "sentences": [
+      "EXAM: , CT head without contrast.,INDICATIONS: , Assaulted, positive loss of consciousness, rule out bleed.,TECHNIQUE: , CT examination of the head was performed without intravenous contrast administration.",
+      "There are no comparison studies.,FINDINGS: ,There are no abnormal extraaxial fluid collections.",
+      "There is no midline shift or mass effect.",
+      "Ventricular system demonstrates no dilatation.",
+      "There is no evidence of acute intracranial hemorrhage.",
+      "The calvarium is intact.",
+      "There is a laceration in the left parietal region of the scalp without underlying calvarial fractures.",
+      "The mastoid air cells are clear.,IMPRESSION: ,No acute intracranial process."
+    ],
+    "sentence_count": 8,
+    "original_length": 660,
+    "cleaned_length": 651,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , CT head without contrast.,INDICATIONS: , Assaulted, positive loss of consciousness, rule out bleed.,TECHNIQUE: , CT examination of the head was performed without intravenous contrast administration.  There are no comparison studies.,FINDINGS:  ,There are no abnormal extraaxial fluid collections.  There is no midline shift or mass effect.  Ventricular system demonstrates no dilatation.  There is no evidence of acute intracranial hemorrhage.  The calvarium is intact.  There is a laceration in the left parietal region of the scalp without underlying calvarial fractures.  The mastoid air cells are clear.,IMPRESSION:  ,No acute intracranial process.",
+    "cleaned_text": "EXAM: , CT head without contrast.,INDICATIONS: , Assaulted, positive loss of consciousness, rule out bleed.,TECHNIQUE: , CT examination of the head was performed without intravenous contrast administration. There are no comparison studies.,FINDINGS: ,There are no abnormal extraaxial fluid collections. There is no midline shift or mass effect. Ventricular system demonstrates no dilatation. There is no evidence of acute intracranial hemorrhage. The calvarium is intact. There is a laceration in the left parietal region of the scalp without underlying calvarial fractures. The mastoid air cells are clear.,IMPRESSION: ,No acute intracranial process.",
+    "sentences": [
+      "EXAM: , CT head without contrast.,INDICATIONS: , Assaulted, positive loss of consciousness, rule out bleed.,TECHNIQUE: , CT examination of the head was performed without intravenous contrast administration.",
+      "There are no comparison studies.,FINDINGS: ,There are no abnormal extraaxial fluid collections.",
+      "There is no midline shift or mass effect.",
+      "Ventricular system demonstrates no dilatation.",
+      "There is no evidence of acute intracranial hemorrhage.",
+      "The calvarium is intact.",
+      "There is a laceration in the left parietal region of the scalp without underlying calvarial fractures.",
+      "The mastoid air cells are clear.,IMPRESSION: ,No acute intracranial process."
+    ],
+    "sentence_count": 8
+  }
+}

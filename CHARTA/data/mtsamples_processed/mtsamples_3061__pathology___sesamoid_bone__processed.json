@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3061__pathology___sesamoid_bone_.txt",
+    "file_name": "mtsamples_3061__pathology___sesamoid_bone_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 515,
+    "processed_at": "2026-05-09T09:54:13.048350"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3061__pathology___sesamoid_bone_.txt",
+    "text": "GROSS DESCRIPTION: , Specimen labeled \"sesamoid bone left foot\" is received in formalin and consists of three irregular fragments of grey-brown, hard, bony tissue admixed with multiple fragments of brown-tan, rubbery, fibrocollagenous, soft tissue altogether measuring 3.1 x 1.5 x 0.9 cm.  The specimen is entirely submitted, after decalcification.,DIAGNOSIS:,  Acute Osteomyelitis, with foci of marrow fibrosis.,Focal acute and chronic inflammation of fascia and soft tissue.  Arteriosclerosis, severely occlusive.",
+    "char_count": 515,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "GROSS DESCRIPTION: , Specimen labeled \"sesamoid bone left foot\" is received in formalin and consists of three irregular fragments of grey-brown, hard, bony tissue admixed with multiple fragments of brown-tan, rubbery, fibrocollagenous, soft tissue altogether measuring 3.1 x 1.5 x 0.9 cm. The specimen is entirely submitted, after decalcification.,DIAGNOSIS:, Acute Osteomyelitis, with foci of marrow fibrosis.,Focal acute and chronic inflammation of fascia and soft tissue. Arteriosclerosis, severely occlusive.",
+    "sentences": [
+      "GROSS DESCRIPTION: , Specimen labeled \"sesamoid bone left foot\" is received in formalin and consists of three irregular fragments of grey-brown, hard, bony tissue admixed with multiple fragments of brown-tan, rubbery, fibrocollagenous, soft tissue altogether measuring 3.1 x 1.5 x 0.9 cm.",
+      "The specimen is entirely submitted, after decalcification.,DIAGNOSIS:, Acute Osteomyelitis, with foci of marrow fibrosis.,Focal acute and chronic inflammation of fascia and soft tissue.",
+      "Arteriosclerosis, severely occlusive."
+    ],
+    "sentence_count": 3,
+    "original_length": 515,
+    "cleaned_length": 512,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "GROSS DESCRIPTION: , Specimen labeled \"sesamoid bone left foot\" is received in formalin and consists of three irregular fragments of grey-brown, hard, bony tissue admixed with multiple fragments of brown-tan, rubbery, fibrocollagenous, soft tissue altogether measuring 3.1 x 1.5 x 0.9 cm.  The specimen is entirely submitted, after decalcification.,DIAGNOSIS:,  Acute Osteomyelitis, with foci of marrow fibrosis.,Focal acute and chronic inflammation of fascia and soft tissue.  Arteriosclerosis, severely occlusive.",
+    "cleaned_text": "GROSS DESCRIPTION: , Specimen labeled \"sesamoid bone left foot\" is received in formalin and consists of three irregular fragments of grey-brown, hard, bony tissue admixed with multiple fragments of brown-tan, rubbery, fibrocollagenous, soft tissue altogether measuring 3.1 x 1.5 x 0.9 cm. The specimen is entirely submitted, after decalcification.,DIAGNOSIS:, Acute Osteomyelitis, with foci of marrow fibrosis.,Focal acute and chronic inflammation of fascia and soft tissue. Arteriosclerosis, severely occlusive.",
+    "sentences": [
+      "GROSS DESCRIPTION: , Specimen labeled \"sesamoid bone left foot\" is received in formalin and consists of three irregular fragments of grey-brown, hard, bony tissue admixed with multiple fragments of brown-tan, rubbery, fibrocollagenous, soft tissue altogether measuring 3.1 x 1.5 x 0.9 cm.",
+      "The specimen is entirely submitted, after decalcification.,DIAGNOSIS:, Acute Osteomyelitis, with foci of marrow fibrosis.,Focal acute and chronic inflammation of fascia and soft tissue.",
+      "Arteriosclerosis, severely occlusive."
+    ],
+    "sentence_count": 3
+  }
+}

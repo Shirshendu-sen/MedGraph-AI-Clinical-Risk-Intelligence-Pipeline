@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1740__recheck_of_adhd_meds_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 14,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0290795": 1
+  },
+  "visit_dates": [
+    "2004-08-16"
+  ],
+  "graph_file": "mtsamples_1740__recheck_of_adhd_meds__graph.pt",
+  "source_dataset": "mtsamples_1740__recheck_of_adhd_meds"
+}

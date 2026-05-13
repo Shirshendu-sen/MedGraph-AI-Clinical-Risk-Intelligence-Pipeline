@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2544__low_transverse_c_section___7_.txt",
+    "file_name": "mtsamples_2544__low_transverse_c_section___7_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5249,
+    "processed_at": "2026-05-09T09:54:04.036427"
+  },
+  "entities": [
+    {
+      "text": "anterior fibroid",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 139,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anterior fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ROA",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 39,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ROA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 91,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 50,
+      "sentence_idx": 44,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2282__bunion___pes_planovalgus_deformity_.txt",
+    "file_name": "mtsamples_2282__bunion___pes_planovalgus_deformity_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3284,
+    "processed_at": "2026-05-09T09:53:59.279915"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 105,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "bunion deformity",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 158,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bunion deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 60,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "bunion deformity",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 122,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bunion deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 145,
+      "end_char": 149,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "forefoot pain",
+      "label": "DISEASE",
+      "start_char": 145,
+      "end_char": 158,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "forefoot pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 103,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bunion deformity",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 41,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bunion deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 23,
+      "sentence_idx": 10,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "claw-toe deformity",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 108,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "claw-toe deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pes planus",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 75,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pes planus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypermobility",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 109,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypermobility",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arthrosis",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 24,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

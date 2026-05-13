@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3180__3_dimensional_simulation_.txt",
+    "file_name": "mtsamples_3180__3_dimensional_simulation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2303,
+    "processed_at": "2026-05-09T09:54:16.039888"
+  },
+  "entities": [
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 46,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 65,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "isodose",
+      "label": "DISEASE",
+      "start_char": 180,
+      "end_char": 187,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "isodose",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "re-simulated.,In",
+      "label": "CHEMICAL",
+      "start_char": 168,
+      "end_char": 184,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "re-simulated.,In",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

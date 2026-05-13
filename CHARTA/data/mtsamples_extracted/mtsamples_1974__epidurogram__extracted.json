@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1974__epidurogram_.txt",
+    "file_name": "mtsamples_1974__epidurogram_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1530,
+    "processed_at": "2026-05-09T09:53:54.006525"
+  },
+  "entities": [
+    {
+      "text": "lower extremity",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 21,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower extremity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 35,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 17,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lower extremity",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 21,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower extremity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 35,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 17,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "needle.,There",
+      "label": "CHEMICAL",
+      "start_char": 79,
+      "end_char": 92,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "needle.,There",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

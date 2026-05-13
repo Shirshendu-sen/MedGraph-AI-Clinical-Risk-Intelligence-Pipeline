@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2879__eeg_monitoring_study_.txt",
+    "file_name": "mtsamples_2879__eeg_monitoring_study_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2667,
+    "processed_at": "2026-05-09T09:54:10.093468"
+  },
+  "entities": [
+    {
+      "text": "valproic acid",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 39,
+      "sentence_idx": 3,
+      "concept_id": "C0042291",
+      "concept_name": "valproic acid",
+      "kb_source": "rxnorm",
+      "link_score": 0.9699554443359375,
+      "timestamp": "2006-08-21"
+    },
+    {
+      "text": "Zonegran",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 3,
+      "concept_id": "C0876224",
+      "concept_name": "Zonegran",
+      "kb_source": "rxnorm",
+      "link_score": 0.9654874205589294,
+      "timestamp": "2006-08-21"
+    },
+    {
+      "text": "Keppra",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 61,
+      "sentence_idx": 3,
+      "concept_id": "C0876060",
+      "concept_name": "Keppra",
+      "kb_source": "rxnorm",
+      "link_score": 0.9722980856895447,
+      "timestamp": "2006-08-21"
+    },
+    {
+      "text": "seizure",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 127,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-25"
+    },
+    {
+      "text": "hyperventilation",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 66,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperventilation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-21"
+    },
+    {
+      "text": "seizures",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 73,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-21"
+    },
+    {
+      "text": "hyperventilation",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 52,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperventilation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-21"
+    },
+    {
+      "text": "non-epileptic pseudoseizure",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 61,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-epileptic pseudoseizure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-08-21"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/21/06",
+      "start_char": 64,
+      "end_char": 72
+    },
+    {
+      "raw_text": "08/25/06",
+      "start_char": 94,
+      "end_char": 102
+    }
+  ]
+}

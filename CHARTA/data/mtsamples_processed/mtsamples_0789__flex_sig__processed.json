@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0789__flex_sig_.txt",
+    "file_name": "mtsamples_0789__flex_sig_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 413,
+    "processed_at": "2026-05-09T09:53:25.882334"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0789__flex_sig_.txt",
+    "text": "MEDICATIONS:,  None.,DESCRIPTION OF THE PROCEDURE:,  After informed consent was obtained, the patient was placed in the left lateral decubitus position and the Olympus video colonoscope was inserted through the anus and advanced in retrograde fashion for a distance of *** cm to the proximal descending colon and then slowly withdrawn.  The mucosa appeared normal.  Retroflex examination of the rectum was normal.",
+    "char_count": 413,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "MEDICATIONS:, None.,DESCRIPTION OF THE PROCEDURE:, After informed consent was obtained, the patient was placed in the left lateral decubitus position and the Olympus video colonoscope was inserted through the anus and advanced in retrograde fashion for a distance of *** cm to the proximal descending colon and then slowly withdrawn. The mucosa appeared normal. Retroflex examination of the rectum was normal.",
+    "sentences": [
+      "MEDICATIONS:, None.,DESCRIPTION OF THE PROCEDURE:, After informed consent was obtained, the patient was placed in the left lateral decubitus position and the Olympus video colonoscope was inserted through the anus and advanced in retrograde fashion for a distance of *** cm to the proximal descending colon and then slowly withdrawn.",
+      "The mucosa appeared normal.",
+      "Retroflex examination of the rectum was normal."
+    ],
+    "sentence_count": 3,
+    "original_length": 413,
+    "cleaned_length": 409,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "MEDICATIONS:,  None.,DESCRIPTION OF THE PROCEDURE:,  After informed consent was obtained, the patient was placed in the left lateral decubitus position and the Olympus video colonoscope was inserted through the anus and advanced in retrograde fashion for a distance of *** cm to the proximal descending colon and then slowly withdrawn.  The mucosa appeared normal.  Retroflex examination of the rectum was normal.",
+    "cleaned_text": "MEDICATIONS:, None.,DESCRIPTION OF THE PROCEDURE:, After informed consent was obtained, the patient was placed in the left lateral decubitus position and the Olympus video colonoscope was inserted through the anus and advanced in retrograde fashion for a distance of *** cm to the proximal descending colon and then slowly withdrawn. The mucosa appeared normal. Retroflex examination of the rectum was normal.",
+    "sentences": [
+      "MEDICATIONS:, None.,DESCRIPTION OF THE PROCEDURE:, After informed consent was obtained, the patient was placed in the left lateral decubitus position and the Olympus video colonoscope was inserted through the anus and advanced in retrograde fashion for a distance of *** cm to the proximal descending colon and then slowly withdrawn.",
+      "The mucosa appeared normal.",
+      "Retroflex examination of the rectum was normal."
+    ],
+    "sentence_count": 3
+  }
+}

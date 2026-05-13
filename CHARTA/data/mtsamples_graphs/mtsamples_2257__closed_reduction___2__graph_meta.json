@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2257__closed_reduction___2_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0033487": 1
+  },
+  "visit_dates": [
+    "2008-07-26"
+  ],
+  "graph_file": "mtsamples_2257__closed_reduction___2__graph.pt",
+  "source_dataset": "mtsamples_2257__closed_reduction___2"
+}

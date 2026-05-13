@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3238__normal_ent_exam_.txt",
+    "file_name": "mtsamples_3238__normal_ent_exam_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 936,
+    "processed_at": "2026-05-09T09:54:16.735455"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3238__normal_ent_exam_.txt",
+    "text": "EARS, NOSE, MOUTH AND THROAT: , The nose is without any evidence of any deformity.  The ears are with normal-appearing pinna.  Examination of the canals is normal appearing bilaterally.  There is no drainage or erythema noted.  The tympanic membranes are normal appearing with pearly color, normal-appearing landmarks and normal light reflex.  Hearing is grossly intact to finger rubbing and whisper.  The nasal mucosa is moist.  The septum is midline.  There is no evidence of septal hematoma.  The turbinates are without abnormality.  No obvious abnormalities to the lips.  The teeth are unremarkable.  The gingivae are without any obvious evidence of infection.  The oral mucosa is moist and pink.  There are no obvious masses to the hard or soft palate.  The uvula is midline.  The salivary glands appear unremarkable.  The tongue is midline.  The posterior pharynx is without erythema or exudate.  The tonsils are normal appearing.",
+    "char_count": 936,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EARS, NOSE, MOUTH AND THROAT: , The nose is without any evidence of any deformity. The ears are with normal-appearing pinna. Examination of the canals is normal appearing bilaterally. There is no drainage or erythema noted. The tympanic membranes are normal appearing with pearly color, normal-appearing landmarks and normal light reflex. Hearing is grossly intact to finger rubbing and whisper. The nasal mucosa is moist. The septum is midline. There is no evidence of septal hematoma. The turbinates are without abnormality. No obvious abnormalities to the lips. The teeth are unremarkable. The gingivae are without any obvious evidence of infection. The oral mucosa is moist and pink. There are no obvious masses to the hard or soft palate. The uvula is midline. The salivary glands appear unremarkable. The tongue is midline. The posterior pharynx is without erythema or exudate. The tonsils are normal appearing.",
+    "sentences": [
+      "EARS, NOSE, MOUTH AND THROAT: , The nose is without any evidence of any deformity.",
+      "The ears are with normal-appearing pinna.",
+      "Examination of the canals is normal appearing bilaterally.",
+      "There is no drainage or erythema noted.",
+      "The tympanic membranes are normal appearing with pearly color, normal-appearing landmarks and normal light reflex.",
+      "Hearing is grossly intact to finger rubbing and whisper.",
+      "The nasal mucosa is moist.",
+      "The septum is midline.",
+      "There is no evidence of septal hematoma.",
+      "The turbinates are without abnormality.",
+      "No obvious abnormalities to the lips.",
+      "The teeth are unremarkable.",
+      "The gingivae are without any obvious evidence of infection.",
+      "The oral mucosa is moist and pink.",
+      "There are no obvious masses to the hard or soft palate.",
+      "The uvula is midline.",
+      "The salivary glands appear unremarkable.",
+      "The tongue is midline.",
+      "The posterior pharynx is without erythema or exudate.",
+      "The tonsils are normal appearing."
+    ],
+    "sentence_count": 20,
+    "original_length": 936,
+    "cleaned_length": 917,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EARS, NOSE, MOUTH AND THROAT: , The nose is without any evidence of any deformity.  The ears are with normal-appearing pinna.  Examination of the canals is normal appearing bilaterally.  There is no drainage or erythema noted.  The tympanic membranes are normal appearing with pearly color, normal-appearing landmarks and normal light reflex.  Hearing is grossly intact to finger rubbing and whisper.  The nasal mucosa is moist.  The septum is midline.  There is no evidence of septal hematoma.  The turbinates are without abnormality.  No obvious abnormalities to the lips.  The teeth are unremarkable.  The gingivae are without any obvious evidence of infection.  The oral mucosa is moist and pink.  There are no obvious masses to the hard or soft palate.  The uvula is midline.  The salivary glands appear unremarkable.  The tongue is midline.  The posterior pharynx is without erythema or exudate.  The tonsils are normal appearing.",
+    "cleaned_text": "EARS, NOSE, MOUTH AND THROAT: , The nose is without any evidence of any deformity. The ears are with normal-appearing pinna. Examination of the canals is normal appearing bilaterally. There is no drainage or erythema noted. The tympanic membranes are normal appearing with pearly color, normal-appearing landmarks and normal light reflex. Hearing is grossly intact to finger rubbing and whisper. The nasal mucosa is moist. The septum is midline. There is no evidence of septal hematoma. The turbinates are without abnormality. No obvious abnormalities to the lips. The teeth are unremarkable. The gingivae are without any obvious evidence of infection. The oral mucosa is moist and pink. There are no obvious masses to the hard or soft palate. The uvula is midline. The salivary glands appear unremarkable. The tongue is midline. The posterior pharynx is without erythema or exudate. The tonsils are normal appearing.",
+    "sentences": [
+      "EARS, NOSE, MOUTH AND THROAT: , The nose is without any evidence of any deformity.",
+      "The ears are with normal-appearing pinna.",
+      "Examination of the canals is normal appearing bilaterally.",
+      "There is no drainage or erythema noted.",
+      "The tympanic membranes are normal appearing with pearly color, normal-appearing landmarks and normal light reflex.",
+      "Hearing is grossly intact to finger rubbing and whisper.",
+      "The nasal mucosa is moist.",
+      "The septum is midline.",
+      "There is no evidence of septal hematoma.",
+      "The turbinates are without abnormality.",
+      "No obvious abnormalities to the lips.",
+      "The teeth are unremarkable.",
+      "The gingivae are without any obvious evidence of infection.",
+      "The oral mucosa is moist and pink.",
+      "There are no obvious masses to the hard or soft palate.",
+      "The uvula is midline.",
+      "The salivary glands appear unremarkable.",
+      "The tongue is midline.",
+      "The posterior pharynx is without erythema or exudate.",
+      "The tonsils are normal appearing."
+    ],
+    "sentence_count": 20
+  }
+}

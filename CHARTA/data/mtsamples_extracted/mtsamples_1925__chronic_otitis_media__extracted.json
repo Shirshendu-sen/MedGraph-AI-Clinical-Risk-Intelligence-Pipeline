@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1925__chronic_otitis_media_.txt",
+    "file_name": "mtsamples_1925__chronic_otitis_media_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1528,
+    "processed_at": "2026-05-09T09:53:53.166695"
+  },
+  "entities": [
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 32,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 144,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronic nasal congestion",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 49,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic nasal congestion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 151,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inferior turbinate hypertrophy",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 45,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inferior turbinate hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "purulence",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 22,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "purulence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thyromegaly",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 37,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyromegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "murmurs",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "murmurs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "eustachian tube dysfunction",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 72,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "eustachian tube dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 88,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 108,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 132,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

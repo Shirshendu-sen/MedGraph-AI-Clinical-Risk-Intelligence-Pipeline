@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2167__knee_replacement_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0728963": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2167__knee_replacement__graph.pt",
+  "source_dataset": "mtsamples_2167__knee_replacement"
+}

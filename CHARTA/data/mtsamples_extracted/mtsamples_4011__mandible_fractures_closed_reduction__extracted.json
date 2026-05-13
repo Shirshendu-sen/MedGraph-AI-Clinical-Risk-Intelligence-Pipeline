@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4011__mandible_fractures_closed_reduction_.txt",
+    "file_name": "mtsamples_4011__mandible_fractures_closed_reduction_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1513,
+    "processed_at": "2026-05-09T09:54:31.899099"
+  },
+  "entities": [
+    {
+      "text": "mandible fracture",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 97,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mandible fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mandible fractures",
+      "label": "DISEASE",
+      "start_char": 289,
+      "end_char": 307,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mandible fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 12,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NG",
+      "label": "CHEMICAL",
+      "start_char": 3,
+      "end_char": 5,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

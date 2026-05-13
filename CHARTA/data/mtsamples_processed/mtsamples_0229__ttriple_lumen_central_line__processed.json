@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0229__ttriple_lumen_central_line_.txt",
+    "file_name": "mtsamples_0229__ttriple_lumen_central_line_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1151,
+    "processed_at": "2026-05-09T09:53:09.793637"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0229__ttriple_lumen_central_line_.txt",
+    "text": "PREOPERATIVE DIAGNOSES,1.  Bowel obstruction.,2.  Central line fell off.,POSTOPERATIVE DIAGNOSES,1.  Bowel obstruction.,2.  Central line fell off.,PROCEDURE: , Insertion of a triple-lumen central line through the right subclavian vein by the percutaneous technique.,PROCEDURE DETAIL: , This lady has a bowel obstruction.  She was being fed through a central line, which as per the patient was just put yesterday and this slipped out.  At the patient's bedside after obtaining an informed consent, the patient's right deltopectoral area was prepped and draped in the usual fashion.  Xylocaine 1% was infiltrated and with the patient in Trendelenburg position, she had her right subclavian vein percutaneously cannulated without any difficulty.  A Seldinger technique was used and a triple-lumen catheter was inserted.  There was a good flow through all three ports, which were irrigated with saline prior to connection to the IV solutions.,The catheter was affixed to the skin with sutures and then a dressing was applied.,The postprocedure chest x-ray revealed that there were no complications to the procedure and that the catheter was in good place.",
+    "char_count": 1151,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSES,1. Bowel obstruction.,2. Central line fell off.,POSTOPERATIVE DIAGNOSES,1. Bowel obstruction.,2. Central line fell off.,PROCEDURE: , Insertion of a triple-lumen central line through the right subclavian vein by the percutaneous technique.,PROCEDURE DETAIL: , This lady has a bowel obstruction. She was being fed through a central line, which as per the patient was just put yesterday and this slipped out. At the patient's bedside after obtaining an informed consent, the patient's right deltopectoral area was prepped and draped in the usual fashion. Xylocaine 1% was infiltrated and with the patient in Trendelenburg position, she had her right subclavian vein percutaneously cannulated without any difficulty. A Seldinger technique was used and a triple-lumen catheter was inserted. There was a good flow through all three ports, which were irrigated with saline prior to connection to the IV solutions.,The catheter was affixed to the skin with sutures and then a dressing was applied.,The postprocedure chest x-ray revealed that there were no complications to the procedure and that the catheter was in good place.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES,1.",
+      "Bowel obstruction.,2.",
+      "Central line fell off.,POSTOPERATIVE DIAGNOSES,1.",
+      "Bowel obstruction.,2.",
+      "Central line fell off.,PROCEDURE: , Insertion of a triple-lumen central line through the right subclavian vein by the percutaneous technique.,PROCEDURE DETAIL: , This lady has a bowel obstruction.",
+      "She was being fed through a central line, which as per the patient was just put yesterday and this slipped out.",
+      "At the patient's bedside after obtaining an informed consent, the patient's right deltopectoral area was prepped and draped in the usual fashion.",
+      "Xylocaine 1% was infiltrated and with the patient in Trendelenburg position, she had her right subclavian vein percutaneously cannulated without any difficulty.",
+      "A Seldinger technique was used and a triple-lumen catheter was inserted.",
+      "There was a good flow through all three ports, which were irrigated with saline prior to connection to the IV solutions.,The catheter was affixed to the skin with sutures and then a dressing was applied.,The postprocedure chest x-ray revealed that there were no complications to the procedure and that the catheter was in good place."
+    ],
+    "sentence_count": 10,
+    "original_length": 1151,
+    "cleaned_length": 1142,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSES,1.  Bowel obstruction.,2.  Central line fell off.,POSTOPERATIVE DIAGNOSES,1.  Bowel obstruction.,2.  Central line fell off.,PROCEDURE: , Insertion of a triple-lumen central line through the right subclavian vein by the percutaneous technique.,PROCEDURE DETAIL: , This lady has a bowel obstruction.  She was being fed through a central line, which as per the patient was just put yesterday and this slipped out.  At the patient's bedside after obtaining an informed consent, the patient's right deltopectoral area was prepped and draped in the usual fashion.  Xylocaine 1% was infiltrated and with the patient in Trendelenburg position, she had her right subclavian vein percutaneously cannulated without any difficulty.  A Seldinger technique was used and a triple-lumen catheter was inserted.  There was a good flow through all three ports, which were irrigated with saline prior to connection to the IV solutions.,The catheter was affixed to the skin with sutures and then a dressing was applied.,The postprocedure chest x-ray revealed that there were no complications to the procedure and that the catheter was in good place.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSES,1. Bowel obstruction.,2. Central line fell off.,POSTOPERATIVE DIAGNOSES,1. Bowel obstruction.,2. Central line fell off.,PROCEDURE: , Insertion of a triple-lumen central line through the right subclavian vein by the percutaneous technique.,PROCEDURE DETAIL: , This lady has a bowel obstruction. She was being fed through a central line, which as per the patient was just put yesterday and this slipped out. At the patient's bedside after obtaining an informed consent, the patient's right deltopectoral area was prepped and draped in the usual fashion. Xylocaine 1% was infiltrated and with the patient in Trendelenburg position, she had her right subclavian vein percutaneously cannulated without any difficulty. A Seldinger technique was used and a triple-lumen catheter was inserted. There was a good flow through all three ports, which were irrigated with saline prior to connection to the IV solutions.,The catheter was affixed to the skin with sutures and then a dressing was applied.,The postprocedure chest x-ray revealed that there were no complications to the procedure and that the catheter was in good place.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES,1.",
+      "Bowel obstruction.,2.",
+      "Central line fell off.,POSTOPERATIVE DIAGNOSES,1.",
+      "Bowel obstruction.,2.",
+      "Central line fell off.,PROCEDURE: , Insertion of a triple-lumen central line through the right subclavian vein by the percutaneous technique.,PROCEDURE DETAIL: , This lady has a bowel obstruction.",
+      "She was being fed through a central line, which as per the patient was just put yesterday and this slipped out.",
+      "At the patient's bedside after obtaining an informed consent, the patient's right deltopectoral area was prepped and draped in the usual fashion.",
+      "Xylocaine 1% was infiltrated and with the patient in Trendelenburg position, she had her right subclavian vein percutaneously cannulated without any difficulty.",
+      "A Seldinger technique was used and a triple-lumen catheter was inserted.",
+      "There was a good flow through all three ports, which were irrigated with saline prior to connection to the IV solutions.,The catheter was affixed to the skin with sutures and then a dressing was applied.,The postprocedure chest x-ray revealed that there were no complications to the procedure and that the catheter was in good place."
+    ],
+    "sentence_count": 10
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1897__normal_child_exam_template_.txt",
+    "file_name": "mtsamples_1897__normal_child_exam_template_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 909,
+    "processed_at": "2026-05-09T09:53:52.660961"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1897__normal_child_exam_template_.txt",
+    "text": "CHILD PHYSICAL EXAMINATION,VITAL SIGNS:  Birth weight is ** grams, length **, occipitofrontal circumference **.  Character of cry was lusty.,GENERAL APPEARANCE:  Well.,BREATHING:  Unlabored.,SKIN:  Clear.  No cyanosis, pallor, or icterus.  Subcutaneous tissue is ample.,HEAD:  Normal.  Fontanelles are soft and flat.  Sutures are opposed.,EYES:  Normal with red reflex x2.,EARS:  Patent.  Normal pinnae, canals, TMs.,NOSE:  Patent nares.,MOUTH:  No cleft.,THROAT:  Clear.,NECK:  No masses.,CHEST:  Normal clavicles.,LUNGS:  Clear bilaterally.,HEART:  Regular rate and rhythm without murmur.,ABDOMEN:  Soft, flat.  No hepatosplenomegaly.  The cord is three vessel.,GENITALIA:  Normal ** genitalia **with testes descended bilaterally.,ANUS:  Patent.,SPINE:  Straight and without deformity.,EXTREMITIES:  Equal movements.,MUSCLE TONE:  Good.,REFLEXES:  Moro, grasp, and suck are normal.,HIPS:  No click or clunk.",
+    "char_count": 909,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "CHILD PHYSICAL EXAMINATION,VITAL SIGNS: Birth weight is ** grams, length **, occipitofrontal circumference **. Character of cry was lusty.,GENERAL APPEARANCE: Well.,BREATHING: Unlabored.,SKIN: Clear. No cyanosis, pallor, or icterus. Subcutaneous tissue is ample.,HEAD: Normal. Fontanelles are soft and flat. Sutures are opposed.,EYES: Normal with red reflex x2.,EARS: Patent. Normal pinnae, canals, TMs.,NOSE: Patent nares.,MOUTH: No cleft.,THROAT: Clear.,NECK: No masses.,CHEST: Normal clavicles.,LUNGS: Clear bilaterally.,HEART: Regular rate and rhythm without murmur.,ABDOMEN: Soft, flat. No hepatosplenomegaly. The cord is three vessel.,GENITALIA: Normal ** genitalia **with testes descended bilaterally.,ANUS: Patent.,SPINE: Straight and without deformity.,EXTREMITIES: Equal movements.,MUSCLE TONE: Good.,REFLEXES: Moro, grasp, and suck are normal.,HIPS: No click or clunk.",
+    "sentences": [
+      "CHILD PHYSICAL EXAMINATION,VITAL SIGNS: Birth weight is ** grams, length **, occipitofrontal circumference **.",
+      "Character of cry was lusty.,GENERAL APPEARANCE: Well.,BREATHING: Unlabored.,SKIN: Clear.",
+      "No cyanosis, pallor, or icterus.",
+      "Subcutaneous tissue is ample.,HEAD: Normal.",
+      "Fontanelles are soft and flat.",
+      "Sutures are opposed.,EYES: Normal with red reflex x2.,EARS: Patent.",
+      "Normal pinnae, canals, TMs.,NOSE: Patent nares.,MOUTH: No cleft.,THROAT: Clear.,NECK: No masses.,CHEST: Normal clavicles.,LUNGS: Clear bilaterally.,HEART: Regular rate and rhythm without murmur.,ABDOMEN: Soft, flat.",
+      "No hepatosplenomegaly.",
+      "The cord is three vessel.,GENITALIA: Normal ** genitalia **with testes descended bilaterally.,ANUS: Patent.,SPINE: Straight and without deformity.,EXTREMITIES: Equal movements.,MUSCLE TONE: Good.,REFLEXES: Moro, grasp, and suck are normal.,HIPS: No click or clunk."
+    ],
+    "sentence_count": 9,
+    "original_length": 909,
+    "cleaned_length": 879,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "CHILD PHYSICAL EXAMINATION,VITAL SIGNS:  Birth weight is ** grams, length **, occipitofrontal circumference **.  Character of cry was lusty.,GENERAL APPEARANCE:  Well.,BREATHING:  Unlabored.,SKIN:  Clear.  No cyanosis, pallor, or icterus.  Subcutaneous tissue is ample.,HEAD:  Normal.  Fontanelles are soft and flat.  Sutures are opposed.,EYES:  Normal with red reflex x2.,EARS:  Patent.  Normal pinnae, canals, TMs.,NOSE:  Patent nares.,MOUTH:  No cleft.,THROAT:  Clear.,NECK:  No masses.,CHEST:  Normal clavicles.,LUNGS:  Clear bilaterally.,HEART:  Regular rate and rhythm without murmur.,ABDOMEN:  Soft, flat.  No hepatosplenomegaly.  The cord is three vessel.,GENITALIA:  Normal ** genitalia **with testes descended bilaterally.,ANUS:  Patent.,SPINE:  Straight and without deformity.,EXTREMITIES:  Equal movements.,MUSCLE TONE:  Good.,REFLEXES:  Moro, grasp, and suck are normal.,HIPS:  No click or clunk.",
+    "cleaned_text": "CHILD PHYSICAL EXAMINATION,VITAL SIGNS: Birth weight is ** grams, length **, occipitofrontal circumference **. Character of cry was lusty.,GENERAL APPEARANCE: Well.,BREATHING: Unlabored.,SKIN: Clear. No cyanosis, pallor, or icterus. Subcutaneous tissue is ample.,HEAD: Normal. Fontanelles are soft and flat. Sutures are opposed.,EYES: Normal with red reflex x2.,EARS: Patent. Normal pinnae, canals, TMs.,NOSE: Patent nares.,MOUTH: No cleft.,THROAT: Clear.,NECK: No masses.,CHEST: Normal clavicles.,LUNGS: Clear bilaterally.,HEART: Regular rate and rhythm without murmur.,ABDOMEN: Soft, flat. No hepatosplenomegaly. The cord is three vessel.,GENITALIA: Normal ** genitalia **with testes descended bilaterally.,ANUS: Patent.,SPINE: Straight and without deformity.,EXTREMITIES: Equal movements.,MUSCLE TONE: Good.,REFLEXES: Moro, grasp, and suck are normal.,HIPS: No click or clunk.",
+    "sentences": [
+      "CHILD PHYSICAL EXAMINATION,VITAL SIGNS: Birth weight is ** grams, length **, occipitofrontal circumference **.",
+      "Character of cry was lusty.,GENERAL APPEARANCE: Well.,BREATHING: Unlabored.,SKIN: Clear.",
+      "No cyanosis, pallor, or icterus.",
+      "Subcutaneous tissue is ample.,HEAD: Normal.",
+      "Fontanelles are soft and flat.",
+      "Sutures are opposed.,EYES: Normal with red reflex x2.,EARS: Patent.",
+      "Normal pinnae, canals, TMs.,NOSE: Patent nares.,MOUTH: No cleft.,THROAT: Clear.,NECK: No masses.,CHEST: Normal clavicles.,LUNGS: Clear bilaterally.,HEART: Regular rate and rhythm without murmur.,ABDOMEN: Soft, flat.",
+      "No hepatosplenomegaly.",
+      "The cord is three vessel.,GENITALIA: Normal ** genitalia **with testes descended bilaterally.,ANUS: Patent.,SPINE: Straight and without deformity.,EXTREMITIES: Equal movements.,MUSCLE TONE: Good.,REFLEXES: Moro, grasp, and suck are normal.,HIPS: No click or clunk."
+    ],
+    "sentence_count": 9
+  }
+}

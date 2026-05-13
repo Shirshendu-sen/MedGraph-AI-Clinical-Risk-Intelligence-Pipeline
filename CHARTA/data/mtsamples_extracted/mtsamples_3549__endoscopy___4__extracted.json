@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3549__endoscopy___4_.txt",
+    "file_name": "mtsamples_3549__endoscopy___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1439,
+    "processed_at": "2026-05-09T09:54:23.513366"
+  },
+  "entities": [
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 76,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 112,
+      "end_char": 120,
+      "sentence_idx": 0,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "neoplasm",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 39,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neoplasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 93,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophagus",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 20,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophagus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "normal-appearing gastroesophageal sphincter",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 87,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normal-appearing gastroesophageal sphincter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophagitis",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 106,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophagitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Abdominal pain",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 78,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gastroesophageal reflux disease",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 61,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gastroesophageal reflux disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Spencer",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Spencer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

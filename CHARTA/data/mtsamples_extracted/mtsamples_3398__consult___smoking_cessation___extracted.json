@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3398__consult___smoking_cessation__.txt",
+    "file_name": "mtsamples_3398__consult___smoking_cessation__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1800,
+    "processed_at": "2026-05-09T09:54:21.093846"
+  },
+  "entities": [
+    {
+      "text": "Xanax",
+      "label": "CHEMICAL",
+      "start_char": 129,
+      "end_char": 134,
+      "sentence_idx": 0,
+      "concept_id": "C0699034",
+      "concept_name": "Xanax",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874747395515442,
+      "timestamp": null
+    },
+    {
+      "text": "mesothelioma",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 36,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mesothelioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronic pain",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 150,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cancer",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 49,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Chantix",
+      "label": "CHEMICAL",
+      "start_char": 143,
+      "end_char": 150,
+      "sentence_idx": 4,
+      "concept_id": "C1712042",
+      "concept_name": "Chantix",
+      "kb_source": "rxnorm",
+      "link_score": 0.9625076055526733,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 13,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 13,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rashes",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 9,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rashes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Chantix",
+      "label": "CHEMICAL",
+      "start_char": 17,
+      "end_char": 24,
+      "sentence_idx": 20,
+      "concept_id": "C1712042",
+      "concept_name": "Chantix",
+      "kb_source": "rxnorm",
+      "link_score": 0.9625076055526733,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

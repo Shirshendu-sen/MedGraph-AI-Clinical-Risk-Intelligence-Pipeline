@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_4409__ear_pain___pediatric_consult_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 63,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0002645": 2,
+    "C0004749": 3,
+    "C0030827": 4,
+    "C0028978": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4409__ear_pain___pediatric_consult__graph.pt",
+  "source_dataset": "mtsamples_4409__ear_pain___pediatric_consult"
+}

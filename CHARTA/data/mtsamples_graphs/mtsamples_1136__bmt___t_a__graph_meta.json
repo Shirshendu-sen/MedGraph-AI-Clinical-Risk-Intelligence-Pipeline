@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1136__bmt___t_a_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 20,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699173": 1,
+    "C0014563": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1136__bmt___t_a__graph.pt",
+  "source_dataset": "mtsamples_1136__bmt___t_a"
+}

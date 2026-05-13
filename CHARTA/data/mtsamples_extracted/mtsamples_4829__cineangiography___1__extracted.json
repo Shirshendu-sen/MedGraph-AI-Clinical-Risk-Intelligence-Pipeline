@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4829__cineangiography___1_.txt",
+    "file_name": "mtsamples_4829__cineangiography___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3786,
+    "processed_at": "2026-05-09T09:54:45.362118"
+  },
+  "entities": [
+    {
+      "text": "ST-elevation myocardial",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 52,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ST-elevation myocardial",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right groin",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right groin",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left circumflex stenosis",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 110,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left circumflex stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 79,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 63,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 47,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "perforation",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 84,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PDA",
+      "label": "CHEMICAL",
+      "start_char": 85,
+      "end_char": 88,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PDA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PLV",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 112,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PLV",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 34,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mitral regurgitation",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 35,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ST-elevation myocardial infarction",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 106,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ST-elevation myocardial infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 126,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 39,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 56,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

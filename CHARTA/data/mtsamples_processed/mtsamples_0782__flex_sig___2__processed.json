@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0782__flex_sig___2_.txt",
+    "file_name": "mtsamples_0782__flex_sig___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 487,
+    "processed_at": "2026-05-09T09:53:25.662589"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0782__flex_sig___2_.txt",
+    "text": "PROCEDURE IN DETAIL: , Following a barium enema prep and lidocaine ointment to the rectal vault, perirectal inspection and rectal exam were normal.  The Olympus video colonoscope then introduced into the rectum and passed by directed vision to the distal descending colon.  Withdrawal notes an otherwise normal descending, rectosigmoid and rectum.  Retroflexion noted no abnormality of the internal ring.  No hemorrhoids were noted.  Withdrawal from the patient terminated the procedure.",
+    "char_count": 487,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE IN DETAIL: , Following a barium enema prep and lidocaine ointment to the rectal vault, perirectal inspection and rectal exam were normal. The Olympus video colonoscope then introduced into the rectum and passed by directed vision to the distal descending colon. Withdrawal notes an otherwise normal descending, rectosigmoid and rectum. Retroflexion noted no abnormality of the internal ring. No hemorrhoids were noted. Withdrawal from the patient terminated the procedure.",
+    "sentences": [
+      "PROCEDURE IN DETAIL: , Following a barium enema prep and lidocaine ointment to the rectal vault, perirectal inspection and rectal exam were normal.",
+      "The Olympus video colonoscope then introduced into the rectum and passed by directed vision to the distal descending colon.",
+      "Withdrawal notes an otherwise normal descending, rectosigmoid and rectum.",
+      "Retroflexion noted no abnormality of the internal ring.",
+      "No hemorrhoids were noted.",
+      "Withdrawal from the patient terminated the procedure."
+    ],
+    "sentence_count": 6,
+    "original_length": 487,
+    "cleaned_length": 482,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE IN DETAIL: , Following a barium enema prep and lidocaine ointment to the rectal vault, perirectal inspection and rectal exam were normal.  The Olympus video colonoscope then introduced into the rectum and passed by directed vision to the distal descending colon.  Withdrawal notes an otherwise normal descending, rectosigmoid and rectum.  Retroflexion noted no abnormality of the internal ring.  No hemorrhoids were noted.  Withdrawal from the patient terminated the procedure.",
+    "cleaned_text": "PROCEDURE IN DETAIL: , Following a barium enema prep and lidocaine ointment to the rectal vault, perirectal inspection and rectal exam were normal. The Olympus video colonoscope then introduced into the rectum and passed by directed vision to the distal descending colon. Withdrawal notes an otherwise normal descending, rectosigmoid and rectum. Retroflexion noted no abnormality of the internal ring. No hemorrhoids were noted. Withdrawal from the patient terminated the procedure.",
+    "sentences": [
+      "PROCEDURE IN DETAIL: , Following a barium enema prep and lidocaine ointment to the rectal vault, perirectal inspection and rectal exam were normal.",
+      "The Olympus video colonoscope then introduced into the rectum and passed by directed vision to the distal descending colon.",
+      "Withdrawal notes an otherwise normal descending, rectosigmoid and rectum.",
+      "Retroflexion noted no abnormality of the internal ring.",
+      "No hemorrhoids were noted.",
+      "Withdrawal from the patient terminated the procedure."
+    ],
+    "sentence_count": 6
+  }
+}

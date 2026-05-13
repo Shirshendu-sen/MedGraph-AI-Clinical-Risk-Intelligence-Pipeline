@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3968__carbohydrate_counting_.txt",
+    "file_name": "mtsamples_3968__carbohydrate_counting_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2895,
+    "processed_at": "2026-05-09T09:54:30.934066"
+  },
+  "entities": [
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 122,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "DKA",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 70,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DKA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbohydrate",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 23,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carbohydrate",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbohydrate",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 28,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carbohydrate",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "insulin",
+      "label": "CHEMICAL",
+      "start_char": 143,
+      "end_char": 150,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "insulin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbohydrate",
+      "label": "CHEMICAL",
+      "start_char": 80,
+      "end_char": 92,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carbohydrate",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbohydrate",
+      "label": "CHEMICAL",
+      "start_char": 133,
+      "end_char": 145,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carbohydrate",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbohydrate",
+      "label": "CHEMICAL",
+      "start_char": 184,
+      "end_char": 196,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carbohydrate",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "insulin",
+      "label": "CHEMICAL",
+      "start_char": 118,
+      "end_char": 125,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "insulin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

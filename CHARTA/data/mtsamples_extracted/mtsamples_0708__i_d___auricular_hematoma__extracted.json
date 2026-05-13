@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0708__i_d___auricular_hematoma_.txt",
+    "file_name": "mtsamples_0708__i_d___auricular_hematoma_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1633,
+    "processed_at": "2026-05-09T09:53:22.861045"
+  },
+  "entities": [
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 271,
+      "end_char": 280,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-05-28"
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 311,
+      "end_char": 322,
+      "sentence_idx": 0,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": "2008-05-28"
+    },
+    {
+      "text": "serosanguineous",
+      "label": "DISEASE",
+      "start_char": 394,
+      "end_char": 409,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "serosanguineous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-28"
+    },
+    {
+      "text": "auricular hematoma",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 56,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "auricular hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-28"
+    },
+    {
+      "text": "auricular deformity",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 93,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "auricular deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-28"
+    },
+    {
+      "text": "serosanguineous",
+      "label": "DISEASE",
+      "start_char": 391,
+      "end_char": 406,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "serosanguineous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-05-28"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "05/28/2008",
+      "start_char": 520,
+      "end_char": 530
+    },
+    {
+      "raw_text": "05/23/2008",
+      "start_char": 558,
+      "end_char": 568
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4591__transesophageal_echocardiogram___4_.txt",
+    "file_name": "mtsamples_4591__transesophageal_echocardiogram___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1160,
+    "processed_at": "2026-05-09T09:54:41.855831"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4591__transesophageal_echocardiogram___4_.txt",
+    "text": "PROCEDURE NOTE:,  The patient was brought to the transesophageal echo laboratory after informed consent was obtained.  The patient was seen by Anesthesia for MAC anesthesia.  The patient's posterior pharynx was anesthetized with local Cetacaine spray.  The transesophageal probe was introduced into the posterior pharynx and esophagus without difficulty.,FINDINGS: ,1.  Left ventricle is normal in size and function; ejection fraction approximately 60%.,2.  Right ventricle is normal in size and function.,3.  Left atrium and right atrium are normal in size.,4.  Mitral valve, aortic valve, tricuspid valve, and pulmonic valve with no evidence of vegetation.  Aortic valve is only minimally thickened.,5.  Mild mitral regurgitation and mild tricuspid regurgitation.,6.  No left ventricular thrombus.,7.  No pericardial effusion.,8.  There is evidence of patent foramen ovale by contrast study.,The patient tolerated the procedure well and is sent to recovery in stable condition.  He should be n.p.o. x4 hours, then liquid, then increase as tolerated.  Once his infection is cleared, he should follow up with us with regard to followup of patent foramen ovale.",
+    "char_count": 1160,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE NOTE:, The patient was brought to the transesophageal echo laboratory after informed consent was obtained. The patient was seen by Anesthesia for MAC anesthesia. The patient's posterior pharynx was anesthetized with local Cetacaine spray. The transesophageal probe was introduced into the posterior pharynx and esophagus without difficulty.,FINDINGS: ,1. Left ventricle is normal in size and function; ejection fraction approximately 60%.,2. Right ventricle is normal in size and function.,3. Left atrium and right atrium are normal in size.,4. Mitral valve, aortic valve, tricuspid valve, and pulmonic valve with no evidence of vegetation. Aortic valve is only minimally thickened.,5. Mild mitral regurgitation and mild tricuspid regurgitation.,6. No left ventricular thrombus.,7. No pericardial effusion.,8. There is evidence of patent foramen ovale by contrast study.,The patient tolerated the procedure well and is sent to recovery in stable condition. He should be n.p.o. x4 hours, then liquid, then increase as tolerated. Once his infection is cleared, he should follow up with us with regard to followup of patent foramen ovale.",
+    "sentences": [
+      "PROCEDURE NOTE:, The patient was brought to the transesophageal echo laboratory after informed consent was obtained.",
+      "The patient was seen by Anesthesia for MAC anesthesia.",
+      "The patient's posterior pharynx was anesthetized with local Cetacaine spray.",
+      "The transesophageal probe was introduced into the posterior pharynx and esophagus without difficulty.,FINDINGS: ,1.",
+      "Left ventricle is normal in size and function; ejection fraction approximately 60%.,2.",
+      "Right ventricle is normal in size and function.,3.",
+      "Left atrium and right atrium are normal in size.,4.",
+      "Mitral valve, aortic valve, tricuspid valve, and pulmonic valve with no evidence of vegetation.",
+      "Aortic valve is only minimally thickened.,5.",
+      "Mild mitral regurgitation and mild tricuspid regurgitation.,6.",
+      "No left ventricular thrombus.,7.",
+      "No pericardial effusion.,8.",
+      "There is evidence of patent foramen ovale by contrast study.,The patient tolerated the procedure well and is sent to recovery in stable condition.",
+      "He should be n.p.o. x4 hours, then liquid, then increase as tolerated.",
+      "Once his infection is cleared, he should follow up with us with regard to followup of patent foramen ovale."
+    ],
+    "sentence_count": 15,
+    "original_length": 1160,
+    "cleaned_length": 1145,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE NOTE:,  The patient was brought to the transesophageal echo laboratory after informed consent was obtained.  The patient was seen by Anesthesia for MAC anesthesia.  The patient's posterior pharynx was anesthetized with local Cetacaine spray.  The transesophageal probe was introduced into the posterior pharynx and esophagus without difficulty.,FINDINGS: ,1.  Left ventricle is normal in size and function; ejection fraction approximately 60%.,2.  Right ventricle is normal in size and function.,3.  Left atrium and right atrium are normal in size.,4.  Mitral valve, aortic valve, tricuspid valve, and pulmonic valve with no evidence of vegetation.  Aortic valve is only minimally thickened.,5.  Mild mitral regurgitation and mild tricuspid regurgitation.,6.  No left ventricular thrombus.,7.  No pericardial effusion.,8.  There is evidence of patent foramen ovale by contrast study.,The patient tolerated the procedure well and is sent to recovery in stable condition.  He should be n.p.o. x4 hours, then liquid, then increase as tolerated.  Once his infection is cleared, he should follow up with us with regard to followup of patent foramen ovale.",
+    "cleaned_text": "PROCEDURE NOTE:, The patient was brought to the transesophageal echo laboratory after informed consent was obtained. The patient was seen by Anesthesia for MAC anesthesia. The patient's posterior pharynx was anesthetized with local Cetacaine spray. The transesophageal probe was introduced into the posterior pharynx and esophagus without difficulty.,FINDINGS: ,1. Left ventricle is normal in size and function; ejection fraction approximately 60%.,2. Right ventricle is normal in size and function.,3. Left atrium and right atrium are normal in size.,4. Mitral valve, aortic valve, tricuspid valve, and pulmonic valve with no evidence of vegetation. Aortic valve is only minimally thickened.,5. Mild mitral regurgitation and mild tricuspid regurgitation.,6. No left ventricular thrombus.,7. No pericardial effusion.,8. There is evidence of patent foramen ovale by contrast study.,The patient tolerated the procedure well and is sent to recovery in stable condition. He should be n.p.o. x4 hours, then liquid, then increase as tolerated. Once his infection is cleared, he should follow up with us with regard to followup of patent foramen ovale.",
+    "sentences": [
+      "PROCEDURE NOTE:, The patient was brought to the transesophageal echo laboratory after informed consent was obtained.",
+      "The patient was seen by Anesthesia for MAC anesthesia.",
+      "The patient's posterior pharynx was anesthetized with local Cetacaine spray.",
+      "The transesophageal probe was introduced into the posterior pharynx and esophagus without difficulty.,FINDINGS: ,1.",
+      "Left ventricle is normal in size and function; ejection fraction approximately 60%.,2.",
+      "Right ventricle is normal in size and function.,3.",
+      "Left atrium and right atrium are normal in size.,4.",
+      "Mitral valve, aortic valve, tricuspid valve, and pulmonic valve with no evidence of vegetation.",
+      "Aortic valve is only minimally thickened.,5.",
+      "Mild mitral regurgitation and mild tricuspid regurgitation.,6.",
+      "No left ventricular thrombus.,7.",
+      "No pericardial effusion.,8.",
+      "There is evidence of patent foramen ovale by contrast study.,The patient tolerated the procedure well and is sent to recovery in stable condition.",
+      "He should be n.p.o. x4 hours, then liquid, then increase as tolerated.",
+      "Once his infection is cleared, he should follow up with us with regard to followup of patent foramen ovale."
+    ],
+    "sentence_count": 15
+  }
+}

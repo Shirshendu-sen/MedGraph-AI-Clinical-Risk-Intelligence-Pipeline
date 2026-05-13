@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2580__hysterectomy___laparoscopic_supracervical_.txt",
+    "file_name": "mtsamples_2580__hysterectomy___laparoscopic_supracervical_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4929,
+    "processed_at": "2026-05-09T09:54:04.534669"
+  },
+  "entities": [
+    {
+      "text": "Menorrhagia",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 36,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Menorrhagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Menorrhagia",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 93,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Menorrhagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "amputation",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 52,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "amputation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right ovarian cyst",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 22,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ovarian cyst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "silver nitrate",
+      "label": "CHEMICAL",
+      "start_char": 70,
+      "end_char": 84,
+      "sentence_idx": 43,
+      "concept_id": "C0037129",
+      "concept_name": "silver nitrate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9516787528991699,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

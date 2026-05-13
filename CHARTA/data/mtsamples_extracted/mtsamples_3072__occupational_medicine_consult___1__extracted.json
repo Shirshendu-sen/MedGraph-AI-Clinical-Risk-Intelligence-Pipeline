@@ -1,0 +1,461 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3072__occupational_medicine_consult___1_.txt",
+    "file_name": "mtsamples_3072__occupational_medicine_consult___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5151,
+    "processed_at": "2026-05-09T09:54:14.146793"
+  },
+  "entities": [
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 248,
+      "end_char": 262,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 17,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "chondromalacia",
+      "label": "DISEASE",
+      "start_char": 167,
+      "end_char": 181,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "chondromalacia",
+      "label": "DISEASE",
+      "start_char": 327,
+      "end_char": 341,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-13"
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 130,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "subluxation",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 21,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "patellofemoral syndrome",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 29,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patellofemoral syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "left knee sprain",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 27,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left knee sprain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "patellar pain",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 45,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patellar pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "Aleve",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 54,
+      "sentence_idx": 10,
+      "concept_id": "C0718343",
+      "concept_name": "Aleve",
+      "kb_source": "rxnorm",
+      "link_score": 0.9846547842025757,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "chondromalacia",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 40,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 123,
+      "sentence_idx": 14,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 136,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 28,
+      "sentence_idx": 15,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "cortisone",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 37,
+      "sentence_idx": 16,
+      "concept_id": "C0010137",
+      "concept_name": "cortisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9763526916503906,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 46,
+      "sentence_idx": 17,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "hydrocodone",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 24,
+      "sentence_idx": 18,
+      "concept_id": "C0020264",
+      "concept_name": "HYDROcodone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9713261723518372,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 171,
+      "end_char": 178,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "industrial injury",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 115,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "industrial injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "chondromalacia",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 69,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "chondromalacia",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 137,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chondromalacia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 192,
+      "end_char": 206,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 77,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 120,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 435,
+      "end_char": 449,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-03-07"
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 538,
+      "end_char": 552,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-03-07"
+    },
+    {
+      "text": "compartment osteoarthritis of the left",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 124,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "compartment osteoarthritis of the left",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "injury or disability",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 106,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury or disability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 28,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-14"
+    },
+    {
+      "text": "osteoarthritis",
+      "label": "DISEASE",
+      "start_char": 431,
+      "end_char": 445,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteoarthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-03-07"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "September 14, 2007",
+      "start_char": 159,
+      "end_char": 177
+    },
+    {
+      "raw_text": "June 13, 2007",
+      "start_char": 336,
+      "end_char": 349
+    },
+    {
+      "raw_text": "March 7, 2007",
+      "start_char": 513,
+      "end_char": 526
+    },
+    {
+      "raw_text": "June 13, 2002",
+      "start_char": 680,
+      "end_char": 693
+    },
+    {
+      "raw_text": "August 2, 2002",
+      "start_char": 717,
+      "end_char": 731
+    },
+    {
+      "raw_text": "June 26, 2007",
+      "start_char": 976,
+      "end_char": 989
+    },
+    {
+      "raw_text": "June 19, 2007",
+      "start_char": 1063,
+      "end_char": 1076
+    },
+    {
+      "raw_text": "July 16, 2007",
+      "start_char": 1187,
+      "end_char": 1200
+    },
+    {
+      "raw_text": "December 5, 2002",
+      "start_char": 1695,
+      "end_char": 1711
+    },
+    {
+      "raw_text": "March 7, 2007",
+      "start_char": 1996,
+      "end_char": 2009
+    },
+    {
+      "raw_text": "August 2, 2002",
+      "start_char": 2876,
+      "end_char": 2890
+    },
+    {
+      "raw_text": "June 13, 2007",
+      "start_char": 3222,
+      "end_char": 3235
+    },
+    {
+      "raw_text": "July 16, 2007",
+      "start_char": 3911,
+      "end_char": 3924
+    },
+    {
+      "raw_text": "June 13, 2002",
+      "start_char": 4109,
+      "end_char": 4122
+    },
+    {
+      "raw_text": "July 27, 2007",
+      "start_char": 4978,
+      "end_char": 4991
+    }
+  ]
+}

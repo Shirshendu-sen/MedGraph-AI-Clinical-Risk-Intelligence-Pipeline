@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_3407__chronic_medical_conditions___followup_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 62,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0699142": 2,
+    "C0004057": 3,
+    "C0065374": 4,
+    "C0678181": 5,
+    "C0876139": 6,
+    "C0008377": 7,
+    "C0017725": 8,
+    "C0723893": 9,
+    "C0033228": 10,
+    "C0701009": 11
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3407__chronic_medical_conditions___followup__graph.pt",
+  "source_dataset": "mtsamples_3407__chronic_medical_conditions___followup"
+}

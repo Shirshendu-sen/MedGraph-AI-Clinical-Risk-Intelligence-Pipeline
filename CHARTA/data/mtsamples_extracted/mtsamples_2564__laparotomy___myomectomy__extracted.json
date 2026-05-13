@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2564__laparotomy___myomectomy_.txt",
+    "file_name": "mtsamples_2564__laparotomy___myomectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4329,
+    "processed_at": "2026-05-09T09:54:04.365269"
+  },
+  "entities": [
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 16,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 16,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "procedure.,FLUIDS",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 143,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "procedure.,FLUIDS",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anteverted",
+      "label": "DISEASE",
+      "start_char": 391,
+      "end_char": 401,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anteverted",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fundal/anterior fibroids",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 92,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fundal/anterior fibroids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroids",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 160,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 18,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vasopressin",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 37,
+      "sentence_idx": 20,
+      "concept_id": "C1705480",
+      "concept_name": "vasopressin (USP)",
+      "kb_source": "rxnorm",
+      "link_score": 0.7574823498725891,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 11,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 46,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 17,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 141,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroids",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 39,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

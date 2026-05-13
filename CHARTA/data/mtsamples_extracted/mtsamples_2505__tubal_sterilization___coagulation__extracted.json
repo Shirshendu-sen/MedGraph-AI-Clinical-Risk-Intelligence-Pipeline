@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2505__tubal_sterilization___coagulation_.txt",
+    "file_name": "mtsamples_2505__tubal_sterilization___coagulation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1817,
+    "processed_at": "2026-05-09T09:54:03.383554"
+  },
+  "entities": [
+    {
+      "text": "carbon dioxide",
+      "label": "CHEMICAL",
+      "start_char": 9,
+      "end_char": 23,
+      "sentence_idx": 3,
+      "concept_id": "C0007012",
+      "concept_name": "carbon dioxide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9571364521980286,
+      "timestamp": null
+    },
+    {
+      "text": "endometriosis",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 60,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endometriosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adnexa",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 15,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adnexa",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 78,
+      "end_char": 86,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

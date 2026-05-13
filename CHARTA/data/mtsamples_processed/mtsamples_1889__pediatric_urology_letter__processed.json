@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1889__pediatric_urology_letter_.txt",
+    "file_name": "mtsamples_1889__pediatric_urology_letter_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1455,
+    "processed_at": "2026-05-09T09:53:52.504646"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1889__pediatric_urology_letter_.txt",
+    "text": "XYZ, M.D. ,Suite 123, ABC Avenue ,City, STATE 12345 ,RE:  XXXX, XXXX ,MR#:  0000000,Dear Dr. XYZ: ,XXXX was seen in followup in the Pediatric Urology Clinic.  I appreciate you speaking with me while he was in clinic.  He continues to have abdominal pain, and he had a diuretic renal scan, which indicates no evidence of obstruction and good differential function bilaterally. ,When I examined him, he seems to indicate that his pain is essentially in the lower abdomen in the suprapubic region; however, on actual physical examination, he seems to complain of pain through his entire right side.  His parents have brought up the question of whether this could be gastrointestinal in origin and that is certainly an appropriate consideration.  They also feel that since he has been on Detrol, his pain levels have been somewhat worse, and so, I have given them the option of stopping the Detrol initially.  I think he should stay on MiraLax for management of his bowels.  I would also suggest that he be referred to Pediatric Gastroenterology for evaluation.  If they do not find any abnormalities from a gastrointestinal perspective, then the next step would be to endoscope his bladder and then make sure that he does not have any evidence of bladder anatomic abnormalities that is leading to this pain. ,Thank you for following XXXX along with us in Pediatric Urology Clinic.  If you have any questions, please feel free to contact me. ,Sincerely yours,",
+    "char_count": 1455,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "XYZ, M.D. ,Suite 123, ABC Avenue ,City, STATE 12345 ,RE: XXXX, XXXX ,MR#: 0000000,Dear Dr. XYZ: ,XXXX was seen in followup in the Pediatric Urology Clinic. I appreciate you speaking with me while he was in clinic. He continues to have abdominal pain, and he had a diuretic renal scan, which indicates no evidence of obstruction and good differential function bilaterally. ,When I examined him, he seems to indicate that his pain is essentially in the lower abdomen in the suprapubic region; however, on actual physical examination, he seems to complain of pain through his entire right side. His parents have brought up the question of whether this could be gastrointestinal in origin and that is certainly an appropriate consideration. They also feel that since he has been on Detrol, his pain levels have been somewhat worse, and so, I have given them the option of stopping the Detrol initially. I think he should stay on MiraLax for management of his bowels. I would also suggest that he be referred to Pediatric Gastroenterology for evaluation. If they do not find any abnormalities from a gastrointestinal perspective, then the next step would be to endoscope his bladder and then make sure that he does not have any evidence of bladder anatomic abnormalities that is leading to this pain. ,Thank you for following XXXX along with us in Pediatric Urology Clinic. If you have any questions, please feel free to contact me. ,Sincerely yours,",
+    "sentences": [
+      "XYZ, M.D. ,Suite 123, ABC Avenue ,City, STATE 12345 ,RE: XXXX, XXXX ,MR#: 0000000,Dear Dr.",
+      "XYZ: ,XXXX was seen in followup in the Pediatric Urology Clinic.",
+      "I appreciate you speaking with me while he was in clinic.",
+      "He continues to have abdominal pain, and he had a diuretic renal scan, which indicates no evidence of obstruction and good differential function bilaterally. ,When I examined him, he seems to indicate that his pain is essentially in the lower abdomen in the suprapubic region; however, on actual physical examination, he seems to complain of pain through his entire right side.",
+      "His parents have brought up the question of whether this could be gastrointestinal in origin and that is certainly an appropriate consideration.",
+      "They also feel that since he has been on Detrol, his pain levels have been somewhat worse, and so, I have given them the option of stopping the Detrol initially.",
+      "I think he should stay on MiraLax for management of his bowels.",
+      "I would also suggest that he be referred to Pediatric Gastroenterology for evaluation.",
+      "If they do not find any abnormalities from a gastrointestinal perspective, then the next step would be to endoscope his bladder and then make sure that he does not have any evidence of bladder anatomic abnormalities that is leading to this pain. ,Thank you for following XXXX along with us in Pediatric Urology Clinic.",
+      "If you have any questions, please feel free to contact me. ,Sincerely yours,"
+    ],
+    "sentence_count": 10,
+    "original_length": 1455,
+    "cleaned_length": 1445,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "XYZ, M.D. ,Suite 123, ABC Avenue ,City, STATE 12345 ,RE:  XXXX, XXXX ,MR#:  0000000,Dear Dr. XYZ: ,XXXX was seen in followup in the Pediatric Urology Clinic.  I appreciate you speaking with me while he was in clinic.  He continues to have abdominal pain, and he had a diuretic renal scan, which indicates no evidence of obstruction and good differential function bilaterally. ,When I examined him, he seems to indicate that his pain is essentially in the lower abdomen in the suprapubic region; however, on actual physical examination, he seems to complain of pain through his entire right side.  His parents have brought up the question of whether this could be gastrointestinal in origin and that is certainly an appropriate consideration.  They also feel that since he has been on Detrol, his pain levels have been somewhat worse, and so, I have given them the option of stopping the Detrol initially.  I think he should stay on MiraLax for management of his bowels.  I would also suggest that he be referred to Pediatric Gastroenterology for evaluation.  If they do not find any abnormalities from a gastrointestinal perspective, then the next step would be to endoscope his bladder and then make sure that he does not have any evidence of bladder anatomic abnormalities that is leading to this pain. ,Thank you for following XXXX along with us in Pediatric Urology Clinic.  If you have any questions, please feel free to contact me. ,Sincerely yours,",
+    "cleaned_text": "XYZ, M.D. ,Suite 123, ABC Avenue ,City, STATE 12345 ,RE: XXXX, XXXX ,MR#: 0000000,Dear Dr. XYZ: ,XXXX was seen in followup in the Pediatric Urology Clinic. I appreciate you speaking with me while he was in clinic. He continues to have abdominal pain, and he had a diuretic renal scan, which indicates no evidence of obstruction and good differential function bilaterally. ,When I examined him, he seems to indicate that his pain is essentially in the lower abdomen in the suprapubic region; however, on actual physical examination, he seems to complain of pain through his entire right side. His parents have brought up the question of whether this could be gastrointestinal in origin and that is certainly an appropriate consideration. They also feel that since he has been on Detrol, his pain levels have been somewhat worse, and so, I have given them the option of stopping the Detrol initially. I think he should stay on MiraLax for management of his bowels. I would also suggest that he be referred to Pediatric Gastroenterology for evaluation. If they do not find any abnormalities from a gastrointestinal perspective, then the next step would be to endoscope his bladder and then make sure that he does not have any evidence of bladder anatomic abnormalities that is leading to this pain. ,Thank you for following XXXX along with us in Pediatric Urology Clinic. If you have any questions, please feel free to contact me. ,Sincerely yours,",
+    "sentences": [
+      "XYZ, M.D. ,Suite 123, ABC Avenue ,City, STATE 12345 ,RE: XXXX, XXXX ,MR#: 0000000,Dear Dr.",
+      "XYZ: ,XXXX was seen in followup in the Pediatric Urology Clinic.",
+      "I appreciate you speaking with me while he was in clinic.",
+      "He continues to have abdominal pain, and he had a diuretic renal scan, which indicates no evidence of obstruction and good differential function bilaterally. ,When I examined him, he seems to indicate that his pain is essentially in the lower abdomen in the suprapubic region; however, on actual physical examination, he seems to complain of pain through his entire right side.",
+      "His parents have brought up the question of whether this could be gastrointestinal in origin and that is certainly an appropriate consideration.",
+      "They also feel that since he has been on Detrol, his pain levels have been somewhat worse, and so, I have given them the option of stopping the Detrol initially.",
+      "I think he should stay on MiraLax for management of his bowels.",
+      "I would also suggest that he be referred to Pediatric Gastroenterology for evaluation.",
+      "If they do not find any abnormalities from a gastrointestinal perspective, then the next step would be to endoscope his bladder and then make sure that he does not have any evidence of bladder anatomic abnormalities that is leading to this pain. ,Thank you for following XXXX along with us in Pediatric Urology Clinic.",
+      "If you have any questions, please feel free to contact me. ,Sincerely yours,"
+    ],
+    "sentence_count": 10
+  }
+}

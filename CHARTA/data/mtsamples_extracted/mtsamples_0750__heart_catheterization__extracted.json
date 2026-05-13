@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0750__heart_catheterization_.txt",
+    "file_name": "mtsamples_0750__heart_catheterization_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2432,
+    "processed_at": "2026-05-09T09:53:24.655449"
+  },
+  "entities": [
+    {
+      "text": "Via",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Via",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Via",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Via",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mitral regurgitation",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 27,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Left ventricular dilatation",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 27,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left ventricular dilatation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 38,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

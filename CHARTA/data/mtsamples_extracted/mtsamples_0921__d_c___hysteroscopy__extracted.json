@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0921__d_c___hysteroscopy_.txt",
+    "file_name": "mtsamples_0921__d_c___hysteroscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1770,
+    "processed_at": "2026-05-09T09:53:29.108619"
+  },
+  "entities": [
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 16,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 16,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dilatation",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dilatation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid degeneration",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 48,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid degeneration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

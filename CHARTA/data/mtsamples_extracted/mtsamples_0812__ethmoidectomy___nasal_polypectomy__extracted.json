@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0812__ethmoidectomy___nasal_polypectomy_.txt",
+    "file_name": "mtsamples_0812__ethmoidectomy___nasal_polypectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4910,
+    "processed_at": "2026-05-09T09:53:26.436435"
+  },
+  "entities": [
+    {
+      "text": "sinusitis",
+      "label": "DISEASE",
+      "start_char": 177,
+      "end_char": 186,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinusitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nasal polyposis",
+      "label": "DISEASE",
+      "start_char": 198,
+      "end_char": 213,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasal polyposis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyposis",
+      "label": "DISEASE",
+      "start_char": 210,
+      "end_char": 219,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyposis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cocaine",
+      "label": "CHEMICAL",
+      "start_char": 89,
+      "end_char": 96,
+      "sentence_idx": 8,
+      "concept_id": "C0009170",
+      "concept_name": "benzoylmethylecgonine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9571420550346375,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 85,
+      "end_char": 94,
+      "sentence_idx": 9,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 110,
+      "end_char": 121,
+      "sentence_idx": 9,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "polypoid disease",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 57,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polypoid disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polypoid disease",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 31,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polypoid disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cocaine",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 54,
+      "sentence_idx": 27,
+      "concept_id": "C0009170",
+      "concept_name": "benzoylmethylecgonine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9571420550346375,
+      "timestamp": null
+    },
+    {
+      "text": "XPS",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 55,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "XPS",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "XPS",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 45,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "XPS",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 176,
+      "end_char": 184,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 17,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

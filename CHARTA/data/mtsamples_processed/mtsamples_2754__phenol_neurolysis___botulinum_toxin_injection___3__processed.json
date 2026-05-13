@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2754__phenol_neurolysis___botulinum_toxin_injection___3_.txt",
+    "file_name": "mtsamples_2754__phenol_neurolysis___botulinum_toxin_injection___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1431,
+    "processed_at": "2026-05-09T09:54:06.917396"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2754__phenol_neurolysis___botulinum_toxin_injection___3_.txt",
+    "text": "PROCEDURE CODES:  64640 times two, 64614 time two, 95873 times two, 29405 times two.,PREOPERATIVE DIAGNOSIS:  Spastic diplegic cerebral palsy, 343.0.,POSTOPERATIVE DIAGNOSIS:  Spastic diplegic cerebral palsy, 343.0.,ANESTHESIA:  MAC.,COMPLICATIONS:  None.,DESCRIPTION OF TECHNIQUE:  Informed consent was obtained from the patient's mom.  The patient was brought to minor procedures and sedated per their protocol.  The patient was positioned lying supine.  Skin overlying all areas injected was prepped with chlorhexidine.,The obturator nerves were identified lateral to the adductor longus tendon origin and below the femoral pulse with active EMG stimulation.  Approximately 4 mL of 5% phenol was injected in this location bilaterally.  Phenol injections were done at the site of maximum hip adduction contraction with least amount of stimulus.  Negative drawback for blood was done prior to each injection of phenol.,Muscles injected with botulinum toxin were identified with active EMG stimulation.  Approximately 50 units was injected in the rectus femoris bilaterally, 75 units in the medial hamstrings bilaterally and 100 units in the gastrocnemius soleus muscles bilaterally.  Total amount of botulinum toxin injected was 450 units diluted 25 units to 1 mL.  After injections were performed, bilateral short leg fiberglass casts were applied.  The patient tolerated the procedure well and no complications were encountered.",
+    "char_count": 1431,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE CODES: 64640 times two, 64614 time two, 95873 times two, 29405 times two.,PREOPERATIVE DIAGNOSIS: Spastic diplegic cerebral palsy, 343.0.,POSTOPERATIVE DIAGNOSIS: Spastic diplegic cerebral palsy, 343.0.,ANESTHESIA: MAC.,COMPLICATIONS: None.,DESCRIPTION OF TECHNIQUE: Informed consent was obtained from the patient's mom. The patient was brought to minor procedures and sedated per their protocol. The patient was positioned lying supine. Skin overlying all areas injected was prepped with chlorhexidine.,The obturator nerves were identified lateral to the adductor longus tendon origin and below the femoral pulse with active EMG stimulation. Approximately 4 mL of 5% phenol was injected in this location bilaterally. Phenol injections were done at the site of maximum hip adduction contraction with least amount of stimulus. Negative drawback for blood was done prior to each injection of phenol.,Muscles injected with botulinum toxin were identified with active EMG stimulation. Approximately 50 units was injected in the rectus femoris bilaterally, 75 units in the medial hamstrings bilaterally and 100 units in the gastrocnemius soleus muscles bilaterally. Total amount of botulinum toxin injected was 450 units diluted 25 units to 1 mL. After injections were performed, bilateral short leg fiberglass casts were applied. The patient tolerated the procedure well and no complications were encountered.",
+    "sentences": [
+      "PROCEDURE CODES: 64640 times two, 64614 time two, 95873 times two, 29405 times two.,PREOPERATIVE DIAGNOSIS: Spastic diplegic cerebral palsy, 343.0.,POSTOPERATIVE DIAGNOSIS: Spastic diplegic cerebral palsy, 343.0.,ANESTHESIA: MAC.,COMPLICATIONS: None.,DESCRIPTION OF TECHNIQUE: Informed consent was obtained from the patient's mom.",
+      "The patient was brought to minor procedures and sedated per their protocol.",
+      "The patient was positioned lying supine.",
+      "Skin overlying all areas injected was prepped with chlorhexidine.,The obturator nerves were identified lateral to the adductor longus tendon origin and below the femoral pulse with active EMG stimulation.",
+      "Approximately 4 mL of 5% phenol was injected in this location bilaterally.",
+      "Phenol injections were done at the site of maximum hip adduction contraction with least amount of stimulus.",
+      "Negative drawback for blood was done prior to each injection of phenol.,Muscles injected with botulinum toxin were identified with active EMG stimulation.",
+      "Approximately 50 units was injected in the rectus femoris bilaterally, 75 units in the medial hamstrings bilaterally and 100 units in the gastrocnemius soleus muscles bilaterally.",
+      "Total amount of botulinum toxin injected was 450 units diluted 25 units to 1 mL.",
+      "After injections were performed, bilateral short leg fiberglass casts were applied.",
+      "The patient tolerated the procedure well and no complications were encountered."
+    ],
+    "sentence_count": 11,
+    "original_length": 1431,
+    "cleaned_length": 1415,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE CODES:  64640 times two, 64614 time two, 95873 times two, 29405 times two.,PREOPERATIVE DIAGNOSIS:  Spastic diplegic cerebral palsy, 343.0.,POSTOPERATIVE DIAGNOSIS:  Spastic diplegic cerebral palsy, 343.0.,ANESTHESIA:  MAC.,COMPLICATIONS:  None.,DESCRIPTION OF TECHNIQUE:  Informed consent was obtained from the patient's mom.  The patient was brought to minor procedures and sedated per their protocol.  The patient was positioned lying supine.  Skin overlying all areas injected was prepped with chlorhexidine.,The obturator nerves were identified lateral to the adductor longus tendon origin and below the femoral pulse with active EMG stimulation.  Approximately 4 mL of 5% phenol was injected in this location bilaterally.  Phenol injections were done at the site of maximum hip adduction contraction with least amount of stimulus.  Negative drawback for blood was done prior to each injection of phenol.,Muscles injected with botulinum toxin were identified with active EMG stimulation.  Approximately 50 units was injected in the rectus femoris bilaterally, 75 units in the medial hamstrings bilaterally and 100 units in the gastrocnemius soleus muscles bilaterally.  Total amount of botulinum toxin injected was 450 units diluted 25 units to 1 mL.  After injections were performed, bilateral short leg fiberglass casts were applied.  The patient tolerated the procedure well and no complications were encountered.",
+    "cleaned_text": "PROCEDURE CODES: 64640 times two, 64614 time two, 95873 times two, 29405 times two.,PREOPERATIVE DIAGNOSIS: Spastic diplegic cerebral palsy, 343.0.,POSTOPERATIVE DIAGNOSIS: Spastic diplegic cerebral palsy, 343.0.,ANESTHESIA: MAC.,COMPLICATIONS: None.,DESCRIPTION OF TECHNIQUE: Informed consent was obtained from the patient's mom. The patient was brought to minor procedures and sedated per their protocol. The patient was positioned lying supine. Skin overlying all areas injected was prepped with chlorhexidine.,The obturator nerves were identified lateral to the adductor longus tendon origin and below the femoral pulse with active EMG stimulation. Approximately 4 mL of 5% phenol was injected in this location bilaterally. Phenol injections were done at the site of maximum hip adduction contraction with least amount of stimulus. Negative drawback for blood was done prior to each injection of phenol.,Muscles injected with botulinum toxin were identified with active EMG stimulation. Approximately 50 units was injected in the rectus femoris bilaterally, 75 units in the medial hamstrings bilaterally and 100 units in the gastrocnemius soleus muscles bilaterally. Total amount of botulinum toxin injected was 450 units diluted 25 units to 1 mL. After injections were performed, bilateral short leg fiberglass casts were applied. The patient tolerated the procedure well and no complications were encountered.",
+    "sentences": [
+      "PROCEDURE CODES: 64640 times two, 64614 time two, 95873 times two, 29405 times two.,PREOPERATIVE DIAGNOSIS: Spastic diplegic cerebral palsy, 343.0.,POSTOPERATIVE DIAGNOSIS: Spastic diplegic cerebral palsy, 343.0.,ANESTHESIA: MAC.,COMPLICATIONS: None.,DESCRIPTION OF TECHNIQUE: Informed consent was obtained from the patient's mom.",
+      "The patient was brought to minor procedures and sedated per their protocol.",
+      "The patient was positioned lying supine.",
+      "Skin overlying all areas injected was prepped with chlorhexidine.,The obturator nerves were identified lateral to the adductor longus tendon origin and below the femoral pulse with active EMG stimulation.",
+      "Approximately 4 mL of 5% phenol was injected in this location bilaterally.",
+      "Phenol injections were done at the site of maximum hip adduction contraction with least amount of stimulus.",
+      "Negative drawback for blood was done prior to each injection of phenol.,Muscles injected with botulinum toxin were identified with active EMG stimulation.",
+      "Approximately 50 units was injected in the rectus femoris bilaterally, 75 units in the medial hamstrings bilaterally and 100 units in the gastrocnemius soleus muscles bilaterally.",
+      "Total amount of botulinum toxin injected was 450 units diluted 25 units to 1 mL.",
+      "After injections were performed, bilateral short leg fiberglass casts were applied.",
+      "The patient tolerated the procedure well and no complications were encountered."
+    ],
+    "sentence_count": 11
+  }
+}

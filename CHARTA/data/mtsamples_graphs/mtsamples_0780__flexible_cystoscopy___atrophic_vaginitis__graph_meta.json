@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_0780__flexible_cystoscopy___atrophic_vaginitis_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 14,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0719805": 1,
+    "C0699352": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0780__flexible_cystoscopy___atrophic_vaginitis__graph.pt",
+  "source_dataset": "mtsamples_0780__flexible_cystoscopy___atrophic_vaginitis"
+}

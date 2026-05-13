@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0400__prostatectomy_.txt",
+    "file_name": "mtsamples_0400__prostatectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 6753,
+    "processed_at": "2026-05-09T09:53:14.925935"
+  },
+  "entities": [
+    {
+      "text": "Prostate cancer",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 40,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prostate cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Prostate cancer",
+      "label": "DISEASE",
+      "start_char": 127,
+      "end_char": 142,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prostate cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate cancer",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 54,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 73,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pubic",
+      "label": "CHEMICAL",
+      "start_char": 34,
+      "end_char": 39,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pubic",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pubic",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 41,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pubic",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injury to the nerves",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 44,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury to the nerves",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 99,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pelvic fatty",
+      "label": "DISEASE",
+      "start_char": 214,
+      "end_char": 226,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic fatty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 118,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 71,
+      "sentence_idx": 48,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

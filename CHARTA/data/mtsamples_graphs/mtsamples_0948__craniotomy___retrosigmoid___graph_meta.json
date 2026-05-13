@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0948__craniotomy___retrosigmoid__",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 29,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0014563": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0948__craniotomy___retrosigmoid___graph.pt",
+  "source_dataset": "mtsamples_0948__craniotomy___retrosigmoid_"
+}

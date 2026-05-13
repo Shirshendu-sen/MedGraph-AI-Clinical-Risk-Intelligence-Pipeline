@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1990__acromioclavicular_joint_injection_.txt",
+    "file_name": "mtsamples_1990__acromioclavicular_joint_injection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 881,
+    "processed_at": "2026-05-09T09:53:54.330288"
+  },
+  "entities": [
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 66,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 77,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bruising",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 91,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bruising",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 48,
+      "sentence_idx": 2,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "Depo-Medrol",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 24,
+      "sentence_idx": 3,
+      "concept_id": "C0057476",
+      "concept_name": "Depo-Medrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9515208005905151,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 51,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "redness",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 141,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "redness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 143,
+      "end_char": 151,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 153,
+      "end_char": 165,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

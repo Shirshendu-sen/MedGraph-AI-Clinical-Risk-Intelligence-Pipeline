@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0316__subxiphoid_pericardial_window_.txt",
+    "file_name": "mtsamples_0316__subxiphoid_pericardial_window_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1641,
+    "processed_at": "2026-05-09T09:53:12.289844"
+  },
+  "entities": [
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 25,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aortic valve",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 16,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic valve",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endocarditis",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 37,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endocarditis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mitral insufficiency.,DESCRIPTION",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 89,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral insufficiency.,DESCRIPTION",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

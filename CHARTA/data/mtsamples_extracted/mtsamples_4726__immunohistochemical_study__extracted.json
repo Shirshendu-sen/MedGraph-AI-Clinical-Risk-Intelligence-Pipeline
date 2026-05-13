@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4726__immunohistochemical_study_.txt",
+    "file_name": "mtsamples_4726__immunohistochemical_study_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1646,
+    "processed_at": "2026-05-09T09:54:43.878142"
+  },
+  "entities": [
+    {
+      "text": "adenoma",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 91,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tumor",
+      "label": "DISEASE",
+      "start_char": 125,
+      "end_char": 130,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tumor",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chromogranin",
+      "label": "CHEMICAL",
+      "start_char": 73,
+      "end_char": 85,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chromogranin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tumor",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "melanoma",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "melanoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tumor",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleomorphic/giant cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 68,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleomorphic/giant cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "primary lung sarcomatoid carcinoma",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 86,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "primary lung sarcomatoid carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleomorphic/giant cell carcinoma and spindle cell carcinoma components.,FINAL DIAGNOSIS:,Histologic",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 191,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleomorphic/giant cell carcinoma and spindle cell carcinoma components.,FINAL DIAGNOSIS:,Histologic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tumor",
+      "label": "DISEASE",
+      "start_char": 192,
+      "end_char": 197,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Sarcomatoid carcinoma",
+      "label": "DISEASE",
+      "start_char": 204,
+      "end_char": 225,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Sarcomatoid carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleomorphic/giant cell carcinoma and spindle cell carcinoma.,Tumor Size: 2.7 x 2.0 x 1.4 cm.,Visceral Pleura",
+      "label": "DISEASE",
+      "start_char": 240,
+      "end_char": 348,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleomorphic/giant cell carcinoma and spindle cell carcinoma.,Tumor Size: 2.7 x 2.0 x 1.4 cm.,Visceral Pleura",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 366,
+      "end_char": 371,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sarcomatoid carcinoma",
+      "label": "DISEASE",
+      "start_char": 572,
+      "end_char": 593,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sarcomatoid carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3748__bmt___bilateral_myringotomy_tubes_.txt",
+    "file_name": "mtsamples_3748__bmt___bilateral_myringotomy_tubes_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1405,
+    "processed_at": "2026-05-09T09:54:26.913534"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3748__bmt___bilateral_myringotomy_tubes_.txt",
+    "text": "Parents often ask why the fluid cannot be drained without inserting a tube.  The need for the tube insertion is because the eardrum incision generally heals very rapidly (within a few days), which is not long enough for the swollen membranes in the middle ear to return to normal.  As soon as the eardrum heals, fluid will reaccumulate.  Tubes were first introduced because of this very problem.  There are many types of tubes, but all tubes serve the same function.  They keep the eardrum open, allow air to enter the middle ear space, and permit fluid in the middle ear to drain.  Most tubes will gradually be rejected by the ear and work their way out of the eardrum.  As they come out, the eardrum seals behind the tube.  Tubes will last four to six months in the eardrum before they come out.  Occasionally, the eardrum does not heal completely when the tube comes out.,The majority of children treated with tubes do not require further surgery.  They may have ear infections in the future, but most will clear up with medical treatment.  Some children are very prone to ear infections and have a tendency to accumulate fluid after each infection.  Children tend to outgrow this cycle by age 7 or 8.  In an ear, nose and throat specialty practice, this group comprises 10 to 15% of all children who have required tubes.  Occasionally the physician has to physically remove the tube from the ear drum.",
+    "char_count": 1405,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "Parents often ask why the fluid cannot be drained without inserting a tube. The need for the tube insertion is because the eardrum incision generally heals very rapidly (within a few days), which is not long enough for the swollen membranes in the middle ear to return to normal. As soon as the eardrum heals, fluid will reaccumulate. Tubes were first introduced because of this very problem. There are many types of tubes, but all tubes serve the same function. They keep the eardrum open, allow air to enter the middle ear space, and permit fluid in the middle ear to drain. Most tubes will gradually be rejected by the ear and work their way out of the eardrum. As they come out, the eardrum seals behind the tube. Tubes will last four to six months in the eardrum before they come out. Occasionally, the eardrum does not heal completely when the tube comes out.,The majority of children treated with tubes do not require further surgery. They may have ear infections in the future, but most will clear up with medical treatment. Some children are very prone to ear infections and have a tendency to accumulate fluid after each infection. Children tend to outgrow this cycle by age 7 or 8. In an ear, nose and throat specialty practice, this group comprises 10 to 15% of all children who have required tubes. Occasionally the physician has to physically remove the tube from the ear drum.",
+    "sentences": [
+      "Parents often ask why the fluid cannot be drained without inserting a tube.",
+      "The need for the tube insertion is because the eardrum incision generally heals very rapidly (within a few days), which is not long enough for the swollen membranes in the middle ear to return to normal.",
+      "As soon as the eardrum heals, fluid will reaccumulate.",
+      "Tubes were first introduced because of this very problem.",
+      "There are many types of tubes, but all tubes serve the same function.",
+      "They keep the eardrum open, allow air to enter the middle ear space, and permit fluid in the middle ear to drain.",
+      "Most tubes will gradually be rejected by the ear and work their way out of the eardrum.",
+      "As they come out, the eardrum seals behind the tube.",
+      "Tubes will last four to six months in the eardrum before they come out.",
+      "Occasionally, the eardrum does not heal completely when the tube comes out.,The majority of children treated with tubes do not require further surgery.",
+      "They may have ear infections in the future, but most will clear up with medical treatment.",
+      "Some children are very prone to ear infections and have a tendency to accumulate fluid after each infection.",
+      "Children tend to outgrow this cycle by age 7 or 8.",
+      "In an ear, nose and throat specialty practice, this group comprises 10 to 15% of all children who have required tubes.",
+      "Occasionally the physician has to physically remove the tube from the ear drum."
+    ],
+    "sentence_count": 15,
+    "original_length": 1405,
+    "cleaned_length": 1391,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "Parents often ask why the fluid cannot be drained without inserting a tube.  The need for the tube insertion is because the eardrum incision generally heals very rapidly (within a few days), which is not long enough for the swollen membranes in the middle ear to return to normal.  As soon as the eardrum heals, fluid will reaccumulate.  Tubes were first introduced because of this very problem.  There are many types of tubes, but all tubes serve the same function.  They keep the eardrum open, allow air to enter the middle ear space, and permit fluid in the middle ear to drain.  Most tubes will gradually be rejected by the ear and work their way out of the eardrum.  As they come out, the eardrum seals behind the tube.  Tubes will last four to six months in the eardrum before they come out.  Occasionally, the eardrum does not heal completely when the tube comes out.,The majority of children treated with tubes do not require further surgery.  They may have ear infections in the future, but most will clear up with medical treatment.  Some children are very prone to ear infections and have a tendency to accumulate fluid after each infection.  Children tend to outgrow this cycle by age 7 or 8.  In an ear, nose and throat specialty practice, this group comprises 10 to 15% of all children who have required tubes.  Occasionally the physician has to physically remove the tube from the ear drum.",
+    "cleaned_text": "Parents often ask why the fluid cannot be drained without inserting a tube. The need for the tube insertion is because the eardrum incision generally heals very rapidly (within a few days), which is not long enough for the swollen membranes in the middle ear to return to normal. As soon as the eardrum heals, fluid will reaccumulate. Tubes were first introduced because of this very problem. There are many types of tubes, but all tubes serve the same function. They keep the eardrum open, allow air to enter the middle ear space, and permit fluid in the middle ear to drain. Most tubes will gradually be rejected by the ear and work their way out of the eardrum. As they come out, the eardrum seals behind the tube. Tubes will last four to six months in the eardrum before they come out. Occasionally, the eardrum does not heal completely when the tube comes out.,The majority of children treated with tubes do not require further surgery. They may have ear infections in the future, but most will clear up with medical treatment. Some children are very prone to ear infections and have a tendency to accumulate fluid after each infection. Children tend to outgrow this cycle by age 7 or 8. In an ear, nose and throat specialty practice, this group comprises 10 to 15% of all children who have required tubes. Occasionally the physician has to physically remove the tube from the ear drum.",
+    "sentences": [
+      "Parents often ask why the fluid cannot be drained without inserting a tube.",
+      "The need for the tube insertion is because the eardrum incision generally heals very rapidly (within a few days), which is not long enough for the swollen membranes in the middle ear to return to normal.",
+      "As soon as the eardrum heals, fluid will reaccumulate.",
+      "Tubes were first introduced because of this very problem.",
+      "There are many types of tubes, but all tubes serve the same function.",
+      "They keep the eardrum open, allow air to enter the middle ear space, and permit fluid in the middle ear to drain.",
+      "Most tubes will gradually be rejected by the ear and work their way out of the eardrum.",
+      "As they come out, the eardrum seals behind the tube.",
+      "Tubes will last four to six months in the eardrum before they come out.",
+      "Occasionally, the eardrum does not heal completely when the tube comes out.,The majority of children treated with tubes do not require further surgery.",
+      "They may have ear infections in the future, but most will clear up with medical treatment.",
+      "Some children are very prone to ear infections and have a tendency to accumulate fluid after each infection.",
+      "Children tend to outgrow this cycle by age 7 or 8.",
+      "In an ear, nose and throat specialty practice, this group comprises 10 to 15% of all children who have required tubes.",
+      "Occasionally the physician has to physically remove the tube from the ear drum."
+    ],
+    "sentence_count": 15
+  }
+}

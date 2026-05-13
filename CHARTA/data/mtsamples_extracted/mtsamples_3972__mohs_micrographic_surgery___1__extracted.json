@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3972__mohs_micrographic_surgery___1_.txt",
+    "file_name": "mtsamples_3972__mohs_micrographic_surgery___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1527,
+    "processed_at": "2026-05-09T09:54:31.147816"
+  },
+  "entities": [
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 508,
+      "end_char": 513,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 138,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

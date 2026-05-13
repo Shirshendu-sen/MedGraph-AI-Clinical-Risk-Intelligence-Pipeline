@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0151__circumcision___child__.txt",
+    "file_name": "mtsamples_0151__circumcision___child__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 835,
+    "processed_at": "2026-05-09T09:53:07.759896"
+  },
+  "entities": [
+    {
+      "text": "povidone iodine",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 68,
+      "sentence_idx": 1,
+      "concept_id": "C0032856",
+      "concept_name": "povidone",
+      "kb_source": "rxnorm",
+      "link_score": 0.7136121988296509,
+      "timestamp": null
+    },
+    {
+      "text": "penile block",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 21,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "penile block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 75,
+      "end_char": 84,
+      "sentence_idx": 3,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 76,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

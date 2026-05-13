@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0122__flexible_cystoscopy___atrophic_vaginitis_.txt",
+    "file_name": "mtsamples_0122__flexible_cystoscopy___atrophic_vaginitis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 794,
+    "processed_at": "2026-05-09T09:53:06.787978"
+  },
+  "entities": [
+    {
+      "text": "bladder infections",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 53,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder infections",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "incontinence",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 90,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "incontinence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Detrol",
+      "label": "CHEMICAL",
+      "start_char": 108,
+      "end_char": 114,
+      "sentence_idx": 0,
+      "concept_id": "C0719805",
+      "concept_name": "Detrol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9764233827590942,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 73,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 80,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vaginitis",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 30,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vaginitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vaginitis",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 73,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vaginitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "overactive bladder",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 97,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "overactive bladder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Estrace",
+      "label": "CHEMICAL",
+      "start_char": 170,
+      "end_char": 177,
+      "sentence_idx": 3,
+      "concept_id": "C0699352",
+      "concept_name": "Estrace",
+      "kb_source": "rxnorm",
+      "link_score": 0.9748194813728333,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

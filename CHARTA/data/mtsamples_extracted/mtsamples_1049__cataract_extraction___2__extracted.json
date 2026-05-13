@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1049__cataract_extraction___2_.txt",
+    "file_name": "mtsamples_1049__cataract_extraction___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2140,
+    "processed_at": "2026-05-09T09:53:32.513932"
+  },
+  "entities": [
+    {
+      "text": "Cataract",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 34,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cataract",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 80,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 136,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 350,
+      "end_char": 359,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 194,
+      "end_char": 203,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "preservative",
+      "label": "CHEMICAL",
+      "start_char": 212,
+      "end_char": 224,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "preservative",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lens",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 19,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lens",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Decadron",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 13,
+      "concept_id": "C0740057",
+      "concept_name": "Decadron",
+      "kb_source": "rxnorm",
+      "link_score": 0.9529008269309998,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 64,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

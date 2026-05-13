@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4488__colon_polyps___genetic_counseling_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 32,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0700491": 1,
+    "C0594492": 2,
+    "C0030827": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4488__colon_polyps___genetic_counseling__graph.pt",
+  "source_dataset": "mtsamples_4488__colon_polyps___genetic_counseling"
+}

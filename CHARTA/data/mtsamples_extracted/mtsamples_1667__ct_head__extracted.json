@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1667__ct_head_.txt",
+    "file_name": "mtsamples_1667__ct_head_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 654,
+    "processed_at": "2026-05-09T09:53:47.984038"
+  },
+  "entities": [
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 144,
+      "end_char": 151,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 92,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 122,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infarction",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 162,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "acute abnormalities",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 97,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

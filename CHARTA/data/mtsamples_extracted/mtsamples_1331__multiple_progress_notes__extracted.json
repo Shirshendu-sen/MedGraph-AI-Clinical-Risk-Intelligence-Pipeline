@@ -1,0 +1,314 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1331__multiple_progress_notes_.txt",
+    "file_name": "mtsamples_1331__multiple_progress_notes_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1418,
+    "processed_at": "2026-05-09T09:53:39.336902"
+  },
+  "entities": [
+    {
+      "text": "respiratory failure",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 54,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "respiratory failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-04-16"
+    },
+    {
+      "text": "NAD",
+      "label": "CHEMICAL",
+      "start_char": 151,
+      "end_char": 154,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NAD",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2001-04-17"
+    },
+    {
+      "text": "Respiratory arrest",
+      "label": "DISEASE",
+      "start_char": 199,
+      "end_char": 217,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Respiratory arrest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-04-17"
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 219,
+      "end_char": 228,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-04-17"
+    },
+    {
+      "text": "chronic obstructive pulmonary disease",
+      "label": "DISEASE",
+      "start_char": 230,
+      "end_char": 267,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic obstructive pulmonary disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-04-18"
+    },
+    {
+      "text": "K+",
+      "label": "CHEMICAL",
+      "start_char": 289,
+      "end_char": 291,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "K+",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2001-04-18"
+    },
+    {
+      "text": "NSVT",
+      "label": "DISEASE",
+      "start_char": 392,
+      "end_char": 396,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NSVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "38/67/86"
+    },
+    {
+      "text": "chronic obstructive pulmonary disease - gastro cath",
+      "label": "DISEASE",
+      "start_char": 528,
+      "end_char": 579,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic obstructive pulmonary disease - gastro cath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-04-20"
+    },
+    {
+      "text": "NG",
+      "label": "CHEMICAL",
+      "start_char": 580,
+      "end_char": 582,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2001-04-20"
+    },
+    {
+      "text": "L. basilar",
+      "label": "CHEMICAL",
+      "start_char": 656,
+      "end_char": 666,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "L. basilar",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2001-04-20"
+    },
+    {
+      "text": "Pneumonia",
+      "label": "DISEASE",
+      "start_char": 684,
+      "end_char": 693,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-04-20"
+    },
+    {
+      "text": "Respiratory arrest",
+      "label": "DISEASE",
+      "start_char": 694,
+      "end_char": 712,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Respiratory arrest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-04-20"
+    },
+    {
+      "text": "chronic obstructive pulmonary disease",
+      "label": "DISEASE",
+      "start_char": 713,
+      "end_char": 750,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic obstructive pulmonary disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-04-20"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 784,
+      "end_char": 789,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-04-20"
+    },
+    {
+      "text": "NGT",
+      "label": "CHEMICAL",
+      "start_char": 794,
+      "end_char": 797,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NGT",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2001-04-20"
+    },
+    {
+      "text": "cocci",
+      "label": "CHEMICAL",
+      "start_char": 245,
+      "end_char": 250,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cocci",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2001-04-18"
+    },
+    {
+      "text": "NAD",
+      "label": "CHEMICAL",
+      "start_char": 425,
+      "end_char": 428,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NAD",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2001-04-19"
+    },
+    {
+      "text": "Pneumonia",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 26,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-04-16"
+    },
+    {
+      "text": "respiratory arrest",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 46,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "respiratory arrest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-04-16"
+    },
+    {
+      "text": "chronic obstructive pulmonary disease",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 85,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic obstructive pulmonary disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-04-16"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "4/16/01",
+      "start_char": 15,
+      "end_char": 22
+    },
+    {
+      "raw_text": "4/17/01",
+      "start_char": 117,
+      "end_char": 124
+    },
+    {
+      "raw_text": "4/18/01",
+      "start_char": 345,
+      "end_char": 352
+    },
+    {
+      "raw_text": "38/67/86",
+      "start_char": 408,
+      "end_char": 416
+    },
+    {
+      "raw_text": "4/19/01",
+      "start_char": 420,
+      "end_char": 427
+    },
+    {
+      "raw_text": "4/20/01",
+      "start_char": 594,
+      "end_char": 601
+    },
+    {
+      "raw_text": "4/20/01",
+      "start_char": 820,
+      "end_char": 827
+    },
+    {
+      "raw_text": "4/20/01",
+      "start_char": 964,
+      "end_char": 971
+    },
+    {
+      "raw_text": "4/21/01",
+      "start_char": 1040,
+      "end_char": 1047
+    },
+    {
+      "raw_text": "4/22/01",
+      "start_char": 1164,
+      "end_char": 1171
+    },
+    {
+      "raw_text": "04/23/01",
+      "start_char": 1271,
+      "end_char": 1279
+    },
+    {
+      "raw_text": "4/24/01",
+      "start_char": 1455,
+      "end_char": 1462
+    }
+  ]
+}

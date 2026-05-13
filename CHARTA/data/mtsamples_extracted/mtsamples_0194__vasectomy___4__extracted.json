@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0194__vasectomy___4_.txt",
+    "file_name": "mtsamples_0194__vasectomy___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2146,
+    "processed_at": "2026-05-09T09:53:08.984041"
+  },
+  "entities": [
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 42,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 42,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cauterized.,Bacitracin ointment",
+      "label": "CHEMICAL",
+      "start_char": 113,
+      "end_char": 144,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cauterized.,Bacitracin ointment",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

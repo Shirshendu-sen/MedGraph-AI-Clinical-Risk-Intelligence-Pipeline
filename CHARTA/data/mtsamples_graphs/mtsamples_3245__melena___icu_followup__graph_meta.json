@@ -1,0 +1,24 @@
+{
+  "patient_id": "mtsamples_3245__melena___icu_followup_",
+  "num_entities": 11,
+  "num_visits": 1,
+  "num_edges": 91,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0037473": 1,
+    "C0032821": 2,
+    "C0010294": 3,
+    "C0017725": 4,
+    "C0006675": 5,
+    "C0302583": 6,
+    "C0052796": 7,
+    "C0018305": 8,
+    "C0025270": 9,
+    "C0178638": 10
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3245__melena___icu_followup__graph.pt",
+  "source_dataset": "mtsamples_3245__melena___icu_followup"
+}

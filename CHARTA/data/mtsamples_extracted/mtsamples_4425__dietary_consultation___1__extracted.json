@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4425__dietary_consultation___1_.txt",
+    "file_name": "mtsamples_4425__dietary_consultation___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1792,
+    "processed_at": "2026-05-09T09:54:38.558454"
+  },
+  "entities": [
+    {
+      "text": "polycystic ovarian syndrome",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 84,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polycystic ovarian syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hyperlipidemia",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 103,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperlipidemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 81,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

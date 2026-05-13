@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1273__weight_loss_on_phentermine_.txt",
+    "file_name": "mtsamples_1273__weight_loss_on_phentermine_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1435,
+    "processed_at": "2026-05-09T09:53:38.344083"
+  },
+  "entities": [
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 58,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "phentermine",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 73,
+      "sentence_idx": 0,
+      "concept_id": "C0031447",
+      "concept_name": "phentermine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9659202098846436,
+      "timestamp": null
+    },
+    {
+      "text": "phentermine",
+      "label": "CHEMICAL",
+      "start_char": 72,
+      "end_char": 83,
+      "sentence_idx": 5,
+      "concept_id": "C0031447",
+      "concept_name": "phentermine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9659202098846436,
+      "timestamp": null
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 22,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 34,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Weight loss",
+      "label": "DISEASE",
+      "start_char": 139,
+      "end_char": 150,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "phentermine",
+      "label": "CHEMICAL",
+      "start_char": 154,
+      "end_char": 165,
+      "sentence_idx": 10,
+      "concept_id": "C0031447",
+      "concept_name": "phentermine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9659202098846436,
+      "timestamp": null
+    },
+    {
+      "text": "phentermine",
+      "label": "CHEMICAL",
+      "start_char": 290,
+      "end_char": 301,
+      "sentence_idx": 10,
+      "concept_id": "C0031447",
+      "concept_name": "phentermine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9659202098846436,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

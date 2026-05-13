@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_4150__postop_medical_management_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 58,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0721010": 1,
+    "C0701348": 2,
+    "C0376569": 3,
+    "C0004057": 4,
+    "C0001963": 5,
+    "C0017725": 6,
+    "C0010294": 7,
+    "C0037473": 8,
+    "C0032821": 9
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4150__postop_medical_management__graph.pt",
+  "source_dataset": "mtsamples_4150__postop_medical_management"
+}

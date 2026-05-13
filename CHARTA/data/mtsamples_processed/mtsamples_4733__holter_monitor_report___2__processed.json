@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4733__holter_monitor_report___2_.txt",
+    "file_name": "mtsamples_4733__holter_monitor_report___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1156,
+    "processed_at": "2026-05-09T09:54:43.970167"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4733__holter_monitor_report___2_.txt",
+    "text": "INDICATION: , Syncope.,HOLTER MONITOR SUMMARY ANALYSIS: , Analyzed for approximately 23 hours 57 minutes and artefact noted for approximately 23 seconds.  Total beats of 108,489, heart rate minimum of approximately 54 beats per minutes at 7 a.m. and maximum of 106 beats per minute at approximately 4 p.m.  Average heart rate is approximately 75 beats per minute, total of 31 to bradycardia, longest being 225 beats at approximately 7 in the morning, minimum rate of 43 beats per minute at approximately 01:40 a.m.  Total ventricular events of 64, primarily premature ventricular contraction and supraventricular events total beats of 9 atrial premature contractions.  No significant ST elevation noted and ST depression noted only in one channel for approximately three minutes for a maximum of 2.7 mm.,IMPRESSION OF THE FINDINGS: , Predominant sinus rhythm with occasional premature ventricular contraction, occasional atrial premature contractions and Mobitz type 1 Wenckebach, several episodes, Mobitz type II, 3 to 2 AV conduction disease noted as well approximately two episodes and one episode of atrial bigeminy noted.  No significant pauses noted.",
+    "char_count": 1156,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "INDICATION: , Syncope.,HOLTER MONITOR SUMMARY ANALYSIS: , Analyzed for approximately 23 hours 57 minutes and artefact noted for approximately 23 seconds. Total beats of 108,489, heart rate minimum of approximately 54 beats per minutes at 7 a.m. and maximum of 106 beats per minute at approximately 4 p.m. Average heart rate is approximately 75 beats per minute, total of 31 to bradycardia, longest being 225 beats at approximately 7 in the morning, minimum rate of 43 beats per minute at approximately 01:40 a.m. Total ventricular events of 64, primarily premature ventricular contraction and supraventricular events total beats of 9 atrial premature contractions. No significant ST elevation noted and ST depression noted only in one channel for approximately three minutes for a maximum of 2.7 mm.,IMPRESSION OF THE FINDINGS: , Predominant sinus rhythm with occasional premature ventricular contraction, occasional atrial premature contractions and Mobitz type 1 Wenckebach, several episodes, Mobitz type II, 3 to 2 AV conduction disease noted as well approximately two episodes and one episode of atrial bigeminy noted. No significant pauses noted.",
+    "sentences": [
+      "INDICATION: , Syncope.,HOLTER MONITOR SUMMARY ANALYSIS: , Analyzed for approximately 23 hours 57 minutes and artefact noted for approximately 23 seconds.",
+      "Total beats of 108,489, heart rate minimum of approximately 54 beats per minutes at 7 a.m. and maximum of 106 beats per minute at approximately 4 p.m.",
+      "Average heart rate is approximately 75 beats per minute, total of 31 to bradycardia, longest being 225 beats at approximately 7 in the morning, minimum rate of 43 beats per minute at approximately 01:40 a.m.",
+      "Total ventricular events of 64, primarily premature ventricular contraction and supraventricular events total beats of 9 atrial premature contractions.",
+      "No significant ST elevation noted and ST depression noted only in one channel for approximately three minutes for a maximum of 2.7 mm.,IMPRESSION OF THE FINDINGS: , Predominant sinus rhythm with occasional premature ventricular contraction, occasional atrial premature contractions and Mobitz type 1 Wenckebach, several episodes, Mobitz type II, 3 to 2 AV conduction disease noted as well approximately two episodes and one episode of atrial bigeminy noted.",
+      "No significant pauses noted."
+    ],
+    "sentence_count": 6,
+    "original_length": 1156,
+    "cleaned_length": 1151,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "INDICATION: , Syncope.,HOLTER MONITOR SUMMARY ANALYSIS: , Analyzed for approximately 23 hours 57 minutes and artefact noted for approximately 23 seconds.  Total beats of 108,489, heart rate minimum of approximately 54 beats per minutes at 7 a.m. and maximum of 106 beats per minute at approximately 4 p.m.  Average heart rate is approximately 75 beats per minute, total of 31 to bradycardia, longest being 225 beats at approximately 7 in the morning, minimum rate of 43 beats per minute at approximately 01:40 a.m.  Total ventricular events of 64, primarily premature ventricular contraction and supraventricular events total beats of 9 atrial premature contractions.  No significant ST elevation noted and ST depression noted only in one channel for approximately three minutes for a maximum of 2.7 mm.,IMPRESSION OF THE FINDINGS: , Predominant sinus rhythm with occasional premature ventricular contraction, occasional atrial premature contractions and Mobitz type 1 Wenckebach, several episodes, Mobitz type II, 3 to 2 AV conduction disease noted as well approximately two episodes and one episode of atrial bigeminy noted.  No significant pauses noted.",
+    "cleaned_text": "INDICATION: , Syncope.,HOLTER MONITOR SUMMARY ANALYSIS: , Analyzed for approximately 23 hours 57 minutes and artefact noted for approximately 23 seconds. Total beats of 108,489, heart rate minimum of approximately 54 beats per minutes at 7 a.m. and maximum of 106 beats per minute at approximately 4 p.m. Average heart rate is approximately 75 beats per minute, total of 31 to bradycardia, longest being 225 beats at approximately 7 in the morning, minimum rate of 43 beats per minute at approximately 01:40 a.m. Total ventricular events of 64, primarily premature ventricular contraction and supraventricular events total beats of 9 atrial premature contractions. No significant ST elevation noted and ST depression noted only in one channel for approximately three minutes for a maximum of 2.7 mm.,IMPRESSION OF THE FINDINGS: , Predominant sinus rhythm with occasional premature ventricular contraction, occasional atrial premature contractions and Mobitz type 1 Wenckebach, several episodes, Mobitz type II, 3 to 2 AV conduction disease noted as well approximately two episodes and one episode of atrial bigeminy noted. No significant pauses noted.",
+    "sentences": [
+      "INDICATION: , Syncope.,HOLTER MONITOR SUMMARY ANALYSIS: , Analyzed for approximately 23 hours 57 minutes and artefact noted for approximately 23 seconds.",
+      "Total beats of 108,489, heart rate minimum of approximately 54 beats per minutes at 7 a.m. and maximum of 106 beats per minute at approximately 4 p.m.",
+      "Average heart rate is approximately 75 beats per minute, total of 31 to bradycardia, longest being 225 beats at approximately 7 in the morning, minimum rate of 43 beats per minute at approximately 01:40 a.m.",
+      "Total ventricular events of 64, primarily premature ventricular contraction and supraventricular events total beats of 9 atrial premature contractions.",
+      "No significant ST elevation noted and ST depression noted only in one channel for approximately three minutes for a maximum of 2.7 mm.,IMPRESSION OF THE FINDINGS: , Predominant sinus rhythm with occasional premature ventricular contraction, occasional atrial premature contractions and Mobitz type 1 Wenckebach, several episodes, Mobitz type II, 3 to 2 AV conduction disease noted as well approximately two episodes and one episode of atrial bigeminy noted.",
+      "No significant pauses noted."
+    ],
+    "sentence_count": 6
+  }
+}

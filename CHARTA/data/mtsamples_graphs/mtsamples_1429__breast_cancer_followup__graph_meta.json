@@ -1,0 +1,27 @@
+{
+  "patient_id": "mtsamples_1429__breast_cancer_followup_",
+  "num_entities": 14,
+  "num_visits": 1,
+  "num_edges": 88,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0701491": 1,
+    "C0876723": 2,
+    "C1135132": 3,
+    "C1135130": 4,
+    "C1967552": 5,
+    "C0006675": 6,
+    "C0042866": 7,
+    "C0487782": 8,
+    "C0591437": 9,
+    "C1570232": 10,
+    "C0699142": 11,
+    "C0724054": 12,
+    "C0030346": 13
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1429__breast_cancer_followup__graph.pt",
+  "source_dataset": "mtsamples_1429__breast_cancer_followup"
+}

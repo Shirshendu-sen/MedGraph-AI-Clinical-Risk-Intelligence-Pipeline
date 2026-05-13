@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3207__possible_spider_bite_.txt",
+    "file_name": "mtsamples_3207__possible_spider_bite_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1497,
+    "processed_at": "2026-05-09T09:54:16.476648"
+  },
+  "entities": [
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 31,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "redness",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 43,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "redness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 20,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Maxzide",
+      "label": "CHEMICAL",
+      "start_char": 90,
+      "end_char": 97,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Maxzide",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Climara",
+      "label": "CHEMICAL",
+      "start_char": 99,
+      "end_char": 106,
+      "sentence_idx": 5,
+      "concept_id": "C1105819",
+      "concept_name": "Climara",
+      "kb_source": "rxnorm",
+      "link_score": 0.9967809915542603,
+      "timestamp": null
+    },
+    {
+      "text": "multivitamin",
+      "label": "CHEMICAL",
+      "start_char": 114,
+      "end_char": 126,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "multivitamin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Claritin",
+      "label": "CHEMICAL",
+      "start_char": 134,
+      "end_char": 142,
+      "sentence_idx": 5,
+      "concept_id": "C0701055",
+      "concept_name": "Claritin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9775713682174683,
+      "timestamp": null
+    },
+    {
+      "text": "vitamin C.,ALLERGIES",
+      "label": "CHEMICAL",
+      "start_char": 148,
+      "end_char": 168,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vitamin C.,ALLERGIES",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 125,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dryness",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 53,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dryness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "redness",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 65,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "redness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dermatitis",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 43,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dermatitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocortisone",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 72,
+      "sentence_idx": 14,
+      "concept_id": "C0020268",
+      "concept_name": "hydrocortisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9708396792411804,
+      "timestamp": null
+    },
+    {
+      "text": "cream",
+      "label": "CHEMICAL",
+      "start_char": 76,
+      "end_char": 81,
+      "sentence_idx": 14,
+      "concept_id": "C0991534",
+      "concept_name": "Oral Cream",
+      "kb_source": "rxnorm",
+      "link_score": 0.92451012134552,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

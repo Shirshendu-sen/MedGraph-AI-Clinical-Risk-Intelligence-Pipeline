@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0848__endoscopy_template_.txt",
+    "file_name": "mtsamples_0848__endoscopy_template_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 832,
+    "processed_at": "2026-05-09T09:53:27.438839"
+  },
+  "entities": [
+    {
+      "text": "Cetacaine",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 58,
+      "sentence_idx": 0,
+      "concept_id": "C0055141",
+      "concept_name": "Cetacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9606422781944275,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 69,
+      "end_char": 75,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophagitis",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 111,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophagitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

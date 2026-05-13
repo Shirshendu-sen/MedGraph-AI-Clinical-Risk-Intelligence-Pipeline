@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2549__low_transverse_c_section___6_.txt",
+    "file_name": "mtsamples_2549__low_transverse_c_section___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5054,
+    "processed_at": "2026-05-09T09:54:04.077427"
+  },
+  "entities": [
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 27,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-22"
+    },
+    {
+      "text": "membranes.,4",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 43,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "membranes.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-22"
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 27,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-22"
+    },
+    {
+      "text": "membranes.,4",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 43,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "membranes.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-22"
+    },
+    {
+      "text": "intrauterine pregnancy",
+      "label": "DISEASE",
+      "start_char": 143,
+      "end_char": 165,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-22"
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 73,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-22"
+    },
+    {
+      "text": "strep",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 43,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "strep",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-22"
+    },
+    {
+      "text": "penicillin",
+      "label": "CHEMICAL",
+      "start_char": 84,
+      "end_char": 94,
+      "sentence_idx": 15,
+      "concept_id": "C0030827",
+      "concept_name": "penicillin G",
+      "kb_source": "rxnorm",
+      "link_score": 0.8628798127174377,
+      "timestamp": "2003-08-22"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 39,
+      "sentence_idx": 16,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2003-08-22"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 45,
+      "sentence_idx": 19,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2003-08-22"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 43,
+      "sentence_idx": 21,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2003-08-22"
+    },
+    {
+      "text": "macrosomia",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 183,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "macrosomia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-22"
+    },
+    {
+      "text": "present.,PROCEDURE",
+      "label": "CHEMICAL",
+      "start_char": 2,
+      "end_char": 20,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "present.,PROCEDURE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-22"
+    },
+    {
+      "text": "low transverse uterine incision",
+      "label": "DISEASE",
+      "start_char": 2,
+      "end_char": 33,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "low transverse uterine incision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-22"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/22/03",
+      "start_char": 1044,
+      "end_char": 1052
+    }
+  ]
+}

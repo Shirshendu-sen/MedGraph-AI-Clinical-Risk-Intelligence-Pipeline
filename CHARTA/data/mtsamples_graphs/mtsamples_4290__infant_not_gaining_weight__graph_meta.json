@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4290__infant_not_gaining_weight_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 40,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0037473": 1,
+    "C0032821": 2,
+    "C0699992": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4290__infant_not_gaining_weight__graph.pt",
+  "source_dataset": "mtsamples_4290__infant_not_gaining_weight"
+}

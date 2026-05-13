@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3478__laparoscopic_cholecystectomy___8_.txt",
+    "file_name": "mtsamples_3478__laparoscopic_cholecystectomy___8_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3358,
+    "processed_at": "2026-05-09T09:54:22.425845"
+  },
+  "entities": [
+    {
+      "text": "chronic cholecystitis",
+      "label": "DISEASE",
+      "start_char": 374,
+      "end_char": 395,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic cholecystitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 172,
+      "end_char": 186,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "TED",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 88,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "TED",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 61,
+      "sentence_idx": 5,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "ropivacaine",
+      "label": "CHEMICAL",
+      "start_char": 71,
+      "end_char": 82,
+      "sentence_idx": 5,
+      "concept_id": "C0073571",
+      "concept_name": "ropivacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9624372124671936,
+      "timestamp": null
+    },
+    {
+      "text": "carbon dioxide",
+      "label": "CHEMICAL",
+      "start_char": 131,
+      "end_char": 145,
+      "sentence_idx": 7,
+      "concept_id": "C0007012",
+      "concept_name": "carbon dioxide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9571364521980286,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

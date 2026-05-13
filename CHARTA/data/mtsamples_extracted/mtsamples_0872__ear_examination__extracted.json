@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0872__ear_examination_.txt",
+    "file_name": "mtsamples_0872__ear_examination_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1733,
+    "processed_at": "2026-05-09T09:53:27.913418"
+  },
+  "entities": [
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 145,
+      "end_char": 151,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right conductive hearing loss",
+      "label": "DISEASE",
+      "start_char": 352,
+      "end_char": 381,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right conductive hearing loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 56,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hearing loss",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 90,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hearing loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 60,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "1:200,000 epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 66,
+      "end_char": 87,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:200,000 epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 63,
+      "end_char": 72,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "1:200,000 epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 78,
+      "end_char": 99,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:200,000 epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "granuloma",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 127,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "granuloma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tympanoplasty",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 45,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tympanoplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Floxin",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 43,
+      "sentence_idx": 10,
+      "concept_id": "C0699173",
+      "concept_name": "Floxin",
+      "kb_source": "rxnorm",
+      "link_score": 0.979972243309021,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

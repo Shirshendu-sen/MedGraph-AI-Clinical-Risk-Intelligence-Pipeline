@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1842__therapeutic_recreation_initial_evaluation_.txt",
+    "file_name": "mtsamples_1842__therapeutic_recreation_initial_evaluation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2025,
+    "processed_at": "2026-05-09T09:53:51.654350"
+  },
+  "entities": [
+    {
+      "text": "54-year-old",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 34,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "54-year-old",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "CVA",
+      "label": "CHEMICAL",
+      "start_char": 67,
+      "end_char": 70,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CVA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 87,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 100,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

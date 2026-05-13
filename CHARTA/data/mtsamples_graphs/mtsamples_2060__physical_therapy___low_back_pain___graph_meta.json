@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2060__physical_therapy___low_back_pain__",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 46,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0483514": 2
+  },
+  "visit_dates": [
+    "2009-01-10"
+  ],
+  "graph_file": "mtsamples_2060__physical_therapy___low_back_pain___graph.pt",
+  "source_dataset": "mtsamples_2060__physical_therapy___low_back_pain_"
+}

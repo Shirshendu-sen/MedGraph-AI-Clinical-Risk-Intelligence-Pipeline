@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0573__low_transverse_c_section___5_.txt",
+    "file_name": "mtsamples_0573__low_transverse_c_section___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3950,
+    "processed_at": "2026-05-09T09:53:19.558001"
+  },
+  "entities": [
+    {
+      "text": "meconium",
+      "label": "CHEMICAL",
+      "start_char": 3,
+      "end_char": 11,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "3, para 1-0-1-1 Caucasian female",
+      "label": "CHEMICAL",
+      "start_char": 98,
+      "end_char": 130,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "3, para 1-0-1-1 Caucasian female",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nose and mouth",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 18,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nose and mouth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

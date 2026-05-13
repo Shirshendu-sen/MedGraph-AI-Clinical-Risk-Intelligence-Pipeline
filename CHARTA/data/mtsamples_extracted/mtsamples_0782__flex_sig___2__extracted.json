@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0782__flex_sig___2_.txt",
+    "file_name": "mtsamples_0782__flex_sig___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 487,
+    "processed_at": "2026-05-09T09:53:25.662589"
+  },
+  "entities": [
+    {
+      "text": "barium enema",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 47,
+      "sentence_idx": 0,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.7171887755393982,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine ointment",
+      "label": "CHEMICAL",
+      "start_char": 57,
+      "end_char": 75,
+      "sentence_idx": 0,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.7069064378738403,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhoids",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 14,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

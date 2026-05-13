@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1482__ultrasound___lower_extremity_.txt",
+    "file_name": "mtsamples_1482__ultrasound___lower_extremity_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 731,
+    "processed_at": "2026-05-09T09:53:43.069099"
+  },
+  "entities": [
+    {
+      "text": "Lower extremity edema bilaterally.,TECHNIQUE",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 134,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lower extremity edema bilaterally.,TECHNIQUE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 24,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "DVT",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 116,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 89,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "DVT",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 14,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

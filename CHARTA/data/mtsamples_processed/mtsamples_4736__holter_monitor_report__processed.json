@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4736__holter_monitor_report_.txt",
+    "file_name": "mtsamples_4736__holter_monitor_report_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 333,
+    "processed_at": "2026-05-09T09:54:44.000983"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4736__holter_monitor_report_.txt",
+    "text": "INTERPRETATION:,1.  Predominant rhythm is normal sinus rhythm.,2.  No supraventricular arrhythmia.,3.  Frequent premature ventricular contractions.,4.  Trigemini and couplets.,5.  No high-grade atrial ventricular block was noted.,6.  Diary was not kept.,IMPRESSION:,  Frequent premature atrial contractions, couplets, and trigemini.,",
+    "char_count": 333,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "INTERPRETATION:,1. Predominant rhythm is normal sinus rhythm.,2. No supraventricular arrhythmia.,3. Frequent premature ventricular contractions.,4. Trigemini and couplets.,5. No high-grade atrial ventricular block was noted.,6. Diary was not kept.,IMPRESSION:, Frequent premature atrial contractions, couplets, and trigemini.,",
+    "sentences": [
+      "INTERPRETATION:,1.",
+      "Predominant rhythm is normal sinus rhythm.,2.",
+      "No supraventricular arrhythmia.,3.",
+      "Frequent premature ventricular contractions.,4.",
+      "Trigemini and couplets.,5.",
+      "No high-grade atrial ventricular block was noted.,6.",
+      "Diary was not kept.,IMPRESSION:, Frequent premature atrial contractions, couplets, and trigemini.,"
+    ],
+    "sentence_count": 7,
+    "original_length": 333,
+    "cleaned_length": 326,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "INTERPRETATION:,1.  Predominant rhythm is normal sinus rhythm.,2.  No supraventricular arrhythmia.,3.  Frequent premature ventricular contractions.,4.  Trigemini and couplets.,5.  No high-grade atrial ventricular block was noted.,6.  Diary was not kept.,IMPRESSION:,  Frequent premature atrial contractions, couplets, and trigemini.,",
+    "cleaned_text": "INTERPRETATION:,1. Predominant rhythm is normal sinus rhythm.,2. No supraventricular arrhythmia.,3. Frequent premature ventricular contractions.,4. Trigemini and couplets.,5. No high-grade atrial ventricular block was noted.,6. Diary was not kept.,IMPRESSION:, Frequent premature atrial contractions, couplets, and trigemini.,",
+    "sentences": [
+      "INTERPRETATION:,1.",
+      "Predominant rhythm is normal sinus rhythm.,2.",
+      "No supraventricular arrhythmia.,3.",
+      "Frequent premature ventricular contractions.,4.",
+      "Trigemini and couplets.,5.",
+      "No high-grade atrial ventricular block was noted.,6.",
+      "Diary was not kept.,IMPRESSION:, Frequent premature atrial contractions, couplets, and trigemini.,"
+    ],
+    "sentence_count": 7
+  }
+}

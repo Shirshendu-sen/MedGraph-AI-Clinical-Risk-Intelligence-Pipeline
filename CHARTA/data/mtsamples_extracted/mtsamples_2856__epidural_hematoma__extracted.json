@@ -1,0 +1,346 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2856__epidural_hematoma_.txt",
+    "file_name": "mtsamples_2856__epidural_hematoma_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2081,
+    "processed_at": "2026-05-09T09:54:09.818510"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "Fall",
+      "label": "CHEMICAL",
+      "start_char": 5,
+      "end_char": 9,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fall",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "amnestic",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "amnestic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "Lasix",
+      "label": "CHEMICAL",
+      "start_char": 77,
+      "end_char": 82,
+      "sentence_idx": 2,
+      "concept_id": "C0699992",
+      "concept_name": "Lasix",
+      "kb_source": "rxnorm",
+      "link_score": 0.9658849239349365,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "Zantac",
+      "label": "CHEMICAL",
+      "start_char": 92,
+      "end_char": 98,
+      "sentence_idx": 2,
+      "concept_id": "C0592278",
+      "concept_name": "Zantac",
+      "kb_source": "rxnorm",
+      "link_score": 0.9829227924346924,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "Salsalate",
+      "label": "CHEMICAL",
+      "start_char": 148,
+      "end_char": 157,
+      "sentence_idx": 2,
+      "concept_id": "C0073983",
+      "concept_name": "salsalate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9661920070648193,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "ASA",
+      "label": "CHEMICAL",
+      "start_char": 169,
+      "end_char": 172,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ASA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "fibrillation",
+      "label": "DISEASE",
+      "start_char": 229,
+      "end_char": 241,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrillation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "2)Right hemisphere stroke",
+      "label": "DISEASE",
+      "start_char": 243,
+      "end_char": 268,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "2)Right hemisphere stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "left hemiparesis",
+      "label": "DISEASE",
+      "start_char": 296,
+      "end_char": 312,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left hemiparesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "amaurosis fugax",
+      "label": "DISEASE",
+      "start_char": 317,
+      "end_char": 332,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "amaurosis fugax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 53,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "DVT",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 102,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "Part-time",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Part-time",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "HR100",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 60,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "HR100",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "A&O",
+      "label": "CHEMICAL",
+      "start_char": 102,
+      "end_char": 105,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "A&O",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "EOM",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EOM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "Optic",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Optic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 229,
+      "end_char": 237,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "GS",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "GS",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "UA",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 14,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "UA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "RLE",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "RLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 26,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 53,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    },
+    {
+      "text": "DPH",
+      "label": "CHEMICAL",
+      "start_char": 84,
+      "end_char": 87,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DPH",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1993-01-10"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "1/10/93",
+      "start_char": 131,
+      "end_char": 138
+    },
+    {
+      "raw_text": "11/22/88",
+      "start_char": 559,
+      "end_char": 567
+    },
+    {
+      "raw_text": "12/1/88",
+      "start_char": 652,
+      "end_char": 659
+    },
+    {
+      "raw_text": "1/10/93",
+      "start_char": 1784,
+      "end_char": 1791
+    }
+  ]
+}

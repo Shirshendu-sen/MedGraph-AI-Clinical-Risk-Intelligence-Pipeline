@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0256__total_hip_replacement__.txt",
+    "file_name": "mtsamples_0256__total_hip_replacement__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3211,
+    "processed_at": "2026-05-09T09:53:10.534505"
+  },
+  "entities": [
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 25,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dislocation",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 149,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dislocation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dislocation",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 78,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dislocation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "DVT",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 21,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

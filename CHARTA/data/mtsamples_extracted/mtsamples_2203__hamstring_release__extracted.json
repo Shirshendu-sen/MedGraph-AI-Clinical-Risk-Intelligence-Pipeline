@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2203__hamstring_release_.txt",
+    "file_name": "mtsamples_2203__hamstring_release_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2685,
+    "processed_at": "2026-05-09T09:53:58.288075"
+  },
+  "entities": [
+    {
+      "text": "Autism",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 32,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Autism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-04"
+    },
+    {
+      "text": "Autism",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 108,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Autism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-04"
+    },
+    {
+      "text": "knee flexion",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 136,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee flexion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-04"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 40,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-01-04"
+    },
+    {
+      "text": "autism",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 35,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "autism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-04"
+    },
+    {
+      "text": "knee flexion contractures",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 62,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee flexion contractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-04"
+    },
+    {
+      "text": "left knee flexion contracture",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 69,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left knee flexion contracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-04"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 58,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-04"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 68,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-04"
+    },
+    {
+      "text": "contracture",
+      "label": "DISEASE",
+      "start_char": 161,
+      "end_char": 172,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-04"
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 26,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-01-04"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 59,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-01-04"
+    },
+    {
+      "text": "Vicodin",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 20,
+      "sentence_idx": 27,
+      "concept_id": "C0483514",
+      "concept_name": "Vicodin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9674537181854248,
+      "timestamp": "2008-01-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 29,
+      "sentence_idx": 27,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-01-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "01/04/2008",
+      "start_char": 2610,
+      "end_char": 2620
+    }
+  ]
+}

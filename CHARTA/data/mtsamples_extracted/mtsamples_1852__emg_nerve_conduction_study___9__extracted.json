@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1852__emg_nerve_conduction_study___9_.txt",
+    "file_name": "mtsamples_1852__emg_nerve_conduction_study___9_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2653,
+    "processed_at": "2026-05-09T09:53:51.819106"
+  },
+  "entities": [
+    {
+      "text": "Right median sensory response 3.0",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 33,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right median sensory response 3.0",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right ulnar sensory response 2.1, amplitude 1, distance 90.,3",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 61,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right ulnar sensory response 2.1, amplitude 1, distance 90.,3",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 154,
+      "end_char": 168,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 152,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 137,
+      "end_char": 151,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 256,
+      "end_char": 270,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 122,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 137,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 122,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 115,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 119,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 135,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 113,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 118,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 129,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4697__multilobar_pneumonia_.txt",
+    "file_name": "mtsamples_4697__multilobar_pneumonia_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 73,
+    "processed_at": "2026-05-09T09:54:43.499859"
+  },
+  "entities": [
+    {
+      "text": "Loculated left effusion",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 50,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Loculated left effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "multilobar pneumonia",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 72,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "multilobar pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

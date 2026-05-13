@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3669__tonsillectomy___adenoidectomy___5_.txt",
+    "file_name": "mtsamples_3669__tonsillectomy___adenoidectomy___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3559,
+    "processed_at": "2026-05-09T09:54:25.820829"
+  },
+  "entities": [
+    {
+      "text": "adenotonsillitis",
+      "label": "DISEASE",
+      "start_char": 146,
+      "end_char": 162,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenotonsillitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenotonsillitis",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 75,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenotonsillitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenoids",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cleft palate",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 48,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cleft palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left anterior tonsillar pillar",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 94,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left anterior tonsillar pillar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palate",
+      "label": "DISEASE",
+      "start_char": 157,
+      "end_char": 163,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 70,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 51,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Decadron",
+      "label": "CHEMICAL",
+      "start_char": 65,
+      "end_char": 73,
+      "sentence_idx": 33,
+      "concept_id": "C0740057",
+      "concept_name": "Decadron",
+      "kb_source": "rxnorm",
+      "link_score": 0.9529008269309998,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1241__anterior_cervical_discectomy___1_.txt",
+    "file_name": "mtsamples_1241__anterior_cervical_discectomy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5027,
+    "processed_at": "2026-05-09T09:53:37.532271"
+  },
+  "entities": [
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 46,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 83,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 148,
+      "end_char": 159,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 183,
+      "end_char": 196,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arthrodesis",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 23,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthrodesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 198,
+      "end_char": 211,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 235,
+      "end_char": 239,
+      "sentence_idx": 7,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 41,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "methylprednisolone",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 22,
+      "sentence_idx": 11,
+      "concept_id": "C0025815",
+      "concept_name": "methylPREDNISolone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9701598286628723,
+      "timestamp": null
+    },
+    {
+      "text": "spondylitic",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 143,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylitic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dura.,Slowly",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 99,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dura.,Slowly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 55,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tissue-paper-thin",
+      "label": "CHEMICAL",
+      "start_char": 66,
+      "end_char": 83,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tissue-paper-thin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cortisone",
+      "label": "CHEMICAL",
+      "start_char": 214,
+      "end_char": 223,
+      "sentence_idx": 26,
+      "concept_id": "C0010137",
+      "concept_name": "cortisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9763526916503906,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2630__biophysical_profile___1_.txt",
+    "file_name": "mtsamples_2630__biophysical_profile___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1024,
+    "processed_at": "2026-05-09T09:54:05.414084"
+  },
+  "entities": [
+    {
+      "text": "intrauterine pregnancy",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 107,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-28"
+    },
+    {
+      "text": "intrauterine pregnancy",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 34,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-28"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "03/28/08",
+      "start_char": 327,
+      "end_char": 335
+    },
+    {
+      "raw_text": "03/28/08",
+      "start_char": 966,
+      "end_char": 974
+    }
+  ]
+}

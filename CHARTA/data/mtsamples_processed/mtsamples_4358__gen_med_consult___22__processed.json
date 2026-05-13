@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4358__gen_med_consult___22_.txt",
+    "file_name": "mtsamples_4358__gen_med_consult___22_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1185,
+    "processed_at": "2026-05-09T09:54:37.699501"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4358__gen_med_consult___22_.txt",
+    "text": "SUBJECTIVE:,  This is a 12-year-old young man who comes in with about 10 days worth of sinus congestion.  He does have significant allergies including ragweed.  The drainage has been clear.  He had a little bit of a headache yesterday.  He has had no fever.  No one else is ill at home currently.,CURRENT MEDICATIONS:,  Advair and Allegra.  He has been taking these regularly.  He is not sure the Allegra is working for him anymore.  He does think though better than Claritin.,PHYSICAL EXAM:,General:  Alert young man in no distress.,HEENT:  TMs clear and mobile.  Pharynx clear.  Mouth moist.  Nasal mucosa pale with clear discharge.,Neck:  Supple without adenopathy.,Heart:  Regular rate and rhythm without murmur.,Lungs:  Lungs clear, no tachypnea, wheezing, rales or retractions.,Abdomen:  Soft, nontender, without masses or splenomegaly.,ASSESSMENT:,  I think this is still his allergic rhinitis rather than a sinus infection.,PLAN:,  Change to Zyrtec 10 mg samples were given.  He is not using nasal spray, but he has some at home.  He should restart this.  Continue to watch his peak flows to make sure his asthma does not come under poor control.  Call if any further problems.",
+    "char_count": 1185,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "SUBJECTIVE:, This is a 12-year-old young man who comes in with about 10 days worth of sinus congestion. He does have significant allergies including ragweed. The drainage has been clear. He had a little bit of a headache yesterday. He has had no fever. No one else is ill at home currently.,CURRENT MEDICATIONS:, Advair and Allegra. He has been taking these regularly. He is not sure the Allegra is working for him anymore. He does think though better than Claritin.,PHYSICAL EXAM:,General: Alert young man in no distress.,HEENT: TMs clear and mobile. Pharynx clear. Mouth moist. Nasal mucosa pale with clear discharge.,Neck: Supple without adenopathy.,Heart: Regular rate and rhythm without murmur.,Lungs: Lungs clear, no tachypnea, wheezing, rales or retractions.,Abdomen: Soft, nontender, without masses or splenomegaly.,ASSESSMENT:, I think this is still his allergic rhinitis rather than a sinus infection.,PLAN:, Change to Zyrtec 10 mg samples were given. He is not using nasal spray, but he has some at home. He should restart this. Continue to watch his peak flows to make sure his asthma does not come under poor control. Call if any further problems.",
+    "sentences": [
+      "SUBJECTIVE:, This is a 12-year-old young man who comes in with about 10 days worth of sinus congestion.",
+      "He does have significant allergies including ragweed.",
+      "The drainage has been clear.",
+      "He had a little bit of a headache yesterday.",
+      "He has had no fever.",
+      "No one else is ill at home currently.,CURRENT MEDICATIONS:, Advair and Allegra.",
+      "He has been taking these regularly.",
+      "He is not sure the Allegra is working for him anymore.",
+      "He does think though better than Claritin.,PHYSICAL EXAM:,General: Alert young man in no distress.,HEENT: TMs clear and mobile.",
+      "Pharynx clear.",
+      "Mouth moist.",
+      "Nasal mucosa pale with clear discharge.,Neck: Supple without adenopathy.,Heart: Regular rate and rhythm without murmur.,Lungs: Lungs clear, no tachypnea, wheezing, rales or retractions.,Abdomen: Soft, nontender, without masses or splenomegaly.,ASSESSMENT:, I think this is still his allergic rhinitis rather than a sinus infection.,PLAN:, Change to Zyrtec 10 mg samples were given.",
+      "He is not using nasal spray, but he has some at home.",
+      "He should restart this.",
+      "Continue to watch his peak flows to make sure his asthma does not come under poor control.",
+      "Call if any further problems."
+    ],
+    "sentence_count": 16,
+    "original_length": 1185,
+    "cleaned_length": 1160,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "SUBJECTIVE:,  This is a 12-year-old young man who comes in with about 10 days worth of sinus congestion.  He does have significant allergies including ragweed.  The drainage has been clear.  He had a little bit of a headache yesterday.  He has had no fever.  No one else is ill at home currently.,CURRENT MEDICATIONS:,  Advair and Allegra.  He has been taking these regularly.  He is not sure the Allegra is working for him anymore.  He does think though better than Claritin.,PHYSICAL EXAM:,General:  Alert young man in no distress.,HEENT:  TMs clear and mobile.  Pharynx clear.  Mouth moist.  Nasal mucosa pale with clear discharge.,Neck:  Supple without adenopathy.,Heart:  Regular rate and rhythm without murmur.,Lungs:  Lungs clear, no tachypnea, wheezing, rales or retractions.,Abdomen:  Soft, nontender, without masses or splenomegaly.,ASSESSMENT:,  I think this is still his allergic rhinitis rather than a sinus infection.,PLAN:,  Change to Zyrtec 10 mg samples were given.  He is not using nasal spray, but he has some at home.  He should restart this.  Continue to watch his peak flows to make sure his asthma does not come under poor control.  Call if any further problems.",
+    "cleaned_text": "SUBJECTIVE:, This is a 12-year-old young man who comes in with about 10 days worth of sinus congestion. He does have significant allergies including ragweed. The drainage has been clear. He had a little bit of a headache yesterday. He has had no fever. No one else is ill at home currently.,CURRENT MEDICATIONS:, Advair and Allegra. He has been taking these regularly. He is not sure the Allegra is working for him anymore. He does think though better than Claritin.,PHYSICAL EXAM:,General: Alert young man in no distress.,HEENT: TMs clear and mobile. Pharynx clear. Mouth moist. Nasal mucosa pale with clear discharge.,Neck: Supple without adenopathy.,Heart: Regular rate and rhythm without murmur.,Lungs: Lungs clear, no tachypnea, wheezing, rales or retractions.,Abdomen: Soft, nontender, without masses or splenomegaly.,ASSESSMENT:, I think this is still his allergic rhinitis rather than a sinus infection.,PLAN:, Change to Zyrtec 10 mg samples were given. He is not using nasal spray, but he has some at home. He should restart this. Continue to watch his peak flows to make sure his asthma does not come under poor control. Call if any further problems.",
+    "sentences": [
+      "SUBJECTIVE:, This is a 12-year-old young man who comes in with about 10 days worth of sinus congestion.",
+      "He does have significant allergies including ragweed.",
+      "The drainage has been clear.",
+      "He had a little bit of a headache yesterday.",
+      "He has had no fever.",
+      "No one else is ill at home currently.,CURRENT MEDICATIONS:, Advair and Allegra.",
+      "He has been taking these regularly.",
+      "He is not sure the Allegra is working for him anymore.",
+      "He does think though better than Claritin.,PHYSICAL EXAM:,General: Alert young man in no distress.,HEENT: TMs clear and mobile.",
+      "Pharynx clear.",
+      "Mouth moist.",
+      "Nasal mucosa pale with clear discharge.,Neck: Supple without adenopathy.,Heart: Regular rate and rhythm without murmur.,Lungs: Lungs clear, no tachypnea, wheezing, rales or retractions.,Abdomen: Soft, nontender, without masses or splenomegaly.,ASSESSMENT:, I think this is still his allergic rhinitis rather than a sinus infection.,PLAN:, Change to Zyrtec 10 mg samples were given.",
+      "He is not using nasal spray, but he has some at home.",
+      "He should restart this.",
+      "Continue to watch his peak flows to make sure his asthma does not come under poor control.",
+      "Call if any further problems."
+    ],
+    "sentence_count": 16
+  }
+}

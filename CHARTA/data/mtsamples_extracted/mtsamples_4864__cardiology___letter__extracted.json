@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4864__cardiology___letter_.txt",
+    "file_name": "mtsamples_4864__cardiology___letter_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 411,
+    "processed_at": "2026-05-09T09:54:46.506181"
+  },
+  "entities": [
+    {
+      "text": "no neurologic or cardiac event",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 59,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "no neurologic or cardiac event",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

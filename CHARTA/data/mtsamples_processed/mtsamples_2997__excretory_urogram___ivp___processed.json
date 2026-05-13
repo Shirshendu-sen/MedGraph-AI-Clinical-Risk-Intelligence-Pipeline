@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2997__excretory_urogram___ivp__.txt",
+    "file_name": "mtsamples_2997__excretory_urogram___ivp__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 422,
+    "processed_at": "2026-05-09T09:54:12.251303"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2997__excretory_urogram___ivp__.txt",
+    "text": "There is normal and symmetrical filling of the caliceal system.  Subsequent films demonstrate that the kidneys are of normal size and contour bilaterally.  The caliceal system and ureters are in their usual position and show no signs of obstruction or intraluminal defects. The postvoid films demonstrate normal emptying of the collecting system, including the urinary bladder.,IMPRESSION:,  Negative intravenous urogram.,",
+    "char_count": 422,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "There is normal and symmetrical filling of the caliceal system. Subsequent films demonstrate that the kidneys are of normal size and contour bilaterally. The caliceal system and ureters are in their usual position and show no signs of obstruction or intraluminal defects. The postvoid films demonstrate normal emptying of the collecting system, including the urinary bladder.,IMPRESSION:, Negative intravenous urogram.,",
+    "sentences": [
+      "There is normal and symmetrical filling of the caliceal system.",
+      "Subsequent films demonstrate that the kidneys are of normal size and contour bilaterally.",
+      "The caliceal system and ureters are in their usual position and show no signs of obstruction or intraluminal defects.",
+      "The postvoid films demonstrate normal emptying of the collecting system, including the urinary bladder.,IMPRESSION:, Negative intravenous urogram.,"
+    ],
+    "sentence_count": 4,
+    "original_length": 422,
+    "cleaned_length": 419,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "There is normal and symmetrical filling of the caliceal system.  Subsequent films demonstrate that the kidneys are of normal size and contour bilaterally.  The caliceal system and ureters are in their usual position and show no signs of obstruction or intraluminal defects. The postvoid films demonstrate normal emptying of the collecting system, including the urinary bladder.,IMPRESSION:,  Negative intravenous urogram.,",
+    "cleaned_text": "There is normal and symmetrical filling of the caliceal system. Subsequent films demonstrate that the kidneys are of normal size and contour bilaterally. The caliceal system and ureters are in their usual position and show no signs of obstruction or intraluminal defects. The postvoid films demonstrate normal emptying of the collecting system, including the urinary bladder.,IMPRESSION:, Negative intravenous urogram.,",
+    "sentences": [
+      "There is normal and symmetrical filling of the caliceal system.",
+      "Subsequent films demonstrate that the kidneys are of normal size and contour bilaterally.",
+      "The caliceal system and ureters are in their usual position and show no signs of obstruction or intraluminal defects.",
+      "The postvoid films demonstrate normal emptying of the collecting system, including the urinary bladder.,IMPRESSION:, Negative intravenous urogram.,"
+    ],
+    "sentence_count": 4
+  }
+}

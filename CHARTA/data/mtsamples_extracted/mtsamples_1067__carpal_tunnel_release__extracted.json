@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1067__carpal_tunnel_release_.txt",
+    "file_name": "mtsamples_1067__carpal_tunnel_release_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1551,
+    "processed_at": "2026-05-09T09:53:33.074497"
+  },
+  "entities": [
+    {
+      "text": "carpal tunnel syndrome",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 138,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hyperemia",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 26,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

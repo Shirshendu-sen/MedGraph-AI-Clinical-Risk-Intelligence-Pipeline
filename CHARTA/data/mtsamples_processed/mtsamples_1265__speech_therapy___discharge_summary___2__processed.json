@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1265__speech_therapy___discharge_summary___2_.txt",
+    "file_name": "mtsamples_1265__speech_therapy___discharge_summary___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1160,
+    "processed_at": "2026-05-09T09:53:38.212060"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1265__speech_therapy___discharge_summary___2_.txt",
+    "text": "The patient made some progress during therapy.  She accomplished two and a half out of her five short-term therapy goals.  We did complete an oral mechanism examination and clinical swallow evaluation, which showed her swallowing to be within functional limits.  The patient improved on her turn taking skills during conversation, and she was able to listen to a narrative and recall the main idea plus five details after a three-minute delay independently.  The patient continues to have difficulty with visual scanning in cancellation task, secondary to her significant left neglect.  She also did not accomplish her sustained attention goal, which required her to complete tasks greater than 80% accuracy for at least 15 minutes independently.  Thus she also continued to have difficulty with reading, comprehension, secondary to the significance of her left neglect.  The patient was initially authorized for 12 outpatient speech therapy sessions, but once again she only attended 9.  Her last session occurred on 01/09/09.  She has not made any additional followup sessions with me for over three weeks, so she is discharged from my services at this time.",
+    "char_count": 1160,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "The patient made some progress during therapy. She accomplished two and a half out of her five short-term therapy goals. We did complete an oral mechanism examination and clinical swallow evaluation, which showed her swallowing to be within functional limits. The patient improved on her turn taking skills during conversation, and she was able to listen to a narrative and recall the main idea plus five details after a three-minute delay independently. The patient continues to have difficulty with visual scanning in cancellation task, secondary to her significant left neglect. She also did not accomplish her sustained attention goal, which required her to complete tasks greater than 80% accuracy for at least 15 minutes independently. Thus she also continued to have difficulty with reading, comprehension, secondary to the significance of her left neglect. The patient was initially authorized for 12 outpatient speech therapy sessions, but once again she only attended 9. Her last session occurred on 01/09/09. She has not made any additional followup sessions with me for over three weeks, so she is discharged from my services at this time.",
+    "sentences": [
+      "The patient made some progress during therapy.",
+      "She accomplished two and a half out of her five short-term therapy goals.",
+      "We did complete an oral mechanism examination and clinical swallow evaluation, which showed her swallowing to be within functional limits.",
+      "The patient improved on her turn taking skills during conversation, and she was able to listen to a narrative and recall the main idea plus five details after a three-minute delay independently.",
+      "The patient continues to have difficulty with visual scanning in cancellation task, secondary to her significant left neglect.",
+      "She also did not accomplish her sustained attention goal, which required her to complete tasks greater than 80% accuracy for at least 15 minutes independently.",
+      "Thus she also continued to have difficulty with reading, comprehension, secondary to the significance of her left neglect.",
+      "The patient was initially authorized for 12 outpatient speech therapy sessions, but once again she only attended 9.",
+      "Her last session occurred on 01/09/09.",
+      "She has not made any additional followup sessions with me for over three weeks, so she is discharged from my services at this time."
+    ],
+    "sentence_count": 10,
+    "original_length": 1160,
+    "cleaned_length": 1151,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "The patient made some progress during therapy.  She accomplished two and a half out of her five short-term therapy goals.  We did complete an oral mechanism examination and clinical swallow evaluation, which showed her swallowing to be within functional limits.  The patient improved on her turn taking skills during conversation, and she was able to listen to a narrative and recall the main idea plus five details after a three-minute delay independently.  The patient continues to have difficulty with visual scanning in cancellation task, secondary to her significant left neglect.  She also did not accomplish her sustained attention goal, which required her to complete tasks greater than 80% accuracy for at least 15 minutes independently.  Thus she also continued to have difficulty with reading, comprehension, secondary to the significance of her left neglect.  The patient was initially authorized for 12 outpatient speech therapy sessions, but once again she only attended 9.  Her last session occurred on 01/09/09.  She has not made any additional followup sessions with me for over three weeks, so she is discharged from my services at this time.",
+    "cleaned_text": "The patient made some progress during therapy. She accomplished two and a half out of her five short-term therapy goals. We did complete an oral mechanism examination and clinical swallow evaluation, which showed her swallowing to be within functional limits. The patient improved on her turn taking skills during conversation, and she was able to listen to a narrative and recall the main idea plus five details after a three-minute delay independently. The patient continues to have difficulty with visual scanning in cancellation task, secondary to her significant left neglect. She also did not accomplish her sustained attention goal, which required her to complete tasks greater than 80% accuracy for at least 15 minutes independently. Thus she also continued to have difficulty with reading, comprehension, secondary to the significance of her left neglect. The patient was initially authorized for 12 outpatient speech therapy sessions, but once again she only attended 9. Her last session occurred on 01/09/09. She has not made any additional followup sessions with me for over three weeks, so she is discharged from my services at this time.",
+    "sentences": [
+      "The patient made some progress during therapy.",
+      "She accomplished two and a half out of her five short-term therapy goals.",
+      "We did complete an oral mechanism examination and clinical swallow evaluation, which showed her swallowing to be within functional limits.",
+      "The patient improved on her turn taking skills during conversation, and she was able to listen to a narrative and recall the main idea plus five details after a three-minute delay independently.",
+      "The patient continues to have difficulty with visual scanning in cancellation task, secondary to her significant left neglect.",
+      "She also did not accomplish her sustained attention goal, which required her to complete tasks greater than 80% accuracy for at least 15 minutes independently.",
+      "Thus she also continued to have difficulty with reading, comprehension, secondary to the significance of her left neglect.",
+      "The patient was initially authorized for 12 outpatient speech therapy sessions, but once again she only attended 9.",
+      "Her last session occurred on 01/09/09.",
+      "She has not made any additional followup sessions with me for over three weeks, so she is discharged from my services at this time."
+    ],
+    "sentence_count": 10
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3842__altered_mental_status___er_visit_.txt",
+    "file_name": "mtsamples_3842__altered_mental_status___er_visit_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3121,
+    "processed_at": "2026-05-09T09:54:28.176300"
+  },
+  "entities": [
+    {
+      "text": "intracranial bleeding",
+      "label": "DISEASE",
+      "start_char": 164,
+      "end_char": 185,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intracranial bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gastroesophageal reflux disease",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 51,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gastroesophageal reflux disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 18,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Throat",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mannitol",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 46,
+      "sentence_idx": 22,
+      "concept_id": "C0024730",
+      "concept_name": "mannitol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9753459095954895,
+      "timestamp": null
+    },
+    {
+      "text": "condition.,DIFFERENTIAL",
+      "label": "CHEMICAL",
+      "start_char": 99,
+      "end_char": 122,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "condition.,DIFFERENTIAL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Arteriovenous malformation",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 162,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Arteriovenous malformation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 164,
+      "end_char": 170,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "traumatic",
+      "label": "DISEASE",
+      "start_char": 172,
+      "end_char": 181,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "traumatic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Intracerebral hemorrhage",
+      "label": "DISEASE",
+      "start_char": 204,
+      "end_char": 228,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Intracerebral hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

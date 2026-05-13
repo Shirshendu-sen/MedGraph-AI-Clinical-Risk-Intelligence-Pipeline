@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3196__recurrent_abscesses___consult_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 11,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0001963": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3196__recurrent_abscesses___consult__graph.pt",
+  "source_dataset": "mtsamples_3196__recurrent_abscesses___consult"
+}

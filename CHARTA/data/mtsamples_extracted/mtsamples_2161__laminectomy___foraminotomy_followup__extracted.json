@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2161__laminectomy___foraminotomy_followup_.txt",
+    "file_name": "mtsamples_2161__laminectomy___foraminotomy_followup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4523,
+    "processed_at": "2026-05-09T09:53:57.598396"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 25,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "restless leg syndrome",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 63,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "restless leg syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "lower extremity",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 80,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower extremity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 85,
+      "sentence_idx": 7,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 42,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "venous thrombosis",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 86,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "venous thrombosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "lower extremity",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 54,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower extremity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 59,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 90,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 12,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "right leg pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 18,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right leg pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "lower extremity",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 24,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower extremity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 29,
+      "sentence_idx": 14,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "low back pain",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 171,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "low back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 8,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "chills",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 16,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 28,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 49,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "Normocephalic",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Normocephalic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "Afebrile",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Afebrile",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "fullness",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 34,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fullness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 117,
+      "sentence_idx": 35,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-06-08"
+    },
+    {
+      "text": "restless leg syndrome",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 71,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "restless leg syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-08"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "06/08/07",
+      "start_char": 299,
+      "end_char": 307
+    },
+    {
+      "raw_text": "06/28/07",
+      "start_char": 631,
+      "end_char": 639
+    },
+    {
+      "raw_text": "07/03/07",
+      "start_char": 2743,
+      "end_char": 2751
+    },
+    {
+      "raw_text": "07/08/07",
+      "start_char": 3236,
+      "end_char": 3244
+    },
+    {
+      "raw_text": "2 days ago",
+      "start_char": 824,
+      "end_char": 834
+    }
+  ]
+}

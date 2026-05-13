@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1007__closed_reduction___1_.txt",
+    "file_name": "mtsamples_1007__closed_reduction___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1330,
+    "processed_at": "2026-05-09T09:53:31.108669"
+  },
+  "entities": [
+    {
+      "text": "both-bone forearm fracture",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 99,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "both-bone forearm fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "propofol",
+      "label": "CHEMICAL",
+      "start_char": 126,
+      "end_char": 134,
+      "sentence_idx": 3,
+      "concept_id": "C0033487",
+      "concept_name": "propofol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9385934472084045,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 119,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "flexor pollicis longus",
+      "label": "DISEASE",
+      "start_char": 201,
+      "end_char": 223,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "flexor pollicis longus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

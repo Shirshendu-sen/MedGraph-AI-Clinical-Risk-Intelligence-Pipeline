@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2797__mri_head_.txt",
+    "file_name": "mtsamples_2797__mri_head_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1126,
+    "processed_at": "2026-05-09T09:54:08.374889"
+  },
+  "entities": [
+    {
+      "text": "gadolinium",
+      "label": "CHEMICAL",
+      "start_char": 145,
+      "end_char": 155,
+      "sentence_idx": 0,
+      "concept_id": "C0016911",
+      "concept_name": "gadolinium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9583680033683777,
+      "timestamp": null
+    },
+    {
+      "text": "FLAIR/T2",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 91,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FLAIR/T2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hyperintensity",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 113,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperintensity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sinus mucosal disease",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 36,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinus mucosal disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infarction",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 32,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vessel ischemic disease",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 62,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vessel ischemic disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "volume loss",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 28,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "volume loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

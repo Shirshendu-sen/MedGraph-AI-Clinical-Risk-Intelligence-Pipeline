@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1451__polysomnography_.txt",
+    "file_name": "mtsamples_1451__polysomnography_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1328,
+    "processed_at": "2026-05-09T09:53:42.366065"
+  },
+  "entities": [
+    {
+      "text": "apnea",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 54,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "REM stage",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 54,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "REM stage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypopnea",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 34,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypopnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "apnea/hypopnea",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 54,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea/hypopnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypopneas",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 40,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypopneas",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arousals",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arousals",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 5,
+      "end_char": 11,
+      "sentence_idx": 7,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 45,
+      "sentence_idx": 7,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 41,
+      "sentence_idx": 8,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "Oxygen",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 9,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "snoring",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 22,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "snoring",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "apnea",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 75,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "apnea/hypopnea",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 95,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea/hypopnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "respiratory disturbance",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 132,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "respiratory disturbance",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 19,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

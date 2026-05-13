@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1991__youngswick_osteotomy_.txt",
+    "file_name": "mtsamples_1991__youngswick_osteotomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5587,
+    "processed_at": "2026-05-09T09:53:54.337458"
+  },
+  "entities": [
+    {
+      "text": "Hallux limitus deformity",
+      "label": "DISEASE",
+      "start_char": 162,
+      "end_char": 186,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hallux limitus deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hallux limitus deformity",
+      "label": "DISEASE",
+      "start_char": 233,
+      "end_char": 257,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hallux limitus deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 350,
+      "end_char": 358,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 366,
+      "end_char": 375,
+      "sentence_idx": 0,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "bleeders",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 16,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeders",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Gouty tophi",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Gouty tophi",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gout",
+      "label": "DISEASE",
+      "start_char": 184,
+      "end_char": 188,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gout",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tightness",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 117,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tightness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hyperemia",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 19,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 31,
+      "sentence_idx": 34,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "postoperative pain",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 96,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "postoperative pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

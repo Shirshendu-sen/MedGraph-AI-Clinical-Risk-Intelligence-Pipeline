@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0368__right_shoulder_hemiarthroplasty_.txt",
+    "file_name": "mtsamples_0368__right_shoulder_hemiarthroplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5580,
+    "processed_at": "2026-05-09T09:53:14.169131"
+  },
+  "entities": [
+    {
+      "text": "shoulder pain",
+      "label": "DISEASE",
+      "start_char": 389,
+      "end_char": 402,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 470,
+      "end_char": 474,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Cement",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cement",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

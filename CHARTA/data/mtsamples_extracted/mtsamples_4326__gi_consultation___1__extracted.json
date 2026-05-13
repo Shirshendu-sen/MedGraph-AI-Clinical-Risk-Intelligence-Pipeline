@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4326__gi_consultation___1_.txt",
+    "file_name": "mtsamples_4326__gi_consultation___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1962,
+    "processed_at": "2026-05-09T09:54:37.149893"
+  },
+  "entities": [
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 25,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "celiac sprue",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 48,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "celiac sprue",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 157,
+      "end_char": 165,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "constipation",
+      "label": "DISEASE",
+      "start_char": 167,
+      "end_char": 179,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "constipation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "cramping",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 189,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cramping",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "nausea,",
+      "label": "DISEASE",
+      "start_char": 191,
+      "end_char": 198,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea,",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "bloating, belching",
+      "label": "DISEASE",
+      "start_char": 209,
+      "end_char": 227,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bloating, belching",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "celiac sprue",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 130,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "celiac sprue",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 42,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "constipation",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 60,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "constipation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "celiac disease",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 165,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "celiac disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 90,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "fatigue",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 99,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fatigue",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "blurred vision",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 115,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blurred vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "rash",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 121,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rash",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "itching",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 133,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "itching",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 24,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "anxiety",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 33,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anxiety",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    },
+    {
+      "text": "thirst",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 78,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thirst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-04-18"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "April 18, 2005",
+      "start_char": 1663,
+      "end_char": 1677
+    }
+  ]
+}

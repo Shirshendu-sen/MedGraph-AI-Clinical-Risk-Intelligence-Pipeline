@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1640__duplex_ultrasound___legs_.txt",
+    "file_name": "mtsamples_1640__duplex_ultrasound___legs_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1494,
+    "processed_at": "2026-05-09T09:53:47.295985"
+  },
+  "entities": [
+    {
+      "text": "thrombus",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 85,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thrombosis",
+      "label": "DISEASE",
+      "start_char": 185,
+      "end_char": 195,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thrombus",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 85,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thrombosis",
+      "label": "DISEASE",
+      "start_char": 185,
+      "end_char": 195,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4659__pulmonary_atresia_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 32,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1
+  },
+  "visit_dates": [
+    "1999-05-26"
+  ],
+  "graph_file": "mtsamples_4659__pulmonary_atresia__graph.pt",
+  "source_dataset": "mtsamples_4659__pulmonary_atresia"
+}

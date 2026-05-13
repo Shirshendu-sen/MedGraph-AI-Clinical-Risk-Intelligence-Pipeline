@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_3257__hypersensitivity_to_coumadin_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 50,
+  "entity_index": {
+    "C0699129": 0,
+    "UNKNOWN": 1,
+    "C0001962": 2,
+    "C0026549": 3,
+    "C0042878": 4,
+    "C0019134": 5,
+    "C0728963": 6
+  },
+  "visit_dates": [
+    "2009-01-21"
+  ],
+  "graph_file": "mtsamples_3257__hypersensitivity_to_coumadin__graph.pt",
+  "source_dataset": "mtsamples_3257__hypersensitivity_to_coumadin"
+}

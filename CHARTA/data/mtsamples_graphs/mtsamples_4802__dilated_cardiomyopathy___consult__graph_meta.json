@@ -1,0 +1,26 @@
+{
+  "patient_id": "mtsamples_4802__dilated_cardiomyopathy___consult_",
+  "num_entities": 13,
+  "num_visits": 1,
+  "num_edges": 89,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0004057": 1,
+    "C0008188": 2,
+    "C0055877": 3,
+    "C0030054": 4,
+    "C0017725": 5,
+    "C0010294": 6,
+    "C0032821": 7,
+    "C0039738": 8,
+    "C0006675": 9,
+    "C0065374": 10,
+    "C0054836": 11,
+    "C0016860": 12
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4802__dilated_cardiomyopathy___consult__graph.pt",
+  "source_dataset": "mtsamples_4802__dilated_cardiomyopathy___consult"
+}

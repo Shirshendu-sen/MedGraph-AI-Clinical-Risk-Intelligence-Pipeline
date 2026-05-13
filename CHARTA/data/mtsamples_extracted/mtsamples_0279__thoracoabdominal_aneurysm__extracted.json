@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0279__thoracoabdominal_aneurysm_.txt",
+    "file_name": "mtsamples_0279__thoracoabdominal_aneurysm_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3770,
+    "processed_at": "2026-05-09T09:53:11.241035"
+  },
+  "entities": [
+    {
+      "text": "thoracoabdominal aneurysm",
+      "label": "DISEASE",
+      "start_char": 127,
+      "end_char": 152,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thoracoabdominal aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left groin",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 14,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left groin",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left inferior pulmonary vein",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 32,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left inferior pulmonary vein",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aneurysm",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aneurysm",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "SMA, celiac and right renal artery",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 38,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SMA, celiac and right renal artery",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Protamine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 32,
+      "concept_id": "C0033603",
+      "concept_name": "protamines",
+      "kb_source": "rxnorm",
+      "link_score": 0.961919367313385,
+      "timestamp": null
+    },
+    {
+      "text": "aneurysm",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 80,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

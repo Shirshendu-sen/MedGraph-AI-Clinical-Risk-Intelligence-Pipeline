@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2044__release_of_a1_pulley_.txt",
+    "file_name": "mtsamples_2044__release_of_a1_pulley_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2070,
+    "processed_at": "2026-05-09T09:53:55.203915"
+  },
+  "entities": [
+    {
+      "text": "thumb.,SURGERY",
+      "label": "CHEMICAL",
+      "start_char": 87,
+      "end_char": 101,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thumb.,SURGERY",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 50,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

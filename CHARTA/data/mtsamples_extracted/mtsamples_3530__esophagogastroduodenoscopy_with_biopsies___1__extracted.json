@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3530__esophagogastroduodenoscopy_with_biopsies___1_.txt",
+    "file_name": "mtsamples_3530__esophagogastroduodenoscopy_with_biopsies___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1895,
+    "processed_at": "2026-05-09T09:54:23.278580"
+  },
+  "entities": [
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 118,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 184,
+      "end_char": 189,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "duodenal erythema",
+      "label": "DISEASE",
+      "start_char": 210,
+      "end_char": 227,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "duodenal erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 256,
+      "end_char": 264,
+      "sentence_idx": 0,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 413,
+      "end_char": 421,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "perforation",
+      "label": "DISEASE",
+      "start_char": 423,
+      "end_char": 434,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophagus",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophagus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "incisors",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "incisors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cardia",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 117,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erosion",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 69,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erosion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 92,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 92,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erosions",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 110,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erosions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

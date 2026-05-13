@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_3859__prematurity___discharge_summary_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0005308": 1,
+    "C0030827": 2,
+    "C0030054": 3,
+    "C0002680": 4,
+    "C3854019": 5
+  },
+  "visit_dates": [
+    "2003-09-29"
+  ],
+  "graph_file": "mtsamples_3859__prematurity___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3859__prematurity___discharge_summary"
+}

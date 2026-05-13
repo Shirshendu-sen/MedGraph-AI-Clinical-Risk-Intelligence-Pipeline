@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1882__school_physical___2_.txt",
+    "file_name": "mtsamples_1882__school_physical___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2222,
+    "processed_at": "2026-05-09T09:53:52.369660"
+  },
+  "entities": [
+    {
+      "text": "9-year-old",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 105,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "9-year-old",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "humor",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 174,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "humor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 62,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 25,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "earache",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "earache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sore throat",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 25,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sore throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 8,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 29,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "wheezing",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "wheezing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stomachache",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 14,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stomachache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 24,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 36,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dysuria",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

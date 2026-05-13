@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3895__ectopic_pregnancy___discharge_summary_.txt",
+    "file_name": "mtsamples_3895__ectopic_pregnancy___discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1700,
+    "processed_at": "2026-05-09T09:54:28.817708"
+  },
+  "entities": [
+    {
+      "text": "pelvic pain",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 118,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-09"
+    },
+    {
+      "text": "vaginal bleeding",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 139,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vaginal bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-09"
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 233,
+      "end_char": 240,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-09"
+    },
+    {
+      "text": "ruptured ectopic pregnancy",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 54,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ruptured ectopic pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-09"
+    },
+    {
+      "text": "right ruptured ectopic pregnancy",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 115,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ruptured ectopic pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-09"
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 57,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-09"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 18,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-09"
+    },
+    {
+      "text": "Right ruptured ectopic pregnancy",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 32,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right ruptured ectopic pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-09"
+    },
+    {
+      "text": "Anemia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-09"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 77,
+      "sentence_idx": 18,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-09-09"
+    },
+    {
+      "text": "iron",
+      "label": "CHEMICAL",
+      "start_char": 93,
+      "end_char": 97,
+      "sentence_idx": 18,
+      "concept_id": "C0302583",
+      "concept_name": "iron",
+      "kb_source": "rxnorm",
+      "link_score": 0.9597261548042297,
+      "timestamp": "2007-09-09"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/09/2007",
+      "start_char": 1448,
+      "end_char": 1458
+    }
+  ]
+}

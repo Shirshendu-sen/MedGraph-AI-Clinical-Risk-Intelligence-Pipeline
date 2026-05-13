@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1868__tympanostomy___myringotomy_tube_placement_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 14,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C2363152": 1,
+    "C0701044": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1868__tympanostomy___myringotomy_tube_placement__graph.pt",
+  "source_dataset": "mtsamples_1868__tympanostomy___myringotomy_tube_placement"
+}

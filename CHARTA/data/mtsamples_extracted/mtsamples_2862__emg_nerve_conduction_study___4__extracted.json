@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2862__emg_nerve_conduction_study___4_.txt",
+    "file_name": "mtsamples_2862__emg_nerve_conduction_study___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2698,
+    "processed_at": "2026-05-09T09:54:09.924787"
+  },
+  "entities": [
+    {
+      "text": "left radial sensory response",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 32,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left radial sensory response",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prolonged.,NEEDLE",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 29,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prolonged.,NEEDLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neuropathy",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 43,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left ulnar neuropathy",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 30,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left ulnar neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neuropathy",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 41,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right ulnar neuropathy",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 22,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right ulnar neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neuropathy",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 23,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carpal tunnel syndrome",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 75,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carpal tunnel syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 23,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 121,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Neurontin",
+      "label": "CHEMICAL",
+      "start_char": 137,
+      "end_char": 146,
+      "sentence_idx": 26,
+      "concept_id": "C0678176",
+      "concept_name": "Neurontin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9693526029586792,
+      "timestamp": null
+    },
+    {
+      "text": "allodynia",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 27,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allodynia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

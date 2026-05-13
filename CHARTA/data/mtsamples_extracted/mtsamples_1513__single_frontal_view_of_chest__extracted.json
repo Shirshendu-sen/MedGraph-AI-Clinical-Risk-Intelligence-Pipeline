@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1513__single_frontal_view_of_chest_.txt",
+    "file_name": "mtsamples_1513__single_frontal_view_of_chest_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1259,
+    "processed_at": "2026-05-09T09:53:43.672039"
+  },
+  "entities": [
+    {
+      "text": "Atelectasis",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 64,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 62,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "basilar atelectasis",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 66,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "basilar atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothoraces",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 33,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothoraces",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "basilar atelectasis",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 37,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "basilar atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

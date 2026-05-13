@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0181__wound_closure___debridement___hydrocephalus_.txt",
+    "file_name": "mtsamples_0181__wound_closure___debridement___hydrocephalus_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1529,
+    "processed_at": "2026-05-09T09:53:08.709939"
+  },
+  "entities": [
+    {
+      "text": "hydrocephalus",
+      "label": "DISEASE",
+      "start_char": 159,
+      "end_char": 172,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocephalus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fevers",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 30,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fevers",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 40,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 28,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

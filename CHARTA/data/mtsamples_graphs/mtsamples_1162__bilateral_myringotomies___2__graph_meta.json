@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1162__bilateral_myringotomies___2_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 10,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699173": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1162__bilateral_myringotomies___2__graph.pt",
+  "source_dataset": "mtsamples_1162__bilateral_myringotomies___2"
+}

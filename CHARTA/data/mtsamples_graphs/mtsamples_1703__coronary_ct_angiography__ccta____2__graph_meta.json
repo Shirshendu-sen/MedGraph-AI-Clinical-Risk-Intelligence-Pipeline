@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1703__coronary_ct_angiography__ccta____2_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 11,
+  "entity_index": {
+    "C0017887": 0,
+    "UNKNOWN": 1,
+    "C0006675": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1703__coronary_ct_angiography__ccta____2__graph.pt",
+  "source_dataset": "mtsamples_1703__coronary_ct_angiography__ccta____2"
+}

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2995__cystourethroscopy___retrograde_pyelogram___1_.txt",
+    "file_name": "mtsamples_2995__cystourethroscopy___retrograde_pyelogram___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4118,
+    "processed_at": "2026-05-09T09:54:12.234990"
+  },
+  "entities": [
+    {
+      "text": "Right ureteropelvic junction obstruction.,PROCEDURES PERFORMED:,1",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 65,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right ureteropelvic junction obstruction.,PROCEDURES PERFORMED:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right renal pelvis urine",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 157,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right renal pelvis urine",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematuria",
+      "label": "DISEASE",
+      "start_char": 292,
+      "end_char": 301,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematuria",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 96,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abnormal appearing right kidney",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 54,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal appearing right kidney",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypospadias",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 107,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypospadias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 54,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "UPJ",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 41,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "UPJ",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "UPJ obstruction",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 132,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "UPJ obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "papillary mass",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 102,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "papillary mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

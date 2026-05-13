@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0783__flexible_bronchoscopy_.txt",
+    "file_name": "mtsamples_0783__flexible_bronchoscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1449,
+    "processed_at": "2026-05-09T09:53:25.700020"
+  },
+  "entities": [
+    {
+      "text": "sevoflurane",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 40,
+      "sentence_idx": 1,
+      "concept_id": "C0074414",
+      "concept_name": "sevoflurane",
+      "kb_source": "rxnorm",
+      "link_score": 0.963233232498169,
+      "timestamp": null
+    },
+    {
+      "text": "propofol",
+      "label": "CHEMICAL",
+      "start_char": 45,
+      "end_char": 53,
+      "sentence_idx": 1,
+      "concept_id": "C0033487",
+      "concept_name": "propofol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9385934472084045,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 22,
+      "sentence_idx": 2,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epiglottis",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 14,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epiglottis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arytenoids",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 26,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arytenoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

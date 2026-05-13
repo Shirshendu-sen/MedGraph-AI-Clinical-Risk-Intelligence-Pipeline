@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0625__laparoscopic_cholecystectomy___liver_cyst_excision_.txt",
+    "file_name": "mtsamples_0625__laparoscopic_cholecystectomy___liver_cyst_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5065,
+    "processed_at": "2026-05-09T09:53:21.081900"
+  },
+  "entities": [
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 79,
+      "end_char": 87,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-04"
+    },
+    {
+      "text": "liver cyst",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 44,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "liver cyst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-04"
+    },
+    {
+      "text": "nausea, vomiting",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 54,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea, vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-04"
+    },
+    {
+      "text": "abdominal bloating",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 78,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal bloating",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 56,
+      "sentence_idx": 14,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2003-08-04"
+    },
+    {
+      "text": "cholelithiasis",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 90,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cholelithiasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-04"
+    },
+    {
+      "text": "Kefzol",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 57,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Kefzol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-04"
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 98,
+      "end_char": 101,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-04"
+    },
+    {
+      "text": "Adhesions",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Adhesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-04"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-04"
+    },
+    {
+      "text": "gallstone",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 45,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gallstone",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/04/2003",
+      "start_char": 1089,
+      "end_char": 1099
+    }
+  ]
+}

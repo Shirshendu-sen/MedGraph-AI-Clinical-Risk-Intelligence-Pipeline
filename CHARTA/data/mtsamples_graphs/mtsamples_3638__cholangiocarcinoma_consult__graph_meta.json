@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3638__cholangiocarcinoma_consult_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0043328": 1,
+    "C0016410": 2
+  },
+  "visit_dates": [
+    "2010-08-24"
+  ],
+  "graph_file": "mtsamples_3638__cholangiocarcinoma_consult__graph.pt",
+  "source_dataset": "mtsamples_3638__cholangiocarcinoma_consult"
+}

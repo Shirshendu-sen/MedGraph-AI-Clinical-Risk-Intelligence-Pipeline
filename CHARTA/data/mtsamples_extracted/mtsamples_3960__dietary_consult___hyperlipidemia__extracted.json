@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3960__dietary_consult___hyperlipidemia_.txt",
+    "file_name": "mtsamples_3960__dietary_consult___hyperlipidemia_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2533,
+    "processed_at": "2026-05-09T09:54:29.848545"
+  },
+  "entities": [
+    {
+      "text": "hyperlipidemia",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 71,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperlipidemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 85,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "metabolic syndrome",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 118,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "metabolic syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "weight gain",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 46,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight gain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 141,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "weight gain",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 78,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight gain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbohydrate",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 44,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carbohydrate",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0881__double_lumen_port_inserstion_.txt",
+    "file_name": "mtsamples_0881__double_lumen_port_inserstion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2173,
+    "processed_at": "2026-05-09T09:53:28.152359"
+  },
+  "entities": [
+    {
+      "text": "glossal carcinoma",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 53,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glossal carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "glossal carcinoma",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 143,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glossal carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inferior vena cava and right atrium",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 97,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inferior vena cava and right atrium",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 69,
+      "sentence_idx": 14,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

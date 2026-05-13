@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0429__phenol_neurolysis___botulinum_toxin_injection___2_.txt",
+    "file_name": "mtsamples_0429__phenol_neurolysis___botulinum_toxin_injection___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1511,
+    "processed_at": "2026-05-09T09:53:15.869110"
+  },
+  "entities": [
+    {
+      "text": "Phenol neurolysis right obturator nerve",
+      "label": "CHEMICAL",
+      "start_char": 24,
+      "end_char": 63,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Phenol neurolysis right obturator nerve",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right rectus femoris",
+      "label": "CHEMICAL",
+      "start_char": 91,
+      "end_char": 111,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right rectus femoris",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Spastic right hemiparetic cerebral palsy",
+      "label": "DISEASE",
+      "start_char": 276,
+      "end_char": 316,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Spastic right hemiparetic cerebral palsy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Spastic right hemiparetic cerebral palsy",
+      "label": "DISEASE",
+      "start_char": 351,
+      "end_char": 391,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Spastic right hemiparetic cerebral palsy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "343.1.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 393,
+      "end_char": 410,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "343.1.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chlorhexidine",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 64,
+      "sentence_idx": 3,
+      "concept_id": "C0008196",
+      "concept_name": "chlorhexidine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9488893151283264,
+      "timestamp": null
+    },
+    {
+      "text": "phenol",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 31,
+      "sentence_idx": 5,
+      "concept_id": "C0070570",
+      "concept_name": "phenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9937645792961121,
+      "timestamp": null
+    },
+    {
+      "text": "phenol",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 22,
+      "sentence_idx": 6,
+      "concept_id": "C0070570",
+      "concept_name": "phenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9937645792961121,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

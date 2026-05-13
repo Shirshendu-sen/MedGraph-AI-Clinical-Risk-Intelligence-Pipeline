@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_0271__thromboendarterectomy_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 11,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0032821": 1,
+    "C0019134": 2,
+    "C0033603": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0271__thromboendarterectomy__graph.pt",
+  "source_dataset": "mtsamples_0271__thromboendarterectomy"
+}

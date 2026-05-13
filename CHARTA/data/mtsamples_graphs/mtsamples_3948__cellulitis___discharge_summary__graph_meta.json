@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_3948__cellulitis___discharge_summary_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0376325": 1,
+    "C0042313": 2,
+    "C0013090": 3,
+    "C0086787": 4,
+    "C0722364": 5
+  },
+  "visit_dates": [
+    "2008-03-26"
+  ],
+  "graph_file": "mtsamples_3948__cellulitis___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3948__cellulitis___discharge_summary"
+}

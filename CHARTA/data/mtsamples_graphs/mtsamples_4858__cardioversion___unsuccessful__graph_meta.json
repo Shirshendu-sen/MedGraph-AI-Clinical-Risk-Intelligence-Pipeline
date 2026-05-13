@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4858__cardioversion___unsuccessful_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "C0015846": 0,
+    "UNKNOWN": 1,
+    "C0002598": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4858__cardioversion___unsuccessful__graph.pt",
+  "source_dataset": "mtsamples_4858__cardioversion___unsuccessful"
+}

@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2781__myoclonic_epilepsy_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 28,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0678180": 1,
+    "C0876060": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2781__myoclonic_epilepsy__graph.pt",
+  "source_dataset": "mtsamples_2781__myoclonic_epilepsy"
+}

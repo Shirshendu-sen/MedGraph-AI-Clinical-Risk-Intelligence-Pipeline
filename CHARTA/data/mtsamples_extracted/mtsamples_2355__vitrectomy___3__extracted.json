@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2355__vitrectomy___3_.txt",
+    "file_name": "mtsamples_2355__vitrectomy___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2976,
+    "processed_at": "2026-05-09T09:54:00.562408"
+  },
+  "entities": [
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 57,
+      "end_char": 66,
+      "sentence_idx": 1,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "bupivacaine",
+      "label": "CHEMICAL",
+      "start_char": 77,
+      "end_char": 88,
+      "sentence_idx": 1,
+      "concept_id": "C0006400",
+      "concept_name": "bupivacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9624806642532349,
+      "timestamp": null
+    },
+    {
+      "text": "conjunctival",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 84,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "conjunctival",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vitreous hemorrhage",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 47,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vitreous hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetic membranes emanating along the arcades",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 115,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic membranes emanating along the arcades",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 23,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "panretinal",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 48,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "panretinal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 36,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Decadron",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 25,
+      "concept_id": "C0740057",
+      "concept_name": "Decadron",
+      "kb_source": "rxnorm",
+      "link_score": 0.9529008269309998,
+      "timestamp": null
+    },
+    {
+      "text": "atropine",
+      "label": "CHEMICAL",
+      "start_char": 75,
+      "end_char": 83,
+      "sentence_idx": 25,
+      "concept_id": "C0004259",
+      "concept_name": "atropine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9555075764656067,
+      "timestamp": null
+    },
+    {
+      "text": "Maxitrol ointment",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 17,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Maxitrol ointment",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1068__carpal_ligament_reconstruction_.txt",
+    "file_name": "mtsamples_1068__carpal_ligament_reconstruction_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1741,
+    "processed_at": "2026-05-09T09:53:33.097082"
+  },
+  "entities": [
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 73,
+      "end_char": 84,
+      "sentence_idx": 8,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

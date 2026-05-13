@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2068__ossatron_extracorporeal_shockwave_therapy_.txt",
+    "file_name": "mtsamples_2068__ossatron_extracorporeal_shockwave_therapy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 895,
+    "processed_at": "2026-05-09T09:53:55.692031"
+  },
+  "entities": [
+    {
+      "text": "OssaTron",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 139,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "OssaTron",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "OssaTron",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "OssaTron",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 202,
+      "end_char": 206,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "OssaTron",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 67,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "OssaTron",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3181__trouble_breathing___h_p__.txt",
+    "file_name": "mtsamples_3181__trouble_breathing___h_p__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1251,
+    "processed_at": "2026-05-09T09:54:16.052057"
+  },
+  "entities": [
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 79,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-07-10"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 47,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-07-10"
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 72,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-07-10"
+    },
+    {
+      "text": "diabetes mellitus",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 132,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-07-10"
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 146,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-07-10"
+    },
+    {
+      "text": "chronic obstructive pulmonary disease",
+      "label": "DISEASE",
+      "start_char": 148,
+      "end_char": 185,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic obstructive pulmonary disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-07-10"
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 187,
+      "end_char": 210,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-07-10"
+    },
+    {
+      "text": "PSH",
+      "label": "DISEASE",
+      "start_char": 211,
+      "end_char": 214,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PSH",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-07-10"
+    },
+    {
+      "text": "Advair",
+      "label": "CHEMICAL",
+      "start_char": 142,
+      "end_char": 148,
+      "sentence_idx": 5,
+      "concept_id": "C0965130",
+      "concept_name": "Advair",
+      "kb_source": "rxnorm",
+      "link_score": 0.9902213215827942,
+      "timestamp": "2025-07-10"
+    },
+    {
+      "text": "Lisinopril",
+      "label": "CHEMICAL",
+      "start_char": 160,
+      "end_char": 170,
+      "sentence_idx": 5,
+      "concept_id": "C0065374",
+      "concept_name": "lisinopril",
+      "kb_source": "rxnorm",
+      "link_score": 0.9948257803916931,
+      "timestamp": "2025-07-10"
+    },
+    {
+      "text": "Lopressor",
+      "label": "CHEMICAL",
+      "start_char": 180,
+      "end_char": 189,
+      "sentence_idx": 5,
+      "concept_id": "C0700776",
+      "concept_name": "Lopressor",
+      "kb_source": "rxnorm",
+      "link_score": 0.9802963137626648,
+      "timestamp": "2025-07-10"
+    },
+    {
+      "text": "Aspirin",
+      "label": "CHEMICAL",
+      "start_char": 200,
+      "end_char": 207,
+      "sentence_idx": 5,
+      "concept_id": "C0004057",
+      "concept_name": "aspirin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736717343330383,
+      "timestamp": "2025-07-10"
+    },
+    {
+      "text": "Plavix",
+      "label": "CHEMICAL",
+      "start_char": 217,
+      "end_char": 223,
+      "sentence_idx": 5,
+      "concept_id": "C0633084",
+      "concept_name": "Plavix",
+      "kb_source": "rxnorm",
+      "link_score": 0.9820790886878967,
+      "timestamp": "2025-07-10"
+    },
+    {
+      "text": "acute respiratory distress",
+      "label": "DISEASE",
+      "start_char": 422,
+      "end_char": 448,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute respiratory distress",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-07-10"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10 months ago",
+      "start_char": 437,
+      "end_char": 450
+    }
+  ]
+}

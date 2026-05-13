@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3559__egd_with_biopsy___2_.txt",
+    "file_name": "mtsamples_3559__egd_with_biopsy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1319,
+    "processed_at": "2026-05-09T09:54:23.577980"
+  },
+  "entities": [
+    {
+      "text": "Fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 163,
+      "end_char": 171,
+      "sentence_idx": 0,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "biliary colic-type",
+      "label": "DISEASE",
+      "start_char": 253,
+      "end_char": 271,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "biliary colic-type",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 331,
+      "end_char": 335,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "gallstones",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 100,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gallstones",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 94,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 137,
+      "sentence_idx": 3,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 77,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

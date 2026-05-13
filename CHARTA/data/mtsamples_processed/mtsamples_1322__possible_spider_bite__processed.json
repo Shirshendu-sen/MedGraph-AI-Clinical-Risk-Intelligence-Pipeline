@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1322__possible_spider_bite_.txt",
+    "file_name": "mtsamples_1322__possible_spider_bite_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1497,
+    "processed_at": "2026-05-09T09:53:39.219856"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1322__possible_spider_bite_.txt",
+    "text": "SUBJECTIVE:,  This 47-year-old white female presents with concern about possible spider bite to the left side of her neck.  She is not aware of any specific injury.  She noticed a little tenderness and redness on her left posterior shoulder about two days ago.  It seems to be getting a little bit larger in size, and she saw some red streaks extending up her neck.  She has had no fever.  The area is very minimally tender, but not particularly so.,CURRENT MEDICATIONS:,  Generic Maxzide, Climara patch, multivitamin, Tums, Claritin, and vitamin C.,ALLERGIES:,  No known medicine allergies.,OBJECTIVE:,Vital Signs:  Weight is 150 pounds.  Blood pressure 122/82.,Extremities:  Examination of the left posterior shoulder near the neckline is an area of faint erythema which is 6 cm in diameter.  In the center is a tiny mark which could certainly be an insect or spider bite.  There is no eschar there, but just a tiny marking.  There are a couple of erythematous streaks extending towards the neck.,ASSESSMENT:,  Possible insect bite with lymphangitis.,PLAN:,1.  Duricef 1 g daily for seven days.,2.  Cold packs to the area.,3.  Discussed symptoms that were suggestive of the worsening, in which case she would need to call me.,4.  Incidentally, she has noticed a little bit of dryness and redness on her eyelids, particularly the upper ones’ and the lower lateral areas.  I suspect she has a mild contact dermatitis and suggested hydrocortisone 1% cream to be applied sparingly at bedtime only.",
+    "char_count": 1495,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "SUBJECTIVE:, This 47-year-old white female presents with concern about possible spider bite to the left side of her neck. She is not aware of any specific injury. She noticed a little tenderness and redness on her left posterior shoulder about two days ago. It seems to be getting a little bit larger in size, and she saw some red streaks extending up her neck. She has had no fever. The area is very minimally tender, but not particularly so.,CURRENT MEDICATIONS:, Generic Maxzide, Climara patch, multivitamin, Tums, Claritin, and vitamin C.,ALLERGIES:, No known medicine allergies.,OBJECTIVE:,Vital Signs: Weight is 150 pounds. Blood pressure 122/82.,Extremities: Examination of the left posterior shoulder near the neckline is an area of faint erythema which is 6 cm in diameter. In the center is a tiny mark which could certainly be an insect or spider bite. There is no eschar there, but just a tiny marking. There are a couple of erythematous streaks extending towards the neck.,ASSESSMENT:, Possible insect bite with lymphangitis.,PLAN:,1. Duricef 1 g daily for seven days.,2. Cold packs to the area.,3. Discussed symptoms that were suggestive of the worsening, in which case she would need to call me.,4. Incidentally, she has noticed a little bit of dryness and redness on her eyelids, particularly the upper ones' and the lower lateral areas. I suspect she has a mild contact dermatitis and suggested hydrocortisone 1% cream to be applied sparingly at bedtime only.",
+    "sentences": [
+      "SUBJECTIVE:, This 47-year-old white female presents with concern about possible spider bite to the left side of her neck.",
+      "She is not aware of any specific injury.",
+      "She noticed a little tenderness and redness on her left posterior shoulder about two days ago.",
+      "It seems to be getting a little bit larger in size, and she saw some red streaks extending up her neck.",
+      "She has had no fever.",
+      "The area is very minimally tender, but not particularly so.,CURRENT MEDICATIONS:, Generic Maxzide, Climara patch, multivitamin, Tums, Claritin, and vitamin C.,ALLERGIES:, No known medicine allergies.,OBJECTIVE:,Vital Signs: Weight is 150 pounds.",
+      "Blood pressure 122/82.,Extremities: Examination of the left posterior shoulder near the neckline is an area of faint erythema which is 6 cm in diameter.",
+      "In the center is a tiny mark which could certainly be an insect or spider bite.",
+      "There is no eschar there, but just a tiny marking.",
+      "There are a couple of erythematous streaks extending towards the neck.,ASSESSMENT:, Possible insect bite with lymphangitis.,PLAN:,1.",
+      "Duricef 1 g daily for seven days.,2.",
+      "Cold packs to the area.,3.",
+      "Discussed symptoms that were suggestive of the worsening, in which case she would need to call me.,4.",
+      "Incidentally, she has noticed a little bit of dryness and redness on her eyelids, particularly the upper ones' and the lower lateral areas.",
+      "I suspect she has a mild contact dermatitis and suggested hydrocortisone 1% cream to be applied sparingly at bedtime only."
+    ],
+    "sentence_count": 15,
+    "original_length": 1495,
+    "cleaned_length": 1475,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "SUBJECTIVE:,  This 47-year-old white female presents with concern about possible spider bite to the left side of her neck.  She is not aware of any specific injury.  She noticed a little tenderness and redness on her left posterior shoulder about two days ago.  It seems to be getting a little bit larger in size, and she saw some red streaks extending up her neck.  She has had no fever.  The area is very minimally tender, but not particularly so.,CURRENT MEDICATIONS:,  Generic Maxzide, Climara patch, multivitamin, Tums, Claritin, and vitamin C.,ALLERGIES:,  No known medicine allergies.,OBJECTIVE:,Vital Signs:  Weight is 150 pounds.  Blood pressure 122/82.,Extremities:  Examination of the left posterior shoulder near the neckline is an area of faint erythema which is 6 cm in diameter.  In the center is a tiny mark which could certainly be an insect or spider bite.  There is no eschar there, but just a tiny marking.  There are a couple of erythematous streaks extending towards the neck.,ASSESSMENT:,  Possible insect bite with lymphangitis.,PLAN:,1.  Duricef 1 g daily for seven days.,2.  Cold packs to the area.,3.  Discussed symptoms that were suggestive of the worsening, in which case she would need to call me.,4.  Incidentally, she has noticed a little bit of dryness and redness on her eyelids, particularly the upper ones’ and the lower lateral areas.  I suspect she has a mild contact dermatitis and suggested hydrocortisone 1% cream to be applied sparingly at bedtime only.",
+    "cleaned_text": "SUBJECTIVE:, This 47-year-old white female presents with concern about possible spider bite to the left side of her neck. She is not aware of any specific injury. She noticed a little tenderness and redness on her left posterior shoulder about two days ago. It seems to be getting a little bit larger in size, and she saw some red streaks extending up her neck. She has had no fever. The area is very minimally tender, but not particularly so.,CURRENT MEDICATIONS:, Generic Maxzide, Climara patch, multivitamin, Tums, Claritin, and vitamin C.,ALLERGIES:, No known medicine allergies.,OBJECTIVE:,Vital Signs: Weight is 150 pounds. Blood pressure 122/82.,Extremities: Examination of the left posterior shoulder near the neckline is an area of faint erythema which is 6 cm in diameter. In the center is a tiny mark which could certainly be an insect or spider bite. There is no eschar there, but just a tiny marking. There are a couple of erythematous streaks extending towards the neck.,ASSESSMENT:, Possible insect bite with lymphangitis.,PLAN:,1. Duricef 1 g daily for seven days.,2. Cold packs to the area.,3. Discussed symptoms that were suggestive of the worsening, in which case she would need to call me.,4. Incidentally, she has noticed a little bit of dryness and redness on her eyelids, particularly the upper ones' and the lower lateral areas. I suspect she has a mild contact dermatitis and suggested hydrocortisone 1% cream to be applied sparingly at bedtime only.",
+    "sentences": [
+      "SUBJECTIVE:, This 47-year-old white female presents with concern about possible spider bite to the left side of her neck.",
+      "She is not aware of any specific injury.",
+      "She noticed a little tenderness and redness on her left posterior shoulder about two days ago.",
+      "It seems to be getting a little bit larger in size, and she saw some red streaks extending up her neck.",
+      "She has had no fever.",
+      "The area is very minimally tender, but not particularly so.,CURRENT MEDICATIONS:, Generic Maxzide, Climara patch, multivitamin, Tums, Claritin, and vitamin C.,ALLERGIES:, No known medicine allergies.,OBJECTIVE:,Vital Signs: Weight is 150 pounds.",
+      "Blood pressure 122/82.,Extremities: Examination of the left posterior shoulder near the neckline is an area of faint erythema which is 6 cm in diameter.",
+      "In the center is a tiny mark which could certainly be an insect or spider bite.",
+      "There is no eschar there, but just a tiny marking.",
+      "There are a couple of erythematous streaks extending towards the neck.,ASSESSMENT:, Possible insect bite with lymphangitis.,PLAN:,1.",
+      "Duricef 1 g daily for seven days.,2.",
+      "Cold packs to the area.,3.",
+      "Discussed symptoms that were suggestive of the worsening, in which case she would need to call me.,4.",
+      "Incidentally, she has noticed a little bit of dryness and redness on her eyelids, particularly the upper ones' and the lower lateral areas.",
+      "I suspect she has a mild contact dermatitis and suggested hydrocortisone 1% cream to be applied sparingly at bedtime only."
+    ],
+    "sentence_count": 15
+  }
+}

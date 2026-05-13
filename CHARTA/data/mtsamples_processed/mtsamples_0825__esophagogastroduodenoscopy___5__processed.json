@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0825__esophagogastroduodenoscopy___5_.txt",
+    "file_name": "mtsamples_0825__esophagogastroduodenoscopy___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1101,
+    "processed_at": "2026-05-09T09:53:26.847751"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0825__esophagogastroduodenoscopy___5_.txt",
+    "text": "MEDICATIONS:,1.  Versed intravenously.,2.  Demerol intravenously.,DESCRIPTION OF THE PROCEDURE: , After informed consent, the patient was placed in the left lateral decubitus position and Cetacaine spray was applied to the posterior pharynx.  The patient was sedated with the above medications.  The Olympus video panendoscope was advanced under direct vision into the esophagus.  The esophagus was normal in appearance and configuration.  The gastroesophageal junction was normal.  The scope was advanced into the stomach, where the fundic pool was aspirated and the stomach was insufflated with air.  The gastric mucosa appeared normal.  The pylorus was normal.  The scope was advanced through the pylorus into the duodenal bulb, which was normal, then into the second part of the duodenum, which was normal as well.  The scope was pulled back into the stomach.  Retroflexed view showed a normal incisura, lesser curvature, cardia and fundus.  The scope was straightened out, the air removed and the scope withdrawn.  The patient tolerated the procedure well.  There were no apparent complications.,",
+    "char_count": 1101,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "MEDICATIONS:,1. Versed intravenously.,2. Demerol intravenously.,DESCRIPTION OF THE PROCEDURE: , After informed consent, the patient was placed in the left lateral decubitus position and Cetacaine spray was applied to the posterior pharynx. The patient was sedated with the above medications. The Olympus video panendoscope was advanced under direct vision into the esophagus. The esophagus was normal in appearance and configuration. The gastroesophageal junction was normal. The scope was advanced into the stomach, where the fundic pool was aspirated and the stomach was insufflated with air. The gastric mucosa appeared normal. The pylorus was normal. The scope was advanced through the pylorus into the duodenal bulb, which was normal, then into the second part of the duodenum, which was normal as well. The scope was pulled back into the stomach. Retroflexed view showed a normal incisura, lesser curvature, cardia and fundus. The scope was straightened out, the air removed and the scope withdrawn. The patient tolerated the procedure well. There were no apparent complications.,",
+    "sentences": [
+      "MEDICATIONS:,1.",
+      "Versed intravenously.,2.",
+      "Demerol intravenously.,DESCRIPTION OF THE PROCEDURE: , After informed consent, the patient was placed in the left lateral decubitus position and Cetacaine spray was applied to the posterior pharynx.",
+      "The patient was sedated with the above medications.",
+      "The Olympus video panendoscope was advanced under direct vision into the esophagus.",
+      "The esophagus was normal in appearance and configuration.",
+      "The gastroesophageal junction was normal.",
+      "The scope was advanced into the stomach, where the fundic pool was aspirated and the stomach was insufflated with air.",
+      "The gastric mucosa appeared normal.",
+      "The pylorus was normal.",
+      "The scope was advanced through the pylorus into the duodenal bulb, which was normal, then into the second part of the duodenum, which was normal as well.",
+      "The scope was pulled back into the stomach.",
+      "Retroflexed view showed a normal incisura, lesser curvature, cardia and fundus.",
+      "The scope was straightened out, the air removed and the scope withdrawn.",
+      "The patient tolerated the procedure well.",
+      "There were no apparent complications.,"
+    ],
+    "sentence_count": 16,
+    "original_length": 1101,
+    "cleaned_length": 1086,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "MEDICATIONS:,1.  Versed intravenously.,2.  Demerol intravenously.,DESCRIPTION OF THE PROCEDURE: , After informed consent, the patient was placed in the left lateral decubitus position and Cetacaine spray was applied to the posterior pharynx.  The patient was sedated with the above medications.  The Olympus video panendoscope was advanced under direct vision into the esophagus.  The esophagus was normal in appearance and configuration.  The gastroesophageal junction was normal.  The scope was advanced into the stomach, where the fundic pool was aspirated and the stomach was insufflated with air.  The gastric mucosa appeared normal.  The pylorus was normal.  The scope was advanced through the pylorus into the duodenal bulb, which was normal, then into the second part of the duodenum, which was normal as well.  The scope was pulled back into the stomach.  Retroflexed view showed a normal incisura, lesser curvature, cardia and fundus.  The scope was straightened out, the air removed and the scope withdrawn.  The patient tolerated the procedure well.  There were no apparent complications.,",
+    "cleaned_text": "MEDICATIONS:,1. Versed intravenously.,2. Demerol intravenously.,DESCRIPTION OF THE PROCEDURE: , After informed consent, the patient was placed in the left lateral decubitus position and Cetacaine spray was applied to the posterior pharynx. The patient was sedated with the above medications. The Olympus video panendoscope was advanced under direct vision into the esophagus. The esophagus was normal in appearance and configuration. The gastroesophageal junction was normal. The scope was advanced into the stomach, where the fundic pool was aspirated and the stomach was insufflated with air. The gastric mucosa appeared normal. The pylorus was normal. The scope was advanced through the pylorus into the duodenal bulb, which was normal, then into the second part of the duodenum, which was normal as well. The scope was pulled back into the stomach. Retroflexed view showed a normal incisura, lesser curvature, cardia and fundus. The scope was straightened out, the air removed and the scope withdrawn. The patient tolerated the procedure well. There were no apparent complications.,",
+    "sentences": [
+      "MEDICATIONS:,1.",
+      "Versed intravenously.,2.",
+      "Demerol intravenously.,DESCRIPTION OF THE PROCEDURE: , After informed consent, the patient was placed in the left lateral decubitus position and Cetacaine spray was applied to the posterior pharynx.",
+      "The patient was sedated with the above medications.",
+      "The Olympus video panendoscope was advanced under direct vision into the esophagus.",
+      "The esophagus was normal in appearance and configuration.",
+      "The gastroesophageal junction was normal.",
+      "The scope was advanced into the stomach, where the fundic pool was aspirated and the stomach was insufflated with air.",
+      "The gastric mucosa appeared normal.",
+      "The pylorus was normal.",
+      "The scope was advanced through the pylorus into the duodenal bulb, which was normal, then into the second part of the duodenum, which was normal as well.",
+      "The scope was pulled back into the stomach.",
+      "Retroflexed view showed a normal incisura, lesser curvature, cardia and fundus.",
+      "The scope was straightened out, the air removed and the scope withdrawn.",
+      "The patient tolerated the procedure well.",
+      "There were no apparent complications.,"
+    ],
+    "sentence_count": 16
+  }
+}

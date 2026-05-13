@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3776__acute_cystitis___diabetes_type_ii_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 33,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008377": 1,
+    "C0591139": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3776__acute_cystitis___diabetes_type_ii__graph.pt",
+  "source_dataset": "mtsamples_3776__acute_cystitis___diabetes_type_ii"
+}

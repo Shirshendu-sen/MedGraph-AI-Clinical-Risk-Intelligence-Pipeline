@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1501__three_views___ankle_.txt",
+    "file_name": "mtsamples_1501__three_views___ankle_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 398,
+    "processed_at": "2026-05-09T09:53:43.454364"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1501__three_views___ankle_.txt",
+    "text": "EXAM: , Three views of the right ankle.,INDICATIONS:  ,Pain.,FINDINGS: , Three views of the right ankle are obtained.  There is no evidence of fractures or dislocations.  No significant degenerative changes or destructive osseous lesions of the ankle are noted.  There is a small plantar calcaneal spur.  There is no significant surrounding soft tissue swelling.,IMPRESSION:  ,Negative right ankle.",
+    "char_count": 398,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , Three views of the right ankle.,INDICATIONS: ,Pain.,FINDINGS: , Three views of the right ankle are obtained. There is no evidence of fractures or dislocations. No significant degenerative changes or destructive osseous lesions of the ankle are noted. There is a small plantar calcaneal spur. There is no significant surrounding soft tissue swelling.,IMPRESSION: ,Negative right ankle.",
+    "sentences": [
+      "EXAM: , Three views of the right ankle.,INDICATIONS: ,Pain.,FINDINGS: , Three views of the right ankle are obtained.",
+      "There is no evidence of fractures or dislocations.",
+      "No significant degenerative changes or destructive osseous lesions of the ankle are noted.",
+      "There is a small plantar calcaneal spur.",
+      "There is no significant surrounding soft tissue swelling.,IMPRESSION: ,Negative right ankle."
+    ],
+    "sentence_count": 5,
+    "original_length": 398,
+    "cleaned_length": 392,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , Three views of the right ankle.,INDICATIONS:  ,Pain.,FINDINGS: , Three views of the right ankle are obtained.  There is no evidence of fractures or dislocations.  No significant degenerative changes or destructive osseous lesions of the ankle are noted.  There is a small plantar calcaneal spur.  There is no significant surrounding soft tissue swelling.,IMPRESSION:  ,Negative right ankle.",
+    "cleaned_text": "EXAM: , Three views of the right ankle.,INDICATIONS: ,Pain.,FINDINGS: , Three views of the right ankle are obtained. There is no evidence of fractures or dislocations. No significant degenerative changes or destructive osseous lesions of the ankle are noted. There is a small plantar calcaneal spur. There is no significant surrounding soft tissue swelling.,IMPRESSION: ,Negative right ankle.",
+    "sentences": [
+      "EXAM: , Three views of the right ankle.,INDICATIONS: ,Pain.,FINDINGS: , Three views of the right ankle are obtained.",
+      "There is no evidence of fractures or dislocations.",
+      "No significant degenerative changes or destructive osseous lesions of the ankle are noted.",
+      "There is a small plantar calcaneal spur.",
+      "There is no significant surrounding soft tissue swelling.,IMPRESSION: ,Negative right ankle."
+    ],
+    "sentence_count": 5
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1474__ultrasound_ob___8_.txt",
+    "file_name": "mtsamples_1474__ultrasound_ob___8_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 962,
+    "processed_at": "2026-05-09T09:53:42.832634"
+  },
+  "entities": [
+    {
+      "text": "nausea, vomiting",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 56,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea, vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-09-28"
+    },
+    {
+      "text": "intrauterine pregnancy",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 70,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-09-28"
+    },
+    {
+      "text": "intrauterine pregnancy",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 29,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-09-28"
+    },
+    {
+      "text": "abortion",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 116,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abortion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-09-28"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/28/09",
+      "start_char": 358,
+      "end_char": 366
+    },
+    {
+      "raw_text": "09/28/09",
+      "start_char": 698,
+      "end_char": 706
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0204__umbilical_hernia_repair_.txt",
+    "file_name": "mtsamples_0204__umbilical_hernia_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 857,
+    "processed_at": "2026-05-09T09:53:09.136465"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0204__umbilical_hernia_repair_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Umbilical hernia.,POSTOPERATIVE DIAGNOSIS: , Umbilical hernia.,PROCEDURE PERFORMED: , Repair of umbilical hernia.,ANESTHESIA: , General.,COMPLICATIONS: , None.,ESTIMATED BLOOD LOSS: , Minimal.,PROCEDURE IN DETAIL:  ,The patient was prepped and draped in the sterile fashion.  An infraumbilical incision was formed and taken down to the fascia.  The umbilical hernia carefully reduced back into the cavity, and the fascia was closed with interrupted vertical mattress sutures to approximate the fascia, and then the wounds were infiltrated with 0.25% Marcaine.  The skin was reattached to the fascia with 2-0 Vicryls.  The skin was approximated with 2-0 Vicryl subcutaneous and then 4-0 Monocryl subcuticular stitches, dressed with Steri-Strips and 4 x 4's.  Patient was extubated and taken to the recovery area in stable condition.",
+    "char_count": 857,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Umbilical hernia.,POSTOPERATIVE DIAGNOSIS: , Umbilical hernia.,PROCEDURE PERFORMED: , Repair of umbilical hernia.,ANESTHESIA: , General.,COMPLICATIONS: , None.,ESTIMATED BLOOD LOSS: , Minimal.,PROCEDURE IN DETAIL: ,The patient was prepped and draped in the sterile fashion. An infraumbilical incision was formed and taken down to the fascia. The umbilical hernia carefully reduced back into the cavity, and the fascia was closed with interrupted vertical mattress sutures to approximate the fascia, and then the wounds were infiltrated with 0.25% Marcaine. The skin was reattached to the fascia with 2-0 Vicryls. The skin was approximated with 2-0 Vicryl subcutaneous and then 4-0 Monocryl subcuticular stitches, dressed with Steri-Strips and 4 x 4's. Patient was extubated and taken to the recovery area in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Umbilical hernia.,POSTOPERATIVE DIAGNOSIS: , Umbilical hernia.,PROCEDURE PERFORMED: , Repair of umbilical hernia.,ANESTHESIA: , General.,COMPLICATIONS: , None.,ESTIMATED BLOOD LOSS: , Minimal.,PROCEDURE IN DETAIL: ,The patient was prepped and draped in the sterile fashion.",
+      "An infraumbilical incision was formed and taken down to the fascia.",
+      "The umbilical hernia carefully reduced back into the cavity, and the fascia was closed with interrupted vertical mattress sutures to approximate the fascia, and then the wounds were infiltrated with 0.25% Marcaine.",
+      "The skin was reattached to the fascia with 2-0 Vicryls.",
+      "The skin was approximated with 2-0 Vicryl subcutaneous and then 4-0 Monocryl subcuticular stitches, dressed with Steri-Strips and 4 x 4's.",
+      "Patient was extubated and taken to the recovery area in stable condition."
+    ],
+    "sentence_count": 6,
+    "original_length": 857,
+    "cleaned_length": 851,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Umbilical hernia.,POSTOPERATIVE DIAGNOSIS: , Umbilical hernia.,PROCEDURE PERFORMED: , Repair of umbilical hernia.,ANESTHESIA: , General.,COMPLICATIONS: , None.,ESTIMATED BLOOD LOSS: , Minimal.,PROCEDURE IN DETAIL:  ,The patient was prepped and draped in the sterile fashion.  An infraumbilical incision was formed and taken down to the fascia.  The umbilical hernia carefully reduced back into the cavity, and the fascia was closed with interrupted vertical mattress sutures to approximate the fascia, and then the wounds were infiltrated with 0.25% Marcaine.  The skin was reattached to the fascia with 2-0 Vicryls.  The skin was approximated with 2-0 Vicryl subcutaneous and then 4-0 Monocryl subcuticular stitches, dressed with Steri-Strips and 4 x 4's.  Patient was extubated and taken to the recovery area in stable condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Umbilical hernia.,POSTOPERATIVE DIAGNOSIS: , Umbilical hernia.,PROCEDURE PERFORMED: , Repair of umbilical hernia.,ANESTHESIA: , General.,COMPLICATIONS: , None.,ESTIMATED BLOOD LOSS: , Minimal.,PROCEDURE IN DETAIL: ,The patient was prepped and draped in the sterile fashion. An infraumbilical incision was formed and taken down to the fascia. The umbilical hernia carefully reduced back into the cavity, and the fascia was closed with interrupted vertical mattress sutures to approximate the fascia, and then the wounds were infiltrated with 0.25% Marcaine. The skin was reattached to the fascia with 2-0 Vicryls. The skin was approximated with 2-0 Vicryl subcutaneous and then 4-0 Monocryl subcuticular stitches, dressed with Steri-Strips and 4 x 4's. Patient was extubated and taken to the recovery area in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Umbilical hernia.,POSTOPERATIVE DIAGNOSIS: , Umbilical hernia.,PROCEDURE PERFORMED: , Repair of umbilical hernia.,ANESTHESIA: , General.,COMPLICATIONS: , None.,ESTIMATED BLOOD LOSS: , Minimal.,PROCEDURE IN DETAIL: ,The patient was prepped and draped in the sterile fashion.",
+      "An infraumbilical incision was formed and taken down to the fascia.",
+      "The umbilical hernia carefully reduced back into the cavity, and the fascia was closed with interrupted vertical mattress sutures to approximate the fascia, and then the wounds were infiltrated with 0.25% Marcaine.",
+      "The skin was reattached to the fascia with 2-0 Vicryls.",
+      "The skin was approximated with 2-0 Vicryl subcutaneous and then 4-0 Monocryl subcuticular stitches, dressed with Steri-Strips and 4 x 4's.",
+      "Patient was extubated and taken to the recovery area in stable condition."
+    ],
+    "sentence_count": 6
+  }
+}

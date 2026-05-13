@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0025__vasectomy___2_.txt",
+    "file_name": "mtsamples_0025__vasectomy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 667,
+    "processed_at": "2026-05-09T09:53:03.767709"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0025__vasectomy___2_.txt",
+    "text": "DIAGNOSIS:,  Desires vasectomy.,NAME OF OPERATION: , Vasectomy.,ANESTHESIA:,  General.,HISTORY: , Patient, 37, desires a vasectomy.,PROCEDURE: , Through a midline scrotal incision, the right vas was identified and separated from the surrounding tissues, clamped, transected, and tied off with a 4-0 chromic.  No bleeding was identified.,Through the same incision the left side was identified, transected, tied off, and dropped back into the wound.  Again no bleeding was noted.,The wound was closed with 4-0 Vicryl times two.  He tolerated the procedure well.  A sterile dressing was applied.  He was awakened and transferred to the recovery room in stable condition.",
+    "char_count": 667,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "DIAGNOSIS:, Desires vasectomy.,NAME OF OPERATION: , Vasectomy.,ANESTHESIA:, General.,HISTORY: , Patient, 37, desires a vasectomy.,PROCEDURE: , Through a midline scrotal incision, the right vas was identified and separated from the surrounding tissues, clamped, transected, and tied off with a 4-0 chromic. No bleeding was identified.,Through the same incision the left side was identified, transected, tied off, and dropped back into the wound. Again no bleeding was noted.,The wound was closed with 4-0 Vicryl times two. He tolerated the procedure well. A sterile dressing was applied. He was awakened and transferred to the recovery room in stable condition.",
+    "sentences": [
+      "DIAGNOSIS:, Desires vasectomy.,NAME OF OPERATION: , Vasectomy.,ANESTHESIA:, General.,HISTORY: , Patient, 37, desires a vasectomy.,PROCEDURE: , Through a midline scrotal incision, the right vas was identified and separated from the surrounding tissues, clamped, transected, and tied off with a 4-0 chromic.",
+      "No bleeding was identified.,Through the same incision the left side was identified, transected, tied off, and dropped back into the wound.",
+      "Again no bleeding was noted.,The wound was closed with 4-0 Vicryl times two.",
+      "He tolerated the procedure well.",
+      "A sterile dressing was applied.",
+      "He was awakened and transferred to the recovery room in stable condition."
+    ],
+    "sentence_count": 6,
+    "original_length": 667,
+    "cleaned_length": 660,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "DIAGNOSIS:,  Desires vasectomy.,NAME OF OPERATION: , Vasectomy.,ANESTHESIA:,  General.,HISTORY: , Patient, 37, desires a vasectomy.,PROCEDURE: , Through a midline scrotal incision, the right vas was identified and separated from the surrounding tissues, clamped, transected, and tied off with a 4-0 chromic.  No bleeding was identified.,Through the same incision the left side was identified, transected, tied off, and dropped back into the wound.  Again no bleeding was noted.,The wound was closed with 4-0 Vicryl times two.  He tolerated the procedure well.  A sterile dressing was applied.  He was awakened and transferred to the recovery room in stable condition.",
+    "cleaned_text": "DIAGNOSIS:, Desires vasectomy.,NAME OF OPERATION: , Vasectomy.,ANESTHESIA:, General.,HISTORY: , Patient, 37, desires a vasectomy.,PROCEDURE: , Through a midline scrotal incision, the right vas was identified and separated from the surrounding tissues, clamped, transected, and tied off with a 4-0 chromic. No bleeding was identified.,Through the same incision the left side was identified, transected, tied off, and dropped back into the wound. Again no bleeding was noted.,The wound was closed with 4-0 Vicryl times two. He tolerated the procedure well. A sterile dressing was applied. He was awakened and transferred to the recovery room in stable condition.",
+    "sentences": [
+      "DIAGNOSIS:, Desires vasectomy.,NAME OF OPERATION: , Vasectomy.,ANESTHESIA:, General.,HISTORY: , Patient, 37, desires a vasectomy.,PROCEDURE: , Through a midline scrotal incision, the right vas was identified and separated from the surrounding tissues, clamped, transected, and tied off with a 4-0 chromic.",
+      "No bleeding was identified.,Through the same incision the left side was identified, transected, tied off, and dropped back into the wound.",
+      "Again no bleeding was noted.,The wound was closed with 4-0 Vicryl times two.",
+      "He tolerated the procedure well.",
+      "A sterile dressing was applied.",
+      "He was awakened and transferred to the recovery room in stable condition."
+    ],
+    "sentence_count": 6
+  }
+}

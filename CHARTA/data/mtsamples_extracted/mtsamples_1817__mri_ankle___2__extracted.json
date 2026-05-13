@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1817__mri_ankle___2_.txt",
+    "file_name": "mtsamples_1817__mri_ankle___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 379,
+    "processed_at": "2026-05-09T09:53:50.863203"
+  },
+  "entities": [
+    {
+      "text": "bone contusion",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 38,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bone contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 50,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abnormal mass or fluid collection",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 36,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal mass or fluid collection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

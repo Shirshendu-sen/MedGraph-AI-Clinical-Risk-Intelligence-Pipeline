@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_4795__discharge_summary___respiratory_failure_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 82,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0013030": 1,
+    "C0721336": 2,
+    "C0699601": 3,
+    "C0025853": 4,
+    "C0701009": 5,
+    "C0037473": 6,
+    "C0032821": 7,
+    "C0017725": 8,
+    "C0010294": 9,
+    "C0006675": 10,
+    "C0024467": 11
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4795__discharge_summary___respiratory_failure__graph.pt",
+  "source_dataset": "mtsamples_4795__discharge_summary___respiratory_failure"
+}

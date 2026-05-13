@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1986__celiac_plexus_block_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 8,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1986__celiac_plexus_block__graph.pt",
+  "source_dataset": "mtsamples_1986__celiac_plexus_block"
+}

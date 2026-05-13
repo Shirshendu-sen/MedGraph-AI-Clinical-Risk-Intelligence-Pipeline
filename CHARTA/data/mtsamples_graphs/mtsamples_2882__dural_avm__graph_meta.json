@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_2882__dural_avm_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 58,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0592278": 1,
+    "C0699770": 2,
+    "C0013090": 3,
+    "C0699710": 4,
+    "C0733418": 5
+  },
+  "visit_dates": [
+    "1993-01-13"
+  ],
+  "graph_file": "mtsamples_2882__dural_avm__graph.pt",
+  "source_dataset": "mtsamples_2882__dural_avm"
+}

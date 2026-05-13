@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1829__bunions_and_calluses__.txt",
+    "file_name": "mtsamples_1829__bunions_and_calluses__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 924,
+    "processed_at": "2026-05-09T09:53:51.272141"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1829__bunions_and_calluses__.txt",
+    "text": "S -, A 60-year-old female presents today for care of painful calluses and benign lesions.,O -, On examination, the patient has bilateral bunions at the first metatarsophalangeal joint.  She states that they do not hurt.  No pain appears to be produced by active or passive range of motion or palpation and direct pressure of the first metatarsophalangeal joint bilaterally.  The patient has a bilateral pinch callus on the medial aspect of both great toes and there are calluses along the medial aspect of the right foot.  She has a small intractable plantar keratoma, plantar to her left second metatarsal head, which measures 0.5 cm in diameter.  This is a central plug.  She also has a very, very painful lesion plantar to her right fourth metatarsal head which measures 3.1 x 1.8 cm in diameter.  This is a hyperkeratotic lesion that extends deep into the tissue with interrupted skin lines.,A - ,1.  Bilateral bunions.,",
+    "char_count": 924,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "S -, A 60-year-old female presents today for care of painful calluses and benign lesions.,O -, On examination, the patient has bilateral bunions at the first metatarsophalangeal joint. She states that they do not hurt. No pain appears to be produced by active or passive range of motion or palpation and direct pressure of the first metatarsophalangeal joint bilaterally. The patient has a bilateral pinch callus on the medial aspect of both great toes and there are calluses along the medial aspect of the right foot. She has a small intractable plantar keratoma, plantar to her left second metatarsal head, which measures 0.5 cm in diameter. This is a central plug. She also has a very, very painful lesion plantar to her right fourth metatarsal head which measures 3.1 x 1.8 cm in diameter. This is a hyperkeratotic lesion that extends deep into the tissue with interrupted skin lines.,A - ,1. Bilateral bunions.,",
+    "sentences": [
+      "S -, A 60-year-old female presents today for care of painful calluses and benign lesions.,O -, On examination, the patient has bilateral bunions at the first metatarsophalangeal joint.",
+      "She states that they do not hurt.",
+      "No pain appears to be produced by active or passive range of motion or palpation and direct pressure of the first metatarsophalangeal joint bilaterally.",
+      "The patient has a bilateral pinch callus on the medial aspect of both great toes and there are calluses along the medial aspect of the right foot.",
+      "She has a small intractable plantar keratoma, plantar to her left second metatarsal head, which measures 0.5 cm in diameter.",
+      "This is a central plug.",
+      "She also has a very, very painful lesion plantar to her right fourth metatarsal head which measures 3.1 x 1.8 cm in diameter.",
+      "This is a hyperkeratotic lesion that extends deep into the tissue with interrupted skin lines.,A - ,1.",
+      "Bilateral bunions.,"
+    ],
+    "sentence_count": 9,
+    "original_length": 924,
+    "cleaned_length": 916,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "S -, A 60-year-old female presents today for care of painful calluses and benign lesions.,O -, On examination, the patient has bilateral bunions at the first metatarsophalangeal joint.  She states that they do not hurt.  No pain appears to be produced by active or passive range of motion or palpation and direct pressure of the first metatarsophalangeal joint bilaterally.  The patient has a bilateral pinch callus on the medial aspect of both great toes and there are calluses along the medial aspect of the right foot.  She has a small intractable plantar keratoma, plantar to her left second metatarsal head, which measures 0.5 cm in diameter.  This is a central plug.  She also has a very, very painful lesion plantar to her right fourth metatarsal head which measures 3.1 x 1.8 cm in diameter.  This is a hyperkeratotic lesion that extends deep into the tissue with interrupted skin lines.,A - ,1.  Bilateral bunions.,",
+    "cleaned_text": "S -, A 60-year-old female presents today for care of painful calluses and benign lesions.,O -, On examination, the patient has bilateral bunions at the first metatarsophalangeal joint. She states that they do not hurt. No pain appears to be produced by active or passive range of motion or palpation and direct pressure of the first metatarsophalangeal joint bilaterally. The patient has a bilateral pinch callus on the medial aspect of both great toes and there are calluses along the medial aspect of the right foot. She has a small intractable plantar keratoma, plantar to her left second metatarsal head, which measures 0.5 cm in diameter. This is a central plug. She also has a very, very painful lesion plantar to her right fourth metatarsal head which measures 3.1 x 1.8 cm in diameter. This is a hyperkeratotic lesion that extends deep into the tissue with interrupted skin lines.,A - ,1. Bilateral bunions.,",
+    "sentences": [
+      "S -, A 60-year-old female presents today for care of painful calluses and benign lesions.,O -, On examination, the patient has bilateral bunions at the first metatarsophalangeal joint.",
+      "She states that they do not hurt.",
+      "No pain appears to be produced by active or passive range of motion or palpation and direct pressure of the first metatarsophalangeal joint bilaterally.",
+      "The patient has a bilateral pinch callus on the medial aspect of both great toes and there are calluses along the medial aspect of the right foot.",
+      "She has a small intractable plantar keratoma, plantar to her left second metatarsal head, which measures 0.5 cm in diameter.",
+      "This is a central plug.",
+      "She also has a very, very painful lesion plantar to her right fourth metatarsal head which measures 3.1 x 1.8 cm in diameter.",
+      "This is a hyperkeratotic lesion that extends deep into the tissue with interrupted skin lines.,A - ,1.",
+      "Bilateral bunions.,"
+    ],
+    "sentence_count": 9
+  }
+}

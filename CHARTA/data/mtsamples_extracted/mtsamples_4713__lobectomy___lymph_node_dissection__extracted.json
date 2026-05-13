@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4713__lobectomy___lymph_node_dissection_.txt",
+    "file_name": "mtsamples_4713__lobectomy___lymph_node_dissection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3084,
+    "processed_at": "2026-05-09T09:54:43.711142"
+  },
+  "entities": [
+    {
+      "text": "bronchial branch",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 42,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bronchial branch",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 38,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 26,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

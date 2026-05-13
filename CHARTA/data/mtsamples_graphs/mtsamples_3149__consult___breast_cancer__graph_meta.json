@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3149__consult___breast_cancer_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 18,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0033308": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3149__consult___breast_cancer__graph.pt",
+  "source_dataset": "mtsamples_3149__consult___breast_cancer"
+}

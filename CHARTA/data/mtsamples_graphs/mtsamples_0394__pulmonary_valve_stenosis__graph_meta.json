@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_0394__pulmonary_valve_stenosis_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1
+  },
+  "visit_dates": [
+    "1987-12-04"
+  ],
+  "graph_file": "mtsamples_0394__pulmonary_valve_stenosis__graph.pt",
+  "source_dataset": "mtsamples_0394__pulmonary_valve_stenosis"
+}

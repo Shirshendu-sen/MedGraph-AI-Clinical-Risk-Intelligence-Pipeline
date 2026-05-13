@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_1791__attempted_suicide___consult_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 50,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0591585": 1,
+    "C0719751": 2,
+    "C0287163": 3,
+    "C0009170": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1791__attempted_suicide___consult__graph.pt",
+  "source_dataset": "mtsamples_1791__attempted_suicide___consult"
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1469__x_ray___neck_soft_tissues_.txt",
+    "file_name": "mtsamples_1469__x_ray___neck_soft_tissues_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1176,
+    "processed_at": "2026-05-09T09:53:42.696229"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1469__x_ray___neck_soft_tissues_.txt",
+    "text": "EXAM: , Two views of the soft tissues of the neck.,HISTORY:,  Patient has swelling of the left side of his neck.,TECHNIQUE:,  Frontal and lateral views of the soft tissues of the neck were evaluated. There were no soft tissues of the neck radiographs for comparison. However, there was an ultrasound of the neck performed on the same day.,FINDINGS: , Frontal and lateral views of the soft tissues of the neck were evaluated and reveal there is an asymmetry seen to the left-sided soft tissues of the patient's neck which appear somewhat enlarged when compared to patient's right side. However the trachea appears to be normal caliber and contour.  Lateral views show a patent airway. The adenoids and tonsils appear normal caliber without evidence of hypertrophy. Airway appears patent. Osseous structures appear grossly normal.,IMPRESSION:,1. Patent airway. No evidence of any soft tissue swelling involving the patient's adenoids/tonsils, epiglottis or aryepiglottic folds. No evidence of any prevertebral soft tissue swelling.,2. Slight asymmetry seen to the soft tissues of the left side of the patient's neck which appears somewhat larger when compared to the right side.",
+    "char_count": 1176,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , Two views of the soft tissues of the neck.,HISTORY:, Patient has swelling of the left side of his neck.,TECHNIQUE:, Frontal and lateral views of the soft tissues of the neck were evaluated. There were no soft tissues of the neck radiographs for comparison. However, there was an ultrasound of the neck performed on the same day.,FINDINGS: , Frontal and lateral views of the soft tissues of the neck were evaluated and reveal there is an asymmetry seen to the left-sided soft tissues of the patient's neck which appear somewhat enlarged when compared to patient's right side. However the trachea appears to be normal caliber and contour. Lateral views show a patent airway. The adenoids and tonsils appear normal caliber without evidence of hypertrophy. Airway appears patent. Osseous structures appear grossly normal.,IMPRESSION:,1. Patent airway. No evidence of any soft tissue swelling involving the patient's adenoids/tonsils, epiglottis or aryepiglottic folds. No evidence of any prevertebral soft tissue swelling.,2. Slight asymmetry seen to the soft tissues of the left side of the patient's neck which appears somewhat larger when compared to the right side.",
+    "sentences": [
+      "EXAM: , Two views of the soft tissues of the neck.,HISTORY:, Patient has swelling of the left side of his neck.,TECHNIQUE:, Frontal and lateral views of the soft tissues of the neck were evaluated.",
+      "There were no soft tissues of the neck radiographs for comparison.",
+      "However, there was an ultrasound of the neck performed on the same day.,FINDINGS: , Frontal and lateral views of the soft tissues of the neck were evaluated and reveal there is an asymmetry seen to the left-sided soft tissues of the patient's neck which appear somewhat enlarged when compared to patient's right side.",
+      "However the trachea appears to be normal caliber and contour.",
+      "Lateral views show a patent airway.",
+      "The adenoids and tonsils appear normal caliber without evidence of hypertrophy.",
+      "Airway appears patent.",
+      "Osseous structures appear grossly normal.,IMPRESSION:,1.",
+      "Patent airway.",
+      "No evidence of any soft tissue swelling involving the patient's adenoids/tonsils, epiglottis or aryepiglottic folds.",
+      "No evidence of any prevertebral soft tissue swelling.,2.",
+      "Slight asymmetry seen to the soft tissues of the left side of the patient's neck which appears somewhat larger when compared to the right side."
+    ],
+    "sentence_count": 12,
+    "original_length": 1176,
+    "cleaned_length": 1173,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , Two views of the soft tissues of the neck.,HISTORY:,  Patient has swelling of the left side of his neck.,TECHNIQUE:,  Frontal and lateral views of the soft tissues of the neck were evaluated. There were no soft tissues of the neck radiographs for comparison. However, there was an ultrasound of the neck performed on the same day.,FINDINGS: , Frontal and lateral views of the soft tissues of the neck were evaluated and reveal there is an asymmetry seen to the left-sided soft tissues of the patient's neck which appear somewhat enlarged when compared to patient's right side. However the trachea appears to be normal caliber and contour.  Lateral views show a patent airway. The adenoids and tonsils appear normal caliber without evidence of hypertrophy. Airway appears patent. Osseous structures appear grossly normal.,IMPRESSION:,1. Patent airway. No evidence of any soft tissue swelling involving the patient's adenoids/tonsils, epiglottis or aryepiglottic folds. No evidence of any prevertebral soft tissue swelling.,2. Slight asymmetry seen to the soft tissues of the left side of the patient's neck which appears somewhat larger when compared to the right side.",
+    "cleaned_text": "EXAM: , Two views of the soft tissues of the neck.,HISTORY:, Patient has swelling of the left side of his neck.,TECHNIQUE:, Frontal and lateral views of the soft tissues of the neck were evaluated. There were no soft tissues of the neck radiographs for comparison. However, there was an ultrasound of the neck performed on the same day.,FINDINGS: , Frontal and lateral views of the soft tissues of the neck were evaluated and reveal there is an asymmetry seen to the left-sided soft tissues of the patient's neck which appear somewhat enlarged when compared to patient's right side. However the trachea appears to be normal caliber and contour. Lateral views show a patent airway. The adenoids and tonsils appear normal caliber without evidence of hypertrophy. Airway appears patent. Osseous structures appear grossly normal.,IMPRESSION:,1. Patent airway. No evidence of any soft tissue swelling involving the patient's adenoids/tonsils, epiglottis or aryepiglottic folds. No evidence of any prevertebral soft tissue swelling.,2. Slight asymmetry seen to the soft tissues of the left side of the patient's neck which appears somewhat larger when compared to the right side.",
+    "sentences": [
+      "EXAM: , Two views of the soft tissues of the neck.,HISTORY:, Patient has swelling of the left side of his neck.,TECHNIQUE:, Frontal and lateral views of the soft tissues of the neck were evaluated.",
+      "There were no soft tissues of the neck radiographs for comparison.",
+      "However, there was an ultrasound of the neck performed on the same day.,FINDINGS: , Frontal and lateral views of the soft tissues of the neck were evaluated and reveal there is an asymmetry seen to the left-sided soft tissues of the patient's neck which appear somewhat enlarged when compared to patient's right side.",
+      "However the trachea appears to be normal caliber and contour.",
+      "Lateral views show a patent airway.",
+      "The adenoids and tonsils appear normal caliber without evidence of hypertrophy.",
+      "Airway appears patent.",
+      "Osseous structures appear grossly normal.,IMPRESSION:,1.",
+      "Patent airway.",
+      "No evidence of any soft tissue swelling involving the patient's adenoids/tonsils, epiglottis or aryepiglottic folds.",
+      "No evidence of any prevertebral soft tissue swelling.,2.",
+      "Slight asymmetry seen to the soft tissues of the left side of the patient's neck which appears somewhat larger when compared to the right side."
+    ],
+    "sentence_count": 12
+  }
+}

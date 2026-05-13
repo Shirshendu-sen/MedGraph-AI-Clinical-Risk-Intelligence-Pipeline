@@ -1,0 +1,462 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2946__astrocytoma_.txt",
+    "file_name": "mtsamples_2946__astrocytoma_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2665,
+    "processed_at": "2026-05-09T09:54:11.130089"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 74,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "complaint of episodic",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 60,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "complaint of episodic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "confusion",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 70,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "confusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "memory loss",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 86,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "memory loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 11,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "ASA",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 33,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ASA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "DPH",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 41,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DPH",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "DPH",
+      "label": "CHEMICAL",
+      "start_char": 120,
+      "end_char": 123,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DPH",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "DPH",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 45,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DPH",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "spells",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 94,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spells",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "tonic/clonic",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 37,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tonic/clonic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "incontinence",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 60,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "incontinence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "tongue-biting",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 75,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tongue-biting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 115,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "palpitation, weakness",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 138,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palpitation, weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 150,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "confusion",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 25,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "confusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "memory loss",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 41,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "memory loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "Hearing Loss",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 144,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hearing Loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "DPH",
+      "label": "CHEMICAL",
+      "start_char": 215,
+      "end_char": 218,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DPH",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "ASA",
+      "label": "CHEMICAL",
+      "start_char": 223,
+      "end_char": 226,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ASA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "68BPM",
+      "label": "CHEMICAL",
+      "start_char": 305,
+      "end_char": 310,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "68BPM",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "dysarthria",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 116,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysarthria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "WNL",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 76,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "WNL",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "DPH",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DPH",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "gadolinium",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 40,
+      "sentence_idx": 18,
+      "concept_id": "C0016911",
+      "concept_name": "gadolinium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9583680033683777,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "opacity",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 93,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "opacity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 19,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "impaired verbal learning",
+      "label": "DISEASE",
+      "start_char": 153,
+      "end_char": 177,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impaired verbal learning",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "left mesiotemporal",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 52,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left mesiotemporal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "Decadron",
+      "label": "CHEMICAL",
+      "start_char": 162,
+      "end_char": 170,
+      "sentence_idx": 22,
+      "concept_id": "C0740057",
+      "concept_name": "Decadron",
+      "kb_source": "rxnorm",
+      "link_score": 0.9529008269309998,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "astrocytoma",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 61,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "astrocytoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 86,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-01-17"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "1/17/92",
+      "start_char": 78,
+      "end_char": 85
+    },
+    {
+      "raw_text": "1/17/92",
+      "start_char": 266,
+      "end_char": 273
+    },
+    {
+      "raw_text": "1/17/92",
+      "start_char": 1570,
+      "end_char": 1577
+    },
+    {
+      "raw_text": "8/31/92",
+      "start_char": 1754,
+      "end_char": 1761
+    },
+    {
+      "raw_text": "8/24/92",
+      "start_char": 1817,
+      "end_char": 1824
+    },
+    {
+      "raw_text": "8/31/92",
+      "start_char": 1883,
+      "end_char": 1890
+    },
+    {
+      "raw_text": "1/17/92",
+      "start_char": 2033,
+      "end_char": 2040
+    },
+    {
+      "raw_text": "9/16/92",
+      "start_char": 2452,
+      "end_char": 2459
+    }
+  ]
+}

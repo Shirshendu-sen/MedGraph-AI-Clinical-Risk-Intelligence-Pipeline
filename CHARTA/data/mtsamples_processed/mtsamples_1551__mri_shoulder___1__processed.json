@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1551__mri_shoulder___1_.txt",
+    "file_name": "mtsamples_1551__mri_shoulder___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 530,
+    "processed_at": "2026-05-09T09:53:44.322909"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1551__mri_shoulder___1_.txt",
+    "text": "EXAM:,MRI-UP EXT JOINT LEFT SHOULDER,CLINICAL:,Left shoulder pain. Evaluate for rotator cuff tear.,FINDINGS:,  Multiple T1 and gradient echo axial images were obtained, as well as T1 and fat suppressed T2-weighted coronal images.,The rotator cuff appears intact and unremarkable. There is no significant effusion seen. Osseous structures are unremarkable. There is no significant downward spurring at the acromioclavicular joint. The glenoid labrum is intact and unremarkable.,IMPRESSION:,  Unremarkable MRI of the left shoulder.,",
+    "char_count": 530,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM:,MRI-UP EXT JOINT LEFT SHOULDER,CLINICAL:,Left shoulder pain. Evaluate for rotator cuff tear.,FINDINGS:, Multiple T1 and gradient echo axial images were obtained, as well as T1 and fat suppressed T2-weighted coronal images.,The rotator cuff appears intact and unremarkable. There is no significant effusion seen. Osseous structures are unremarkable. There is no significant downward spurring at the acromioclavicular joint. The glenoid labrum is intact and unremarkable.,IMPRESSION:, Unremarkable MRI of the left shoulder.,",
+    "sentences": [
+      "EXAM:,MRI-UP EXT JOINT LEFT SHOULDER,CLINICAL:,Left shoulder pain.",
+      "Evaluate for rotator cuff tear.,FINDINGS:, Multiple T1 and gradient echo axial images were obtained, as well as T1 and fat suppressed T2-weighted coronal images.,The rotator cuff appears intact and unremarkable.",
+      "There is no significant effusion seen.",
+      "Osseous structures are unremarkable.",
+      "There is no significant downward spurring at the acromioclavicular joint.",
+      "The glenoid labrum is intact and unremarkable.,IMPRESSION:, Unremarkable MRI of the left shoulder.,"
+    ],
+    "sentence_count": 6,
+    "original_length": 530,
+    "cleaned_length": 528,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM:,MRI-UP EXT JOINT LEFT SHOULDER,CLINICAL:,Left shoulder pain. Evaluate for rotator cuff tear.,FINDINGS:,  Multiple T1 and gradient echo axial images were obtained, as well as T1 and fat suppressed T2-weighted coronal images.,The rotator cuff appears intact and unremarkable. There is no significant effusion seen. Osseous structures are unremarkable. There is no significant downward spurring at the acromioclavicular joint. The glenoid labrum is intact and unremarkable.,IMPRESSION:,  Unremarkable MRI of the left shoulder.,",
+    "cleaned_text": "EXAM:,MRI-UP EXT JOINT LEFT SHOULDER,CLINICAL:,Left shoulder pain. Evaluate for rotator cuff tear.,FINDINGS:, Multiple T1 and gradient echo axial images were obtained, as well as T1 and fat suppressed T2-weighted coronal images.,The rotator cuff appears intact and unremarkable. There is no significant effusion seen. Osseous structures are unremarkable. There is no significant downward spurring at the acromioclavicular joint. The glenoid labrum is intact and unremarkable.,IMPRESSION:, Unremarkable MRI of the left shoulder.,",
+    "sentences": [
+      "EXAM:,MRI-UP EXT JOINT LEFT SHOULDER,CLINICAL:,Left shoulder pain.",
+      "Evaluate for rotator cuff tear.,FINDINGS:, Multiple T1 and gradient echo axial images were obtained, as well as T1 and fat suppressed T2-weighted coronal images.,The rotator cuff appears intact and unremarkable.",
+      "There is no significant effusion seen.",
+      "Osseous structures are unremarkable.",
+      "There is no significant downward spurring at the acromioclavicular joint.",
+      "The glenoid labrum is intact and unremarkable.,IMPRESSION:, Unremarkable MRI of the left shoulder.,"
+    ],
+    "sentence_count": 6
+  }
+}

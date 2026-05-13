@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2463__normal_ent_exam___1_.txt",
+    "file_name": "mtsamples_2463__normal_ent_exam___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1310,
+    "processed_at": "2026-05-09T09:54:02.159843"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2463__normal_ent_exam___1_.txt",
+    "text": "EARS, NOSE, MOUTH AND THROAT,EARS/NOSE: , The auricles are normal to palpation and inspection without any surrounding lymphadenitis.  There are no signs of acute trauma.  The nose is normal to palpation and inspection externally without evidence of acute trauma.  Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling.  The tympanic membranes are without disruption or infection.  Hearing intact bilaterally to normal level speech.  Nasal mucosa, septum and turbinate examination reveals normal mucous membranes without disruption or inflammation.  The septum is without acute traumatic lesions or disruption.  The turbinates are without abnormal swelling.  There is no unusual rhinorrhea or bleeding.  ,LIPS/TEETH/GUMS:  ,The lips are without infection, mass lesion or traumatic lesions.  The teeth are intact without obvious signs of infection.  The gingivae are normal to palpation and inspection.  ,OROPHARYNX:  ,The oral mucosa is normal.  The salivary glands are without swelling.  The hard and soft palates are intact.  The tongue is without masses or swelling with normal movement.  The tonsils are without inflammation.  The posterior pharynx is without mass lesion with good patent oropharyngeal airway.",
+    "char_count": 1310,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EARS, NOSE, MOUTH AND THROAT,EARS/NOSE: , The auricles are normal to palpation and inspection without any surrounding lymphadenitis. There are no signs of acute trauma. The nose is normal to palpation and inspection externally without evidence of acute trauma. Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling. The tympanic membranes are without disruption or infection. Hearing intact bilaterally to normal level speech. Nasal mucosa, septum and turbinate examination reveals normal mucous membranes without disruption or inflammation. The septum is without acute traumatic lesions or disruption. The turbinates are without abnormal swelling. There is no unusual rhinorrhea or bleeding. ,LIPS/TEETH/GUMS: ,The lips are without infection, mass lesion or traumatic lesions. The teeth are intact without obvious signs of infection. The gingivae are normal to palpation and inspection. ,OROPHARYNX: ,The oral mucosa is normal. The salivary glands are without swelling. The hard and soft palates are intact. The tongue is without masses or swelling with normal movement. The tonsils are without inflammation. The posterior pharynx is without mass lesion with good patent oropharyngeal airway.",
+    "sentences": [
+      "EARS, NOSE, MOUTH AND THROAT,EARS/NOSE: , The auricles are normal to palpation and inspection without any surrounding lymphadenitis.",
+      "There are no signs of acute trauma.",
+      "The nose is normal to palpation and inspection externally without evidence of acute trauma.",
+      "Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling.",
+      "The tympanic membranes are without disruption or infection.",
+      "Hearing intact bilaterally to normal level speech.",
+      "Nasal mucosa, septum and turbinate examination reveals normal mucous membranes without disruption or inflammation.",
+      "The septum is without acute traumatic lesions or disruption.",
+      "The turbinates are without abnormal swelling.",
+      "There is no unusual rhinorrhea or bleeding. ,LIPS/TEETH/GUMS: ,The lips are without infection, mass lesion or traumatic lesions.",
+      "The teeth are intact without obvious signs of infection.",
+      "The gingivae are normal to palpation and inspection. ,OROPHARYNX: ,The oral mucosa is normal.",
+      "The salivary glands are without swelling.",
+      "The hard and soft palates are intact.",
+      "The tongue is without masses or swelling with normal movement.",
+      "The tonsils are without inflammation.",
+      "The posterior pharynx is without mass lesion with good patent oropharyngeal airway."
+    ],
+    "sentence_count": 17,
+    "original_length": 1310,
+    "cleaned_length": 1290,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EARS, NOSE, MOUTH AND THROAT,EARS/NOSE: , The auricles are normal to palpation and inspection without any surrounding lymphadenitis.  There are no signs of acute trauma.  The nose is normal to palpation and inspection externally without evidence of acute trauma.  Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling.  The tympanic membranes are without disruption or infection.  Hearing intact bilaterally to normal level speech.  Nasal mucosa, septum and turbinate examination reveals normal mucous membranes without disruption or inflammation.  The septum is without acute traumatic lesions or disruption.  The turbinates are without abnormal swelling.  There is no unusual rhinorrhea or bleeding.  ,LIPS/TEETH/GUMS:  ,The lips are without infection, mass lesion or traumatic lesions.  The teeth are intact without obvious signs of infection.  The gingivae are normal to palpation and inspection.  ,OROPHARYNX:  ,The oral mucosa is normal.  The salivary glands are without swelling.  The hard and soft palates are intact.  The tongue is without masses or swelling with normal movement.  The tonsils are without inflammation.  The posterior pharynx is without mass lesion with good patent oropharyngeal airway.",
+    "cleaned_text": "EARS, NOSE, MOUTH AND THROAT,EARS/NOSE: , The auricles are normal to palpation and inspection without any surrounding lymphadenitis. There are no signs of acute trauma. The nose is normal to palpation and inspection externally without evidence of acute trauma. Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling. The tympanic membranes are without disruption or infection. Hearing intact bilaterally to normal level speech. Nasal mucosa, septum and turbinate examination reveals normal mucous membranes without disruption or inflammation. The septum is without acute traumatic lesions or disruption. The turbinates are without abnormal swelling. There is no unusual rhinorrhea or bleeding. ,LIPS/TEETH/GUMS: ,The lips are without infection, mass lesion or traumatic lesions. The teeth are intact without obvious signs of infection. The gingivae are normal to palpation and inspection. ,OROPHARYNX: ,The oral mucosa is normal. The salivary glands are without swelling. The hard and soft palates are intact. The tongue is without masses or swelling with normal movement. The tonsils are without inflammation. The posterior pharynx is without mass lesion with good patent oropharyngeal airway.",
+    "sentences": [
+      "EARS, NOSE, MOUTH AND THROAT,EARS/NOSE: , The auricles are normal to palpation and inspection without any surrounding lymphadenitis.",
+      "There are no signs of acute trauma.",
+      "The nose is normal to palpation and inspection externally without evidence of acute trauma.",
+      "Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling.",
+      "The tympanic membranes are without disruption or infection.",
+      "Hearing intact bilaterally to normal level speech.",
+      "Nasal mucosa, septum and turbinate examination reveals normal mucous membranes without disruption or inflammation.",
+      "The septum is without acute traumatic lesions or disruption.",
+      "The turbinates are without abnormal swelling.",
+      "There is no unusual rhinorrhea or bleeding. ,LIPS/TEETH/GUMS: ,The lips are without infection, mass lesion or traumatic lesions.",
+      "The teeth are intact without obvious signs of infection.",
+      "The gingivae are normal to palpation and inspection. ,OROPHARYNX: ,The oral mucosa is normal.",
+      "The salivary glands are without swelling.",
+      "The hard and soft palates are intact.",
+      "The tongue is without masses or swelling with normal movement.",
+      "The tonsils are without inflammation.",
+      "The posterior pharynx is without mass lesion with good patent oropharyngeal airway."
+    ],
+    "sentence_count": 17
+  }
+}

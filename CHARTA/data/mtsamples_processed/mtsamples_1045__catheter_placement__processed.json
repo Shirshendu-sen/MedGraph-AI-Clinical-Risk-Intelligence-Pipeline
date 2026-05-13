@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1045__catheter_placement_.txt",
+    "file_name": "mtsamples_1045__catheter_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1190,
+    "processed_at": "2026-05-09T09:53:32.373477"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1045__catheter_placement_.txt",
+    "text": "PROCEDURE PERFORMED: , Ultrasound-guided placement of multilumen central venous line, left femoral vein.,INDICATIONS:,  Need for venous access in a patient on a ventilator and on multiple IV drugs.,CONSENT: , Consent obtained from patient's sister.,PREOPERATIVE MEDICATIONS: , Local anesthesia with 1% plain lidocaine.,PROCEDURE IN DETAIL: , The ultrasound was used to localize the left femoral vein and to confirm it's patency and course.  The left inguinal area was then prepped and draped in a sterile manner.  The overlying soft tissues were anesthetized with 1% plain lidocaine.  Under direct ultrasound visualization, the femoral vein was cannulated without difficulty, and a guidewire advanced.  This was followed by a stab incision and the vein dilator in order to form a tract for the catheter itself.  Finally, the multilumen catheter itself was inserted over the guidewire.  Once the catheter was fully inserted, the guidewire was completely withdrawn.  Placement was confirmed by the withdrawal of dark venous blood from all ports; all ports were then flushed, the catheter sewn into place, and the dressing applied.  He tolerated the procedure very well, without complications.",
+    "char_count": 1190,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE PERFORMED: , Ultrasound-guided placement of multilumen central venous line, left femoral vein.,INDICATIONS:, Need for venous access in a patient on a ventilator and on multiple IV drugs.,CONSENT: , Consent obtained from patient's sister.,PREOPERATIVE MEDICATIONS: , Local anesthesia with 1% plain lidocaine.,PROCEDURE IN DETAIL: , The ultrasound was used to localize the left femoral vein and to confirm it's patency and course. The left inguinal area was then prepped and draped in a sterile manner. The overlying soft tissues were anesthetized with 1% plain lidocaine. Under direct ultrasound visualization, the femoral vein was cannulated without difficulty, and a guidewire advanced. This was followed by a stab incision and the vein dilator in order to form a tract for the catheter itself. Finally, the multilumen catheter itself was inserted over the guidewire. Once the catheter was fully inserted, the guidewire was completely withdrawn. Placement was confirmed by the withdrawal of dark venous blood from all ports; all ports were then flushed, the catheter sewn into place, and the dressing applied. He tolerated the procedure very well, without complications.",
+    "sentences": [
+      "PROCEDURE PERFORMED: , Ultrasound-guided placement of multilumen central venous line, left femoral vein.,INDICATIONS:, Need for venous access in a patient on a ventilator and on multiple IV drugs.,CONSENT: , Consent obtained from patient's sister.,PREOPERATIVE MEDICATIONS: , Local anesthesia with 1% plain lidocaine.,PROCEDURE IN DETAIL: , The ultrasound was used to localize the left femoral vein and to confirm it's patency and course.",
+      "The left inguinal area was then prepped and draped in a sterile manner.",
+      "The overlying soft tissues were anesthetized with 1% plain lidocaine.",
+      "Under direct ultrasound visualization, the femoral vein was cannulated without difficulty, and a guidewire advanced.",
+      "This was followed by a stab incision and the vein dilator in order to form a tract for the catheter itself.",
+      "Finally, the multilumen catheter itself was inserted over the guidewire.",
+      "Once the catheter was fully inserted, the guidewire was completely withdrawn.",
+      "Placement was confirmed by the withdrawal of dark venous blood from all ports; all ports were then flushed, the catheter sewn into place, and the dressing applied.",
+      "He tolerated the procedure very well, without complications."
+    ],
+    "sentence_count": 9,
+    "original_length": 1190,
+    "cleaned_length": 1181,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE PERFORMED: , Ultrasound-guided placement of multilumen central venous line, left femoral vein.,INDICATIONS:,  Need for venous access in a patient on a ventilator and on multiple IV drugs.,CONSENT: , Consent obtained from patient's sister.,PREOPERATIVE MEDICATIONS: , Local anesthesia with 1% plain lidocaine.,PROCEDURE IN DETAIL: , The ultrasound was used to localize the left femoral vein and to confirm it's patency and course.  The left inguinal area was then prepped and draped in a sterile manner.  The overlying soft tissues were anesthetized with 1% plain lidocaine.  Under direct ultrasound visualization, the femoral vein was cannulated without difficulty, and a guidewire advanced.  This was followed by a stab incision and the vein dilator in order to form a tract for the catheter itself.  Finally, the multilumen catheter itself was inserted over the guidewire.  Once the catheter was fully inserted, the guidewire was completely withdrawn.  Placement was confirmed by the withdrawal of dark venous blood from all ports; all ports were then flushed, the catheter sewn into place, and the dressing applied.  He tolerated the procedure very well, without complications.",
+    "cleaned_text": "PROCEDURE PERFORMED: , Ultrasound-guided placement of multilumen central venous line, left femoral vein.,INDICATIONS:, Need for venous access in a patient on a ventilator and on multiple IV drugs.,CONSENT: , Consent obtained from patient's sister.,PREOPERATIVE MEDICATIONS: , Local anesthesia with 1% plain lidocaine.,PROCEDURE IN DETAIL: , The ultrasound was used to localize the left femoral vein and to confirm it's patency and course. The left inguinal area was then prepped and draped in a sterile manner. The overlying soft tissues were anesthetized with 1% plain lidocaine. Under direct ultrasound visualization, the femoral vein was cannulated without difficulty, and a guidewire advanced. This was followed by a stab incision and the vein dilator in order to form a tract for the catheter itself. Finally, the multilumen catheter itself was inserted over the guidewire. Once the catheter was fully inserted, the guidewire was completely withdrawn. Placement was confirmed by the withdrawal of dark venous blood from all ports; all ports were then flushed, the catheter sewn into place, and the dressing applied. He tolerated the procedure very well, without complications.",
+    "sentences": [
+      "PROCEDURE PERFORMED: , Ultrasound-guided placement of multilumen central venous line, left femoral vein.,INDICATIONS:, Need for venous access in a patient on a ventilator and on multiple IV drugs.,CONSENT: , Consent obtained from patient's sister.,PREOPERATIVE MEDICATIONS: , Local anesthesia with 1% plain lidocaine.,PROCEDURE IN DETAIL: , The ultrasound was used to localize the left femoral vein and to confirm it's patency and course.",
+      "The left inguinal area was then prepped and draped in a sterile manner.",
+      "The overlying soft tissues were anesthetized with 1% plain lidocaine.",
+      "Under direct ultrasound visualization, the femoral vein was cannulated without difficulty, and a guidewire advanced.",
+      "This was followed by a stab incision and the vein dilator in order to form a tract for the catheter itself.",
+      "Finally, the multilumen catheter itself was inserted over the guidewire.",
+      "Once the catheter was fully inserted, the guidewire was completely withdrawn.",
+      "Placement was confirmed by the withdrawal of dark venous blood from all ports; all ports were then flushed, the catheter sewn into place, and the dressing applied.",
+      "He tolerated the procedure very well, without complications."
+    ],
+    "sentence_count": 9
+  }
+}

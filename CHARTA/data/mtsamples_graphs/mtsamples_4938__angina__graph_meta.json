@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4938__angina_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 43,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1,
+    "C0030346": 2,
+    "C0017887": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4938__angina__graph.pt",
+  "source_dataset": "mtsamples_4938__angina"
+}

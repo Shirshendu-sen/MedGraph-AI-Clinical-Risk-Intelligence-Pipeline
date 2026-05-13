@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2786__neck___lower_back_pain___consult_.txt",
+    "file_name": "mtsamples_2786__neck___lower_back_pain___consult_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1384,
+    "processed_at": "2026-05-09T09:54:07.787820"
+  },
+  "entities": [
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 38,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-01-15"
+    },
+    {
+      "text": "lower back pain",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 64,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-01-15"
+    },
+    {
+      "text": "Thomas",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Thomas",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-01-15"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 146,
+      "end_char": 150,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2001-01-15"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 9,
+      "sentence_idx": 12,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2001-01-15"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 9,
+      "sentence_idx": 13,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2001-01-15"
+    },
+    {
+      "text": "paresthesias",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 36,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paresthesias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-01-15"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 9,
+      "sentence_idx": 15,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2001-01-15"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 9,
+      "sentence_idx": 16,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2001-01-15"
+    },
+    {
+      "text": "paresthesias",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 36,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paresthesias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2001-01-15"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "1/15/2001",
+      "start_char": 89,
+      "end_char": 98
+    }
+  ]
+}

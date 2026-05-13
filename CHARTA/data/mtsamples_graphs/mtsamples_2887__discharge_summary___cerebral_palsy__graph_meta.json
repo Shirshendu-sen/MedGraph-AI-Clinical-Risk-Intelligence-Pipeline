@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_2887__discharge_summary___cerebral_palsy_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699187": 1,
+    "C0007546": 2,
+    "C0064582": 3,
+    "C0007561": 4,
+    "C0699670": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2887__discharge_summary___cerebral_palsy__graph.pt",
+  "source_dataset": "mtsamples_2887__discharge_summary___cerebral_palsy"
+}

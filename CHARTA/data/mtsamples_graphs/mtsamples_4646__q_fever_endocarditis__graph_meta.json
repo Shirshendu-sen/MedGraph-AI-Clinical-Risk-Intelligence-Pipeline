@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_4646__q_fever_endocarditis_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 52,
+  "entity_index": {
+    "C0013090": 0,
+    "C0020336": 1,
+    "UNKNOWN": 2,
+    "C0012265": 3,
+    "C0004057": 4,
+    "C0043031": 5,
+    "C0016860": 6
+  },
+  "visit_dates": [
+    "2007-10-15"
+  ],
+  "graph_file": "mtsamples_4646__q_fever_endocarditis__graph.pt",
+  "source_dataset": "mtsamples_4646__q_fever_endocarditis"
+}

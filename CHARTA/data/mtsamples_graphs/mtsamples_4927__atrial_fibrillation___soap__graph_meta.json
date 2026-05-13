@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_4927__atrial_fibrillation___soap_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 89,
+  "entity_index": {
+    "C0002598": 0,
+    "UNKNOWN": 1,
+    "C1098080": 2,
+    "C1170736": 3,
+    "C0004057": 4,
+    "C0162723": 5,
+    "C0030346": 6,
+    "C0032821": 7,
+    "C0010294": 8,
+    "C0017725": 9,
+    "C0024467": 10,
+    "C0006675": 11
+  },
+  "visit_dates": [
+    "2008-12-01"
+  ],
+  "graph_file": "mtsamples_4927__atrial_fibrillation___soap__graph.pt",
+  "source_dataset": "mtsamples_4927__atrial_fibrillation___soap"
+}

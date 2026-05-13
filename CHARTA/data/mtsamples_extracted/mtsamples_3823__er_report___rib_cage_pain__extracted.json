@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3823__er_report___rib_cage_pain_.txt",
+    "file_name": "mtsamples_3823__er_report___rib_cage_pain_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3277,
+    "processed_at": "2026-05-09T09:54:27.922715"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 127,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 31,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 27,
+      "sentence_idx": 3,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Staphylococcus infection",
+      "label": "DISEASE",
+      "start_char": 287,
+      "end_char": 311,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Staphylococcus infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergic",
+      "label": "DISEASE",
+      "start_char": 465,
+      "end_char": 473,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "methamphetamine",
+      "label": "CHEMICAL",
+      "start_char": 613,
+      "end_char": 628,
+      "sentence_idx": 5,
+      "concept_id": "C0025611",
+      "concept_name": "metamfetamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9600993394851685,
+      "timestamp": null
+    },
+    {
+      "text": "cocaine",
+      "label": "CHEMICAL",
+      "start_char": 637,
+      "end_char": 644,
+      "sentence_idx": 5,
+      "concept_id": "C0009170",
+      "concept_name": "benzoylmethylecgonine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9571420550346375,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 18,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rhonchi",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 112,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rhonchi",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 177,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "normoactive bowel",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 86,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normoactive bowel",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "noted.,SKIN",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 21,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "noted.,SKIN",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chest/abdominal pain",
+      "label": "DISEASE",
+      "start_char": 265,
+      "end_char": 285,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest/abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

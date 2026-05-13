@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4800__dddr_permanent_pacemaker_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1,
+    "C0014563": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4800__dddr_permanent_pacemaker__graph.pt",
+  "source_dataset": "mtsamples_4800__dddr_permanent_pacemaker"
+}

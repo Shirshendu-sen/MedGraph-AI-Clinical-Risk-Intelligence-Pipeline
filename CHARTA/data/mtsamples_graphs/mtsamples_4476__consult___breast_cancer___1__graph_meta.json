@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4476__consult___breast_cancer___1_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 40,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0014939": 1,
+    "C0028978": 2,
+    "C0030346": 3
+  },
+  "visit_dates": [
+    "2007-12-21"
+  ],
+  "graph_file": "mtsamples_4476__consult___breast_cancer___1__graph.pt",
+  "source_dataset": "mtsamples_4476__consult___breast_cancer___1"
+}

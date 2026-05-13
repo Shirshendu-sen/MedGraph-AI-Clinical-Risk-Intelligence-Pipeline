@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1535__multiple_images_of_skull__pediatric__.txt",
+    "file_name": "mtsamples_1535__multiple_images_of_skull__pediatric__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 505,
+    "processed_at": "2026-05-09T09:53:44.025117"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1535__multiple_images_of_skull__pediatric__.txt",
+    "text": "EXAM:,  Skull, complete, five images,HISTORY:,  Plagiocephaly.,TECHNIQUE: , Multiple images of the skull were evaluated.  There are no priors for comparison.,FINDINGS: , Multiple images of the skull were evaluated and they reveal radiographic visualization of the cranial sutures without evidence of closure.  There is no evidence of any craniosynostosis.  There is no radiographic evidence of plagiocephaly.,IMPRESSION: , No evidence of craniosynostosis or radiographic characteristics for plagiocephaly.",
+    "char_count": 505,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM:, Skull, complete, five images,HISTORY:, Plagiocephaly.,TECHNIQUE: , Multiple images of the skull were evaluated. There are no priors for comparison.,FINDINGS: , Multiple images of the skull were evaluated and they reveal radiographic visualization of the cranial sutures without evidence of closure. There is no evidence of any craniosynostosis. There is no radiographic evidence of plagiocephaly.,IMPRESSION: , No evidence of craniosynostosis or radiographic characteristics for plagiocephaly.",
+    "sentences": [
+      "EXAM:, Skull, complete, five images,HISTORY:, Plagiocephaly.,TECHNIQUE: , Multiple images of the skull were evaluated.",
+      "There are no priors for comparison.,FINDINGS: , Multiple images of the skull were evaluated and they reveal radiographic visualization of the cranial sutures without evidence of closure.",
+      "There is no evidence of any craniosynostosis.",
+      "There is no radiographic evidence of plagiocephaly.,IMPRESSION: , No evidence of craniosynostosis or radiographic characteristics for plagiocephaly."
+    ],
+    "sentence_count": 4,
+    "original_length": 505,
+    "cleaned_length": 500,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM:,  Skull, complete, five images,HISTORY:,  Plagiocephaly.,TECHNIQUE: , Multiple images of the skull were evaluated.  There are no priors for comparison.,FINDINGS: , Multiple images of the skull were evaluated and they reveal radiographic visualization of the cranial sutures without evidence of closure.  There is no evidence of any craniosynostosis.  There is no radiographic evidence of plagiocephaly.,IMPRESSION: , No evidence of craniosynostosis or radiographic characteristics for plagiocephaly.",
+    "cleaned_text": "EXAM:, Skull, complete, five images,HISTORY:, Plagiocephaly.,TECHNIQUE: , Multiple images of the skull were evaluated. There are no priors for comparison.,FINDINGS: , Multiple images of the skull were evaluated and they reveal radiographic visualization of the cranial sutures without evidence of closure. There is no evidence of any craniosynostosis. There is no radiographic evidence of plagiocephaly.,IMPRESSION: , No evidence of craniosynostosis or radiographic characteristics for plagiocephaly.",
+    "sentences": [
+      "EXAM:, Skull, complete, five images,HISTORY:, Plagiocephaly.,TECHNIQUE: , Multiple images of the skull were evaluated.",
+      "There are no priors for comparison.,FINDINGS: , Multiple images of the skull were evaluated and they reveal radiographic visualization of the cranial sutures without evidence of closure.",
+      "There is no evidence of any craniosynostosis.",
+      "There is no radiographic evidence of plagiocephaly.,IMPRESSION: , No evidence of craniosynostosis or radiographic characteristics for plagiocephaly."
+    ],
+    "sentence_count": 4
+  }
+}

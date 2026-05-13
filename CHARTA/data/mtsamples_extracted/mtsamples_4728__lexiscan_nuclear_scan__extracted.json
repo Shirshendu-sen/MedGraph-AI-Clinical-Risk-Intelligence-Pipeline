@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4728__lexiscan_nuclear_scan_.txt",
+    "file_name": "mtsamples_4728__lexiscan_nuclear_scan_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1169,
+    "processed_at": "2026-05-09T09:54:43.906836"
+  },
+  "entities": [
+    {
+      "text": "Lexiscan",
+      "label": "CHEMICAL",
+      "start_char": 7,
+      "end_char": 15,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lexiscan",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lexiscan",
+      "label": "CHEMICAL",
+      "start_char": 91,
+      "end_char": 99,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lexiscan",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left bundle branch block",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 76,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left bundle branch block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lexiscan",
+      "label": "CHEMICAL",
+      "start_char": 5,
+      "end_char": 13,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Lexiscan",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "noted.,SUMMARY:,1",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 33,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "noted.,SUMMARY:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

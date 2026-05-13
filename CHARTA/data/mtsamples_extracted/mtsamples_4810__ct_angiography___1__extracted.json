@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4810__ct_angiography___1_.txt",
+    "file_name": "mtsamples_4810__ct_angiography___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1473,
+    "processed_at": "2026-05-09T09:54:44.968970"
+  },
+  "entities": [
+    {
+      "text": "Shortness of breath",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 72,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 113,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary embolism",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 128,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cm.,Cardiomegaly",
+      "label": "DISEASE",
+      "start_char": 309,
+      "end_char": 325,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cm.,Cardiomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lower lobe atelectasis",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 27,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower lobe atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleural effusion",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 29,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lower lobe atelectasis",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 68,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower lobe atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleural effusion",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 33,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "granuloma",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 30,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "granuloma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lobe.,IMPRESSION:,1",
+      "label": "CHEMICAL",
+      "start_char": 54,
+      "end_char": 73,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lobe.,IMPRESSION:,1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary arterial hypertension.,3",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 95,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary arterial hypertension.,3",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cardiomegaly",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cardiomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mitral valvular",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 33,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral valvular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleural effusions",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 27,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

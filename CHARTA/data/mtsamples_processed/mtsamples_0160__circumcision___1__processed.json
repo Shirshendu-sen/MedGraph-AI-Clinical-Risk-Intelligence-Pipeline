@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0160__circumcision___1_.txt",
+    "file_name": "mtsamples_0160__circumcision___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1267,
+    "processed_at": "2026-05-09T09:53:07.984347"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0160__circumcision___1_.txt",
+    "text": "CIRCUMCISION - OLDER PERSON,OPERATIVE NOTE:,  The patient was taken to the operating room and placed in the supine position on the operating table.  General endotracheal anesthesia was administered.  The patient was prepped and draped in the usual sterile fashion.  A 4-0 silk suture is used as a stay-stitch of the glans penis.  Next, incision line was marked circumferentially on the outer skin 3 mm below the corona.  The incision was then carried through the skin and subcutaneous tissues down to within a layer of * fascia.  Next, the foreskin was retracted.  Another circumferential incision was made 3 mm proximal to the corona.  The intervening foreskin was excised.  Meticulous hemostasis was obtained with electrocautery.  Next, the skin was reapproximated at the frenulum with a U stitch of 5-0 chromic followed by stitches at 12, 3, and 9 o'clock.  The stitches were placed equal distance among these to reapproximate all the skin edges.  Next, good cosmetic result was noted with no bleeding at the end of the procedure.  Vaseline gauze, Telfa, and Elastoplast dressing was applied.  The stay-stitch was removed and pressure held until bleeding stopped.  The patient tolerated the procedure well and was returned to the recovery room in stable condition.",
+    "char_count": 1267,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "CIRCUMCISION - OLDER PERSON,OPERATIVE NOTE:, The patient was taken to the operating room and placed in the supine position on the operating table. General endotracheal anesthesia was administered. The patient was prepped and draped in the usual sterile fashion. A 4-0 silk suture is used as a stay-stitch of the glans penis. Next, incision line was marked circumferentially on the outer skin 3 mm below the corona. The incision was then carried through the skin and subcutaneous tissues down to within a layer of * fascia. Next, the foreskin was retracted. Another circumferential incision was made 3 mm proximal to the corona. The intervening foreskin was excised. Meticulous hemostasis was obtained with electrocautery. Next, the skin was reapproximated at the frenulum with a U stitch of 5-0 chromic followed by stitches at 12, 3, and 9 o'clock. The stitches were placed equal distance among these to reapproximate all the skin edges. Next, good cosmetic result was noted with no bleeding at the end of the procedure. Vaseline gauze, Telfa, and Elastoplast dressing was applied. The stay-stitch was removed and pressure held until bleeding stopped. The patient tolerated the procedure well and was returned to the recovery room in stable condition.",
+    "sentences": [
+      "CIRCUMCISION - OLDER PERSON,OPERATIVE NOTE:, The patient was taken to the operating room and placed in the supine position on the operating table.",
+      "General endotracheal anesthesia was administered.",
+      "The patient was prepped and draped in the usual sterile fashion.",
+      "A 4-0 silk suture is used as a stay-stitch of the glans penis.",
+      "Next, incision line was marked circumferentially on the outer skin 3 mm below the corona.",
+      "The incision was then carried through the skin and subcutaneous tissues down to within a layer of * fascia.",
+      "Next, the foreskin was retracted.",
+      "Another circumferential incision was made 3 mm proximal to the corona.",
+      "The intervening foreskin was excised.",
+      "Meticulous hemostasis was obtained with electrocautery.",
+      "Next, the skin was reapproximated at the frenulum with a U stitch of 5-0 chromic followed by stitches at 12, 3, and 9 o'clock.",
+      "The stitches were placed equal distance among these to reapproximate all the skin edges.",
+      "Next, good cosmetic result was noted with no bleeding at the end of the procedure.",
+      "Vaseline gauze, Telfa, and Elastoplast dressing was applied.",
+      "The stay-stitch was removed and pressure held until bleeding stopped.",
+      "The patient tolerated the procedure well and was returned to the recovery room in stable condition."
+    ],
+    "sentence_count": 16,
+    "original_length": 1267,
+    "cleaned_length": 1251,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "CIRCUMCISION - OLDER PERSON,OPERATIVE NOTE:,  The patient was taken to the operating room and placed in the supine position on the operating table.  General endotracheal anesthesia was administered.  The patient was prepped and draped in the usual sterile fashion.  A 4-0 silk suture is used as a stay-stitch of the glans penis.  Next, incision line was marked circumferentially on the outer skin 3 mm below the corona.  The incision was then carried through the skin and subcutaneous tissues down to within a layer of * fascia.  Next, the foreskin was retracted.  Another circumferential incision was made 3 mm proximal to the corona.  The intervening foreskin was excised.  Meticulous hemostasis was obtained with electrocautery.  Next, the skin was reapproximated at the frenulum with a U stitch of 5-0 chromic followed by stitches at 12, 3, and 9 o'clock.  The stitches were placed equal distance among these to reapproximate all the skin edges.  Next, good cosmetic result was noted with no bleeding at the end of the procedure.  Vaseline gauze, Telfa, and Elastoplast dressing was applied.  The stay-stitch was removed and pressure held until bleeding stopped.  The patient tolerated the procedure well and was returned to the recovery room in stable condition.",
+    "cleaned_text": "CIRCUMCISION - OLDER PERSON,OPERATIVE NOTE:, The patient was taken to the operating room and placed in the supine position on the operating table. General endotracheal anesthesia was administered. The patient was prepped and draped in the usual sterile fashion. A 4-0 silk suture is used as a stay-stitch of the glans penis. Next, incision line was marked circumferentially on the outer skin 3 mm below the corona. The incision was then carried through the skin and subcutaneous tissues down to within a layer of * fascia. Next, the foreskin was retracted. Another circumferential incision was made 3 mm proximal to the corona. The intervening foreskin was excised. Meticulous hemostasis was obtained with electrocautery. Next, the skin was reapproximated at the frenulum with a U stitch of 5-0 chromic followed by stitches at 12, 3, and 9 o'clock. The stitches were placed equal distance among these to reapproximate all the skin edges. Next, good cosmetic result was noted with no bleeding at the end of the procedure. Vaseline gauze, Telfa, and Elastoplast dressing was applied. The stay-stitch was removed and pressure held until bleeding stopped. The patient tolerated the procedure well and was returned to the recovery room in stable condition.",
+    "sentences": [
+      "CIRCUMCISION - OLDER PERSON,OPERATIVE NOTE:, The patient was taken to the operating room and placed in the supine position on the operating table.",
+      "General endotracheal anesthesia was administered.",
+      "The patient was prepped and draped in the usual sterile fashion.",
+      "A 4-0 silk suture is used as a stay-stitch of the glans penis.",
+      "Next, incision line was marked circumferentially on the outer skin 3 mm below the corona.",
+      "The incision was then carried through the skin and subcutaneous tissues down to within a layer of * fascia.",
+      "Next, the foreskin was retracted.",
+      "Another circumferential incision was made 3 mm proximal to the corona.",
+      "The intervening foreskin was excised.",
+      "Meticulous hemostasis was obtained with electrocautery.",
+      "Next, the skin was reapproximated at the frenulum with a U stitch of 5-0 chromic followed by stitches at 12, 3, and 9 o'clock.",
+      "The stitches were placed equal distance among these to reapproximate all the skin edges.",
+      "Next, good cosmetic result was noted with no bleeding at the end of the procedure.",
+      "Vaseline gauze, Telfa, and Elastoplast dressing was applied.",
+      "The stay-stitch was removed and pressure held until bleeding stopped.",
+      "The patient tolerated the procedure well and was returned to the recovery room in stable condition."
+    ],
+    "sentence_count": 16
+  }
+}

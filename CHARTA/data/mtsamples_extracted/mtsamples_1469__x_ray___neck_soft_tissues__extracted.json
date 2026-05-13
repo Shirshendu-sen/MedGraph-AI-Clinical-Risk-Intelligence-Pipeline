@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1469__x_ray___neck_soft_tissues_.txt",
+    "file_name": "mtsamples_1469__x_ray___neck_soft_tissues_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1176,
+    "processed_at": "2026-05-09T09:53:42.696229"
+  },
+  "entities": [
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 81,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenoids",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertrophy",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 78,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 39,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epiglottis",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 92,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epiglottis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

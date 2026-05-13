@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1131__breast_biopsy_.txt",
+    "file_name": "mtsamples_1131__breast_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1478,
+    "processed_at": "2026-05-09T09:53:34.810122"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1131__breast_biopsy_.txt",
+    "text": "PROCEDURE PERFORMED: , Excisional breast biopsy with needle localization.,ANESTHESIA:,  General.,PROCEDURE: , After informed consent was obtained, the patient was brought to the radiology suite where needle localization was performed with mammographic guidance.  I reviewed the localizing films with the radiologist, and the patient was then brought to the operative suite and placed supine on the operating table.  General endotracheal anesthesia was induced without incident.  The patient was prepped and draped in the usual sterile manner.,The skin overlying the needle tip was incised in a curvilinear fashion.  Dissection down to the needle tip was performed using a combination of Metzenbaum scissors and Bovie electrocautery.  Every attempt was made to get approximately 1 cm of normal tissue around the lesion.  The wire was released and the lesion having been excised was removed from the wound and sent to Radiology for confirmation of excision.  The wound was copiously irrigated with sterile water, and hemostasis was obtained using Bovie electrocautery.  Once Radiology called and confirmed complete excision of the mass, the skin incision was approximated with 4-0 Vicryl in a subcuticular fashion.  The skin was prepped with benzoin and Steri-Strips were applied.  A dressing was then applied.  All surgical counts were reported as correct.,Having tolerated the procedure well, the patient was subsequently taken to the recovery room in good and stable condition.",
+    "char_count": 1478,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE PERFORMED: , Excisional breast biopsy with needle localization.,ANESTHESIA:, General.,PROCEDURE: , After informed consent was obtained, the patient was brought to the radiology suite where needle localization was performed with mammographic guidance. I reviewed the localizing films with the radiologist, and the patient was then brought to the operative suite and placed supine on the operating table. General endotracheal anesthesia was induced without incident. The patient was prepped and draped in the usual sterile manner.,The skin overlying the needle tip was incised in a curvilinear fashion. Dissection down to the needle tip was performed using a combination of Metzenbaum scissors and Bovie electrocautery. Every attempt was made to get approximately 1 cm of normal tissue around the lesion. The wire was released and the lesion having been excised was removed from the wound and sent to Radiology for confirmation of excision. The wound was copiously irrigated with sterile water, and hemostasis was obtained using Bovie electrocautery. Once Radiology called and confirmed complete excision of the mass, the skin incision was approximated with 4-0 Vicryl in a subcuticular fashion. The skin was prepped with benzoin and Steri-Strips were applied. A dressing was then applied. All surgical counts were reported as correct.,Having tolerated the procedure well, the patient was subsequently taken to the recovery room in good and stable condition.",
+    "sentences": [
+      "PROCEDURE PERFORMED: , Excisional breast biopsy with needle localization.,ANESTHESIA:, General.,PROCEDURE: , After informed consent was obtained, the patient was brought to the radiology suite where needle localization was performed with mammographic guidance.",
+      "I reviewed the localizing films with the radiologist, and the patient was then brought to the operative suite and placed supine on the operating table.",
+      "General endotracheal anesthesia was induced without incident.",
+      "The patient was prepped and draped in the usual sterile manner.,The skin overlying the needle tip was incised in a curvilinear fashion.",
+      "Dissection down to the needle tip was performed using a combination of Metzenbaum scissors and Bovie electrocautery.",
+      "Every attempt was made to get approximately 1 cm of normal tissue around the lesion.",
+      "The wire was released and the lesion having been excised was removed from the wound and sent to Radiology for confirmation of excision.",
+      "The wound was copiously irrigated with sterile water, and hemostasis was obtained using Bovie electrocautery.",
+      "Once Radiology called and confirmed complete excision of the mass, the skin incision was approximated with 4-0 Vicryl in a subcuticular fashion.",
+      "The skin was prepped with benzoin and Steri-Strips were applied.",
+      "A dressing was then applied.",
+      "All surgical counts were reported as correct.,Having tolerated the procedure well, the patient was subsequently taken to the recovery room in good and stable condition."
+    ],
+    "sentence_count": 12,
+    "original_length": 1478,
+    "cleaned_length": 1466,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE PERFORMED: , Excisional breast biopsy with needle localization.,ANESTHESIA:,  General.,PROCEDURE: , After informed consent was obtained, the patient was brought to the radiology suite where needle localization was performed with mammographic guidance.  I reviewed the localizing films with the radiologist, and the patient was then brought to the operative suite and placed supine on the operating table.  General endotracheal anesthesia was induced without incident.  The patient was prepped and draped in the usual sterile manner.,The skin overlying the needle tip was incised in a curvilinear fashion.  Dissection down to the needle tip was performed using a combination of Metzenbaum scissors and Bovie electrocautery.  Every attempt was made to get approximately 1 cm of normal tissue around the lesion.  The wire was released and the lesion having been excised was removed from the wound and sent to Radiology for confirmation of excision.  The wound was copiously irrigated with sterile water, and hemostasis was obtained using Bovie electrocautery.  Once Radiology called and confirmed complete excision of the mass, the skin incision was approximated with 4-0 Vicryl in a subcuticular fashion.  The skin was prepped with benzoin and Steri-Strips were applied.  A dressing was then applied.  All surgical counts were reported as correct.,Having tolerated the procedure well, the patient was subsequently taken to the recovery room in good and stable condition.",
+    "cleaned_text": "PROCEDURE PERFORMED: , Excisional breast biopsy with needle localization.,ANESTHESIA:, General.,PROCEDURE: , After informed consent was obtained, the patient was brought to the radiology suite where needle localization was performed with mammographic guidance. I reviewed the localizing films with the radiologist, and the patient was then brought to the operative suite and placed supine on the operating table. General endotracheal anesthesia was induced without incident. The patient was prepped and draped in the usual sterile manner.,The skin overlying the needle tip was incised in a curvilinear fashion. Dissection down to the needle tip was performed using a combination of Metzenbaum scissors and Bovie electrocautery. Every attempt was made to get approximately 1 cm of normal tissue around the lesion. The wire was released and the lesion having been excised was removed from the wound and sent to Radiology for confirmation of excision. The wound was copiously irrigated with sterile water, and hemostasis was obtained using Bovie electrocautery. Once Radiology called and confirmed complete excision of the mass, the skin incision was approximated with 4-0 Vicryl in a subcuticular fashion. The skin was prepped with benzoin and Steri-Strips were applied. A dressing was then applied. All surgical counts were reported as correct.,Having tolerated the procedure well, the patient was subsequently taken to the recovery room in good and stable condition.",
+    "sentences": [
+      "PROCEDURE PERFORMED: , Excisional breast biopsy with needle localization.,ANESTHESIA:, General.,PROCEDURE: , After informed consent was obtained, the patient was brought to the radiology suite where needle localization was performed with mammographic guidance.",
+      "I reviewed the localizing films with the radiologist, and the patient was then brought to the operative suite and placed supine on the operating table.",
+      "General endotracheal anesthesia was induced without incident.",
+      "The patient was prepped and draped in the usual sterile manner.,The skin overlying the needle tip was incised in a curvilinear fashion.",
+      "Dissection down to the needle tip was performed using a combination of Metzenbaum scissors and Bovie electrocautery.",
+      "Every attempt was made to get approximately 1 cm of normal tissue around the lesion.",
+      "The wire was released and the lesion having been excised was removed from the wound and sent to Radiology for confirmation of excision.",
+      "The wound was copiously irrigated with sterile water, and hemostasis was obtained using Bovie electrocautery.",
+      "Once Radiology called and confirmed complete excision of the mass, the skin incision was approximated with 4-0 Vicryl in a subcuticular fashion.",
+      "The skin was prepped with benzoin and Steri-Strips were applied.",
+      "A dressing was then applied.",
+      "All surgical counts were reported as correct.,Having tolerated the procedure well, the patient was subsequently taken to the recovery room in good and stable condition."
+    ],
+    "sentence_count": 12
+  }
+}

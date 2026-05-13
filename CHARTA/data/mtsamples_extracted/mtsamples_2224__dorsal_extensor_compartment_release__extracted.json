@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2224__dorsal_extensor_compartment_release_.txt",
+    "file_name": "mtsamples_2224__dorsal_extensor_compartment_release_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2187,
+    "processed_at": "2026-05-09T09:53:58.591739"
+  },
+  "entities": [
+    {
+      "text": "tenosynovitis",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 49,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenosynovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Quervain",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 95,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Quervain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenosynovitis",
+      "label": "DISEASE",
+      "start_char": 145,
+      "end_char": 158,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenosynovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Quervain",
+      "label": "DISEASE",
+      "start_char": 196,
+      "end_char": 204,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Quervain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Quervain's stenosing tenosynovitis",
+      "label": "DISEASE",
+      "start_char": 503,
+      "end_char": 537,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Quervain's stenosing tenosynovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 43,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 36,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 38,
+      "end_char": 46,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Sterile occlusive",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 17,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Sterile occlusive",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

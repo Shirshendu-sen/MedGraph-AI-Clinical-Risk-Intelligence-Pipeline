@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1131__breast_biopsy_.txt",
+    "file_name": "mtsamples_1131__breast_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1478,
+    "processed_at": "2026-05-09T09:53:34.810122"
+  },
+  "entities": [
+    {
+      "text": "benzoin",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 33,
+      "sentence_idx": 9,
+      "concept_id": "C0005070",
+      "concept_name": "benzoin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9563013911247253,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

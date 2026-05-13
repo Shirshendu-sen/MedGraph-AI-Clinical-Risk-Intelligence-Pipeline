@@ -1,0 +1,33 @@
+{
+  "patient_id": "mtsamples_1767__psych_consult___altered_mental_status_",
+  "num_entities": 20,
+  "num_visits": 1,
+  "num_edges": 134,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0591585": 1,
+    "C0039468": 2,
+    "C0284660": 3,
+    "C0287163": 4,
+    "C0527315": 5,
+    "C0591635": 6,
+    "C0006681": 7,
+    "C0042866": 8,
+    "C0032952": 9,
+    "C0591139": 10,
+    "C0282139": 11,
+    "C0593906": 12,
+    "C0633084": 13,
+    "C0162712": 14,
+    "C0004057": 15,
+    "C0001963": 16,
+    "C0006675": 17,
+    "C0024467": 18,
+    "C0017725": 19
+  },
+  "visit_dates": [
+    "2007-01-21"
+  ],
+  "graph_file": "mtsamples_1767__psych_consult___altered_mental_status__graph.pt",
+  "source_dataset": "mtsamples_1767__psych_consult___altered_mental_status"
+}

@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0902__delivery_note___7_.txt",
+    "file_name": "mtsamples_0902__delivery_note___7_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2370,
+    "processed_at": "2026-05-09T09:53:28.666790"
+  },
+  "entities": [
+    {
+      "text": "6, para 2-1-2-3",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 68,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "6, para 2-1-2-3",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2009-01-05"
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 82,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-05"
+    },
+    {
+      "text": "ampicillin",
+      "label": "CHEMICAL",
+      "start_char": 66,
+      "end_char": 76,
+      "sentence_idx": 5,
+      "concept_id": "C0002680",
+      "concept_name": "ampicillin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9677386283874512,
+      "timestamp": "2009-01-05"
+    },
+    {
+      "text": "HSV2",
+      "label": "DISEASE",
+      "start_char": 153,
+      "end_char": 157,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "HSV2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-05"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 18,
+      "sentence_idx": 15,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2009-01-05"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 43,
+      "sentence_idx": 23,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2009-01-05"
+    },
+    {
+      "text": "perineum",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perineum",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-05"
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-05"
+    },
+    {
+      "text": "ampicillin",
+      "label": "CHEMICAL",
+      "start_char": 96,
+      "end_char": 106,
+      "sentence_idx": 27,
+      "concept_id": "C0002680",
+      "concept_name": "ampicillin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9677386283874512,
+      "timestamp": "2009-01-05"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "01/05/2009",
+      "start_char": 115,
+      "end_char": 125
+    },
+    {
+      "raw_text": "12/26/2008",
+      "start_char": 240,
+      "end_char": 250
+    },
+    {
+      "raw_text": "12/27/2008",
+      "start_char": 1613,
+      "end_char": 1623
+    }
+  ]
+}

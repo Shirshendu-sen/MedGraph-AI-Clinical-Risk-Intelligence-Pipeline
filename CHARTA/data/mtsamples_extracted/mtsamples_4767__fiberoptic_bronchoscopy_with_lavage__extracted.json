@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4767__fiberoptic_bronchoscopy_with_lavage_.txt",
+    "file_name": "mtsamples_4767__fiberoptic_bronchoscopy_with_lavage_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3263,
+    "processed_at": "2026-05-09T09:54:44.407491"
+  },
+  "entities": [
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 20,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "left lung.,POSTOPERATIVE DIAGNOSES:,1",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 61,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left lung.,POSTOPERATIVE DIAGNOSES:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 20,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "Propofol",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 12,
+      "concept_id": "C0033487",
+      "concept_name": "propofol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9385934472084045,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "Brevital",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 56,
+      "sentence_idx": 12,
+      "concept_id": "C0733444",
+      "concept_name": "Brevital",
+      "kb_source": "rxnorm",
+      "link_score": 0.9589706659317017,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "morphine",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 72,
+      "sentence_idx": 12,
+      "concept_id": "C0026549",
+      "concept_name": "morphine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9600629210472107,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 89,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 216,
+      "end_char": 222,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 270,
+      "end_char": 279,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "pulmonary contusions",
+      "label": "DISEASE",
+      "start_char": 301,
+      "end_char": 321,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary contusions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "respiratory distress",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 53,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "respiratory distress",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "desaturation",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 136,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "desaturation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 56,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    },
+    {
+      "text": "endobronchial obstruction",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 102,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endobronchial obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/04/03",
+      "start_char": 848,
+      "end_char": 856
+    }
+  ]
+}

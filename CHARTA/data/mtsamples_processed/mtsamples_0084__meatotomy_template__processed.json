@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0084__meatotomy_template_.txt",
+    "file_name": "mtsamples_0084__meatotomy_template_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 935,
+    "processed_at": "2026-05-09T09:53:05.752191"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0084__meatotomy_template_.txt",
+    "text": "OPERATIVE NOTE:  ,The patient was taken to the operating room and was placed in the supine position on the operating room table.  A general inhalation anesthetic was administered.  The patient was prepped and draped in the usual sterile fashion.  The urethral meatus was calibrated with a small mosquito hemostat and was gently dilated.  Next a midline ventral type incision was made opening the meatus.  This was done after clamping the tissue to control bleeding.  The meatus was opened for about 3 mm.  Next the meatus was calibrated and easily calibrated from 8 to 12 French with bougie sounds.  Next the mucosal edges were everted and reapproximated to the glans skin edges with approximately five interrupted 6-0 Vicryl sutures.  The meatus still calibrated between 10 and 12 French.  Antibiotic ointment was applied.  The procedure was terminated.  The patient was awakened and returned to the recovery room in stable condition.",
+    "char_count": 935,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "OPERATIVE NOTE: ,The patient was taken to the operating room and was placed in the supine position on the operating room table. A general inhalation anesthetic was administered. The patient was prepped and draped in the usual sterile fashion. The urethral meatus was calibrated with a small mosquito hemostat and was gently dilated. Next a midline ventral type incision was made opening the meatus. This was done after clamping the tissue to control bleeding. The meatus was opened for about 3 mm. Next the meatus was calibrated and easily calibrated from 8 to 12 French with bougie sounds. Next the mucosal edges were everted and reapproximated to the glans skin edges with approximately five interrupted 6-0 Vicryl sutures. The meatus still calibrated between 10 and 12 French. Antibiotic ointment was applied. The procedure was terminated. The patient was awakened and returned to the recovery room in stable condition.",
+    "sentences": [
+      "OPERATIVE NOTE: ,The patient was taken to the operating room and was placed in the supine position on the operating room table.",
+      "A general inhalation anesthetic was administered.",
+      "The patient was prepped and draped in the usual sterile fashion.",
+      "The urethral meatus was calibrated with a small mosquito hemostat and was gently dilated.",
+      "Next a midline ventral type incision was made opening the meatus.",
+      "This was done after clamping the tissue to control bleeding.",
+      "The meatus was opened for about 3 mm.",
+      "Next the meatus was calibrated and easily calibrated from 8 to 12 French with bougie sounds.",
+      "Next the mucosal edges were everted and reapproximated to the glans skin edges with approximately five interrupted 6-0 Vicryl sutures.",
+      "The meatus still calibrated between 10 and 12 French.",
+      "Antibiotic ointment was applied.",
+      "The procedure was terminated.",
+      "The patient was awakened and returned to the recovery room in stable condition."
+    ],
+    "sentence_count": 13,
+    "original_length": 935,
+    "cleaned_length": 922,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "OPERATIVE NOTE:  ,The patient was taken to the operating room and was placed in the supine position on the operating room table.  A general inhalation anesthetic was administered.  The patient was prepped and draped in the usual sterile fashion.  The urethral meatus was calibrated with a small mosquito hemostat and was gently dilated.  Next a midline ventral type incision was made opening the meatus.  This was done after clamping the tissue to control bleeding.  The meatus was opened for about 3 mm.  Next the meatus was calibrated and easily calibrated from 8 to 12 French with bougie sounds.  Next the mucosal edges were everted and reapproximated to the glans skin edges with approximately five interrupted 6-0 Vicryl sutures.  The meatus still calibrated between 10 and 12 French.  Antibiotic ointment was applied.  The procedure was terminated.  The patient was awakened and returned to the recovery room in stable condition.",
+    "cleaned_text": "OPERATIVE NOTE: ,The patient was taken to the operating room and was placed in the supine position on the operating room table. A general inhalation anesthetic was administered. The patient was prepped and draped in the usual sterile fashion. The urethral meatus was calibrated with a small mosquito hemostat and was gently dilated. Next a midline ventral type incision was made opening the meatus. This was done after clamping the tissue to control bleeding. The meatus was opened for about 3 mm. Next the meatus was calibrated and easily calibrated from 8 to 12 French with bougie sounds. Next the mucosal edges were everted and reapproximated to the glans skin edges with approximately five interrupted 6-0 Vicryl sutures. The meatus still calibrated between 10 and 12 French. Antibiotic ointment was applied. The procedure was terminated. The patient was awakened and returned to the recovery room in stable condition.",
+    "sentences": [
+      "OPERATIVE NOTE: ,The patient was taken to the operating room and was placed in the supine position on the operating room table.",
+      "A general inhalation anesthetic was administered.",
+      "The patient was prepped and draped in the usual sterile fashion.",
+      "The urethral meatus was calibrated with a small mosquito hemostat and was gently dilated.",
+      "Next a midline ventral type incision was made opening the meatus.",
+      "This was done after clamping the tissue to control bleeding.",
+      "The meatus was opened for about 3 mm.",
+      "Next the meatus was calibrated and easily calibrated from 8 to 12 French with bougie sounds.",
+      "Next the mucosal edges were everted and reapproximated to the glans skin edges with approximately five interrupted 6-0 Vicryl sutures.",
+      "The meatus still calibrated between 10 and 12 French.",
+      "Antibiotic ointment was applied.",
+      "The procedure was terminated.",
+      "The patient was awakened and returned to the recovery room in stable condition."
+    ],
+    "sentence_count": 13
+  }
+}

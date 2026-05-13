@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3659__abdominal_exploration_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 16,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008196": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3659__abdominal_exploration__graph.pt",
+  "source_dataset": "mtsamples_3659__abdominal_exploration"
+}

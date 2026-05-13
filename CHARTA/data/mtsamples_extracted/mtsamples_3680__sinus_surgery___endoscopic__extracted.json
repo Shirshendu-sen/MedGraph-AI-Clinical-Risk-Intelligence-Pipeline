@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3680__sinus_surgery___endoscopic_.txt",
+    "file_name": "mtsamples_3680__sinus_surgery___endoscopic_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4218,
+    "processed_at": "2026-05-09T09:54:26.068278"
+  },
+  "entities": [
+    {
+      "text": "lesion.,PROCEDURES",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 39,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lesion.,PROCEDURES",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nasal congestion",
+      "label": "DISEASE",
+      "start_char": 356,
+      "end_char": 372,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasal congestion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cholesterol granuloma",
+      "label": "CHEMICAL",
+      "start_char": 80,
+      "end_char": 101,
+      "sentence_idx": 9,
+      "concept_id": "C0008377",
+      "concept_name": "cholesterol",
+      "kb_source": "rxnorm",
+      "link_score": 0.73213791847229,
+      "timestamp": null
+    },
+    {
+      "text": "upper eyelid skin lesion",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 34,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper eyelid skin lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 56,
+      "end_char": 65,
+      "sentence_idx": 13,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 71,
+      "end_char": 82,
+      "sentence_idx": 13,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "Maxitrol ointment",
+      "label": "CHEMICAL",
+      "start_char": 65,
+      "end_char": 82,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Maxitrol ointment",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nasopharyngeal mass",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 23,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasopharyngeal mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 39,
+      "sentence_idx": 25,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 45,
+      "end_char": 56,
+      "sentence_idx": 25,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "Keflex",
+      "label": "CHEMICAL",
+      "start_char": 54,
+      "end_char": 60,
+      "sentence_idx": 38,
+      "concept_id": "C0700517",
+      "concept_name": "Keflex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9780697822570801,
+      "timestamp": null
+    },
+    {
+      "text": "Tylenol",
+      "label": "CHEMICAL",
+      "start_char": 88,
+      "end_char": 95,
+      "sentence_idx": 38,
+      "concept_id": "C0699142",
+      "concept_name": "Tylenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9819504022598267,
+      "timestamp": null
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 110,
+      "end_char": 113,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 127,
+      "sentence_idx": 38,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

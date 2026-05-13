@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4816__copd___pneumonia___soap_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1,
+    "C0030346": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4816__copd___pneumonia___soap__graph.pt",
+  "source_dataset": "mtsamples_4816__copd___pneumonia___soap"
+}

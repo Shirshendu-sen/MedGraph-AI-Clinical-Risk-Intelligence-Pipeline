@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2578__hemivulvectomy_.txt",
+    "file_name": "mtsamples_2578__hemivulvectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1937,
+    "processed_at": "2026-05-09T09:54:04.512278"
+  },
+  "entities": [
+    {
+      "text": "vulvar",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 42,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vulvar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vulvar",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 96,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vulvar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vulvar melanoma",
+      "label": "DISEASE",
+      "start_char": 166,
+      "end_char": 181,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vulvar melanoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "melanoma",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 78,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "melanoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

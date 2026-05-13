@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0884__dressing_change_.txt",
+    "file_name": "mtsamples_0884__dressing_change_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 967,
+    "processed_at": "2026-05-09T09:53:28.220864"
+  },
+  "entities": [
+    {
+      "text": "Traumatic injury",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 42,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Traumatic injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Traumatic injury",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 118,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Traumatic injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "traumatic",
+      "label": "DISEASE",
+      "start_char": 259,
+      "end_char": 268,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "traumatic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

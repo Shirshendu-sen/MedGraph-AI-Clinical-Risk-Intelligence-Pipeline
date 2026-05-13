@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4652__pulmonary_embolism_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 23,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0065374": 1,
+    "C0025270": 2,
+    "C0030054": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4652__pulmonary_embolism__graph.pt",
+  "source_dataset": "mtsamples_4652__pulmonary_embolism"
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0871__ear_laceration_repair_.txt",
+    "file_name": "mtsamples_0871__ear_laceration_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1831,
+    "processed_at": "2026-05-09T09:53:27.898243"
+  },
+  "entities": [
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 80,
+      "end_char": 89,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 101,
+      "end_char": 112,
+      "sentence_idx": 2,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "Bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 7,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    },
+    {
+      "text": "notch deformity",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 87,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "notch deformity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 23,
+      "sentence_idx": 13,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

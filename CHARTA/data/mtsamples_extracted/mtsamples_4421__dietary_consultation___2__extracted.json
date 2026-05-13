@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4421__dietary_consultation___2_.txt",
+    "file_name": "mtsamples_4421__dietary_consultation___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2844,
+    "processed_at": "2026-05-09T09:54:38.489803"
+  },
+  "entities": [
+    {
+      "text": "weight reduction",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 97,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight reduction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-12"
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 119,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-12"
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 23,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-12"
+    },
+    {
+      "text": "low blood sugar reaction",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 84,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "low blood sugar reaction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-12"
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 70,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-12"
+    },
+    {
+      "text": "Diabetes",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-12"
+    },
+    {
+      "text": "metformin",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 38,
+      "sentence_idx": 14,
+      "concept_id": "C0025598",
+      "concept_name": "metformin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9634568095207214,
+      "timestamp": "2004-05-12"
+    },
+    {
+      "text": "weight reduction",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 67,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight reduction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-12"
+    },
+    {
+      "text": "weight reduction",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 95,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight reduction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-12"
+    },
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 53,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-05-12"
+    },
+    {
+      "text": "Glucophage",
+      "label": "CHEMICAL",
+      "start_char": 89,
+      "end_char": 99,
+      "sentence_idx": 30,
+      "concept_id": "C0591573",
+      "concept_name": "Glucophage",
+      "kb_source": "rxnorm",
+      "link_score": 0.9761244058609009,
+      "timestamp": "2004-05-12"
+    },
+    {
+      "text": "multivitamin",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 39,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "multivitamin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2004-05-12"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "5/12/04",
+      "start_char": 1124,
+      "end_char": 1131
+    }
+  ]
+}

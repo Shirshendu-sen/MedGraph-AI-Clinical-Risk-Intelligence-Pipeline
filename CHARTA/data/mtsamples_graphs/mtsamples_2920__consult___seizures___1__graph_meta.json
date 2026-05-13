@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_2920__consult___seizures___1_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 50,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0719149": 1,
+    "C0595301": 2,
+    "C0065374": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2920__consult___seizures___1__graph.pt",
+  "source_dataset": "mtsamples_2920__consult___seizures___1"
+}

@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4147__pneumothorax___subcutaneous_emphysema_.txt",
+    "file_name": "mtsamples_4147__pneumothorax___subcutaneous_emphysema_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1887,
+    "processed_at": "2026-05-09T09:54:34.182029"
+  },
+  "entities": [
+    {
+      "text": "complaints of scapular pain",
+      "label": "DISEASE",
+      "start_char": 191,
+      "end_char": 218,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "complaints of scapular pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "emphysema",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 67,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "emphysema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 100,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "emphysema",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 116,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "emphysema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothorax",
+      "label": "DISEASE",
+      "start_char": 138,
+      "end_char": 150,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Normocephalic",
+      "label": "DISEASE",
+      "start_char": 309,
+      "end_char": 322,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Normocephalic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Trachea",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Trachea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Normoactive bowel",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 17,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Normoactive bowel",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "clubbing",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 50,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clubbing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 57,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "emphysema of the upper chest",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 147,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "emphysema of the upper chest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "emphysema",
+      "label": "DISEASE",
+      "start_char": 212,
+      "end_char": 221,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "emphysema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "emphysema",
+      "label": "DISEASE",
+      "start_char": 363,
+      "end_char": 372,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "emphysema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothorax",
+      "label": "DISEASE",
+      "start_char": 397,
+      "end_char": 409,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 423,
+      "end_char": 429,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

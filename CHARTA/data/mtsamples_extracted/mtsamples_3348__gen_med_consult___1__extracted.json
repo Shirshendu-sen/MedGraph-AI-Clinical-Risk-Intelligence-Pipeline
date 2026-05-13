@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3348__gen_med_consult___1_.txt",
+    "file_name": "mtsamples_3348__gen_med_consult___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1460,
+    "processed_at": "2026-05-09T09:54:20.261080"
+  },
+  "entities": [
+    {
+      "text": "right shoulder pain",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 132,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-30"
+    },
+    {
+      "text": "shoulder pain",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 52,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-30"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 21,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2004-06-30"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 92,
+      "sentence_idx": 7,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2004-06-30"
+    },
+    {
+      "text": "radiculopathies",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 145,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-30"
+    },
+    {
+      "text": "neurologic, musculoskeletal, endocrine abnormalities",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 102,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neurologic, musculoskeletal, endocrine abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-30"
+    },
+    {
+      "text": "Claritin",
+      "label": "CHEMICAL",
+      "start_char": 122,
+      "end_char": 130,
+      "sentence_idx": 8,
+      "concept_id": "C0701055",
+      "concept_name": "Claritin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9775713682174683,
+      "timestamp": "2004-06-30"
+    },
+    {
+      "text": "allergic rhinitis",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 152,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergic rhinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-30"
+    },
+    {
+      "text": "Gross neurologic examination",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 28,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Gross neurologic examination",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-30"
+    },
+    {
+      "text": "adenopathy",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 45,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-30"
+    },
+    {
+      "text": "thyromegaly",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 60,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyromegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2004-06-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "06/30/04",
+      "start_char": 494,
+      "end_char": 502
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0638__laparoscopic_cholecystectomy___3_.txt",
+    "file_name": "mtsamples_0638__laparoscopic_cholecystectomy___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1047,
+    "processed_at": "2026-05-09T09:53:21.346730"
+  },
+  "entities": [
+    {
+      "text": "Chronic cholecystitis",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 47,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chronic cholecystitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Chronic cholecystitis",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 119,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chronic cholecystitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 90,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0758__gastroscopy___3_.txt",
+    "file_name": "mtsamples_0758__gastroscopy___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2063,
+    "processed_at": "2026-05-09T09:53:24.944328"
+  },
+  "entities": [
+    {
+      "text": "reflux",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 75,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "reflux",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Barrett",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 118,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Barrett",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophagus",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 13,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophagus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 141,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "incisors",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 85,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "incisors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Barrett esophagus",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 52,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Barrett esophagus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 46,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hiatal hernia",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 17,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hiatal hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erosion",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 68,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erosion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Helicobacter pylori",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 67,
+      "sentence_idx": 12,
+      "concept_id": "C0079488",
+      "concept_name": "Campylobacter pylori subsp. pylori",
+      "kb_source": "mesh",
+      "link_score": 0.9686158299446106,
+      "timestamp": null
+    },
+    {
+      "text": "cardia",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 30,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 75,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "well.,FINAL",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 38,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "well.,FINAL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Barrett",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 23,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Barrett",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Barrett",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 34,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Barrett",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

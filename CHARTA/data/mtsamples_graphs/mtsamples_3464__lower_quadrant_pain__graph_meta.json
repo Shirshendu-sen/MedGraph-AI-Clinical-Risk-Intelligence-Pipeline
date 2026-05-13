@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_3464__lower_quadrant_pain_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 67,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0020261": 2,
+    "C0065374": 3,
+    "C0001927": 4,
+    "C0037473": 5,
+    "C0032821": 6,
+    "C0006675": 7,
+    "C0017725": 8,
+    "C0010294": 9
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3464__lower_quadrant_pain__graph.pt",
+  "source_dataset": "mtsamples_3464__lower_quadrant_pain"
+}

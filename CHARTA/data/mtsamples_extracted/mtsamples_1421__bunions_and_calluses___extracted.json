@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1421__bunions_and_calluses__.txt",
+    "file_name": "mtsamples_1421__bunions_and_calluses__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 924,
+    "processed_at": "2026-05-09T09:53:41.332680"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 7,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "callus",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 40,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "callus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "plantar keratoma",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 44,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "plantar keratoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "painful lesion",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 40,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "painful lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hyperkeratotic",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 24,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperkeratotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2892__ct_lumbar_spine___2_.txt",
+    "file_name": "mtsamples_2892__ct_lumbar_spine___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1141,
+    "processed_at": "2026-05-09T09:54:10.356684"
+  },
+  "entities": [
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 179,
+      "end_char": 190,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 267,
+      "end_char": 278,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "facet joints",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 69,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "facet joints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 144,
+      "end_char": 155,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "non-compressive right neural foraminal narrowing",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 62,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-compressive right neural foraminal narrowing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "facet arthrosis",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 87,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "facet arthrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 201,
+      "end_char": 212,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "non-compressive right neural foraminal narrowing",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 118,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-compressive right neural foraminal narrowing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "facet arthrosis",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 151,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "facet arthrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

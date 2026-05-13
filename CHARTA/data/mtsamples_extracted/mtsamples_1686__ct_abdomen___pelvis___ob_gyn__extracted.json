@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1686__ct_abdomen___pelvis___ob_gyn_.txt",
+    "file_name": "mtsamples_1686__ct_abdomen___pelvis___ob_gyn_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1703,
+    "processed_at": "2026-05-09T09:53:48.370842"
+  },
+  "entities": [
+    {
+      "text": "PELVIS:,Within",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 62,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PELVIS:,Within",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypodense mass",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 49,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypodense mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypodense mass",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 48,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypodense mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 114,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroids",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 24,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticula",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 35,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticulitis",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 91,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticulitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "granulomas",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 54,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "granulomas",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "facet degenerative",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 74,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "facet degenerative",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hypoattenuating mass",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 20,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hypoattenuating mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

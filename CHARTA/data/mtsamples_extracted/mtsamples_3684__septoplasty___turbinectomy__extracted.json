@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3684__septoplasty___turbinectomy_.txt",
+    "file_name": "mtsamples_3684__septoplasty___turbinectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2761,
+    "processed_at": "2026-05-09T09:54:26.142518"
+  },
+  "entities": [
+    {
+      "text": "sinusitis",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 40,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinusitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nasal obstruction",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 89,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasal obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 24,
+      "end_char": 33,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 58,
+      "sentence_idx": 2,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "backbiting",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 33,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "backbiting",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 101,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

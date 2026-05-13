@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2869__emg_nerve_conduction_study___6_.txt",
+    "file_name": "mtsamples_2869__emg_nerve_conduction_study___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1880,
+    "processed_at": "2026-05-09T09:54:09.976046"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 278,
+      "end_char": 282,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 32,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "right leg weakness",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 86,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right leg weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 42,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "peripheral neuropathy",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 46,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peripheral neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

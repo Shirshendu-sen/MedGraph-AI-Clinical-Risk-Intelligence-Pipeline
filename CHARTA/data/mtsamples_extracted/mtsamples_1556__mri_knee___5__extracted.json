@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1556__mri_knee___5_.txt",
+    "file_name": "mtsamples_1556__mri_knee___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2471,
+    "processed_at": "2026-05-09T09:53:44.413909"
+  },
+  "entities": [
+    {
+      "text": "right knee pain",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 97,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-07-31"
+    },
+    {
+      "text": "intrasubstance degeneration",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 156,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrasubstance degeneration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-07-31"
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 394,
+      "end_char": 401,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-03"
+    },
+    {
+      "text": "interstitial sprain",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 94,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "interstitial sprain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-07-31"
+    },
+    {
+      "text": "sprain",
+      "label": "DISEASE",
+      "start_char": 324,
+      "end_char": 330,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sprain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-03"
+    },
+    {
+      "text": "marrow edema",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 21,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "marrow edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-07-31"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 157,
+      "end_char": 165,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-07-31"
+    },
+    {
+      "text": "contusion",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 58,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-07-31"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-07-31"
+    },
+    {
+      "text": "subluxation",
+      "label": "DISEASE",
+      "start_char": 186,
+      "end_char": 197,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-03"
+    },
+    {
+      "text": "sprain",
+      "label": "DISEASE",
+      "start_char": 337,
+      "end_char": 343,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sprain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-03"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 422,
+      "end_char": 430,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-03"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "7/31/05",
+      "start_char": 125,
+      "end_char": 132
+    },
+    {
+      "raw_text": "8/3/05",
+      "start_char": 225,
+      "end_char": 231
+    }
+  ]
+}

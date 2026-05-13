@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0802__exploratory_laparotomy___1_.txt",
+    "file_name": "mtsamples_0802__exploratory_laparotomy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4872,
+    "processed_at": "2026-05-09T09:53:26.195141"
+  },
+  "entities": [
+    {
+      "text": "diverticula",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 144,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sigmoid colon resection",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 136,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sigmoid colon resection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cystitis",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 36,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cystitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adhesions",
+      "label": "DISEASE",
+      "start_char": 341,
+      "end_char": 350,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adhesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 161,
+      "end_char": 169,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

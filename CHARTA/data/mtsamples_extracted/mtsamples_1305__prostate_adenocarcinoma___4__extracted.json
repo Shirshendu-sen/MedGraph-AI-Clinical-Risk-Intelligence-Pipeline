@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1305__prostate_adenocarcinoma___4_.txt",
+    "file_name": "mtsamples_1305__prostate_adenocarcinoma___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 981,
+    "processed_at": "2026-05-09T09:53:38.809330"
+  },
+  "entities": [
+    {
+      "text": "normal.,PROCEDURES",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 41,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normal.,PROCEDURES",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 115,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 40,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Prostate",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infiltrating adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 76,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infiltrating adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tumor",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "urgency incontinence",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 136,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urgency incontinence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3066__qualified_medical_evaluation_report_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 47,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0010137": 2
+  },
+  "visit_dates": [
+    "1994-06-29"
+  ],
+  "graph_file": "mtsamples_3066__qualified_medical_evaluation_report__graph.pt",
+  "source_dataset": "mtsamples_3066__qualified_medical_evaluation_report"
+}

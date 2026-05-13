@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0380__rhinoplasty_.txt",
+    "file_name": "mtsamples_0380__rhinoplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3443,
+    "processed_at": "2026-05-09T09:53:14.404827"
+  },
+  "entities": [
+    {
+      "text": "Nasal obstruction",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 17,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nasal obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "turbinate",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 19,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "turbinate",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nose.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 78,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nose.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nasal obstruction",
+      "label": "DISEASE",
+      "start_char": 201,
+      "end_char": 218,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasal obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inferior turbinate hypertrophy",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 129,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inferior turbinate hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nasal splints",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 92,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasal splints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

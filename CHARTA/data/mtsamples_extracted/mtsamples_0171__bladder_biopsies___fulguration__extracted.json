@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0171__bladder_biopsies___fulguration_.txt",
+    "file_name": "mtsamples_0171__bladder_biopsies___fulguration_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2235,
+    "processed_at": "2026-05-09T09:53:08.272370"
+  },
+  "entities": [
+    {
+      "text": "bladder carcinoma",
+      "label": "DISEASE",
+      "start_char": 189,
+      "end_char": 206,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder lesions",
+      "label": "DISEASE",
+      "start_char": 445,
+      "end_char": 460,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder lesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carcinoma of the bladder",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 69,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carcinoma of the bladder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 49,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cysto",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 82,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cysto",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 75,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4298__huntington_s_disease_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0074393": 1,
+    "C0016365": 2,
+    "C0087119": 3
+  },
+  "visit_dates": [
+    "1993-03-16"
+  ],
+  "graph_file": "mtsamples_4298__huntington_s_disease__graph.pt",
+  "source_dataset": "mtsamples_4298__huntington_s_disease"
+}

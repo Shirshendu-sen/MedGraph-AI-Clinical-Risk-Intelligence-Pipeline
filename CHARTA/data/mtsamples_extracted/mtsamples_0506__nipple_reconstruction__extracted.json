@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0506__nipple_reconstruction_.txt",
+    "file_name": "mtsamples_0506__nipple_reconstruction_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3744,
+    "processed_at": "2026-05-09T09:53:17.775583"
+  },
+  "entities": [
+    {
+      "text": "Breast asymmetry.,POSTOPERATIVE DIAGNOSES,1",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 43,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Breast asymmetry.,POSTOPERATIVE DIAGNOSES,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Left nipple areolar reconstruction",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 34,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left nipple areolar reconstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 66,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "silicone",
+      "label": "CHEMICAL",
+      "start_char": 57,
+      "end_char": 65,
+      "sentence_idx": 20,
+      "concept_id": "C0037107",
+      "concept_name": "silicon",
+      "kb_source": "rxnorm",
+      "link_score": 0.8461437821388245,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

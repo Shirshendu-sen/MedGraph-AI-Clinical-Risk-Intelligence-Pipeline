@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1729__alzheimer_disease_.txt",
+    "file_name": "mtsamples_1729__alzheimer_disease_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4404,
+    "processed_at": "2026-05-09T09:53:49.155944"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 189,
+      "end_char": 198,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "4)allergy",
+      "label": "CHEMICAL",
+      "start_char": 200,
+      "end_char": 209,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "4)allergy",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "sulfa",
+      "label": "CHEMICAL",
+      "start_char": 213,
+      "end_char": 218,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sulfa",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "extrapyramidal signs",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 121,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "extrapyramidal signs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "noted.,COURSE",
+      "label": "DISEASE",
+      "start_char": 144,
+      "end_char": 157,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "noted.,COURSE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "deficits in verbal and visual memory",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 159,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "deficits in verbal and visual memory",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "cognitive dysfunction",
+      "label": "DISEASE",
+      "start_char": 394,
+      "end_char": 415,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cognitive dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "cerebral dysfunction",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 61,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cerebral dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "dementia syndrome",
+      "label": "DISEASE",
+      "start_char": 168,
+      "end_char": 185,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dementia syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "Alzheimer's disease",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 213,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Alzheimer's disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 50,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "visual loss",
+      "label": "DISEASE",
+      "start_char": 153,
+      "end_char": 164,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "visual loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "OU",
+      "label": "DISEASE",
+      "start_char": 166,
+      "end_char": 168,
+      "sentence_idx": 15,
+      "concept_id": "C0029904",
+      "concept_name": "Acocantherin",
+      "kb_source": "mesh",
+      "link_score": 0.727530837059021,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "INO",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 22,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "INO",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "loss of visual acuity",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 45,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of visual acuity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "Glucose",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 25,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "lightheadedness",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 111,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lightheadedness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "vertigo",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 127,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vertigo",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "orthostatic changes.,1/8/97 neuropsychological evaluation",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 85,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "orthostatic changes.,1/8/97 neuropsychological evaluation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "deficits in visual construction",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 163,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "deficits in visual construction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    },
+    {
+      "text": "anxiety",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 99,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anxiety",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-02-28"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "2/28/95",
+      "start_char": 148,
+      "end_char": 155
+    },
+    {
+      "raw_text": "3/6/95",
+      "start_char": 1298,
+      "end_char": 1304
+    },
+    {
+      "raw_text": "3/6/95",
+      "start_char": 1973,
+      "end_char": 1979
+    },
+    {
+      "raw_text": "9/30/96",
+      "start_char": 2558,
+      "end_char": 2565
+    },
+    {
+      "raw_text": "9/27/96",
+      "start_char": 2657,
+      "end_char": 2664
+    },
+    {
+      "raw_text": "9/30/96",
+      "start_char": 3362,
+      "end_char": 3369
+    },
+    {
+      "raw_text": "9/30/96",
+      "start_char": 3641,
+      "end_char": 3648
+    },
+    {
+      "raw_text": "3/6/95",
+      "start_char": 3679,
+      "end_char": 3685
+    },
+    {
+      "raw_text": "1/3/97",
+      "start_char": 3690,
+      "end_char": 3696
+    },
+    {
+      "raw_text": "1/8/97",
+      "start_char": 3870,
+      "end_char": 3876
+    },
+    {
+      "raw_text": "2/14/97",
+      "start_char": 4298,
+      "end_char": 4305
+    }
+  ]
+}

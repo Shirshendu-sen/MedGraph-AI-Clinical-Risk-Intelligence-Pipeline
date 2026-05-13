@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_4639__shortness_of_breath___progress_note_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 56,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0025605": 2,
+    "C0030049": 3,
+    "C0040610": 4,
+    "C0009011": 5,
+    "C0002333": 6,
+    "C0684237": 7,
+    "C0728755": 8,
+    "C0016860": 9
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4639__shortness_of_breath___progress_note__graph.pt",
+  "source_dataset": "mtsamples_4639__shortness_of_breath___progress_note"
+}

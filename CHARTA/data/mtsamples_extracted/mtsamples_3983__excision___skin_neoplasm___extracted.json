@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3983__excision___skin_neoplasm__.txt",
+    "file_name": "mtsamples_3983__excision___skin_neoplasm__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2369,
+    "processed_at": "2026-05-09T09:54:31.346630"
+  },
+  "entities": [
+    {
+      "text": "upper cheek skin neoplasm",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 42,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper cheek skin neoplasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 38,
+      "sentence_idx": 7,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "1:100,000 epinephrine.,ESTIMATED BLOOD",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 82,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:100,000 epinephrine.,ESTIMATED BLOOD",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 43,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 54,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nevi",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 47,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nevi",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 43,
+      "sentence_idx": 15,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "nasal ala nevus",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 75,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasal ala nevus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 25,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

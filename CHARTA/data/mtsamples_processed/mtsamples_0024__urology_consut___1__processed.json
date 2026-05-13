@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0024__urology_consut___1_.txt",
+    "file_name": "mtsamples_0024__urology_consut___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 17,
+    "processed_at": "2026-05-09T09:53:03.745183"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0024__urology_consut___1_.txt",
+    "text": "CHIEF COMPLAINT:,",
+    "char_count": 17,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "CHIEF COMPLAINT:,",
+    "sentences": [
+      "CHIEF COMPLAINT:,"
+    ],
+    "sentence_count": 1,
+    "original_length": 17,
+    "cleaned_length": 17,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "CHIEF COMPLAINT:,",
+    "cleaned_text": "CHIEF COMPLAINT:,",
+    "sentences": [
+      "CHIEF COMPLAINT:,"
+    ],
+    "sentence_count": 1
+  }
+}

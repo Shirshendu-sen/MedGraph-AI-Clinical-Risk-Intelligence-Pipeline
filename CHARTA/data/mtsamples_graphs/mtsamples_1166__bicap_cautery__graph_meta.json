@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1166__bicap_cautery_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 15,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0935966": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1166__bicap_cautery__graph.pt",
+  "source_dataset": "mtsamples_1166__bicap_cautery"
+}

@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2970__nephrology_office_visit___2_.txt",
+    "file_name": "mtsamples_2970__nephrology_office_visit___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 654,
+    "processed_at": "2026-05-09T09:54:11.640613"
+  },
+  "entities": [
+    {
+      "text": "chronic kidney disease",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 131,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic kidney disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-04"
+    },
+    {
+      "text": "nephrosclerosis",
+      "label": "DISEASE",
+      "start_char": 145,
+      "end_char": 160,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nephrosclerosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-04"
+    },
+    {
+      "text": "nonfunctioning right kidney",
+      "label": "DISEASE",
+      "start_char": 165,
+      "end_char": 192,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nonfunctioning right kidney",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-04"
+    },
+    {
+      "text": "creatinine",
+      "label": "CHEMICAL",
+      "start_char": 24,
+      "end_char": 34,
+      "sentence_idx": 1,
+      "concept_id": "C0010294",
+      "concept_name": "creatinine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9711365103721619,
+      "timestamp": "2006-04-04"
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 24,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-04"
+    },
+    {
+      "text": "tightness",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 37,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tightness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-04"
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 33,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-04"
+    },
+    {
+      "text": "nausea",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 41,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-04"
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 54,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-04"
+    },
+    {
+      "text": "chills",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 28,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-04"
+    },
+    {
+      "text": "dysuria",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 37,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-04"
+    },
+    {
+      "text": "hematuria",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 51,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-04"
+    },
+    {
+      "text": "chronic kidney disease",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 48,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic kidney disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-04-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "04/04/06",
+      "start_char": 232,
+      "end_char": 240
+    }
+  ]
+}

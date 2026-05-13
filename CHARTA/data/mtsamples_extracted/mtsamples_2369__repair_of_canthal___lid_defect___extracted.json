@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2369__repair_of_canthal___lid_defect__.txt",
+    "file_name": "mtsamples_2369__repair_of_canthal___lid_defect__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3554,
+    "processed_at": "2026-05-09T09:54:00.803823"
+  },
+  "entities": [
+    {
+      "text": "skin malignancy",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 79,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "skin malignancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "skin malignancy",
+      "label": "DISEASE",
+      "start_char": 203,
+      "end_char": 218,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "skin malignancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alfentanil",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 43,
+      "sentence_idx": 4,
+      "concept_id": "C0002026",
+      "concept_name": "alfentanil",
+      "kb_source": "rxnorm",
+      "link_score": 0.9692602157592773,
+      "timestamp": null
+    },
+    {
+      "text": "conjunctival",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 16,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "conjunctival",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Erythromycin ointment",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 21,
+      "sentence_idx": 23,
+      "concept_id": "C0014806",
+      "concept_name": "erythromycin",
+      "kb_source": "rxnorm",
+      "link_score": 0.7556517124176025,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

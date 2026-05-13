@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0369__rotator_cuff_repair_.txt",
+    "file_name": "mtsamples_0369__rotator_cuff_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2501,
+    "processed_at": "2026-05-09T09:53:14.183133"
+  },
+  "entities": [
+    {
+      "text": "Impingement",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NAME",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 48,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NAME",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 99,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 48,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "acromioclavicular joint disease",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 83,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acromioclavicular joint disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "impingement",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 38,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

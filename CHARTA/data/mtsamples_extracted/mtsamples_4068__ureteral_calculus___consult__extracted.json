@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4068__ureteral_calculus___consult_.txt",
+    "file_name": "mtsamples_4068__ureteral_calculus___consult_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1465,
+    "processed_at": "2026-05-09T09:54:32.890134"
+  },
+  "entities": [
+    {
+      "text": "hematuria",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 105,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "calcification",
+      "label": "DISEASE",
+      "start_char": 183,
+      "end_char": 196,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "calcification",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 57,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "Holmium",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 47,
+      "sentence_idx": 2,
+      "concept_id": "C0019846",
+      "concept_name": "holmium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9531607627868652,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "Coronary artery disease.,PAST",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 29,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Coronary artery disease.,PAST",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "Coumadin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 8,
+      "concept_id": "C0699129",
+      "concept_name": "Coumadin",
+      "kb_source": "rxnorm",
+      "link_score": 0.947939395904541,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "Viagra",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 10,
+      "concept_id": "C0663448",
+      "concept_name": "Viagra",
+      "kb_source": "rxnorm",
+      "link_score": 0.9773347973823547,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 92,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 106,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "nausea, vomiting",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 23,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea, vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "constipation",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 49,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "constipation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    },
+    {
+      "text": "GU",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "GU",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-01-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "01/04/07",
+      "start_char": 143,
+      "end_char": 151
+    }
+  ]
+}

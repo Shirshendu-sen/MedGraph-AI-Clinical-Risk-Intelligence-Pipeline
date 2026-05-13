@@ -1,0 +1,30 @@
+{
+  "patient_id": "mtsamples_2540__metastatic_ovarian_cancer___consult_",
+  "num_entities": 17,
+  "num_visits": 1,
+  "num_edges": 129,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0045093": 1,
+    "C0079083": 2,
+    "C0733468": 3,
+    "C0030054": 4,
+    "C0728963": 5,
+    "C0042313": 6,
+    "C0004147": 7,
+    "C0699194": 8,
+    "C0009014": 9,
+    "C0728755": 10,
+    "C0060926": 11,
+    "C0699992": 12,
+    "C0162712": 13,
+    "C0206046": 14,
+    "C0001963": 15,
+    "C0030346": 16
+  },
+  "visit_dates": [
+    "2008-12-15"
+  ],
+  "graph_file": "mtsamples_2540__metastatic_ovarian_cancer___consult__graph.pt",
+  "source_dataset": "mtsamples_2540__metastatic_ovarian_cancer___consult"
+}

@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0895__dental_prophylaxis_.txt",
+    "file_name": "mtsamples_0895__dental_prophylaxis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3862,
+    "processed_at": "2026-05-09T09:53:28.450735"
+  },
+  "entities": [
+    {
+      "text": "caries",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 68,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "caries",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "head and neck were draped in sterile towels, and the body was covered with lead apron and sterile sheath",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 108,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head and neck were draped in sterile towels, and the body was covered with lead apron and sterile sheath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 25,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Plastic lip",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Plastic lip",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calculus",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 36,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calculus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 27,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fluoride",
+      "label": "CHEMICAL",
+      "start_char": 8,
+      "end_char": 16,
+      "sentence_idx": 29,
+      "concept_id": "C0677517",
+      "concept_name": "fluoride ion",
+      "kb_source": "rxnorm",
+      "link_score": 0.8390935659408569,
+      "timestamp": null
+    },
+    {
+      "text": "calculus",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calculus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "caries",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 27,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "caries",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 25,
+      "sentence_idx": 36,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 54,
+      "sentence_idx": 38,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

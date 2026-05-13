@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4630__stress_test_dobutamine_.txt",
+    "file_name": "mtsamples_4630__stress_test_dobutamine_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 851,
+    "processed_at": "2026-05-09T09:54:42.431152"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4630__stress_test_dobutamine_.txt",
+    "text": "INDICATIONS:,  Atrial fibrillation, coronary disease.,STRESS TECHNIQUE:, The patient was infused with dobutamine to a maximum heart rate of 142.  ECG exhibits atrial fibrillation.,IMAGE TECHNIQUE:,  The patient was injected with 5.2 millicuries of thallous chloride and subsequently imaged on the gated tomographic SPECT system.,IMAGE ANALYSIS:,  It should be noted that the images are limited slightly by the patient's obesity with a weight of 263 pounds.  There is normal LV myocardial perfusion.  The LV systolic ejection fraction is normal at 65%.  There is normal global and regional wall motion.,CONCLUSIONS:,1.  Basic rhythm of atrial fibrillation with no change during dobutamine stress, maximum heart rate of 142.,2.  Normal LV myocardial perfusion.,3.  Normal LV systolic ejection fraction of 65%.,4.  Normal global and regional wall motion.",
+    "char_count": 851,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "INDICATIONS:, Atrial fibrillation, coronary disease.,STRESS TECHNIQUE:, The patient was infused with dobutamine to a maximum heart rate of 142. ECG exhibits atrial fibrillation.,IMAGE TECHNIQUE:, The patient was injected with 5.2 millicuries of thallous chloride and subsequently imaged on the gated tomographic SPECT system.,IMAGE ANALYSIS:, It should be noted that the images are limited slightly by the patient's obesity with a weight of 263 pounds. There is normal LV myocardial perfusion. The LV systolic ejection fraction is normal at 65%. There is normal global and regional wall motion.,CONCLUSIONS:,1. Basic rhythm of atrial fibrillation with no change during dobutamine stress, maximum heart rate of 142.,2. Normal LV myocardial perfusion.,3. Normal LV systolic ejection fraction of 65%.,4. Normal global and regional wall motion.",
+    "sentences": [
+      "INDICATIONS:, Atrial fibrillation, coronary disease.,STRESS TECHNIQUE:, The patient was infused with dobutamine to a maximum heart rate of 142.",
+      "ECG exhibits atrial fibrillation.,IMAGE TECHNIQUE:, The patient was injected with 5.2 millicuries of thallous chloride and subsequently imaged on the gated tomographic SPECT system.,IMAGE ANALYSIS:, It should be noted that the images are limited slightly by the patient's obesity with a weight of 263 pounds.",
+      "There is normal LV myocardial perfusion.",
+      "The LV systolic ejection fraction is normal at 65%.",
+      "There is normal global and regional wall motion.,CONCLUSIONS:,1.",
+      "Basic rhythm of atrial fibrillation with no change during dobutamine stress, maximum heart rate of 142.,2.",
+      "Normal LV myocardial perfusion.,3.",
+      "Normal LV systolic ejection fraction of 65%.,4.",
+      "Normal global and regional wall motion."
+    ],
+    "sentence_count": 9,
+    "original_length": 851,
+    "cleaned_length": 840,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "INDICATIONS:,  Atrial fibrillation, coronary disease.,STRESS TECHNIQUE:, The patient was infused with dobutamine to a maximum heart rate of 142.  ECG exhibits atrial fibrillation.,IMAGE TECHNIQUE:,  The patient was injected with 5.2 millicuries of thallous chloride and subsequently imaged on the gated tomographic SPECT system.,IMAGE ANALYSIS:,  It should be noted that the images are limited slightly by the patient's obesity with a weight of 263 pounds.  There is normal LV myocardial perfusion.  The LV systolic ejection fraction is normal at 65%.  There is normal global and regional wall motion.,CONCLUSIONS:,1.  Basic rhythm of atrial fibrillation with no change during dobutamine stress, maximum heart rate of 142.,2.  Normal LV myocardial perfusion.,3.  Normal LV systolic ejection fraction of 65%.,4.  Normal global and regional wall motion.",
+    "cleaned_text": "INDICATIONS:, Atrial fibrillation, coronary disease.,STRESS TECHNIQUE:, The patient was infused with dobutamine to a maximum heart rate of 142. ECG exhibits atrial fibrillation.,IMAGE TECHNIQUE:, The patient was injected with 5.2 millicuries of thallous chloride and subsequently imaged on the gated tomographic SPECT system.,IMAGE ANALYSIS:, It should be noted that the images are limited slightly by the patient's obesity with a weight of 263 pounds. There is normal LV myocardial perfusion. The LV systolic ejection fraction is normal at 65%. There is normal global and regional wall motion.,CONCLUSIONS:,1. Basic rhythm of atrial fibrillation with no change during dobutamine stress, maximum heart rate of 142.,2. Normal LV myocardial perfusion.,3. Normal LV systolic ejection fraction of 65%.,4. Normal global and regional wall motion.",
+    "sentences": [
+      "INDICATIONS:, Atrial fibrillation, coronary disease.,STRESS TECHNIQUE:, The patient was infused with dobutamine to a maximum heart rate of 142.",
+      "ECG exhibits atrial fibrillation.,IMAGE TECHNIQUE:, The patient was injected with 5.2 millicuries of thallous chloride and subsequently imaged on the gated tomographic SPECT system.,IMAGE ANALYSIS:, It should be noted that the images are limited slightly by the patient's obesity with a weight of 263 pounds.",
+      "There is normal LV myocardial perfusion.",
+      "The LV systolic ejection fraction is normal at 65%.",
+      "There is normal global and regional wall motion.,CONCLUSIONS:,1.",
+      "Basic rhythm of atrial fibrillation with no change during dobutamine stress, maximum heart rate of 142.,2.",
+      "Normal LV myocardial perfusion.,3.",
+      "Normal LV systolic ejection fraction of 65%.,4.",
+      "Normal global and regional wall motion."
+    ],
+    "sentence_count": 9
+  }
+}

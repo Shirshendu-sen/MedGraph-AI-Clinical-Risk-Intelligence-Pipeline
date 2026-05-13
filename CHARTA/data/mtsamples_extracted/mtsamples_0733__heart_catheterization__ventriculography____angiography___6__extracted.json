@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0733__heart_catheterization__ventriculography____angiography___6_.txt",
+    "file_name": "mtsamples_0733__heart_catheterization__ventriculography____angiography___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4127,
+    "processed_at": "2026-05-09T09:53:23.702703"
+  },
+  "entities": [
+    {
+      "text": "Dyspnea",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dyspnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abnormal stress echocardiography.,2",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 60,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal stress echocardiography.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Metabolic syndrome.,POSTOPERATIVE DIAGNOSES,1",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 45,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Metabolic syndrome.,POSTOPERATIVE DIAGNOSES,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "two-vessel coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 61,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "two-vessel coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 19,
+      "sentence_idx": 11,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "left ventricular systolic function",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 41,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left ventricular systolic function",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial branch",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 37,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial branch",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "groove branch",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 66,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "groove branch",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 137,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aspirin",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 42,
+      "sentence_idx": 44,
+      "concept_id": "C0004057",
+      "concept_name": "aspirin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736717343330383,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1798__three_views___ankle_.txt",
+    "file_name": "mtsamples_1798__three_views___ankle_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 398,
+    "processed_at": "2026-05-09T09:53:50.607401"
+  },
+  "entities": [
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 33,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dislocations",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 49,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dislocations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osseous lesions",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 66,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osseous lesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

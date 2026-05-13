@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2921__craniotomy___biparietal__",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699405": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2921__craniotomy___biparietal___graph.pt",
+  "source_dataset": "mtsamples_2921__craniotomy___biparietal_"
+}

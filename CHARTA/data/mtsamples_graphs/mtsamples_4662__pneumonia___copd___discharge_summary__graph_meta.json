@@ -1,0 +1,30 @@
+{
+  "patient_id": "mtsamples_4662__pneumonia___copd___discharge_summary_",
+  "num_entities": 17,
+  "num_visits": 1,
+  "num_edges": 139,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1,
+    "C0012373": 2,
+    "C0012265": 3,
+    "C0721336": 4,
+    "C0004749": 5,
+    "C0008947": 6,
+    "C0699194": 7,
+    "C0025598": 8,
+    "C0701228": 9,
+    "C0905678": 10,
+    "C0876064": 11,
+    "C0700940": 12,
+    "C0302583": 13,
+    "C0004057": 14,
+    "C0065374": 15,
+    "C0032952": 16
+  },
+  "visit_dates": [
+    "2008-04-23"
+  ],
+  "graph_file": "mtsamples_4662__pneumonia___copd___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_4662__pneumonia___copd___discharge_summary"
+}

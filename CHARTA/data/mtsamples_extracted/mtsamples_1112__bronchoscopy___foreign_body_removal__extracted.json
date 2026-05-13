@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1112__bronchoscopy___foreign_body_removal_.txt",
+    "file_name": "mtsamples_1112__bronchoscopy___foreign_body_removal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1752,
+    "processed_at": "2026-05-09T09:53:34.404348"
+  },
+  "entities": [
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 327,
+      "end_char": 346,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 37,
+      "sentence_idx": 16,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

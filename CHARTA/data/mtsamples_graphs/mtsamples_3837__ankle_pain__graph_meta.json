@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3837__ankle_pain_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 5,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0290795": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3837__ankle_pain__graph.pt",
+  "source_dataset": "mtsamples_3837__ankle_pain"
+}

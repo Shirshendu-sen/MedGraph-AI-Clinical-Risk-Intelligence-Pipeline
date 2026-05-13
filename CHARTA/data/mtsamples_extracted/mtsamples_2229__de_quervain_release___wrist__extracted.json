@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2229__de_quervain_release___wrist_.txt",
+    "file_name": "mtsamples_2229__de_quervain_release___wrist_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1576,
+    "processed_at": "2026-05-09T09:53:58.679295"
+  },
+  "entities": [
+    {
+      "text": "Quervain",
+      "label": "DISEASE",
+      "start_char": 164,
+      "end_char": 172,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Quervain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 49,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

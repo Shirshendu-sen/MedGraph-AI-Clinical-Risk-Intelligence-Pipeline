@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_4219__neuropsychological_evaluation___1_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 52,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0719386": 1,
+    "C0592071": 2,
+    "C0023870": 3,
+    "C0719751": 4,
+    "C0527258": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4219__neuropsychological_evaluation___1__graph.pt",
+  "source_dataset": "mtsamples_4219__neuropsychological_evaluation___1"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_4237__nephrology_consultation___3_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 53,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0965130": 1,
+    "C0001927": 2,
+    "C0001963": 3,
+    "C0700940": 4,
+    "C0020223": 5,
+    "C1098080": 6,
+    "C0065374": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4237__nephrology_consultation___3__graph.pt",
+  "source_dataset": "mtsamples_4237__nephrology_consultation___3"
+}

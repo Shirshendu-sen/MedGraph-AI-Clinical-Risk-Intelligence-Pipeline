@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4960__evaluation_of_allergies_.txt",
+    "file_name": "mtsamples_4960__evaluation_of_allergies_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1112,
+    "processed_at": "2026-05-09T09:54:48.211843"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4960__evaluation_of_allergies_.txt",
+    "text": "HISTORY:,  A 55-year-old female presents self-referred for the possibility of evaluation and treatment of allergies, diminished taste, xerostomia, gastroesophageal reflux disease, possible food allergies, chronic GI irritability, asthma, and environmental inhalant allergies.  Please refer to chart for history and physical and review of systems and detailed medical history.,IMPRESSION:  ,1.  Chronic glossitis/xerostomia/probable environmental inhalant allergies/probable food allergies/history of asthma.,2.  History of fibromyalgia.,3.  History of peptic ulcer disease, history of gastritis, history of gastroesophageal disease.,4.  History of chronic fatigue.,5.  History of hypothyroidism.,6.  History of depression.,7.  History of dysphagia.,RECOMMENDATIONS: , RAST allergy testing was ordered for food allergy evaluation.  The patient had previous allergy testing done less than one year ago iby Dr. X, which was requested.  The patient will follow up after RAST allergy testing for further treatment recommendations.  At this point, no changes in her medication were prescribed until her followup visit.",
+    "char_count": 1112,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "HISTORY:, A 55-year-old female presents self-referred for the possibility of evaluation and treatment of allergies, diminished taste, xerostomia, gastroesophageal reflux disease, possible food allergies, chronic GI irritability, asthma, and environmental inhalant allergies. Please refer to chart for history and physical and review of systems and detailed medical history.,IMPRESSION: ,1. Chronic glossitis/xerostomia/probable environmental inhalant allergies/probable food allergies/history of asthma.,2. History of fibromyalgia.,3. History of peptic ulcer disease, history of gastritis, history of gastroesophageal disease.,4. History of chronic fatigue.,5. History of hypothyroidism.,6. History of depression.,7. History of dysphagia.,RECOMMENDATIONS: , RAST allergy testing was ordered for food allergy evaluation. The patient had previous allergy testing done less than one year ago iby Dr. X, which was requested. The patient will follow up after RAST allergy testing for further treatment recommendations. At this point, no changes in her medication were prescribed until her followup visit.",
+    "sentences": [
+      "HISTORY:, A 55-year-old female presents self-referred for the possibility of evaluation and treatment of allergies, diminished taste, xerostomia, gastroesophageal reflux disease, possible food allergies, chronic GI irritability, asthma, and environmental inhalant allergies.",
+      "Please refer to chart for history and physical and review of systems and detailed medical history.,IMPRESSION: ,1.",
+      "Chronic glossitis/xerostomia/probable environmental inhalant allergies/probable food allergies/history of asthma.,2.",
+      "History of fibromyalgia.,3.",
+      "History of peptic ulcer disease, history of gastritis, history of gastroesophageal disease.,4.",
+      "History of chronic fatigue.,5.",
+      "History of hypothyroidism.,6.",
+      "History of depression.,7.",
+      "History of dysphagia.,RECOMMENDATIONS: , RAST allergy testing was ordered for food allergy evaluation.",
+      "The patient had previous allergy testing done less than one year ago iby Dr.",
+      "X, which was requested.",
+      "The patient will follow up after RAST allergy testing for further treatment recommendations.",
+      "At this point, no changes in her medication were prescribed until her followup visit."
+    ],
+    "sentence_count": 13,
+    "original_length": 1112,
+    "cleaned_length": 1099,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "HISTORY:,  A 55-year-old female presents self-referred for the possibility of evaluation and treatment of allergies, diminished taste, xerostomia, gastroesophageal reflux disease, possible food allergies, chronic GI irritability, asthma, and environmental inhalant allergies.  Please refer to chart for history and physical and review of systems and detailed medical history.,IMPRESSION:  ,1.  Chronic glossitis/xerostomia/probable environmental inhalant allergies/probable food allergies/history of asthma.,2.  History of fibromyalgia.,3.  History of peptic ulcer disease, history of gastritis, history of gastroesophageal disease.,4.  History of chronic fatigue.,5.  History of hypothyroidism.,6.  History of depression.,7.  History of dysphagia.,RECOMMENDATIONS: , RAST allergy testing was ordered for food allergy evaluation.  The patient had previous allergy testing done less than one year ago iby Dr. X, which was requested.  The patient will follow up after RAST allergy testing for further treatment recommendations.  At this point, no changes in her medication were prescribed until her followup visit.",
+    "cleaned_text": "HISTORY:, A 55-year-old female presents self-referred for the possibility of evaluation and treatment of allergies, diminished taste, xerostomia, gastroesophageal reflux disease, possible food allergies, chronic GI irritability, asthma, and environmental inhalant allergies. Please refer to chart for history and physical and review of systems and detailed medical history.,IMPRESSION: ,1. Chronic glossitis/xerostomia/probable environmental inhalant allergies/probable food allergies/history of asthma.,2. History of fibromyalgia.,3. History of peptic ulcer disease, history of gastritis, history of gastroesophageal disease.,4. History of chronic fatigue.,5. History of hypothyroidism.,6. History of depression.,7. History of dysphagia.,RECOMMENDATIONS: , RAST allergy testing was ordered for food allergy evaluation. The patient had previous allergy testing done less than one year ago iby Dr. X, which was requested. The patient will follow up after RAST allergy testing for further treatment recommendations. At this point, no changes in her medication were prescribed until her followup visit.",
+    "sentences": [
+      "HISTORY:, A 55-year-old female presents self-referred for the possibility of evaluation and treatment of allergies, diminished taste, xerostomia, gastroesophageal reflux disease, possible food allergies, chronic GI irritability, asthma, and environmental inhalant allergies.",
+      "Please refer to chart for history and physical and review of systems and detailed medical history.,IMPRESSION: ,1.",
+      "Chronic glossitis/xerostomia/probable environmental inhalant allergies/probable food allergies/history of asthma.,2.",
+      "History of fibromyalgia.,3.",
+      "History of peptic ulcer disease, history of gastritis, history of gastroesophageal disease.,4.",
+      "History of chronic fatigue.,5.",
+      "History of hypothyroidism.,6.",
+      "History of depression.,7.",
+      "History of dysphagia.,RECOMMENDATIONS: , RAST allergy testing was ordered for food allergy evaluation.",
+      "The patient had previous allergy testing done less than one year ago iby Dr.",
+      "X, which was requested.",
+      "The patient will follow up after RAST allergy testing for further treatment recommendations.",
+      "At this point, no changes in her medication were prescribed until her followup visit."
+    ],
+    "sentence_count": 13
+  }
+}

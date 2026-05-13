@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0969__colonoscopy_with_biopsy___1_.txt",
+    "file_name": "mtsamples_0969__colonoscopy_with_biopsy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1043,
+    "processed_at": "2026-05-09T09:53:30.360801"
+  },
+  "entities": [
+    {
+      "text": "PREPROCEDURE",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PREPROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "boggy prostate",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 86,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "boggy prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 56,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "proctosigmoiditis",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 143,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "proctosigmoiditis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

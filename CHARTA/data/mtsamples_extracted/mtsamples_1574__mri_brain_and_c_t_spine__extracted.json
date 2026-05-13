@@ -1,0 +1,496 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1574__mri_brain_and_c_t_spine_.txt",
+    "file_name": "mtsamples_1574__mri_brain_and_c_t_spine_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4406,
+    "processed_at": "2026-05-09T09:53:44.902067"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 102,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "paresthesia",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 35,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paresthesia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "upper extremity weakness",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 64,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper extremity weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "ataxia",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 24,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ataxia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "nausea,",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 33,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea,",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "hyperreflexia",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 61,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperreflexia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "enlargement of the cervical and thoracic spine",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 85,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "enlargement of the cervical and thoracic spine",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 58,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "hemangioblastoma",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 137,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemangioblastoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 84,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "bladder incontinence",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 39,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder incontinence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "Von Hippel-Lindau Disease.,SHX",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 132,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Von Hippel-Lindau Disease.,SHX",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "truck",
+      "label": "DISEASE",
+      "start_char": 143,
+      "end_char": 148,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "truck",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 208,
+      "end_char": 215,
+      "sentence_idx": 13,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "dysarthria",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 36,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysarthria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "retinal hemangioblastoma",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 27,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retinal hemangioblastoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 24,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "hads",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 31,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hads",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 79,
+      "end_char": 82,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 29,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "PP",
+      "label": "CHEMICAL",
+      "start_char": 174,
+      "end_char": 176,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "Spastic",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Spastic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "Babinski",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Babinski",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 53,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "hemangioblastoma",
+      "label": "DISEASE",
+      "start_char": 156,
+      "end_char": 172,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemangioblastoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 114,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 118,
+      "end_char": 121,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 170,
+      "end_char": 173,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "intermittent urinary retention",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 46,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intermittent urinary retention",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 85,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 99,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "diaphoresis",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 37,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diaphoresis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 47,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "gadolinium",
+      "label": "CHEMICAL",
+      "start_char": 97,
+      "end_char": 107,
+      "sentence_idx": 34,
+      "concept_id": "C0016911",
+      "concept_name": "gadolinium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9583680033683777,
+      "timestamp": "1992-09-25"
+    },
+    {
+      "text": "hemangioblastoma",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 60,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemangioblastoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-09-25"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "9/25/92",
+      "start_char": 328,
+      "end_char": 335
+    },
+    {
+      "raw_text": "8/31/93",
+      "start_char": 764,
+      "end_char": 771
+    },
+    {
+      "raw_text": "9/1/93",
+      "start_char": 905,
+      "end_char": 911
+    },
+    {
+      "raw_text": "1/19/94",
+      "start_char": 1208,
+      "end_char": 1215
+    },
+    {
+      "raw_text": "10/26/95",
+      "start_char": 1265,
+      "end_char": 1273
+    },
+    {
+      "raw_text": "9/8/95",
+      "start_char": 2950,
+      "end_char": 2956
+    },
+    {
+      "raw_text": "11/14/95",
+      "start_char": 2972,
+      "end_char": 2980
+    },
+    {
+      "raw_text": "2/19/96",
+      "start_char": 3090,
+      "end_char": 3097
+    },
+    {
+      "raw_text": "10/25/96",
+      "start_char": 3240,
+      "end_char": 3248
+    },
+    {
+      "raw_text": "10/26/96",
+      "start_char": 3757,
+      "end_char": 3765
+    }
+  ]
+}

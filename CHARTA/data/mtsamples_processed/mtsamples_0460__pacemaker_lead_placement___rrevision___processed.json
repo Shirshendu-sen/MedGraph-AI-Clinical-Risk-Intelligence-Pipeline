@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0460__pacemaker_lead_placement___rrevision__.txt",
+    "file_name": "mtsamples_0460__pacemaker_lead_placement___rrevision__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1768,
+    "processed_at": "2026-05-09T09:53:16.708485"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0460__pacemaker_lead_placement___rrevision__.txt",
+    "text": "PROCEDURE: , Right ventricular pacemaker lead placement and lead revision.,INDICATIONS:,  Sinus bradycardia, sick-sinus syndrome, poor threshold on the ventricular lead and chronic lead.,EQUIPMENT: , A new lead is a Medtronic model #12345, threshold sensing at 5.7, impedance of 1032, threshold of 0.3, atrial threshold is 0.3, 531, and sensing at 4.1.  The original chronic ventricular lead had a threshold of 3.5 and 6 on the can.,ESTIMATED BLOOD LOSS: , 5 mL.,PROCEDURE DESCRIPTION:  ,Conscious sedation with Versed and fentanyl over left subclavicular area with pacemaker pocket was anesthetized with local anesthetic with epinephrine.  The patient received a venogram documenting patency of the subclavian vein.  Skin incision with blunt and sharp dissection.  Electrocautery for hemostasis.  The pocket was opened and the pacemaker was removed from the pocket and disconnected from the leads.  The leads were sequentially checked.  Through the pocket a puncture of the vein with a thin wall needle was made and a long sheath was used to help carry it along the tortuosity of the proximal subclavian and innominate superior vena cava.  Ultimately, a ventricular lead was placed in apex of the right ventricle, secured to base pocket with 2-0 silk suture.  Pocket was irrigated with antibiotic solution.  The pocket was packed with bacitracin-soaked gauze.  This was removed during the case and then irrigated once again.  The generator was attached to the leads, placed in the pocket, secured with 2-0 silk suture and the pocket was closed with a three layer of 4-0 Monocryl.,CONCLUSION:  , Successful replacement of a right ventricular lead secondary to poor lead thresholds in a chronic lead and placement of the previous Vitatron pulse generator model # 12345.",
+    "char_count": 1768,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE: , Right ventricular pacemaker lead placement and lead revision.,INDICATIONS:, Sinus bradycardia, sick-sinus syndrome, poor threshold on the ventricular lead and chronic lead.,EQUIPMENT: , A new lead is a Medtronic model #12345, threshold sensing at 5.7, impedance of 1032, threshold of 0.3, atrial threshold is 0.3, 531, and sensing at 4.1. The original chronic ventricular lead had a threshold of 3.5 and 6 on the can.,ESTIMATED BLOOD LOSS: , 5 mL.,PROCEDURE DESCRIPTION: ,Conscious sedation with Versed and fentanyl over left subclavicular area with pacemaker pocket was anesthetized with local anesthetic with epinephrine. The patient received a venogram documenting patency of the subclavian vein. Skin incision with blunt and sharp dissection. Electrocautery for hemostasis. The pocket was opened and the pacemaker was removed from the pocket and disconnected from the leads. The leads were sequentially checked. Through the pocket a puncture of the vein with a thin wall needle was made and a long sheath was used to help carry it along the tortuosity of the proximal subclavian and innominate superior vena cava. Ultimately, a ventricular lead was placed in apex of the right ventricle, secured to base pocket with 2-0 silk suture. Pocket was irrigated with antibiotic solution. The pocket was packed with bacitracin-soaked gauze. This was removed during the case and then irrigated once again. The generator was attached to the leads, placed in the pocket, secured with 2-0 silk suture and the pocket was closed with a three layer of 4-0 Monocryl.,CONCLUSION: , Successful replacement of a right ventricular lead secondary to poor lead thresholds in a chronic lead and placement of the previous Vitatron pulse generator model # 12345.",
+    "sentences": [
+      "PROCEDURE: , Right ventricular pacemaker lead placement and lead revision.,INDICATIONS:, Sinus bradycardia, sick-sinus syndrome, poor threshold on the ventricular lead and chronic lead.,EQUIPMENT: , A new lead is a Medtronic model #12345, threshold sensing at 5.7, impedance of 1032, threshold of 0.3, atrial threshold is 0.3, 531, and sensing at 4.1.",
+      "The original chronic ventricular lead had a threshold of 3.5 and 6 on the can.,ESTIMATED BLOOD LOSS: , 5 mL.,PROCEDURE DESCRIPTION: ,Conscious sedation with Versed and fentanyl over left subclavicular area with pacemaker pocket was anesthetized with local anesthetic with epinephrine.",
+      "The patient received a venogram documenting patency of the subclavian vein.",
+      "Skin incision with blunt and sharp dissection.",
+      "Electrocautery for hemostasis.",
+      "The pocket was opened and the pacemaker was removed from the pocket and disconnected from the leads.",
+      "The leads were sequentially checked.",
+      "Through the pocket a puncture of the vein with a thin wall needle was made and a long sheath was used to help carry it along the tortuosity of the proximal subclavian and innominate superior vena cava.",
+      "Ultimately, a ventricular lead was placed in apex of the right ventricle, secured to base pocket with 2-0 silk suture.",
+      "Pocket was irrigated with antibiotic solution.",
+      "The pocket was packed with bacitracin-soaked gauze.",
+      "This was removed during the case and then irrigated once again.",
+      "The generator was attached to the leads, placed in the pocket, secured with 2-0 silk suture and the pocket was closed with a three layer of 4-0 Monocryl.,CONCLUSION: , Successful replacement of a right ventricular lead secondary to poor lead thresholds in a chronic lead and placement of the previous Vitatron pulse generator model # 12345."
+    ],
+    "sentence_count": 13,
+    "original_length": 1768,
+    "cleaned_length": 1753,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE: , Right ventricular pacemaker lead placement and lead revision.,INDICATIONS:,  Sinus bradycardia, sick-sinus syndrome, poor threshold on the ventricular lead and chronic lead.,EQUIPMENT: , A new lead is a Medtronic model #12345, threshold sensing at 5.7, impedance of 1032, threshold of 0.3, atrial threshold is 0.3, 531, and sensing at 4.1.  The original chronic ventricular lead had a threshold of 3.5 and 6 on the can.,ESTIMATED BLOOD LOSS: , 5 mL.,PROCEDURE DESCRIPTION:  ,Conscious sedation with Versed and fentanyl over left subclavicular area with pacemaker pocket was anesthetized with local anesthetic with epinephrine.  The patient received a venogram documenting patency of the subclavian vein.  Skin incision with blunt and sharp dissection.  Electrocautery for hemostasis.  The pocket was opened and the pacemaker was removed from the pocket and disconnected from the leads.  The leads were sequentially checked.  Through the pocket a puncture of the vein with a thin wall needle was made and a long sheath was used to help carry it along the tortuosity of the proximal subclavian and innominate superior vena cava.  Ultimately, a ventricular lead was placed in apex of the right ventricle, secured to base pocket with 2-0 silk suture.  Pocket was irrigated with antibiotic solution.  The pocket was packed with bacitracin-soaked gauze.  This was removed during the case and then irrigated once again.  The generator was attached to the leads, placed in the pocket, secured with 2-0 silk suture and the pocket was closed with a three layer of 4-0 Monocryl.,CONCLUSION:  , Successful replacement of a right ventricular lead secondary to poor lead thresholds in a chronic lead and placement of the previous Vitatron pulse generator model # 12345.",
+    "cleaned_text": "PROCEDURE: , Right ventricular pacemaker lead placement and lead revision.,INDICATIONS:, Sinus bradycardia, sick-sinus syndrome, poor threshold on the ventricular lead and chronic lead.,EQUIPMENT: , A new lead is a Medtronic model #12345, threshold sensing at 5.7, impedance of 1032, threshold of 0.3, atrial threshold is 0.3, 531, and sensing at 4.1. The original chronic ventricular lead had a threshold of 3.5 and 6 on the can.,ESTIMATED BLOOD LOSS: , 5 mL.,PROCEDURE DESCRIPTION: ,Conscious sedation with Versed and fentanyl over left subclavicular area with pacemaker pocket was anesthetized with local anesthetic with epinephrine. The patient received a venogram documenting patency of the subclavian vein. Skin incision with blunt and sharp dissection. Electrocautery for hemostasis. The pocket was opened and the pacemaker was removed from the pocket and disconnected from the leads. The leads were sequentially checked. Through the pocket a puncture of the vein with a thin wall needle was made and a long sheath was used to help carry it along the tortuosity of the proximal subclavian and innominate superior vena cava. Ultimately, a ventricular lead was placed in apex of the right ventricle, secured to base pocket with 2-0 silk suture. Pocket was irrigated with antibiotic solution. The pocket was packed with bacitracin-soaked gauze. This was removed during the case and then irrigated once again. The generator was attached to the leads, placed in the pocket, secured with 2-0 silk suture and the pocket was closed with a three layer of 4-0 Monocryl.,CONCLUSION: , Successful replacement of a right ventricular lead secondary to poor lead thresholds in a chronic lead and placement of the previous Vitatron pulse generator model # 12345.",
+    "sentences": [
+      "PROCEDURE: , Right ventricular pacemaker lead placement and lead revision.,INDICATIONS:, Sinus bradycardia, sick-sinus syndrome, poor threshold on the ventricular lead and chronic lead.,EQUIPMENT: , A new lead is a Medtronic model #12345, threshold sensing at 5.7, impedance of 1032, threshold of 0.3, atrial threshold is 0.3, 531, and sensing at 4.1.",
+      "The original chronic ventricular lead had a threshold of 3.5 and 6 on the can.,ESTIMATED BLOOD LOSS: , 5 mL.,PROCEDURE DESCRIPTION: ,Conscious sedation with Versed and fentanyl over left subclavicular area with pacemaker pocket was anesthetized with local anesthetic with epinephrine.",
+      "The patient received a venogram documenting patency of the subclavian vein.",
+      "Skin incision with blunt and sharp dissection.",
+      "Electrocautery for hemostasis.",
+      "The pocket was opened and the pacemaker was removed from the pocket and disconnected from the leads.",
+      "The leads were sequentially checked.",
+      "Through the pocket a puncture of the vein with a thin wall needle was made and a long sheath was used to help carry it along the tortuosity of the proximal subclavian and innominate superior vena cava.",
+      "Ultimately, a ventricular lead was placed in apex of the right ventricle, secured to base pocket with 2-0 silk suture.",
+      "Pocket was irrigated with antibiotic solution.",
+      "The pocket was packed with bacitracin-soaked gauze.",
+      "This was removed during the case and then irrigated once again.",
+      "The generator was attached to the leads, placed in the pocket, secured with 2-0 silk suture and the pocket was closed with a three layer of 4-0 Monocryl.,CONCLUSION: , Successful replacement of a right ventricular lead secondary to poor lead thresholds in a chronic lead and placement of the previous Vitatron pulse generator model # 12345."
+    ],
+    "sentence_count": 13
+  }
+}

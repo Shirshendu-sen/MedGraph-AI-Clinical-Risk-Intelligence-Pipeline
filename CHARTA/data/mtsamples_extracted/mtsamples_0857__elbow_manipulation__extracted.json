@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0857__elbow_manipulation_.txt",
+    "file_name": "mtsamples_0857__elbow_manipulation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3317,
+    "processed_at": "2026-05-09T09:53:27.615195"
+  },
+  "entities": [
+    {
+      "text": "supination",
+      "label": "DISEASE",
+      "start_char": 292,
+      "end_char": 302,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supination",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "pronation",
+      "label": "DISEASE",
+      "start_char": 307,
+      "end_char": 316,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pronation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "pronation",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 83,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pronation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "supination",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 98,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supination",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "left elbow fracture dislocation",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 97,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left elbow fracture dislocation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "right glenoid neck fracture",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 69,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right glenoid neck fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "postoperative stiffness",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 103,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "postoperative stiffness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 63,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 73,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 174,
+      "end_char": 178,
+      "sentence_idx": 10,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "postoperative stiffness",
+      "label": "DISEASE",
+      "start_char": 190,
+      "end_char": 213,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "postoperative stiffness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 34,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "pronation supination",
+      "label": "DISEASE",
+      "start_char": 195,
+      "end_char": 215,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pronation supination",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 301,
+      "end_char": 309,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "Tylenol",
+      "label": "CHEMICAL",
+      "start_char": 22,
+      "end_char": 29,
+      "sentence_idx": 27,
+      "concept_id": "C0699142",
+      "concept_name": "Tylenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9819504022598267,
+      "timestamp": "2007-10-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 44,
+      "sentence_idx": 27,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-10-10"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/10/2007",
+      "start_char": 780,
+      "end_char": 790
+    }
+  ]
+}

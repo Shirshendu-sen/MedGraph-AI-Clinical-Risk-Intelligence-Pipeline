@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0148__cystoscopy___visual_urethrotomy_.txt",
+    "file_name": "mtsamples_0148__cystoscopy___visual_urethrotomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 946,
+    "processed_at": "2026-05-09T09:53:07.690719"
+  },
+  "entities": [
+    {
+      "text": "Teflon-coated",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 45,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Teflon-coated",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumors",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 25,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

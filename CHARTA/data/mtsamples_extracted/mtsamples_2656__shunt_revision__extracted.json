@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2656__shunt_revision_.txt",
+    "file_name": "mtsamples_2656__shunt_revision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3008,
+    "processed_at": "2026-05-09T09:54:05.676956"
+  },
+  "entities": [
+    {
+      "text": "Headaches",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 132,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Portnoy ventricular catheter",
+      "label": "DISEASE",
+      "start_char": 444,
+      "end_char": 472,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Portnoy ventricular catheter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 118,
+      "end_char": 126,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "1:200,000 epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 132,
+      "end_char": 153,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:200,000 epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 51,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 457,
+      "end_char": 467,
+      "sentence_idx": 12,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

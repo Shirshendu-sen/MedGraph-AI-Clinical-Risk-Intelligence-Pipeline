@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4480__congestion___cough___5_month_old_.txt",
+    "file_name": "mtsamples_4480__congestion___cough___5_month_old_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2238,
+    "processed_at": "2026-05-09T09:54:39.373917"
+  },
+  "entities": [
+    {
+      "text": "Congestion",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 29,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Congestion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 153,
+      "end_char": 158,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 27,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 45,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Amoxil",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 25,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Amoxil",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Amoxil",
+      "label": "CHEMICAL",
+      "start_char": 185,
+      "end_char": 191,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Amoxil",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "clubbing",
+      "label": "DISEASE",
+      "start_char": 191,
+      "end_char": 199,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clubbing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cyanosis",
+      "label": "DISEASE",
+      "start_char": 201,
+      "end_char": 209,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cyanosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bronchiolitis",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 82,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bronchiolitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "otitis",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 94,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "otitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Rocephin",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 35,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Rocephin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 68,
+      "sentence_idx": 21,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

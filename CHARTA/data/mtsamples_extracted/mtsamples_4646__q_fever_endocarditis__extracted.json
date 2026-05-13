@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4646__q_fever_endocarditis_.txt",
+    "file_name": "mtsamples_4646__q_fever_endocarditis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2575,
+    "processed_at": "2026-05-09T09:54:42.748824"
+  },
+  "entities": [
+    {
+      "text": "doxycycline",
+      "label": "CHEMICAL",
+      "start_char": 108,
+      "end_char": 119,
+      "sentence_idx": 0,
+      "concept_id": "C0013090",
+      "concept_name": "doxycycline",
+      "kb_source": "rxnorm",
+      "link_score": 0.9588553309440613,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "hydroxychloroquine",
+      "label": "CHEMICAL",
+      "start_char": 159,
+      "end_char": 177,
+      "sentence_idx": 0,
+      "concept_id": "C0020336",
+      "concept_name": "hydroxychloroquine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9328335523605347,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "Q-fever endocarditis",
+      "label": "DISEASE",
+      "start_char": 216,
+      "end_char": 236,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Q-fever endocarditis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "digoxin",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 25,
+      "sentence_idx": 1,
+      "concept_id": "C0012265",
+      "concept_name": "digoxin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9429294466972351,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "aspirin",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 34,
+      "sentence_idx": 1,
+      "concept_id": "C0004057",
+      "concept_name": "aspirin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736717343330383,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "warfarin",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 1,
+      "concept_id": "C0043031",
+      "concept_name": "warfarin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9493682980537415,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "furosemide",
+      "label": "CHEMICAL",
+      "start_char": 50,
+      "end_char": 60,
+      "sentence_idx": 1,
+      "concept_id": "C0016860",
+      "concept_name": "furosemide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9686384201049805,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "pulmonary homograft valve",
+      "label": "DISEASE",
+      "start_char": 139,
+      "end_char": 164,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary homograft valve",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "pulmonary artery pseudoaneurysm",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 212,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary artery pseudoaneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "obesity",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 59,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obesity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "embolic",
+      "label": "DISEASE",
+      "start_char": 164,
+      "end_char": 171,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "embolic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "Doxycycline",
+      "label": "CHEMICAL",
+      "start_char": 268,
+      "end_char": 279,
+      "sentence_idx": 7,
+      "concept_id": "C0013090",
+      "concept_name": "doxycycline",
+      "kb_source": "rxnorm",
+      "link_score": 0.9588553309440613,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "Hydroxychloroquine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 18,
+      "sentence_idx": 8,
+      "concept_id": "C0020336",
+      "concept_name": "hydroxychloroquine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9328335523605347,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "doxycycline",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 27,
+      "sentence_idx": 9,
+      "concept_id": "C0013090",
+      "concept_name": "doxycycline",
+      "kb_source": "rxnorm",
+      "link_score": 0.9588553309440613,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "Q-fever",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Q-fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "Q-fever",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 91,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Q-fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "doxycycline",
+      "label": "CHEMICAL",
+      "start_char": 9,
+      "end_char": 20,
+      "sentence_idx": 12,
+      "concept_id": "C0013090",
+      "concept_name": "doxycycline",
+      "kb_source": "rxnorm",
+      "link_score": 0.9588553309440613,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "hydroxychloroquine",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 43,
+      "sentence_idx": 12,
+      "concept_id": "C0020336",
+      "concept_name": "hydroxychloroquine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9328335523605347,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "hydroxychloroquine",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 45,
+      "sentence_idx": 15,
+      "concept_id": "C0020336",
+      "concept_name": "hydroxychloroquine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9328335523605347,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "doxycycline",
+      "label": "CHEMICAL",
+      "start_char": 50,
+      "end_char": 61,
+      "sentence_idx": 15,
+      "concept_id": "C0013090",
+      "concept_name": "doxycycline",
+      "kb_source": "rxnorm",
+      "link_score": 0.9588553309440613,
+      "timestamp": "2007-10-15"
+    },
+    {
+      "text": "Q-fever",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 14,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Q-fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-10-15"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/15/2007",
+      "start_char": 537,
+      "end_char": 547
+    },
+    {
+      "raw_text": "10/05/2007",
+      "start_char": 1609,
+      "end_char": 1619
+    },
+    {
+      "raw_text": "10/21/2007",
+      "start_char": 1789,
+      "end_char": 1799
+    },
+    {
+      "raw_text": "10/05/2007",
+      "start_char": 1845,
+      "end_char": 1855
+    }
+  ]
+}

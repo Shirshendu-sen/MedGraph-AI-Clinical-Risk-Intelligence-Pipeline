@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_3508__gastrointestinal_bleed___er_visit_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 54,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0593906": 1,
+    "C0376414": 2,
+    "C0699992": 3,
+    "C2723006": 4,
+    "C0012522": 5,
+    "C0020740": 6,
+    "C0603695": 7,
+    "C0010294": 8
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3508__gastrointestinal_bleed___er_visit__graph.pt",
+  "source_dataset": "mtsamples_3508__gastrointestinal_bleed___er_visit"
+}

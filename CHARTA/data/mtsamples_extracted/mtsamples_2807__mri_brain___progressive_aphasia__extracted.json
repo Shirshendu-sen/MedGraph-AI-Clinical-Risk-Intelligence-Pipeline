@@ -1,0 +1,551 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2807__mri_brain___progressive_aphasia_.txt",
+    "file_name": "mtsamples_2807__mri_brain___progressive_aphasia_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4240,
+    "processed_at": "2026-05-09T09:54:08.881792"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "nausea",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 32,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "apraxia",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 32,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apraxia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "Pick's disease",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 46,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pick's disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 40,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "aphasia",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 46,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "apraxia",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 58,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apraxia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "nausea and vomiting",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 45,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea and vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "tinnitus",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tinnitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "vertigo",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 64,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vertigo",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 74,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 103,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "Compazine",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 62,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Compazine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "nausea and",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 14,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea and",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 23,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "crush injury",
+      "label": "DISEASE",
+      "start_char": 175,
+      "end_char": 187,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "crush injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "loss of consciousness",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 45,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of consciousness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "head injury.,2)Progressive aphasia",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 97,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head injury.,2)Progressive aphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "frontoparietal headache",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 115,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "frontoparietal headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "Headaches",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "neurologic disease",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 134,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neurologic disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "Iron",
+      "label": "CHEMICAL",
+      "start_char": 7,
+      "end_char": 11,
+      "sentence_idx": 25,
+      "concept_id": "C0302583",
+      "concept_name": "iron",
+      "kb_source": "rxnorm",
+      "link_score": 0.9597261548042297,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "Appeared moderately distressed",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 99,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Appeared moderately distressed",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "A&O",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "A&O",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "EOM",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EOM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "Optic",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Optic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 52,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "apraxia",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 23,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apraxia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "truncal ataxia",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 99,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "truncal ataxia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "normocephalic",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 87,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normocephalic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "UA",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 49,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "UA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "orthostatic",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 101,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "orthostatic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "Florinef",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 38,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Florinef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "lightheadedness",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 116,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lightheadedness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "ideomotor apraxia",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 45,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ideomotor apraxia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "seizures",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "CBZ",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 46,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CBZ",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "aphasia, dysphagia",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 84,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aphasia, dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "apraxia",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 93,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apraxia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "rigidity",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 107,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rigidity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    },
+    {
+      "text": "CBGD",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 60,
+      "sentence_idx": 44,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CBGD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-11-18"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "11/18/94",
+      "start_char": 656,
+      "end_char": 664
+    },
+    {
+      "raw_text": "11/23/94",
+      "start_char": 710,
+      "end_char": 718
+    },
+    {
+      "raw_text": "11/8/94",
+      "start_char": 799,
+      "end_char": 806
+    },
+    {
+      "raw_text": "10/25/94",
+      "start_char": 905,
+      "end_char": 913
+    },
+    {
+      "raw_text": "11/8/94",
+      "start_char": 918,
+      "end_char": 925
+    },
+    {
+      "raw_text": "1/1/95",
+      "start_char": 1080,
+      "end_char": 1086
+    },
+    {
+      "raw_text": "1/2/95",
+      "start_char": 1091,
+      "end_char": 1097
+    },
+    {
+      "raw_text": "1/5/95",
+      "start_char": 1578,
+      "end_char": 1584
+    },
+    {
+      "raw_text": "12/10/94",
+      "start_char": 3862,
+      "end_char": 3870
+    }
+  ]
+}

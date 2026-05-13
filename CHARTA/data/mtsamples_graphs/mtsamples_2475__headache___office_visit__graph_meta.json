@@ -1,0 +1,24 @@
+{
+  "patient_id": "mtsamples_2475__headache___office_visit_",
+  "num_entities": 11,
+  "num_visits": 1,
+  "num_edges": 77,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0017628": 1,
+    "C0875967": 2,
+    "C0025598": 3,
+    "C0065374": 4,
+    "C0593906": 5,
+    "C0004057": 6,
+    "C0025859": 7,
+    "C0876224": 8,
+    "C0678176": 9,
+    "C1570232": 10
+  },
+  "visit_dates": [
+    "2006-08-08"
+  ],
+  "graph_file": "mtsamples_2475__headache___office_visit__graph.pt",
+  "source_dataset": "mtsamples_2475__headache___office_visit"
+}

@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3881__knee_osteoarthrosis___discharge_summary_.txt",
+    "file_name": "mtsamples_3881__knee_osteoarthrosis___discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1841,
+    "processed_at": "2026-05-09T09:54:28.542542"
+  },
+  "entities": [
+    {
+      "text": "knee osteoarthrosis",
+      "label": "DISEASE",
+      "start_char": 140,
+      "end_char": 159,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee osteoarthrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-03-15"
+    },
+    {
+      "text": "Mirapex",
+      "label": "CHEMICAL",
+      "start_char": 136,
+      "end_char": 143,
+      "sentence_idx": 3,
+      "concept_id": "C0721754",
+      "concept_name": "Mirapex",
+      "kb_source": "rxnorm",
+      "link_score": 0.988450825214386,
+      "timestamp": "2007-03-15"
+    },
+    {
+      "text": "ibuprofen",
+      "label": "CHEMICAL",
+      "start_char": 145,
+      "end_char": 154,
+      "sentence_idx": 3,
+      "concept_id": "C0020740",
+      "concept_name": "ibuprofen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736760258674622,
+      "timestamp": "2007-03-15"
+    },
+    {
+      "text": "Normocephalic",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 89,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Normocephalic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-03-15"
+    },
+    {
+      "text": "auscultation.,CARDIOVASCULAR",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 150,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "auscultation.,CARDIOVASCULAR",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-03-15"
+    },
+    {
+      "text": "knee arthroplasty",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 43,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "knee arthroplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-03-15"
+    },
+    {
+      "text": "venous thrombosis",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 46,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "venous thrombosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-03-15"
+    },
+    {
+      "text": "DVT",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 51,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-03-15"
+    },
+    {
+      "text": "CPM",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 30,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CPM",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-03-15"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 28,
+      "sentence_idx": 15,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-03-15"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 7,
+      "sentence_idx": 17,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-03-15"
+    },
+    {
+      "text": "Percocet",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 39,
+      "sentence_idx": 20,
+      "concept_id": "C0086787",
+      "concept_name": "Percocet",
+      "kb_source": "rxnorm",
+      "link_score": 0.9522022008895874,
+      "timestamp": "2007-03-15"
+    },
+    {
+      "text": "Coumadin",
+      "label": "CHEMICAL",
+      "start_char": 145,
+      "end_char": 153,
+      "sentence_idx": 20,
+      "concept_id": "C0699129",
+      "concept_name": "Coumadin",
+      "kb_source": "rxnorm",
+      "link_score": 0.947939395904541,
+      "timestamp": "2007-03-15"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "03/15/2007",
+      "start_char": 864,
+      "end_char": 874
+    },
+    {
+      "raw_text": "03/19/2007",
+      "start_char": 1558,
+      "end_char": 1568
+    }
+  ]
+}

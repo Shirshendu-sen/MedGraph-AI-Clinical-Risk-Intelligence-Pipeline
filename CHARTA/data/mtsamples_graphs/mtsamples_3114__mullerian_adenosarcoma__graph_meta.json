@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3114__mullerian_adenosarcoma_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 14,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0086787": 2
+  },
+  "visit_dates": [
+    "2006-07-25"
+  ],
+  "graph_file": "mtsamples_3114__mullerian_adenosarcoma__graph.pt",
+  "source_dataset": "mtsamples_3114__mullerian_adenosarcoma"
+}

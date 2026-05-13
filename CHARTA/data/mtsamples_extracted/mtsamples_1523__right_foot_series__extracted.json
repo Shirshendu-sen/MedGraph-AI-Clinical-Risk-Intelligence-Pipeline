@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1523__right_foot_series_.txt",
+    "file_name": "mtsamples_1523__right_foot_series_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 857,
+    "processed_at": "2026-05-09T09:53:43.837754"
+  },
+  "entities": [
+    {
+      "text": "lucency",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 47,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lucency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "increased sclerosis",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 123,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "increased sclerosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lucency",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 42,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lucency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fractures",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 29,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 130,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 39,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1764__psych_consult___psychosis__",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 15,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0017725": 1,
+    "C0030346": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1764__psych_consult___psychosis___graph.pt",
+  "source_dataset": "mtsamples_1764__psych_consult___psychosis_"
+}

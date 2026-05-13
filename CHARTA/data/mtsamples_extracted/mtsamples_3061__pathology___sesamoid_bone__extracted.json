@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3061__pathology___sesamoid_bone_.txt",
+    "file_name": "mtsamples_3061__pathology___sesamoid_bone_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 515,
+    "processed_at": "2026-05-09T09:54:13.048350"
+  },
+  "entities": [
+    {
+      "text": "Osteomyelitis",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 90,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Osteomyelitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 146,
+      "end_char": 158,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Arteriosclerosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 16,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Arteriosclerosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "occlusive",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 36,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "occlusive",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

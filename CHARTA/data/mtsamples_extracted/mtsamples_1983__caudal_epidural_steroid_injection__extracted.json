@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1983__caudal_epidural_steroid_injection_.txt",
+    "file_name": "mtsamples_1983__caudal_epidural_steroid_injection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 737,
+    "processed_at": "2026-05-09T09:53:54.157401"
+  },
+  "entities": [
+    {
+      "text": "STEROID",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 23,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "STEROID",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 23,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ASA",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 61,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ASA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

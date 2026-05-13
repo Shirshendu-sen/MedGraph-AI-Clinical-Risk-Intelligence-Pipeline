@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3205__patient_with_high_potassium_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 53,
+  "entity_index": {
+    "C0032821": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3205__patient_with_high_potassium__graph.pt",
+  "source_dataset": "mtsamples_3205__patient_with_high_potassium"
+}

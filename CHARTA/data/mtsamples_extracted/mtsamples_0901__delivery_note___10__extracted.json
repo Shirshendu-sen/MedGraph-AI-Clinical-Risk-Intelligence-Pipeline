@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0901__delivery_note___10_.txt",
+    "file_name": "mtsamples_0901__delivery_note___10_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1609,
+    "processed_at": "2026-05-09T09:53:28.635096"
+  },
+  "entities": [
+    {
+      "text": "Rupture",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-25"
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 78,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-25"
+    },
+    {
+      "text": "meconium",
+      "label": "CHEMICAL",
+      "start_char": 3,
+      "end_char": 11,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-25"
+    },
+    {
+      "text": "ampicillin",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 23,
+      "sentence_idx": 6,
+      "concept_id": "C0002680",
+      "concept_name": "ampicillin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9677386283874512,
+      "timestamp": "2008-12-25"
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 50,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-25"
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 61,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-25"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-25"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 23,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2008-12-25"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/25/08",
+      "start_char": 360,
+      "end_char": 368
+    },
+    {
+      "raw_text": "12/25/08",
+      "start_char": 467,
+      "end_char": 475
+    }
+  ]
+}

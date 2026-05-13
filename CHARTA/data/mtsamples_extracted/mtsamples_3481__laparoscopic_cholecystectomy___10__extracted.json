@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3481__laparoscopic_cholecystectomy___10_.txt",
+    "file_name": "mtsamples_3481__laparoscopic_cholecystectomy___10_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3375,
+    "processed_at": "2026-05-09T09:54:22.467012"
+  },
+  "entities": [
+    {
+      "text": "Biliary colic",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 39,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Biliary colic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Biliary colic",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 103,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Biliary colic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "complaints of upper abdominal",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 45,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "complaints of upper abdominal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 59,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "diabetic",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 28,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "biliary dyskinesia",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 89,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "biliary dyskinesia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "biliary colic",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 81,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "biliary colic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gallbladder was intrahepatic somewhat",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 41,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gallbladder was intrahepatic somewhat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 74,
+      "end_char": 82,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

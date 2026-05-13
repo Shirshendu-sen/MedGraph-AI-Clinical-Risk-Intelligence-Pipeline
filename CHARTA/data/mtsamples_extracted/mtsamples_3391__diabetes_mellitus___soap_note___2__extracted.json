@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3391__diabetes_mellitus___soap_note___2_.txt",
+    "file_name": "mtsamples_3391__diabetes_mellitus___soap_note___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1406,
+    "processed_at": "2026-05-09T09:54:20.982220"
+  },
+  "entities": [
+    {
+      "text": "diabetic",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 88,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "70s",
+      "label": "CHEMICAL",
+      "start_char": 165,
+      "end_char": 168,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "70s",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "appetite",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "appetite",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Diabetes",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 63,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

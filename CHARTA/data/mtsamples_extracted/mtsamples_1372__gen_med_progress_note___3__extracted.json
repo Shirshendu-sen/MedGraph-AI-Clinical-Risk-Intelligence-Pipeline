@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1372__gen_med_progress_note___3_.txt",
+    "file_name": "mtsamples_1372__gen_med_progress_note___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1271,
+    "processed_at": "2026-05-09T09:53:40.081416"
+  },
+  "entities": [
+    {
+      "text": "diabetes mellitus",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 47,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypercholesterolemia",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 69,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypercholesterolemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sinusitis",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 84,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinusitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes mellitus",
+      "label": "DISEASE",
+      "start_char": 144,
+      "end_char": 161,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sinus congestion",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 42,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinus congestion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 21,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nausea,",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 30,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea,",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "constipation",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 63,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "constipation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Denies swelling",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 15,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Denies swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

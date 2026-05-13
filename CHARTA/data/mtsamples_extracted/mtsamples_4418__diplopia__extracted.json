@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4418__diplopia_.txt",
+    "file_name": "mtsamples_4418__diplopia_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3550,
+    "processed_at": "2026-05-09T09:54:38.453113"
+  },
+  "entities": [
+    {
+      "text": "diplopia",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 143,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diplopia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "aneurysm",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 104,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "diplopia",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 177,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diplopia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "right supraorbital pain",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 76,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right supraorbital pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 36,
+      "sentence_idx": 17,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 23,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "dysarthria",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 35,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysarthria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "aneurysm",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 60,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "myasthenia gravis",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 99,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myasthenia gravis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "right lid ptosis",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 197,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right lid ptosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "diplopia",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 25,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diplopia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "ptosis of the right eye",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 88,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ptosis of the right eye",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "extraocular abnormalities",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 86,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "extraocular abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "drug allergies.,SOCIAL",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 171,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "drug allergies.,SOCIAL",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 17,
+      "sentence_idx": 35,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 84,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    },
+    {
+      "text": "colon cancer",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 27,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colon cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-02-02"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "February 2, 2009",
+      "start_char": 1652,
+      "end_char": 1668
+    }
+  ]
+}

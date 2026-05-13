@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4621__subxiphoid_pericardiotomy_.txt",
+    "file_name": "mtsamples_4621__subxiphoid_pericardiotomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2789,
+    "processed_at": "2026-05-09T09:54:42.340140"
+  },
+  "entities": [
+    {
+      "text": "pericardial effusion",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 107,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pericardial effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pericardial effusion",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 68,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pericardial effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 2,
+      "end_char": 12,
+      "sentence_idx": 4,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    },
+    {
+      "text": "tamponade",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 20,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tamponade",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pericardial effusion",
+      "label": "DISEASE",
+      "start_char": 127,
+      "end_char": 147,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pericardial effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injury to the heart",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 100,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury to the heart",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0694__i_d___perirectal_abscess_.txt",
+    "file_name": "mtsamples_0694__i_d___perirectal_abscess_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1148,
+    "processed_at": "2026-05-09T09:53:22.497640"
+  },
+  "entities": [
+    {
+      "text": "hemorrhoids",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 39,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 142,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "necrotic",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 110,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

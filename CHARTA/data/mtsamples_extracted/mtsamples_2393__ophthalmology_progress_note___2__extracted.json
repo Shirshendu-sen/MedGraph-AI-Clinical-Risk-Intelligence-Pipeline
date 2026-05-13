@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2393__ophthalmology_progress_note___2_.txt",
+    "file_name": "mtsamples_2393__ophthalmology_progress_note___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 318,
+    "processed_at": "2026-05-09T09:54:00.980433"
+  },
+  "entities": [
+    {
+      "text": "fluorescein",
+      "label": "CHEMICAL",
+      "start_char": 2,
+      "end_char": 13,
+      "sentence_idx": 0,
+      "concept_id": "C0060520",
+      "concept_name": "fluorescein",
+      "kb_source": "rxnorm",
+      "link_score": 0.9680118560791016,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 78,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

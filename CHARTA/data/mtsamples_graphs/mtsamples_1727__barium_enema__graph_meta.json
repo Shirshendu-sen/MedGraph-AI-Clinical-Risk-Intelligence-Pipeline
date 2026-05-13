@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1727__barium_enema_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 10,
+  "entity_index": {
+    "C0004749": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1727__barium_enema__graph.pt",
+  "source_dataset": "mtsamples_1727__barium_enema"
+}

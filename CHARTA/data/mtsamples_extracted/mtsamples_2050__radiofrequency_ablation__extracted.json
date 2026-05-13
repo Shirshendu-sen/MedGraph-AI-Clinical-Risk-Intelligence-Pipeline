@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2050__radiofrequency_ablation_.txt",
+    "file_name": "mtsamples_2050__radiofrequency_ablation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3461,
+    "processed_at": "2026-05-09T09:53:55.423268"
+  },
+  "entities": [
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 162,
+      "end_char": 171,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 181,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergic reaction",
+      "label": "DISEASE",
+      "start_char": 183,
+      "end_char": 200,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergic reaction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 218,
+      "end_char": 226,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nerve injuries",
+      "label": "DISEASE",
+      "start_char": 228,
+      "end_char": 242,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nerve injuries",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cord injury",
+      "label": "DISEASE",
+      "start_char": 251,
+      "end_char": 262,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cord injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Oxygen",
+      "label": "CHEMICAL",
+      "start_char": 102,
+      "end_char": 108,
+      "sentence_idx": 3,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "sacroiliac joints",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 91,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sacroiliac joints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 74,
+      "end_char": 83,
+      "sentence_idx": 13,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 75,
+      "end_char": 84,
+      "sentence_idx": 14,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 166,
+      "end_char": 185,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 187,
+      "end_char": 197,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 199,
+      "end_char": 204,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chills",
+      "label": "DISEASE",
+      "start_char": 206,
+      "end_char": 212,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 224,
+      "end_char": 228,
+      "sentence_idx": 19,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

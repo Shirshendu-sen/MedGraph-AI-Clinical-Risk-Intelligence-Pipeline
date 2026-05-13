@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1155__biopsy___actinic_keratosis_.txt",
+    "file_name": "mtsamples_1155__biopsy___actinic_keratosis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1644,
+    "processed_at": "2026-05-09T09:53:35.739384"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1155__biopsy___actinic_keratosis_.txt",
+    "text": "PREOPERATIVE DIAGNOSES:  ,1.  Left chest actinic keratosis, 2 cm.,2.  Left medial chest actinic keratosis, 1 cm.,3.  Left shoulder actinic keratosis, 1 cm.,POSTOPERATIVE DIAGNOSES:  ,1.  Left chest actinic keratosis, 2 cm.,2.  Left medial chest actinic keratosis, 1 cm.,3.  Left shoulder actinic keratosis, 1 cm.,TITLE OF PROCEDURES:  ,1.  Excisional biopsy of left chest 2 cm actinic keratosis.,2.  Two-layer plastic closure.,3.  Excisional biopsy of left chest medial actinic keratosis 1 cm with one-layer plastic closure.,4.  Excisional biopsy of left should skin nevus, 1 cm, one-layer plastic closure.,ANESTHESIA: , Xylocaine 1% with 1:100,000 dilution of epinephrine totaling 6 mL.,ESTIMATED BLOOD LOSS: , Minimal.,COMPLICATIONS: , None.,PROCEDURE: , All areas were prepped, draped, and localized in the usual manner.  Afterwards, elliptical incisions were placed with a #15-blade scalpel and curved iris scissors and small bishop forceps were used for the dissection of the skin lesions.  After all were removed, they were closed with one-layer technique for the shoulder and medial lesion, and the larger left chest lesion was closed with two-layer closure using Monocryl 5-0 for subcuticular closure and 5-0 nylon for skin closure.  She tolerated this procedure very well, and postoperative care instructions were provided.  She will follow up next week for suture removal.  Of note, she had an episode of hemoptysis, which could not be explained prompting an emergency room visit, and I discussed if this continues we may wish to perform a fiberoptic laryngoscopy examination and possible further workup if a diagnosis cannot be made.",
+    "char_count": 1644,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSES: ,1. Left chest actinic keratosis, 2 cm.,2. Left medial chest actinic keratosis, 1 cm.,3. Left shoulder actinic keratosis, 1 cm.,POSTOPERATIVE DIAGNOSES: ,1. Left chest actinic keratosis, 2 cm.,2. Left medial chest actinic keratosis, 1 cm.,3. Left shoulder actinic keratosis, 1 cm.,TITLE OF PROCEDURES: ,1. Excisional biopsy of left chest 2 cm actinic keratosis.,2. Two-layer plastic closure.,3. Excisional biopsy of left chest medial actinic keratosis 1 cm with one-layer plastic closure.,4. Excisional biopsy of left should skin nevus, 1 cm, one-layer plastic closure.,ANESTHESIA: , Xylocaine 1% with 1:100,000 dilution of epinephrine totaling 6 mL.,ESTIMATED BLOOD LOSS: , Minimal.,COMPLICATIONS: , None.,PROCEDURE: , All areas were prepped, draped, and localized in the usual manner. Afterwards, elliptical incisions were placed with a #15-blade scalpel and curved iris scissors and small bishop forceps were used for the dissection of the skin lesions. After all were removed, they were closed with one-layer technique for the shoulder and medial lesion, and the larger left chest lesion was closed with two-layer closure using Monocryl 5-0 for subcuticular closure and 5-0 nylon for skin closure. She tolerated this procedure very well, and postoperative care instructions were provided. She will follow up next week for suture removal. Of note, she had an episode of hemoptysis, which could not be explained prompting an emergency room visit, and I discussed if this continues we may wish to perform a fiberoptic laryngoscopy examination and possible further workup if a diagnosis cannot be made.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES: ,1.",
+      "Left chest actinic keratosis, 2 cm.,2.",
+      "Left medial chest actinic keratosis, 1 cm.,3.",
+      "Left shoulder actinic keratosis, 1 cm.,POSTOPERATIVE DIAGNOSES: ,1.",
+      "Left chest actinic keratosis, 2 cm.,2.",
+      "Left medial chest actinic keratosis, 1 cm.,3.",
+      "Left shoulder actinic keratosis, 1 cm.,TITLE OF PROCEDURES: ,1.",
+      "Excisional biopsy of left chest 2 cm actinic keratosis.,2.",
+      "Two-layer plastic closure.,3.",
+      "Excisional biopsy of left chest medial actinic keratosis 1 cm with one-layer plastic closure.,4.",
+      "Excisional biopsy of left should skin nevus, 1 cm, one-layer plastic closure.,ANESTHESIA: , Xylocaine 1% with 1:100,000 dilution of epinephrine totaling 6 mL.,ESTIMATED BLOOD LOSS: , Minimal.,COMPLICATIONS: , None.,PROCEDURE: , All areas were prepped, draped, and localized in the usual manner.",
+      "Afterwards, elliptical incisions were placed with a #15-blade scalpel and curved iris scissors and small bishop forceps were used for the dissection of the skin lesions.",
+      "After all were removed, they were closed with one-layer technique for the shoulder and medial lesion, and the larger left chest lesion was closed with two-layer closure using Monocryl 5-0 for subcuticular closure and 5-0 nylon for skin closure.",
+      "She tolerated this procedure very well, and postoperative care instructions were provided.",
+      "She will follow up next week for suture removal.",
+      "Of note, she had an episode of hemoptysis, which could not be explained prompting an emergency room visit, and I discussed if this continues we may wish to perform a fiberoptic laryngoscopy examination and possible further workup if a diagnosis cannot be made."
+    ],
+    "sentence_count": 16,
+    "original_length": 1644,
+    "cleaned_length": 1626,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSES:  ,1.  Left chest actinic keratosis, 2 cm.,2.  Left medial chest actinic keratosis, 1 cm.,3.  Left shoulder actinic keratosis, 1 cm.,POSTOPERATIVE DIAGNOSES:  ,1.  Left chest actinic keratosis, 2 cm.,2.  Left medial chest actinic keratosis, 1 cm.,3.  Left shoulder actinic keratosis, 1 cm.,TITLE OF PROCEDURES:  ,1.  Excisional biopsy of left chest 2 cm actinic keratosis.,2.  Two-layer plastic closure.,3.  Excisional biopsy of left chest medial actinic keratosis 1 cm with one-layer plastic closure.,4.  Excisional biopsy of left should skin nevus, 1 cm, one-layer plastic closure.,ANESTHESIA: , Xylocaine 1% with 1:100,000 dilution of epinephrine totaling 6 mL.,ESTIMATED BLOOD LOSS: , Minimal.,COMPLICATIONS: , None.,PROCEDURE: , All areas were prepped, draped, and localized in the usual manner.  Afterwards, elliptical incisions were placed with a #15-blade scalpel and curved iris scissors and small bishop forceps were used for the dissection of the skin lesions.  After all were removed, they were closed with one-layer technique for the shoulder and medial lesion, and the larger left chest lesion was closed with two-layer closure using Monocryl 5-0 for subcuticular closure and 5-0 nylon for skin closure.  She tolerated this procedure very well, and postoperative care instructions were provided.  She will follow up next week for suture removal.  Of note, she had an episode of hemoptysis, which could not be explained prompting an emergency room visit, and I discussed if this continues we may wish to perform a fiberoptic laryngoscopy examination and possible further workup if a diagnosis cannot be made.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSES: ,1. Left chest actinic keratosis, 2 cm.,2. Left medial chest actinic keratosis, 1 cm.,3. Left shoulder actinic keratosis, 1 cm.,POSTOPERATIVE DIAGNOSES: ,1. Left chest actinic keratosis, 2 cm.,2. Left medial chest actinic keratosis, 1 cm.,3. Left shoulder actinic keratosis, 1 cm.,TITLE OF PROCEDURES: ,1. Excisional biopsy of left chest 2 cm actinic keratosis.,2. Two-layer plastic closure.,3. Excisional biopsy of left chest medial actinic keratosis 1 cm with one-layer plastic closure.,4. Excisional biopsy of left should skin nevus, 1 cm, one-layer plastic closure.,ANESTHESIA: , Xylocaine 1% with 1:100,000 dilution of epinephrine totaling 6 mL.,ESTIMATED BLOOD LOSS: , Minimal.,COMPLICATIONS: , None.,PROCEDURE: , All areas were prepped, draped, and localized in the usual manner. Afterwards, elliptical incisions were placed with a #15-blade scalpel and curved iris scissors and small bishop forceps were used for the dissection of the skin lesions. After all were removed, they were closed with one-layer technique for the shoulder and medial lesion, and the larger left chest lesion was closed with two-layer closure using Monocryl 5-0 for subcuticular closure and 5-0 nylon for skin closure. She tolerated this procedure very well, and postoperative care instructions were provided. She will follow up next week for suture removal. Of note, she had an episode of hemoptysis, which could not be explained prompting an emergency room visit, and I discussed if this continues we may wish to perform a fiberoptic laryngoscopy examination and possible further workup if a diagnosis cannot be made.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES: ,1.",
+      "Left chest actinic keratosis, 2 cm.,2.",
+      "Left medial chest actinic keratosis, 1 cm.,3.",
+      "Left shoulder actinic keratosis, 1 cm.,POSTOPERATIVE DIAGNOSES: ,1.",
+      "Left chest actinic keratosis, 2 cm.,2.",
+      "Left medial chest actinic keratosis, 1 cm.,3.",
+      "Left shoulder actinic keratosis, 1 cm.,TITLE OF PROCEDURES: ,1.",
+      "Excisional biopsy of left chest 2 cm actinic keratosis.,2.",
+      "Two-layer plastic closure.,3.",
+      "Excisional biopsy of left chest medial actinic keratosis 1 cm with one-layer plastic closure.,4.",
+      "Excisional biopsy of left should skin nevus, 1 cm, one-layer plastic closure.,ANESTHESIA: , Xylocaine 1% with 1:100,000 dilution of epinephrine totaling 6 mL.,ESTIMATED BLOOD LOSS: , Minimal.,COMPLICATIONS: , None.,PROCEDURE: , All areas were prepped, draped, and localized in the usual manner.",
+      "Afterwards, elliptical incisions were placed with a #15-blade scalpel and curved iris scissors and small bishop forceps were used for the dissection of the skin lesions.",
+      "After all were removed, they were closed with one-layer technique for the shoulder and medial lesion, and the larger left chest lesion was closed with two-layer closure using Monocryl 5-0 for subcuticular closure and 5-0 nylon for skin closure.",
+      "She tolerated this procedure very well, and postoperative care instructions were provided.",
+      "She will follow up next week for suture removal.",
+      "Of note, she had an episode of hemoptysis, which could not be explained prompting an emergency room visit, and I discussed if this continues we may wish to perform a fiberoptic laryngoscopy examination and possible further workup if a diagnosis cannot be made."
+    ],
+    "sentence_count": 16
+  }
+}

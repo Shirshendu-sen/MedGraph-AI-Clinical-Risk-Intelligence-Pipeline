@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0965__colonoscopy_with_photos_.txt",
+    "file_name": "mtsamples_0965__colonoscopy_with_photos_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1767,
+    "processed_at": "2026-05-09T09:53:30.275874"
+  },
+  "entities": [
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 36,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Diverticulosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diverticulosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "blood loss anemia",
+      "label": "DISEASE",
+      "start_char": 246,
+      "end_char": 263,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticuli",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 32,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticuli",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhoids",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 82,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhoids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

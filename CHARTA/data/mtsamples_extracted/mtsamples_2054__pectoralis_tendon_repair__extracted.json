@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2054__pectoralis_tendon_repair_.txt",
+    "file_name": "mtsamples_2054__pectoralis_tendon_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5454,
+    "processed_at": "2026-05-09T09:53:55.481291"
+  },
+  "entities": [
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 482,
+      "end_char": 489,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 498,
+      "end_char": 502,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "bruising",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 40,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bruising",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 111,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 97,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 131,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "re-rupture",
+      "label": "DISEASE",
+      "start_char": 169,
+      "end_char": 179,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "re-rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 304,
+      "end_char": 308,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "thrombosis",
+      "label": "DISEASE",
+      "start_char": 333,
+      "end_char": 343,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "planned.,FINDINGS:,1",
+      "label": "CHEMICAL",
+      "start_char": 85,
+      "end_char": 105,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "planned.,FINDINGS:,1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "clavicular head",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 19,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clavicular head",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 38,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "clavicular head of the pectoralis major",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 43,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clavicular head of the pectoralis major",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "FiberWire",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 42,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FiberWire",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hardness",
+      "label": "DISEASE",
+      "start_char": 270,
+      "end_char": 278,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hardness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

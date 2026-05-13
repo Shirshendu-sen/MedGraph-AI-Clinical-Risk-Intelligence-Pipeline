@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2817__mri_brain___lyme_disease_.txt",
+    "file_name": "mtsamples_2817__mri_brain___lyme_disease_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 200,
+    "processed_at": "2026-05-09T09:54:08.967990"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2817__mri_brain___lyme_disease_.txt",
+    "text": "FINDINGS:,There is a large intrasellar mass lesion producing diffuse expansion of the sella turcica. This mass lesions measures approximately 16 x 18 x 18mm (craniocaudal x AP x mediolateral) in size.",
+    "char_count": 200,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "FINDINGS:,There is a large intrasellar mass lesion producing diffuse expansion of the sella turcica. This mass lesions measures approximately 16 x 18 x 18mm (craniocaudal x AP x mediolateral) in size.",
+    "sentences": [
+      "FINDINGS:,There is a large intrasellar mass lesion producing diffuse expansion of the sella turcica.",
+      "This mass lesions measures approximately 16 x 18 x 18mm (craniocaudal x AP x mediolateral) in size."
+    ],
+    "sentence_count": 2,
+    "original_length": 200,
+    "cleaned_length": 200,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "FINDINGS:,There is a large intrasellar mass lesion producing diffuse expansion of the sella turcica. This mass lesions measures approximately 16 x 18 x 18mm (craniocaudal x AP x mediolateral) in size.",
+    "cleaned_text": "FINDINGS:,There is a large intrasellar mass lesion producing diffuse expansion of the sella turcica. This mass lesions measures approximately 16 x 18 x 18mm (craniocaudal x AP x mediolateral) in size.",
+    "sentences": [
+      "FINDINGS:,There is a large intrasellar mass lesion producing diffuse expansion of the sella turcica.",
+      "This mass lesions measures approximately 16 x 18 x 18mm (craniocaudal x AP x mediolateral) in size."
+    ],
+    "sentence_count": 2
+  }
+}

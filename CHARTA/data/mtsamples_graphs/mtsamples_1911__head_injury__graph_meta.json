@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1911__head_injury_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0010294": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1911__head_injury__graph.pt",
+  "source_dataset": "mtsamples_1911__head_injury"
+}

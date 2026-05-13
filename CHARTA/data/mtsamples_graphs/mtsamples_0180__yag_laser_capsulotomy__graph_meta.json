@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_0180__yag_laser_capsulotomy_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "C0039629": 0,
+    "UNKNOWN": 1,
+    "C0594452": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0180__yag_laser_capsulotomy__graph.pt",
+  "source_dataset": "mtsamples_0180__yag_laser_capsulotomy"
+}

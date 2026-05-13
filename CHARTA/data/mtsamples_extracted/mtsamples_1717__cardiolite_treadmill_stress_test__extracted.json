@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1717__cardiolite_treadmill_stress_test_.txt",
+    "file_name": "mtsamples_1717__cardiolite_treadmill_stress_test_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1371,
+    "processed_at": "2026-05-09T09:53:48.951075"
+  },
+  "entities": [
+    {
+      "text": "CARDIOLITE",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CARDIOLITE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes mellitus",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 120,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 134,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bundle branch block",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 105,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bundle branch block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 84,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

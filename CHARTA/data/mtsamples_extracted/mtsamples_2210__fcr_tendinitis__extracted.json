@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2210__fcr_tendinitis_.txt",
+    "file_name": "mtsamples_2210__fcr_tendinitis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2020,
+    "processed_at": "2026-05-09T09:53:58.416643"
+  },
+  "entities": [
+    {
+      "text": "tendinitis",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 25,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cortisone",
+      "label": "CHEMICAL",
+      "start_char": 59,
+      "end_char": 68,
+      "sentence_idx": 2,
+      "concept_id": "C0010137",
+      "concept_name": "cortisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9763526916503906,
+      "timestamp": null
+    },
+    {
+      "text": "ibuprofen",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 52,
+      "sentence_idx": 4,
+      "concept_id": "C0020740",
+      "concept_name": "ibuprofen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736760258674622,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 330,
+      "end_char": 340,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lunotriquetral instability",
+      "label": "DISEASE",
+      "start_char": 447,
+      "end_char": 473,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lunotriquetral instability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "DRUJ",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DRUJ",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 66,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tinel",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 107,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tinel",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "no neurologic compromise.,Gait",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 71,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "no neurologic compromise.,Gait",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sore",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 20,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sore",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cortisone",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 73,
+      "sentence_idx": 12,
+      "concept_id": "C0010137",
+      "concept_name": "cortisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9763526916503906,
+      "timestamp": null
+    },
+    {
+      "text": "tendinitis",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 68,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cortisone",
+      "label": "CHEMICAL",
+      "start_char": 94,
+      "end_char": 103,
+      "sentence_idx": 13,
+      "concept_id": "C0010137",
+      "concept_name": "cortisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9763526916503906,
+      "timestamp": null
+    },
+    {
+      "text": "FCR",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 29,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FCR",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tendinitis",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 129,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

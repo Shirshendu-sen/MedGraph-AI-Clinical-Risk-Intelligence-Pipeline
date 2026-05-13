@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1711__cerebral_angiogram___left_ica_pca_aneurysm_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 16,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0029904": 1
+  },
+  "visit_dates": [
+    "1992-10-10"
+  ],
+  "graph_file": "mtsamples_1711__cerebral_angiogram___left_ica_pca_aneurysm__graph.pt",
+  "source_dataset": "mtsamples_1711__cerebral_angiogram___left_ica_pca_aneurysm"
+}

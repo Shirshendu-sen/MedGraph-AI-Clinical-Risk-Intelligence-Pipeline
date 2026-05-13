@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0599__lid_laceration_repair_.txt",
+    "file_name": "mtsamples_0599__lid_laceration_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1882,
+    "processed_at": "2026-05-09T09:53:20.384954"
+  },
+  "entities": [
+    {
+      "text": "upper eyelid laceration",
+      "label": "DISEASE",
+      "start_char": 166,
+      "end_char": 189,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper eyelid laceration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 320,
+      "end_char": 328,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 330,
+      "end_char": 339,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "loss of vision",
+      "label": "DISEASE",
+      "start_char": 355,
+      "end_char": 369,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

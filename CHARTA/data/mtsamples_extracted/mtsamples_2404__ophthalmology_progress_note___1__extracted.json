@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2404__ophthalmology_progress_note___1_.txt",
+    "file_name": "mtsamples_2404__ophthalmology_progress_note___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 250,
+    "processed_at": "2026-05-09T09:54:01.183941"
+  },
+  "entities": [],
+  "relations": [],
+  "temporal_expressions": []
+}

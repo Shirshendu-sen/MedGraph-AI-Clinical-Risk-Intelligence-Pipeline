@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0094__laser_vaporization_of_prostate_.txt",
+    "file_name": "mtsamples_0094__laser_vaporization_of_prostate_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2633,
+    "processed_at": "2026-05-09T09:53:06.072429"
+  },
+  "entities": [
+    {
+      "text": "alpha-blockers",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 41,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "alpha-blockers",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nocturia",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 74,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nocturia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "enlargement of the left lateral lobes of the prostate",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 101,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "enlargement of the left lateral lobes of the prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 109,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alpha-blockers",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 30,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "alpha-blockers",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder overactivity",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 107,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder overactivity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "overactivity of the bladder",
+      "label": "DISEASE",
+      "start_char": 330,
+      "end_char": 357,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "overactivity of the bladder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "incontinence",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 45,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "incontinence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stricture",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 56,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stricture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erectile dysfunction",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 78,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erectile dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "enlargement of the lateral lobes of the prostate",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 58,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "enlargement of the lateral lobes of the prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

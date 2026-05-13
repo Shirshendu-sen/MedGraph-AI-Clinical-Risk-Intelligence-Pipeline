@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3062__lung_biopsy_pathology_report___1_.txt",
+    "file_name": "mtsamples_3062__lung_biopsy_pathology_report___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2508,
+    "processed_at": "2026-05-09T09:54:13.063523"
+  },
+  "entities": [
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 43,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "non-small cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 82,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-small cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tumor",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "non-small cell carcinoma,(adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 90,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-small cell carcinoma,(adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tumor",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumors",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 134,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumors",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 80,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "non-small cell carcinoma",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 97,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "non-small cell carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "upper lobe carcinoma",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 30,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper lobe carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 113,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

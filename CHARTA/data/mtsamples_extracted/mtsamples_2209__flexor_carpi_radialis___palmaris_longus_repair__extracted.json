@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2209__flexor_carpi_radialis___palmaris_longus_repair_.txt",
+    "file_name": "mtsamples_2209__flexor_carpi_radialis___palmaris_longus_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2255,
+    "processed_at": "2026-05-09T09:53:58.401458"
+  },
+  "entities": [
+    {
+      "text": "palmaris longus laceration",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 118,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palmaris longus laceration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palmaris longus laceration",
+      "label": "DISEASE",
+      "start_char": 253,
+      "end_char": 279,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palmaris longus laceration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "MPJ",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 7,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "MPJ",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 68,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeders",
+      "label": "DISEASE",
+      "start_char": 127,
+      "end_char": 135,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeders",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

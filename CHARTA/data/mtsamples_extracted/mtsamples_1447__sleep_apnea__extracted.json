@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1447__sleep_apnea_.txt",
+    "file_name": "mtsamples_1447__sleep_apnea_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3039,
+    "processed_at": "2026-05-09T09:53:42.240210"
+  },
+  "entities": [
+    {
+      "text": "apnea",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 92,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "snoring",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 138,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "snoring",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sleep apnea",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 51,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sleep apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "H2O",
+      "label": "CHEMICAL",
+      "start_char": 115,
+      "end_char": 118,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "H2O",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "treatment.,The",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 109,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "treatment.,The",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "snoring",
+      "label": "DISEASE",
+      "start_char": 156,
+      "end_char": 163,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "snoring",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "snoring",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 99,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "snoring",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergic rhinitis.,MEDICATIONS",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 142,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergic rhinitis.,MEDICATIONS",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Flonase",
+      "label": "CHEMICAL",
+      "start_char": 166,
+      "end_char": 173,
+      "sentence_idx": 13,
+      "concept_id": "C0286677",
+      "concept_name": "Flonase",
+      "kb_source": "rxnorm",
+      "link_score": 0.9899725914001465,
+      "timestamp": null
+    },
+    {
+      "text": "adenoidal facies",
+      "label": "DISEASE",
+      "start_char": 439,
+      "end_char": 455,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenoidal facies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "apnea",
+      "label": "DISEASE",
+      "start_char": 599,
+      "end_char": 604,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nasal obstruction",
+      "label": "DISEASE",
+      "start_char": 187,
+      "end_char": 204,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nasal obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "snoring",
+      "label": "DISEASE",
+      "start_char": 224,
+      "end_char": 231,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "snoring",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenoidal",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 79,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenoidal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

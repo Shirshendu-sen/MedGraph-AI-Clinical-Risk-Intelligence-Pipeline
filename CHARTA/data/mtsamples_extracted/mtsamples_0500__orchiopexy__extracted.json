@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0500__orchiopexy_.txt",
+    "file_name": "mtsamples_0500__orchiopexy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4890,
+    "processed_at": "2026-05-09T09:53:17.533519"
+  },
+  "entities": [
+    {
+      "text": "one-and-a-half",
+      "label": "DISEASE",
+      "start_char": 160,
+      "end_char": 174,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "one-and-a-half",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 104,
+      "end_char": 109,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 34,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 224,
+      "end_char": 230,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 101,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 58,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 108,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bupivacaine",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 46,
+      "sentence_idx": 33,
+      "concept_id": "C0006400",
+      "concept_name": "bupivacaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9624806642532349,
+      "timestamp": null
+    },
+    {
+      "text": "Keflex",
+      "label": "CHEMICAL",
+      "start_char": 108,
+      "end_char": 114,
+      "sentence_idx": 34,
+      "concept_id": "C0700517",
+      "concept_name": "Keflex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9780697822570801,
+      "timestamp": null
+    },
+    {
+      "text": "q.i.d",
+      "label": "CHEMICAL",
+      "start_char": 126,
+      "end_char": 131,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "q.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Tylenol",
+      "label": "CHEMICAL",
+      "start_char": 152,
+      "end_char": 159,
+      "sentence_idx": 34,
+      "concept_id": "C0699142",
+      "concept_name": "Tylenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9819504022598267,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 174,
+      "end_char": 178,
+      "sentence_idx": 34,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Motrin",
+      "label": "CHEMICAL",
+      "start_char": 183,
+      "end_char": 189,
+      "sentence_idx": 34,
+      "concept_id": "C0699203",
+      "concept_name": "Motrin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9656757116317749,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 203,
+      "end_char": 207,
+      "sentence_idx": 34,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

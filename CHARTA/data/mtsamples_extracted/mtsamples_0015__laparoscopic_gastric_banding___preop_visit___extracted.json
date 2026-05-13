@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0015__laparoscopic_gastric_banding___preop_visit__.txt",
+    "file_name": "mtsamples_0015__laparoscopic_gastric_banding___preop_visit__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1863,
+    "processed_at": "2026-05-09T09:53:03.372027"
+  },
+  "entities": [
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 61,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 127,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 138,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "venous thrombosis",
+      "label": "DISEASE",
+      "start_char": 145,
+      "end_char": 162,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "venous thrombosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary embolism",
+      "label": "DISEASE",
+      "start_char": 164,
+      "end_char": 182,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injury to the small intestine",
+      "label": "DISEASE",
+      "start_char": 184,
+      "end_char": 213,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury to the small intestine",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cholelithiasis",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 26,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cholelithiasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 181,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 183,
+      "end_char": 192,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "venous thrombosis",
+      "label": "DISEASE",
+      "start_char": 199,
+      "end_char": 216,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "venous thrombosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary embolism",
+      "label": "DISEASE",
+      "start_char": 218,
+      "end_char": 236,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "liver, injury to the band, port, or tubing necessitating replacement of the band, port, or tubing among other potential complications",
+      "label": "DISEASE",
+      "start_char": 357,
+      "end_char": 490,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "liver, injury to the band, port, or tubing necessitating replacement of the band, port, or tubing among other potential complications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

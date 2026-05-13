@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_0926__cystourethroscopy___urethral_dilation_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 13,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0721336": 1,
+    "C0034259": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0926__cystourethroscopy___urethral_dilation__graph.pt",
+  "source_dataset": "mtsamples_0926__cystourethroscopy___urethral_dilation"
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4811__ct_chest___2_.txt",
+    "file_name": "mtsamples_4811__ct_chest___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1683,
+    "processed_at": "2026-05-09T09:54:44.981138"
+  },
+  "entities": [
+    {
+      "text": "adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 83,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenopathy",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 66,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleural mass seen within the anterior sulcus of the right hemithorax",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 79,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural mass seen within the anterior sulcus of the right hemithorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenopathy",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 32,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Supraclavicular adenopathy",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 26,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Supraclavicular adenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

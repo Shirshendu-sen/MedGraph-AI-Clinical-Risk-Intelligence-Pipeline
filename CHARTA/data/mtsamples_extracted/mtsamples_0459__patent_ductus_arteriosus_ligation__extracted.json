@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0459__patent_ductus_arteriosus_ligation_.txt",
+    "file_name": "mtsamples_0459__patent_ductus_arteriosus_ligation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2282,
+    "processed_at": "2026-05-09T09:53:16.693118"
+  },
+  "entities": [
+    {
+      "text": "patent ductus arteriosus.,INDICATION",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 90,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patent ductus arteriosus.,INDICATION",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thrive",
+      "label": "DISEASE",
+      "start_char": 230,
+      "end_char": 236,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrive",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "patent ductus arteriosus",
+      "label": "DISEASE",
+      "start_char": 269,
+      "end_char": 293,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patent ductus arteriosus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "patent ductus arteriosus",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 110,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "patent ductus arteriosus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left recurrent laryngeal nerve visualized",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 76,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left recurrent laryngeal nerve visualized",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

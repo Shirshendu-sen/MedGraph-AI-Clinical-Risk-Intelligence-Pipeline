@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2727__anterior_cervical_discectomy___4_.txt",
+    "file_name": "mtsamples_2727__anterior_cervical_discectomy___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1709,
+    "processed_at": "2026-05-09T09:54:06.641956"
+  },
+  "entities": [
+    {
+      "text": "allograft.,3",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 22,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allograft.,3",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left arm pain",
+      "label": "DISEASE",
+      "start_char": 226,
+      "end_char": 239,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left arm pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "C6 radiculopathy",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 74,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "C6 radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 47,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

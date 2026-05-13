@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1330__mesothelioma___chart_note_.txt",
+    "file_name": "mtsamples_1330__mesothelioma___chart_note_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 802,
+    "processed_at": "2026-05-09T09:53:39.324903"
+  },
+  "entities": [
+    {
+      "text": "Duragesic",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 45,
+      "sentence_idx": 0,
+      "concept_id": "C0591423",
+      "concept_name": "Duragesic",
+      "kb_source": "rxnorm",
+      "link_score": 0.9836061596870422,
+      "timestamp": null
+    },
+    {
+      "text": "Dilaudid",
+      "label": "CHEMICAL",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 1,
+      "concept_id": "C0728755",
+      "concept_name": "Dilaudid",
+      "kb_source": "rxnorm",
+      "link_score": 0.9738743901252747,
+      "timestamp": null
+    },
+    {
+      "text": "Dilaudid",
+      "label": "CHEMICAL",
+      "start_char": 69,
+      "end_char": 77,
+      "sentence_idx": 1,
+      "concept_id": "C0728755",
+      "concept_name": "Dilaudid",
+      "kb_source": "rxnorm",
+      "link_score": 0.9738743901252747,
+      "timestamp": null
+    },
+    {
+      "text": "Tylenol",
+      "label": "CHEMICAL",
+      "start_char": 126,
+      "end_char": 133,
+      "sentence_idx": 1,
+      "concept_id": "C0699142",
+      "concept_name": "Tylenol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9819504022598267,
+      "timestamp": null
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 75,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 146,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "celiac plexuses/neurolytic block",
+      "label": "DISEASE",
+      "start_char": 161,
+      "end_char": 193,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "celiac plexuses/neurolytic block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 68,
+      "sentence_idx": 3,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Pain",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 41,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "anxiety",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 12,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anxiety",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

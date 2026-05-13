@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4638__septal_defect_repair_.txt",
+    "file_name": "mtsamples_4638__septal_defect_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5825,
+    "processed_at": "2026-05-09T09:54:42.568732"
+  },
+  "entities": [
+    {
+      "text": "anomalous pulmonary venous",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 42,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anomalous pulmonary venous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial septal defect",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 41,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial septal defect",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anomalous pulmonary venous",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 146,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anomalous pulmonary venous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anomalous pulmonary venous",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 32,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anomalous pulmonary venous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Atrial septal defect.,3",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 23,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Atrial septal defect.,3",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arrest",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 200,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arrest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Patent ductus arteriosus diminutive left atrium with posterior atrial septal defect",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 83,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Patent ductus arteriosus diminutive left atrium with posterior atrial septal defect",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial septal defect",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 141,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial septal defect",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroids",
+      "label": "CHEMICAL",
+      "start_char": 75,
+      "end_char": 83,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroids",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arrest",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 40,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arrest",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial septal defect",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 24,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial septal defect",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "protamine sulfate",
+      "label": "CHEMICAL",
+      "start_char": 80,
+      "end_char": 97,
+      "sentence_idx": 42,
+      "concept_id": "C0033603",
+      "concept_name": "protamines",
+      "kb_source": "rxnorm",
+      "link_score": 0.7214394807815552,
+      "timestamp": null
+    },
+    {
+      "text": "vancomycin",
+      "label": "CHEMICAL",
+      "start_char": 73,
+      "end_char": 83,
+      "sentence_idx": 44,
+      "concept_id": "C0042313",
+      "concept_name": "vancomycin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736526608467102,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

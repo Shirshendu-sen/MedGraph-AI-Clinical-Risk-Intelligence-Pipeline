@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1650__ct_stone_protocol_.txt",
+    "file_name": "mtsamples_1650__ct_stone_protocol_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1170,
+    "processed_at": "2026-05-09T09:53:47.554024"
+  },
+  "entities": [
+    {
+      "text": "hydronephrosis",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 26,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydronephrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-20"
+    },
+    {
+      "text": "calcification",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 24,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-20"
+    },
+    {
+      "text": "renal enlargement",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 40,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "renal enlargement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-20"
+    },
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 192,
+      "end_char": 203,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-20"
+    },
+    {
+      "text": "intrarenal stones",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 27,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrarenal stones",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-01-20"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "01/20/09",
+      "start_char": 217,
+      "end_char": 225
+    }
+  ]
+}

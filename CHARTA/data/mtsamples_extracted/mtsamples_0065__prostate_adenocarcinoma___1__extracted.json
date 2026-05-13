@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0065__prostate_adenocarcinoma___1_.txt",
+    "file_name": "mtsamples_0065__prostate_adenocarcinoma___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 881,
+    "processed_at": "2026-05-09T09:53:05.224377"
+  },
+  "entities": [
+    {
+      "text": "urinary obstruction",
+      "label": "DISEASE",
+      "start_char": 167,
+      "end_char": 186,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 71,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenocarcinoma of the prostate",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 50,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma of the prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "debility",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "debility",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 229,
+      "end_char": 237,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 343,
+      "end_char": 357,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "microacinar type",
+      "label": "DISEASE",
+      "start_char": 359,
+      "end_char": 375,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "microacinar type",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

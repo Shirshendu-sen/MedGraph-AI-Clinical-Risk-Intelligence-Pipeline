@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_4172__orthopedic_consult___3_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 68,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0591423": 2,
+    "C0302583": 3,
+    "C0376414": 4,
+    "C0086787": 5,
+    "C0043031": 6,
+    "C1505021": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4172__orthopedic_consult___3__graph.pt",
+  "source_dataset": "mtsamples_4172__orthopedic_consult___3"
+}

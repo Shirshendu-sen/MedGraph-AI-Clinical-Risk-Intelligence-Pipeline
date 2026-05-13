@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1533__myocardial_perfusion_imaging___3_.txt",
+    "file_name": "mtsamples_1533__myocardial_perfusion_imaging___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 144,
+    "processed_at": "2026-05-09T09:53:43.987577"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1533__myocardial_perfusion_imaging___3_.txt",
+    "text": "DIAGNOSIS:  ,Shortness of breath.  Fatigue and weakness.  Hypertension.  Hyperlipidemia.,INDICATION: , To evaluate for coronary artery disease.,",
+    "char_count": 144,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "DIAGNOSIS: ,Shortness of breath. Fatigue and weakness. Hypertension. Hyperlipidemia.,INDICATION: , To evaluate for coronary artery disease.,",
+    "sentences": [
+      "DIAGNOSIS: ,Shortness of breath.",
+      "Fatigue and weakness.",
+      "Hypertension.",
+      "Hyperlipidemia.,INDICATION: , To evaluate for coronary artery disease.,"
+    ],
+    "sentence_count": 4,
+    "original_length": 144,
+    "cleaned_length": 140,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "DIAGNOSIS:  ,Shortness of breath.  Fatigue and weakness.  Hypertension.  Hyperlipidemia.,INDICATION: , To evaluate for coronary artery disease.,",
+    "cleaned_text": "DIAGNOSIS: ,Shortness of breath. Fatigue and weakness. Hypertension. Hyperlipidemia.,INDICATION: , To evaluate for coronary artery disease.,",
+    "sentences": [
+      "DIAGNOSIS: ,Shortness of breath.",
+      "Fatigue and weakness.",
+      "Hypertension.",
+      "Hyperlipidemia.,INDICATION: , To evaluate for coronary artery disease.,"
+    ],
+    "sentence_count": 4
+  }
+}

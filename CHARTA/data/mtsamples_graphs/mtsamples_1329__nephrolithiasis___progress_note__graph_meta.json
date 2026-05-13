@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_1329__nephrolithiasis___progress_note_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 28,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0721336": 1,
+    "C0701009": 2,
+    "C0008783": 3,
+    "C0032825": 4,
+    "C0004147": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1329__nephrolithiasis___progress_note__graph.pt",
+  "source_dataset": "mtsamples_1329__nephrolithiasis___progress_note"
+}

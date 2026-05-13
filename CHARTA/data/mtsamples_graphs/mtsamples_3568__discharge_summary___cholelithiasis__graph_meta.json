@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_3568__discharge_summary___cholelithiasis_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 44,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0008809": 2,
+    "C0028978": 3,
+    "C0282139": 4,
+    "C0086787": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3568__discharge_summary___cholelithiasis__graph.pt",
+  "source_dataset": "mtsamples_3568__discharge_summary___cholelithiasis"
+}

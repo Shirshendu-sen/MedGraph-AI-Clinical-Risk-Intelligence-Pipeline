@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3442__ultrasound___abdomen_.txt",
+    "file_name": "mtsamples_3442__ultrasound___abdomen_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1555,
+    "processed_at": "2026-05-09T09:54:21.877083"
+  },
+  "entities": [
+    {
+      "text": "upper lobe pneumonia",
+      "label": "DISEASE",
+      "start_char": 145,
+      "end_char": 165,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper lobe pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-04-18"
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 38,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-04-18"
+    },
+    {
+      "text": "gallstones",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 58,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gallstones",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-04-18"
+    },
+    {
+      "text": "calculi",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 25,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calculi",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-04-18"
+    },
+    {
+      "text": "hydronephrosis",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 44,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydronephrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-04-18"
+    },
+    {
+      "text": "ascites",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 19,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ascites",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-04-18"
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-04-18"
+    },
+    {
+      "text": "gallstones",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 58,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gallstones",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-04-18"
+    },
+    {
+      "text": "renal calculi",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 26,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "renal calculi",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2009-04-18"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "04/18/2009",
+      "start_char": 99,
+      "end_char": 109
+    }
+  ]
+}

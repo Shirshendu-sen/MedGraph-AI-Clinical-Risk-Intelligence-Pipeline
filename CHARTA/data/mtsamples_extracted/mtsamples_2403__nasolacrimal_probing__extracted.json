@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2403__nasolacrimal_probing_.txt",
+    "file_name": "mtsamples_2403__nasolacrimal_probing_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4354,
+    "processed_at": "2026-05-09T09:54:01.179939"
+  },
+  "entities": [
+    {
+      "text": "Tearing",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 32,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tear duct obstruction",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 90,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tear duct obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Distal nasolacrimal duct stenosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 33,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Distal nasolacrimal duct stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Distal nasolacrimal duct stenosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 33,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Distal nasolacrimal duct stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "probing.,ANESTHESIA",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 128,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "probing.,ANESTHESIA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 270,
+      "end_char": 277,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "conjunctivitis",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 80,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "conjunctivitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 75,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tetracaine",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 62,
+      "sentence_idx": 16,
+      "concept_id": "C0039629",
+      "concept_name": "tetracaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9587721824645996,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "distal nasolacrimal duct obstruction",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 74,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "distal nasolacrimal duct obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Erythromycin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 39,
+      "concept_id": "C0014806",
+      "concept_name": "erythromycin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9755421280860901,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

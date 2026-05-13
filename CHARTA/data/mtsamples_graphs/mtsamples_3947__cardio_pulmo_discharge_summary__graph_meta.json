@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_3947__cardio_pulmo_discharge_summary_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 74,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0721336": 1,
+    "C0065374": 2,
+    "C0012265": 3,
+    "C0037473": 4,
+    "C0032952": 5,
+    "C0016860": 6,
+    "C0000981": 7,
+    "C0017887": 8
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3947__cardio_pulmo_discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3947__cardio_pulmo_discharge_summary"
+}

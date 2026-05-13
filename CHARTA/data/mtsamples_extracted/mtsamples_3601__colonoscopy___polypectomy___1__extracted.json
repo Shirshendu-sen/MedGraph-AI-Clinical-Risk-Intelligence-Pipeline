@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3601__colonoscopy___polypectomy___1_.txt",
+    "file_name": "mtsamples_3601__colonoscopy___polypectomy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1377,
+    "processed_at": "2026-05-09T09:54:24.880142"
+  },
+  "entities": [
+    {
+      "text": "colitis",
+      "label": "DISEASE",
+      "start_char": 265,
+      "end_char": 272,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 321,
+      "end_char": 329,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 21,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cancer",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 41,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 56,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "colitis",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 65,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "colitis",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 61,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left colon polyp",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 101,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left colon polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 159,
+      "end_char": 167,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

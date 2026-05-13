@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3044__pediatric___letter_.txt",
+    "file_name": "mtsamples_3044__pediatric___letter_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1795,
+    "processed_at": "2026-05-09T09:54:12.788975"
+  },
+  "entities": [
+    {
+      "text": "Doctor:,We",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 49,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Doctor:,We",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prematurity",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 121,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prematurity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "wheezing",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "wheezing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 48,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 72,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroids",
+      "label": "CHEMICAL",
+      "start_char": 65,
+      "end_char": 73,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroids",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cough",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 66,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cough",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prednisolone",
+      "label": "CHEMICAL",
+      "start_char": 127,
+      "end_char": 139,
+      "sentence_idx": 4,
+      "concept_id": "C0032950",
+      "concept_name": "prednisoLONE",
+      "kb_source": "rxnorm",
+      "link_score": 0.9636313915252686,
+      "timestamp": null
+    },
+    {
+      "text": "smoke",
+      "label": "CHEMICAL",
+      "start_char": 214,
+      "end_char": 219,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "smoke",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "asthma",
+      "label": "DISEASE",
+      "start_char": 321,
+      "end_char": 327,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "asthma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rhonchi",
+      "label": "DISEASE",
+      "start_char": 192,
+      "end_char": 199,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rhonchi",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "asthma",
+      "label": "DISEASE",
+      "start_char": 330,
+      "end_char": 336,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "asthma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "asthma",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 105,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "asthma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroids",
+      "label": "CHEMICAL",
+      "start_char": 210,
+      "end_char": 218,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroids",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroids",
+      "label": "CHEMICAL",
+      "start_char": 271,
+      "end_char": 279,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroids",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

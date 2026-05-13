@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0089__meatoplasty_template_.txt",
+    "file_name": "mtsamples_0089__meatoplasty_template_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1538,
+    "processed_at": "2026-05-09T09:53:05.916195"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0089__meatoplasty_template_.txt",
+    "text": "OPERATIVE NOTE:  ,The patient was placed in the supine position under general anesthesia, and prepped and draped in the usual manner.  The penis was inspected.  The meatus was inspected and an incision was made in the dorsal portion of the meatus up towards the tip of the penis connecting this with the ventral urethral groove.  This was incised longitudinally and closed transversely with 5-0 chromic catgut sutures.  The meatus was calibrated and accepted the calibrating instrument without difficulty, and there was no stenosis.  An incision was made transversely below the meatus in a circumferential way around the shaft of the penis, bringing up the skin of the penis from the corpora.  The glans was undermined with sharp dissection and hemostasis was obtained with a Bovie.  Using a skin hook, the meatus was elevated ventrally and the glans flaps were reapproximated using 5-0 chromic catgut, creating a new ventral portion of the glans using the flaps of skin.  There was good viability of the skin.  The incision around the base of the penis was performed, separating the foreskin that was going to be removed from the coronal skin.  This was removed and hemostasis was obtained with a Bovie.  0.25% Marcaine was infiltrated at the base of the penis for post-op pain relief, and the coronal and penile skin was reanastomosed using 4-0 chromic catgut.  At the conclusion of the procedure, Vaseline gauze was wrapped around the penis.  There was good hemostasis and the patient was sent to the recovery room in stable condition.",
+    "char_count": 1538,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "OPERATIVE NOTE: ,The patient was placed in the supine position under general anesthesia, and prepped and draped in the usual manner. The penis was inspected. The meatus was inspected and an incision was made in the dorsal portion of the meatus up towards the tip of the penis connecting this with the ventral urethral groove. This was incised longitudinally and closed transversely with 5-0 chromic catgut sutures. The meatus was calibrated and accepted the calibrating instrument without difficulty, and there was no stenosis. An incision was made transversely below the meatus in a circumferential way around the shaft of the penis, bringing up the skin of the penis from the corpora. The glans was undermined with sharp dissection and hemostasis was obtained with a Bovie. Using a skin hook, the meatus was elevated ventrally and the glans flaps were reapproximated using 5-0 chromic catgut, creating a new ventral portion of the glans using the flaps of skin. There was good viability of the skin. The incision around the base of the penis was performed, separating the foreskin that was going to be removed from the coronal skin. This was removed and hemostasis was obtained with a Bovie. 0.25% Marcaine was infiltrated at the base of the penis for post-op pain relief, and the coronal and penile skin was reanastomosed using 4-0 chromic catgut. At the conclusion of the procedure, Vaseline gauze was wrapped around the penis. There was good hemostasis and the patient was sent to the recovery room in stable condition.",
+    "sentences": [
+      "OPERATIVE NOTE: ,The patient was placed in the supine position under general anesthesia, and prepped and draped in the usual manner.",
+      "The penis was inspected.",
+      "The meatus was inspected and an incision was made in the dorsal portion of the meatus up towards the tip of the penis connecting this with the ventral urethral groove.",
+      "This was incised longitudinally and closed transversely with 5-0 chromic catgut sutures.",
+      "The meatus was calibrated and accepted the calibrating instrument without difficulty, and there was no stenosis.",
+      "An incision was made transversely below the meatus in a circumferential way around the shaft of the penis, bringing up the skin of the penis from the corpora.",
+      "The glans was undermined with sharp dissection and hemostasis was obtained with a Bovie.",
+      "Using a skin hook, the meatus was elevated ventrally and the glans flaps were reapproximated using 5-0 chromic catgut, creating a new ventral portion of the glans using the flaps of skin.",
+      "There was good viability of the skin.",
+      "The incision around the base of the penis was performed, separating the foreskin that was going to be removed from the coronal skin.",
+      "This was removed and hemostasis was obtained with a Bovie. 0.25% Marcaine was infiltrated at the base of the penis for post-op pain relief, and the coronal and penile skin was reanastomosed using 4-0 chromic catgut.",
+      "At the conclusion of the procedure, Vaseline gauze was wrapped around the penis.",
+      "There was good hemostasis and the patient was sent to the recovery room in stable condition."
+    ],
+    "sentence_count": 13,
+    "original_length": 1538,
+    "cleaned_length": 1524,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "OPERATIVE NOTE:  ,The patient was placed in the supine position under general anesthesia, and prepped and draped in the usual manner.  The penis was inspected.  The meatus was inspected and an incision was made in the dorsal portion of the meatus up towards the tip of the penis connecting this with the ventral urethral groove.  This was incised longitudinally and closed transversely with 5-0 chromic catgut sutures.  The meatus was calibrated and accepted the calibrating instrument without difficulty, and there was no stenosis.  An incision was made transversely below the meatus in a circumferential way around the shaft of the penis, bringing up the skin of the penis from the corpora.  The glans was undermined with sharp dissection and hemostasis was obtained with a Bovie.  Using a skin hook, the meatus was elevated ventrally and the glans flaps were reapproximated using 5-0 chromic catgut, creating a new ventral portion of the glans using the flaps of skin.  There was good viability of the skin.  The incision around the base of the penis was performed, separating the foreskin that was going to be removed from the coronal skin.  This was removed and hemostasis was obtained with a Bovie.  0.25% Marcaine was infiltrated at the base of the penis for post-op pain relief, and the coronal and penile skin was reanastomosed using 4-0 chromic catgut.  At the conclusion of the procedure, Vaseline gauze was wrapped around the penis.  There was good hemostasis and the patient was sent to the recovery room in stable condition.",
+    "cleaned_text": "OPERATIVE NOTE: ,The patient was placed in the supine position under general anesthesia, and prepped and draped in the usual manner. The penis was inspected. The meatus was inspected and an incision was made in the dorsal portion of the meatus up towards the tip of the penis connecting this with the ventral urethral groove. This was incised longitudinally and closed transversely with 5-0 chromic catgut sutures. The meatus was calibrated and accepted the calibrating instrument without difficulty, and there was no stenosis. An incision was made transversely below the meatus in a circumferential way around the shaft of the penis, bringing up the skin of the penis from the corpora. The glans was undermined with sharp dissection and hemostasis was obtained with a Bovie. Using a skin hook, the meatus was elevated ventrally and the glans flaps were reapproximated using 5-0 chromic catgut, creating a new ventral portion of the glans using the flaps of skin. There was good viability of the skin. The incision around the base of the penis was performed, separating the foreskin that was going to be removed from the coronal skin. This was removed and hemostasis was obtained with a Bovie. 0.25% Marcaine was infiltrated at the base of the penis for post-op pain relief, and the coronal and penile skin was reanastomosed using 4-0 chromic catgut. At the conclusion of the procedure, Vaseline gauze was wrapped around the penis. There was good hemostasis and the patient was sent to the recovery room in stable condition.",
+    "sentences": [
+      "OPERATIVE NOTE: ,The patient was placed in the supine position under general anesthesia, and prepped and draped in the usual manner.",
+      "The penis was inspected.",
+      "The meatus was inspected and an incision was made in the dorsal portion of the meatus up towards the tip of the penis connecting this with the ventral urethral groove.",
+      "This was incised longitudinally and closed transversely with 5-0 chromic catgut sutures.",
+      "The meatus was calibrated and accepted the calibrating instrument without difficulty, and there was no stenosis.",
+      "An incision was made transversely below the meatus in a circumferential way around the shaft of the penis, bringing up the skin of the penis from the corpora.",
+      "The glans was undermined with sharp dissection and hemostasis was obtained with a Bovie.",
+      "Using a skin hook, the meatus was elevated ventrally and the glans flaps were reapproximated using 5-0 chromic catgut, creating a new ventral portion of the glans using the flaps of skin.",
+      "There was good viability of the skin.",
+      "The incision around the base of the penis was performed, separating the foreskin that was going to be removed from the coronal skin.",
+      "This was removed and hemostasis was obtained with a Bovie. 0.25% Marcaine was infiltrated at the base of the penis for post-op pain relief, and the coronal and penile skin was reanastomosed using 4-0 chromic catgut.",
+      "At the conclusion of the procedure, Vaseline gauze was wrapped around the penis.",
+      "There was good hemostasis and the patient was sent to the recovery room in stable condition."
+    ],
+    "sentence_count": 13
+  }
+}

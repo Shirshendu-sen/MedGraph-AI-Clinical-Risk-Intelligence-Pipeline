@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3855__psychiatric_discharge_summary___2_.txt",
+    "file_name": "mtsamples_3855__psychiatric_discharge_summary___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 126,
+    "processed_at": "2026-05-09T09:54:28.302704"
+  },
+  "entities": [],
+  "relations": [],
+  "temporal_expressions": []
+}

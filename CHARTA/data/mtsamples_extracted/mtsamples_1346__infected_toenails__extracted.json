@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1346__infected_toenails_.txt",
+    "file_name": "mtsamples_1346__infected_toenails_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 645,
+    "processed_at": "2026-05-09T09:53:39.638046"
+  },
+  "entities": [
+    {
+      "text": "ingrown infected toenails",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 59,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ingrown infected toenails",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "toenail",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 81,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "toenail",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ingrown",
+      "label": "CHEMICAL",
+      "start_char": 85,
+      "end_char": 92,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ingrown",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "toenail",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 126,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "toenail",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "toenail",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 23,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "toenail",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ingrown",
+      "label": "CHEMICAL",
+      "start_char": 27,
+      "end_char": 34,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ingrown",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "redness",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 21,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "redness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ingrown nails",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 80,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ingrown nails",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Onychocryptosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 15,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Onychocryptosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

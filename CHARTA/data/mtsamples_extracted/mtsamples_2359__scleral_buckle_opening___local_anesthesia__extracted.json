@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2359__scleral_buckle_opening___local_anesthesia_.txt",
+    "file_name": "mtsamples_2359__scleral_buckle_opening___local_anesthesia_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 710,
+    "processed_at": "2026-05-09T09:54:00.653350"
+  },
+  "entities": [
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 81,
+      "end_char": 90,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 102,
+      "end_char": 110,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Wydase",
+      "label": "CHEMICAL",
+      "start_char": 115,
+      "end_char": 121,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Wydase",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "conjunctival",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 81,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "conjunctival",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

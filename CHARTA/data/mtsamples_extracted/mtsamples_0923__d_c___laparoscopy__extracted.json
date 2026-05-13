@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0923__d_c___laparoscopy_.txt",
+    "file_name": "mtsamples_0923__d_c___laparoscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2767,
+    "processed_at": "2026-05-09T09:53:29.129568"
+  },
+  "entities": [
+    {
+      "text": "fibroid",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 16,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Dilatation",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Dilatation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carmine",
+      "label": "CHEMICAL",
+      "start_char": 42,
+      "end_char": 49,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carmine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbondioxide",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 68,
+      "sentence_idx": 19,
+      "concept_id": "C0007012",
+      "concept_name": "carbon dioxide",
+      "kb_source": "rxnorm",
+      "link_score": 0.848831832408905,
+      "timestamp": null
+    },
+    {
+      "text": "fibroids",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 65,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroids",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carmine",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 48,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carmine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

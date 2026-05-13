@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3293__gen_med_progress_note___1_.txt",
+    "file_name": "mtsamples_3293__gen_med_progress_note___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1666,
+    "processed_at": "2026-05-09T09:54:17.736141"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3293__gen_med_progress_note___1_.txt",
+    "text": "CHIEF COMPLAINT:,  Followup on diabetes mellitus, status post cerebrovascular accident.,SUBJECTIVE:,  This is a 70-year-old male who has no particular complaints other than he has just discomfort on his right side.  We have done EMG studies.  He has noticed it since his stroke about five years ago.  He has been to see a neurologist.  We have tried different medications and it just does not seem to help.  He checks his blood sugars at home two to three times a day.  He kind of adjusts his own insulin himself.  Re-evaluation of symptoms is essentially negative.  He has a past history of heavy tobacco and alcohol usage.,MEDICATIONS:, Refer to chart.,ALLERGIES:, Refer to chart.,PHYSICAL EXAMINATION: ,Vitals: Wt; 118 lbs, B/P; 108/72, T; 96.5, P; 80 and regular.  ,General:  A 70-year-old male who does not appear to be in acute distress but does look older than his stated age.  He has some missing dentition.,Skin:  Dry and flaky. ,CV:  Heart tones are okay, adequate carotid pulsations.  He has 2+ pedal pulse on the left and 1+ on the right.,Lungs: Diminished but clear.,Abdomen:  Scaphoid.,Rectal:  His prostate check was normal per Dr. Gill.,Neuro:  Sensation with monofilament testing is better on the left than it is on the right.,IMPRESSION:,1.  Diabetes mellitus.,2.  Neuropathy.,3.  Status post cerebrovascular accident.,PLAN:,  Refill his medications x 3 months.  We will check an A1c and BMP.  I have talked to him several times about a colonoscopy, which he has refused, and so we have been doing stools for occult blood.  We will check a PSA.  Continue with yearly eye exams, foot exams, Accu-Cheks, and we will see him in three months and p.r.n.",
+    "char_count": 1666,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "CHIEF COMPLAINT:, Followup on diabetes mellitus, status post cerebrovascular accident.,SUBJECTIVE:, This is a 70-year-old male who has no particular complaints other than he has just discomfort on his right side. We have done EMG studies. He has noticed it since his stroke about five years ago. He has been to see a neurologist. We have tried different medications and it just does not seem to help. He checks his blood sugars at home two to three times a day. He kind of adjusts his own insulin himself. Re-evaluation of symptoms is essentially negative. He has a past history of heavy tobacco and alcohol usage.,MEDICATIONS:, Refer to chart.,ALLERGIES:, Refer to chart.,PHYSICAL EXAMINATION: ,Vitals: Wt; 118 lbs, B/P; 108/72, T; 96.5, P; 80 and regular. ,General: A 70-year-old male who does not appear to be in acute distress but does look older than his stated age. He has some missing dentition.,Skin: Dry and flaky. ,CV: Heart tones are okay, adequate carotid pulsations. He has 2+ pedal pulse on the left and 1+ on the right.,Lungs: Diminished but clear.,Abdomen: Scaphoid.,Rectal: His prostate check was normal per Dr. Gill.,Neuro: Sensation with monofilament testing is better on the left than it is on the right.,IMPRESSION:,1. Diabetes mellitus.,2. Neuropathy.,3. Status post cerebrovascular accident.,PLAN:, Refill his medications x 3 months. We will check an A1c and BMP. I have talked to him several times about a colonoscopy, which he has refused, and so we have been doing stools for occult blood. We will check a PSA. Continue with yearly eye exams, foot exams, Accu-Cheks, and we will see him in three months and p.r.n.",
+    "sentences": [
+      "CHIEF COMPLAINT:, Followup on diabetes mellitus, status post cerebrovascular accident.,SUBJECTIVE:, This is a 70-year-old male who has no particular complaints other than he has just discomfort on his right side.",
+      "We have done EMG studies.",
+      "He has noticed it since his stroke about five years ago.",
+      "He has been to see a neurologist.",
+      "We have tried different medications and it just does not seem to help.",
+      "He checks his blood sugars at home two to three times a day.",
+      "He kind of adjusts his own insulin himself.",
+      "Re-evaluation of symptoms is essentially negative.",
+      "He has a past history of heavy tobacco and alcohol usage.,MEDICATIONS:, Refer to chart.,ALLERGIES:, Refer to chart.,PHYSICAL EXAMINATION: ,Vitals: Wt; 118 lbs, B/P; 108/72, T; 96.5, P; 80 and regular. ,General: A 70-year-old male who does not appear to be in acute distress but does look older than his stated age.",
+      "He has some missing dentition.,Skin: Dry and flaky. ,CV: Heart tones are okay, adequate carotid pulsations.",
+      "He has 2+ pedal pulse on the left and 1+ on the right.,Lungs: Diminished but clear.,Abdomen: Scaphoid.,Rectal: His prostate check was normal per Dr.",
+      "Gill.,Neuro: Sensation with monofilament testing is better on the left than it is on the right.,IMPRESSION:,1.",
+      "Diabetes mellitus.,2.",
+      "Neuropathy.,3.",
+      "Status post cerebrovascular accident.,PLAN:, Refill his medications x 3 months.",
+      "We will check an A1c and BMP.",
+      "I have talked to him several times about a colonoscopy, which he has refused, and so we have been doing stools for occult blood.",
+      "We will check a PSA.",
+      "Continue with yearly eye exams, foot exams, Accu-Cheks, and we will see him in three months and p.r.n."
+    ],
+    "sentence_count": 19,
+    "original_length": 1666,
+    "cleaned_length": 1639,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "CHIEF COMPLAINT:,  Followup on diabetes mellitus, status post cerebrovascular accident.,SUBJECTIVE:,  This is a 70-year-old male who has no particular complaints other than he has just discomfort on his right side.  We have done EMG studies.  He has noticed it since his stroke about five years ago.  He has been to see a neurologist.  We have tried different medications and it just does not seem to help.  He checks his blood sugars at home two to three times a day.  He kind of adjusts his own insulin himself.  Re-evaluation of symptoms is essentially negative.  He has a past history of heavy tobacco and alcohol usage.,MEDICATIONS:, Refer to chart.,ALLERGIES:, Refer to chart.,PHYSICAL EXAMINATION: ,Vitals: Wt; 118 lbs, B/P; 108/72, T; 96.5, P; 80 and regular.  ,General:  A 70-year-old male who does not appear to be in acute distress but does look older than his stated age.  He has some missing dentition.,Skin:  Dry and flaky. ,CV:  Heart tones are okay, adequate carotid pulsations.  He has 2+ pedal pulse on the left and 1+ on the right.,Lungs: Diminished but clear.,Abdomen:  Scaphoid.,Rectal:  His prostate check was normal per Dr. Gill.,Neuro:  Sensation with monofilament testing is better on the left than it is on the right.,IMPRESSION:,1.  Diabetes mellitus.,2.  Neuropathy.,3.  Status post cerebrovascular accident.,PLAN:,  Refill his medications x 3 months.  We will check an A1c and BMP.  I have talked to him several times about a colonoscopy, which he has refused, and so we have been doing stools for occult blood.  We will check a PSA.  Continue with yearly eye exams, foot exams, Accu-Cheks, and we will see him in three months and p.r.n.",
+    "cleaned_text": "CHIEF COMPLAINT:, Followup on diabetes mellitus, status post cerebrovascular accident.,SUBJECTIVE:, This is a 70-year-old male who has no particular complaints other than he has just discomfort on his right side. We have done EMG studies. He has noticed it since his stroke about five years ago. He has been to see a neurologist. We have tried different medications and it just does not seem to help. He checks his blood sugars at home two to three times a day. He kind of adjusts his own insulin himself. Re-evaluation of symptoms is essentially negative. He has a past history of heavy tobacco and alcohol usage.,MEDICATIONS:, Refer to chart.,ALLERGIES:, Refer to chart.,PHYSICAL EXAMINATION: ,Vitals: Wt; 118 lbs, B/P; 108/72, T; 96.5, P; 80 and regular. ,General: A 70-year-old male who does not appear to be in acute distress but does look older than his stated age. He has some missing dentition.,Skin: Dry and flaky. ,CV: Heart tones are okay, adequate carotid pulsations. He has 2+ pedal pulse on the left and 1+ on the right.,Lungs: Diminished but clear.,Abdomen: Scaphoid.,Rectal: His prostate check was normal per Dr. Gill.,Neuro: Sensation with monofilament testing is better on the left than it is on the right.,IMPRESSION:,1. Diabetes mellitus.,2. Neuropathy.,3. Status post cerebrovascular accident.,PLAN:, Refill his medications x 3 months. We will check an A1c and BMP. I have talked to him several times about a colonoscopy, which he has refused, and so we have been doing stools for occult blood. We will check a PSA. Continue with yearly eye exams, foot exams, Accu-Cheks, and we will see him in three months and p.r.n.",
+    "sentences": [
+      "CHIEF COMPLAINT:, Followup on diabetes mellitus, status post cerebrovascular accident.,SUBJECTIVE:, This is a 70-year-old male who has no particular complaints other than he has just discomfort on his right side.",
+      "We have done EMG studies.",
+      "He has noticed it since his stroke about five years ago.",
+      "He has been to see a neurologist.",
+      "We have tried different medications and it just does not seem to help.",
+      "He checks his blood sugars at home two to three times a day.",
+      "He kind of adjusts his own insulin himself.",
+      "Re-evaluation of symptoms is essentially negative.",
+      "He has a past history of heavy tobacco and alcohol usage.,MEDICATIONS:, Refer to chart.,ALLERGIES:, Refer to chart.,PHYSICAL EXAMINATION: ,Vitals: Wt; 118 lbs, B/P; 108/72, T; 96.5, P; 80 and regular. ,General: A 70-year-old male who does not appear to be in acute distress but does look older than his stated age.",
+      "He has some missing dentition.,Skin: Dry and flaky. ,CV: Heart tones are okay, adequate carotid pulsations.",
+      "He has 2+ pedal pulse on the left and 1+ on the right.,Lungs: Diminished but clear.,Abdomen: Scaphoid.,Rectal: His prostate check was normal per Dr.",
+      "Gill.,Neuro: Sensation with monofilament testing is better on the left than it is on the right.,IMPRESSION:,1.",
+      "Diabetes mellitus.,2.",
+      "Neuropathy.,3.",
+      "Status post cerebrovascular accident.,PLAN:, Refill his medications x 3 months.",
+      "We will check an A1c and BMP.",
+      "I have talked to him several times about a colonoscopy, which he has refused, and so we have been doing stools for occult blood.",
+      "We will check a PSA.",
+      "Continue with yearly eye exams, foot exams, Accu-Cheks, and we will see him in three months and p.r.n."
+    ],
+    "sentence_count": 19
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4225__neurologic_consultation___1_.txt",
+    "file_name": "mtsamples_4225__neurologic_consultation___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1265,
+    "processed_at": "2026-05-09T09:54:35.160532"
+  },
+  "entities": [
+    {
+      "text": "Fatigue",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 60,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fatigue",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 66,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "low stamina",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 121,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "low stamina",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 212,
+      "end_char": 216,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Extraocular movements",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 21,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Extraocular movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Copaxone",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 47,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Copaxone",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

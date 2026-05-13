@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_2671__lumbar_puncture___1_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 20,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0002645": 1,
+    "C0007554": 2,
+    "C0015846": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2671__lumbar_puncture___1__graph.pt",
+  "source_dataset": "mtsamples_2671__lumbar_puncture___1"
+}

@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4043__breast_augmentation_consult_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "C0025605": 0,
+    "C0030346": 1,
+    "UNKNOWN": 2,
+    "C0002600": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4043__breast_augmentation_consult__graph.pt",
+  "source_dataset": "mtsamples_4043__breast_augmentation_consult"
+}

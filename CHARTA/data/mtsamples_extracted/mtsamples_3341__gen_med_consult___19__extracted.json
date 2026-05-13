@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3341__gen_med_consult___19_.txt",
+    "file_name": "mtsamples_3341__gen_med_consult___19_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3516,
+    "processed_at": "2026-05-09T09:54:20.148921"
+  },
+  "entities": [
+    {
+      "text": "prematurity",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 68,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prematurity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronic lung disease",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 28,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic lung disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tachypneic",
+      "label": "DISEASE",
+      "start_char": 317,
+      "end_char": 327,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tachypneic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 32,
+      "sentence_idx": 3,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "silver nitrate",
+      "label": "CHEMICAL",
+      "start_char": 94,
+      "end_char": 108,
+      "sentence_idx": 10,
+      "concept_id": "C0037129",
+      "concept_name": "silver nitrate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9516787528991699,
+      "timestamp": null
+    },
+    {
+      "text": "Flagyl",
+      "label": "CHEMICAL",
+      "start_char": 133,
+      "end_char": 139,
+      "sentence_idx": 12,
+      "concept_id": "C0699678",
+      "concept_name": "Flagyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9641984701156616,
+      "timestamp": null
+    },
+    {
+      "text": "vitamins",
+      "label": "CHEMICAL",
+      "start_char": 141,
+      "end_char": 149,
+      "sentence_idx": 12,
+      "concept_id": "C0025270",
+      "concept_name": "menadione",
+      "kb_source": "rxnorm",
+      "link_score": 0.8269627094268799,
+      "timestamp": null
+    },
+    {
+      "text": "Zyrtec",
+      "label": "CHEMICAL",
+      "start_char": 151,
+      "end_char": 157,
+      "sentence_idx": 12,
+      "concept_id": "C0162723",
+      "concept_name": "Zyrtec",
+      "kb_source": "rxnorm",
+      "link_score": 0.9963204860687256,
+      "timestamp": null
+    },
+    {
+      "text": "albuterol",
+      "label": "CHEMICAL",
+      "start_char": 159,
+      "end_char": 168,
+      "sentence_idx": 12,
+      "concept_id": "C0001927",
+      "concept_name": "albuterol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9798523783683777,
+      "timestamp": null
+    },
+    {
+      "text": "Nares",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nares",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "wheezing",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 34,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "wheezing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 21,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronic lung disease",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 96,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic lung disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bowel difficulties",
+      "label": "DISEASE",
+      "start_char": 122,
+      "end_char": 140,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bowel difficulties",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "weight gain",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 163,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight gain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

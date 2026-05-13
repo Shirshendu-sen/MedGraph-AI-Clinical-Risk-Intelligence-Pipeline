@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4698__mitral_valve_repair___annuloplasty_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 13,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0033603": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4698__mitral_valve_repair___annuloplasty__graph.pt",
+  "source_dataset": "mtsamples_4698__mitral_valve_repair___annuloplasty"
+}

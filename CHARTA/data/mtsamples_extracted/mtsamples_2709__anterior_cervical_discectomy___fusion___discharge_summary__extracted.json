@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2709__anterior_cervical_discectomy___fusion___discharge_summary_.txt",
+    "file_name": "mtsamples_2709__anterior_cervical_discectomy___fusion___discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2189,
+    "processed_at": "2026-05-09T09:54:06.386974"
+  },
+  "entities": [
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 17,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-25"
+    },
+    {
+      "text": "x-ray.,This",
+      "label": "CHEMICAL",
+      "start_char": 171,
+      "end_char": 182,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "x-ray.,This",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-06-25"
+    },
+    {
+      "text": "neck pain",
+      "label": "DISEASE",
+      "start_char": 256,
+      "end_char": 265,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neck pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-25"
+    },
+    {
+      "text": "left radiculopathy",
+      "label": "DISEASE",
+      "start_char": 271,
+      "end_char": 289,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-01"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 303,
+      "end_char": 312,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-01"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 420,
+      "end_char": 428,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-01"
+    },
+    {
+      "text": "neck pain",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 21,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neck pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-25"
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 25,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-06-25"
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 141,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-25"
+    },
+    {
+      "text": "midline herniations",
+      "label": "DISEASE",
+      "start_char": 167,
+      "end_char": 186,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "midline herniations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-25"
+    },
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-25"
+    },
+    {
+      "text": "muscle spasm",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 24,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "muscle spasm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-25"
+    },
+    {
+      "text": "nausea",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 23,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-25"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 24,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-25"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 33,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-25"
+    },
+    {
+      "text": "Robaxin",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 50,
+      "sentence_idx": 18,
+      "concept_id": "C0699926",
+      "concept_name": "Robaxin",
+      "kb_source": "mesh",
+      "link_score": 0.9612263441085815,
+      "timestamp": "2007-06-25"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "06/25/07",
+      "start_char": 171,
+      "end_char": 179
+    },
+    {
+      "raw_text": "05/01/07",
+      "start_char": 367,
+      "end_char": 375
+    },
+    {
+      "raw_text": "06/27/07",
+      "start_char": 1845,
+      "end_char": 1853
+    }
+  ]
+}

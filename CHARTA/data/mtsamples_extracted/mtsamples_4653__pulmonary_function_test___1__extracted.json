@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4653__pulmonary_function_test___1_.txt",
+    "file_name": "mtsamples_4653__pulmonary_function_test___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 858,
+    "processed_at": "2026-05-09T09:54:42.808775"
+  },
+  "entities": [
+    {
+      "text": "obstructive lung disease",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 33,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive lung disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bronchospastic",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 101,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bronchospastic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 62,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

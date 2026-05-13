@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1558__mri_head_.txt",
+    "file_name": "mtsamples_1558__mri_head_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1126,
+    "processed_at": "2026-05-09T09:53:44.441432"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1558__mri_head_.txt",
+    "text": "EXAM:,  MRI Head W&WO Contrast.,REASON FOR EXAM:,  Dyspnea.,COMPARISON:,  None. ,TECHNIQUE:,  MRI of the head performed without and with 12 ml of IV gadolinium (Magnevist).  ,INTERPRETATION: , There are no abnormal/unexpected foci of contrast enhancement.  There are no diffusion weighted signal abnormalities.  There are minimal, predominantly periventricular, deep white matter patchy foci of FLAIR/T2 signal hyperintensity, the rest of the brain parenchyma appearing unremarkable in signal.  The ventricles and sulci are prominent, but proportionate.  Per T2 weighted sequence, there is no hyperdense vascularity.  There are no calvarial signal abnormalities.  There is no significant mastoid air cell fluid.  No significant sinus mucosal disease per MRI.,IMPRESSION:,1.  No abnormal/unexpected foci of contrast enhancement; specifically, no evidence for metastases or masses.  ,2.  No evidence for acute infarction. ,3.  Mild, scattered, patchy, chronic small vessel ischemic disease changes. ,4.  Diffuse cortical volume loss, consistent with patient's age. ,5.  Preliminary report was issued at the time of dictation.  ,",
+    "char_count": 1126,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM:, MRI Head W&WO Contrast.,REASON FOR EXAM:, Dyspnea.,COMPARISON:, None. ,TECHNIQUE:, MRI of the head performed without and with 12 ml of IV gadolinium (Magnevist). ,INTERPRETATION: , There are no abnormal/unexpected foci of contrast enhancement. There are no diffusion weighted signal abnormalities. There are minimal, predominantly periventricular, deep white matter patchy foci of FLAIR/T2 signal hyperintensity, the rest of the brain parenchyma appearing unremarkable in signal. The ventricles and sulci are prominent, but proportionate. Per T2 weighted sequence, there is no hyperdense vascularity. There are no calvarial signal abnormalities. There is no significant mastoid air cell fluid. No significant sinus mucosal disease per MRI.,IMPRESSION:,1. No abnormal/unexpected foci of contrast enhancement; specifically, no evidence for metastases or masses. ,2. No evidence for acute infarction. ,3. Mild, scattered, patchy, chronic small vessel ischemic disease changes. ,4. Diffuse cortical volume loss, consistent with patient's age. ,5. Preliminary report was issued at the time of dictation. ,",
+    "sentences": [
+      "EXAM:, MRI Head W&WO Contrast.,REASON FOR EXAM:, Dyspnea.,COMPARISON:, None. ,TECHNIQUE:, MRI of the head performed without and with 12 ml of IV gadolinium (Magnevist). ,INTERPRETATION: , There are no abnormal/unexpected foci of contrast enhancement.",
+      "There are no diffusion weighted signal abnormalities.",
+      "There are minimal, predominantly periventricular, deep white matter patchy foci of FLAIR/T2 signal hyperintensity, the rest of the brain parenchyma appearing unremarkable in signal.",
+      "The ventricles and sulci are prominent, but proportionate.",
+      "Per T2 weighted sequence, there is no hyperdense vascularity.",
+      "There are no calvarial signal abnormalities.",
+      "There is no significant mastoid air cell fluid.",
+      "No significant sinus mucosal disease per MRI.,IMPRESSION:,1.",
+      "No abnormal/unexpected foci of contrast enhancement; specifically, no evidence for metastases or masses. ,2.",
+      "No evidence for acute infarction. ,3.",
+      "Mild, scattered, patchy, chronic small vessel ischemic disease changes. ,4.",
+      "Diffuse cortical volume loss, consistent with patient's age. ,5.",
+      "Preliminary report was issued at the time of dictation. ,"
+    ],
+    "sentence_count": 13,
+    "original_length": 1126,
+    "cleaned_length": 1107,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM:,  MRI Head W&WO Contrast.,REASON FOR EXAM:,  Dyspnea.,COMPARISON:,  None. ,TECHNIQUE:,  MRI of the head performed without and with 12 ml of IV gadolinium (Magnevist).  ,INTERPRETATION: , There are no abnormal/unexpected foci of contrast enhancement.  There are no diffusion weighted signal abnormalities.  There are minimal, predominantly periventricular, deep white matter patchy foci of FLAIR/T2 signal hyperintensity, the rest of the brain parenchyma appearing unremarkable in signal.  The ventricles and sulci are prominent, but proportionate.  Per T2 weighted sequence, there is no hyperdense vascularity.  There are no calvarial signal abnormalities.  There is no significant mastoid air cell fluid.  No significant sinus mucosal disease per MRI.,IMPRESSION:,1.  No abnormal/unexpected foci of contrast enhancement; specifically, no evidence for metastases or masses.  ,2.  No evidence for acute infarction. ,3.  Mild, scattered, patchy, chronic small vessel ischemic disease changes. ,4.  Diffuse cortical volume loss, consistent with patient's age. ,5.  Preliminary report was issued at the time of dictation.  ,",
+    "cleaned_text": "EXAM:, MRI Head W&WO Contrast.,REASON FOR EXAM:, Dyspnea.,COMPARISON:, None. ,TECHNIQUE:, MRI of the head performed without and with 12 ml of IV gadolinium (Magnevist). ,INTERPRETATION: , There are no abnormal/unexpected foci of contrast enhancement. There are no diffusion weighted signal abnormalities. There are minimal, predominantly periventricular, deep white matter patchy foci of FLAIR/T2 signal hyperintensity, the rest of the brain parenchyma appearing unremarkable in signal. The ventricles and sulci are prominent, but proportionate. Per T2 weighted sequence, there is no hyperdense vascularity. There are no calvarial signal abnormalities. There is no significant mastoid air cell fluid. No significant sinus mucosal disease per MRI.,IMPRESSION:,1. No abnormal/unexpected foci of contrast enhancement; specifically, no evidence for metastases or masses. ,2. No evidence for acute infarction. ,3. Mild, scattered, patchy, chronic small vessel ischemic disease changes. ,4. Diffuse cortical volume loss, consistent with patient's age. ,5. Preliminary report was issued at the time of dictation. ,",
+    "sentences": [
+      "EXAM:, MRI Head W&WO Contrast.,REASON FOR EXAM:, Dyspnea.,COMPARISON:, None. ,TECHNIQUE:, MRI of the head performed without and with 12 ml of IV gadolinium (Magnevist). ,INTERPRETATION: , There are no abnormal/unexpected foci of contrast enhancement.",
+      "There are no diffusion weighted signal abnormalities.",
+      "There are minimal, predominantly periventricular, deep white matter patchy foci of FLAIR/T2 signal hyperintensity, the rest of the brain parenchyma appearing unremarkable in signal.",
+      "The ventricles and sulci are prominent, but proportionate.",
+      "Per T2 weighted sequence, there is no hyperdense vascularity.",
+      "There are no calvarial signal abnormalities.",
+      "There is no significant mastoid air cell fluid.",
+      "No significant sinus mucosal disease per MRI.,IMPRESSION:,1.",
+      "No abnormal/unexpected foci of contrast enhancement; specifically, no evidence for metastases or masses. ,2.",
+      "No evidence for acute infarction. ,3.",
+      "Mild, scattered, patchy, chronic small vessel ischemic disease changes. ,4.",
+      "Diffuse cortical volume loss, consistent with patient's age. ,5.",
+      "Preliminary report was issued at the time of dictation. ,"
+    ],
+    "sentence_count": 13
+  }
+}

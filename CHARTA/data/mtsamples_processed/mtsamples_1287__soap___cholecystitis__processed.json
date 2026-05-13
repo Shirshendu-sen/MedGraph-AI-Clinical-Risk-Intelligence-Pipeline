@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1287__soap___cholecystitis_.txt",
+    "file_name": "mtsamples_1287__soap___cholecystitis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1336,
+    "processed_at": "2026-05-09T09:53:38.544286"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1287__soap___cholecystitis_.txt",
+    "text": "SUBJECTIVE: , She is a 79-year-old female who came in with acute cholecystitis and underwent attempted laparoscopic cholecystectomy 8 days ago.  The patient has required conversion to an open procedure due to difficult anatomy.  Her postoperative course has been lengthened due to a prolonged ileus, which resolved with tetracycline and Reglan.  The patient is starting to improve, gain more strength.  She is tolerating her regular diet.,PHYSICAL EXAMINATION:,VITAL SIGNS:  Today, her temperature is 98.4, heart rate 84, respirations 20, and BP is 140/72.,LUNGS:  Clear to auscultation.  No wheezes, rales, or rhonchi.,HEART:  Regular rhythm and rate.,ABDOMEN:  Soft, less tender.,LABORATORY DATA:,  Her white count continues to come down.  Today, it is 11.6, H&H of 8.8 and 26.4, platelets 359,000.  We have ordered type and cross for 2 units of packed red blood cells.  If it drops below 25, she will receive a transfusion.  Her electrolytes today show a glucose of 107, sodium 137, potassium 4.0, chloride 103.2, bicarbonate 29.7.  Her AST is 43, ALT is 223, her alkaline phosphatase is 214, and her bilirubin is less than 0.10.,ASSESSMENT AND PLAN:,  She had a bowel movement today and is continuing to improve.,I anticipate another 3 days in the hospital for strengthening and continued TPN and resolution of elevated white count.",
+    "char_count": 1336,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "SUBJECTIVE: , She is a 79-year-old female who came in with acute cholecystitis and underwent attempted laparoscopic cholecystectomy 8 days ago. The patient has required conversion to an open procedure due to difficult anatomy. Her postoperative course has been lengthened due to a prolonged ileus, which resolved with tetracycline and Reglan. The patient is starting to improve, gain more strength. She is tolerating her regular diet.,PHYSICAL EXAMINATION:,VITAL SIGNS: Today, her temperature is 98.4, heart rate 84, respirations 20, and BP is 140/72.,LUNGS: Clear to auscultation. No wheezes, rales, or rhonchi.,HEART: Regular rhythm and rate.,ABDOMEN: Soft, less tender.,LABORATORY DATA:, Her white count continues to come down. Today, it is 11.6, H&H of 8.8 and 26.4, platelets 359,000. We have ordered type and cross for 2 units of packed red blood cells. If it drops below 25, she will receive a transfusion. Her electrolytes today show a glucose of 107, sodium 137, potassium 4.0, chloride 103.2, bicarbonate 29.7. Her AST is 43, ALT is 223, her alkaline phosphatase is 214, and her bilirubin is less than 0.10.,ASSESSMENT AND PLAN:, She had a bowel movement today and is continuing to improve.,I anticipate another 3 days in the hospital for strengthening and continued TPN and resolution of elevated white count.",
+    "sentences": [
+      "SUBJECTIVE: , She is a 79-year-old female who came in with acute cholecystitis and underwent attempted laparoscopic cholecystectomy 8 days ago.",
+      "The patient has required conversion to an open procedure due to difficult anatomy.",
+      "Her postoperative course has been lengthened due to a prolonged ileus, which resolved with tetracycline and Reglan.",
+      "The patient is starting to improve, gain more strength.",
+      "She is tolerating her regular diet.,PHYSICAL EXAMINATION:,VITAL SIGNS: Today, her temperature is 98.4, heart rate 84, respirations 20, and BP is 140/72.,LUNGS: Clear to auscultation.",
+      "No wheezes, rales, or rhonchi.,HEART: Regular rhythm and rate.,ABDOMEN: Soft, less tender.,LABORATORY DATA:, Her white count continues to come down.",
+      "Today, it is 11.6, H&H of 8.8 and 26.4, platelets 359,000.",
+      "We have ordered type and cross for 2 units of packed red blood cells.",
+      "If it drops below 25, she will receive a transfusion.",
+      "Her electrolytes today show a glucose of 107, sodium 137, potassium 4.0, chloride 103.2, bicarbonate 29.7.",
+      "Her AST is 43, ALT is 223, her alkaline phosphatase is 214, and her bilirubin is less than 0.10.,ASSESSMENT AND PLAN:, She had a bowel movement today and is continuing to improve.,I anticipate another 3 days in the hospital for strengthening and continued TPN and resolution of elevated white count."
+    ],
+    "sentence_count": 11,
+    "original_length": 1336,
+    "cleaned_length": 1320,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "SUBJECTIVE: , She is a 79-year-old female who came in with acute cholecystitis and underwent attempted laparoscopic cholecystectomy 8 days ago.  The patient has required conversion to an open procedure due to difficult anatomy.  Her postoperative course has been lengthened due to a prolonged ileus, which resolved with tetracycline and Reglan.  The patient is starting to improve, gain more strength.  She is tolerating her regular diet.,PHYSICAL EXAMINATION:,VITAL SIGNS:  Today, her temperature is 98.4, heart rate 84, respirations 20, and BP is 140/72.,LUNGS:  Clear to auscultation.  No wheezes, rales, or rhonchi.,HEART:  Regular rhythm and rate.,ABDOMEN:  Soft, less tender.,LABORATORY DATA:,  Her white count continues to come down.  Today, it is 11.6, H&H of 8.8 and 26.4, platelets 359,000.  We have ordered type and cross for 2 units of packed red blood cells.  If it drops below 25, she will receive a transfusion.  Her electrolytes today show a glucose of 107, sodium 137, potassium 4.0, chloride 103.2, bicarbonate 29.7.  Her AST is 43, ALT is 223, her alkaline phosphatase is 214, and her bilirubin is less than 0.10.,ASSESSMENT AND PLAN:,  She had a bowel movement today and is continuing to improve.,I anticipate another 3 days in the hospital for strengthening and continued TPN and resolution of elevated white count.",
+    "cleaned_text": "SUBJECTIVE: , She is a 79-year-old female who came in with acute cholecystitis and underwent attempted laparoscopic cholecystectomy 8 days ago. The patient has required conversion to an open procedure due to difficult anatomy. Her postoperative course has been lengthened due to a prolonged ileus, which resolved with tetracycline and Reglan. The patient is starting to improve, gain more strength. She is tolerating her regular diet.,PHYSICAL EXAMINATION:,VITAL SIGNS: Today, her temperature is 98.4, heart rate 84, respirations 20, and BP is 140/72.,LUNGS: Clear to auscultation. No wheezes, rales, or rhonchi.,HEART: Regular rhythm and rate.,ABDOMEN: Soft, less tender.,LABORATORY DATA:, Her white count continues to come down. Today, it is 11.6, H&H of 8.8 and 26.4, platelets 359,000. We have ordered type and cross for 2 units of packed red blood cells. If it drops below 25, she will receive a transfusion. Her electrolytes today show a glucose of 107, sodium 137, potassium 4.0, chloride 103.2, bicarbonate 29.7. Her AST is 43, ALT is 223, her alkaline phosphatase is 214, and her bilirubin is less than 0.10.,ASSESSMENT AND PLAN:, She had a bowel movement today and is continuing to improve.,I anticipate another 3 days in the hospital for strengthening and continued TPN and resolution of elevated white count.",
+    "sentences": [
+      "SUBJECTIVE: , She is a 79-year-old female who came in with acute cholecystitis and underwent attempted laparoscopic cholecystectomy 8 days ago.",
+      "The patient has required conversion to an open procedure due to difficult anatomy.",
+      "Her postoperative course has been lengthened due to a prolonged ileus, which resolved with tetracycline and Reglan.",
+      "The patient is starting to improve, gain more strength.",
+      "She is tolerating her regular diet.,PHYSICAL EXAMINATION:,VITAL SIGNS: Today, her temperature is 98.4, heart rate 84, respirations 20, and BP is 140/72.,LUNGS: Clear to auscultation.",
+      "No wheezes, rales, or rhonchi.,HEART: Regular rhythm and rate.,ABDOMEN: Soft, less tender.,LABORATORY DATA:, Her white count continues to come down.",
+      "Today, it is 11.6, H&H of 8.8 and 26.4, platelets 359,000.",
+      "We have ordered type and cross for 2 units of packed red blood cells.",
+      "If it drops below 25, she will receive a transfusion.",
+      "Her electrolytes today show a glucose of 107, sodium 137, potassium 4.0, chloride 103.2, bicarbonate 29.7.",
+      "Her AST is 43, ALT is 223, her alkaline phosphatase is 214, and her bilirubin is less than 0.10.,ASSESSMENT AND PLAN:, She had a bowel movement today and is continuing to improve.,I anticipate another 3 days in the hospital for strengthening and continued TPN and resolution of elevated white count."
+    ],
+    "sentence_count": 11
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2497__ultrasound___pelvis__.txt",
+    "file_name": "mtsamples_2497__ultrasound___pelvis__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 677,
+    "processed_at": "2026-05-09T09:54:03.296624"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2497__ultrasound___pelvis__.txt",
+    "text": "EXAM: , Ultrasound of pelvis.,HISTORY:, Menorrhagia.,FINDINGS: , Uterus is enlarged measuring 11.0 x 7.5 x 11.0 cm.  It appears to be completely replaced by multiple ill-defined fibroids.  The endometrial echo complex was not visualized due to the contents of replacement of the uterus with fibroids.  The right ovary measures 3.9 x 1.9 x 2.3 cm.  The left ovary is not seen.  No complex cystic adnexal masses are identified.,IMPRESSION:  ,Essential replacement of the uterus by fibroids.  It is difficult to measure given their heterogenous and diffuse nature.  MRI of the pelvis could be performed for further evaluation to evaluate for possible uterine fibroid embolization.",
+    "char_count": 677,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , Ultrasound of pelvis.,HISTORY:, Menorrhagia.,FINDINGS: , Uterus is enlarged measuring 11.0 x 7.5 x 11.0 cm. It appears to be completely replaced by multiple ill-defined fibroids. The endometrial echo complex was not visualized due to the contents of replacement of the uterus with fibroids. The right ovary measures 3.9 x 1.9 x 2.3 cm. The left ovary is not seen. No complex cystic adnexal masses are identified.,IMPRESSION: ,Essential replacement of the uterus by fibroids. It is difficult to measure given their heterogenous and diffuse nature. MRI of the pelvis could be performed for further evaluation to evaluate for possible uterine fibroid embolization.",
+    "sentences": [
+      "EXAM: , Ultrasound of pelvis.,HISTORY:, Menorrhagia.,FINDINGS: , Uterus is enlarged measuring 11.0 x 7.5 x 11.0 cm.",
+      "It appears to be completely replaced by multiple ill-defined fibroids.",
+      "The endometrial echo complex was not visualized due to the contents of replacement of the uterus with fibroids.",
+      "The right ovary measures 3.9 x 1.9 x 2.3 cm.",
+      "The left ovary is not seen.",
+      "No complex cystic adnexal masses are identified.,IMPRESSION: ,Essential replacement of the uterus by fibroids.",
+      "It is difficult to measure given their heterogenous and diffuse nature.",
+      "MRI of the pelvis could be performed for further evaluation to evaluate for possible uterine fibroid embolization."
+    ],
+    "sentence_count": 8,
+    "original_length": 677,
+    "cleaned_length": 669,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , Ultrasound of pelvis.,HISTORY:, Menorrhagia.,FINDINGS: , Uterus is enlarged measuring 11.0 x 7.5 x 11.0 cm.  It appears to be completely replaced by multiple ill-defined fibroids.  The endometrial echo complex was not visualized due to the contents of replacement of the uterus with fibroids.  The right ovary measures 3.9 x 1.9 x 2.3 cm.  The left ovary is not seen.  No complex cystic adnexal masses are identified.,IMPRESSION:  ,Essential replacement of the uterus by fibroids.  It is difficult to measure given their heterogenous and diffuse nature.  MRI of the pelvis could be performed for further evaluation to evaluate for possible uterine fibroid embolization.",
+    "cleaned_text": "EXAM: , Ultrasound of pelvis.,HISTORY:, Menorrhagia.,FINDINGS: , Uterus is enlarged measuring 11.0 x 7.5 x 11.0 cm. It appears to be completely replaced by multiple ill-defined fibroids. The endometrial echo complex was not visualized due to the contents of replacement of the uterus with fibroids. The right ovary measures 3.9 x 1.9 x 2.3 cm. The left ovary is not seen. No complex cystic adnexal masses are identified.,IMPRESSION: ,Essential replacement of the uterus by fibroids. It is difficult to measure given their heterogenous and diffuse nature. MRI of the pelvis could be performed for further evaluation to evaluate for possible uterine fibroid embolization.",
+    "sentences": [
+      "EXAM: , Ultrasound of pelvis.,HISTORY:, Menorrhagia.,FINDINGS: , Uterus is enlarged measuring 11.0 x 7.5 x 11.0 cm.",
+      "It appears to be completely replaced by multiple ill-defined fibroids.",
+      "The endometrial echo complex was not visualized due to the contents of replacement of the uterus with fibroids.",
+      "The right ovary measures 3.9 x 1.9 x 2.3 cm.",
+      "The left ovary is not seen.",
+      "No complex cystic adnexal masses are identified.,IMPRESSION: ,Essential replacement of the uterus by fibroids.",
+      "It is difficult to measure given their heterogenous and diffuse nature.",
+      "MRI of the pelvis could be performed for further evaluation to evaluate for possible uterine fibroid embolization."
+    ],
+    "sentence_count": 8
+  }
+}

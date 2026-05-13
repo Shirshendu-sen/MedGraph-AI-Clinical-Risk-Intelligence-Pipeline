@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1506__stress_test_bruce_protocol_.txt",
+    "file_name": "mtsamples_1506__stress_test_bruce_protocol_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 909,
+    "processed_at": "2026-05-09T09:53:43.557269"
+  },
+  "entities": [
+    {
+      "text": "Shortness of breath",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 43,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Chest pain",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Arrhythmia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Arrhythmia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "None.,CONCLUSION:,1",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 31,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "None.,CONCLUSION:,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

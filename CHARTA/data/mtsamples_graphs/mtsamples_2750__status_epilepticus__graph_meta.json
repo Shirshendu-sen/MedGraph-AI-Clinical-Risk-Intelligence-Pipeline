@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_2750__status_epilepticus_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 64,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0876196": 1,
+    "C0723778": 2,
+    "C0024002": 3,
+    "C0244656": 4,
+    "C0876060": 5,
+    "C0876224": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2750__status_epilepticus__graph.pt",
+  "source_dataset": "mtsamples_2750__status_epilepticus"
+}

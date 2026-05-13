@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2953__ultrasound___kidney_.txt",
+    "file_name": "mtsamples_2953__ultrasound___kidney_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1180,
+    "processed_at": "2026-05-09T09:54:11.260740"
+  },
+  "entities": [
+    {
+      "text": "pelvic calcifications",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 39,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic calcifications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calcifications",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 37,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcifications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydronephrosis",
+      "label": "DISEASE",
+      "start_char": 156,
+      "end_char": 170,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydronephrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydronephrosis",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 104,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydronephrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

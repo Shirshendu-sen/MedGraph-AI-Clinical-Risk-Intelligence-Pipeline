@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2400__ophthalmology___letter___4_.txt",
+    "file_name": "mtsamples_2400__ophthalmology___letter___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1152,
+    "processed_at": "2026-05-09T09:54:01.130449"
+  },
+  "entities": [
+    {
+      "text": "DOB",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 21,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DOB",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetic retinopathy",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 68,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic retinopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "visual complaints",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 101,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "visual complaints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "time.,On",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 118,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "time.,On",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetic retinopathy",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 54,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic retinopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

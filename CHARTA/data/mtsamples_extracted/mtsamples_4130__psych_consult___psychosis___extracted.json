@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4130__psych_consult___psychosis__.txt",
+    "file_name": "mtsamples_4130__psych_consult___psychosis__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1808,
+    "processed_at": "2026-05-09T09:54:33.934339"
+  },
+  "entities": [
+    {
+      "text": "PTSD",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 107,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PTSD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 119,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "glucose",
+      "label": "CHEMICAL",
+      "start_char": 204,
+      "end_char": 211,
+      "sentence_idx": 4,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": null
+    },
+    {
+      "text": "THC",
+      "label": "CHEMICAL",
+      "start_char": 36,
+      "end_char": 39,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "THC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "UA",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 49,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "UA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "leukocytosis",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 35,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "leukocytosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Psychosis",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 108,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Psychosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Psychiatric",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 21,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Psychiatric",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "leukocytosis",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 46,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "leukocytosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dysuria",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 42,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 65,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

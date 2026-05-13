@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_2800__mri_brain__thalamic_infarct_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 36,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0019134": 1,
+    "C0116569": 2,
+    "C0022860": 3,
+    "C0600203": 4,
+    "C0700861": 5
+  },
+  "visit_dates": [
+    "1992-10-23"
+  ],
+  "graph_file": "mtsamples_2800__mri_brain__thalamic_infarct__graph.pt",
+  "source_dataset": "mtsamples_2800__mri_brain__thalamic_infarct"
+}

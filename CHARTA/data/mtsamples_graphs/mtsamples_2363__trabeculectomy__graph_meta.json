@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_2363__trabeculectomy_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 43,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0002475": 1,
+    "C0722226": 2,
+    "C0031923": 3,
+    "C0023660": 4,
+    "C0004259": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2363__trabeculectomy__graph.pt",
+  "source_dataset": "mtsamples_2363__trabeculectomy"
+}

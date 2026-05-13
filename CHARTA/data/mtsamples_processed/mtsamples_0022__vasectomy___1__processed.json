@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0022__vasectomy___1_.txt",
+    "file_name": "mtsamples_0022__vasectomy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 896,
+    "processed_at": "2026-05-09T09:53:03.696560"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0022__vasectomy___1_.txt",
+    "text": "DESCRIPTION:,  The patient was placed in the supine position and was prepped and draped in the usual manner.  The left vas was grasped in between the fingers.  The skin and vas were anesthetized with local anesthesia.  The vas was grasped with an Allis clamp.  Skin was incised and the vas deferens was regrasped with another Allis clamp.  The sheath was incised with a scalpel and elevated using the iris scissors and clamps were used to ligate the vas deferens.  The portion in between the clamps was excised and the ends of the vas were clamped using hemoclips, two in the testicular side and one on the proximal side.  The incision was then inspected for hemostasis and closed with 3-0 chromic catgut interrupted fashion.,A similar procedure was carried out on the right side.  Dry sterile dressings were applied and the patient put on a scrotal supporter.  The procedure was then terminated.",
+    "char_count": 896,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "DESCRIPTION:, The patient was placed in the supine position and was prepped and draped in the usual manner. The left vas was grasped in between the fingers. The skin and vas were anesthetized with local anesthesia. The vas was grasped with an Allis clamp. Skin was incised and the vas deferens was regrasped with another Allis clamp. The sheath was incised with a scalpel and elevated using the iris scissors and clamps were used to ligate the vas deferens. The portion in between the clamps was excised and the ends of the vas were clamped using hemoclips, two in the testicular side and one on the proximal side. The incision was then inspected for hemostasis and closed with 3-0 chromic catgut interrupted fashion.,A similar procedure was carried out on the right side. Dry sterile dressings were applied and the patient put on a scrotal supporter. The procedure was then terminated.",
+    "sentences": [
+      "DESCRIPTION:, The patient was placed in the supine position and was prepped and draped in the usual manner.",
+      "The left vas was grasped in between the fingers.",
+      "The skin and vas were anesthetized with local anesthesia.",
+      "The vas was grasped with an Allis clamp.",
+      "Skin was incised and the vas deferens was regrasped with another Allis clamp.",
+      "The sheath was incised with a scalpel and elevated using the iris scissors and clamps were used to ligate the vas deferens.",
+      "The portion in between the clamps was excised and the ends of the vas were clamped using hemoclips, two in the testicular side and one on the proximal side.",
+      "The incision was then inspected for hemostasis and closed with 3-0 chromic catgut interrupted fashion.,A similar procedure was carried out on the right side.",
+      "Dry sterile dressings were applied and the patient put on a scrotal supporter.",
+      "The procedure was then terminated."
+    ],
+    "sentence_count": 10,
+    "original_length": 896,
+    "cleaned_length": 886,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "DESCRIPTION:,  The patient was placed in the supine position and was prepped and draped in the usual manner.  The left vas was grasped in between the fingers.  The skin and vas were anesthetized with local anesthesia.  The vas was grasped with an Allis clamp.  Skin was incised and the vas deferens was regrasped with another Allis clamp.  The sheath was incised with a scalpel and elevated using the iris scissors and clamps were used to ligate the vas deferens.  The portion in between the clamps was excised and the ends of the vas were clamped using hemoclips, two in the testicular side and one on the proximal side.  The incision was then inspected for hemostasis and closed with 3-0 chromic catgut interrupted fashion.,A similar procedure was carried out on the right side.  Dry sterile dressings were applied and the patient put on a scrotal supporter.  The procedure was then terminated.",
+    "cleaned_text": "DESCRIPTION:, The patient was placed in the supine position and was prepped and draped in the usual manner. The left vas was grasped in between the fingers. The skin and vas were anesthetized with local anesthesia. The vas was grasped with an Allis clamp. Skin was incised and the vas deferens was regrasped with another Allis clamp. The sheath was incised with a scalpel and elevated using the iris scissors and clamps were used to ligate the vas deferens. The portion in between the clamps was excised and the ends of the vas were clamped using hemoclips, two in the testicular side and one on the proximal side. The incision was then inspected for hemostasis and closed with 3-0 chromic catgut interrupted fashion.,A similar procedure was carried out on the right side. Dry sterile dressings were applied and the patient put on a scrotal supporter. The procedure was then terminated.",
+    "sentences": [
+      "DESCRIPTION:, The patient was placed in the supine position and was prepped and draped in the usual manner.",
+      "The left vas was grasped in between the fingers.",
+      "The skin and vas were anesthetized with local anesthesia.",
+      "The vas was grasped with an Allis clamp.",
+      "Skin was incised and the vas deferens was regrasped with another Allis clamp.",
+      "The sheath was incised with a scalpel and elevated using the iris scissors and clamps were used to ligate the vas deferens.",
+      "The portion in between the clamps was excised and the ends of the vas were clamped using hemoclips, two in the testicular side and one on the proximal side.",
+      "The incision was then inspected for hemostasis and closed with 3-0 chromic catgut interrupted fashion.,A similar procedure was carried out on the right side.",
+      "Dry sterile dressings were applied and the patient put on a scrotal supporter.",
+      "The procedure was then terminated."
+    ],
+    "sentence_count": 10
+  }
+}

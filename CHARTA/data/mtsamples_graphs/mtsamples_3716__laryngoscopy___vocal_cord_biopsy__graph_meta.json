@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_3716__laryngoscopy___vocal_cord_biopsy_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 31,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0740057": 1,
+    "C0699458": 2,
+    "C0699142": 3,
+    "C0009214": 4,
+    "C0002645": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3716__laryngoscopy___vocal_cord_biopsy__graph.pt",
+  "source_dataset": "mtsamples_3716__laryngoscopy___vocal_cord_biopsy"
+}

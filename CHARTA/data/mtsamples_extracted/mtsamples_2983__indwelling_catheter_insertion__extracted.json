@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2983__indwelling_catheter_insertion_.txt",
+    "file_name": "mtsamples_2983__indwelling_catheter_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2419,
+    "processed_at": "2026-05-09T09:54:12.022380"
+  },
+  "entities": [
+    {
+      "text": "bacteremia",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 43,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bacteremia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "elevated fever",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 63,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "elevated fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 82,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "Levophed",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 39,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Levophed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "hypotension",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 55,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypotension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 22,
+      "sentence_idx": 10,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": "2003-08-30"
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 92,
+      "sentence_idx": 10,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": "2003-08-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/30/2003",
+      "start_char": 348,
+      "end_char": 358
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1570__mri_cervical_spine___1_.txt",
+    "file_name": "mtsamples_1570__mri_cervical_spine___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2412,
+    "processed_at": "2026-05-09T09:53:44.808414"
+  },
+  "entities": [
+    {
+      "text": "Normal anterior atlantoaxial",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 28,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Normal anterior atlantoaxial",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 95,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "arthrosis",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 128,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 99,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "arthrosis",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 138,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "CSF cleft",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 121,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CSF cleft",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 159,
+      "end_char": 167,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "cord edema",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 204,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cord edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "mild loss of disc space height and posterior endplate",
+      "label": "DISEASE",
+      "start_char": 139,
+      "end_char": 192,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mild loss of disc space height and posterior endplate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 193,
+      "end_char": 204,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "CSF cleft",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 108,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CSF cleft",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "degenerative disc disease",
+      "label": "DISEASE",
+      "start_char": 296,
+      "end_char": 321,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "degenerative disc disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 372,
+      "end_char": 380,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 477,
+      "end_char": 485,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "degenerative disc disease",
+      "label": "DISEASE",
+      "start_char": 580,
+      "end_char": 605,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "degenerative disc disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 619,
+      "end_char": 630,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    },
+    {
+      "text": "impingement",
+      "label": "DISEASE",
+      "start_char": 708,
+      "end_char": 719,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-11-28"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "11/28/2005",
+      "start_char": 124,
+      "end_char": 134
+    }
+  ]
+}

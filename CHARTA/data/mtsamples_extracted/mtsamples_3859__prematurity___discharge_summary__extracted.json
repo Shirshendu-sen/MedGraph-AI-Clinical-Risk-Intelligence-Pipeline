@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3859__prematurity___discharge_summary_.txt",
+    "file_name": "mtsamples_3859__prematurity___discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2781,
+    "processed_at": "2026-05-09T09:54:28.346300"
+  },
+  "entities": [
+    {
+      "text": "Prematurity",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prematurity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "EDC",
+      "label": "CHEMICAL",
+      "start_char": 133,
+      "end_char": 136,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EDC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "betamethasone",
+      "label": "CHEMICAL",
+      "start_char": 70,
+      "end_char": 83,
+      "sentence_idx": 8,
+      "concept_id": "C0005308",
+      "concept_name": "betamethasone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9714540243148804,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "penicillin",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 41,
+      "sentence_idx": 9,
+      "concept_id": "C0030827",
+      "concept_name": "penicillin G",
+      "kb_source": "rxnorm",
+      "link_score": 0.8628798127174377,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 89,
+      "end_char": 95,
+      "sentence_idx": 10,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 20,
+      "end_char": 26,
+      "sentence_idx": 13,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "ampicillin",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 36,
+      "sentence_idx": 14,
+      "concept_id": "C0002680",
+      "concept_name": "ampicillin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9677386283874512,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "gentamicin",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 51,
+      "sentence_idx": 14,
+      "concept_id": "C3854019",
+      "concept_name": "gentamicin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9848167896270752,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "jaundice",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 120,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "jaundice",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "bilirubin",
+      "label": "CHEMICAL",
+      "start_char": 137,
+      "end_char": 146,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bilirubin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "bilirubin",
+      "label": "CHEMICAL",
+      "start_char": 69,
+      "end_char": 78,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bilirubin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "breast milk",
+      "label": "DISEASE",
+      "start_char": 271,
+      "end_char": 282,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breast milk",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "Head is normocephalic",
+      "label": "DISEASE",
+      "start_char": 514,
+      "end_char": 535,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Head is normocephalic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-09-29"
+    },
+    {
+      "text": "conjunctival",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 29,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "conjunctival",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 15,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-11-19"
+    },
+    {
+      "text": "breast milk",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 50,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breast milk",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2003-11-19"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "November 19, 2003",
+      "start_char": 415,
+      "end_char": 432
+    },
+    {
+      "raw_text": "September 29, 2003",
+      "start_char": 480,
+      "end_char": 498
+    },
+    {
+      "raw_text": "October 15, 2003",
+      "start_char": 1335,
+      "end_char": 1351
+    },
+    {
+      "raw_text": "October 20, 2003",
+      "start_char": 2585,
+      "end_char": 2601
+    }
+  ]
+}

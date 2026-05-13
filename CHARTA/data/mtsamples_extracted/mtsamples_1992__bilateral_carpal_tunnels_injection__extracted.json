@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1992__bilateral_carpal_tunnels_injection_.txt",
+    "file_name": "mtsamples_1992__bilateral_carpal_tunnels_injection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 210,
+    "processed_at": "2026-05-09T09:53:54.341457"
+  },
+  "entities": [
+    {
+      "text": "redness",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 84,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "redness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 94,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 96,
+      "end_char": 108,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

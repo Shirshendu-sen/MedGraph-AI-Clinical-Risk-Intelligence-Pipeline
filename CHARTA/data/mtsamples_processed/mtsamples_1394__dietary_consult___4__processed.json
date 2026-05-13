@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1394__dietary_consult___4_.txt",
+    "file_name": "mtsamples_1394__dietary_consult___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1037,
+    "processed_at": "2026-05-09T09:53:40.600139"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1394__dietary_consult___4_.txt",
+    "text": "SUBJECTIVE:,  The patient is keeping a food journal that she brought in.  She is counting calorie points, which ranged 26 to 30 per day.  She is exercising pretty regularly.  She attends Overeaters Anonymous and her sponsor is helping her and told her to get some ideas on how to plan snacks to prevent hypoglycemia.  The patient requests information on diabetic exchanges.  She said she is feeling better since she has lost weight.,OBJECTIVE:,Vital Signs:  The patient's weight today is 209 pounds, which is down 22 pounds since I last saw her on 06/07/2004.  I praised her weight loss and her regular exercising.  I looked at her food journal.  I praised her record keeping.  I gave her a list of the diabetic exchanges and explained them.  I also gave her a food dairy sheet so that she could record exchanges.  I encouraged her to continue.,ASSESSMENT:,  The patient seems happy with her progress and she seems to be doing well.  She needs to continue.,PLAN:,  Followup is on a p.r.n. basis.  She is always welcome to call or return.",
+    "char_count": 1037,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "SUBJECTIVE:, The patient is keeping a food journal that she brought in. She is counting calorie points, which ranged 26 to 30 per day. She is exercising pretty regularly. She attends Overeaters Anonymous and her sponsor is helping her and told her to get some ideas on how to plan snacks to prevent hypoglycemia. The patient requests information on diabetic exchanges. She said she is feeling better since she has lost weight.,OBJECTIVE:,Vital Signs: The patient's weight today is 209 pounds, which is down 22 pounds since I last saw her on 06/07/2004. I praised her weight loss and her regular exercising. I looked at her food journal. I praised her record keeping. I gave her a list of the diabetic exchanges and explained them. I also gave her a food dairy sheet so that she could record exchanges. I encouraged her to continue.,ASSESSMENT:, The patient seems happy with her progress and she seems to be doing well. She needs to continue.,PLAN:, Followup is on a p.r.n. basis. She is always welcome to call or return.",
+    "sentences": [
+      "SUBJECTIVE:, The patient is keeping a food journal that she brought in.",
+      "She is counting calorie points, which ranged 26 to 30 per day.",
+      "She is exercising pretty regularly.",
+      "She attends Overeaters Anonymous and her sponsor is helping her and told her to get some ideas on how to plan snacks to prevent hypoglycemia.",
+      "The patient requests information on diabetic exchanges.",
+      "She said she is feeling better since she has lost weight.,OBJECTIVE:,Vital Signs: The patient's weight today is 209 pounds, which is down 22 pounds since I last saw her on 06/07/2004.",
+      "I praised her weight loss and her regular exercising.",
+      "I looked at her food journal.",
+      "I praised her record keeping.",
+      "I gave her a list of the diabetic exchanges and explained them.",
+      "I also gave her a food dairy sheet so that she could record exchanges.",
+      "I encouraged her to continue.,ASSESSMENT:, The patient seems happy with her progress and she seems to be doing well.",
+      "She needs to continue.,PLAN:, Followup is on a p.r.n. basis.",
+      "She is always welcome to call or return."
+    ],
+    "sentence_count": 14,
+    "original_length": 1037,
+    "cleaned_length": 1020,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "SUBJECTIVE:,  The patient is keeping a food journal that she brought in.  She is counting calorie points, which ranged 26 to 30 per day.  She is exercising pretty regularly.  She attends Overeaters Anonymous and her sponsor is helping her and told her to get some ideas on how to plan snacks to prevent hypoglycemia.  The patient requests information on diabetic exchanges.  She said she is feeling better since she has lost weight.,OBJECTIVE:,Vital Signs:  The patient's weight today is 209 pounds, which is down 22 pounds since I last saw her on 06/07/2004.  I praised her weight loss and her regular exercising.  I looked at her food journal.  I praised her record keeping.  I gave her a list of the diabetic exchanges and explained them.  I also gave her a food dairy sheet so that she could record exchanges.  I encouraged her to continue.,ASSESSMENT:,  The patient seems happy with her progress and she seems to be doing well.  She needs to continue.,PLAN:,  Followup is on a p.r.n. basis.  She is always welcome to call or return.",
+    "cleaned_text": "SUBJECTIVE:, The patient is keeping a food journal that she brought in. She is counting calorie points, which ranged 26 to 30 per day. She is exercising pretty regularly. She attends Overeaters Anonymous and her sponsor is helping her and told her to get some ideas on how to plan snacks to prevent hypoglycemia. The patient requests information on diabetic exchanges. She said she is feeling better since she has lost weight.,OBJECTIVE:,Vital Signs: The patient's weight today is 209 pounds, which is down 22 pounds since I last saw her on 06/07/2004. I praised her weight loss and her regular exercising. I looked at her food journal. I praised her record keeping. I gave her a list of the diabetic exchanges and explained them. I also gave her a food dairy sheet so that she could record exchanges. I encouraged her to continue.,ASSESSMENT:, The patient seems happy with her progress and she seems to be doing well. She needs to continue.,PLAN:, Followup is on a p.r.n. basis. She is always welcome to call or return.",
+    "sentences": [
+      "SUBJECTIVE:, The patient is keeping a food journal that she brought in.",
+      "She is counting calorie points, which ranged 26 to 30 per day.",
+      "She is exercising pretty regularly.",
+      "She attends Overeaters Anonymous and her sponsor is helping her and told her to get some ideas on how to plan snacks to prevent hypoglycemia.",
+      "The patient requests information on diabetic exchanges.",
+      "She said she is feeling better since she has lost weight.,OBJECTIVE:,Vital Signs: The patient's weight today is 209 pounds, which is down 22 pounds since I last saw her on 06/07/2004.",
+      "I praised her weight loss and her regular exercising.",
+      "I looked at her food journal.",
+      "I praised her record keeping.",
+      "I gave her a list of the diabetic exchanges and explained them.",
+      "I also gave her a food dairy sheet so that she could record exchanges.",
+      "I encouraged her to continue.,ASSESSMENT:, The patient seems happy with her progress and she seems to be doing well.",
+      "She needs to continue.,PLAN:, Followup is on a p.r.n. basis.",
+      "She is always welcome to call or return."
+    ],
+    "sentence_count": 14
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1075__cardiac_catheterization___8_.txt",
+    "file_name": "mtsamples_1075__cardiac_catheterization___8_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3153,
+    "processed_at": "2026-05-09T09:53:33.323433"
+  },
+  "entities": [
+    {
+      "text": "femoral artery access.,2",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 30,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "femoral artery access.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 113,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "shortness of breath",
+      "label": "DISEASE",
+      "start_char": 202,
+      "end_char": 221,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 71,
+      "end_char": 80,
+      "sentence_idx": 8,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 119,
+      "end_char": 126,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 60,
+      "end_char": 67,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "re-stenosis",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 93,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "re-stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 146,
+      "end_char": 158,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypercholesterolemia",
+      "label": "DISEASE",
+      "start_char": 163,
+      "end_char": 183,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypercholesterolemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

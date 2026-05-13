@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4929__aortic_valve_replacement_.txt",
+    "file_name": "mtsamples_4929__aortic_valve_replacement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3801,
+    "processed_at": "2026-05-09T09:54:47.682999"
+  },
+  "entities": [
+    {
+      "text": "Aortic valve stenosis",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 34,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Aortic valve stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 63,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "congestive heart failure",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 104,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congestive heart failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 24,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "congestive heart failure",
+      "label": "DISEASE",
+      "start_char": 415,
+      "end_char": 439,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "congestive heart failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 477,
+      "end_char": 485,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenotic aortic valve",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 62,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenotic aortic valve",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 64,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronically occluded right coronary artery",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 123,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronically occluded right coronary artery",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 109,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obesity",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 118,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obesity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Protamine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 28,
+      "concept_id": "C0033603",
+      "concept_name": "protamines",
+      "kb_source": "rxnorm",
+      "link_score": 0.961919367313385,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

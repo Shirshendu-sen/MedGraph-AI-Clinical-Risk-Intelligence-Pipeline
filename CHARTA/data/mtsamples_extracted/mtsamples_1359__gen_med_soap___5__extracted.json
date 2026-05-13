@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1359__gen_med_soap___5_.txt",
+    "file_name": "mtsamples_1359__gen_med_soap___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1696,
+    "processed_at": "2026-05-09T09:53:39.838583"
+  },
+  "entities": [
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 39,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 48,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "sore throat",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 39,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sore throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "strep throat",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 76,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "strep throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "rashes",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 25,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rashes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "nausea,",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 34,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea,",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 53,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "constipation",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 71,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "constipation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "ADHD",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 30,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ADHD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "Adderall",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 12,
+      "concept_id": "C0290795",
+      "concept_name": "Adderall",
+      "kb_source": "rxnorm",
+      "link_score": 0.9406176209449768,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "Zoloft",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 19,
+      "sentence_idx": 12,
+      "concept_id": "C0284660",
+      "concept_name": "Zoloft",
+      "kb_source": "rxnorm",
+      "link_score": 0.9763978123664856,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "anger",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 39,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anger",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "anger outbursts",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 39,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anger outbursts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "NAD",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NAD",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 36,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "postnasal",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 79,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "postnasal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "muscle weakness",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 18,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "muscle weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "ideations",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 39,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ideations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    },
+    {
+      "text": "hallucinations",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 17,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hallucinations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2026-04-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10 days ago",
+      "start_char": 144,
+      "end_char": 155
+    }
+  ]
+}

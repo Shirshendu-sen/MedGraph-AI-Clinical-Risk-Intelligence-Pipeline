@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4564__permanent___stationary_report_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 75,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0085934": 2,
+    "C0700017": 3
+  },
+  "visit_dates": [
+    "2005-03-21"
+  ],
+  "graph_file": "mtsamples_4564__permanent___stationary_report__graph.pt",
+  "source_dataset": "mtsamples_4564__permanent___stationary_report"
+}

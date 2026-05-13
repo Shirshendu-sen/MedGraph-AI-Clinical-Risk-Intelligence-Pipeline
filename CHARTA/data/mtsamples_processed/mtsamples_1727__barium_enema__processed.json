@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1727__barium_enema_.txt",
+    "file_name": "mtsamples_1727__barium_enema_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1037,
+    "processed_at": "2026-05-09T09:53:49.118191"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1727__barium_enema_.txt",
+    "text": "EXAM: , Barium enema.,CLINICAL HISTORY: , A 4-year-old male with a history of encopresis and constipation.,TECHNIQUE:  ,A single frontal scout radiograph of the abdomen was performed.  A rectal tube was inserted in usual sterile fashion, and retrograde instillation of barium contrast was followed via spot fluoroscopic images.  A post-evacuation overhead radiograph of the abdomen was performed.,FINDINGS:,  The scout radiograph demonstrates a nonobstructive gastrointestinal pattern.  There are no suspicious calcifications seen or evidence of gross free intraperitoneal air.  The visualized lung bases and osseous structures are within normal limits.,The rectum and colon is of normal caliber throughout its course.  There is no evidence of obstruction, as contrast is seen to flow without difficulty into the right colon and cecum.  A small amount of contrast is seen to opacify small bowel loops on the post-evacuation image.  There is also opacification of a normal-appearing appendix documented.,IMPRESSION: , Normal barium enema.",
+    "char_count": 1037,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , Barium enema.,CLINICAL HISTORY: , A 4-year-old male with a history of encopresis and constipation.,TECHNIQUE: ,A single frontal scout radiograph of the abdomen was performed. A rectal tube was inserted in usual sterile fashion, and retrograde instillation of barium contrast was followed via spot fluoroscopic images. A post-evacuation overhead radiograph of the abdomen was performed.,FINDINGS:, The scout radiograph demonstrates a nonobstructive gastrointestinal pattern. There are no suspicious calcifications seen or evidence of gross free intraperitoneal air. The visualized lung bases and osseous structures are within normal limits.,The rectum and colon is of normal caliber throughout its course. There is no evidence of obstruction, as contrast is seen to flow without difficulty into the right colon and cecum. A small amount of contrast is seen to opacify small bowel loops on the post-evacuation image. There is also opacification of a normal-appearing appendix documented.,IMPRESSION: , Normal barium enema.",
+    "sentences": [
+      "EXAM: , Barium enema.,CLINICAL HISTORY: , A 4-year-old male with a history of encopresis and constipation.,TECHNIQUE: ,A single frontal scout radiograph of the abdomen was performed.",
+      "A rectal tube was inserted in usual sterile fashion, and retrograde instillation of barium contrast was followed via spot fluoroscopic images.",
+      "A post-evacuation overhead radiograph of the abdomen was performed.,FINDINGS:, The scout radiograph demonstrates a nonobstructive gastrointestinal pattern.",
+      "There are no suspicious calcifications seen or evidence of gross free intraperitoneal air.",
+      "The visualized lung bases and osseous structures are within normal limits.,The rectum and colon is of normal caliber throughout its course.",
+      "There is no evidence of obstruction, as contrast is seen to flow without difficulty into the right colon and cecum.",
+      "A small amount of contrast is seen to opacify small bowel loops on the post-evacuation image.",
+      "There is also opacification of a normal-appearing appendix documented.,IMPRESSION: , Normal barium enema."
+    ],
+    "sentence_count": 8,
+    "original_length": 1037,
+    "cleaned_length": 1028,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , Barium enema.,CLINICAL HISTORY: , A 4-year-old male with a history of encopresis and constipation.,TECHNIQUE:  ,A single frontal scout radiograph of the abdomen was performed.  A rectal tube was inserted in usual sterile fashion, and retrograde instillation of barium contrast was followed via spot fluoroscopic images.  A post-evacuation overhead radiograph of the abdomen was performed.,FINDINGS:,  The scout radiograph demonstrates a nonobstructive gastrointestinal pattern.  There are no suspicious calcifications seen or evidence of gross free intraperitoneal air.  The visualized lung bases and osseous structures are within normal limits.,The rectum and colon is of normal caliber throughout its course.  There is no evidence of obstruction, as contrast is seen to flow without difficulty into the right colon and cecum.  A small amount of contrast is seen to opacify small bowel loops on the post-evacuation image.  There is also opacification of a normal-appearing appendix documented.,IMPRESSION: , Normal barium enema.",
+    "cleaned_text": "EXAM: , Barium enema.,CLINICAL HISTORY: , A 4-year-old male with a history of encopresis and constipation.,TECHNIQUE: ,A single frontal scout radiograph of the abdomen was performed. A rectal tube was inserted in usual sterile fashion, and retrograde instillation of barium contrast was followed via spot fluoroscopic images. A post-evacuation overhead radiograph of the abdomen was performed.,FINDINGS:, The scout radiograph demonstrates a nonobstructive gastrointestinal pattern. There are no suspicious calcifications seen or evidence of gross free intraperitoneal air. The visualized lung bases and osseous structures are within normal limits.,The rectum and colon is of normal caliber throughout its course. There is no evidence of obstruction, as contrast is seen to flow without difficulty into the right colon and cecum. A small amount of contrast is seen to opacify small bowel loops on the post-evacuation image. There is also opacification of a normal-appearing appendix documented.,IMPRESSION: , Normal barium enema.",
+    "sentences": [
+      "EXAM: , Barium enema.,CLINICAL HISTORY: , A 4-year-old male with a history of encopresis and constipation.,TECHNIQUE: ,A single frontal scout radiograph of the abdomen was performed.",
+      "A rectal tube was inserted in usual sterile fashion, and retrograde instillation of barium contrast was followed via spot fluoroscopic images.",
+      "A post-evacuation overhead radiograph of the abdomen was performed.,FINDINGS:, The scout radiograph demonstrates a nonobstructive gastrointestinal pattern.",
+      "There are no suspicious calcifications seen or evidence of gross free intraperitoneal air.",
+      "The visualized lung bases and osseous structures are within normal limits.,The rectum and colon is of normal caliber throughout its course.",
+      "There is no evidence of obstruction, as contrast is seen to flow without difficulty into the right colon and cecum.",
+      "A small amount of contrast is seen to opacify small bowel loops on the post-evacuation image.",
+      "There is also opacification of a normal-appearing appendix documented.,IMPRESSION: , Normal barium enema."
+    ],
+    "sentence_count": 8
+  }
+}

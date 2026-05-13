@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1484__ultrasound___lower_extremity___1_.txt",
+    "file_name": "mtsamples_1484__ultrasound___lower_extremity___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 539,
+    "processed_at": "2026-05-09T09:53:43.093481"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1484__ultrasound___lower_extremity___1_.txt",
+    "text": "EXAM:  ,Ultrasound left lower extremity, duplex venous,REASON FOR EXAM: , Swelling and rule out DVT.,FINDINGS: , Duplex and color Doppler interrogation of the left lower extremity deep venous system was performed. Compressibility, augmentation, and color flow as well as Doppler flow was demonstrated within the common femoral vein, superficial femoral vein, and popliteal vein. The posterior tibial vein also demonstrated flow along its proximal visualized extent.,IMPRESSION: , No evidence of left lower extremity deep venous thrombosis.",
+    "char_count": 539,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: ,Ultrasound left lower extremity, duplex venous,REASON FOR EXAM: , Swelling and rule out DVT.,FINDINGS: , Duplex and color Doppler interrogation of the left lower extremity deep venous system was performed. Compressibility, augmentation, and color flow as well as Doppler flow was demonstrated within the common femoral vein, superficial femoral vein, and popliteal vein. The posterior tibial vein also demonstrated flow along its proximal visualized extent.,IMPRESSION: , No evidence of left lower extremity deep venous thrombosis.",
+    "sentences": [
+      "EXAM: ,Ultrasound left lower extremity, duplex venous,REASON FOR EXAM: , Swelling and rule out DVT.,FINDINGS: , Duplex and color Doppler interrogation of the left lower extremity deep venous system was performed.",
+      "Compressibility, augmentation, and color flow as well as Doppler flow was demonstrated within the common femoral vein, superficial femoral vein, and popliteal vein.",
+      "The posterior tibial vein also demonstrated flow along its proximal visualized extent.,IMPRESSION: , No evidence of left lower extremity deep venous thrombosis."
+    ],
+    "sentence_count": 3,
+    "original_length": 539,
+    "cleaned_length": 538,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM:  ,Ultrasound left lower extremity, duplex venous,REASON FOR EXAM: , Swelling and rule out DVT.,FINDINGS: , Duplex and color Doppler interrogation of the left lower extremity deep venous system was performed. Compressibility, augmentation, and color flow as well as Doppler flow was demonstrated within the common femoral vein, superficial femoral vein, and popliteal vein. The posterior tibial vein also demonstrated flow along its proximal visualized extent.,IMPRESSION: , No evidence of left lower extremity deep venous thrombosis.",
+    "cleaned_text": "EXAM: ,Ultrasound left lower extremity, duplex venous,REASON FOR EXAM: , Swelling and rule out DVT.,FINDINGS: , Duplex and color Doppler interrogation of the left lower extremity deep venous system was performed. Compressibility, augmentation, and color flow as well as Doppler flow was demonstrated within the common femoral vein, superficial femoral vein, and popliteal vein. The posterior tibial vein also demonstrated flow along its proximal visualized extent.,IMPRESSION: , No evidence of left lower extremity deep venous thrombosis.",
+    "sentences": [
+      "EXAM: ,Ultrasound left lower extremity, duplex venous,REASON FOR EXAM: , Swelling and rule out DVT.,FINDINGS: , Duplex and color Doppler interrogation of the left lower extremity deep venous system was performed.",
+      "Compressibility, augmentation, and color flow as well as Doppler flow was demonstrated within the common femoral vein, superficial femoral vein, and popliteal vein.",
+      "The posterior tibial vein also demonstrated flow along its proximal visualized extent.,IMPRESSION: , No evidence of left lower extremity deep venous thrombosis."
+    ],
+    "sentence_count": 3
+  }
+}

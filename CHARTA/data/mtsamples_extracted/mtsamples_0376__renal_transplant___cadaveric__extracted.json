@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0376__renal_transplant___cadaveric_.txt",
+    "file_name": "mtsamples_0376__renal_transplant___cadaveric_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 7661,
+    "processed_at": "2026-05-09T09:53:14.320945"
+  },
+  "entities": [
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 136,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-22"
+    },
+    {
+      "text": "endstage renal disease",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 163,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endstage renal disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-22"
+    },
+    {
+      "text": "endstage renal disease",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 216,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endstage renal disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-22"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "June 22, 2007",
+      "start_char": 243,
+      "end_char": 256
+    }
+  ]
+}

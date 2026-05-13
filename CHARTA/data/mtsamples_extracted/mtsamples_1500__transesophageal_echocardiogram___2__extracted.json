@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1500__transesophageal_echocardiogram___2_.txt",
+    "file_name": "mtsamples_1500__transesophageal_echocardiogram___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1398,
+    "processed_at": "2026-05-09T09:53:43.422365"
+  },
+  "entities": [
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 42,
+      "sentence_idx": 2,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "atrial appendage",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 21,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial appendage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "smoke",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 56,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "smoke",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mitral regurgitation",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 45,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Aorta",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Aorta",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "endocarditis",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 65,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "endocarditis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aortic insufficiency",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 84,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic insufficiency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

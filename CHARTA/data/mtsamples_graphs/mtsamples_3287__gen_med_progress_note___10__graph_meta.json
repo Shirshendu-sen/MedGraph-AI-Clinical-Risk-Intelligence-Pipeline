@@ -1,0 +1,24 @@
+{
+  "patient_id": "mtsamples_3287__gen_med_progress_note___10_",
+  "num_entities": 11,
+  "num_visits": 1,
+  "num_edges": 82,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008377": 1,
+    "C0017725": 2,
+    "C0025270": 3,
+    "C0042874": 4,
+    "C0006675": 5,
+    "C0004057": 6,
+    "C0728957": 7,
+    "C0719199": 8,
+    "C0591139": 9,
+    "C0376569": 10
+  },
+  "visit_dates": [
+    "2003-11-26"
+  ],
+  "graph_file": "mtsamples_3287__gen_med_progress_note___10__graph.pt",
+  "source_dataset": "mtsamples_3287__gen_med_progress_note___10"
+}

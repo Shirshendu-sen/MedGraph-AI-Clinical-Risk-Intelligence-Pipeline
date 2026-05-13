@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1547__mri_of_brain_w_o_contrast__.txt",
+    "file_name": "mtsamples_1547__mri_of_brain_w_o_contrast__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 785,
+    "processed_at": "2026-05-09T09:53:44.251859"
+  },
+  "entities": [
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 69,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 60,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

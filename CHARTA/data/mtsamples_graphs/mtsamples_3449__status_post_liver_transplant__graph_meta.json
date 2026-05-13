@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_3449__status_post_liver_transplant_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 21,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0085149": 1,
+    "C0909381": 2
+  },
+  "visit_dates": [
+    "2007-12-30"
+  ],
+  "graph_file": "mtsamples_3449__status_post_liver_transplant__graph.pt",
+  "source_dataset": "mtsamples_3449__status_post_liver_transplant"
+}

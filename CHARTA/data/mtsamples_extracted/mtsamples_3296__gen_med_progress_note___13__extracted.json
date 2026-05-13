@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3296__gen_med_progress_note___13_.txt",
+    "file_name": "mtsamples_3296__gen_med_progress_note___13_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1414,
+    "processed_at": "2026-05-09T09:54:17.757502"
+  },
+  "entities": [
+    {
+      "text": "auscultation.,CARDIOVASCULAR",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 134,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "auscultation.,CARDIOVASCULAR",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "murmurs",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "murmurs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "creatinine",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 29,
+      "sentence_idx": 7,
+      "concept_id": "C0010294",
+      "concept_name": "creatinine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9711365103721619,
+      "timestamp": null
+    },
+    {
+      "text": "Sepsis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Sepsis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "urinary tract infection",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 37,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary tract infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Levaquin",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 59,
+      "sentence_idx": 9,
+      "concept_id": "C0721336",
+      "concept_name": "Levaquin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9604581594467163,
+      "timestamp": null
+    },
+    {
+      "text": "Urinary tract infection",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 23,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Urinary tract infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "doripenem",
+      "label": "CHEMICAL",
+      "start_char": 44,
+      "end_char": 53,
+      "sentence_idx": 11,
+      "concept_id": "C0389169",
+      "concept_name": "doripenem",
+      "kb_source": "rxnorm",
+      "link_score": 0.9746332168579102,
+      "timestamp": null
+    },
+    {
+      "text": "Hypotension",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hypotension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cardiomyopathy",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 23,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardiomyopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "decompensation",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 29,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "decompensation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Diabetes",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Recent pulmonary embolism",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 25,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Recent pulmonary embolism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Coumadin",
+      "label": "CHEMICAL",
+      "start_char": 59,
+      "end_char": 67,
+      "sentence_idx": 19,
+      "concept_id": "C0699129",
+      "concept_name": "Coumadin",
+      "kb_source": "rxnorm",
+      "link_score": 0.947939395904541,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 34,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

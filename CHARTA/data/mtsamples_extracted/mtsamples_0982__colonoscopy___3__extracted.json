@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0982__colonoscopy___3_.txt",
+    "file_name": "mtsamples_0982__colonoscopy___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1572,
+    "processed_at": "2026-05-09T09:53:30.629161"
+  },
+  "entities": [
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 208,
+      "end_char": 216,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ill",
+      "label": "DISEASE",
+      "start_char": 261,
+      "end_char": 264,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ill",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Demerol",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 46,
+      "sentence_idx": 1,
+      "concept_id": "C0935966",
+      "concept_name": "Demerol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9676215052604675,
+      "timestamp": null
+    },
+    {
+      "text": "Demerol",
+      "label": "CHEMICAL",
+      "start_char": 68,
+      "end_char": 75,
+      "sentence_idx": 1,
+      "concept_id": "C0935966",
+      "concept_name": "Demerol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9676215052604675,
+      "timestamp": null
+    },
+    {
+      "text": "nausea reaction",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 102,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea reaction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Phenergan",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 37,
+      "sentence_idx": 2,
+      "concept_id": "C0591971",
+      "concept_name": "Phenergan",
+      "kb_source": "rxnorm",
+      "link_score": 0.9641264081001282,
+      "timestamp": null
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 28,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nausea",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 39,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 46,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "colon, hepatic flexure, transverse colon, splenic flexure",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 78,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colon, hepatic flexure, transverse colon, splenic flexure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyps",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 40,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyps",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 17,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2164__laminectomy___foraminotomy_revision_.txt",
+    "file_name": "mtsamples_2164__laminectomy___foraminotomy_revision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 7461,
+    "processed_at": "2026-05-09T09:53:57.648656"
+  },
+  "entities": [
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 25,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Spondylolisthesis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 17,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Spondylolisthesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 25,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Spondylolisthesis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 17,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Spondylolisthesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arthrodesis",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 38,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthrodesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "low back pain",
+      "label": "DISEASE",
+      "start_char": 365,
+      "end_char": 378,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "low back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neurogenic claudication",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 44,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neurogenic claudication",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "loosened",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 106,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loosened",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "unstable spondylolisthesis",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 129,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "unstable spondylolisthesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "titanium",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 38,
+      "concept_id": "C0040302",
+      "concept_name": "titanium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9754260182380676,
+      "timestamp": null
+    },
+    {
+      "text": "spondylolisthesis",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 68,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylolisthesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbon",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 49,
+      "sentence_idx": 51,
+      "concept_id": "C3715099",
+      "concept_name": "carbonate ion",
+      "kb_source": "rxnorm",
+      "link_score": 0.715225338935852,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 113,
+      "sentence_idx": 59,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "titanium",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 20,
+      "sentence_idx": 62,
+      "concept_id": "C0040302",
+      "concept_name": "titanium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9754260182380676,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

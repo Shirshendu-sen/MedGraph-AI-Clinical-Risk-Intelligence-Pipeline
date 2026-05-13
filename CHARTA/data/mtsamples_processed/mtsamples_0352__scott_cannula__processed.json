@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0352__scott_cannula_.txt",
+    "file_name": "mtsamples_0352__scott_cannula_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 689,
+    "processed_at": "2026-05-09T09:53:13.829778"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0352__scott_cannula_.txt",
+    "text": "PROCEDURE:, Placement of Scott cannula, right lateral ventricle.,DESCRIPTION OF THE OPERATION:, The right side of the head was shaved and the area was then prepped using Betadine prep. Following an injection with Xylocaine with epinephrine, a small 1.5 cm linear incision was made paralleling the midline, lateral to the midline, at the region of the coronal suture. A twist drill was made with the hand drill through the dura. A Scott cannula was placed on the first pass into the right lateral ventricle with egress initially of bloody and the clear CSF. The Scott cannula was secured to the skin using 3-0 silk sutures. This will be connected to external drainage set at 10 cm of water.",
+    "char_count": 689,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE:, Placement of Scott cannula, right lateral ventricle.,DESCRIPTION OF THE OPERATION:, The right side of the head was shaved and the area was then prepped using Betadine prep. Following an injection with Xylocaine with epinephrine, a small 1.5 cm linear incision was made paralleling the midline, lateral to the midline, at the region of the coronal suture. A twist drill was made with the hand drill through the dura. A Scott cannula was placed on the first pass into the right lateral ventricle with egress initially of bloody and the clear CSF. The Scott cannula was secured to the skin using 3-0 silk sutures. This will be connected to external drainage set at 10 cm of water.",
+    "sentences": [
+      "PROCEDURE:, Placement of Scott cannula, right lateral ventricle.,DESCRIPTION OF THE OPERATION:, The right side of the head was shaved and the area was then prepped using Betadine prep.",
+      "Following an injection with Xylocaine with epinephrine, a small 1.5 cm linear incision was made paralleling the midline, lateral to the midline, at the region of the coronal suture.",
+      "A twist drill was made with the hand drill through the dura.",
+      "A Scott cannula was placed on the first pass into the right lateral ventricle with egress initially of bloody and the clear CSF.",
+      "The Scott cannula was secured to the skin using 3-0 silk sutures.",
+      "This will be connected to external drainage set at 10 cm of water."
+    ],
+    "sentence_count": 6,
+    "original_length": 689,
+    "cleaned_length": 689,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE:, Placement of Scott cannula, right lateral ventricle.,DESCRIPTION OF THE OPERATION:, The right side of the head was shaved and the area was then prepped using Betadine prep. Following an injection with Xylocaine with epinephrine, a small 1.5 cm linear incision was made paralleling the midline, lateral to the midline, at the region of the coronal suture. A twist drill was made with the hand drill through the dura. A Scott cannula was placed on the first pass into the right lateral ventricle with egress initially of bloody and the clear CSF. The Scott cannula was secured to the skin using 3-0 silk sutures. This will be connected to external drainage set at 10 cm of water.",
+    "cleaned_text": "PROCEDURE:, Placement of Scott cannula, right lateral ventricle.,DESCRIPTION OF THE OPERATION:, The right side of the head was shaved and the area was then prepped using Betadine prep. Following an injection with Xylocaine with epinephrine, a small 1.5 cm linear incision was made paralleling the midline, lateral to the midline, at the region of the coronal suture. A twist drill was made with the hand drill through the dura. A Scott cannula was placed on the first pass into the right lateral ventricle with egress initially of bloody and the clear CSF. The Scott cannula was secured to the skin using 3-0 silk sutures. This will be connected to external drainage set at 10 cm of water.",
+    "sentences": [
+      "PROCEDURE:, Placement of Scott cannula, right lateral ventricle.,DESCRIPTION OF THE OPERATION:, The right side of the head was shaved and the area was then prepped using Betadine prep.",
+      "Following an injection with Xylocaine with epinephrine, a small 1.5 cm linear incision was made paralleling the midline, lateral to the midline, at the region of the coronal suture.",
+      "A twist drill was made with the hand drill through the dura.",
+      "A Scott cannula was placed on the first pass into the right lateral ventricle with egress initially of bloody and the clear CSF.",
+      "The Scott cannula was secured to the skin using 3-0 silk sutures.",
+      "This will be connected to external drainage set at 10 cm of water."
+    ],
+    "sentence_count": 6
+  }
+}

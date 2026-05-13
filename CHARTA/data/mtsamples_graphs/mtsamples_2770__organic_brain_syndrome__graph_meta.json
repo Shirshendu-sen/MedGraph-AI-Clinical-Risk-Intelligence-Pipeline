@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_2770__organic_brain_syndrome_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 31,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0001963": 1,
+    "C0030054": 2,
+    "C0004057": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2770__organic_brain_syndrome__graph.pt",
+  "source_dataset": "mtsamples_2770__organic_brain_syndrome"
+}

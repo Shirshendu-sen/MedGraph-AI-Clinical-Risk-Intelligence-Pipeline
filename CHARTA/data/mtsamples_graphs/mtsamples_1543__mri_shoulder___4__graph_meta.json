@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1543__mri_shoulder___4_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 19,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    "2005-09-01"
+  ],
+  "graph_file": "mtsamples_1543__mri_shoulder___4__graph.pt",
+  "source_dataset": "mtsamples_1543__mri_shoulder___4"
+}

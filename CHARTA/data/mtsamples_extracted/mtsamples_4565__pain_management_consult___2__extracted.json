@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4565__pain_management_consult___2_.txt",
+    "file_name": "mtsamples_4565__pain_management_consult___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1010,
+    "processed_at": "2026-05-09T09:54:41.457852"
+  },
+  "entities": [
+    {
+      "text": "Pain",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 4,
+      "sentence_idx": 3,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-02-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 30,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-02-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 24,
+      "sentence_idx": 5,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-02-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-02-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-02-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-02-10"
+    },
+    {
+      "text": "myofascial",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 67,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myofascial",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-02-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 32,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2000-02-10"
+    },
+    {
+      "text": "depressed mood",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 54,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depressed mood",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-02-10"
+    },
+    {
+      "text": "insomnia",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 120,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "insomnia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-02-10"
+    },
+    {
+      "text": "fatigue",
+      "label": "DISEASE",
+      "start_char": 148,
+      "end_char": 155,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fatigue",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2000-02-10"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "2/10/2000",
+      "start_char": 59,
+      "end_char": 68
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2487__ultrasound_ob___7_.txt",
+    "file_name": "mtsamples_2487__ultrasound_ob___7_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 404,
+    "processed_at": "2026-05-09T09:54:03.203928"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2487__ultrasound_ob___7_.txt",
+    "text": "GENERAL EVALUATION:,Fetal Cardiac Activity: Normal at 150BPM.  Fetal Lie: Longitudinal.  Fetal Presentation: Cephalic.  Placenta: Anterior Grade I.  Uterus: Normal.  Cervix: Closed.  Adnexa: Not seen.  Amniotic Fluid: Normal.,BIOMETRY:,BPD: 8.4 cm consistent with 33 weeks, 6 days gestation,HC: 29.8 cm consistent with 33 weeks, 0 days gestation,AC: 29.7 cm consistent with 33 weeks, 5 days gestation,FL:",
+    "char_count": 404,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "GENERAL EVALUATION:,Fetal Cardiac Activity: Normal at 150BPM. Fetal Lie: Longitudinal. Fetal Presentation: Cephalic. Placenta: Anterior Grade I. Uterus: Normal. Cervix: Closed. Adnexa: Not seen. Amniotic Fluid: Normal.,BIOMETRY:,BPD: 8.4 cm consistent with 33 weeks, 6 days gestation,HC: 29.8 cm consistent with 33 weeks, 0 days gestation,AC: 29.7 cm consistent with 33 weeks, 5 days gestation,FL:",
+    "sentences": [
+      "GENERAL EVALUATION:,Fetal Cardiac Activity: Normal at 150BPM.",
+      "Fetal Lie: Longitudinal.",
+      "Fetal Presentation: Cephalic.",
+      "Placenta: Anterior Grade I.",
+      "Uterus: Normal.",
+      "Cervix: Closed.",
+      "Adnexa: Not seen.",
+      "Amniotic Fluid: Normal.,BIOMETRY:,BPD: 8.4 cm consistent with 33 weeks, 6 days gestation,HC: 29.8 cm consistent with 33 weeks, 0 days gestation,AC: 29.7 cm consistent with 33 weeks, 5 days gestation,FL:"
+    ],
+    "sentence_count": 8,
+    "original_length": 404,
+    "cleaned_length": 397,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "GENERAL EVALUATION:,Fetal Cardiac Activity: Normal at 150BPM.  Fetal Lie: Longitudinal.  Fetal Presentation: Cephalic.  Placenta: Anterior Grade I.  Uterus: Normal.  Cervix: Closed.  Adnexa: Not seen.  Amniotic Fluid: Normal.,BIOMETRY:,BPD: 8.4 cm consistent with 33 weeks, 6 days gestation,HC: 29.8 cm consistent with 33 weeks, 0 days gestation,AC: 29.7 cm consistent with 33 weeks, 5 days gestation,FL:",
+    "cleaned_text": "GENERAL EVALUATION:,Fetal Cardiac Activity: Normal at 150BPM. Fetal Lie: Longitudinal. Fetal Presentation: Cephalic. Placenta: Anterior Grade I. Uterus: Normal. Cervix: Closed. Adnexa: Not seen. Amniotic Fluid: Normal.,BIOMETRY:,BPD: 8.4 cm consistent with 33 weeks, 6 days gestation,HC: 29.8 cm consistent with 33 weeks, 0 days gestation,AC: 29.7 cm consistent with 33 weeks, 5 days gestation,FL:",
+    "sentences": [
+      "GENERAL EVALUATION:,Fetal Cardiac Activity: Normal at 150BPM.",
+      "Fetal Lie: Longitudinal.",
+      "Fetal Presentation: Cephalic.",
+      "Placenta: Anterior Grade I.",
+      "Uterus: Normal.",
+      "Cervix: Closed.",
+      "Adnexa: Not seen.",
+      "Amniotic Fluid: Normal.,BIOMETRY:,BPD: 8.4 cm consistent with 33 weeks, 6 days gestation,HC: 29.8 cm consistent with 33 weeks, 0 days gestation,AC: 29.7 cm consistent with 33 weeks, 5 days gestation,FL:"
+    ],
+    "sentence_count": 8
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_3381__discharge_summary___migraine_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 64,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0302583": 1,
+    "C0483514": 2,
+    "C0719199": 3,
+    "C0591971": 4,
+    "C1170019": 5,
+    "C0040610": 6,
+    "C0034665": 7,
+    "C0026549": 8,
+    "C0012291": 9
+  },
+  "visit_dates": [
+    "2008-07-31"
+  ],
+  "graph_file": "mtsamples_3381__discharge_summary___migraine__graph.pt",
+  "source_dataset": "mtsamples_3381__discharge_summary___migraine"
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1596__lower_extremity_venous_doppler_.txt",
+    "file_name": "mtsamples_1596__lower_extremity_venous_doppler_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 515,
+    "processed_at": "2026-05-09T09:53:45.701437"
+  },
+  "entities": [
+    {
+      "text": "lower extremity venous thrombosis",
+      "label": "DISEASE",
+      "start_char": 201,
+      "end_char": 234,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower extremity venous thrombosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1568__mri_elbow___1_.txt",
+    "file_name": "mtsamples_1568__mri_elbow___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2014,
+    "processed_at": "2026-05-09T09:53:44.724209"
+  },
+  "entities": [
+    {
+      "text": "tendinitis",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 36,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 114,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion of the radiocapitellar articulation",
+      "label": "DISEASE",
+      "start_char": 154,
+      "end_char": 198,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion of the radiocapitellar articulation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 37,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "loose",
+      "label": "CHEMICAL",
+      "start_char": 78,
+      "end_char": 83,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loose",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 119,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 91,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epicondylitis",
+      "label": "DISEASE",
+      "start_char": 178,
+      "end_char": 191,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epicondylitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tendinitis",
+      "label": "DISEASE",
+      "start_char": 204,
+      "end_char": 214,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 334,
+      "end_char": 346,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion of the radiocapitellar articulation",
+      "label": "DISEASE",
+      "start_char": 460,
+      "end_char": 504,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion of the radiocapitellar articulation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "peritendinous inflammation",
+      "label": "DISEASE",
+      "start_char": 570,
+      "end_char": 596,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peritendinous inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 732,
+      "end_char": 744,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

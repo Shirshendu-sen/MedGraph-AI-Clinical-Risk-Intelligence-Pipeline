@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1989__cervical_epidural_steroid_injection___1_.txt",
+    "file_name": "mtsamples_1989__cervical_epidural_steroid_injection___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1140,
+    "processed_at": "2026-05-09T09:53:54.316030"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1989__cervical_epidural_steroid_injection___1_.txt",
+    "text": "OPERATION PERFORMED: , Cervical epidural steroid injection C7-T1.,ANESTHESIA:,  Local and Versed 2 mg IV.,COMPLICATIONS:  ,None.,DESCRIPTION OF PROCEDURE:  ,The patient was placed in the seated position with the neck flexed the forehead was placed on a cervical rest.  The head and cervical spine were restrained.  The patient was monitored with a blood pressure cuff, EKG and pulse oximetry.  The skin was prepped and draped in sterile classical fashion.  Excess cleansing solution was removed from the skin.  Local anesthesia was injected at C7-T1.  An 18-gauge Tuohy needle was then placed in the epidural space with loss of resistance technique and a saline-filled syringe utilizing a midline intralaminar approach.,Once the epidural space was identified, a negative aspiration for heme or CSF was done.  This was followed by the injection of 6 cc of saline mixed with methyl prednisolone acetate 120 mg in aliquots of 2 cc.  Negative aspirations were done prior to each injection.  The needle was cleared with saline prior to its withdrawal.  The patient tolerated the procedure well without any apparent difficulties or complications.",
+    "char_count": 1140,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "OPERATION PERFORMED: , Cervical epidural steroid injection C7-T1.,ANESTHESIA:, Local and Versed 2 mg IV.,COMPLICATIONS: ,None.,DESCRIPTION OF PROCEDURE: ,The patient was placed in the seated position with the neck flexed the forehead was placed on a cervical rest. The head and cervical spine were restrained. The patient was monitored with a blood pressure cuff, EKG and pulse oximetry. The skin was prepped and draped in sterile classical fashion. Excess cleansing solution was removed from the skin. Local anesthesia was injected at C7-T1. An 18-gauge Tuohy needle was then placed in the epidural space with loss of resistance technique and a saline-filled syringe utilizing a midline intralaminar approach.,Once the epidural space was identified, a negative aspiration for heme or CSF was done. This was followed by the injection of 6 cc of saline mixed with methyl prednisolone acetate 120 mg in aliquots of 2 cc. Negative aspirations were done prior to each injection. The needle was cleared with saline prior to its withdrawal. The patient tolerated the procedure well without any apparent difficulties or complications.",
+    "sentences": [
+      "OPERATION PERFORMED: , Cervical epidural steroid injection C7-T1.,ANESTHESIA:, Local and Versed 2 mg IV.,COMPLICATIONS: ,None.,DESCRIPTION OF PROCEDURE: ,The patient was placed in the seated position with the neck flexed the forehead was placed on a cervical rest.",
+      "The head and cervical spine were restrained.",
+      "The patient was monitored with a blood pressure cuff, EKG and pulse oximetry.",
+      "The skin was prepped and draped in sterile classical fashion.",
+      "Excess cleansing solution was removed from the skin.",
+      "Local anesthesia was injected at C7-T1.",
+      "An 18-gauge Tuohy needle was then placed in the epidural space with loss of resistance technique and a saline-filled syringe utilizing a midline intralaminar approach.,Once the epidural space was identified, a negative aspiration for heme or CSF was done.",
+      "This was followed by the injection of 6 cc of saline mixed with methyl prednisolone acetate 120 mg in aliquots of 2 cc.",
+      "Negative aspirations were done prior to each injection.",
+      "The needle was cleared with saline prior to its withdrawal.",
+      "The patient tolerated the procedure well without any apparent difficulties or complications."
+    ],
+    "sentence_count": 11,
+    "original_length": 1140,
+    "cleaned_length": 1127,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "OPERATION PERFORMED: , Cervical epidural steroid injection C7-T1.,ANESTHESIA:,  Local and Versed 2 mg IV.,COMPLICATIONS:  ,None.,DESCRIPTION OF PROCEDURE:  ,The patient was placed in the seated position with the neck flexed the forehead was placed on a cervical rest.  The head and cervical spine were restrained.  The patient was monitored with a blood pressure cuff, EKG and pulse oximetry.  The skin was prepped and draped in sterile classical fashion.  Excess cleansing solution was removed from the skin.  Local anesthesia was injected at C7-T1.  An 18-gauge Tuohy needle was then placed in the epidural space with loss of resistance technique and a saline-filled syringe utilizing a midline intralaminar approach.,Once the epidural space was identified, a negative aspiration for heme or CSF was done.  This was followed by the injection of 6 cc of saline mixed with methyl prednisolone acetate 120 mg in aliquots of 2 cc.  Negative aspirations were done prior to each injection.  The needle was cleared with saline prior to its withdrawal.  The patient tolerated the procedure well without any apparent difficulties or complications.",
+    "cleaned_text": "OPERATION PERFORMED: , Cervical epidural steroid injection C7-T1.,ANESTHESIA:, Local and Versed 2 mg IV.,COMPLICATIONS: ,None.,DESCRIPTION OF PROCEDURE: ,The patient was placed in the seated position with the neck flexed the forehead was placed on a cervical rest. The head and cervical spine were restrained. The patient was monitored with a blood pressure cuff, EKG and pulse oximetry. The skin was prepped and draped in sterile classical fashion. Excess cleansing solution was removed from the skin. Local anesthesia was injected at C7-T1. An 18-gauge Tuohy needle was then placed in the epidural space with loss of resistance technique and a saline-filled syringe utilizing a midline intralaminar approach.,Once the epidural space was identified, a negative aspiration for heme or CSF was done. This was followed by the injection of 6 cc of saline mixed with methyl prednisolone acetate 120 mg in aliquots of 2 cc. Negative aspirations were done prior to each injection. The needle was cleared with saline prior to its withdrawal. The patient tolerated the procedure well without any apparent difficulties or complications.",
+    "sentences": [
+      "OPERATION PERFORMED: , Cervical epidural steroid injection C7-T1.,ANESTHESIA:, Local and Versed 2 mg IV.,COMPLICATIONS: ,None.,DESCRIPTION OF PROCEDURE: ,The patient was placed in the seated position with the neck flexed the forehead was placed on a cervical rest.",
+      "The head and cervical spine were restrained.",
+      "The patient was monitored with a blood pressure cuff, EKG and pulse oximetry.",
+      "The skin was prepped and draped in sterile classical fashion.",
+      "Excess cleansing solution was removed from the skin.",
+      "Local anesthesia was injected at C7-T1.",
+      "An 18-gauge Tuohy needle was then placed in the epidural space with loss of resistance technique and a saline-filled syringe utilizing a midline intralaminar approach.,Once the epidural space was identified, a negative aspiration for heme or CSF was done.",
+      "This was followed by the injection of 6 cc of saline mixed with methyl prednisolone acetate 120 mg in aliquots of 2 cc.",
+      "Negative aspirations were done prior to each injection.",
+      "The needle was cleared with saline prior to its withdrawal.",
+      "The patient tolerated the procedure well without any apparent difficulties or complications."
+    ],
+    "sentence_count": 11
+  }
+}

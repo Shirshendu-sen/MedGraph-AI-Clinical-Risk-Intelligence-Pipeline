@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1608__intensity_modulated_radiation_therapy_simulation_.txt",
+    "file_name": "mtsamples_1608__intensity_modulated_radiation_therapy_simulation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1162,
+    "processed_at": "2026-05-09T09:53:46.191052"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1608__intensity_modulated_radiation_therapy_simulation_.txt",
+    "text": "INTENSITY-MODULATED RADIATION THERAPY SIMULATION,The patient will receive intensity-modulated radiation therapy in order to deliver high-dose treatment to sensitive structures.  The target volume is adjacent to significant radiosensitive structures.,Initially, the preliminary isocenter is set on a fluoroscopically-based simulation unit.  The patient is appropriately immobilized using a customized immobilization device.  Preliminary simulation films are obtained and approved by me.  The patient is marked and transferred to the CT scanner.  Sequential images are obtained and transferred electronically to the treatment planning software.  Extensive analysis then occurs.  The target volume, including margins for uncertainty, patient movement and occult tumor extension are selected.  In addition organs at risk are outlined.  Appropriate doses are selected, both for the target, as well as constraints for organs at risk.  Inverse treatment planning is performed by the physics staff under my supervision.  These are reviewed by the physician and ultimately performed only following approval by the physician and completion of successful quality assurance.",
+    "char_count": 1162,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "INTENSITY-MODULATED RADIATION THERAPY SIMULATION,The patient will receive intensity-modulated radiation therapy in order to deliver high-dose treatment to sensitive structures. The target volume is adjacent to significant radiosensitive structures.,Initially, the preliminary isocenter is set on a fluoroscopically-based simulation unit. The patient is appropriately immobilized using a customized immobilization device. Preliminary simulation films are obtained and approved by me. The patient is marked and transferred to the CT scanner. Sequential images are obtained and transferred electronically to the treatment planning software. Extensive analysis then occurs. The target volume, including margins for uncertainty, patient movement and occult tumor extension are selected. In addition organs at risk are outlined. Appropriate doses are selected, both for the target, as well as constraints for organs at risk. Inverse treatment planning is performed by the physics staff under my supervision. These are reviewed by the physician and ultimately performed only following approval by the physician and completion of successful quality assurance.",
+    "sentences": [
+      "INTENSITY-MODULATED RADIATION THERAPY SIMULATION,The patient will receive intensity-modulated radiation therapy in order to deliver high-dose treatment to sensitive structures.",
+      "The target volume is adjacent to significant radiosensitive structures.,Initially, the preliminary isocenter is set on a fluoroscopically-based simulation unit.",
+      "The patient is appropriately immobilized using a customized immobilization device.",
+      "Preliminary simulation films are obtained and approved by me.",
+      "The patient is marked and transferred to the CT scanner.",
+      "Sequential images are obtained and transferred electronically to the treatment planning software.",
+      "Extensive analysis then occurs.",
+      "The target volume, including margins for uncertainty, patient movement and occult tumor extension are selected.",
+      "In addition organs at risk are outlined.",
+      "Appropriate doses are selected, both for the target, as well as constraints for organs at risk.",
+      "Inverse treatment planning is performed by the physics staff under my supervision.",
+      "These are reviewed by the physician and ultimately performed only following approval by the physician and completion of successful quality assurance."
+    ],
+    "sentence_count": 12,
+    "original_length": 1162,
+    "cleaned_length": 1151,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "INTENSITY-MODULATED RADIATION THERAPY SIMULATION,The patient will receive intensity-modulated radiation therapy in order to deliver high-dose treatment to sensitive structures.  The target volume is adjacent to significant radiosensitive structures.,Initially, the preliminary isocenter is set on a fluoroscopically-based simulation unit.  The patient is appropriately immobilized using a customized immobilization device.  Preliminary simulation films are obtained and approved by me.  The patient is marked and transferred to the CT scanner.  Sequential images are obtained and transferred electronically to the treatment planning software.  Extensive analysis then occurs.  The target volume, including margins for uncertainty, patient movement and occult tumor extension are selected.  In addition organs at risk are outlined.  Appropriate doses are selected, both for the target, as well as constraints for organs at risk.  Inverse treatment planning is performed by the physics staff under my supervision.  These are reviewed by the physician and ultimately performed only following approval by the physician and completion of successful quality assurance.",
+    "cleaned_text": "INTENSITY-MODULATED RADIATION THERAPY SIMULATION,The patient will receive intensity-modulated radiation therapy in order to deliver high-dose treatment to sensitive structures. The target volume is adjacent to significant radiosensitive structures.,Initially, the preliminary isocenter is set on a fluoroscopically-based simulation unit. The patient is appropriately immobilized using a customized immobilization device. Preliminary simulation films are obtained and approved by me. The patient is marked and transferred to the CT scanner. Sequential images are obtained and transferred electronically to the treatment planning software. Extensive analysis then occurs. The target volume, including margins for uncertainty, patient movement and occult tumor extension are selected. In addition organs at risk are outlined. Appropriate doses are selected, both for the target, as well as constraints for organs at risk. Inverse treatment planning is performed by the physics staff under my supervision. These are reviewed by the physician and ultimately performed only following approval by the physician and completion of successful quality assurance.",
+    "sentences": [
+      "INTENSITY-MODULATED RADIATION THERAPY SIMULATION,The patient will receive intensity-modulated radiation therapy in order to deliver high-dose treatment to sensitive structures.",
+      "The target volume is adjacent to significant radiosensitive structures.,Initially, the preliminary isocenter is set on a fluoroscopically-based simulation unit.",
+      "The patient is appropriately immobilized using a customized immobilization device.",
+      "Preliminary simulation films are obtained and approved by me.",
+      "The patient is marked and transferred to the CT scanner.",
+      "Sequential images are obtained and transferred electronically to the treatment planning software.",
+      "Extensive analysis then occurs.",
+      "The target volume, including margins for uncertainty, patient movement and occult tumor extension are selected.",
+      "In addition organs at risk are outlined.",
+      "Appropriate doses are selected, both for the target, as well as constraints for organs at risk.",
+      "Inverse treatment planning is performed by the physics staff under my supervision.",
+      "These are reviewed by the physician and ultimately performed only following approval by the physician and completion of successful quality assurance."
+    ],
+    "sentence_count": 12
+  }
+}

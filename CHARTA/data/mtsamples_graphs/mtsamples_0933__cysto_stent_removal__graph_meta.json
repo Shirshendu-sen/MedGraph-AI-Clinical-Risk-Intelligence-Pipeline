@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_0933__cysto_stent_removal_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 42,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0042313": 1,
+    "C0721336": 2,
+    "C0030827": 3,
+    "C0701042": 4,
+    "C0030346": 5
+  },
+  "visit_dates": [
+    "2026-03-10"
+  ],
+  "graph_file": "mtsamples_0933__cysto_stent_removal__graph.pt",
+  "source_dataset": "mtsamples_0933__cysto_stent_removal"
+}

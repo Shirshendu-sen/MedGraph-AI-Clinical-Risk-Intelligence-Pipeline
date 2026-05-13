@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2603__delivery_note___3_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 7,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0733348": 1
+  },
+  "visit_dates": [
+    "2008-12-23"
+  ],
+  "graph_file": "mtsamples_2603__delivery_note___3__graph.pt",
+  "source_dataset": "mtsamples_2603__delivery_note___3"
+}

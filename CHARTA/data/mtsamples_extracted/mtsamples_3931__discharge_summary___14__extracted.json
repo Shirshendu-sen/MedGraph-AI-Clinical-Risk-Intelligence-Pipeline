@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3931__discharge_summary___14_.txt",
+    "file_name": "mtsamples_3931__discharge_summary___14_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1675,
+    "processed_at": "2026-05-09T09:54:29.356620"
+  },
+  "entities": [
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 139,
+      "end_char": 147,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "nausea",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 155,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "diverticulosis",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 37,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticulosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "gastritis",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 89,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gastritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 72,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 92,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "Potassium",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 9,
+      "concept_id": "C0032821",
+      "concept_name": "potassium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9840192198753357,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "barium enema",
+      "label": "CHEMICAL",
+      "start_char": 84,
+      "end_char": 96,
+      "sentence_idx": 10,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.7171887755393982,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "barium enema",
+      "label": "CHEMICAL",
+      "start_char": 60,
+      "end_char": 72,
+      "sentence_idx": 11,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.7171887755393982,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "barium",
+      "label": "CHEMICAL",
+      "start_char": 117,
+      "end_char": 123,
+      "sentence_idx": 12,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9710781574249268,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "enemas",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 24,
+      "sentence_idx": 13,
+      "concept_id": "C0993595",
+      "concept_name": "Enema",
+      "kb_source": "rxnorm",
+      "link_score": 0.7111952304840088,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "nausea,",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 26,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea,",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 35,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "neck pain",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 46,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neck pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "Nausea",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 110,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nausea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 129,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-15"
+    },
+    {
+      "text": "Migraine",
+      "label": "DISEASE",
+      "start_char": 175,
+      "end_char": 183,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Migraine",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-15"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/15/2007",
+      "start_char": 821,
+      "end_char": 831
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_4390__foreign_body___right_nose_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C1704405": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4390__foreign_body___right_nose__graph.pt",
+  "source_dataset": "mtsamples_4390__foreign_body___right_nose"
+}

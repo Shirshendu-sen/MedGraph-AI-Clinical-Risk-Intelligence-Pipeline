@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4473__consult___back___leg_pain_.txt",
+    "file_name": "mtsamples_4473__consult___back___leg_pain_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1727,
+    "processed_at": "2026-05-09T09:54:39.187991"
+  },
+  "entities": [
+    {
+      "text": "axial back pain",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 19,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "axial back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "axial back pain",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 101,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "axial back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "anxiety",
+      "label": "DISEASE",
+      "start_char": 185,
+      "end_char": 192,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anxiety",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "Lipitor",
+      "label": "CHEMICAL",
+      "start_char": 301,
+      "end_char": 308,
+      "sentence_idx": 1,
+      "concept_id": "C0593906",
+      "concept_name": "Lipitor",
+      "kb_source": "rxnorm",
+      "link_score": 0.9869036078453064,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "allergic",
+      "label": "DISEASE",
+      "start_char": 342,
+      "end_char": 350,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "sulfa",
+      "label": "CHEMICAL",
+      "start_char": 354,
+      "end_char": 359,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sulfa",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "ethanol",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 25,
+      "sentence_idx": 2,
+      "concept_id": "C0001962",
+      "concept_name": "ethanol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9889179468154907,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "mesothelioma",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 75,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mesothelioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "fevers",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 87,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fevers",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 100,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "loss of consciousness",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 139,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of consciousness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "convulsion",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 151,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "convulsion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 156,
+      "end_char": 165,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "facet joint syndrome",
+      "label": "DISEASE",
+      "start_char": 323,
+      "end_char": 343,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "facet joint syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "facet joints",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 23,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "facet joints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "axial back pain",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 52,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "axial back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 57,
+      "sentence_idx": 7,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "diclofenac",
+      "label": "CHEMICAL",
+      "start_char": 173,
+      "end_char": 183,
+      "sentence_idx": 11,
+      "concept_id": "C0012091",
+      "concept_name": "diclofenac",
+      "kb_source": "rxnorm",
+      "link_score": 0.9881715178489685,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 190,
+      "end_char": 193,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "text": "b.i.d",
+      "label": "CHEMICAL",
+      "start_char": 195,
+      "end_char": 200,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "b.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2025-11-10"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "6 months ago",
+      "start_char": 1131,
+      "end_char": 1143
+    }
+  ]
+}

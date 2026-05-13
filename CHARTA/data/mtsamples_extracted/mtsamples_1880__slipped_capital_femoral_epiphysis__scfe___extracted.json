@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1880__slipped_capital_femoral_epiphysis__scfe__.txt",
+    "file_name": "mtsamples_1880__slipped_capital_femoral_epiphysis__scfe__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1224,
+    "processed_at": "2026-05-09T09:53:52.312655"
+  },
+  "entities": [
+    {
+      "text": "lucency",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 18,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lucency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

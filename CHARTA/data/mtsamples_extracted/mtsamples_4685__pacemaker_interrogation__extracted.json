@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4685__pacemaker_interrogation_.txt",
+    "file_name": "mtsamples_4685__pacemaker_interrogation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1366,
+    "processed_at": "2026-05-09T09:54:43.335843"
+  },
+  "entities": [
+    {
+      "text": "nonischemic cardiomyopathy",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 96,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nonischemic cardiomyopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ohms",
+      "label": "CHEMICAL",
+      "start_char": 239,
+      "end_char": 243,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ohms",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ohms",
+      "label": "CHEMICAL",
+      "start_char": 277,
+      "end_char": 281,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ohms",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "SVT",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 72,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "SVT",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 55,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ATP",
+      "label": "CHEMICAL",
+      "start_char": 85,
+      "end_char": 88,
+      "sentence_idx": 6,
+      "concept_id": "C0001480",
+      "concept_name": "adenosine triphosphate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9732857346534729,
+      "timestamp": null
+    },
+    {
+      "text": "VF",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "VF",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_4467__consult___coronary_artery_disease_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 44,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008377": 1,
+    "C0016410": 2,
+    "C0001963": 3,
+    "C3536832": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4467__consult___coronary_artery_disease__graph.pt",
+  "source_dataset": "mtsamples_4467__consult___coronary_artery_disease"
+}

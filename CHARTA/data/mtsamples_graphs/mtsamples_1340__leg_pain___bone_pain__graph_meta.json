@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_1340__leg_pain___bone_pain_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 106,
+  "entity_index": {
+    "C0030346": 0,
+    "C0593906": 1,
+    "UNKNOWN": 2,
+    "C0700539": 3,
+    "C0004057": 4,
+    "C0939344": 5,
+    "C0728957": 6,
+    "C0014912": 7,
+    "C0017718": 8,
+    "C0701042": 9,
+    "C0591139": 10,
+    "C1098080": 11
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1340__leg_pain___bone_pain__graph.pt",
+  "source_dataset": "mtsamples_1340__leg_pain___bone_pain"
+}

@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_4831__consult___abnormal_ekg_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 52,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0008377": 1,
+    "C0001963": 2,
+    "C3536832": 3,
+    "C0010294": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4831__consult___abnormal_ekg__graph.pt",
+  "source_dataset": "mtsamples_4831__consult___abnormal_ekg"
+}

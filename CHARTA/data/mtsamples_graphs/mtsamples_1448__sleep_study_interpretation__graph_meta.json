@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1448__sleep_study_interpretation_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 19,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1
+  },
+  "visit_dates": [
+    "2006-01-24"
+  ],
+  "graph_file": "mtsamples_1448__sleep_study_interpretation__graph.pt",
+  "source_dataset": "mtsamples_1448__sleep_study_interpretation"
+}

@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1166__bicap_cautery_.txt",
+    "file_name": "mtsamples_1166__bicap_cautery_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1170,
+    "processed_at": "2026-05-09T09:53:35.956156"
+  },
+  "entities": [
+    {
+      "text": "Hematemesis",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 37,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hematemesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 77,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Mallory-Weiss tear",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 124,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Mallory-Weiss tear",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "submucosal hemorrhage",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 147,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "submucosal hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 164,
+      "end_char": 170,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 176,
+      "end_char": 184,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Demerol",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 37,
+      "sentence_idx": 1,
+      "concept_id": "C0935966",
+      "concept_name": "Demerol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9676215052604675,
+      "timestamp": null
+    },
+    {
+      "text": "Mallory-Weiss tear",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 50,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Mallory-Weiss tear",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "submucosal hemorrhage",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 70,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "submucosal hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 93,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 99,
+      "end_char": 107,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erosions",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erosions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Mallory-Weiss tear",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 96,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Mallory-Weiss tear",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

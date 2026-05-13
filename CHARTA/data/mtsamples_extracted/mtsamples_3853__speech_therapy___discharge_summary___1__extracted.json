@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3853__speech_therapy___discharge_summary___1_.txt",
+    "file_name": "mtsamples_3853__speech_therapy___discharge_summary___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3037,
+    "processed_at": "2026-05-09T09:54:28.284413"
+  },
+  "entities": [
+    {
+      "text": "aphasia",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 142,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "barium",
+      "label": "CHEMICAL",
+      "start_char": 96,
+      "end_char": 102,
+      "sentence_idx": 3,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9710781574249268,
+      "timestamp": "2008-03-26"
+    },
+    {
+      "text": "head gestures",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 124,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head gestures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-03-26"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "03/26/08",
+      "start_char": 256,
+      "end_char": 264
+    },
+    {
+      "raw_text": "12/01/08",
+      "start_char": 2256,
+      "end_char": 2264
+    }
+  ]
+}

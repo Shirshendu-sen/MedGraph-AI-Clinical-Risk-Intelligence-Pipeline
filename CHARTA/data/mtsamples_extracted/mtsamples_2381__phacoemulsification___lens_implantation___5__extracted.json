@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2381__phacoemulsification___lens_implantation___5_.txt",
+    "file_name": "mtsamples_2381__phacoemulsification___lens_implantation___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1576,
+    "processed_at": "2026-05-09T09:54:00.913112"
+  },
+  "entities": [
+    {
+      "text": "Cataract",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cataract",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 80,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "IOL",
+      "label": "CHEMICAL",
+      "start_char": 141,
+      "end_char": 144,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "IOL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "preservative-free Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 144,
+      "end_char": 171,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "preservative-free Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Healon",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 4,
+      "concept_id": "C0700889",
+      "concept_name": "Healon",
+      "kb_source": "rxnorm",
+      "link_score": 0.9655555486679077,
+      "timestamp": null
+    },
+    {
+      "text": "Pred",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 4,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pred",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Vigamox",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 19,
+      "sentence_idx": 7,
+      "concept_id": "C1330598",
+      "concept_name": "Vigamox",
+      "kb_source": "rxnorm",
+      "link_score": 0.9880033135414124,
+      "timestamp": null
+    },
+    {
+      "text": "Iopidine",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Iopidine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

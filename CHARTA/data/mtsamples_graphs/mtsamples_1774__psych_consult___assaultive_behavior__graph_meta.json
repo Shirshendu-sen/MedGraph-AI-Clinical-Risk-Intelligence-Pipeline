@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_1774__psych_consult___assaultive_behavior_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 76,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0001963": 2,
+    "C0086787": 3,
+    "C0020404": 4,
+    "C0699187": 5,
+    "C0936278": 6,
+    "C0025611": 7
+  },
+  "visit_dates": [
+    "2010-01-21"
+  ],
+  "graph_file": "mtsamples_1774__psych_consult___assaultive_behavior__graph.pt",
+  "source_dataset": "mtsamples_1774__psych_consult___assaultive_behavior"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_2193__hip_fracture___rehab_consult_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 65,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0699129": 2,
+    "C0013085": 3,
+    "C0701096": 4,
+    "C0030827": 5,
+    "C0001927": 6,
+    "C0002598": 7
+  },
+  "visit_dates": [
+    "2003-05-05"
+  ],
+  "graph_file": "mtsamples_2193__hip_fracture___rehab_consult__graph.pt",
+  "source_dataset": "mtsamples_2193__hip_fracture___rehab_consult"
+}

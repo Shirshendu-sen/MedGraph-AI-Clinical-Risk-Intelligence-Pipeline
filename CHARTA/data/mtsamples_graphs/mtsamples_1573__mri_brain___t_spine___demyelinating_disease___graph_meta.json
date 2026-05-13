@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_1573__mri_brain___t_spine___demyelinating_disease__",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 53,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0042845": 2,
+    "C0178638": 3,
+    "C0017725": 4,
+    "C0699512": 5
+  },
+  "visit_dates": [
+    "1992-10-23"
+  ],
+  "graph_file": "mtsamples_1573__mri_brain___t_spine___demyelinating_disease___graph.pt",
+  "source_dataset": "mtsamples_1573__mri_brain___t_spine___demyelinating_disease_"
+}

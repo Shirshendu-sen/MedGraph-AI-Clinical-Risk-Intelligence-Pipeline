@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4809__ct_angiography_.txt",
+    "file_name": "mtsamples_4809__ct_angiography_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 632,
+    "processed_at": "2026-05-09T09:54:44.955684"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4809__ct_angiography_.txt",
+    "text": "CT ANGIOGRAPHY CHEST WITH CONTRAST,REASON FOR EXAM: , Chest pain, shortness of breath and cough, evaluate for pulmonary arterial embolism.,TECHNIQUE:  ,Axial CT images of the chest were obtained for pulmonary embolism protocol utilizing 100 mL of Isovue-300.,FINDINGS:  ,There is no evidence for pulmonary arterial embolism.,The lungs are clear of any abnormal airspace consolidation, pleural effusion, or pneumothorax.  No abnormal mediastinal or hilar lymphadenopathy is seen.,Limited images of the upper abdomen are unremarkable.  No destructive osseous lesion is detected.,IMPRESSION: , Negative for pulmonary arterial embolism.",
+    "char_count": 632,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "CT ANGIOGRAPHY CHEST WITH CONTRAST,REASON FOR EXAM: , Chest pain, shortness of breath and cough, evaluate for pulmonary arterial embolism.,TECHNIQUE: ,Axial CT images of the chest were obtained for pulmonary embolism protocol utilizing 100 mL of Isovue-300.,FINDINGS: ,There is no evidence for pulmonary arterial embolism.,The lungs are clear of any abnormal airspace consolidation, pleural effusion, or pneumothorax. No abnormal mediastinal or hilar lymphadenopathy is seen.,Limited images of the upper abdomen are unremarkable. No destructive osseous lesion is detected.,IMPRESSION: , Negative for pulmonary arterial embolism.",
+    "sentences": [
+      "CT ANGIOGRAPHY CHEST WITH CONTRAST,REASON FOR EXAM: , Chest pain, shortness of breath and cough, evaluate for pulmonary arterial embolism.,TECHNIQUE: ,Axial CT images of the chest were obtained for pulmonary embolism protocol utilizing 100 mL of Isovue-300.,FINDINGS: ,There is no evidence for pulmonary arterial embolism.,The lungs are clear of any abnormal airspace consolidation, pleural effusion, or pneumothorax.",
+      "No abnormal mediastinal or hilar lymphadenopathy is seen.,Limited images of the upper abdomen are unremarkable.",
+      "No destructive osseous lesion is detected.,IMPRESSION: , Negative for pulmonary arterial embolism."
+    ],
+    "sentence_count": 3,
+    "original_length": 632,
+    "cleaned_length": 628,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "CT ANGIOGRAPHY CHEST WITH CONTRAST,REASON FOR EXAM: , Chest pain, shortness of breath and cough, evaluate for pulmonary arterial embolism.,TECHNIQUE:  ,Axial CT images of the chest were obtained for pulmonary embolism protocol utilizing 100 mL of Isovue-300.,FINDINGS:  ,There is no evidence for pulmonary arterial embolism.,The lungs are clear of any abnormal airspace consolidation, pleural effusion, or pneumothorax.  No abnormal mediastinal or hilar lymphadenopathy is seen.,Limited images of the upper abdomen are unremarkable.  No destructive osseous lesion is detected.,IMPRESSION: , Negative for pulmonary arterial embolism.",
+    "cleaned_text": "CT ANGIOGRAPHY CHEST WITH CONTRAST,REASON FOR EXAM: , Chest pain, shortness of breath and cough, evaluate for pulmonary arterial embolism.,TECHNIQUE: ,Axial CT images of the chest were obtained for pulmonary embolism protocol utilizing 100 mL of Isovue-300.,FINDINGS: ,There is no evidence for pulmonary arterial embolism.,The lungs are clear of any abnormal airspace consolidation, pleural effusion, or pneumothorax. No abnormal mediastinal or hilar lymphadenopathy is seen.,Limited images of the upper abdomen are unremarkable. No destructive osseous lesion is detected.,IMPRESSION: , Negative for pulmonary arterial embolism.",
+    "sentences": [
+      "CT ANGIOGRAPHY CHEST WITH CONTRAST,REASON FOR EXAM: , Chest pain, shortness of breath and cough, evaluate for pulmonary arterial embolism.,TECHNIQUE: ,Axial CT images of the chest were obtained for pulmonary embolism protocol utilizing 100 mL of Isovue-300.,FINDINGS: ,There is no evidence for pulmonary arterial embolism.,The lungs are clear of any abnormal airspace consolidation, pleural effusion, or pneumothorax.",
+      "No abnormal mediastinal or hilar lymphadenopathy is seen.,Limited images of the upper abdomen are unremarkable.",
+      "No destructive osseous lesion is detected.,IMPRESSION: , Negative for pulmonary arterial embolism."
+    ],
+    "sentence_count": 3
+  }
+}

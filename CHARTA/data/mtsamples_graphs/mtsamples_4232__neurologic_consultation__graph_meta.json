@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_4232__neurologic_consultation_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 43,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0876196": 1,
+    "C0017725": 2,
+    "C0024002": 3,
+    "C0000970": 4
+  },
+  "visit_dates": [
+    "2007-11-16"
+  ],
+  "graph_file": "mtsamples_4232__neurologic_consultation__graph.pt",
+  "source_dataset": "mtsamples_4232__neurologic_consultation"
+}

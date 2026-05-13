@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3596__colonoscopy_with_biopsy___3_.txt",
+    "file_name": "mtsamples_3596__colonoscopy_with_biopsy___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 237,
+    "processed_at": "2026-05-09T09:54:24.682510"
+  },
+  "entities": [
+    {
+      "text": "PREPROCEDURE",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PREPROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Abdominal pain",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 40,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diarrhea",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 50,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diarrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2500__tubal_ligation_.txt",
+    "file_name": "mtsamples_2500__tubal_ligation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1688,
+    "processed_at": "2026-05-09T09:54:03.347499"
+  },
+  "entities": [
+    {
+      "text": "clitoromegaly",
+      "label": "DISEASE",
+      "start_char": 247,
+      "end_char": 260,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clitoromegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

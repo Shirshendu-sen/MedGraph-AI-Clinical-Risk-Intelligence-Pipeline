@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1739__2_d_echocardiogram___4_.txt",
+    "file_name": "mtsamples_1739__2_d_echocardiogram___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 495,
+    "processed_at": "2026-05-09T09:53:49.317959"
+  },
+  "entities": [
+    {
+      "text": "pericardial effusion",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 23,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pericardial effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

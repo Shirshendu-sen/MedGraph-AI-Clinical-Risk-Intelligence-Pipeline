@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2723__anterior_cervical_discectomy___arthrodesis_.txt",
+    "file_name": "mtsamples_2723__anterior_cervical_discectomy___arthrodesis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2976,
+    "processed_at": "2026-05-09T09:54:06.552961"
+  },
+  "entities": [
+    {
+      "text": "myelopathy",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 44,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myelopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "herniations",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 85,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "myelopathy",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 152,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myelopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "herniations",
+      "label": "DISEASE",
+      "start_char": 182,
+      "end_char": 193,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "C5.,4",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 25,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "C5.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 98,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 167,
+      "end_char": 177,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 52,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 63,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neurologic deficit",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 83,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neurologic deficit",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nonunion",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 93,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nonunion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylosis",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 118,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2477__induction_of_vaginal_delivery_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 7,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0733348": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2477__induction_of_vaginal_delivery__graph.pt",
+  "source_dataset": "mtsamples_2477__induction_of_vaginal_delivery"
+}

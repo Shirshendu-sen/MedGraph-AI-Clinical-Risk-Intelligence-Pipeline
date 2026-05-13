@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3641__barium_swallow_study_evaluation_.txt",
+    "file_name": "mtsamples_3641__barium_swallow_study_evaluation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3014,
+    "processed_at": "2026-05-09T09:54:25.406780"
+  },
+  "entities": [
+    {
+      "text": "barium",
+      "label": "CHEMICAL",
+      "start_char": 92,
+      "end_char": 98,
+      "sentence_idx": 0,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9710781574249268,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 61,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "barium",
+      "label": "CHEMICAL",
+      "start_char": 87,
+      "end_char": 93,
+      "sentence_idx": 4,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9710781574249268,
+      "timestamp": null
+    },
+    {
+      "text": "barium",
+      "label": "CHEMICAL",
+      "start_char": 117,
+      "end_char": 123,
+      "sentence_idx": 7,
+      "concept_id": "C0004749",
+      "concept_name": "barium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9710781574249268,
+      "timestamp": null
+    },
+    {
+      "text": "thin",
+      "label": "CHEMICAL",
+      "start_char": 139,
+      "end_char": 143,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thin",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 51,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "presentation.,ORAL",
+      "label": "CHEMICAL",
+      "start_char": 94,
+      "end_char": 112,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "presentation.,ORAL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Epiglottic inversion",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 20,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Epiglottic inversion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "upper esophageal sphincter",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 133,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper esophageal sphincter",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticulum",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 38,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticulum",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bites",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 29,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bites",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

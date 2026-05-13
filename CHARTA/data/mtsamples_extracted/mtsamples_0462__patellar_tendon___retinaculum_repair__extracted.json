@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0462__patellar_tendon___retinaculum_repair_.txt",
+    "file_name": "mtsamples_0462__patellar_tendon___retinaculum_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2798,
+    "processed_at": "2026-05-09T09:53:16.751985"
+  },
+  "entities": [
+    {
+      "text": "right knee.,PROCEDURE",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 162,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right knee.,PROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subarachnoid block",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 38,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subarachnoid block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 170,
+      "end_char": 177,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rupture",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 36,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rupture of his medial lateral retinaculum",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 124,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rupture of his medial lateral retinaculum",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subarachnoid block",
+      "label": "DISEASE",
+      "start_char": 198,
+      "end_char": 216,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subarachnoid block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

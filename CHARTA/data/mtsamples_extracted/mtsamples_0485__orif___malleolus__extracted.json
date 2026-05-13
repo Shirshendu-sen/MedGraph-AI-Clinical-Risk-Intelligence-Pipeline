@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0485__orif___malleolus_.txt",
+    "file_name": "mtsamples_0485__orif___malleolus_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2070,
+    "processed_at": "2026-05-09T09:53:17.257147"
+  },
+  "entities": [
+    {
+      "text": "soccer injury",
+      "label": "DISEASE",
+      "start_char": 399,
+      "end_char": 412,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "soccer injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lateral malleolus fracture",
+      "label": "DISEASE",
+      "start_char": 461,
+      "end_char": 487,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lateral malleolus fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 43,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 38,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 31,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

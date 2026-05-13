@@ -1,0 +1,35 @@
+{
+  "patient_id": "mtsamples_4668__preop_cardiac_consult_",
+  "num_entities": 22,
+  "num_visits": 1,
+  "num_edges": 148,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1,
+    "C0040610": 2,
+    "C0042523": 3,
+    "C0701009": 4,
+    "C0591130": 5,
+    "C0678162": 6,
+    "C0594040": 7,
+    "C0034422": 8,
+    "C0025039": 9,
+    "C0678181": 10,
+    "C0042866": 11,
+    "C0040805": 12,
+    "C0001963": 13,
+    "C0030346": 14,
+    "C0037473": 15,
+    "C0032821": 16,
+    "C0973231": 17,
+    "C0010294": 18,
+    "C0017725": 19,
+    "C0039771": 20,
+    "C0012265": 21
+  },
+  "visit_dates": [
+    "2008-09-10"
+  ],
+  "graph_file": "mtsamples_4668__preop_cardiac_consult__graph.pt",
+  "source_dataset": "mtsamples_4668__preop_cardiac_consult"
+}

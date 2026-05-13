@@ -1,0 +1,33 @@
+{
+  "patient_id": "mtsamples_4545__arm_pain___neuro_consult_",
+  "num_entities": 20,
+  "num_visits": 1,
+  "num_edges": 253,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0699458": 2,
+    "C0001927": 3,
+    "C0875960": 4,
+    "C0718706": 5,
+    "C0719949": 6,
+    "C0004057": 7,
+    "C0593906": 8,
+    "C0024002": 9,
+    "C0594040": 10,
+    "C0678162": 11,
+    "C0034665": 12,
+    "C0595724": 13,
+    "C0663448": 14,
+    "C1170736": 15,
+    "C0162723": 16,
+    "C0678143": 17,
+    "C0002645": 18,
+    "C0678176": 19
+  },
+  "visit_dates": [
+    "2008-05-19"
+  ],
+  "graph_file": "mtsamples_4545__arm_pain___neuro_consult__graph.pt",
+  "source_dataset": "mtsamples_4545__arm_pain___neuro_consult"
+}

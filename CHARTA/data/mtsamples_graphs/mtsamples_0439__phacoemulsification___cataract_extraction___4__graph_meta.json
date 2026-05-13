@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_0439__phacoemulsification___cataract_extraction___4_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 15,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0032857": 1,
+    "C1330598": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0439__phacoemulsification___cataract_extraction___4__graph.pt",
+  "source_dataset": "mtsamples_0439__phacoemulsification___cataract_extraction___4"
+}

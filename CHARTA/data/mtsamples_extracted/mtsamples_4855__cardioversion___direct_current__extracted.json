@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4855__cardioversion___direct_current_.txt",
+    "file_name": "mtsamples_4855__cardioversion___direct_current_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1118,
+    "processed_at": "2026-05-09T09:54:46.432446"
+  },
+  "entities": [
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 195,
+      "end_char": 201,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial appendage thrombus",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 98,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial appendage thrombus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thrombus",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 110,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lovenox",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 47,
+      "sentence_idx": 4,
+      "concept_id": "C0728963",
+      "concept_name": "Lovenox",
+      "kb_source": "rxnorm",
+      "link_score": 0.9913882613182068,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 74,
+      "end_char": 80,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fentanyl",
+      "label": "CHEMICAL",
+      "start_char": 95,
+      "end_char": 103,
+      "sentence_idx": 4,
+      "concept_id": "C0015846",
+      "concept_name": "fentanyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9874358773231506,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 141,
+      "end_char": 147,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Versed",
+      "label": "CHEMICAL",
+      "start_char": 169,
+      "end_char": 175,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Versed",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "shock",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 55,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shock",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PACs",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 36,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PACs",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sinus tachycardia",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 78,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sinus tachycardia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrial fibrillation",
+      "label": "DISEASE",
+      "start_char": 148,
+      "end_char": 167,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial fibrillation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

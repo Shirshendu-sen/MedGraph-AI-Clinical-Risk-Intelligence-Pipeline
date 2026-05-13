@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2007__trigger_thumb_release_.txt",
+    "file_name": "mtsamples_2007__trigger_thumb_release_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1250,
+    "processed_at": "2026-05-09T09:53:54.497813"
+  },
+  "entities": [
+    {
+      "text": "bipolar electrocautery.,The flexor pollicis longus",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 92,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar electrocautery.,The flexor pollicis longus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

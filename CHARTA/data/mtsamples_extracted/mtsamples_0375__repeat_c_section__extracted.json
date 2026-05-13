@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0375__repeat_c_section_.txt",
+    "file_name": "mtsamples_0375__repeat_c_section_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4418,
+    "processed_at": "2026-05-09T09:53:14.299787"
+  },
+  "entities": [
+    {
+      "text": "hypertension.,4",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 23,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension.,4",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 23,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension.,4",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "5, para 4 female",
+      "label": "CHEMICAL",
+      "start_char": 97,
+      "end_char": 113,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "5, para 4 female",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 89,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 100,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injury to surrounding organs, and the possible need for further surgery and informed consent was obtained.,PROCEDURE NOTE: , The patient was taken to the operating room where spinal anesthesia",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 294,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury to surrounding organs, and the possible need for further surgery and informed consent was obtained.,PROCEDURE NOTE: , The patient was taken to the operating room where spinal anesthesia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nose and mouth",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 18,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nose and mouth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

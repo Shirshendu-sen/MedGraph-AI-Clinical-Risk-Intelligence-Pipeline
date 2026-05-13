@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2315__antibiotic_impregnated_beads_placement_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 8,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C3854019": 1,
+    "C0040341": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2315__antibiotic_impregnated_beads_placement__graph.pt",
+  "source_dataset": "mtsamples_2315__antibiotic_impregnated_beads_placement"
+}

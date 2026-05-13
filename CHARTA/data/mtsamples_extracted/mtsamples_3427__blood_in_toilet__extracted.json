@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3427__blood_in_toilet_.txt",
+    "file_name": "mtsamples_3427__blood_in_toilet_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3014,
+    "processed_at": "2026-05-09T09:54:21.625675"
+  },
+  "entities": [
+    {
+      "text": "dementia",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 70,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dementia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 72,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 85,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "urinary and GI complaints",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 112,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary and GI complaints",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dementia",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 129,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dementia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "asthma",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 137,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "asthma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anemia",
+      "label": "DISEASE",
+      "start_char": 139,
+      "end_char": 145,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypothyroidism",
+      "label": "DISEASE",
+      "start_char": 164,
+      "end_char": 178,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypothyroidism",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "schizophrenia",
+      "label": "DISEASE",
+      "start_char": 180,
+      "end_char": 193,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "schizophrenia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 78,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "wheeze",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 9,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "wheeze",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "organomegaly",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 15,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "organomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "anemia",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 65,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gastrointestinal bleeding",
+      "label": "DISEASE",
+      "start_char": 160,
+      "end_char": 185,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gastrointestinal bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

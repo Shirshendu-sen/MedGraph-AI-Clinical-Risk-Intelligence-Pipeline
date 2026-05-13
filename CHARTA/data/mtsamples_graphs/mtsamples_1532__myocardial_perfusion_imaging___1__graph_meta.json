@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_1532__myocardial_perfusion_imaging___1_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 33,
+  "entity_index": {
+    "C0633084": 0,
+    "C0004147": 1,
+    "C0593906": 2,
+    "C0016410": 3,
+    "UNKNOWN": 4,
+    "C0030346": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1532__myocardial_perfusion_imaging___1__graph.pt",
+  "source_dataset": "mtsamples_1532__myocardial_perfusion_imaging___1"
+}

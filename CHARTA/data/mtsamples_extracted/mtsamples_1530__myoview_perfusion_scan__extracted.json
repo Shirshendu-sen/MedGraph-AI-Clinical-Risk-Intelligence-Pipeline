@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1530__myoview_perfusion_scan_.txt",
+    "file_name": "mtsamples_1530__myoview_perfusion_scan_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1079,
+    "processed_at": "2026-05-09T09:53:43.945726"
+  },
+  "entities": [
+    {
+      "text": "dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 53,
+      "sentence_idx": 0,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    },
+    {
+      "text": "dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 45,
+      "end_char": 55,
+      "sentence_idx": 1,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    },
+    {
+      "text": "inferior non-transmural scar",
+      "label": "DISEASE",
+      "start_char": 189,
+      "end_char": 217,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inferior non-transmural scar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left ventricular systolic function",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 38,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left ventricular systolic function",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

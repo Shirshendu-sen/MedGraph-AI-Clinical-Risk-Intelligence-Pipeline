@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1262__abdominal_abscess_i_d_.txt",
+    "file_name": "mtsamples_1262__abdominal_abscess_i_d_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2095,
+    "processed_at": "2026-05-09T09:53:38.160059"
+  },
+  "entities": [
+    {
+      "text": "abdominal abscess",
+      "label": "DISEASE",
+      "start_char": 145,
+      "end_char": 162,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticular abscess",
+      "label": "DISEASE",
+      "start_char": 400,
+      "end_char": 420,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticular abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dehiscence",
+      "label": "DISEASE",
+      "start_char": 441,
+      "end_char": 451,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dehiscence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 44,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 43,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 203,
+      "end_char": 210,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrinous",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 46,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrinous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "necrotic",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 73,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 90,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "necrotic",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 117,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

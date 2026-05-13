@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3878__hysterectomy___discharge_summary___2_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 15,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0483514": 1,
+    "C0699203": 2,
+    "C0700187": 3
+  },
+  "visit_dates": [
+    "2007-02-12"
+  ],
+  "graph_file": "mtsamples_3878__hysterectomy___discharge_summary___2__graph.pt",
+  "source_dataset": "mtsamples_3878__hysterectomy___discharge_summary___2"
+}

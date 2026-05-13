@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3053__anaplastic_astrocytoma___letter_.txt",
+    "file_name": "mtsamples_3053__anaplastic_astrocytoma___letter_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3100,
+    "processed_at": "2026-05-09T09:54:12.919019"
+  },
+  "entities": [
+    {
+      "text": "anaplastic",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 104,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anaplastic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right facial droop",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 78,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right facial droop",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 83,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "steroids",
+      "label": "CHEMICAL",
+      "start_char": 189,
+      "end_char": 197,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroids",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Temodar",
+      "label": "CHEMICAL",
+      "start_char": 167,
+      "end_char": 174,
+      "sentence_idx": 14,
+      "concept_id": "C0876179",
+      "concept_name": "Temodar",
+      "kb_source": "rxnorm",
+      "link_score": 0.99442058801651,
+      "timestamp": null
+    },
+    {
+      "text": "thalidomide",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 37,
+      "sentence_idx": 16,
+      "concept_id": "C0039736",
+      "concept_name": "thalidomide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9717428684234619,
+      "timestamp": null
+    },
+    {
+      "text": "Accutane",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 48,
+      "sentence_idx": 18,
+      "concept_id": "C0699581",
+      "concept_name": "Accutane",
+      "kb_source": "rxnorm",
+      "link_score": 0.9528550505638123,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

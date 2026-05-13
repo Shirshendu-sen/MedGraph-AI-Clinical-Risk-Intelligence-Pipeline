@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1948__radiofrequency_thermocoagulation___3_.txt",
+    "file_name": "mtsamples_1948__radiofrequency_thermocoagulation___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2874,
+    "processed_at": "2026-05-09T09:53:53.594797"
+  },
+  "entities": [
+    {
+      "text": "medial branch posterior sensory rami of cervical at ***.,SURGEON",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 222,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "medial branch posterior sensory rami of cervical at ***.,SURGEON",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 86,
+      "end_char": 92,
+      "sentence_idx": 2,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    },
+    {
+      "text": "C7 medial branch",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 22,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "C7 medial branch",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 203,
+      "end_char": 207,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 104,
+      "sentence_idx": 13,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 190,
+      "end_char": 194,
+      "sentence_idx": 13,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 266,
+      "end_char": 274,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "methyl prednisolone acetate",
+      "label": "CHEMICAL",
+      "start_char": 293,
+      "end_char": 320,
+      "sentence_idx": 13,
+      "concept_id": "C0600901",
+      "concept_name": "methylprednisolone acetate",
+      "kb_source": "rxnorm",
+      "link_score": 0.8605257272720337,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

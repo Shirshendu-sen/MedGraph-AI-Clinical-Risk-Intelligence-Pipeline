@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0074__paraphimosis_.txt",
+    "file_name": "mtsamples_0074__paraphimosis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1264,
+    "processed_at": "2026-05-09T09:53:05.505820"
+  },
+  "entities": [
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 167,
+      "end_char": 175,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "penile block",
+      "label": "DISEASE",
+      "start_char": 177,
+      "end_char": 189,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "penile block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Paraphimosis",
+      "label": "DISEASE",
+      "start_char": 406,
+      "end_char": 418,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Paraphimosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "acute alcohol intoxication",
+      "label": "DISEASE",
+      "start_char": 513,
+      "end_char": 539,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute alcohol intoxication",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 26,
+      "sentence_idx": 4,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    },
+    {
+      "text": "penile block",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 69,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "penile block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 109,
+      "end_char": 117,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

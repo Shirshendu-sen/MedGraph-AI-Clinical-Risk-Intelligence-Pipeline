@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1010__circumcision___newborn__.txt",
+    "file_name": "mtsamples_1010__circumcision___newborn__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 557,
+    "processed_at": "2026-05-09T09:53:31.152821"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1010__circumcision___newborn__.txt",
+    "text": "PROCEDURE: , Newborn circumcision.,INDICATIONS: , Parental preference.,ANESTHESIA:,  Dorsal penile nerve block.,DESCRIPTION OF PROCEDURE:,  The baby was prepared and draped in a sterile manner.  Lidocaine 1% 4 mL without epinephrine was instilled into the base of the penis at 2 o'clock and 10 o'clock.  The penile foreskin was removed using a XXX Gomco.  Hemostasis was achieved with minimal blood loss.  There was no sign of infection.  The baby tolerated the procedure well.  Vaseline was applied to the penis, and the baby was diapered by nursing staff.",
+    "char_count": 557,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE: , Newborn circumcision.,INDICATIONS: , Parental preference.,ANESTHESIA:, Dorsal penile nerve block.,DESCRIPTION OF PROCEDURE:, The baby was prepared and draped in a sterile manner. Lidocaine 1% 4 mL without epinephrine was instilled into the base of the penis at 2 o'clock and 10 o'clock. The penile foreskin was removed using a XXX Gomco. Hemostasis was achieved with minimal blood loss. There was no sign of infection. The baby tolerated the procedure well. Vaseline was applied to the penis, and the baby was diapered by nursing staff.",
+    "sentences": [
+      "PROCEDURE: , Newborn circumcision.,INDICATIONS: , Parental preference.,ANESTHESIA:, Dorsal penile nerve block.,DESCRIPTION OF PROCEDURE:, The baby was prepared and draped in a sterile manner.",
+      "Lidocaine 1% 4 mL without epinephrine was instilled into the base of the penis at 2 o'clock and 10 o'clock.",
+      "The penile foreskin was removed using a XXX Gomco.",
+      "Hemostasis was achieved with minimal blood loss.",
+      "There was no sign of infection.",
+      "The baby tolerated the procedure well.",
+      "Vaseline was applied to the penis, and the baby was diapered by nursing staff."
+    ],
+    "sentence_count": 7,
+    "original_length": 557,
+    "cleaned_length": 549,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE: , Newborn circumcision.,INDICATIONS: , Parental preference.,ANESTHESIA:,  Dorsal penile nerve block.,DESCRIPTION OF PROCEDURE:,  The baby was prepared and draped in a sterile manner.  Lidocaine 1% 4 mL without epinephrine was instilled into the base of the penis at 2 o'clock and 10 o'clock.  The penile foreskin was removed using a XXX Gomco.  Hemostasis was achieved with minimal blood loss.  There was no sign of infection.  The baby tolerated the procedure well.  Vaseline was applied to the penis, and the baby was diapered by nursing staff.",
+    "cleaned_text": "PROCEDURE: , Newborn circumcision.,INDICATIONS: , Parental preference.,ANESTHESIA:, Dorsal penile nerve block.,DESCRIPTION OF PROCEDURE:, The baby was prepared and draped in a sterile manner. Lidocaine 1% 4 mL without epinephrine was instilled into the base of the penis at 2 o'clock and 10 o'clock. The penile foreskin was removed using a XXX Gomco. Hemostasis was achieved with minimal blood loss. There was no sign of infection. The baby tolerated the procedure well. Vaseline was applied to the penis, and the baby was diapered by nursing staff.",
+    "sentences": [
+      "PROCEDURE: , Newborn circumcision.,INDICATIONS: , Parental preference.,ANESTHESIA:, Dorsal penile nerve block.,DESCRIPTION OF PROCEDURE:, The baby was prepared and draped in a sterile manner.",
+      "Lidocaine 1% 4 mL without epinephrine was instilled into the base of the penis at 2 o'clock and 10 o'clock.",
+      "The penile foreskin was removed using a XXX Gomco.",
+      "Hemostasis was achieved with minimal blood loss.",
+      "There was no sign of infection.",
+      "The baby tolerated the procedure well.",
+      "Vaseline was applied to the penis, and the baby was diapered by nursing staff."
+    ],
+    "sentence_count": 7
+  }
+}

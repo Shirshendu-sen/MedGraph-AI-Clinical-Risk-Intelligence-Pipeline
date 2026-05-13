@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0042__testicular_ultrasound_.txt",
+    "file_name": "mtsamples_0042__testicular_ultrasound_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 741,
+    "processed_at": "2026-05-09T09:53:04.330155"
+  },
+  "entities": [
+    {
+      "text": "hydrocele",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 20,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocele",
+      "label": "DISEASE",
+      "start_char": 2,
+      "end_char": 11,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hypervascularity",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 16,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hypervascularity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

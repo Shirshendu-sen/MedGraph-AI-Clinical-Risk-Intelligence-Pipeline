@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2393__ophthalmology_progress_note___2_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 3,
+  "entity_index": {
+    "C0060520": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2393__ophthalmology_progress_note___2__graph.pt",
+  "source_dataset": "mtsamples_2393__ophthalmology_progress_note___2"
+}

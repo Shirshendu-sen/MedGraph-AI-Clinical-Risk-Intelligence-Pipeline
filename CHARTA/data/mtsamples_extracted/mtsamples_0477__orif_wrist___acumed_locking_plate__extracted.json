@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0477__orif_wrist___acumed_locking_plate_.txt",
+    "file_name": "mtsamples_0477__orif_wrist___acumed_locking_plate_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3988,
+    "processed_at": "2026-05-09T09:53:17.064514"
+  },
+  "entities": [
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 60,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 143,
+      "end_char": 151,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "crush injury",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 129,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "crush injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "angulation",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 63,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "angulation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Acumed Accu-lock",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 19,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Acumed Accu-lock",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 70,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 166,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 115,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 204,
+      "end_char": 212,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

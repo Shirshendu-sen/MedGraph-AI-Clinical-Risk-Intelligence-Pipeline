@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_4739__high_pt_inr___er_visit_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 46,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699129": 1,
+    "C0042878": 2,
+    "C0040165": 3,
+    "C0483514": 4,
+    "C0040869": 5,
+    "C0054836": 6,
+    "C0004057": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4739__high_pt_inr___er_visit__graph.pt",
+  "source_dataset": "mtsamples_4739__high_pt_inr___er_visit"
+}

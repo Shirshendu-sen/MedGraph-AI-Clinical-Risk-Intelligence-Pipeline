@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2899__ct_c_spine___2_.txt",
+    "file_name": "mtsamples_2899__ct_c_spine___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 531,
+    "processed_at": "2026-05-09T09:54:10.406696"
+  },
+  "entities": [
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 33,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osseous lesions",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 64,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osseous lesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

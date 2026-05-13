@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0281__thoracoscopy___thoracotomy___mesothelioma_.txt",
+    "file_name": "mtsamples_0281__thoracoscopy___thoracotomy___mesothelioma_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4054,
+    "processed_at": "2026-05-09T09:53:11.297184"
+  },
+  "entities": [
+    {
+      "text": "mesothelioma",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 43,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mesothelioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nodule.,PROCEDURES",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 116,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nodule.,PROCEDURES",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "follicular thyroid cancer",
+      "label": "DISEASE",
+      "start_char": 469,
+      "end_char": 494,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "follicular thyroid cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thoracic tumor",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 52,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thoracic tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thin",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 15,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 9,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

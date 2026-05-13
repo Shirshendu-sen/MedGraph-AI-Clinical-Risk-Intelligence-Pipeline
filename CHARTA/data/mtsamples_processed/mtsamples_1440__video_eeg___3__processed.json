@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1440__video_eeg___3_.txt",
+    "file_name": "mtsamples_1440__video_eeg___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1127,
+    "processed_at": "2026-05-09T09:53:41.801985"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1440__video_eeg___3_.txt",
+    "text": "PROCEDURE: , EEG during wakefulness demonstrates background activity consisting of moderate-amplitude beta activity seen bilaterally.  The EEG background is symmetric.  Independent, small, positive, sharp wave activity is seen in the frontotemporal regions bilaterally with sharp-slow wave discharges seen more predominantly in the right frontotemporal head region.  No clinical signs of involuntary movements are noted during synchronous video monitoring.  Recording time is 22 minutes and 22 seconds.  There is attenuation of the background, faster activity during drowsiness and some light sleep is recorded.  No sustained epileptogenic activity is evident, but the independent bilateral sharp wave activity is seen intermittently.  Photic stimulation induced a bilaterally symmetric photic driving response.,IMPRESSION:,  EEG during wakefulness and light sleep is abnormal with independent, positive sharp wave activity seen in both frontotemporal head regions, more predominant in the right frontotemporal region.  The EEG findings are consistent with potentially epileptogenic process.  Clinical correlation is warranted.",
+    "char_count": 1127,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE: , EEG during wakefulness demonstrates background activity consisting of moderate-amplitude beta activity seen bilaterally. The EEG background is symmetric. Independent, small, positive, sharp wave activity is seen in the frontotemporal regions bilaterally with sharp-slow wave discharges seen more predominantly in the right frontotemporal head region. No clinical signs of involuntary movements are noted during synchronous video monitoring. Recording time is 22 minutes and 22 seconds. There is attenuation of the background, faster activity during drowsiness and some light sleep is recorded. No sustained epileptogenic activity is evident, but the independent bilateral sharp wave activity is seen intermittently. Photic stimulation induced a bilaterally symmetric photic driving response.,IMPRESSION:, EEG during wakefulness and light sleep is abnormal with independent, positive sharp wave activity seen in both frontotemporal head regions, more predominant in the right frontotemporal region. The EEG findings are consistent with potentially epileptogenic process. Clinical correlation is warranted.",
+    "sentences": [
+      "PROCEDURE: , EEG during wakefulness demonstrates background activity consisting of moderate-amplitude beta activity seen bilaterally.",
+      "The EEG background is symmetric.",
+      "Independent, small, positive, sharp wave activity is seen in the frontotemporal regions bilaterally with sharp-slow wave discharges seen more predominantly in the right frontotemporal head region.",
+      "No clinical signs of involuntary movements are noted during synchronous video monitoring.",
+      "Recording time is 22 minutes and 22 seconds.",
+      "There is attenuation of the background, faster activity during drowsiness and some light sleep is recorded.",
+      "No sustained epileptogenic activity is evident, but the independent bilateral sharp wave activity is seen intermittently.",
+      "Photic stimulation induced a bilaterally symmetric photic driving response.,IMPRESSION:, EEG during wakefulness and light sleep is abnormal with independent, positive sharp wave activity seen in both frontotemporal head regions, more predominant in the right frontotemporal region.",
+      "The EEG findings are consistent with potentially epileptogenic process.",
+      "Clinical correlation is warranted."
+    ],
+    "sentence_count": 10,
+    "original_length": 1127,
+    "cleaned_length": 1117,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE: , EEG during wakefulness demonstrates background activity consisting of moderate-amplitude beta activity seen bilaterally.  The EEG background is symmetric.  Independent, small, positive, sharp wave activity is seen in the frontotemporal regions bilaterally with sharp-slow wave discharges seen more predominantly in the right frontotemporal head region.  No clinical signs of involuntary movements are noted during synchronous video monitoring.  Recording time is 22 minutes and 22 seconds.  There is attenuation of the background, faster activity during drowsiness and some light sleep is recorded.  No sustained epileptogenic activity is evident, but the independent bilateral sharp wave activity is seen intermittently.  Photic stimulation induced a bilaterally symmetric photic driving response.,IMPRESSION:,  EEG during wakefulness and light sleep is abnormal with independent, positive sharp wave activity seen in both frontotemporal head regions, more predominant in the right frontotemporal region.  The EEG findings are consistent with potentially epileptogenic process.  Clinical correlation is warranted.",
+    "cleaned_text": "PROCEDURE: , EEG during wakefulness demonstrates background activity consisting of moderate-amplitude beta activity seen bilaterally. The EEG background is symmetric. Independent, small, positive, sharp wave activity is seen in the frontotemporal regions bilaterally with sharp-slow wave discharges seen more predominantly in the right frontotemporal head region. No clinical signs of involuntary movements are noted during synchronous video monitoring. Recording time is 22 minutes and 22 seconds. There is attenuation of the background, faster activity during drowsiness and some light sleep is recorded. No sustained epileptogenic activity is evident, but the independent bilateral sharp wave activity is seen intermittently. Photic stimulation induced a bilaterally symmetric photic driving response.,IMPRESSION:, EEG during wakefulness and light sleep is abnormal with independent, positive sharp wave activity seen in both frontotemporal head regions, more predominant in the right frontotemporal region. The EEG findings are consistent with potentially epileptogenic process. Clinical correlation is warranted.",
+    "sentences": [
+      "PROCEDURE: , EEG during wakefulness demonstrates background activity consisting of moderate-amplitude beta activity seen bilaterally.",
+      "The EEG background is symmetric.",
+      "Independent, small, positive, sharp wave activity is seen in the frontotemporal regions bilaterally with sharp-slow wave discharges seen more predominantly in the right frontotemporal head region.",
+      "No clinical signs of involuntary movements are noted during synchronous video monitoring.",
+      "Recording time is 22 minutes and 22 seconds.",
+      "There is attenuation of the background, faster activity during drowsiness and some light sleep is recorded.",
+      "No sustained epileptogenic activity is evident, but the independent bilateral sharp wave activity is seen intermittently.",
+      "Photic stimulation induced a bilaterally symmetric photic driving response.,IMPRESSION:, EEG during wakefulness and light sleep is abnormal with independent, positive sharp wave activity seen in both frontotemporal head regions, more predominant in the right frontotemporal region.",
+      "The EEG findings are consistent with potentially epileptogenic process.",
+      "Clinical correlation is warranted."
+    ],
+    "sentence_count": 10
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2503__tubal_ligation___postpartum_.txt",
+    "file_name": "mtsamples_2503__tubal_ligation___postpartum_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2821,
+    "processed_at": "2026-05-09T09:54:03.372556"
+  },
+  "entities": [
+    {
+      "text": "Multiparity",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 36,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Multiparity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-18"
+    },
+    {
+      "text": "Multiparity",
+      "label": "DISEASE",
+      "start_char": 125,
+      "end_char": 136,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Multiparity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-18"
+    },
+    {
+      "text": "6, para 3, 0-3-3",
+      "label": "CHEMICAL",
+      "start_char": 427,
+      "end_char": 443,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "6, para 3, 0-3-3",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-09-18"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-09-18"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/18/2007",
+      "start_char": 475,
+      "end_char": 485
+    }
+  ]
+}

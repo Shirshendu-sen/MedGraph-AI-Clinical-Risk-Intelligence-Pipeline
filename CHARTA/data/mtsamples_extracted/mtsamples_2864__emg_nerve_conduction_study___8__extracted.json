@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2864__emg_nerve_conduction_study___8_.txt",
+    "file_name": "mtsamples_2864__emg_nerve_conduction_study___8_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3029,
+    "processed_at": "2026-05-09T09:54:09.945789"
+  },
+  "entities": [
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 159,
+      "end_char": 168,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dysarthria",
+      "label": "DISEASE",
+      "start_char": 188,
+      "end_char": 198,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysarthria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 200,
+      "end_char": 208,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cramps",
+      "label": "DISEASE",
+      "start_char": 227,
+      "end_char": 233,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cramps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "EDB",
+      "label": "CHEMICAL",
+      "start_char": 93,
+      "end_char": 96,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EDB",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "EDB",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 55,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EDB",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 109,
+      "end_char": 123,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "disorder of the anterior motor neurons",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 79,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "disorder of the anterior motor neurons",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neuropathy",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 55,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mononeuropathy",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 55,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mononeuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right ulnar neuropathy",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 97,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ulnar neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

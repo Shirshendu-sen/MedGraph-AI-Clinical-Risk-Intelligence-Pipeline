@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_4515__burn___consult_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 25,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0935966": 1,
+    "C0030346": 2,
+    "C0699142": 3,
+    "C0039617": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4515__burn___consult__graph.pt",
+  "source_dataset": "mtsamples_4515__burn___consult"
+}

@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1320__overactive_bladder_.txt",
+    "file_name": "mtsamples_1320__overactive_bladder_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1211,
+    "processed_at": "2026-05-09T09:53:39.184956"
+  },
+  "entities": [
+    {
+      "text": "Overactive bladder",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 38,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Overactive bladder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematuria",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 161,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "overactive bladder",
+      "label": "DISEASE",
+      "start_char": 167,
+      "end_char": 185,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "overactive bladder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematuria",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 18,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dysuria",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 27,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pyuria",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 35,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pyuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "outlet obstructive",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 64,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "outlet obstructive",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ditropan",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 43,
+      "sentence_idx": 4,
+      "concept_id": "C0591395",
+      "concept_name": "Ditropan",
+      "kb_source": "rxnorm",
+      "link_score": 0.9752323627471924,
+      "timestamp": null
+    },
+    {
+      "text": "Overactive bladder",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 116,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Overactive bladder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematuria",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 143,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atrophic vaginitis",
+      "label": "DISEASE",
+      "start_char": 166,
+      "end_char": 184,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophic vaginitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ditropan",
+      "label": "CHEMICAL",
+      "start_char": 93,
+      "end_char": 101,
+      "sentence_idx": 9,
+      "concept_id": "C0591395",
+      "concept_name": "Ditropan",
+      "kb_source": "rxnorm",
+      "link_score": 0.9752323627471924,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

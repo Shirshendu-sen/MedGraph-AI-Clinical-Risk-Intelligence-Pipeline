@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4790__dobutamine_stress_test___1_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 32,
+  "entity_index": {
+    "C0012963": 0,
+    "C0004259": 1,
+    "UNKNOWN": 2,
+    "C0025859": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4790__dobutamine_stress_test___1__graph.pt",
+  "source_dataset": "mtsamples_4790__dobutamine_stress_test___1"
+}

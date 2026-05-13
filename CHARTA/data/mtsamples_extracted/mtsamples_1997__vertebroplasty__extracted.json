@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1997__vertebroplasty_.txt",
+    "file_name": "mtsamples_1997__vertebroplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2297,
+    "processed_at": "2026-05-09T09:53:54.388352"
+  },
+  "entities": [
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 123,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 74,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polymethylmethacrylate",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 36,
+      "sentence_idx": 7,
+      "concept_id": "C0066409",
+      "concept_name": "methyl methacrylate",
+      "kb_source": "rxnorm",
+      "link_score": 0.8423670530319214,
+      "timestamp": null
+    },
+    {
+      "text": "cement",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 24,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cement",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

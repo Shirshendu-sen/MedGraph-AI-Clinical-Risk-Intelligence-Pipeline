@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4083__syncope___er_visit___1_.txt",
+    "file_name": "mtsamples_4083__syncope___er_visit___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1458,
+    "processed_at": "2026-05-09T09:54:33.144560"
+  },
+  "entities": [
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chest pains",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 22,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pains",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Arthritis",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 73,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "label": "CHEMICAL",
+      "start_char": 89,
+      "end_char": 108,
+      "sentence_idx": 5,
+      "concept_id": "C0020261",
+      "concept_name": "hydroCHLOROthiazide",
+      "kb_source": "rxnorm",
+      "link_score": 0.971785306930542,
+      "timestamp": null
+    },
+    {
+      "text": "smoke",
+      "label": "CHEMICAL",
+      "start_char": 196,
+      "end_char": 201,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "smoke",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Maxzide",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 21,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Maxzide",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

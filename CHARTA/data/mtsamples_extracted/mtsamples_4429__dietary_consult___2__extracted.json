@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4429__dietary_consult___2_.txt",
+    "file_name": "mtsamples_4429__dietary_consult___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 975,
+    "processed_at": "2026-05-09T09:54:38.579863"
+  },
+  "entities": [
+    {
+      "text": "sugar-free Kool-Aid",
+      "label": "CHEMICAL",
+      "start_char": 93,
+      "end_char": 112,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sugar-free Kool-Aid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2005-06-13"
+    },
+    {
+      "text": "sugar-free Jell-O",
+      "label": "CHEMICAL",
+      "start_char": 114,
+      "end_char": 131,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sugar-free Jell-O",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2005-06-13"
+    },
+    {
+      "text": "sugar-free lemonade",
+      "label": "CHEMICAL",
+      "start_char": 133,
+      "end_char": 152,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sugar-free lemonade",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2005-06-13"
+    },
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 103,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-06-13"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "06/13/05",
+      "start_char": 883,
+      "end_char": 891
+    }
+  ]
+}

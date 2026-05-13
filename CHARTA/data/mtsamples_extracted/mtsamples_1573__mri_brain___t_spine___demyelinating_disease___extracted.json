@@ -1,0 +1,549 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1573__mri_brain___t_spine___demyelinating_disease__.txt",
+    "file_name": "mtsamples_1573__mri_brain___t_spine___demyelinating_disease__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4967,
+    "processed_at": "2026-05-09T09:53:44.878069"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "pruritus",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 61,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pruritus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "paresthesias",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 32,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "paresthesias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 52,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 45,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "fatigue",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 48,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fatigue",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 133,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "optic disk pallor",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 76,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "optic disk pallor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "EOM",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EOM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "INO",
+      "label": "CHEMICAL",
+      "start_char": 3,
+      "end_char": 6,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "INO",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 26,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "Unsteady wide-based",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 56,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Unsteady wide-based",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "GS",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 36,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "GS",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "ANA",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 65,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ANA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "Vit B12",
+      "label": "CHEMICAL",
+      "start_char": 67,
+      "end_char": 74,
+      "sentence_idx": 23,
+      "concept_id": "C0042845",
+      "concept_name": "vitamin B12",
+      "kb_source": "rxnorm",
+      "link_score": 0.7488899827003479,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "Folate",
+      "label": "CHEMICAL",
+      "start_char": 76,
+      "end_char": 82,
+      "sentence_idx": 23,
+      "concept_id": "C0178638",
+      "concept_name": "folate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9739503860473633,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "multiple sclerosis",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 86,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "multiple sclerosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "histiocyte",
+      "label": "DISEASE",
+      "start_char": 181,
+      "end_char": 191,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "histiocyte",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "Glucose",
+      "label": "CHEMICAL",
+      "start_char": 194,
+      "end_char": 201,
+      "sentence_idx": 26,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "abnormal left tibial somatosensory",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 37,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal left tibial somatosensory",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "HTLV-1",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "HTLV-1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "dysesthesia",
+      "label": "DISEASE",
+      "start_char": 174,
+      "end_char": 185,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysesthesia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "lower extremity paresthesia",
+      "label": "DISEASE",
+      "start_char": 187,
+      "end_char": 214,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower extremity paresthesia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-25"
+    },
+    {
+      "text": "nodding",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 96,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nodding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "RLE",
+      "label": "CHEMICAL",
+      "start_char": 4,
+      "end_char": 7,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "RLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "spastic",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 19,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spastic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "dysesthetic sensory perception",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 40,
+      "sentence_idx": 39,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysesthetic sensory perception",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "white matter lesions",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 35,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "white matter lesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "demyelinating disease",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 65,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "demyelinating disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "glioma",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 88,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "glioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "encephalitis",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 23,
+      "sentence_idx": 46,
+      "concept_id": "UNKNOWN",
+      "concept_name": "encephalitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "demyelinating disease",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 66,
+      "sentence_idx": 46,
+      "concept_id": "UNKNOWN",
+      "concept_name": "demyelinating disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 76,
+      "sentence_idx": 46,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "Glucose",
+      "label": "CHEMICAL",
+      "start_char": 68,
+      "end_char": 75,
+      "sentence_idx": 47,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "demyelinating disease",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 107,
+      "sentence_idx": 50,
+      "concept_id": "UNKNOWN",
+      "concept_name": "demyelinating disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "Cytoxan",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 55,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cytoxan",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "seizure",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 41,
+      "sentence_idx": 52,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "loss of consciousness",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 97,
+      "sentence_idx": 52,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of consciousness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "Dilantin",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 26,
+      "sentence_idx": 54,
+      "concept_id": "C0699512",
+      "concept_name": "Dilantin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9751823544502258,
+      "timestamp": "1992-10-23"
+    },
+    {
+      "text": "depressed",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 20,
+      "sentence_idx": 55,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depressed",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-23"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/23/92",
+      "start_char": 127,
+      "end_char": 135
+    },
+    {
+      "raw_text": "10/25/92",
+      "start_char": 262,
+      "end_char": 270
+    },
+    {
+      "raw_text": "10/27/92",
+      "start_char": 1799,
+      "end_char": 1807
+    },
+    {
+      "raw_text": "10/28/92",
+      "start_char": 1838,
+      "end_char": 1846
+    },
+    {
+      "raw_text": "10/28/92",
+      "start_char": 2127,
+      "end_char": 2135
+    },
+    {
+      "raw_text": "11/7/92",
+      "start_char": 2891,
+      "end_char": 2898
+    },
+    {
+      "raw_text": "11/6/92",
+      "start_char": 2994,
+      "end_char": 3001
+    },
+    {
+      "raw_text": "11/7/92",
+      "start_char": 3147,
+      "end_char": 3154
+    },
+    {
+      "raw_text": "11/7/92",
+      "start_char": 3620,
+      "end_char": 3627
+    },
+    {
+      "raw_text": "11/8/92",
+      "start_char": 4374,
+      "end_char": 4381
+    },
+    {
+      "raw_text": "12/3/92",
+      "start_char": 4740,
+      "end_char": 4747
+    }
+  ]
+}

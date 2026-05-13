@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2593__exploratory_laparotomy___2_.txt",
+    "file_name": "mtsamples_2593__exploratory_laparotomy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5464,
+    "processed_at": "2026-05-09T09:54:04.976468"
+  },
+  "entities": [
+    {
+      "text": "right ovarian cyst.,PROCEDURES,1",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 42,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ovarian cyst.,PROCEDURES,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right ovarian cystic mass",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 87,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right ovarian cystic mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injury of underlying structures.",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 85,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury of underlying structures.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mass of bowel was noted to be adherent",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 46,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mass of bowel was noted to be adherent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Adhesiolysis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Adhesiolysis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ovarian cyst",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 142,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ovarian cyst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

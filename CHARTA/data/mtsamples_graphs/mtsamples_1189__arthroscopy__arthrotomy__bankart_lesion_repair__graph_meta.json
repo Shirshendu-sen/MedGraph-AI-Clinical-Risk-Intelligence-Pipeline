@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1189__arthroscopy__arthrotomy__bankart_lesion_repair_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0014563": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1189__arthroscopy__arthrotomy__bankart_lesion_repair__graph.pt",
+  "source_dataset": "mtsamples_1189__arthroscopy__arthrotomy__bankart_lesion_repair"
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0397__punch_biopsy___1_.txt",
+    "file_name": "mtsamples_0397__punch_biopsy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 603,
+    "processed_at": "2026-05-09T09:53:14.722335"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0397__punch_biopsy___1_.txt",
+    "text": "PROCEDURE:,  Punch biopsy of right upper chest skin lesion.,ESTIMATED BLOOD LOSS:,  Minimal.,FLUIDS: , Minimal.,COMPLICATIONS:,  None.,PROCEDURE:,  The area around the lesion was anesthetized after she gave consent for her procedure.  Punch biopsy including some portion of lesion and normal tissue was performed.  Hemostasis was completed with pressure holding.  The biopsy site was approximated with non-dissolvable suture.  The area was hemostatic.  All counts were correct and there were no complications.  The patient tolerated the procedure well.  She will see us back in approximately five days.,",
+    "char_count": 603,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PROCEDURE:, Punch biopsy of right upper chest skin lesion.,ESTIMATED BLOOD LOSS:, Minimal.,FLUIDS: , Minimal.,COMPLICATIONS:, None.,PROCEDURE:, The area around the lesion was anesthetized after she gave consent for her procedure. Punch biopsy including some portion of lesion and normal tissue was performed. Hemostasis was completed with pressure holding. The biopsy site was approximated with non-dissolvable suture. The area was hemostatic. All counts were correct and there were no complications. The patient tolerated the procedure well. She will see us back in approximately five days.,",
+    "sentences": [
+      "PROCEDURE:, Punch biopsy of right upper chest skin lesion.,ESTIMATED BLOOD LOSS:, Minimal.,FLUIDS: , Minimal.,COMPLICATIONS:, None.,PROCEDURE:, The area around the lesion was anesthetized after she gave consent for her procedure.",
+      "Punch biopsy including some portion of lesion and normal tissue was performed.",
+      "Hemostasis was completed with pressure holding.",
+      "The biopsy site was approximated with non-dissolvable suture.",
+      "The area was hemostatic.",
+      "All counts were correct and there were no complications.",
+      "The patient tolerated the procedure well.",
+      "She will see us back in approximately five days.,"
+    ],
+    "sentence_count": 8,
+    "original_length": 603,
+    "cleaned_length": 592,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PROCEDURE:,  Punch biopsy of right upper chest skin lesion.,ESTIMATED BLOOD LOSS:,  Minimal.,FLUIDS: , Minimal.,COMPLICATIONS:,  None.,PROCEDURE:,  The area around the lesion was anesthetized after she gave consent for her procedure.  Punch biopsy including some portion of lesion and normal tissue was performed.  Hemostasis was completed with pressure holding.  The biopsy site was approximated with non-dissolvable suture.  The area was hemostatic.  All counts were correct and there were no complications.  The patient tolerated the procedure well.  She will see us back in approximately five days.,",
+    "cleaned_text": "PROCEDURE:, Punch biopsy of right upper chest skin lesion.,ESTIMATED BLOOD LOSS:, Minimal.,FLUIDS: , Minimal.,COMPLICATIONS:, None.,PROCEDURE:, The area around the lesion was anesthetized after she gave consent for her procedure. Punch biopsy including some portion of lesion and normal tissue was performed. Hemostasis was completed with pressure holding. The biopsy site was approximated with non-dissolvable suture. The area was hemostatic. All counts were correct and there were no complications. The patient tolerated the procedure well. She will see us back in approximately five days.,",
+    "sentences": [
+      "PROCEDURE:, Punch biopsy of right upper chest skin lesion.,ESTIMATED BLOOD LOSS:, Minimal.,FLUIDS: , Minimal.,COMPLICATIONS:, None.,PROCEDURE:, The area around the lesion was anesthetized after she gave consent for her procedure.",
+      "Punch biopsy including some portion of lesion and normal tissue was performed.",
+      "Hemostasis was completed with pressure holding.",
+      "The biopsy site was approximated with non-dissolvable suture.",
+      "The area was hemostatic.",
+      "All counts were correct and there were no complications.",
+      "The patient tolerated the procedure well.",
+      "She will see us back in approximately five days.,"
+    ],
+    "sentence_count": 8
+  }
+}

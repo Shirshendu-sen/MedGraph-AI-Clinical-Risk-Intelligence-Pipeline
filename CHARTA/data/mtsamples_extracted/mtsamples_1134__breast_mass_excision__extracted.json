@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1134__breast_mass_excision_.txt",
+    "file_name": "mtsamples_1134__breast_mass_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 930,
+    "processed_at": "2026-05-09T09:53:34.882799"
+  },
+  "entities": [
+    {
+      "text": "Right breast mass",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 43,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right breast mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "NAME",
+      "label": "CHEMICAL",
+      "start_char": 173,
+      "end_char": 177,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NAME",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroadenoma",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 41,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroadenoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hyperplasia",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 77,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hyperplasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibroadenoma",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 101,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibroadenoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

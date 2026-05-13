@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3449__status_post_liver_transplant_.txt",
+    "file_name": "mtsamples_3449__status_post_liver_transplant_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2734,
+    "processed_at": "2026-05-09T09:54:21.955794"
+  },
+  "entities": [
+    {
+      "text": "biliary atresia",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 85,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "biliary atresia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "upper molar pain",
+      "label": "DISEASE",
+      "start_char": 103,
+      "end_char": 119,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper molar pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "gastrointestinal illness",
+      "label": "DISEASE",
+      "start_char": 272,
+      "end_char": 296,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gastrointestinal illness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "molar pain",
+      "label": "DISEASE",
+      "start_char": 404,
+      "end_char": 414,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "molar pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "normocephalic",
+      "label": "DISEASE",
+      "start_char": 696,
+      "end_char": 709,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normocephalic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "sclerae",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 28,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sclerae",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "teeth and gums",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 18,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "teeth and gums",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "thyromegaly",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 55,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyromegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "hepatosplenomegaly",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 21,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hepatosplenomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "scoliosis",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 137,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "scoliosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "cyanosis",
+      "label": "DISEASE",
+      "start_char": 194,
+      "end_char": 202,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cyanosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "clubbing",
+      "label": "DISEASE",
+      "start_char": 204,
+      "end_char": 212,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clubbing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "Cranial nerves II",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 17,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cranial nerves II",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "intact.,LABORATORY",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 60,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intact.,LABORATORY",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "tacrolimus",
+      "label": "CHEMICAL",
+      "start_char": 100,
+      "end_char": 110,
+      "sentence_idx": 18,
+      "concept_id": "C0085149",
+      "concept_name": "tacrolimus",
+      "kb_source": "rxnorm",
+      "link_score": 0.9723042845726013,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "Prograf",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prograf",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 15,
+      "end_char": 18,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-12-30"
+    },
+    {
+      "text": "Valganciclovir",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 25,
+      "concept_id": "C0909381",
+      "concept_name": "valganciclovir",
+      "kb_source": "rxnorm",
+      "link_score": 0.9877065420150757,
+      "timestamp": "2007-12-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/30/2007",
+      "start_char": 2117,
+      "end_char": 2127
+    }
+  ]
+}

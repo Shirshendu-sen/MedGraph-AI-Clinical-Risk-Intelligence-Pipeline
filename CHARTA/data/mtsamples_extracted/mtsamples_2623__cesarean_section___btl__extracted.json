@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2623__cesarean_section___btl_.txt",
+    "file_name": "mtsamples_2623__cesarean_section___btl_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 6286,
+    "processed_at": "2026-05-09T09:54:05.312598"
+  },
+  "entities": [
+    {
+      "text": "None.,URINE",
+      "label": "CHEMICAL",
+      "start_char": 127,
+      "end_char": 138,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "None.,URINE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibromuscular adhesions",
+      "label": "DISEASE",
+      "start_char": 176,
+      "end_char": 199,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibromuscular adhesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "avascular",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 50,
+      "sentence_idx": 53,
+      "concept_id": "UNKNOWN",
+      "concept_name": "avascular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

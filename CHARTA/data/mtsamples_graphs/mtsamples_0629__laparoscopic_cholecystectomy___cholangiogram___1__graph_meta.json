@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_0629__laparoscopic_cholecystectomy___cholangiogram___1_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 6,
+  "entity_index": {
+    "C0007012": 0,
+    "UNKNOWN": 1,
+    "C0005070": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0629__laparoscopic_cholecystectomy___cholangiogram___1__graph.pt",
+  "source_dataset": "mtsamples_0629__laparoscopic_cholecystectomy___cholangiogram___1"
+}

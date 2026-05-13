@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0391__pyeloureteroscopy_.txt",
+    "file_name": "mtsamples_0391__pyeloureteroscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 6920,
+    "processed_at": "2026-05-09T09:53:14.611895"
+  },
+  "entities": [
+    {
+      "text": "obstructed renal ureteropelvic junction obstruction status",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 89,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructed renal ureteropelvic junction obstruction status",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pyelonephritis",
+      "label": "DISEASE",
+      "start_char": 186,
+      "end_char": 200,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pyelonephritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "renal insufficiency",
+      "label": "DISEASE",
+      "start_char": 205,
+      "end_char": 224,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "renal insufficiency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstructed renal ureteropelvic junction obstruction status",
+      "label": "DISEASE",
+      "start_char": 278,
+      "end_char": 336,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructed renal ureteropelvic junction obstruction status",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pyelonephritis",
+      "label": "DISEASE",
+      "start_char": 433,
+      "end_char": 447,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pyelonephritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "renal insufficiency",
+      "label": "DISEASE",
+      "start_char": 452,
+      "end_char": 471,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "renal insufficiency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left ureteropelvic junction obstruction",
+      "label": "DISEASE",
+      "start_char": 579,
+      "end_char": 618,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left ureteropelvic junction obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dilated ureter and dilated renal pelvis.,TUBES",
+      "label": "DISEASE",
+      "start_char": 926,
+      "end_char": 972,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dilated ureter and dilated renal pelvis.,TUBES",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "silicone",
+      "label": "CHEMICAL",
+      "start_char": 998,
+      "end_char": 1006,
+      "sentence_idx": 0,
+      "concept_id": "C0037107",
+      "concept_name": "silicon",
+      "kb_source": "rxnorm",
+      "link_score": 0.8461437821388245,
+      "timestamp": null
+    },
+    {
+      "text": "renal insufficiency",
+      "label": "DISEASE",
+      "start_char": 1198,
+      "end_char": 1217,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "renal insufficiency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "creatinine",
+      "label": "CHEMICAL",
+      "start_char": 1223,
+      "end_char": 1233,
+      "sentence_idx": 0,
+      "concept_id": "C0010294",
+      "concept_name": "creatinine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9711365103721619,
+      "timestamp": null
+    },
+    {
+      "text": "ureteropelvic junction repair",
+      "label": "DISEASE",
+      "start_char": 1256,
+      "end_char": 1285,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ureteropelvic junction repair",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pyelonephritis",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 71,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pyelonephritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cystitis",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 144,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cystitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 63,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

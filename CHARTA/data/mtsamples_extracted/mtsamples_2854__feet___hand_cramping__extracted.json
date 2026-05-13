@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2854__feet___hand_cramping_.txt",
+    "file_name": "mtsamples_2854__feet___hand_cramping_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2357,
+    "processed_at": "2026-05-09T09:54:09.782738"
+  },
+  "entities": [
+    {
+      "text": "hand cramps",
+      "label": "DISEASE",
+      "start_char": 130,
+      "end_char": 141,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hand cramps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cramps",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 64,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cramps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cramps",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 33,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cramps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cramps",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 29,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cramps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 79,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "cramp",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 110,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cramp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cramps",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 70,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cramps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bactrim",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 25,
+      "sentence_idx": 12,
+      "concept_id": "C0591139",
+      "concept_name": "Bactrim",
+      "kb_source": "rxnorm",
+      "link_score": 0.9739254117012024,
+      "timestamp": null
+    },
+    {
+      "text": "symptoms.,He",
+      "label": "CHEMICAL",
+      "start_char": 66,
+      "end_char": 78,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "symptoms.,He",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "AIDS",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 42,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AIDS",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 91,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "drug allergies.,SOCIAL",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 137,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "drug allergies.,SOCIAL",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "alcohol",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 17,
+      "sentence_idx": 23,
+      "concept_id": "C0001963",
+      "concept_name": "methyl alcohol",
+      "kb_source": "rxnorm",
+      "link_score": 0.7954661846160889,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4937__angiogram___angioplasty_.txt",
+    "file_name": "mtsamples_4937__angiogram___angioplasty_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4891,
+    "processed_at": "2026-05-09T09:54:47.787806"
+  },
+  "entities": [
+    {
+      "text": "Arterial insufficiency",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 22,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Arterial insufficiency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Arterial insufficiency",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 22,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Arterial insufficiency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Left external iliac artery",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 26,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left external iliac artery",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Left external iliac artery stent placement.,6",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 45,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left external iliac artery stent placement.,6",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 94,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calcific disease",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 48,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcific disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "femoral arteries.,Our",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 157,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "femoral arteries.,Our",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "angioplasty",
+      "label": "DISEASE",
+      "start_char": 212,
+      "end_char": 223,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "angioplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 92,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "angioplasty",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 46,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "angioplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "balloon.,The left external iliac artery",
+      "label": "DISEASE",
+      "start_char": 270,
+      "end_char": 309,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "balloon.,The left external iliac artery",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "angioplasty",
+      "label": "DISEASE",
+      "start_char": 276,
+      "end_char": 287,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "angioplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "angioplasty",
+      "label": "DISEASE",
+      "start_char": 260,
+      "end_char": 271,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "angioplasty",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Protamine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 28,
+      "concept_id": "C0033603",
+      "concept_name": "protamines",
+      "kb_source": "rxnorm",
+      "link_score": 0.961919367313385,
+      "timestamp": null
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 45,
+      "end_char": 52,
+      "sentence_idx": 28,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

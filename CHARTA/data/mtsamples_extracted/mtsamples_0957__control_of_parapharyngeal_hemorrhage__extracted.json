@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0957__control_of_parapharyngeal_hemorrhage_.txt",
+    "file_name": "mtsamples_0957__control_of_parapharyngeal_hemorrhage_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2045,
+    "processed_at": "2026-05-09T09:53:30.111995"
+  },
+  "entities": [
+    {
+      "text": "pharyngitis",
+      "label": "DISEASE",
+      "start_char": 444,
+      "end_char": 455,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pharyngitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstructive adenotonsillar hypertrophy",
+      "label": "DISEASE",
+      "start_char": 460,
+      "end_char": 498,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive adenotonsillar hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 62,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 434,
+      "end_char": 444,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "type mouth gag",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 28,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "type mouth gag",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 27,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 17,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 85,
+      "end_char": 93,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "1:100,000 adrenalin",
+      "label": "CHEMICAL",
+      "start_char": 99,
+      "end_char": 118,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:100,000 adrenalin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

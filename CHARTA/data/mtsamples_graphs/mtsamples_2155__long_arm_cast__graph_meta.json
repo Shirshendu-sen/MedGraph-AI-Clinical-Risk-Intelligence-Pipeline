@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2155__long_arm_cast_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699142": 1,
+    "C0009214": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2155__long_arm_cast__graph.pt",
+  "source_dataset": "mtsamples_2155__long_arm_cast"
+}

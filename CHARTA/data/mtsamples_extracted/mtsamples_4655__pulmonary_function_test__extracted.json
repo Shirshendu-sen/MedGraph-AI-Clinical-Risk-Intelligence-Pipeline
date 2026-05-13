@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4655__pulmonary_function_test_.txt",
+    "file_name": "mtsamples_4655__pulmonary_function_test_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 515,
+    "processed_at": "2026-05-09T09:54:42.853200"
+  },
+  "entities": [
+    {
+      "text": "ventilatory impairment",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 119,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ventilatory impairment",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

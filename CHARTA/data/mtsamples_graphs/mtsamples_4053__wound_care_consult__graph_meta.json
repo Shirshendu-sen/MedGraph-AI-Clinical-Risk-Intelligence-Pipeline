@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_4053__wound_care_consult_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 78,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0004749": 1,
+    "C0079488": 2,
+    "C1570232": 3,
+    "C1505021": 4,
+    "C0030346": 5
+  },
+  "visit_dates": [
+    "2008-07-08"
+  ],
+  "graph_file": "mtsamples_4053__wound_care_consult__graph.pt",
+  "source_dataset": "mtsamples_4053__wound_care_consult"
+}

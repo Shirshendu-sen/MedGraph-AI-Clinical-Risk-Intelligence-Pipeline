@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4596__tracheostomy___scoop_procedure_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 15,
+  "entity_index": {
+    "C0030054": 0,
+    "UNKNOWN": 1,
+    "C0023660": 2,
+    "C0014563": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4596__tracheostomy___scoop_procedure__graph.pt",
+  "source_dataset": "mtsamples_4596__tracheostomy___scoop_procedure"
+}

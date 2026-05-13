@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2824__mri_brain____meningioma__olfactory__.txt",
+    "file_name": "mtsamples_2824__mri_brain____meningioma__olfactory__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2497,
+    "processed_at": "2026-05-09T09:54:09.036720"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "headaches, weakness",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 33,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches, weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 43,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "weight loss",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 56,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weight loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "Diabetes Mellitus",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 117,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diabetes Mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "EOM",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EOM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "nystagmus",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 45,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nystagmus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "scotoma",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 49,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "scotoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "pallor of the disc",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 37,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pallor of the disc",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "isointense lesion",
+      "label": "DISEASE",
+      "start_char": 145,
+      "end_char": 162,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "isointense lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 96,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "obstruction of the sphenoid and frontal sinuses.,It",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 130,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstruction of the sphenoid and frontal sinuses.,It",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "gadolinium",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 47,
+      "sentence_idx": 15,
+      "concept_id": "C0016911",
+      "concept_name": "gadolinium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9583680033683777,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 88,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "meningioma",
+      "label": "DISEASE",
+      "start_char": 199,
+      "end_char": 209,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meningioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    },
+    {
+      "text": "anosmia",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 11,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anosmia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1992-10-07"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/7/92",
+      "start_char": 1224,
+      "end_char": 1231
+    },
+    {
+      "raw_text": "9/6/96",
+      "start_char": 2286,
+      "end_char": 2292
+    }
+  ]
+}

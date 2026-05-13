@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3484__laparoscopic_cholecystectomy___2_.txt",
+    "file_name": "mtsamples_3484__laparoscopic_cholecystectomy___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2122,
+    "processed_at": "2026-05-09T09:54:22.508902"
+  },
+  "entities": [
+    {
+      "text": "Chronic cholecystitis.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 36,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chronic cholecystitis.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronic cholecystitis",
+      "label": "DISEASE",
+      "start_char": 160,
+      "end_char": 181,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic cholecystitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obesity",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 32,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obesity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 54,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injury to the duct",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 125,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury to the duct",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injury to the common duct",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 118,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury to the common duct",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 121,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 19,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

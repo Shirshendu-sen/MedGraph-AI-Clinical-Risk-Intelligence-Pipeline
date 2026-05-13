@@ -1,0 +1,25 @@
+{
+  "patient_id": "mtsamples_3860__pancreatic_mass___discharge_summary_",
+  "num_entities": 12,
+  "num_visits": 1,
+  "num_edges": 73,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0206046": 2,
+    "C0591971": 3,
+    "C0037473": 4,
+    "C0032821": 5,
+    "C0596019": 6,
+    "C0010294": 7,
+    "C0030304": 8,
+    "C0591423": 9,
+    "C0700899": 10,
+    "C0014025": 11
+  },
+  "visit_dates": [
+    "2007-04-04"
+  ],
+  "graph_file": "mtsamples_3860__pancreatic_mass___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3860__pancreatic_mass___discharge_summary"
+}

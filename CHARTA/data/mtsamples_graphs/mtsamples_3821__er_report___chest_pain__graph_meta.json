@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_3821__er_report___chest_pain_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 46,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0002658": 1,
+    "C0030346": 2,
+    "C0017887": 3,
+    "C0023660": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3821__er_report___chest_pain__graph.pt",
+  "source_dataset": "mtsamples_3821__er_report___chest_pain"
+}

@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1756__psychiatric_consult___1_.txt",
+    "file_name": "mtsamples_1756__psychiatric_consult___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4154,
+    "processed_at": "2026-05-09T09:53:49.651897"
+  },
+  "entities": [
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 44,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "aortic stenosis",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 89,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "bipolar disorder",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 37,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar disorder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "schizophrenia",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 88,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "schizophrenia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "Depakote",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 5,
+      "concept_id": "C0719751",
+      "concept_name": "Depakote",
+      "kb_source": "rxnorm",
+      "link_score": 0.9490618705749512,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "Geodon",
+      "label": "CHEMICAL",
+      "start_char": 48,
+      "end_char": 54,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Geodon",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "hallucinations",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 25,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hallucinations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "psychosis",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 36,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "psychosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "ideation",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 69,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ideation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 60,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "complaint",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 92,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "complaint",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "chronic mental illness",
+      "label": "DISEASE",
+      "start_char": 319,
+      "end_char": 341,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic mental illness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "substance abuse",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 64,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "substance abuse",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "substance abuse",
+      "label": "DISEASE",
+      "start_char": 283,
+      "end_char": 298,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "substance abuse",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "depression",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 34,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "depression",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "restless",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 24,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "restless",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "oxygen",
+      "label": "CHEMICAL",
+      "start_char": 147,
+      "end_char": 153,
+      "sentence_idx": 14,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "psychotic",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 29,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "psychotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 32,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "Bipolar disorder",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 16,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bipolar disorder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "organic brain syndrome",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 27,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "organic brain syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    },
+    {
+      "text": "reflux",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 23,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "reflux",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-19"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "05/19/2007",
+      "start_char": 2348,
+      "end_char": 2358
+    }
+  ]
+}

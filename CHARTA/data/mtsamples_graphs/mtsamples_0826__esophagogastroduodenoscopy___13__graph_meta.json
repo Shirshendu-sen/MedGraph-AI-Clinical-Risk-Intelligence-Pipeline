@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_0826__esophagogastroduodenoscopy___13_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 45,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0014806": 1,
+    "C0028833": 2,
+    "C0030304": 3,
+    "C0015846": 4,
+    "C0026056": 5
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0826__esophagogastroduodenoscopy___13__graph.pt",
+  "source_dataset": "mtsamples_0826__esophagogastroduodenoscopy___13"
+}

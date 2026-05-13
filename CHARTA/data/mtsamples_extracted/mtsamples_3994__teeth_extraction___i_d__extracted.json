@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3994__teeth_extraction___i_d_.txt",
+    "file_name": "mtsamples_3994__teeth_extraction___i_d_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2713,
+    "processed_at": "2026-05-09T09:54:31.456251"
+  },
+  "entities": [
+    {
+      "text": "Carious teeth",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Carious teeth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "Left mandibular vestibular abscess.,POSTOPERATIVE DIAGNOSES,1",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 61,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left mandibular vestibular abscess.,POSTOPERATIVE DIAGNOSES,1",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "Carious teeth",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 13,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Carious teeth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "Left mandibular vestibular",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 26,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Left mandibular vestibular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "left mandibular vestibular abscess",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 65,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left mandibular vestibular abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 451,
+      "end_char": 459,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "carious teeth",
+      "label": "DISEASE",
+      "start_char": 476,
+      "end_char": 489,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carious teeth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "abscessed",
+      "label": "DISEASE",
+      "start_char": 506,
+      "end_char": 515,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscessed",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "carious teeth",
+      "label": "DISEASE",
+      "start_char": 639,
+      "end_char": 652,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carious teeth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 14,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 113,
+      "end_char": 122,
+      "sentence_idx": 7,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 141,
+      "end_char": 152,
+      "sentence_idx": 7,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 168,
+      "end_char": 176,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "1:200,000 epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 187,
+      "end_char": 208,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "1:200,000 epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "purulent",
+      "label": "DISEASE",
+      "start_char": 153,
+      "end_char": 161,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "purulent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "purulent",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 106,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "purulent",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 45,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2010-03-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "03/04/10",
+      "start_char": 727,
+      "end_char": 735
+    }
+  ]
+}

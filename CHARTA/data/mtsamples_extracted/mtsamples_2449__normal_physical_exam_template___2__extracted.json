@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2449__normal_physical_exam_template___2_.txt",
+    "file_name": "mtsamples_2449__normal_physical_exam_template___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1753,
+    "processed_at": "2026-05-09T09:54:01.938125"
+  },
+  "entities": [
+    {
+      "text": "Extraocular movements",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 21,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Extraocular movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nose, mouth",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 17,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nose, mouth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 28,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thyromegaly",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 14,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyromegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abdominal aortic bruits",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 36,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal aortic bruits",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "clubbing, cyanosis",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 167,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clubbing, cyanosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breasts",
+      "label": "DISEASE",
+      "start_char": 241,
+      "end_char": 248,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breasts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 267,
+      "end_char": 277,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "organomegaly",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 87,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "organomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "groin adenopathy",
+      "label": "DISEASE",
+      "start_char": 203,
+      "end_char": 219,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "groin adenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "noted.,SKIN",
+      "label": "DISEASE",
+      "start_char": 224,
+      "end_char": 235,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "noted.,SKIN",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

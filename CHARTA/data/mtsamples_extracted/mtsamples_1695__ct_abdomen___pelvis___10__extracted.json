@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1695__ct_abdomen___pelvis___10_.txt",
+    "file_name": "mtsamples_1695__ct_abdomen___pelvis___10_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1151,
+    "processed_at": "2026-05-09T09:53:48.557921"
+  },
+  "entities": [
+    {
+      "text": "retroperitoneal hematoma",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 115,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retroperitoneal hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calcifications",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 17,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcifications",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleural effusions",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 52,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left-sided cystic lesions",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 39,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left-sided cystic lesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bibasilar pleural effusions",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 27,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bibasilar pleural effusions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

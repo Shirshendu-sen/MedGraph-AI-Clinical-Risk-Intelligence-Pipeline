@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4198__normal_newborn_infant_physical_exam_.txt",
+    "file_name": "mtsamples_4198__normal_newborn_infant_physical_exam_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 860,
+    "processed_at": "2026-05-09T09:54:34.787654"
+  },
+  "entities": [
+    {
+      "text": "Head is normocephalic with anterior fontanelle",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 111,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Head is normocephalic with anterior fontanelle",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "throat",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 15,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Normal.,EXTREMITIES",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 59,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Normal.,EXTREMITIES",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rash",
+      "label": "DISEASE",
+      "start_char": 202,
+      "end_char": 206,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rash",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

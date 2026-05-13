@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2382__phacoemulsification___lens_implantation___3_.txt",
+    "file_name": "mtsamples_2382__phacoemulsification___lens_implantation___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1968,
+    "processed_at": "2026-05-09T09:54:00.919945"
+  },
+  "entities": [
+    {
+      "text": "Cataract",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 34,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Cataract",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 81,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 400,
+      "end_char": 408,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "preservative-free lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 66,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "preservative-free lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 18,
+      "end_char": 27,
+      "sentence_idx": 5,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 60,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Provisc",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 23,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Provisc",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lens",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 8,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lens",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Provisc",
+      "label": "CHEMICAL",
+      "start_char": 159,
+      "end_char": 166,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Provisc",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Michol",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Michol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Acular",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 14,
+      "concept_id": "C0592931",
+      "concept_name": "Acular",
+      "kb_source": "rxnorm",
+      "link_score": 0.9779049158096313,
+      "timestamp": null
+    },
+    {
+      "text": "Vigamox",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 18,
+      "sentence_idx": 14,
+      "concept_id": "C1330598",
+      "concept_name": "Vigamox",
+      "kb_source": "rxnorm",
+      "link_score": 0.9880033135414124,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

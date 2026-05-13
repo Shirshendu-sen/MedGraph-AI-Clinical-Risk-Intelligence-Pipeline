@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1680__ct_chest___1_.txt",
+    "file_name": "mtsamples_1680__ct_chest___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1193,
+    "processed_at": "2026-05-09T09:53:48.281140"
+  },
+  "entities": [
+    {
+      "text": "Pneumonia",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 60,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 72,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atelectatic",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 40,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectatic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pleural effusion",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 28,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pleural effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothorax",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 44,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 56,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atherosclerosis",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 76,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atherosclerosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenopathy",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 33,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thoracic spine.,IMPRESSION:,1.Anterior small right upper lobe infiltrate/consolidation",
+      "label": "DISEASE",
+      "start_char": 238,
+      "end_char": 324,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thoracic spine.,IMPRESSION:,1.Anterior small right upper lobe infiltrate/consolidation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 98,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 114,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

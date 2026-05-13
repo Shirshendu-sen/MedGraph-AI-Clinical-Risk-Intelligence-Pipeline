@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0390__radical_mastectomy_.txt",
+    "file_name": "mtsamples_0390__radical_mastectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2549,
+    "processed_at": "2026-05-09T09:53:14.601898"
+  },
+  "entities": [
+    {
+      "text": "carcinoma of left breast.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 73,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carcinoma of left breast.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carcinoma of left breast.,OPERATION",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 130,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carcinoma of left breast.,OPERATION",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carcinoma of the left breast",
+      "label": "DISEASE",
+      "start_char": 355,
+      "end_char": 383,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carcinoma of the left breast",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "TED stockings",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 17,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "TED stockings",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 61,
+      "end_char": 72,
+      "sentence_idx": 8,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 78,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

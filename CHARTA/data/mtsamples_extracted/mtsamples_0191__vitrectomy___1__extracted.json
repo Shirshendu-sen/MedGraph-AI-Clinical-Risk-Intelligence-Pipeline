@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0191__vitrectomy___1_.txt",
+    "file_name": "mtsamples_0191__vitrectomy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2328,
+    "processed_at": "2026-05-09T09:53:08.927187"
+  },
+  "entities": [
+    {
+      "text": "Vitreous hemorrhage",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 45,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Vitreous hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "retinal detachment",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 68,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retinal detachment",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Vitreous hemorrhage",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 126,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Vitreous hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "retinal detachment",
+      "label": "DISEASE",
+      "start_char": 131,
+      "end_char": 149,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retinal detachment",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 396,
+      "end_char": 404,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 414,
+      "end_char": 423,
+      "sentence_idx": 0,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "akinesia",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 47,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "akinesia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "retinal tears",
+      "label": "DISEASE",
+      "start_char": 127,
+      "end_char": 140,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retinal tears",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vitreous",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vitreous",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

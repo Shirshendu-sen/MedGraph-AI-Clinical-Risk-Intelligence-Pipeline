@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_3459__proctitis___proctocolitis_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 54,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0007561": 2,
+    "C0013090": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3459__proctitis___proctocolitis__graph.pt",
+  "source_dataset": "mtsamples_3459__proctitis___proctocolitis"
+}

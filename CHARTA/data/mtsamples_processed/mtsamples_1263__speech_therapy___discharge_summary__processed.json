@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1263__speech_therapy___discharge_summary_.txt",
+    "file_name": "mtsamples_1263__speech_therapy___discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 842,
+    "processed_at": "2026-05-09T09:53:38.177060"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1263__speech_therapy___discharge_summary_.txt",
+    "text": "LONG-TERM GOALS:,  Both functional and cognitive-linguistic ability to improve safety and independence at home and in the community.  This goal has been met based on the patient and husband reports the patient is able to complete all activities, which she desires to do at home.  During the last reevaluation, the patient had a significant progress and all cognitive domains evaluated, which are attention, memory, executive functions, language, and visuospatial skill.  She continues to have an overall mild cognitive-linguistic deficit, but this is significantly improved from her initial evaluation, which showed severe impairment., ,The patient does no longer need a skilled speech therapy because she has accomplished all of her goals and her progress has plateaued.  The patient and her husband both agreed with the patient's discharge.",
+    "char_count": 842,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "LONG-TERM GOALS:, Both functional and cognitive-linguistic ability to improve safety and independence at home and in the community. This goal has been met based on the patient and husband reports the patient is able to complete all activities, which she desires to do at home. During the last reevaluation, the patient had a significant progress and all cognitive domains evaluated, which are attention, memory, executive functions, language, and visuospatial skill. She continues to have an overall mild cognitive-linguistic deficit, but this is significantly improved from her initial evaluation, which showed severe impairment., ,The patient does no longer need a skilled speech therapy because she has accomplished all of her goals and her progress has plateaued. The patient and her husband both agreed with the patient's discharge.",
+    "sentences": [
+      "LONG-TERM GOALS:, Both functional and cognitive-linguistic ability to improve safety and independence at home and in the community.",
+      "This goal has been met based on the patient and husband reports the patient is able to complete all activities, which she desires to do at home.",
+      "During the last reevaluation, the patient had a significant progress and all cognitive domains evaluated, which are attention, memory, executive functions, language, and visuospatial skill.",
+      "She continues to have an overall mild cognitive-linguistic deficit, but this is significantly improved from her initial evaluation, which showed severe impairment., ,The patient does no longer need a skilled speech therapy because she has accomplished all of her goals and her progress has plateaued.",
+      "The patient and her husband both agreed with the patient's discharge."
+    ],
+    "sentence_count": 5,
+    "original_length": 842,
+    "cleaned_length": 837,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "LONG-TERM GOALS:,  Both functional and cognitive-linguistic ability to improve safety and independence at home and in the community.  This goal has been met based on the patient and husband reports the patient is able to complete all activities, which she desires to do at home.  During the last reevaluation, the patient had a significant progress and all cognitive domains evaluated, which are attention, memory, executive functions, language, and visuospatial skill.  She continues to have an overall mild cognitive-linguistic deficit, but this is significantly improved from her initial evaluation, which showed severe impairment., ,The patient does no longer need a skilled speech therapy because she has accomplished all of her goals and her progress has plateaued.  The patient and her husband both agreed with the patient's discharge.",
+    "cleaned_text": "LONG-TERM GOALS:, Both functional and cognitive-linguistic ability to improve safety and independence at home and in the community. This goal has been met based on the patient and husband reports the patient is able to complete all activities, which she desires to do at home. During the last reevaluation, the patient had a significant progress and all cognitive domains evaluated, which are attention, memory, executive functions, language, and visuospatial skill. She continues to have an overall mild cognitive-linguistic deficit, but this is significantly improved from her initial evaluation, which showed severe impairment., ,The patient does no longer need a skilled speech therapy because she has accomplished all of her goals and her progress has plateaued. The patient and her husband both agreed with the patient's discharge.",
+    "sentences": [
+      "LONG-TERM GOALS:, Both functional and cognitive-linguistic ability to improve safety and independence at home and in the community.",
+      "This goal has been met based on the patient and husband reports the patient is able to complete all activities, which she desires to do at home.",
+      "During the last reevaluation, the patient had a significant progress and all cognitive domains evaluated, which are attention, memory, executive functions, language, and visuospatial skill.",
+      "She continues to have an overall mild cognitive-linguistic deficit, but this is significantly improved from her initial evaluation, which showed severe impairment., ,The patient does no longer need a skilled speech therapy because she has accomplished all of her goals and her progress has plateaued.",
+      "The patient and her husband both agreed with the patient's discharge."
+    ],
+    "sentence_count": 5
+  }
+}

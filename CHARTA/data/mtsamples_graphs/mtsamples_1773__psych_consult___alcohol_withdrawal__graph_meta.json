@@ -1,0 +1,30 @@
+{
+  "patient_id": "mtsamples_1773__psych_consult___alcohol_withdrawal_",
+  "num_entities": 17,
+  "num_visits": 1,
+  "num_edges": 153,
+  "entity_index": {
+    "C0001963": 0,
+    "UNKNOWN": 1,
+    "C0723045": 2,
+    "C0032825": 3,
+    "C0728963": 4,
+    "C0022957": 5,
+    "C0699194": 6,
+    "C0037473": 7,
+    "C0032821": 8,
+    "C0973231": 9,
+    "C0010294": 10,
+    "C0017725": 11,
+    "C0006675": 12,
+    "C0024467": 13,
+    "C0039840": 14,
+    "C0178638": 15,
+    "C0040805": 16
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1773__psych_consult___alcohol_withdrawal__graph.pt",
+  "source_dataset": "mtsamples_1773__psych_consult___alcohol_withdrawal"
+}

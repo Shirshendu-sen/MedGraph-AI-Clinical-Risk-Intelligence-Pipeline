@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0078__orchiectomy___testis_fixation_.txt",
+    "file_name": "mtsamples_0078__orchiectomy___testis_fixation_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3708,
+    "processed_at": "2026-05-09T09:53:05.596348"
+  },
+  "entities": [
+    {
+      "text": "right undescended testis.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 76,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right undescended testis.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right undescended testis",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 126,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right undescended testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "undescended testis",
+      "label": "DISEASE",
+      "start_char": 187,
+      "end_char": 205,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "undescended testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carbon dioxide",
+      "label": "CHEMICAL",
+      "start_char": 25,
+      "end_char": 39,
+      "sentence_idx": 11,
+      "concept_id": "C0007012",
+      "concept_name": "carbon dioxide",
+      "kb_source": "rxnorm",
+      "link_score": 0.9571364521980286,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 21,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 21,
+      "end_char": 27,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "testis",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 112,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "testis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Toradol",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 60,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Toradol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

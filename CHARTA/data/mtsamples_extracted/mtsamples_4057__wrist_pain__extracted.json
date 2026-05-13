@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4057__wrist_pain_.txt",
+    "file_name": "mtsamples_4057__wrist_pain_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 64,
+    "processed_at": "2026-05-09T09:54:32.728176"
+  },
+  "entities": [],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1392__dietary_consult___3_.txt",
+    "file_name": "mtsamples_1392__dietary_consult___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 895,
+    "processed_at": "2026-05-09T09:53:40.485956"
+  },
+  "entities": [
+    {
+      "text": "sugar-free Kool-Aid",
+      "label": "CHEMICAL",
+      "start_char": 104,
+      "end_char": 123,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sugar-free Kool-Aid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2005-06-13"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "June 13, 2005",
+      "start_char": 869,
+      "end_char": 882
+    }
+  ]
+}

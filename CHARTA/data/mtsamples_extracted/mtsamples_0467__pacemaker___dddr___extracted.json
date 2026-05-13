@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0467__pacemaker___dddr__.txt",
+    "file_name": "mtsamples_0467__pacemaker___dddr__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4524,
+    "processed_at": "2026-05-09T09:53:16.823338"
+  },
+  "entities": [
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 149,
+      "end_char": 158,
+      "sentence_idx": 1,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "Atrial Bipolar",
+      "label": "DISEASE",
+      "start_char": 460,
+      "end_char": 474,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Atrial Bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Bipolar",
+      "label": "DISEASE",
+      "start_char": 596,
+      "end_char": 603,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bipolar",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 84,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

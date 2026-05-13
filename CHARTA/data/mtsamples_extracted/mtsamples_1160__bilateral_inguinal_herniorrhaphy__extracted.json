@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1160__bilateral_inguinal_herniorrhaphy_.txt",
+    "file_name": "mtsamples_1160__bilateral_inguinal_herniorrhaphy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2074,
+    "processed_at": "2026-05-09T09:53:35.837901"
+  },
+  "entities": [
+    {
+      "text": "hernias",
+      "label": "DISEASE",
+      "start_char": 326,
+      "end_char": 333,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hydrocele",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 67,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydrocele",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

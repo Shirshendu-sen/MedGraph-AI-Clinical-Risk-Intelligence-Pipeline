@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4796__dobutamine_stress_test_.txt",
+    "file_name": "mtsamples_4796__dobutamine_stress_test_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1085,
+    "processed_at": "2026-05-09T09:54:44.754865"
+  },
+  "entities": [
+    {
+      "text": "Dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 8,
+      "end_char": 18,
+      "sentence_idx": 0,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    },
+    {
+      "text": "Dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 74,
+      "end_char": 84,
+      "sentence_idx": 0,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    },
+    {
+      "text": "allergic",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 160,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 5,
+      "end_char": 15,
+      "sentence_idx": 2,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    },
+    {
+      "text": "dobutamine",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 24,
+      "sentence_idx": 6,
+      "concept_id": "C0012963",
+      "concept_name": "dobutamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.937402606010437,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

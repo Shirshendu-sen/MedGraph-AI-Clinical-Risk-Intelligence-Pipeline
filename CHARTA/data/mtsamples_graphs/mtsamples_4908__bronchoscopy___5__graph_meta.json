@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4908__bronchoscopy___5_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0003781": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4908__bronchoscopy___5__graph.pt",
+  "source_dataset": "mtsamples_4908__bronchoscopy___5"
+}

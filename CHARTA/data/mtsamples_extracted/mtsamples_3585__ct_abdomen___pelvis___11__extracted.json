@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3585__ct_abdomen___pelvis___11_.txt",
+    "file_name": "mtsamples_3585__ct_abdomen___pelvis___11_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1920,
+    "processed_at": "2026-05-09T09:54:24.216487"
+  },
+  "entities": [
+    {
+      "text": "Abnormal liver enzymes",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 110,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Abnormal liver enzymes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intrahepatic biliary ductal dilatation",
+      "label": "DISEASE",
+      "start_char": 172,
+      "end_char": 210,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrahepatic biliary ductal dilatation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right inguinal hernia",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 131,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right inguinal hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "loop of small",
+      "label": "CHEMICAL",
+      "start_char": 145,
+      "end_char": 158,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loop of small",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "partial obstruction",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 38,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "partial obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticulosis",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 55,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticulosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticulitis.,There",
+      "label": "CHEMICAL",
+      "start_char": 124,
+      "end_char": 145,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticulitis.,There",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "osteopenia",
+      "label": "DISEASE",
+      "start_char": 157,
+      "end_char": 167,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "osteopenia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lower lumbar spine.,The urinary bladder",
+      "label": "DISEASE",
+      "start_char": 219,
+      "end_char": 258,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower lumbar spine.,The urinary bladder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right inguinal hernia containing small bowel",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 44,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right inguinal hernia containing small bowel",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Partial obstruction",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 19,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Partial obstruction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Diverticulosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Diverticulosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intrahepatic biliary ductal dilatation.,6",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 79,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrahepatic biliary ductal dilatation.,6",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Osteopenia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Osteopenia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

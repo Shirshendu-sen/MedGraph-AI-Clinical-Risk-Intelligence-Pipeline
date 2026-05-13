@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1980__coccygeal_injection_.txt",
+    "file_name": "mtsamples_1980__coccygeal_injection_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 883,
+    "processed_at": "2026-05-09T09:53:54.093352"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 168,
+      "end_char": 172,
+      "sentence_idx": 1,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "cortisone",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 35,
+      "sentence_idx": 4,
+      "concept_id": "C0010137",
+      "concept_name": "cortisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9763526916503906,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 54,
+      "end_char": 62,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 52,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "form.,POST",
+      "label": "CHEMICAL",
+      "start_char": 69,
+      "end_char": 79,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "form.,POST",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "redness",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 159,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "redness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 161,
+      "end_char": 169,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inflammation",
+      "label": "DISEASE",
+      "start_char": 171,
+      "end_char": 183,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inflammation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

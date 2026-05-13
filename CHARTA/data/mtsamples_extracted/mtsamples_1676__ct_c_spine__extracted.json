@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1676__ct_c_spine_.txt",
+    "file_name": "mtsamples_1676__ct_c_spine_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 712,
+    "processed_at": "2026-05-09T09:53:48.163719"
+  },
+  "entities": [
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 241,
+      "end_char": 249,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dislocation",
+      "label": "DISEASE",
+      "start_char": 251,
+      "end_char": 262,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dislocation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylolisthesis",
+      "label": "DISEASE",
+      "start_char": 267,
+      "end_char": 284,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylolisthesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dens",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 38,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dens",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "acute abnormalities",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 74,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

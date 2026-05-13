@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1268__speech_therapy_evaluation___1_.txt",
+    "file_name": "mtsamples_1268__speech_therapy_evaluation___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3759,
+    "processed_at": "2026-05-09T09:53:38.264072"
+  },
+  "entities": [
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 36,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "breast cancer",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 146,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breast cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 57,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 93,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 156,
+      "end_char": 164,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "slurring",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 73,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "slurring",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "hand tremors",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 93,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hand tremors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "left facial droop",
+      "label": "DISEASE",
+      "start_char": 175,
+      "end_char": 192,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left facial droop",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    },
+    {
+      "text": "cognitive linguistic deficits",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 155,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cognitive linguistic deficits",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-10-24"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "10/24/08",
+      "start_char": 266,
+      "end_char": 274
+    },
+    {
+      "raw_text": "12/05/08",
+      "start_char": 388,
+      "end_char": 396
+    },
+    {
+      "raw_text": "01/05/09",
+      "start_char": 588,
+      "end_char": 596
+    }
+  ]
+}

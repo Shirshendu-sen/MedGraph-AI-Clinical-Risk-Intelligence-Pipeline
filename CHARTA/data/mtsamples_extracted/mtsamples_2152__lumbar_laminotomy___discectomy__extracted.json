@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2152__lumbar_laminotomy___discectomy_.txt",
+    "file_name": "mtsamples_2152__lumbar_laminotomy___discectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4457,
+    "processed_at": "2026-05-09T09:53:57.472779"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 478,
+      "end_char": 482,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "low back pain",
+      "label": "DISEASE",
+      "start_char": 624,
+      "end_char": 637,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "low back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subligamentous disc herniation",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 48,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subligamentous disc herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 67,
+      "sentence_idx": 44,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

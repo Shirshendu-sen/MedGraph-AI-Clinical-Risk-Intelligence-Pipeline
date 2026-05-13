@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1845__physical_therapy___osteoarthritis_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 35,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0027396": 1,
+    "C0633084": 2,
+    "C0030346": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1845__physical_therapy___osteoarthritis__graph.pt",
+  "source_dataset": "mtsamples_1845__physical_therapy___osteoarthritis"
+}

@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_2410__clear_corneal_temporal_incision_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 6,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0700889": 1,
+    "C0526091": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2410__clear_corneal_temporal_incision__graph.pt",
+  "source_dataset": "mtsamples_2410__clear_corneal_temporal_incision"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_4064__ventricular_ectopy___consult_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 56,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0004057": 1,
+    "C0070166": 2,
+    "C0002144": 3,
+    "C0040165": 4,
+    "C0065374": 5,
+    "C0025859": 6,
+    "C0286651": 7
+  },
+  "visit_dates": [
+    "2009-08-26"
+  ],
+  "graph_file": "mtsamples_4064__ventricular_ectopy___consult__graph.pt",
+  "source_dataset": "mtsamples_4064__ventricular_ectopy___consult"
+}

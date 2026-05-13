@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_2190__hypergranulation___consult_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0079134": 1,
+    "C0701042": 2,
+    "C0030304": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2190__hypergranulation___consult__graph.pt",
+  "source_dataset": "mtsamples_2190__hypergranulation___consult"
+}

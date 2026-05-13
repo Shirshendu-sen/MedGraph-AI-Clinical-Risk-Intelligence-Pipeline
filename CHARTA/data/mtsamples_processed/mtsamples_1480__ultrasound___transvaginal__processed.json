@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1480__ultrasound___transvaginal_.txt",
+    "file_name": "mtsamples_1480__ultrasound___transvaginal_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 906,
+    "processed_at": "2026-05-09T09:53:43.025349"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1480__ultrasound___transvaginal_.txt",
+    "text": "EXAM: , Transvaginal ultrasound.,HISTORY: , Pelvic pain.,FINDINGS: , The right ovary measures 1.6 x 3.4 x 2.0 cm.  There are several simple-appearing probable follicular cysts. There is no abnormal flow to suggest torsion on the right.  Left ovary is enlarged, demonstrating a 6.0 x 3.5 x 3.7 cm complex cystic mass of uncertain etiology.  This could represent a large hemorrhagic cyst versus abscess.  There is no evidence for left ovarian torsion.  There is a small amount of fluid in the cul-de-sac likely physiologic.,The uterus measures 7.7 x 5.0 cm.  The endometrial echo is normal at 6 mm.,IMPRESSION:,1.  No evidence for torsion.,2.  Large, complex cystic left ovarian mass as described.  This could represent a large hemorrhagic cyst; however, an abscess/neoplasm cannot be excluded.  Recommend either short interval followup versus laparoscopic evaluation given the large size and complex nature.",
+    "char_count": 906,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , Transvaginal ultrasound.,HISTORY: , Pelvic pain.,FINDINGS: , The right ovary measures 1.6 x 3.4 x 2.0 cm. There are several simple-appearing probable follicular cysts. There is no abnormal flow to suggest torsion on the right. Left ovary is enlarged, demonstrating a 6.0 x 3.5 x 3.7 cm complex cystic mass of uncertain etiology. This could represent a large hemorrhagic cyst versus abscess. There is no evidence for left ovarian torsion. There is a small amount of fluid in the cul-de-sac likely physiologic.,The uterus measures 7.7 x 5.0 cm. The endometrial echo is normal at 6 mm.,IMPRESSION:,1. No evidence for torsion.,2. Large, complex cystic left ovarian mass as described. This could represent a large hemorrhagic cyst; however, an abscess/neoplasm cannot be excluded. Recommend either short interval followup versus laparoscopic evaluation given the large size and complex nature.",
+    "sentences": [
+      "EXAM: , Transvaginal ultrasound.,HISTORY: , Pelvic pain.,FINDINGS: , The right ovary measures 1.6 x 3.4 x 2.0 cm.",
+      "There are several simple-appearing probable follicular cysts.",
+      "There is no abnormal flow to suggest torsion on the right.",
+      "Left ovary is enlarged, demonstrating a 6.0 x 3.5 x 3.7 cm complex cystic mass of uncertain etiology.",
+      "This could represent a large hemorrhagic cyst versus abscess.",
+      "There is no evidence for left ovarian torsion.",
+      "There is a small amount of fluid in the cul-de-sac likely physiologic.,The uterus measures 7.7 x 5.0 cm.",
+      "The endometrial echo is normal at 6 mm.,IMPRESSION:,1.",
+      "No evidence for torsion.,2.",
+      "Large, complex cystic left ovarian mass as described.",
+      "This could represent a large hemorrhagic cyst; however, an abscess/neoplasm cannot be excluded.",
+      "Recommend either short interval followup versus laparoscopic evaluation given the large size and complex nature."
+    ],
+    "sentence_count": 12,
+    "original_length": 906,
+    "cleaned_length": 896,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , Transvaginal ultrasound.,HISTORY: , Pelvic pain.,FINDINGS: , The right ovary measures 1.6 x 3.4 x 2.0 cm.  There are several simple-appearing probable follicular cysts. There is no abnormal flow to suggest torsion on the right.  Left ovary is enlarged, demonstrating a 6.0 x 3.5 x 3.7 cm complex cystic mass of uncertain etiology.  This could represent a large hemorrhagic cyst versus abscess.  There is no evidence for left ovarian torsion.  There is a small amount of fluid in the cul-de-sac likely physiologic.,The uterus measures 7.7 x 5.0 cm.  The endometrial echo is normal at 6 mm.,IMPRESSION:,1.  No evidence for torsion.,2.  Large, complex cystic left ovarian mass as described.  This could represent a large hemorrhagic cyst; however, an abscess/neoplasm cannot be excluded.  Recommend either short interval followup versus laparoscopic evaluation given the large size and complex nature.",
+    "cleaned_text": "EXAM: , Transvaginal ultrasound.,HISTORY: , Pelvic pain.,FINDINGS: , The right ovary measures 1.6 x 3.4 x 2.0 cm. There are several simple-appearing probable follicular cysts. There is no abnormal flow to suggest torsion on the right. Left ovary is enlarged, demonstrating a 6.0 x 3.5 x 3.7 cm complex cystic mass of uncertain etiology. This could represent a large hemorrhagic cyst versus abscess. There is no evidence for left ovarian torsion. There is a small amount of fluid in the cul-de-sac likely physiologic.,The uterus measures 7.7 x 5.0 cm. The endometrial echo is normal at 6 mm.,IMPRESSION:,1. No evidence for torsion.,2. Large, complex cystic left ovarian mass as described. This could represent a large hemorrhagic cyst; however, an abscess/neoplasm cannot be excluded. Recommend either short interval followup versus laparoscopic evaluation given the large size and complex nature.",
+    "sentences": [
+      "EXAM: , Transvaginal ultrasound.,HISTORY: , Pelvic pain.,FINDINGS: , The right ovary measures 1.6 x 3.4 x 2.0 cm.",
+      "There are several simple-appearing probable follicular cysts.",
+      "There is no abnormal flow to suggest torsion on the right.",
+      "Left ovary is enlarged, demonstrating a 6.0 x 3.5 x 3.7 cm complex cystic mass of uncertain etiology.",
+      "This could represent a large hemorrhagic cyst versus abscess.",
+      "There is no evidence for left ovarian torsion.",
+      "There is a small amount of fluid in the cul-de-sac likely physiologic.,The uterus measures 7.7 x 5.0 cm.",
+      "The endometrial echo is normal at 6 mm.,IMPRESSION:,1.",
+      "No evidence for torsion.,2.",
+      "Large, complex cystic left ovarian mass as described.",
+      "This could represent a large hemorrhagic cyst; however, an abscess/neoplasm cannot be excluded.",
+      "Recommend either short interval followup versus laparoscopic evaluation given the large size and complex nature."
+    ],
+    "sentence_count": 12
+  }
+}

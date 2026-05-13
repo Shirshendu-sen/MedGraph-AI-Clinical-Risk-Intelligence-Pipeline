@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1281__thrombocytosis_followup_.txt",
+    "file_name": "mtsamples_1281__thrombocytosis_followup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1669,
+    "processed_at": "2026-05-09T09:53:38.451496"
+  },
+  "entities": [
+    {
+      "text": "thrombocytosis",
+      "label": "DISEASE",
+      "start_char": 159,
+      "end_char": 173,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombocytosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "Hydrea",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 34,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hydrea",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "q.d",
+      "label": "CHEMICAL",
+      "start_char": 43,
+      "end_char": 46,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "q.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "thrombocytosis",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 85,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombocytosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "Hydrea",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 18,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hydrea",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "rheumatoid",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 80,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rheumatoid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "chills",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 28,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "sweats",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 45,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sweats",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 18,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "nausea or vomiting",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 21,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nausea or vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "Hydrea",
+      "label": "CHEMICAL",
+      "start_char": 61,
+      "end_char": 67,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hydrea",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "vitamin D q.d",
+      "label": "CHEMICAL",
+      "start_char": 152,
+      "end_char": 165,
+      "sentence_idx": 13,
+      "concept_id": "C0042866",
+      "concept_name": "vitamin D",
+      "kb_source": "rxnorm",
+      "link_score": 0.9464561343193054,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "palmetto q.d",
+      "label": "CHEMICAL",
+      "start_char": 171,
+      "end_char": 183,
+      "sentence_idx": 13,
+      "concept_id": "C0771607",
+      "concept_name": "saw palmetto extract",
+      "kb_source": "rxnorm",
+      "link_score": 0.850025475025177,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "aspirin",
+      "label": "CHEMICAL",
+      "start_char": 186,
+      "end_char": 193,
+      "sentence_idx": 13,
+      "concept_id": "C0004057",
+      "concept_name": "aspirin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736717343330383,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "q.d",
+      "label": "CHEMICAL",
+      "start_char": 200,
+      "end_char": 203,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "q.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "vitamin C",
+      "label": "CHEMICAL",
+      "start_char": 210,
+      "end_char": 219,
+      "sentence_idx": 13,
+      "concept_id": "C0025270",
+      "concept_name": "menadione",
+      "kb_source": "rxnorm",
+      "link_score": 0.9200175404548645,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "negative.,PAST",
+      "label": "CHEMICAL",
+      "start_char": 309,
+      "end_char": 323,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "negative.,PAST",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-07-11"
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 75,
+      "end_char": 80,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    },
+    {
+      "text": "hematologic malignancies",
+      "label": "DISEASE",
+      "start_char": 84,
+      "end_char": 108,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematologic malignancies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-07-09"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "07/09/07",
+      "start_char": 234,
+      "end_char": 242
+    },
+    {
+      "raw_text": "07/11/07",
+      "start_char": 343,
+      "end_char": 351
+    },
+    {
+      "raw_text": "11/06/07",
+      "start_char": 470,
+      "end_char": 478
+    }
+  ]
+}

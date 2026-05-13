@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1303__prostate_adenocarcinoma___2_.txt",
+    "file_name": "mtsamples_1303__prostate_adenocarcinoma___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1585,
+    "processed_at": "2026-05-09T09:53:38.786332"
+  },
+  "entities": [
+    {
+      "text": "nocturia",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 33,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nocturia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abnormal prostate",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 62,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostatic malignancy",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 32,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostatic malignancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 209,
+      "end_char": 217,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Prostate",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 70,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 127,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tubular adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 172,
+      "end_char": 194,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tubular adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 329,
+      "end_char": 343,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 48,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

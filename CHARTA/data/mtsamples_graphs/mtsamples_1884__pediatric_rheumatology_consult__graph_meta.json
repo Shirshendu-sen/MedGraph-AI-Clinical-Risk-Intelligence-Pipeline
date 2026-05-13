@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_1884__pediatric_rheumatology_consult_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 52,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0701055": 2,
+    "C0699203": 3,
+    "C0041980": 4
+  },
+  "visit_dates": [
+    "2026-03-10"
+  ],
+  "graph_file": "mtsamples_1884__pediatric_rheumatology_consult__graph.pt",
+  "source_dataset": "mtsamples_1884__pediatric_rheumatology_consult"
+}

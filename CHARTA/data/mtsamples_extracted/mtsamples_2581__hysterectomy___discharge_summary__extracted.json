@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2581__hysterectomy___discharge_summary_.txt",
+    "file_name": "mtsamples_2581__hysterectomy___discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1389,
+    "processed_at": "2026-05-09T09:54:04.568424"
+  },
+  "entities": [
+    {
+      "text": "DIAGNOSES:,1",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 22,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DIAGNOSES:,1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-09-04"
+    },
+    {
+      "text": "3, para 3 female",
+      "label": "CHEMICAL",
+      "start_char": 160,
+      "end_char": 176,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "3, para 3 female",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-09-04"
+    },
+    {
+      "text": "abnormal menstrual bleeding",
+      "label": "DISEASE",
+      "start_char": 220,
+      "end_char": 247,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal menstrual bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-04"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 34,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2007-09-04"
+    },
+    {
+      "text": "dysmenorrhea",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 48,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysmenorrhea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-04"
+    },
+    {
+      "text": "dysuria",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 61,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-04"
+    },
+    {
+      "text": "pelvic pain",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 57,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pelvic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-04"
+    },
+    {
+      "text": "uterine enlargement",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 126,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "uterine enlargement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-04"
+    },
+    {
+      "text": "examination.,PROCEDURE",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 154,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "examination.,PROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-09-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "09/04/2007",
+      "start_char": 712,
+      "end_char": 722
+    },
+    {
+      "raw_text": "09/05/2007",
+      "start_char": 1040,
+      "end_char": 1050
+    },
+    {
+      "raw_text": "09/06/2007",
+      "start_char": 1156,
+      "end_char": 1166
+    }
+  ]
+}

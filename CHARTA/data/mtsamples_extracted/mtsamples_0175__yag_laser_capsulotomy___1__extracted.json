@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0175__yag_laser_capsulotomy___1_.txt",
+    "file_name": "mtsamples_0175__yag_laser_capsulotomy___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 692,
+    "processed_at": "2026-05-09T09:53:08.384707"
+  },
+  "entities": [
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 232,
+      "end_char": 240,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vision",
+      "label": "DISEASE",
+      "start_char": 254,
+      "end_char": 260,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Mydriacyl",
+      "label": "CHEMICAL",
+      "start_char": 153,
+      "end_char": 162,
+      "sentence_idx": 1,
+      "concept_id": "C0701403",
+      "concept_name": "Mydriacyl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9626849293708801,
+      "timestamp": null
+    },
+    {
+      "text": "Iopidine",
+      "label": "CHEMICAL",
+      "start_char": 168,
+      "end_char": 176,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Iopidine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

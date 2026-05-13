@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1660__ct_neck_.txt",
+    "file_name": "mtsamples_1660__ct_neck_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 620,
+    "processed_at": "2026-05-09T09:53:47.812377"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 150,
+      "end_char": 152,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epiglottis",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 14,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epiglottis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 27,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "acute abnormalities",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 73,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute abnormalities",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4931__aortobifemoral_bypass___1_.txt",
+    "file_name": "mtsamples_4931__aortobifemoral_bypass___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4255,
+    "processed_at": "2026-05-09T09:54:47.715370"
+  },
+  "entities": [
+    {
+      "text": "Aortoiliac occlusive disease",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 28,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Aortoiliac occlusive disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Aortoiliac occlusive disease",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 28,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Aortoiliac occlusive disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "graft.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 87,
+      "end_char": 104,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "graft.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dementia",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 73,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dementia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Full-dose heparin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 17,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Full-dose heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "graft-to-side",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 71,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "graft-to-side",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "graft-to-side",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 41,
+      "sentence_idx": 38,
+      "concept_id": "UNKNOWN",
+      "concept_name": "graft-to-side",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "full-dose protamine",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 32,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "full-dose protamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

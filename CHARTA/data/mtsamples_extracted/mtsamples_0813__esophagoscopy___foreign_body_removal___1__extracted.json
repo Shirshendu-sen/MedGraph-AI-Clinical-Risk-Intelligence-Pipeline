@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0813__esophagoscopy___foreign_body_removal___1_.txt",
+    "file_name": "mtsamples_0813__esophagoscopy___foreign_body_removal___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 715,
+    "processed_at": "2026-05-09T09:53:26.479011"
+  },
+  "entities": [
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 20,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pipkin",
+      "label": "DISEASE",
+      "start_char": 2,
+      "end_char": 8,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pipkin",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0385__rectovaginal_fistula_closure_.txt",
+    "file_name": "mtsamples_0385__rectovaginal_fistula_closure_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3374,
+    "processed_at": "2026-05-09T09:53:14.502492"
+  },
+  "entities": [
+    {
+      "text": "CPT code 57307",
+      "label": "CHEMICAL",
+      "start_char": 117,
+      "end_char": 131,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CPT code 57307",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2006-01-12"
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 158,
+      "end_char": 165,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-12"
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 255,
+      "end_char": 262,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-12"
+    },
+    {
+      "text": "obese gravida",
+      "label": "DISEASE",
+      "start_char": 352,
+      "end_char": 365,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obese gravida",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-12"
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 121,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-12"
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 19,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-12"
+    },
+    {
+      "text": "diabetic",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 24,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-12"
+    },
+    {
+      "text": "diabetes",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 93,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-12"
+    },
+    {
+      "text": "vulva and vagina",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 20,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vulva and vagina",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-12"
+    },
+    {
+      "text": "perineum",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perineum",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2006-01-12"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "01/12/06",
+      "start_char": 478,
+      "end_char": 486
+    }
+  ]
+}

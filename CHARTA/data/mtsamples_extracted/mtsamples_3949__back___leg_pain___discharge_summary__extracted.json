@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3949__back___leg_pain___discharge_summary_.txt",
+    "file_name": "mtsamples_3949__back___leg_pain___discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1243,
+    "processed_at": "2026-05-09T09:54:29.658366"
+  },
+  "entities": [
+    {
+      "text": "spondylolysis",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 49,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylolysis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-08"
+    },
+    {
+      "text": "pars defects",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 67,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pars defects",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-08"
+    },
+    {
+      "text": "Chronic pain",
+      "label": "DISEASE",
+      "start_char": 133,
+      "end_char": 145,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chronic pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-08"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 140,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-01-08"
+    },
+    {
+      "text": "pars defects",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 57,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pars defects",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-08"
+    },
+    {
+      "text": "spondylolysis",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 85,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylolysis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-08"
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 14,
+      "end_char": 17,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-01-08"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 126,
+      "end_char": 130,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2008-01-08"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "01/08/08",
+      "start_char": 389,
+      "end_char": 397
+    }
+  ]
+}

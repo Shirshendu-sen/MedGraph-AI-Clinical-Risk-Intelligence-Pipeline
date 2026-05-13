@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0338__shunt_revision___3_.txt",
+    "file_name": "mtsamples_0338__shunt_revision___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2797,
+    "processed_at": "2026-05-09T09:53:13.473952"
+  },
+  "entities": [
+    {
+      "text": "flushing of the distal end.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 217,
+      "end_char": 255,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "flushing of the distal end.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "irritability",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 42,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "irritability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "vomiting",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 52,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vomiting",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "seizures",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 77,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 46,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine 1:200,000",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 73,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "epinephrine 1:200,000",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 29,
+      "end_char": 39,
+      "sentence_idx": 20,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    },
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

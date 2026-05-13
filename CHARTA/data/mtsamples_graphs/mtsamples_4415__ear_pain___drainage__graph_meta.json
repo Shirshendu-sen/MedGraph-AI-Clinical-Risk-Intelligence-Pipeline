@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4415__ear_pain___drainage_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 24,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0719197": 2,
+    "C1330135": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4415__ear_pain___drainage__graph.pt",
+  "source_dataset": "mtsamples_4415__ear_pain___drainage"
+}

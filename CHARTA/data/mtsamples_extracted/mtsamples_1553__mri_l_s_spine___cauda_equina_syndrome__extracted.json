@@ -1,0 +1,551 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1553__mri_l_s_spine___cauda_equina_syndrome_.txt",
+    "file_name": "mtsamples_1553__mri_l_s_spine___cauda_equina_syndrome_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3248,
+    "processed_at": "2026-05-09T09:53:44.370911"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "Pain",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 18,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "LBP",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 23,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LBP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 44,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "LBP",
+      "label": "DISEASE",
+      "start_char": 127,
+      "end_char": 130,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LBP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "LBP",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 7,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LBP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "LBP",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 66,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LBP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 83,
+      "end_char": 86,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "BLE weakness",
+      "label": "CHEMICAL",
+      "start_char": 107,
+      "end_char": 119,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE weakness",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "LBP pain",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 132,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LBP pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "BLE numbness",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 28,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE numbness",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "Propranolol",
+      "label": "CHEMICAL",
+      "start_char": 149,
+      "end_char": 160,
+      "sentence_idx": 8,
+      "concept_id": "C0033497",
+      "concept_name": "propranolol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9808422923088074,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "Procardia",
+      "label": "CHEMICAL",
+      "start_char": 162,
+      "end_char": 171,
+      "sentence_idx": 8,
+      "concept_id": "C0700861",
+      "concept_name": "Procardia",
+      "kb_source": "rxnorm",
+      "link_score": 0.9662284851074219,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "Altace",
+      "label": "CHEMICAL",
+      "start_char": 176,
+      "end_char": 182,
+      "sentence_idx": 8,
+      "concept_id": "C0878061",
+      "concept_name": "Altace",
+      "kb_source": "rxnorm",
+      "link_score": 0.9784507155418396,
+      "timestamp": "1995-12-06"
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 263,
+      "end_char": 275,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-11"
+    },
+    {
+      "text": "Amaurosis",
+      "label": "DISEASE",
+      "start_char": 280,
+      "end_char": 289,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Amaurosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-11"
+    },
+    {
+      "text": "valvular heart disease",
+      "label": "DISEASE",
+      "start_char": 435,
+      "end_char": 457,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "valvular heart disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-12"
+    },
+    {
+      "text": "diabetes mellitus",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 32,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diabetes mellitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "A&O",
+      "label": "CHEMICAL",
+      "start_char": 142,
+      "end_char": 145,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "A&O",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "dysarthria",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 32,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysarthria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "Appeared",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Appeared",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "Hip adductors",
+      "label": "CHEMICAL",
+      "start_char": 78,
+      "end_char": 91,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hip adductors",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 12,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "fasciculations",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 27,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fasciculations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 31,
+      "end_char": 34,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "Spasms",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Spasms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "percussion myotonia",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 81,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "percussion myotonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "rigidity",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 11,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rigidity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "BLE",
+      "label": "CHEMICAL",
+      "start_char": 146,
+      "end_char": 149,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "Romberg",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Romberg",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 137,
+      "end_char": 152,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "right inguinal hernia",
+      "label": "DISEASE",
+      "start_char": 154,
+      "end_char": 175,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right inguinal hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "rhonchi",
+      "label": "DISEASE",
+      "start_char": 177,
+      "end_char": 184,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rhonchi",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-06"
+    },
+    {
+      "text": "wheeze",
+      "label": "DISEASE",
+      "start_char": 201,
+      "end_char": 207,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "wheeze",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-06"
+    },
+    {
+      "text": "Creatinine",
+      "label": "CHEMICAL",
+      "start_char": 71,
+      "end_char": 81,
+      "sentence_idx": 27,
+      "concept_id": "C0010294",
+      "concept_name": "creatinine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9711365103721619,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "Amyotrophy",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 46,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Amyotrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "Polymyositis",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 60,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Polymyositis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 79,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "Herniation",
+      "label": "DISEASE",
+      "start_char": 86,
+      "end_char": 96,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "Guillain-Barre syndrome",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 124,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Guillain-Barre syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 37,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-12-03"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/3/95",
+      "start_char": 151,
+      "end_char": 158
+    },
+    {
+      "raw_text": "12/6/95",
+      "start_char": 193,
+      "end_char": 200
+    },
+    {
+      "raw_text": "12/9/95",
+      "start_char": 224,
+      "end_char": 231
+    },
+    {
+      "raw_text": "12/10/95",
+      "start_char": 236,
+      "end_char": 244
+    },
+    {
+      "raw_text": "12/11/95",
+      "start_char": 280,
+      "end_char": 288
+    },
+    {
+      "raw_text": "12/12/95",
+      "start_char": 535,
+      "end_char": 543
+    },
+    {
+      "raw_text": "12/11/95",
+      "start_char": 701,
+      "end_char": 709
+    },
+    {
+      "raw_text": "11/9/78",
+      "start_char": 918,
+      "end_char": 925
+    },
+    {
+      "raw_text": "12/13/95",
+      "start_char": 2919,
+      "end_char": 2927
+    }
+  ]
+}

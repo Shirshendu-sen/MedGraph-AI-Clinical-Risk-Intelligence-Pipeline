@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3444__umbilical_hernia_repair_.txt",
+    "file_name": "mtsamples_3444__umbilical_hernia_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 857,
+    "processed_at": "2026-05-09T09:54:21.889083"
+  },
+  "entities": [
+    {
+      "text": "umbilical hernia",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 20,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "umbilical hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 205,
+      "end_char": 213,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

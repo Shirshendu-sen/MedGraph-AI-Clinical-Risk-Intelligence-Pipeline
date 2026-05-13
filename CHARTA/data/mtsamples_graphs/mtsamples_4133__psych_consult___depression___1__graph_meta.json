@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4133__psych_consult___depression___1_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 71,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023870": 1,
+    "C0002658": 2,
+    "C0009170": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4133__psych_consult___depression___1__graph.pt",
+  "source_dataset": "mtsamples_4133__psych_consult___depression___1"
+}

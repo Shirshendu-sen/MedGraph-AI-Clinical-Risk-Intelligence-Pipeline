@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1563__mri_foot___2_.txt",
+    "file_name": "mtsamples_1563__mri_foot___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2552,
+    "processed_at": "2026-05-09T09:53:44.570325"
+  },
+  "entities": [
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 48,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 189,
+      "end_char": 197,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "active marrow stress",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 71,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "active marrow stress",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion of the calcaneocuboid articulation",
+      "label": "DISEASE",
+      "start_char": 140,
+      "end_char": 183,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion of the calcaneocuboid articulation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "interstitial edema",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 35,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "interstitial edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "flexor hallucis longus",
+      "label": "DISEASE",
+      "start_char": 238,
+      "end_char": 260,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "flexor hallucis longus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 346,
+      "end_char": 351,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "venous distention",
+      "label": "DISEASE",
+      "start_char": 747,
+      "end_char": 764,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "venous distention",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 833,
+      "end_char": 838,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "talar dome",
+      "label": "DISEASE",
+      "start_char": 161,
+      "end_char": 171,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "talar dome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 203,
+      "end_char": 211,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cancellous marrow edema.,Small ganglion intwined within the bifurcate ligament.,Interstitial edema of the short plantar calcaneocuboid ligament.,Minimal synovitis of the peroneal tendon",
+      "label": "DISEASE",
+      "start_char": 277,
+      "end_char": 462,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cancellous marrow edema.,Small ganglion intwined within the bifurcate ligament.,Interstitial edema of the short plantar calcaneocuboid ligament.,Minimal synovitis of the peroneal tendon",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "synovitis",
+      "label": "DISEASE",
+      "start_char": 521,
+      "end_char": 530,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "synovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "interstitial edema",
+      "label": "DISEASE",
+      "start_char": 616,
+      "end_char": 634,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "interstitial edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

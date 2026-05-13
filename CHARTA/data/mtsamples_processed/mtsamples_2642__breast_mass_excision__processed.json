@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2642__breast_mass_excision_.txt",
+    "file_name": "mtsamples_2642__breast_mass_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 930,
+    "processed_at": "2026-05-09T09:54:05.520332"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2642__breast_mass_excision_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Right breast mass with atypical proliferative cells on fine-needle aspiration.,POSTOPERATIVE DIAGNOSIS:,  Benign breast mass.,ANESTHESIA: , General,NAME OF OPERATION:,  Excision of right breast mass.,PROCEDURE:,  With the patient in the supine position, the right breast was prepped and draped in a sterile fashion.  A curvilinear incision was made directly over the mass in the upper-outer quadrant of the right breast.  Dissection was carried out around a firm mass, which was dissected with surrounding margins of breast tissue.  Hemostasis was obtained using electrocautery.  Frozen section exam showed a fibroadenoma with some proliferative hyperplasia within the fibroadenoma, but appeared benign.  The breast tissues were approximated using 4-0 Vicryl.  The skin was closed using 5-0 Vicryl running subcuticular stitches.  A sterile bandage was applied.  The patient tolerated the procedure well.,",
+    "char_count": 930,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Right breast mass with atypical proliferative cells on fine-needle aspiration.,POSTOPERATIVE DIAGNOSIS:, Benign breast mass.,ANESTHESIA: , General,NAME OF OPERATION:, Excision of right breast mass.,PROCEDURE:, With the patient in the supine position, the right breast was prepped and draped in a sterile fashion. A curvilinear incision was made directly over the mass in the upper-outer quadrant of the right breast. Dissection was carried out around a firm mass, which was dissected with surrounding margins of breast tissue. Hemostasis was obtained using electrocautery. Frozen section exam showed a fibroadenoma with some proliferative hyperplasia within the fibroadenoma, but appeared benign. The breast tissues were approximated using 4-0 Vicryl. The skin was closed using 5-0 Vicryl running subcuticular stitches. A sterile bandage was applied. The patient tolerated the procedure well.,",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Right breast mass with atypical proliferative cells on fine-needle aspiration.,POSTOPERATIVE DIAGNOSIS:, Benign breast mass.,ANESTHESIA: , General,NAME OF OPERATION:, Excision of right breast mass.,PROCEDURE:, With the patient in the supine position, the right breast was prepped and draped in a sterile fashion.",
+      "A curvilinear incision was made directly over the mass in the upper-outer quadrant of the right breast.",
+      "Dissection was carried out around a firm mass, which was dissected with surrounding margins of breast tissue.",
+      "Hemostasis was obtained using electrocautery.",
+      "Frozen section exam showed a fibroadenoma with some proliferative hyperplasia within the fibroadenoma, but appeared benign.",
+      "The breast tissues were approximated using 4-0 Vicryl.",
+      "The skin was closed using 5-0 Vicryl running subcuticular stitches.",
+      "A sterile bandage was applied.",
+      "The patient tolerated the procedure well.,"
+    ],
+    "sentence_count": 9,
+    "original_length": 930,
+    "cleaned_length": 919,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Right breast mass with atypical proliferative cells on fine-needle aspiration.,POSTOPERATIVE DIAGNOSIS:,  Benign breast mass.,ANESTHESIA: , General,NAME OF OPERATION:,  Excision of right breast mass.,PROCEDURE:,  With the patient in the supine position, the right breast was prepped and draped in a sterile fashion.  A curvilinear incision was made directly over the mass in the upper-outer quadrant of the right breast.  Dissection was carried out around a firm mass, which was dissected with surrounding margins of breast tissue.  Hemostasis was obtained using electrocautery.  Frozen section exam showed a fibroadenoma with some proliferative hyperplasia within the fibroadenoma, but appeared benign.  The breast tissues were approximated using 4-0 Vicryl.  The skin was closed using 5-0 Vicryl running subcuticular stitches.  A sterile bandage was applied.  The patient tolerated the procedure well.,",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Right breast mass with atypical proliferative cells on fine-needle aspiration.,POSTOPERATIVE DIAGNOSIS:, Benign breast mass.,ANESTHESIA: , General,NAME OF OPERATION:, Excision of right breast mass.,PROCEDURE:, With the patient in the supine position, the right breast was prepped and draped in a sterile fashion. A curvilinear incision was made directly over the mass in the upper-outer quadrant of the right breast. Dissection was carried out around a firm mass, which was dissected with surrounding margins of breast tissue. Hemostasis was obtained using electrocautery. Frozen section exam showed a fibroadenoma with some proliferative hyperplasia within the fibroadenoma, but appeared benign. The breast tissues were approximated using 4-0 Vicryl. The skin was closed using 5-0 Vicryl running subcuticular stitches. A sterile bandage was applied. The patient tolerated the procedure well.,",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Right breast mass with atypical proliferative cells on fine-needle aspiration.,POSTOPERATIVE DIAGNOSIS:, Benign breast mass.,ANESTHESIA: , General,NAME OF OPERATION:, Excision of right breast mass.,PROCEDURE:, With the patient in the supine position, the right breast was prepped and draped in a sterile fashion.",
+      "A curvilinear incision was made directly over the mass in the upper-outer quadrant of the right breast.",
+      "Dissection was carried out around a firm mass, which was dissected with surrounding margins of breast tissue.",
+      "Hemostasis was obtained using electrocautery.",
+      "Frozen section exam showed a fibroadenoma with some proliferative hyperplasia within the fibroadenoma, but appeared benign.",
+      "The breast tissues were approximated using 4-0 Vicryl.",
+      "The skin was closed using 5-0 Vicryl running subcuticular stitches.",
+      "A sterile bandage was applied.",
+      "The patient tolerated the procedure well.,"
+    ],
+    "sentence_count": 9
+  }
+}

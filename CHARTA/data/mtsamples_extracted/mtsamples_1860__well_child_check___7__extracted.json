@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1860__well_child_check___7_.txt",
+    "file_name": "mtsamples_1860__well_child_check___7_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2026,
+    "processed_at": "2026-05-09T09:53:51.929618"
+  },
+  "entities": [
+    {
+      "text": "sore throat",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 64,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sore throat",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "well-nourished",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 129,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "well-nourished",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "rash",
+      "label": "DISEASE",
+      "start_char": 179,
+      "end_char": 183,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rash",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Head normocephalic",
+      "label": "DISEASE",
+      "start_char": 202,
+      "end_char": 220,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Head normocephalic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Extraocular movements",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 21,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Extraocular movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Nares",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Nares",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gallops.,ABDOMEN",
+      "label": "CHEMICAL",
+      "start_char": 250,
+      "end_char": 266,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gallops.,ABDOMEN",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernias",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subluxation",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 14,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "voice",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 45,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "voice",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hepatitis",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 50,
+      "sentence_idx": 24,
+      "concept_id": "C0376325",
+      "concept_name": "Hepatitis A viruses",
+      "kb_source": "mesh",
+      "link_score": 0.7903865575790405,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

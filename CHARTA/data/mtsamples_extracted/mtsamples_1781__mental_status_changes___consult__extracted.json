@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1781__mental_status_changes___consult_.txt",
+    "file_name": "mtsamples_1781__mental_status_changes___consult_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2744,
+    "processed_at": "2026-05-09T09:53:50.341472"
+  },
+  "entities": [
+    {
+      "text": "Alzheimer's, apparently is normally very talkative, active, independent, but with advanced",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 123,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Alzheimer's, apparently is normally very talkative, active, independent, but with advanced",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Alzheimer's.",
+      "label": "DISEASE",
+      "start_char": 124,
+      "end_char": 136,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Alzheimer's.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 141,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Extraocular movements",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 21,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Extraocular movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hemotympanum",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 56,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemotympanum",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trauma.,SKIN",
+      "label": "DISEASE",
+      "start_char": 186,
+      "end_char": 198,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma.,SKIN",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "itching.,NEUROLOGIC",
+      "label": "DISEASE",
+      "start_char": 247,
+      "end_char": 266,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "itching.,NEUROLOGIC",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 317,
+      "end_char": 321,
+      "sentence_idx": 13,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "potassium",
+      "label": "CHEMICAL",
+      "start_char": 15,
+      "end_char": 24,
+      "sentence_idx": 20,
+      "concept_id": "C0032821",
+      "concept_name": "potassium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9840192198753357,
+      "timestamp": null
+    },
+    {
+      "text": "valproic acid",
+      "label": "CHEMICAL",
+      "start_char": 86,
+      "end_char": 99,
+      "sentence_idx": 20,
+      "concept_id": "C0042291",
+      "concept_name": "valproic acid",
+      "kb_source": "rxnorm",
+      "link_score": 0.9699554443359375,
+      "timestamp": null
+    },
+    {
+      "text": "head injury",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 90,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "concussion",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 39,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "concussion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "postconcussive symptoms",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 68,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "postconcussive symptoms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

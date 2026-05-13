@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1708__chest_pa___lateral_.txt",
+    "file_name": "mtsamples_1708__chest_pa___lateral_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 904,
+    "processed_at": "2026-05-09T09:53:48.810821"
+  },
+  "entities": [
+    {
+      "text": "Shortness of breath",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 66,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Shortness of breath",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothorax",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 93,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothorax",
+      "label": "DISEASE",
+      "start_char": 200,
+      "end_char": 212,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "malalignment",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 44,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malalignment",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumothorax",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 56,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

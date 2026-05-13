@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0922__cystourethroscopy___turp___1_.txt",
+    "file_name": "mtsamples_0922__cystourethroscopy___turp___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2494,
+    "processed_at": "2026-05-09T09:53:29.113199"
+  },
+  "entities": [
+    {
+      "text": "prostate hypertrophy.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 42,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate hypertrophy.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate hypertrophy.,PROCEDURES",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 39,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate hypertrophy.,PROCEDURES",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 35,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "urinary retention",
+      "label": "DISEASE",
+      "start_char": 174,
+      "end_char": 191,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary retention",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstructive voiding symptoms",
+      "label": "DISEASE",
+      "start_char": 208,
+      "end_char": 236,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive voiding symptoms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "visual obturator blanching the bladder",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 91,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "visual obturator blanching the bladder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder tumors",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 62,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder tumors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Prostate",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostatic enlargement",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 46,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostatic enlargement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cellules",
+      "label": "CHEMICAL",
+      "start_char": 16,
+      "end_char": 24,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cellules",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 143,
+      "end_char": 147,
+      "sentence_idx": 26,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

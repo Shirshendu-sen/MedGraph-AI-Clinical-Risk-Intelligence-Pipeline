@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0644__laparoscopic_adrenalectomy_.txt",
+    "file_name": "mtsamples_0644__laparoscopic_adrenalectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4618,
+    "processed_at": "2026-05-09T09:53:21.482336"
+  },
+  "entities": [
+    {
+      "text": "nonfunctioning mass",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 74,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nonfunctioning mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bowel injury",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 55,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bowel injury",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 84,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 216,
+      "end_char": 224,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

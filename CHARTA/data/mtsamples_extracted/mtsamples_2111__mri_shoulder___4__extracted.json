@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2111__mri_shoulder___4_.txt",
+    "file_name": "mtsamples_2111__mri_shoulder___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2798,
+    "processed_at": "2026-05-09T09:53:56.646104"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 70,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "supraspinatus tendinosis",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 119,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraspinatus tendinosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 141,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "muscular atrophy",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 48,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "muscular atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "tendinosis",
+      "label": "DISEASE",
+      "start_char": 127,
+      "end_char": 137,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 163,
+      "end_char": 170,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "tendinosis",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 104,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tendinosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 128,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 232,
+      "end_char": 239,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 96,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "hypertrophic osteoarthropathy",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 135,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertrophic osteoarthropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "supraspinatus musculotendinous",
+      "label": "DISEASE",
+      "start_char": 253,
+      "end_char": 283,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraspinatus musculotendinous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "atrophy",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 19,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "extensive supraspinatus tendinosis",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 99,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "extensive supraspinatus tendinosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 119,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "muscular atrophy",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 48,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "muscular atrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    },
+    {
+      "text": "tearing",
+      "label": "DISEASE",
+      "start_char": 184,
+      "end_char": 191,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tearing",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-09-01"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "9/1/05",
+      "start_char": 159,
+      "end_char": 165
+    }
+  ]
+}

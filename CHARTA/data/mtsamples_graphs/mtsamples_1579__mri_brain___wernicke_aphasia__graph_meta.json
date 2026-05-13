@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_1579__mri_brain___wernicke_aphasia_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 65,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0019134": 1,
+    "C0042845": 2,
+    "C0178638": 3,
+    "C0700776": 4,
+    "C0017725": 5,
+    "C0600203": 6,
+    "C0043031": 7
+  },
+  "visit_dates": [
+    "1995-08-14"
+  ],
+  "graph_file": "mtsamples_1579__mri_brain___wernicke_aphasia__graph.pt",
+  "source_dataset": "mtsamples_1579__mri_brain___wernicke_aphasia"
+}

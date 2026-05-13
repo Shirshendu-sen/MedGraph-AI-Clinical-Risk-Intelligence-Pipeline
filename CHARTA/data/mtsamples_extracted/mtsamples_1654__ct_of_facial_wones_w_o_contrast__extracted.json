@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1654__ct_of_facial_wones_w_o_contrast_.txt",
+    "file_name": "mtsamples_1654__ct_of_facial_wones_w_o_contrast_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1321,
+    "processed_at": "2026-05-09T09:53:47.681872"
+  },
+  "entities": [
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 323,
+      "end_char": 331,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-30"
+    },
+    {
+      "text": "angulation",
+      "label": "DISEASE",
+      "start_char": 407,
+      "end_char": 417,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "angulation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-30"
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 20,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-30"
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 31,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-30"
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 19,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-04-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "04/30/07",
+      "start_char": 1284,
+      "end_char": 1292
+    }
+  ]
+}

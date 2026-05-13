@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2961__pyelonephritis___discharge_summary_.txt",
+    "file_name": "mtsamples_2961__pyelonephritis___discharge_summary_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1188,
+    "processed_at": "2026-05-09T09:54:11.383597"
+  },
+  "entities": [
+    {
+      "text": "DIAGNOSES:,1",
+      "label": "CHEMICAL",
+      "start_char": 10,
+      "end_char": 22,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DIAGNOSES:,1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-08-07"
+    },
+    {
+      "text": "uterine cancer",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 25,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "uterine cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-07"
+    },
+    {
+      "text": "Pyelonephritis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pyelonephritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-07"
+    },
+    {
+      "text": "Anemia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Anemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-07"
+    },
+    {
+      "text": "pyelonephritis",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 135,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pyelonephritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-07"
+    },
+    {
+      "text": "Bactrim",
+      "label": "CHEMICAL",
+      "start_char": 62,
+      "end_char": 69,
+      "sentence_idx": 14,
+      "concept_id": "C0591139",
+      "concept_name": "Bactrim",
+      "kb_source": "rxnorm",
+      "link_score": 0.9739254117012024,
+      "timestamp": "2007-08-07"
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 96,
+      "end_char": 99,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-08-07"
+    },
+    {
+      "text": "Bactrim",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 15,
+      "concept_id": "C0591139",
+      "concept_name": "Bactrim",
+      "kb_source": "rxnorm",
+      "link_score": 0.9739254117012024,
+      "timestamp": "2007-08-07"
+    },
+    {
+      "text": "right knee pain",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 38,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-07"
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 84,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-08-07"
+    },
+    {
+      "text": "ibuprofen",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 32,
+      "sentence_idx": 22,
+      "concept_id": "C0020740",
+      "concept_name": "ibuprofen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736760258674622,
+      "timestamp": "2007-08-07"
+    },
+    {
+      "text": "t.i.d",
+      "label": "CHEMICAL",
+      "start_char": 68,
+      "end_char": 73,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "t.i.d",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-08-07"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "08/07/2007",
+      "start_char": 803,
+      "end_char": 813
+    }
+  ]
+}

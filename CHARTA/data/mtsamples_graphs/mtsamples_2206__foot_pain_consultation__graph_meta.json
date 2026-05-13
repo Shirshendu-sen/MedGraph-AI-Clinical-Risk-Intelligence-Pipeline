@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2206__foot_pain_consultation_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1
+  },
+  "visit_dates": [
+    "2005-12-01"
+  ],
+  "graph_file": "mtsamples_2206__foot_pain_consultation__graph.pt",
+  "source_dataset": "mtsamples_2206__foot_pain_consultation"
+}

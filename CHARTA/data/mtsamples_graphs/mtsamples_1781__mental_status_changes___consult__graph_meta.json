@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1781__mental_status_changes___consult_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 18,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0032821": 2,
+    "C0042291": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1781__mental_status_changes___consult__graph.pt",
+  "source_dataset": "mtsamples_1781__mental_status_changes___consult"
+}

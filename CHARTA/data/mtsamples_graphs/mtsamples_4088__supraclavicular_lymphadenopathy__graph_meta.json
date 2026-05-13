@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_4088__supraclavicular_lymphadenopathy_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 58,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0086787": 1,
+    "C0026549": 2,
+    "C0719509": 3,
+    "C0721704": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4088__supraclavicular_lymphadenopathy__graph.pt",
+  "source_dataset": "mtsamples_4088__supraclavicular_lymphadenopathy"
+}

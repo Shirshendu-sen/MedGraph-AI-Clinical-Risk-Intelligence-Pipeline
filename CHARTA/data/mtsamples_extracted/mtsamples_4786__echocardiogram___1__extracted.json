@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4786__echocardiogram___1_.txt",
+    "file_name": "mtsamples_4786__echocardiogram___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 964,
+    "processed_at": "2026-05-09T09:54:44.638522"
+  },
+  "entities": [
+    {
+      "text": "atrial enlargement",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 51,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial enlargement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pericardial effusion",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 35,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pericardial effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thrombus",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thrombus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tricuspid regurgitation",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 37,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tricuspid regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Calculated pulmonary systolic pressure",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 38,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Calculated pulmonary systolic pressure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "elevated pulmonary systolic pressure",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 43,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "elevated pulmonary systolic pressure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

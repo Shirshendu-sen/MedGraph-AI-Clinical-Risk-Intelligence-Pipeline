@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1962__lower_extremity_pain_.txt",
+    "file_name": "mtsamples_1962__lower_extremity_pain_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 92,
+    "processed_at": "2026-05-09T09:53:53.828183"
+  },
+  "entities": [],
+  "relations": [],
+  "temporal_expressions": []
+}

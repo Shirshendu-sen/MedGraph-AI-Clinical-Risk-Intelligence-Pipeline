@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1606__laparoscopic_cholecystectomy___cholangiogram_.txt",
+    "file_name": "mtsamples_1606__laparoscopic_cholecystectomy___cholangiogram_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2725,
+    "processed_at": "2026-05-09T09:53:46.028802"
+  },
+  "entities": [
+    {
+      "text": "acute cholecystitis",
+      "label": "DISEASE",
+      "start_char": 116,
+      "end_char": 135,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "acute cholecystitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "necrosis",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 67,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Adhesions",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Adhesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "necrotic",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 67,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "JP",
+      "label": "DISEASE",
+      "start_char": 2,
+      "end_char": 4,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "JP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 47,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

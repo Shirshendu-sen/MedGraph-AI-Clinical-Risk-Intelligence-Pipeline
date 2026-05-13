@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_4878__cardiac_consultation_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 118,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0633084": 1,
+    "C0004057": 2,
+    "C0064079": 3,
+    "C0282139": 4,
+    "C0004147": 5,
+    "C0876139": 6,
+    "C0016860": 7,
+    "C0162712": 8
+  },
+  "visit_dates": [
+    "2026-04-26"
+  ],
+  "graph_file": "mtsamples_4878__cardiac_consultation__graph.pt",
+  "source_dataset": "mtsamples_4878__cardiac_consultation"
+}

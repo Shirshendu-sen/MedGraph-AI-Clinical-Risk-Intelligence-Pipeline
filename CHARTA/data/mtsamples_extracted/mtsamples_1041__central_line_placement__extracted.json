@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1041__central_line_placement_.txt",
+    "file_name": "mtsamples_1041__central_line_placement_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1652,
+    "processed_at": "2026-05-09T09:53:32.212949"
+  },
+  "entities": [
+    {
+      "text": "chronic obstructive coronary disease.,2",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 46,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic obstructive coronary disease.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronic obstructive coronary disease.,2",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 46,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic obstructive coronary disease.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "respiratory failure",
+      "label": "DISEASE",
+      "start_char": 185,
+      "end_char": 204,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "respiratory failure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "PVCs",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 7,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PVCs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

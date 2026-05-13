@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1856__emg_nerve_conduction_study___3_.txt",
+    "file_name": "mtsamples_1856__emg_nerve_conduction_study___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2776,
+    "processed_at": "2026-05-09T09:53:51.873050"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 106,
+      "end_char": 110,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "abnormal right low back pain",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 65,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abnormal right low back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "right leg weakness",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 54,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right leg weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Medrol Dosepak",
+      "label": "CHEMICAL",
+      "start_char": 12,
+      "end_char": 26,
+      "sentence_idx": 10,
+      "concept_id": "C1878038",
+      "concept_name": "Medrol Dosepak 4 MG Tablet 6 Day 21 Count Pack",
+      "kb_source": "rxnorm",
+      "link_score": 0.9596647620201111,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 118,
+      "end_char": 122,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 15,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "plexopathy",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 34,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "plexopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "myopathy",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

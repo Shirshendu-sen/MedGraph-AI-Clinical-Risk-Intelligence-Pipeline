@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2638__ventricular_drain_catheter_insertion_.txt",
+    "file_name": "mtsamples_2638__ventricular_drain_catheter_insertion_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1523,
+    "processed_at": "2026-05-09T09:54:05.485354"
+  },
+  "entities": [
+    {
+      "text": "cerebral edema",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 75,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cerebral edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "brain injury.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 117,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "brain injury.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cerebral edema",
+      "label": "DISEASE",
+      "start_char": 167,
+      "end_char": 181,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cerebral edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 34,
+      "end_char": 43,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 60,
+      "sentence_idx": 2,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

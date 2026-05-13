@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4013__dental_restoration_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0060246": 1,
+    "C0043491": 2,
+    "C0677517": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4013__dental_restoration__graph.pt",
+  "source_dataset": "mtsamples_4013__dental_restoration"
+}

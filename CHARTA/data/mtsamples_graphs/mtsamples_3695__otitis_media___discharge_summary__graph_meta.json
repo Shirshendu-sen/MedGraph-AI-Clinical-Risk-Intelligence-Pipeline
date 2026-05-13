@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_3695__otitis_media___discharge_summary_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 75,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699142": 1,
+    "C0593507": 2,
+    "C0010294": 3,
+    "C0017725": 4,
+    "C0007561": 5,
+    "C0020740": 6,
+    "C0030054": 7,
+    "C0001927": 8
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3695__otitis_media___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3695__otitis_media___discharge_summary"
+}

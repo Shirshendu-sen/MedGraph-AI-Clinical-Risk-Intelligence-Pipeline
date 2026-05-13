@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_4471__consult___chf___lymphedema_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 69,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0017642": 1,
+    "C0030346": 2,
+    "C0001927": 3,
+    "C0025270": 4,
+    "C0722364": 5,
+    "C0030049": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4471__consult___chf___lymphedema__graph.pt",
+  "source_dataset": "mtsamples_4471__consult___chf___lymphedema"
+}

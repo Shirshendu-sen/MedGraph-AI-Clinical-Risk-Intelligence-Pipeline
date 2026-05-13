@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2499__ultrasound_ob_.txt",
+    "file_name": "mtsamples_2499__ultrasound_ob_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1300,
+    "processed_at": "2026-05-09T09:54:03.305625"
+  },
+  "entities": [
+    {
+      "text": "intrauterine fetus",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 122,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine fetus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-04"
+    },
+    {
+      "text": "FL",
+      "label": "CHEMICAL",
+      "start_char": 326,
+      "end_char": 328,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FL",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2005-08-04"
+    },
+    {
+      "text": "head to abdomen circumference ratio",
+      "label": "DISEASE",
+      "start_char": 360,
+      "end_char": 395,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "head to abdomen circumference ratio",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-04"
+    },
+    {
+      "text": "intrauterine pregnancy",
+      "label": "DISEASE",
+      "start_char": 73,
+      "end_char": 95,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2005-08-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "8/04/05",
+      "start_char": 975,
+      "end_char": 982
+    },
+    {
+      "raw_text": "2/11/05",
+      "start_char": 1069,
+      "end_char": 1076
+    },
+    {
+      "raw_text": "4/04/05",
+      "start_char": 1081,
+      "end_char": 1088
+    },
+    {
+      "raw_text": "4/04/05",
+      "start_char": 1109,
+      "end_char": 1116
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "patient_id": "mtsamples_3512__foul_smelling_urine_",
+  "num_entities": 9,
+  "num_visits": 1,
+  "num_edges": 53,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0034977": 2,
+    "C0700777": 3,
+    "C0591139": 4,
+    "C0701042": 5,
+    "C0028978": 6,
+    "C0015620": 7,
+    "C0004749": 8
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3512__foul_smelling_urine__graph.pt",
+  "source_dataset": "mtsamples_3512__foul_smelling_urine"
+}

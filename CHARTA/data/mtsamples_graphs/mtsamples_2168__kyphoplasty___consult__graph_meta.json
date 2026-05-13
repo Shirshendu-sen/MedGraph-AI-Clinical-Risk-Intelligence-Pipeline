@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2168__kyphoplasty___consult_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 31,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1
+  },
+  "visit_dates": [
+    "2008-01-18"
+  ],
+  "graph_file": "mtsamples_2168__kyphoplasty___consult__graph.pt",
+  "source_dataset": "mtsamples_2168__kyphoplasty___consult"
+}

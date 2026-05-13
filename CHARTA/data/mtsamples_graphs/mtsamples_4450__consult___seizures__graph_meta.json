@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_4450__consult___seizures_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 60,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0876196": 1,
+    "C0876060": 2,
+    "C0064636": 3,
+    "C0001963": 4,
+    "C0042523": 5,
+    "C0699678": 6,
+    "C0030346": 7
+  },
+  "visit_dates": [
+    "2002-08-04"
+  ],
+  "graph_file": "mtsamples_4450__consult___seizures__graph.pt",
+  "source_dataset": "mtsamples_4450__consult___seizures"
+}

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2378__phacoemulsification___lens_implantation___7_.txt",
+    "file_name": "mtsamples_2378__phacoemulsification___lens_implantation___7_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3324,
+    "processed_at": "2026-05-09T09:54:00.889380"
+  },
+  "entities": [
+    {
+      "text": "retinal detachment",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 46,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retinal detachment",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "silicone",
+      "label": "CHEMICAL",
+      "start_char": 67,
+      "end_char": 75,
+      "sentence_idx": 1,
+      "concept_id": "C0037107",
+      "concept_name": "silicon",
+      "kb_source": "rxnorm",
+      "link_score": 0.8461437821388245,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 140,
+      "end_char": 148,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "cataract",
+      "label": "DISEASE",
+      "start_char": 60,
+      "end_char": 68,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cataract",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lens implant",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 97,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lens implant",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "retinal detachment",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 29,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retinal detachment",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "silicone oil cataract",
+      "label": "CHEMICAL",
+      "start_char": 6,
+      "end_char": 27,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "silicone oil cataract",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "retinal detachment",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 29,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retinal detachment",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "silicone oil cataract",
+      "label": "CHEMICAL",
+      "start_char": 6,
+      "end_char": 27,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "silicone oil cataract",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Healon",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 23,
+      "concept_id": "C0700889",
+      "concept_name": "Healon",
+      "kb_source": "rxnorm",
+      "link_score": 0.9655555486679077,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1191__arthroscopy___shoulder_.txt",
+    "file_name": "mtsamples_1191__arthroscopy___shoulder_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3482,
+    "processed_at": "2026-05-09T09:53:36.386183"
+  },
+  "entities": [
+    {
+      "text": "left shoulder pain",
+      "label": "DISEASE",
+      "start_char": 115,
+      "end_char": 133,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "partial pain",
+      "label": "DISEASE",
+      "start_char": 217,
+      "end_char": 229,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "partial pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 259,
+      "end_char": 263,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

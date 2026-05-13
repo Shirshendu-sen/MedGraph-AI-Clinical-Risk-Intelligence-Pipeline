@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3162__biopsy___cervical_lymph_node_.txt",
+    "file_name": "mtsamples_3162__biopsy___cervical_lymph_node_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2174,
+    "processed_at": "2026-05-09T09:54:15.805649"
+  },
+  "entities": [
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 587,
+      "end_char": 602,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

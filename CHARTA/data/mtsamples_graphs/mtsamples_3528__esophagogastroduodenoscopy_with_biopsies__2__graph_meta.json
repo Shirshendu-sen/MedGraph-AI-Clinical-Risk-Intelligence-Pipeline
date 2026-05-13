@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_3528__esophagogastroduodenoscopy_with_biopsies__2_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 18,
+  "entity_index": {
+    "C0935966": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3528__esophagogastroduodenoscopy_with_biopsies__2__graph.pt",
+  "source_dataset": "mtsamples_3528__esophagogastroduodenoscopy_with_biopsies__2"
+}

@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3692__sample_normal_exam___ent_.txt",
+    "file_name": "mtsamples_3692__sample_normal_exam___ent_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1485,
+    "processed_at": "2026-05-09T09:54:26.232399"
+  },
+  "entities": [
+    {
+      "text": "nose",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 22,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nose",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fractures",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 78,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fractures",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dislocations",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 94,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dislocations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyps",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 25,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyps",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stones or infection",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 100,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stones or infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Palate",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Palate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neoplasms",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 49,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neoplasms",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "voice",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 9,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "voice",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hoarseness",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 47,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hoarseness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 18,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trachea",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 11,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trachea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Extraocular movements",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 21,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Extraocular movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Extraocular movements",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 21,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Extraocular movements",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

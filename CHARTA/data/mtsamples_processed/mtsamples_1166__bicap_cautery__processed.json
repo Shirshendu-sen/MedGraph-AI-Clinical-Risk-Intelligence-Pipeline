@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1166__bicap_cautery_.txt",
+    "file_name": "mtsamples_1166__bicap_cautery_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1170,
+    "processed_at": "2026-05-09T09:53:35.956156"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1166__bicap_cautery_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: ,  Hematemesis in a patient with longstanding diabetes. ,POSTOPERATIVE DIAGNOSIS:  ,Mallory-Weiss tear, submucosal hemorrhage consistent with trauma from vomiting and grade 2 esophagitis.,PROCEDURE:  , The procedure, indications explained and he understood and agreed.  He was sedated with Versed 3, Demerol 25 and topical Hurricane spray to the oropharynx.  A bite block was placed.  The Pentax video gastroscope was advanced through the oropharynx into the esophagus under direct vision.  Esophagus revealed distal ulcerations.  Additionally, the patient had a Mallory-Weiss tear.  This was subjected to bicap cautery with good ablation.  The stomach was entered, which revealed areas of submucosal hemorrhage consistent with trauma from vomiting.  There were no ulcerations or erosions in the stomach.  The duodenum was entered, which was unremarkable.  The instrument was then removed.  The patient tolerated the procedure well with no complications.,IMPRESSION: , Mallory-Weiss tear, successful BICAP cautery. ,We will keep the patient on proton pump inhibitors.  The patient will remain on antiemetics and be started on a clear liquid diet.",
+    "char_count": 1170,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Hematemesis in a patient with longstanding diabetes. ,POSTOPERATIVE DIAGNOSIS: ,Mallory-Weiss tear, submucosal hemorrhage consistent with trauma from vomiting and grade 2 esophagitis.,PROCEDURE: , The procedure, indications explained and he understood and agreed. He was sedated with Versed 3, Demerol 25 and topical Hurricane spray to the oropharynx. A bite block was placed. The Pentax video gastroscope was advanced through the oropharynx into the esophagus under direct vision. Esophagus revealed distal ulcerations. Additionally, the patient had a Mallory-Weiss tear. This was subjected to bicap cautery with good ablation. The stomach was entered, which revealed areas of submucosal hemorrhage consistent with trauma from vomiting. There were no ulcerations or erosions in the stomach. The duodenum was entered, which was unremarkable. The instrument was then removed. The patient tolerated the procedure well with no complications.,IMPRESSION: , Mallory-Weiss tear, successful BICAP cautery. ,We will keep the patient on proton pump inhibitors. The patient will remain on antiemetics and be started on a clear liquid diet.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Hematemesis in a patient with longstanding diabetes. ,POSTOPERATIVE DIAGNOSIS: ,Mallory-Weiss tear, submucosal hemorrhage consistent with trauma from vomiting and grade 2 esophagitis.,PROCEDURE: , The procedure, indications explained and he understood and agreed.",
+      "He was sedated with Versed 3, Demerol 25 and topical Hurricane spray to the oropharynx.",
+      "A bite block was placed.",
+      "The Pentax video gastroscope was advanced through the oropharynx into the esophagus under direct vision.",
+      "Esophagus revealed distal ulcerations.",
+      "Additionally, the patient had a Mallory-Weiss tear.",
+      "This was subjected to bicap cautery with good ablation.",
+      "The stomach was entered, which revealed areas of submucosal hemorrhage consistent with trauma from vomiting.",
+      "There were no ulcerations or erosions in the stomach.",
+      "The duodenum was entered, which was unremarkable.",
+      "The instrument was then removed.",
+      "The patient tolerated the procedure well with no complications.,IMPRESSION: , Mallory-Weiss tear, successful BICAP cautery. ,We will keep the patient on proton pump inhibitors.",
+      "The patient will remain on antiemetics and be started on a clear liquid diet."
+    ],
+    "sentence_count": 13,
+    "original_length": 1170,
+    "cleaned_length": 1155,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: ,  Hematemesis in a patient with longstanding diabetes. ,POSTOPERATIVE DIAGNOSIS:  ,Mallory-Weiss tear, submucosal hemorrhage consistent with trauma from vomiting and grade 2 esophagitis.,PROCEDURE:  , The procedure, indications explained and he understood and agreed.  He was sedated with Versed 3, Demerol 25 and topical Hurricane spray to the oropharynx.  A bite block was placed.  The Pentax video gastroscope was advanced through the oropharynx into the esophagus under direct vision.  Esophagus revealed distal ulcerations.  Additionally, the patient had a Mallory-Weiss tear.  This was subjected to bicap cautery with good ablation.  The stomach was entered, which revealed areas of submucosal hemorrhage consistent with trauma from vomiting.  There were no ulcerations or erosions in the stomach.  The duodenum was entered, which was unremarkable.  The instrument was then removed.  The patient tolerated the procedure well with no complications.,IMPRESSION: , Mallory-Weiss tear, successful BICAP cautery. ,We will keep the patient on proton pump inhibitors.  The patient will remain on antiemetics and be started on a clear liquid diet.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Hematemesis in a patient with longstanding diabetes. ,POSTOPERATIVE DIAGNOSIS: ,Mallory-Weiss tear, submucosal hemorrhage consistent with trauma from vomiting and grade 2 esophagitis.,PROCEDURE: , The procedure, indications explained and he understood and agreed. He was sedated with Versed 3, Demerol 25 and topical Hurricane spray to the oropharynx. A bite block was placed. The Pentax video gastroscope was advanced through the oropharynx into the esophagus under direct vision. Esophagus revealed distal ulcerations. Additionally, the patient had a Mallory-Weiss tear. This was subjected to bicap cautery with good ablation. The stomach was entered, which revealed areas of submucosal hemorrhage consistent with trauma from vomiting. There were no ulcerations or erosions in the stomach. The duodenum was entered, which was unremarkable. The instrument was then removed. The patient tolerated the procedure well with no complications.,IMPRESSION: , Mallory-Weiss tear, successful BICAP cautery. ,We will keep the patient on proton pump inhibitors. The patient will remain on antiemetics and be started on a clear liquid diet.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Hematemesis in a patient with longstanding diabetes. ,POSTOPERATIVE DIAGNOSIS: ,Mallory-Weiss tear, submucosal hemorrhage consistent with trauma from vomiting and grade 2 esophagitis.,PROCEDURE: , The procedure, indications explained and he understood and agreed.",
+      "He was sedated with Versed 3, Demerol 25 and topical Hurricane spray to the oropharynx.",
+      "A bite block was placed.",
+      "The Pentax video gastroscope was advanced through the oropharynx into the esophagus under direct vision.",
+      "Esophagus revealed distal ulcerations.",
+      "Additionally, the patient had a Mallory-Weiss tear.",
+      "This was subjected to bicap cautery with good ablation.",
+      "The stomach was entered, which revealed areas of submucosal hemorrhage consistent with trauma from vomiting.",
+      "There were no ulcerations or erosions in the stomach.",
+      "The duodenum was entered, which was unremarkable.",
+      "The instrument was then removed.",
+      "The patient tolerated the procedure well with no complications.,IMPRESSION: , Mallory-Weiss tear, successful BICAP cautery. ,We will keep the patient on proton pump inhibitors.",
+      "The patient will remain on antiemetics and be started on a clear liquid diet."
+    ],
+    "sentence_count": 13
+  }
+}

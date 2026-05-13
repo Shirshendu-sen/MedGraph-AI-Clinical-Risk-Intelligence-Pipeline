@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1525__nuclear_medicine_lymphatic_scan_.txt",
+    "file_name": "mtsamples_1525__nuclear_medicine_lymphatic_scan_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 720,
+    "processed_at": "2026-05-09T09:53:43.855268"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1525__nuclear_medicine_lymphatic_scan_.txt",
+    "text": "EXAM:,  Nuclear medicine lymphatic scan.,REASON FOR EXAM: , Left breast cancer.,TECHNIQUE: , 1.0 mCi of Technetium-99m sulfur colloid was injected within the dermis surrounding the left breast biopsy site at four locations.  A 16-hour left anterior oblique imaging was performed with and without shielding of the original injection site.,FINDINGS:  ,There are two small foci of increased activity in the left axilla.  This is consistent with the sentinel lymph node.  No other areas of activity are visualized outside of the injection site and two axillary lymph nodes.,IMPRESSION:  ,Technically successful lymph node injection with two areas of increased activity in the left axilla consistent with sentinel lymph node.",
+    "char_count": 720,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM:, Nuclear medicine lymphatic scan.,REASON FOR EXAM: , Left breast cancer.,TECHNIQUE: , 1.0 mCi of Technetium-99m sulfur colloid was injected within the dermis surrounding the left breast biopsy site at four locations. A 16-hour left anterior oblique imaging was performed with and without shielding of the original injection site.,FINDINGS: ,There are two small foci of increased activity in the left axilla. This is consistent with the sentinel lymph node. No other areas of activity are visualized outside of the injection site and two axillary lymph nodes.,IMPRESSION: ,Technically successful lymph node injection with two areas of increased activity in the left axilla consistent with sentinel lymph node.",
+    "sentences": [
+      "EXAM:, Nuclear medicine lymphatic scan.,REASON FOR EXAM: , Left breast cancer.,TECHNIQUE: , 1.0 mCi of Technetium-99m sulfur colloid was injected within the dermis surrounding the left breast biopsy site at four locations.",
+      "A 16-hour left anterior oblique imaging was performed with and without shielding of the original injection site.,FINDINGS: ,There are two small foci of increased activity in the left axilla.",
+      "This is consistent with the sentinel lymph node.",
+      "No other areas of activity are visualized outside of the injection site and two axillary lymph nodes.,IMPRESSION: ,Technically successful lymph node injection with two areas of increased activity in the left axilla consistent with sentinel lymph node."
+    ],
+    "sentence_count": 4,
+    "original_length": 720,
+    "cleaned_length": 714,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM:,  Nuclear medicine lymphatic scan.,REASON FOR EXAM: , Left breast cancer.,TECHNIQUE: , 1.0 mCi of Technetium-99m sulfur colloid was injected within the dermis surrounding the left breast biopsy site at four locations.  A 16-hour left anterior oblique imaging was performed with and without shielding of the original injection site.,FINDINGS:  ,There are two small foci of increased activity in the left axilla.  This is consistent with the sentinel lymph node.  No other areas of activity are visualized outside of the injection site and two axillary lymph nodes.,IMPRESSION:  ,Technically successful lymph node injection with two areas of increased activity in the left axilla consistent with sentinel lymph node.",
+    "cleaned_text": "EXAM:, Nuclear medicine lymphatic scan.,REASON FOR EXAM: , Left breast cancer.,TECHNIQUE: , 1.0 mCi of Technetium-99m sulfur colloid was injected within the dermis surrounding the left breast biopsy site at four locations. A 16-hour left anterior oblique imaging was performed with and without shielding of the original injection site.,FINDINGS: ,There are two small foci of increased activity in the left axilla. This is consistent with the sentinel lymph node. No other areas of activity are visualized outside of the injection site and two axillary lymph nodes.,IMPRESSION: ,Technically successful lymph node injection with two areas of increased activity in the left axilla consistent with sentinel lymph node.",
+    "sentences": [
+      "EXAM:, Nuclear medicine lymphatic scan.,REASON FOR EXAM: , Left breast cancer.,TECHNIQUE: , 1.0 mCi of Technetium-99m sulfur colloid was injected within the dermis surrounding the left breast biopsy site at four locations.",
+      "A 16-hour left anterior oblique imaging was performed with and without shielding of the original injection site.,FINDINGS: ,There are two small foci of increased activity in the left axilla.",
+      "This is consistent with the sentinel lymph node.",
+      "No other areas of activity are visualized outside of the injection site and two axillary lymph nodes.,IMPRESSION: ,Technically successful lymph node injection with two areas of increased activity in the left axilla consistent with sentinel lymph node."
+    ],
+    "sentence_count": 4
+  }
+}

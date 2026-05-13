@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1897__normal_child_exam_template_.txt",
+    "file_name": "mtsamples_1897__normal_child_exam_template_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 909,
+    "processed_at": "2026-05-09T09:53:52.660961"
+  },
+  "entities": [
+    {
+      "text": "cyanosis",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 11,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cyanosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pallor",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 19,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pallor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "icterus",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 31,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "icterus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hepatosplenomegaly",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 21,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hepatosplenomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "clunk",
+      "label": "DISEASE",
+      "start_char": 258,
+      "end_char": 263,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "clunk",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

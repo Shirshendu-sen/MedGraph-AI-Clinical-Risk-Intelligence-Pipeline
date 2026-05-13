@@ -1,0 +1,583 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3066__qualified_medical_evaluation_report_.txt",
+    "file_name": "mtsamples_3066__qualified_medical_evaluation_report_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 8208,
+    "processed_at": "2026-05-09T09:54:13.916452"
+  },
+  "entities": [
+    {
+      "text": "lower back pain",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 55,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 18,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "ache",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 46,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 109,
+      "sentence_idx": 6,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 43,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 16,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 18,
+      "sentence_idx": 11,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 22,
+      "sentence_idx": 12,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 26,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 17,
+      "sentence_idx": 16,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 22,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "industrial injuries",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 62,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "industrial injuries",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "shoulder pain",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 39,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "neck pain",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 50,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neck pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "low back pain",
+      "label": "DISEASE",
+      "start_char": 56,
+      "end_char": 69,
+      "sentence_idx": 23,
+      "concept_id": "UNKNOWN",
+      "concept_name": "low back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 11,
+      "sentence_idx": 24,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 55,
+      "sentence_idx": 33,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "shoulder pain",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 80,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 40,
+      "sentence_idx": 35,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "impingement",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 102,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "biceps tenosynovitis",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 128,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "biceps tenosynovitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "supraspinatus tendonitis",
+      "label": "DISEASE",
+      "start_char": 140,
+      "end_char": 164,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraspinatus tendonitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "cortisone",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 50,
+      "sentence_idx": 39,
+      "concept_id": "C0010137",
+      "concept_name": "cortisone",
+      "kb_source": "rxnorm",
+      "link_score": 0.9763526916503906,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "spinal stenosis",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 94,
+      "sentence_idx": 59,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spinal stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 56,
+      "sentence_idx": 60,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 88,
+      "sentence_idx": 62,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "K",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 1,
+      "sentence_idx": 66,
+      "concept_id": "UNKNOWN",
+      "concept_name": "K",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 91,
+      "sentence_idx": 66,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "lower back pain",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 45,
+      "sentence_idx": 72,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lower back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 56,
+      "end_char": 63,
+      "sentence_idx": 74,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "steroid",
+      "label": "CHEMICAL",
+      "start_char": 96,
+      "end_char": 103,
+      "sentence_idx": 78,
+      "concept_id": "UNKNOWN",
+      "concept_name": "steroid",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 173,
+      "end_char": 181,
+      "sentence_idx": 80,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "degenerative disc disease",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 86,
+      "sentence_idx": 81,
+      "concept_id": "UNKNOWN",
+      "concept_name": "degenerative disc disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "degenerative disc disease",
+      "label": "DISEASE",
+      "start_char": 120,
+      "end_char": 145,
+      "sentence_idx": 84,
+      "concept_id": "UNKNOWN",
+      "concept_name": "degenerative disc disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "anterior spondylolisthesis",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 48,
+      "sentence_idx": 85,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anterior spondylolisthesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 72,
+      "sentence_idx": 86,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "discogenic back pain",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 98,
+      "sentence_idx": 86,
+      "concept_id": "UNKNOWN",
+      "concept_name": "discogenic back pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 56,
+      "sentence_idx": 89,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "TTD",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 152,
+      "sentence_idx": 91,
+      "concept_id": "UNKNOWN",
+      "concept_name": "TTD",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "N, his primary",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 14,
+      "sentence_idx": 92,
+      "concept_id": "UNKNOWN",
+      "concept_name": "N, his primary",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "disability",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 51,
+      "sentence_idx": 94,
+      "concept_id": "UNKNOWN",
+      "concept_name": "disability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    },
+    {
+      "text": "disability",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 99,
+      "sentence_idx": 94,
+      "concept_id": "UNKNOWN",
+      "concept_name": "disability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1994-06-29"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "06/29/1994",
+      "start_char": 1684,
+      "end_char": 1694
+    },
+    {
+      "raw_text": "08/16/1994",
+      "start_char": 2662,
+      "end_char": 2672
+    },
+    {
+      "raw_text": "08/03/1994",
+      "start_char": 3117,
+      "end_char": 3127
+    },
+    {
+      "raw_text": "06/29/1994",
+      "start_char": 3660,
+      "end_char": 3670
+    },
+    {
+      "raw_text": "04/04/1995",
+      "start_char": 3753,
+      "end_char": 3763
+    },
+    {
+      "raw_text": "03/29/1997",
+      "start_char": 3904,
+      "end_char": 3914
+    },
+    {
+      "raw_text": "05/20/1997",
+      "start_char": 4303,
+      "end_char": 4313
+    },
+    {
+      "raw_text": "09/18/1997",
+      "start_char": 4538,
+      "end_char": 4548
+    },
+    {
+      "raw_text": "05/20/1997",
+      "start_char": 4668,
+      "end_char": 4678
+    },
+    {
+      "raw_text": "12/15/2004",
+      "start_char": 6059,
+      "end_char": 6069
+    },
+    {
+      "raw_text": "08/11/2004",
+      "start_char": 6432,
+      "end_char": 6442
+    },
+    {
+      "raw_text": "05/25/2004",
+      "start_char": 6479,
+      "end_char": 6489
+    },
+    {
+      "raw_text": "03/29/1997",
+      "start_char": 7500,
+      "end_char": 7510
+    }
+  ]
+}

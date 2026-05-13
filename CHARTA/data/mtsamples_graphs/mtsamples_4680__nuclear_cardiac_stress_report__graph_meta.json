@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_4680__nuclear_cardiac_stress_report_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 13,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0001480": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4680__nuclear_cardiac_stress_report__graph.pt",
+  "source_dataset": "mtsamples_4680__nuclear_cardiac_stress_report"
+}

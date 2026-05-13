@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2486__uterine_papillary_serous_carcinoma_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 29,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0079083": 1
+  },
+  "visit_dates": [
+    "2008-01-18"
+  ],
+  "graph_file": "mtsamples_2486__uterine_papillary_serous_carcinoma__graph.pt",
+  "source_dataset": "mtsamples_2486__uterine_papillary_serous_carcinoma"
+}

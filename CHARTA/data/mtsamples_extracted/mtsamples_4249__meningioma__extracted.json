@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4249__meningioma_.txt",
+    "file_name": "mtsamples_4249__meningioma_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2471,
+    "processed_at": "2026-05-09T09:54:35.603899"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "loss of color vision",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 37,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of color vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "loss of color vision",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 128,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loss of color vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "blurred vision",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 55,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blurred vision",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "scotoma",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 77,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "scotoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "photopsias",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 35,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "photopsias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "diplopia",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diplopia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 68,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "Optic disk pallor",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 17,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Optic disk pallor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "peripheral chorioretinal scarring",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 73,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peripheral chorioretinal scarring",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "Optic",
+      "label": "DISEASE",
+      "start_char": 166,
+      "end_char": 171,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Optic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "mass lesion",
+      "label": "DISEASE",
+      "start_char": 204,
+      "end_char": 215,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mass lesion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "enlargement of tumor",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 86,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "enlargement of tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "blindness",
+      "label": "DISEASE",
+      "start_char": 209,
+      "end_char": 218,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blindness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 243,
+      "end_char": 248,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "meningioma",
+      "label": "DISEASE",
+      "start_char": 268,
+      "end_char": 278,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meningioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "proptosis",
+      "label": "DISEASE",
+      "start_char": 349,
+      "end_char": 358,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "proptosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    },
+    {
+      "text": "desaturation",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 40,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "desaturation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1989-02-06"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "2/6/89",
+      "start_char": 1149,
+      "end_char": 1155
+    },
+    {
+      "raw_text": "2/13/89",
+      "start_char": 1350,
+      "end_char": 1357
+    },
+    {
+      "raw_text": "4/26/89",
+      "start_char": 1503,
+      "end_char": 1510
+    }
+  ]
+}

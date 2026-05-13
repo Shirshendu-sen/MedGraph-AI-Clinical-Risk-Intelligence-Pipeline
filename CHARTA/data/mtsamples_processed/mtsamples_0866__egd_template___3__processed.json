@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0866__egd_template___3_.txt",
+    "file_name": "mtsamples_0866__egd_template___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1018,
+    "processed_at": "2026-05-09T09:53:27.793320"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0866__egd_template___3_.txt",
+    "text": "without difficulty, into the upper GI tract.  The anatomy and mucosa of the esophagus, gastroesophageal junction, stomach, pylorus, and small bowel were all carefully inspected.  All structures were visually normal in appearance.  Biopsies of the distal duodenum, gastric antrum, and distal esophagus were taken and sent for pathological evaluation.  The endoscope and insufflated air were slowly removed from the upper GI tract.  A repeat look at the structures involved again showed no visible abnormalities, except for the biopsy sites.,The patient tolerated the procedure with excellent comfort and stable vital signs.  After a recovery period in the Endoscopy Suite, the patient is discharged to continue recovering in the family's care at home.  The family knows to follow up with me today if there are concerns about the patient's recovery,from the procedure.  They will follow up with me later this week for biopsy and CLO test results so that appropriate further diagnostic and therapeutic plans can be made.,",
+    "char_count": 1018,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "without difficulty, into the upper GI tract. The anatomy and mucosa of the esophagus, gastroesophageal junction, stomach, pylorus, and small bowel were all carefully inspected. All structures were visually normal in appearance. Biopsies of the distal duodenum, gastric antrum, and distal esophagus were taken and sent for pathological evaluation. The endoscope and insufflated air were slowly removed from the upper GI tract. A repeat look at the structures involved again showed no visible abnormalities, except for the biopsy sites.,The patient tolerated the procedure with excellent comfort and stable vital signs. After a recovery period in the Endoscopy Suite, the patient is discharged to continue recovering in the family's care at home. The family knows to follow up with me today if there are concerns about the patient's recovery,from the procedure. They will follow up with me later this week for biopsy and CLO test results so that appropriate further diagnostic and therapeutic plans can be made.,",
+    "sentences": [
+      "without difficulty, into the upper GI tract.",
+      "The anatomy and mucosa of the esophagus, gastroesophageal junction, stomach, pylorus, and small bowel were all carefully inspected.",
+      "All structures were visually normal in appearance.",
+      "Biopsies of the distal duodenum, gastric antrum, and distal esophagus were taken and sent for pathological evaluation.",
+      "The endoscope and insufflated air were slowly removed from the upper GI tract.",
+      "A repeat look at the structures involved again showed no visible abnormalities, except for the biopsy sites.,The patient tolerated the procedure with excellent comfort and stable vital signs.",
+      "After a recovery period in the Endoscopy Suite, the patient is discharged to continue recovering in the family's care at home.",
+      "The family knows to follow up with me today if there are concerns about the patient's recovery,from the procedure.",
+      "They will follow up with me later this week for biopsy and CLO test results so that appropriate further diagnostic and therapeutic plans can be made.,"
+    ],
+    "sentence_count": 9,
+    "original_length": 1018,
+    "cleaned_length": 1010,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "without difficulty, into the upper GI tract.  The anatomy and mucosa of the esophagus, gastroesophageal junction, stomach, pylorus, and small bowel were all carefully inspected.  All structures were visually normal in appearance.  Biopsies of the distal duodenum, gastric antrum, and distal esophagus were taken and sent for pathological evaluation.  The endoscope and insufflated air were slowly removed from the upper GI tract.  A repeat look at the structures involved again showed no visible abnormalities, except for the biopsy sites.,The patient tolerated the procedure with excellent comfort and stable vital signs.  After a recovery period in the Endoscopy Suite, the patient is discharged to continue recovering in the family's care at home.  The family knows to follow up with me today if there are concerns about the patient's recovery,from the procedure.  They will follow up with me later this week for biopsy and CLO test results so that appropriate further diagnostic and therapeutic plans can be made.,",
+    "cleaned_text": "without difficulty, into the upper GI tract. The anatomy and mucosa of the esophagus, gastroesophageal junction, stomach, pylorus, and small bowel were all carefully inspected. All structures were visually normal in appearance. Biopsies of the distal duodenum, gastric antrum, and distal esophagus were taken and sent for pathological evaluation. The endoscope and insufflated air were slowly removed from the upper GI tract. A repeat look at the structures involved again showed no visible abnormalities, except for the biopsy sites.,The patient tolerated the procedure with excellent comfort and stable vital signs. After a recovery period in the Endoscopy Suite, the patient is discharged to continue recovering in the family's care at home. The family knows to follow up with me today if there are concerns about the patient's recovery,from the procedure. They will follow up with me later this week for biopsy and CLO test results so that appropriate further diagnostic and therapeutic plans can be made.,",
+    "sentences": [
+      "without difficulty, into the upper GI tract.",
+      "The anatomy and mucosa of the esophagus, gastroesophageal junction, stomach, pylorus, and small bowel were all carefully inspected.",
+      "All structures were visually normal in appearance.",
+      "Biopsies of the distal duodenum, gastric antrum, and distal esophagus were taken and sent for pathological evaluation.",
+      "The endoscope and insufflated air were slowly removed from the upper GI tract.",
+      "A repeat look at the structures involved again showed no visible abnormalities, except for the biopsy sites.,The patient tolerated the procedure with excellent comfort and stable vital signs.",
+      "After a recovery period in the Endoscopy Suite, the patient is discharged to continue recovering in the family's care at home.",
+      "The family knows to follow up with me today if there are concerns about the patient's recovery,from the procedure.",
+      "They will follow up with me later this week for biopsy and CLO test results so that appropriate further diagnostic and therapeutic plans can be made.,"
+    ],
+    "sentence_count": 9
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3756__tracheostomy___thyroid_isthmusectomy_.txt",
+    "file_name": "mtsamples_3756__tracheostomy___thyroid_isthmusectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3678,
+    "processed_at": "2026-05-09T09:54:27.012556"
+  },
+  "entities": [
+    {
+      "text": "strokes.,PROCEDURES",
+      "label": "CHEMICAL",
+      "start_char": 9,
+      "end_char": 28,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "strokes.,PROCEDURES",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "multiple massive strokes",
+      "label": "DISEASE",
+      "start_char": 211,
+      "end_char": 235,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "multiple massive strokes",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 48,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 61,
+      "sentence_idx": 11,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 76,
+      "end_char": 87,
+      "sentence_idx": 11,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 47,
+      "end_char": 50,
+      "sentence_idx": 32,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

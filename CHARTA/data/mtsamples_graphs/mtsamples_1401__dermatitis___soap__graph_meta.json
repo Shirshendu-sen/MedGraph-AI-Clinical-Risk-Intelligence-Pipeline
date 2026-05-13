@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_1401__dermatitis___soap_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 22,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0701055": 2,
+    "C0162723": 3,
+    "C0700517": 4
+  },
+  "visit_dates": [
+    "2004-07-13"
+  ],
+  "graph_file": "mtsamples_1401__dermatitis___soap__graph.pt",
+  "source_dataset": "mtsamples_1401__dermatitis___soap"
+}

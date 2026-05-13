@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4654__pulmonary_function_test___3_.txt",
+    "file_name": "mtsamples_4654__pulmonary_function_test___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 900,
+    "processed_at": "2026-05-09T09:54:42.842889"
+  },
+  "entities": [
+    {
+      "text": "MVV",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "MVV",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Air",
+      "label": "CHEMICAL",
+      "start_char": 175,
+      "end_char": 178,
+      "sentence_idx": 4,
+      "concept_id": "C3536832",
+      "concept_name": "medical air",
+      "kb_source": "rxnorm",
+      "link_score": 0.9826571941375732,
+      "timestamp": null
+    },
+    {
+      "text": "obstructive or restrictive pulmonary disease",
+      "label": "DISEASE",
+      "start_char": 253,
+      "end_char": 297,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstructive or restrictive pulmonary disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Oxygen",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 7,
+      "concept_id": "C0030054",
+      "concept_name": "oxygen",
+      "kb_source": "rxnorm",
+      "link_score": 0.9489768743515015,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

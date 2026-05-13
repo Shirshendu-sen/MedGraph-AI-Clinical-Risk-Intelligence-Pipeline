@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0377__removal_of_venous_port_.txt",
+    "file_name": "mtsamples_0377__removal_of_venous_port_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1202,
+    "processed_at": "2026-05-09T09:53:14.332946"
+  },
+  "entities": [
+    {
+      "text": "Acute lymphocytic leukemia",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 52,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Acute lymphocytic leukemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Acute lymphocytic leukemia",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 120,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Acute lymphocytic leukemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ALL",
+      "label": "DISEASE",
+      "start_char": 261,
+      "end_char": 264,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ALL",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

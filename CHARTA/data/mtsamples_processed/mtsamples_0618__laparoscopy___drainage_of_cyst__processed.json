@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0618__laparoscopy___drainage_of_cyst_.txt",
+    "file_name": "mtsamples_0618__laparoscopy___drainage_of_cyst_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 835,
+    "processed_at": "2026-05-09T09:53:20.949761"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0618__laparoscopy___drainage_of_cyst_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS:,  Ovarian cyst, persistent.,POSTOPERATIVE DIAGNOSIS: , Ovarian cyst.,ANESTHESIA:,  General,NAME OF OPERATION:,  Diagnostic laparoscopy and drainage of cyst.,PROCEDURE:,  The patient was taken to the operating room, prepped and draped in the usual manner, and adequate anesthesia was induced.  An infraumbilical incision was made, and Veress needle placed without difficulty.  Gas was entered into the abdomen at two liters.  The laparoscope was entered, and the abdomen was visualized.  The second puncture site was made, and the second trocar placed without difficulty.  The cyst was noted on the left, a 3-cm, ovarian cyst.  This was needled, and a hole cut in it with the scissors.  Hemostasis was intact.  Instruments were removed.  The patient was awakened and taken to the recovery room in good condition.",
+    "char_count": 835,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS:, Ovarian cyst, persistent.,POSTOPERATIVE DIAGNOSIS: , Ovarian cyst.,ANESTHESIA:, General,NAME OF OPERATION:, Diagnostic laparoscopy and drainage of cyst.,PROCEDURE:, The patient was taken to the operating room, prepped and draped in the usual manner, and adequate anesthesia was induced. An infraumbilical incision was made, and Veress needle placed without difficulty. Gas was entered into the abdomen at two liters. The laparoscope was entered, and the abdomen was visualized. The second puncture site was made, and the second trocar placed without difficulty. The cyst was noted on the left, a 3-cm, ovarian cyst. This was needled, and a hole cut in it with the scissors. Hemostasis was intact. Instruments were removed. The patient was awakened and taken to the recovery room in good condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS:, Ovarian cyst, persistent.,POSTOPERATIVE DIAGNOSIS: , Ovarian cyst.,ANESTHESIA:, General,NAME OF OPERATION:, Diagnostic laparoscopy and drainage of cyst.,PROCEDURE:, The patient was taken to the operating room, prepped and draped in the usual manner, and adequate anesthesia was induced.",
+      "An infraumbilical incision was made, and Veress needle placed without difficulty.",
+      "Gas was entered into the abdomen at two liters.",
+      "The laparoscope was entered, and the abdomen was visualized.",
+      "The second puncture site was made, and the second trocar placed without difficulty.",
+      "The cyst was noted on the left, a 3-cm, ovarian cyst.",
+      "This was needled, and a hole cut in it with the scissors.",
+      "Hemostasis was intact.",
+      "Instruments were removed.",
+      "The patient was awakened and taken to the recovery room in good condition."
+    ],
+    "sentence_count": 10,
+    "original_length": 835,
+    "cleaned_length": 822,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS:,  Ovarian cyst, persistent.,POSTOPERATIVE DIAGNOSIS: , Ovarian cyst.,ANESTHESIA:,  General,NAME OF OPERATION:,  Diagnostic laparoscopy and drainage of cyst.,PROCEDURE:,  The patient was taken to the operating room, prepped and draped in the usual manner, and adequate anesthesia was induced.  An infraumbilical incision was made, and Veress needle placed without difficulty.  Gas was entered into the abdomen at two liters.  The laparoscope was entered, and the abdomen was visualized.  The second puncture site was made, and the second trocar placed without difficulty.  The cyst was noted on the left, a 3-cm, ovarian cyst.  This was needled, and a hole cut in it with the scissors.  Hemostasis was intact.  Instruments were removed.  The patient was awakened and taken to the recovery room in good condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS:, Ovarian cyst, persistent.,POSTOPERATIVE DIAGNOSIS: , Ovarian cyst.,ANESTHESIA:, General,NAME OF OPERATION:, Diagnostic laparoscopy and drainage of cyst.,PROCEDURE:, The patient was taken to the operating room, prepped and draped in the usual manner, and adequate anesthesia was induced. An infraumbilical incision was made, and Veress needle placed without difficulty. Gas was entered into the abdomen at two liters. The laparoscope was entered, and the abdomen was visualized. The second puncture site was made, and the second trocar placed without difficulty. The cyst was noted on the left, a 3-cm, ovarian cyst. This was needled, and a hole cut in it with the scissors. Hemostasis was intact. Instruments were removed. The patient was awakened and taken to the recovery room in good condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS:, Ovarian cyst, persistent.,POSTOPERATIVE DIAGNOSIS: , Ovarian cyst.,ANESTHESIA:, General,NAME OF OPERATION:, Diagnostic laparoscopy and drainage of cyst.,PROCEDURE:, The patient was taken to the operating room, prepped and draped in the usual manner, and adequate anesthesia was induced.",
+      "An infraumbilical incision was made, and Veress needle placed without difficulty.",
+      "Gas was entered into the abdomen at two liters.",
+      "The laparoscope was entered, and the abdomen was visualized.",
+      "The second puncture site was made, and the second trocar placed without difficulty.",
+      "The cyst was noted on the left, a 3-cm, ovarian cyst.",
+      "This was needled, and a hole cut in it with the scissors.",
+      "Hemostasis was intact.",
+      "Instruments were removed.",
+      "The patient was awakened and taken to the recovery room in good condition."
+    ],
+    "sentence_count": 10
+  }
+}

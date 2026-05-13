@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_0236__transesophageal_echocardiography_probe_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 14,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0007546": 1,
+    "C3854019": 2,
+    "C0023660": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0236__transesophageal_echocardiography_probe__graph.pt",
+  "source_dataset": "mtsamples_0236__transesophageal_echocardiography_probe"
+}

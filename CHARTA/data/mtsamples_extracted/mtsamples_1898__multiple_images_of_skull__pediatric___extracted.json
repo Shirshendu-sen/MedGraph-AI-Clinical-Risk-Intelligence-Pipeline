@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1898__multiple_images_of_skull__pediatric__.txt",
+    "file_name": "mtsamples_1898__multiple_images_of_skull__pediatric__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 505,
+    "processed_at": "2026-05-09T09:53:52.667299"
+  },
+  "entities": [
+    {
+      "text": "craniosynostosis",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 44,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "craniosynostosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "craniosynostosis",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 97,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "craniosynostosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "plagiocephaly",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 147,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "plagiocephaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

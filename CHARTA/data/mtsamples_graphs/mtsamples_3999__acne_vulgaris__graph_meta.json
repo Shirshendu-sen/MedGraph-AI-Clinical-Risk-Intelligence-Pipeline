@@ -1,0 +1,21 @@
+{
+  "patient_id": "mtsamples_3999__acne_vulgaris_",
+  "num_entities": 8,
+  "num_visits": 1,
+  "num_edges": 77,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0010137": 1,
+    "C0001963": 2,
+    "C0040845": 3,
+    "C0699581": 4,
+    "C0022265": 5,
+    "C0030827": 6,
+    "C0039644": 7
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_3999__acne_vulgaris__graph.pt",
+  "source_dataset": "mtsamples_3999__acne_vulgaris"
+}

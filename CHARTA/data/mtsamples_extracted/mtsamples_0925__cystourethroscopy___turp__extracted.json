@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0925__cystourethroscopy___turp_.txt",
+    "file_name": "mtsamples_0925__cystourethroscopy___turp_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2131,
+    "processed_at": "2026-05-09T09:53:29.153959"
+  },
+  "entities": [
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 35,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "BPH",
+      "label": "CHEMICAL",
+      "start_char": 330,
+      "end_char": 333,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BPH",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "urinary retention",
+      "label": "DISEASE",
+      "start_char": 349,
+      "end_char": 366,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary retention",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "trilobar enlargement of the prostate",
+      "label": "DISEASE",
+      "start_char": 500,
+      "end_char": 536,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trilobar enlargement of the prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder tumors",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 78,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder tumors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 96,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 20,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

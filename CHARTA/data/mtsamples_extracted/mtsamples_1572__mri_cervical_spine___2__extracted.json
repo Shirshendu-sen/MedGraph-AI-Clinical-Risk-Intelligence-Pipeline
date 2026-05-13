@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1572__mri_cervical_spine___2_.txt",
+    "file_name": "mtsamples_1572__mri_cervical_spine___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1109,
+    "processed_at": "2026-05-09T09:53:44.833480"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 72,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 82,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neuroforamina",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 53,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuroforamina",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neuroforamina",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 48,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuroforamina",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

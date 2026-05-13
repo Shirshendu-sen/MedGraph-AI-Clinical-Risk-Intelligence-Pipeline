@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2610__delivery_note___1_.txt",
+    "file_name": "mtsamples_2610__delivery_note___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2144,
+    "processed_at": "2026-05-09T09:54:05.156865"
+  },
+  "entities": [
+    {
+      "text": "Stadol",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Stadol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2007-02-12"
+    },
+    {
+      "text": "vulvar lesions",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 41,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vulvar lesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-02-12"
+    },
+    {
+      "text": "Upper vaginal lacerations",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 25,
+      "sentence_idx": 24,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Upper vaginal lacerations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-02-12"
+    },
+    {
+      "text": "Multiple first-degree lacerations",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 33,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Multiple first-degree lacerations",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-02-12"
+    },
+    {
+      "text": "Blood loss",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 10,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-02-12"
+    },
+    {
+      "text": "Gilbert's syndrome",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 56,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Gilbert's syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-02-12"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "February 12, 2007",
+      "start_char": 52,
+      "end_char": 69
+    }
+  ]
+}

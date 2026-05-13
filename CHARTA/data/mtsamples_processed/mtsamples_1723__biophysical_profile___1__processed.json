@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1723__biophysical_profile___1_.txt",
+    "file_name": "mtsamples_1723__biophysical_profile___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1024,
+    "processed_at": "2026-05-09T09:53:49.048486"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1723__biophysical_profile___1_.txt",
+    "text": "HISTORY: , Advanced maternal age and hypertension.,FINDINGS:,  There is a single live intrauterine pregnancy with a vertex lie, posterior placenta, and adequate amniotic fluid.  The amniotic fluid index is 23.2 cm.  Estimated gestational age based on prior ultrasound is 36 weeks 4 four days with an estimated date of delivery of 03/28/08.  Based on fetal measurements obtained today, estimated fetal weight is 3249 plus or minus 396 g, 7 pounds 3 ounces plus or minus 14 ounces, which places the fetus in the 66th percentile for the estimated gestational age.  Fetal heart motion at a rate of 156 beats per minute is documented.  The cord Doppler ratio is normal at 2.2.  The biophysical profile score, assessing fetal breathing movement, gross body movement, fetal tone, and qualitative amniotic fluid volume is 8/8.,IMPRESSION:,1.  Single live intrauterine pregnancy in vertex presentation with an estimated gestational age of 36 weeks 4 days and established due date of 03/28/08.,2.  Biophysical profile (BPP) score 8/8.",
+    "char_count": 1024,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "HISTORY: , Advanced maternal age and hypertension.,FINDINGS:, There is a single live intrauterine pregnancy with a vertex lie, posterior placenta, and adequate amniotic fluid. The amniotic fluid index is 23.2 cm. Estimated gestational age based on prior ultrasound is 36 weeks 4 four days with an estimated date of delivery of 03/28/08. Based on fetal measurements obtained today, estimated fetal weight is 3249 plus or minus 396 g, 7 pounds 3 ounces plus or minus 14 ounces, which places the fetus in the 66th percentile for the estimated gestational age. Fetal heart motion at a rate of 156 beats per minute is documented. The cord Doppler ratio is normal at 2.2. The biophysical profile score, assessing fetal breathing movement, gross body movement, fetal tone, and qualitative amniotic fluid volume is 8/8.,IMPRESSION:,1. Single live intrauterine pregnancy in vertex presentation with an estimated gestational age of 36 weeks 4 days and established due date of 03/28/08.,2. Biophysical profile (BPP) score 8/8.",
+    "sentences": [
+      "HISTORY: , Advanced maternal age and hypertension.,FINDINGS:, There is a single live intrauterine pregnancy with a vertex lie, posterior placenta, and adequate amniotic fluid.",
+      "The amniotic fluid index is 23.2 cm.",
+      "Estimated gestational age based on prior ultrasound is 36 weeks 4 four days with an estimated date of delivery of 03/28/08.",
+      "Based on fetal measurements obtained today, estimated fetal weight is 3249 plus or minus 396 g, 7 pounds 3 ounces plus or minus 14 ounces, which places the fetus in the 66th percentile for the estimated gestational age.",
+      "Fetal heart motion at a rate of 156 beats per minute is documented.",
+      "The cord Doppler ratio is normal at 2.2.",
+      "The biophysical profile score, assessing fetal breathing movement, gross body movement, fetal tone, and qualitative amniotic fluid volume is 8/8.,IMPRESSION:,1.",
+      "Single live intrauterine pregnancy in vertex presentation with an estimated gestational age of 36 weeks 4 days and established due date of 03/28/08.,2.",
+      "Biophysical profile (BPP) score 8/8."
+    ],
+    "sentence_count": 9,
+    "original_length": 1024,
+    "cleaned_length": 1015,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "HISTORY: , Advanced maternal age and hypertension.,FINDINGS:,  There is a single live intrauterine pregnancy with a vertex lie, posterior placenta, and adequate amniotic fluid.  The amniotic fluid index is 23.2 cm.  Estimated gestational age based on prior ultrasound is 36 weeks 4 four days with an estimated date of delivery of 03/28/08.  Based on fetal measurements obtained today, estimated fetal weight is 3249 plus or minus 396 g, 7 pounds 3 ounces plus or minus 14 ounces, which places the fetus in the 66th percentile for the estimated gestational age.  Fetal heart motion at a rate of 156 beats per minute is documented.  The cord Doppler ratio is normal at 2.2.  The biophysical profile score, assessing fetal breathing movement, gross body movement, fetal tone, and qualitative amniotic fluid volume is 8/8.,IMPRESSION:,1.  Single live intrauterine pregnancy in vertex presentation with an estimated gestational age of 36 weeks 4 days and established due date of 03/28/08.,2.  Biophysical profile (BPP) score 8/8.",
+    "cleaned_text": "HISTORY: , Advanced maternal age and hypertension.,FINDINGS:, There is a single live intrauterine pregnancy with a vertex lie, posterior placenta, and adequate amniotic fluid. The amniotic fluid index is 23.2 cm. Estimated gestational age based on prior ultrasound is 36 weeks 4 four days with an estimated date of delivery of 03/28/08. Based on fetal measurements obtained today, estimated fetal weight is 3249 plus or minus 396 g, 7 pounds 3 ounces plus or minus 14 ounces, which places the fetus in the 66th percentile for the estimated gestational age. Fetal heart motion at a rate of 156 beats per minute is documented. The cord Doppler ratio is normal at 2.2. The biophysical profile score, assessing fetal breathing movement, gross body movement, fetal tone, and qualitative amniotic fluid volume is 8/8.,IMPRESSION:,1. Single live intrauterine pregnancy in vertex presentation with an estimated gestational age of 36 weeks 4 days and established due date of 03/28/08.,2. Biophysical profile (BPP) score 8/8.",
+    "sentences": [
+      "HISTORY: , Advanced maternal age and hypertension.,FINDINGS:, There is a single live intrauterine pregnancy with a vertex lie, posterior placenta, and adequate amniotic fluid.",
+      "The amniotic fluid index is 23.2 cm.",
+      "Estimated gestational age based on prior ultrasound is 36 weeks 4 four days with an estimated date of delivery of 03/28/08.",
+      "Based on fetal measurements obtained today, estimated fetal weight is 3249 plus or minus 396 g, 7 pounds 3 ounces plus or minus 14 ounces, which places the fetus in the 66th percentile for the estimated gestational age.",
+      "Fetal heart motion at a rate of 156 beats per minute is documented.",
+      "The cord Doppler ratio is normal at 2.2.",
+      "The biophysical profile score, assessing fetal breathing movement, gross body movement, fetal tone, and qualitative amniotic fluid volume is 8/8.,IMPRESSION:,1.",
+      "Single live intrauterine pregnancy in vertex presentation with an estimated gestational age of 36 weeks 4 days and established due date of 03/28/08.,2.",
+      "Biophysical profile (BPP) score 8/8."
+    ],
+    "sentence_count": 9
+  }
+}

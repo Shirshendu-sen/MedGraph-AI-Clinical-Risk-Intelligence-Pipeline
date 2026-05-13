@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0594__lipoma_excision_.txt",
+    "file_name": "mtsamples_0594__lipoma_excision_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2009,
+    "processed_at": "2026-05-09T09:53:20.299577"
+  },
+  "entities": [
+    {
+      "text": "Intramuscular lipoma",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 108,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Intramuscular lipoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Xylocaine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 9,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Xylocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lipoma",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 10,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lipoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

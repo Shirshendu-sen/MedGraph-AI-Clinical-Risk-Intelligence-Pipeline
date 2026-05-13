@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1984__cervical_epidural_steroid_injection_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 12,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0023660": 1,
+    "C0057476": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1984__cervical_epidural_steroid_injection__graph.pt",
+  "source_dataset": "mtsamples_1984__cervical_epidural_steroid_injection"
+}

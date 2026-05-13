@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1730__angiogram___starclose_closure_.txt",
+    "file_name": "mtsamples_1730__angiogram___starclose_closure_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1677,
+    "processed_at": "2026-05-09T09:53:49.175262"
+  },
+  "entities": [
+    {
+      "text": "shortness of breath.,PROCEDURE: , Right common femoral artery",
+      "label": "DISEASE",
+      "start_char": 196,
+      "end_char": 257,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shortness of breath.,PROCEDURE: , Right common femoral artery",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 40,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 58,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 24,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

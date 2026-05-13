@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_4255__malignant_meningioma___consult_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 44,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0876060": 1,
+    "C0030049": 2,
+    "C0004057": 3,
+    "C0700777": 4,
+    "C0699512": 5,
+    "C0030054": 6
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4255__malignant_meningioma___consult__graph.pt",
+  "source_dataset": "mtsamples_4255__malignant_meningioma___consult"
+}

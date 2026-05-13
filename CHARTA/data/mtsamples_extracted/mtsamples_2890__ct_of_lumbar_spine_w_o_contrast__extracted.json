@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2890__ct_of_lumbar_spine_w_o_contrast_.txt",
+    "file_name": "mtsamples_2890__ct_of_lumbar_spine_w_o_contrast_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 904,
+    "processed_at": "2026-05-09T09:54:10.346439"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 62,
+      "sentence_idx": 0,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 113,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "subluxation",
+      "label": "DISEASE",
+      "start_char": 117,
+      "end_char": 128,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "subluxation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylolysis",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 25,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylolysis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "spondylolisthesis",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 46,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "spondylolisthesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atherosclerotic calcification",
+      "label": "DISEASE",
+      "start_char": 112,
+      "end_char": 141,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atherosclerotic calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fracture",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 30,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fracture",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "left simple renal cyst",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 31,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left simple renal cyst",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

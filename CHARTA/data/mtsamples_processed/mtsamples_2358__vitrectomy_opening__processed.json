@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2358__vitrectomy_opening_.txt",
+    "file_name": "mtsamples_2358__vitrectomy_opening_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1258,
+    "processed_at": "2026-05-09T09:54:00.649349"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2358__vitrectomy_opening_.txt",
+    "text": "VITRECTOMY OPENING,The patient was brought to the operating room and appropriately identified.  General anesthesia was induced by the anesthesiologist.  The patient was prepped and draped in the usual sterile fashion.  A lid speculum was used to provide exposure to the right eye.  A limited conjunctival peritomy was created with Westcott scissors to expose the supranasal and separately the supratemporal and inferotemporal quadrants.  Hemostasis was maintained with wet-field cautery.  Calipers were set at XX mm and the mark was made XX mm posterior to the limbus in the inferotemporal quadrant.  A 5-0 nylon suture was passed through partial-thickness sclera on either side of this mark.  The MVR blade was used to make a sclerotomy between the preplaced sutures.  An 8-0 nylon suture was then preplaced for a later sclerotomy closure.  The infusion cannula was inspected and found to be in good working order.  The infusion cannula was placed into the vitreous cavity and secured with the preplaced suture.  The tip of the infusion cannula was directly visualized and found to be free of any overlying tissue and the infusion was turned on.  Additional sclerotomies were made XX mm posterior to the limbus in the supranasal and supratemporal quadrants.",
+    "char_count": 1258,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "VITRECTOMY OPENING,The patient was brought to the operating room and appropriately identified. General anesthesia was induced by the anesthesiologist. The patient was prepped and draped in the usual sterile fashion. A lid speculum was used to provide exposure to the right eye. A limited conjunctival peritomy was created with Westcott scissors to expose the supranasal and separately the supratemporal and inferotemporal quadrants. Hemostasis was maintained with wet-field cautery. Calipers were set at XX mm and the mark was made XX mm posterior to the limbus in the inferotemporal quadrant. A 5-0 nylon suture was passed through partial-thickness sclera on either side of this mark. The MVR blade was used to make a sclerotomy between the preplaced sutures. An 8-0 nylon suture was then preplaced for a later sclerotomy closure. The infusion cannula was inspected and found to be in good working order. The infusion cannula was placed into the vitreous cavity and secured with the preplaced suture. The tip of the infusion cannula was directly visualized and found to be free of any overlying tissue and the infusion was turned on. Additional sclerotomies were made XX mm posterior to the limbus in the supranasal and supratemporal quadrants.",
+    "sentences": [
+      "VITRECTOMY OPENING,The patient was brought to the operating room and appropriately identified.",
+      "General anesthesia was induced by the anesthesiologist.",
+      "The patient was prepped and draped in the usual sterile fashion.",
+      "A lid speculum was used to provide exposure to the right eye.",
+      "A limited conjunctival peritomy was created with Westcott scissors to expose the supranasal and separately the supratemporal and inferotemporal quadrants.",
+      "Hemostasis was maintained with wet-field cautery.",
+      "Calipers were set at XX mm and the mark was made XX mm posterior to the limbus in the inferotemporal quadrant.",
+      "A 5-0 nylon suture was passed through partial-thickness sclera on either side of this mark.",
+      "The MVR blade was used to make a sclerotomy between the preplaced sutures.",
+      "An 8-0 nylon suture was then preplaced for a later sclerotomy closure.",
+      "The infusion cannula was inspected and found to be in good working order.",
+      "The infusion cannula was placed into the vitreous cavity and secured with the preplaced suture.",
+      "The tip of the infusion cannula was directly visualized and found to be free of any overlying tissue and the infusion was turned on.",
+      "Additional sclerotomies were made XX mm posterior to the limbus in the supranasal and supratemporal quadrants."
+    ],
+    "sentence_count": 14,
+    "original_length": 1258,
+    "cleaned_length": 1245,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "VITRECTOMY OPENING,The patient was brought to the operating room and appropriately identified.  General anesthesia was induced by the anesthesiologist.  The patient was prepped and draped in the usual sterile fashion.  A lid speculum was used to provide exposure to the right eye.  A limited conjunctival peritomy was created with Westcott scissors to expose the supranasal and separately the supratemporal and inferotemporal quadrants.  Hemostasis was maintained with wet-field cautery.  Calipers were set at XX mm and the mark was made XX mm posterior to the limbus in the inferotemporal quadrant.  A 5-0 nylon suture was passed through partial-thickness sclera on either side of this mark.  The MVR blade was used to make a sclerotomy between the preplaced sutures.  An 8-0 nylon suture was then preplaced for a later sclerotomy closure.  The infusion cannula was inspected and found to be in good working order.  The infusion cannula was placed into the vitreous cavity and secured with the preplaced suture.  The tip of the infusion cannula was directly visualized and found to be free of any overlying tissue and the infusion was turned on.  Additional sclerotomies were made XX mm posterior to the limbus in the supranasal and supratemporal quadrants.",
+    "cleaned_text": "VITRECTOMY OPENING,The patient was brought to the operating room and appropriately identified. General anesthesia was induced by the anesthesiologist. The patient was prepped and draped in the usual sterile fashion. A lid speculum was used to provide exposure to the right eye. A limited conjunctival peritomy was created with Westcott scissors to expose the supranasal and separately the supratemporal and inferotemporal quadrants. Hemostasis was maintained with wet-field cautery. Calipers were set at XX mm and the mark was made XX mm posterior to the limbus in the inferotemporal quadrant. A 5-0 nylon suture was passed through partial-thickness sclera on either side of this mark. The MVR blade was used to make a sclerotomy between the preplaced sutures. An 8-0 nylon suture was then preplaced for a later sclerotomy closure. The infusion cannula was inspected and found to be in good working order. The infusion cannula was placed into the vitreous cavity and secured with the preplaced suture. The tip of the infusion cannula was directly visualized and found to be free of any overlying tissue and the infusion was turned on. Additional sclerotomies were made XX mm posterior to the limbus in the supranasal and supratemporal quadrants.",
+    "sentences": [
+      "VITRECTOMY OPENING,The patient was brought to the operating room and appropriately identified.",
+      "General anesthesia was induced by the anesthesiologist.",
+      "The patient was prepped and draped in the usual sterile fashion.",
+      "A lid speculum was used to provide exposure to the right eye.",
+      "A limited conjunctival peritomy was created with Westcott scissors to expose the supranasal and separately the supratemporal and inferotemporal quadrants.",
+      "Hemostasis was maintained with wet-field cautery.",
+      "Calipers were set at XX mm and the mark was made XX mm posterior to the limbus in the inferotemporal quadrant.",
+      "A 5-0 nylon suture was passed through partial-thickness sclera on either side of this mark.",
+      "The MVR blade was used to make a sclerotomy between the preplaced sutures.",
+      "An 8-0 nylon suture was then preplaced for a later sclerotomy closure.",
+      "The infusion cannula was inspected and found to be in good working order.",
+      "The infusion cannula was placed into the vitreous cavity and secured with the preplaced suture.",
+      "The tip of the infusion cannula was directly visualized and found to be free of any overlying tissue and the infusion was turned on.",
+      "Additional sclerotomies were made XX mm posterior to the limbus in the supranasal and supratemporal quadrants."
+    ],
+    "sentence_count": 14
+  }
+}

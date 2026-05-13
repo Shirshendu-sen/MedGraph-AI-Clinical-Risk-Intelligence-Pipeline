@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2019__three_views___foot_.txt",
+    "file_name": "mtsamples_2019__three_views___foot_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 380,
+    "processed_at": "2026-05-09T09:53:54.610559"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2019__three_views___foot_.txt",
+    "text": "EXAM:  ,Three views of the right foot.,REASON FOR EXAM: , Right foot trauma.,FINDINGS: , Three views of the right foot were obtained.  There are no comparison studies.  There is no evidence of fractures or dislocations.  No significant degenerative changes or obstructive osseous lesions were identified.  There are no radiopaque foreign bodies.,IMPRESSION: , Negative right foot.",
+    "char_count": 380,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: ,Three views of the right foot.,REASON FOR EXAM: , Right foot trauma.,FINDINGS: , Three views of the right foot were obtained. There are no comparison studies. There is no evidence of fractures or dislocations. No significant degenerative changes or obstructive osseous lesions were identified. There are no radiopaque foreign bodies.,IMPRESSION: , Negative right foot.",
+    "sentences": [
+      "EXAM: ,Three views of the right foot.,REASON FOR EXAM: , Right foot trauma.,FINDINGS: , Three views of the right foot were obtained.",
+      "There are no comparison studies.",
+      "There is no evidence of fractures or dislocations.",
+      "No significant degenerative changes or obstructive osseous lesions were identified.",
+      "There are no radiopaque foreign bodies.,IMPRESSION: , Negative right foot."
+    ],
+    "sentence_count": 5,
+    "original_length": 380,
+    "cleaned_length": 375,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM:  ,Three views of the right foot.,REASON FOR EXAM: , Right foot trauma.,FINDINGS: , Three views of the right foot were obtained.  There are no comparison studies.  There is no evidence of fractures or dislocations.  No significant degenerative changes or obstructive osseous lesions were identified.  There are no radiopaque foreign bodies.,IMPRESSION: , Negative right foot.",
+    "cleaned_text": "EXAM: ,Three views of the right foot.,REASON FOR EXAM: , Right foot trauma.,FINDINGS: , Three views of the right foot were obtained. There are no comparison studies. There is no evidence of fractures or dislocations. No significant degenerative changes or obstructive osseous lesions were identified. There are no radiopaque foreign bodies.,IMPRESSION: , Negative right foot.",
+    "sentences": [
+      "EXAM: ,Three views of the right foot.,REASON FOR EXAM: , Right foot trauma.,FINDINGS: , Three views of the right foot were obtained.",
+      "There are no comparison studies.",
+      "There is no evidence of fractures or dislocations.",
+      "No significant degenerative changes or obstructive osseous lesions were identified.",
+      "There are no radiopaque foreign bodies.,IMPRESSION: , Negative right foot."
+    ],
+    "sentence_count": 5
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0127__e__coli_uti___followup_.txt",
+    "file_name": "mtsamples_0127__e__coli_uti___followup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1346,
+    "processed_at": "2026-05-09T09:53:06.889161"
+  },
+  "entities": [
+    {
+      "text": "urinary tract infection",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 120,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary tract infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "rash",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 52,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rash",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "dysuria",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 25,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "hematuria",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 42,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematuria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 49,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "chills",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 57,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "incontinence",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 79,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "incontinence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "stress urinary incontinence",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 118,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stress urinary incontinence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "hydronephrosis",
+      "label": "DISEASE",
+      "start_char": 218,
+      "end_char": 232,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hydronephrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "bladder mass or stone",
+      "label": "DISEASE",
+      "start_char": 234,
+      "end_char": 255,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder mass or stone",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "urinary tract infection",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 74,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary tract infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "urinary tract infection",
+      "label": "DISEASE",
+      "start_char": 132,
+      "end_char": 155,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary tract infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "Macrodantin",
+      "label": "CHEMICAL",
+      "start_char": 218,
+      "end_char": 229,
+      "sentence_idx": 7,
+      "concept_id": "C0700187",
+      "concept_name": "Macrodantin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9616006016731262,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 94,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-05"
+    },
+    {
+      "text": "Keflex",
+      "label": "CHEMICAL",
+      "start_char": 159,
+      "end_char": 165,
+      "sentence_idx": 8,
+      "concept_id": "C0700517",
+      "concept_name": "Keflex",
+      "kb_source": "rxnorm",
+      "link_score": 0.9780697822570801,
+      "timestamp": "2008-08-05"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "August 5, 2008",
+      "start_char": 543,
+      "end_char": 557
+    },
+    {
+      "raw_text": "May 7, 2008",
+      "start_char": 693,
+      "end_char": 704
+    },
+    {
+      "raw_text": "July 7, 2008",
+      "start_char": 709,
+      "end_char": 721
+    }
+  ]
+}

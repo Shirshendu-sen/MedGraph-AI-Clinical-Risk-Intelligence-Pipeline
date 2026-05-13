@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0306__suction__dilation____curettage_.txt",
+    "file_name": "mtsamples_0306__suction__dilation____curettage_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2329,
+    "processed_at": "2026-05-09T09:53:12.077446"
+  },
+  "entities": [
+    {
+      "text": "4, para 3 female",
+      "label": "CHEMICAL",
+      "start_char": 354,
+      "end_char": 370,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "4, para 3 female",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 493,
+      "end_char": 501,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 67,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "misoprostol",
+      "label": "CHEMICAL",
+      "start_char": 139,
+      "end_char": 150,
+      "sentence_idx": 4,
+      "concept_id": "C0085174",
+      "concept_name": "miSOPROStol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9811530709266663,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 79,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 89,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "injury to surrounding organs including",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 129,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "injury to surrounding organs including",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

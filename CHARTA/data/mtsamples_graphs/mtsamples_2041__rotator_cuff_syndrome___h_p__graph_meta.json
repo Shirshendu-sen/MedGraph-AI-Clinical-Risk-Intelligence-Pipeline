@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_2041__rotator_cuff_syndrome___h_p_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 31,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0010137": 2,
+    "C0108966": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2041__rotator_cuff_syndrome___h_p__graph.pt",
+  "source_dataset": "mtsamples_2041__rotator_cuff_syndrome___h_p"
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0526__myringotomy_tube_insertion___2_.txt",
+    "file_name": "mtsamples_0526__myringotomy_tube_insertion___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1505,
+    "processed_at": "2026-05-09T09:53:18.387844"
+  },
+  "entities": [
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 54,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 152,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "eustachian tube dysfunction",
+      "label": "DISEASE",
+      "start_char": 375,
+      "end_char": 402,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "eustachian tube dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 410,
+      "end_char": 421,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 106,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ciloxan",
+      "label": "CHEMICAL",
+      "start_char": 61,
+      "end_char": 68,
+      "sentence_idx": 6,
+      "concept_id": "C0701044",
+      "concept_name": "Ciloxan",
+      "kb_source": "rxnorm",
+      "link_score": 0.9904746413230896,
+      "timestamp": null
+    },
+    {
+      "text": "atelectasis",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 160,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atelectasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ciloxan",
+      "label": "CHEMICAL",
+      "start_char": 72,
+      "end_char": 79,
+      "sentence_idx": 9,
+      "concept_id": "C0701044",
+      "concept_name": "Ciloxan",
+      "kb_source": "rxnorm",
+      "link_score": 0.9904746413230896,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

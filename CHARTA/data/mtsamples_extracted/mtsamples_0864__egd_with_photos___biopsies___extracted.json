@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0864__egd_with_photos___biopsies__.txt",
+    "file_name": "mtsamples_0864__egd_with_photos___biopsies__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1702,
+    "processed_at": "2026-05-09T09:53:27.742795"
+  },
+  "entities": [
+    {
+      "text": "reflux disease",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 31,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "reflux disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "choking",
+      "label": "DISEASE",
+      "start_char": 163,
+      "end_char": 170,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "choking",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "odynophagia",
+      "label": "DISEASE",
+      "start_char": 176,
+      "end_char": 187,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "odynophagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hiatal hernia",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 43,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hiatal hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Prevacid",
+      "label": "CHEMICAL",
+      "start_char": 11,
+      "end_char": 19,
+      "sentence_idx": 7,
+      "concept_id": "C0286036",
+      "concept_name": "Prevacid",
+      "kb_source": "rxnorm",
+      "link_score": 0.9654388427734375,
+      "timestamp": null
+    },
+    {
+      "text": "gastritis",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 57,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gastritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 75,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumors",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 31,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumors",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 44,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumors",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "esophagitis",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 78,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "esophagitis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 25,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 46,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erythema",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erythema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "erosions",
+      "label": "CHEMICAL",
+      "start_char": 102,
+      "end_char": 110,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "erosions",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0223__turbt_.txt",
+    "file_name": "mtsamples_0223__turbt_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2928,
+    "processed_at": "2026-05-09T09:53:09.558692"
+  },
+  "entities": [
+    {
+      "text": "carcinoma of the urinary bladder.,POSTOPERATIVE",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 114,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carcinoma of the urinary bladder.,POSTOPERATIVE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carcinoma of the urinary bladder.,TITLE",
+      "label": "DISEASE",
+      "start_char": 170,
+      "end_char": 209,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carcinoma of the urinary bladder.,TITLE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "carcinoma",
+      "label": "DISEASE",
+      "start_char": 483,
+      "end_char": 492,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "carcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 32,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 39,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 128,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "papillary tumor",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 81,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "papillary tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Prostate",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ciprofloxacin",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 36,
+      "sentence_idx": 9,
+      "concept_id": "C0008809",
+      "concept_name": "ciprofloxacin",
+      "kb_source": "rxnorm",
+      "link_score": 0.972334623336792,
+      "timestamp": null
+    },
+    {
+      "text": "barbotage",
+      "label": "CHEMICAL",
+      "start_char": 2,
+      "end_char": 11,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "barbotage",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 42,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 64,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 88,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

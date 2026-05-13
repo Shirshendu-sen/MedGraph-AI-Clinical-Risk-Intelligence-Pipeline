@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1427__breast_radiation_therapy_followup_.txt",
+    "file_name": "mtsamples_1427__breast_radiation_therapy_followup_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1668,
+    "processed_at": "2026-05-09T09:53:41.444245"
+  },
+  "entities": [
+    {
+      "text": "breast adenocarcinoma",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 39,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breast adenocarcinoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "T3 N1b M0, stage IIIA.,She",
+      "label": "CHEMICAL",
+      "start_char": 46,
+      "end_char": 72,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "T3 N1b M0, stage IIIA.,She",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Glucosamine",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 1,
+      "concept_id": "C0017718",
+      "concept_name": "glucosamine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9586130380630493,
+      "timestamp": null
+    },
+    {
+      "text": "Toprol",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 2,
+      "concept_id": "C2723006",
+      "concept_name": "Toprol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9818556308746338,
+      "timestamp": null
+    },
+    {
+      "text": "carboplatin",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 32,
+      "sentence_idx": 7,
+      "concept_id": "C0079083",
+      "concept_name": "carboplatin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9493461847305298,
+      "timestamp": null
+    },
+    {
+      "text": "Taxol",
+      "label": "CHEMICAL",
+      "start_char": 37,
+      "end_char": 42,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Taxol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 108,
+      "end_char": 123,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 18,
+      "end_char": 33,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "supraclavicular lymphadenopathy",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 68,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "supraclavicular lymphadenopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hepatomegaly",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 123,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hepatomegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tenderness",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 13,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tenderness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

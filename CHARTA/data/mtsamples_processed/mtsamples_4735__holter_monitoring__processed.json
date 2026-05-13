@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4735__holter_monitoring_.txt",
+    "file_name": "mtsamples_4735__holter_monitoring_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 838,
+    "processed_at": "2026-05-09T09:54:43.990718"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4735__holter_monitoring_.txt",
+    "text": "INDICATION: , Bradycardia and dizziness.,COMMENTS:,1.  The patient was monitored for 24 hours.,2.  The predominant rhythm was normal sinus rhythm with a minimum heart rate of 56 beats per minute and the maximum heart rate of 114 beats per minute and a mean heart rate of 86 beats per minute.,3.  There were occasional premature atrial contractions seen, no supraventricular tachycardia was seen.,4.  There was a frequent premature ventricular contraction seen.  Between 11:00 a.m. and 11:15 a.m. the patient was in ventricular bigemini and trigemini most of the time.  During rest of the monitoring period, there were just occasional premature ventricular contractions seen.  No ventricular tachycardia was seen.,5.  There were no pathological pauses noted.,6.  The longest RR interval was 1.1 second.,7.  There were no symptoms reported.",
+    "char_count": 838,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "INDICATION: , Bradycardia and dizziness.,COMMENTS:,1. The patient was monitored for 24 hours.,2. The predominant rhythm was normal sinus rhythm with a minimum heart rate of 56 beats per minute and the maximum heart rate of 114 beats per minute and a mean heart rate of 86 beats per minute.,3. There were occasional premature atrial contractions seen, no supraventricular tachycardia was seen.,4. There was a frequent premature ventricular contraction seen. Between 11:00 a.m. and 11:15 a.m. the patient was in ventricular bigemini and trigemini most of the time. During rest of the monitoring period, there were just occasional premature ventricular contractions seen. No ventricular tachycardia was seen.,5. There were no pathological pauses noted.,6. The longest RR interval was 1.1 second.,7. There were no symptoms reported.",
+    "sentences": [
+      "INDICATION: , Bradycardia and dizziness.,COMMENTS:,1.",
+      "The patient was monitored for 24 hours.,2.",
+      "The predominant rhythm was normal sinus rhythm with a minimum heart rate of 56 beats per minute and the maximum heart rate of 114 beats per minute and a mean heart rate of 86 beats per minute.,3.",
+      "There were occasional premature atrial contractions seen, no supraventricular tachycardia was seen.,4.",
+      "There was a frequent premature ventricular contraction seen.",
+      "Between 11:00 a.m. and 11:15 a.m. the patient was in ventricular bigemini and trigemini most of the time.",
+      "During rest of the monitoring period, there were just occasional premature ventricular contractions seen.",
+      "No ventricular tachycardia was seen.,5.",
+      "There were no pathological pauses noted.,6.",
+      "The longest RR interval was 1.1 second.,7.",
+      "There were no symptoms reported."
+    ],
+    "sentence_count": 11,
+    "original_length": 838,
+    "cleaned_length": 828,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "INDICATION: , Bradycardia and dizziness.,COMMENTS:,1.  The patient was monitored for 24 hours.,2.  The predominant rhythm was normal sinus rhythm with a minimum heart rate of 56 beats per minute and the maximum heart rate of 114 beats per minute and a mean heart rate of 86 beats per minute.,3.  There were occasional premature atrial contractions seen, no supraventricular tachycardia was seen.,4.  There was a frequent premature ventricular contraction seen.  Between 11:00 a.m. and 11:15 a.m. the patient was in ventricular bigemini and trigemini most of the time.  During rest of the monitoring period, there were just occasional premature ventricular contractions seen.  No ventricular tachycardia was seen.,5.  There were no pathological pauses noted.,6.  The longest RR interval was 1.1 second.,7.  There were no symptoms reported.",
+    "cleaned_text": "INDICATION: , Bradycardia and dizziness.,COMMENTS:,1. The patient was monitored for 24 hours.,2. The predominant rhythm was normal sinus rhythm with a minimum heart rate of 56 beats per minute and the maximum heart rate of 114 beats per minute and a mean heart rate of 86 beats per minute.,3. There were occasional premature atrial contractions seen, no supraventricular tachycardia was seen.,4. There was a frequent premature ventricular contraction seen. Between 11:00 a.m. and 11:15 a.m. the patient was in ventricular bigemini and trigemini most of the time. During rest of the monitoring period, there were just occasional premature ventricular contractions seen. No ventricular tachycardia was seen.,5. There were no pathological pauses noted.,6. The longest RR interval was 1.1 second.,7. There were no symptoms reported.",
+    "sentences": [
+      "INDICATION: , Bradycardia and dizziness.,COMMENTS:,1.",
+      "The patient was monitored for 24 hours.,2.",
+      "The predominant rhythm was normal sinus rhythm with a minimum heart rate of 56 beats per minute and the maximum heart rate of 114 beats per minute and a mean heart rate of 86 beats per minute.,3.",
+      "There were occasional premature atrial contractions seen, no supraventricular tachycardia was seen.,4.",
+      "There was a frequent premature ventricular contraction seen.",
+      "Between 11:00 a.m. and 11:15 a.m. the patient was in ventricular bigemini and trigemini most of the time.",
+      "During rest of the monitoring period, there were just occasional premature ventricular contractions seen.",
+      "No ventricular tachycardia was seen.,5.",
+      "There were no pathological pauses noted.,6.",
+      "The longest RR interval was 1.1 second.,7.",
+      "There were no symptoms reported."
+    ],
+    "sentence_count": 11
+  }
+}

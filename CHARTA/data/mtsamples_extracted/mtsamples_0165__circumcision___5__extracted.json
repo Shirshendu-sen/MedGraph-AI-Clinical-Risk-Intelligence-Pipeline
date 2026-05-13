@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0165__circumcision___5_.txt",
+    "file_name": "mtsamples_0165__circumcision___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2016,
+    "processed_at": "2026-05-09T09:53:08.090317"
+  },
+  "entities": [
+    {
+      "text": "hypospadias",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 61,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypospadias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chordee",
+      "label": "DISEASE",
+      "start_char": 228,
+      "end_char": 235,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chordee",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chordee",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 20,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chordee",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 45,
+      "sentence_idx": 16,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    },
+    {
+      "text": "scalp hemangioma",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 54,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "scalp hemangioma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

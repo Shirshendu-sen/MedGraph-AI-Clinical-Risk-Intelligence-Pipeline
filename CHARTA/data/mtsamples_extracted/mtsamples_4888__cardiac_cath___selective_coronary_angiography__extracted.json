@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4888__cardiac_cath___selective_coronary_angiography_.txt",
+    "file_name": "mtsamples_4888__cardiac_cath___selective_coronary_angiography_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1725,
+    "processed_at": "2026-05-09T09:54:46.983894"
+  },
+  "entities": [
+    {
+      "text": "infarct",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 38,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infarct",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 9,
+      "end_char": 18,
+      "sentence_idx": 1,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "hematoma",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 23,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hematoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 52,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Reglan",
+      "label": "CHEMICAL",
+      "start_char": 172,
+      "end_char": 178,
+      "sentence_idx": 9,
+      "concept_id": "C0034977",
+      "concept_name": "Reglan",
+      "kb_source": "rxnorm",
+      "link_score": 0.9652804136276245,
+      "timestamp": null
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 185,
+      "end_char": 188,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 196,
+      "end_char": 199,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Valium",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 10,
+      "concept_id": "C0699187",
+      "concept_name": "Valium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9702613353729248,
+      "timestamp": null
+    },
+    {
+      "text": "Benadryl",
+      "label": "CHEMICAL",
+      "start_char": 8,
+      "end_char": 16,
+      "sentence_idx": 10,
+      "concept_id": "C0700899",
+      "concept_name": "Benadryl",
+      "kb_source": "rxnorm",
+      "link_score": 0.9881684184074402,
+      "timestamp": null
+    },
+    {
+      "text": "p.o",
+      "label": "CHEMICAL",
+      "start_char": 23,
+      "end_char": 26,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "p.o",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 39,
+      "sentence_idx": 10,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

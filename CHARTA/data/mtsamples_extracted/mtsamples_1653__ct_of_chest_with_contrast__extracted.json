@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1653__ct_of_chest_with_contrast_.txt",
+    "file_name": "mtsamples_1653__ct_of_chest_with_contrast_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 791,
+    "processed_at": "2026-05-09T09:53:47.667588"
+  },
+  "entities": [
+    {
+      "text": "pneumothorax",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 24,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumothorax",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 36,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 251,
+      "end_char": 260,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

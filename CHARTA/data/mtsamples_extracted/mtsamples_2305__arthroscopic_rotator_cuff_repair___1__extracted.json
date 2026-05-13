@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2305__arthroscopic_rotator_cuff_repair___1_.txt",
+    "file_name": "mtsamples_2305__arthroscopic_rotator_cuff_repair___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3770,
+    "processed_at": "2026-05-09T09:53:59.623297"
+  },
+  "entities": [
+    {
+      "text": "right shoulder pain",
+      "label": "DISEASE",
+      "start_char": 208,
+      "end_char": 227,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right shoulder pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "degenerative glenoid labrum tear",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 56,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "degenerative glenoid labrum tear",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 93,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 2,
+      "end_char": 6,
+      "sentence_idx": 36,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 84,
+      "end_char": 92,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

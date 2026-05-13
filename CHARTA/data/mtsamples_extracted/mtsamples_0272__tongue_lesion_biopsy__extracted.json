@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0272__tongue_lesion_biopsy_.txt",
+    "file_name": "mtsamples_0272__tongue_lesion_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1140,
+    "processed_at": "2026-05-09T09:53:11.036800"
+  },
+  "entities": [
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 39,
+      "sentence_idx": 4,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 53,
+      "end_char": 64,
+      "sentence_idx": 4,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_2509__three_week_postpartum_checkup_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 27,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0043047": 2,
+    "C0722498": 3
+  },
+  "visit_dates": [
+    "2003-10-18"
+  ],
+  "graph_file": "mtsamples_2509__three_week_postpartum_checkup__graph.pt",
+  "source_dataset": "mtsamples_2509__three_week_postpartum_checkup"
+}

@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3070__impairment_rating_.txt",
+    "file_name": "mtsamples_3070__impairment_rating_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3808,
+    "processed_at": "2026-05-09T09:54:14.008012"
+  },
+  "entities": [
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 20,
+      "sentence_idx": 4,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "brachial plexopathy",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 54,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "brachial plexopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "neuritis",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 56,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neuritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "right suprascapular neuropathy",
+      "label": "DISEASE",
+      "start_char": 66,
+      "end_char": 96,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "right suprascapular neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 111,
+      "end_char": 124,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "herniation",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 86,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "herniation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 76,
+      "sentence_idx": 9,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "chills",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 60,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "overweight",
+      "label": "DISEASE",
+      "start_char": 292,
+      "end_char": 302,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "overweight",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "abduction",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 56,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abduction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "impingement",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 30,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "impingement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "Right shoulder impingement syndrome",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 98,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right shoulder impingement syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "AMA",
+      "label": "CHEMICAL",
+      "start_char": 272,
+      "end_char": 275,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AMA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "suprascapular neuropathy",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 32,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "suprascapular neuropathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "motor deficit",
+      "label": "DISEASE",
+      "start_char": 97,
+      "end_char": 110,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "motor deficit",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "upper extremity impairment",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 58,
+      "sentence_idx": 22,
+      "concept_id": "UNKNOWN",
+      "concept_name": "upper extremity impairment",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "shoulder abduction",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 80,
+      "sentence_idx": 25,
+      "concept_id": "UNKNOWN",
+      "concept_name": "shoulder abduction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "weakness",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 75,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "weakness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    },
+    {
+      "text": "AMA",
+      "label": "CHEMICAL",
+      "start_char": 238,
+      "end_char": 241,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AMA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2002-01-01"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "01/01/02",
+      "start_char": 180,
+      "end_char": 188
+    },
+    {
+      "raw_text": "12/18/03",
+      "start_char": 941,
+      "end_char": 949
+    },
+    {
+      "raw_text": "01/01/02",
+      "start_char": 2375,
+      "end_char": 2383
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3160__breast_mass_excision___1_.txt",
+    "file_name": "mtsamples_3160__breast_mass_excision___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2044,
+    "processed_at": "2026-05-09T09:54:15.786790"
+  },
+  "entities": [
+    {
+      "text": "left breast mass",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 88,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left breast mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "scar.,ANESTHESIA",
+      "label": "CHEMICAL",
+      "start_char": 105,
+      "end_char": 121,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "scar.,ANESTHESIA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrocystic disease",
+      "label": "DISEASE",
+      "start_char": 62,
+      "end_char": 81,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrocystic disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 126,
+      "end_char": 134,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "palpable",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 54,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "palpable",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bacitracin",
+      "label": "CHEMICAL",
+      "start_char": 24,
+      "end_char": 34,
+      "sentence_idx": 17,
+      "concept_id": "C0004599",
+      "concept_name": "bacitracin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9781420230865479,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

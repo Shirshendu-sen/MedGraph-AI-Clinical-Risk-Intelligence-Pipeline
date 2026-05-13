@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0832__esophagogastroduodenoscopy_.txt",
+    "file_name": "mtsamples_0832__esophagogastroduodenoscopy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1339,
+    "processed_at": "2026-05-09T09:53:27.043394"
+  },
+  "entities": [
+    {
+      "text": "Iron-deficiency",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 120,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Iron-deficiency",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 244,
+      "end_char": 252,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "perforation",
+      "label": "DISEASE",
+      "start_char": 254,
+      "end_char": 265,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "perforation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nodular gastritis",
+      "label": "DISEASE",
+      "start_char": 65,
+      "end_char": 82,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nodular gastritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenomatous",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 35,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenomatous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 51,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ulceration",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 25,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ulceration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 34,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hernia",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 67,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hernia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "normal.,FINDINGS:,1",
+      "label": "CHEMICAL",
+      "start_char": 26,
+      "end_char": 45,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "normal.,FINDINGS:,1",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gastritis",
+      "label": "DISEASE",
+      "start_char": 39,
+      "end_char": 48,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gastritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "polyp",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 14,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "polyp",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Lovenox",
+      "label": "CHEMICAL",
+      "start_char": 5,
+      "end_char": 12,
+      "sentence_idx": 16,
+      "concept_id": "C0728963",
+      "concept_name": "Lovenox",
+      "kb_source": "rxnorm",
+      "link_score": 0.9913882613182068,
+      "timestamp": null
+    },
+    {
+      "text": "SCDs",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 10,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SCDs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

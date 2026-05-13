@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1108__btl___salpingectomy_.txt",
+    "file_name": "mtsamples_1108__btl___salpingectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4553,
+    "processed_at": "2026-05-09T09:53:34.302354"
+  },
+  "entities": [
+    {
+      "text": "Multiparity",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Multiparity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Multiparity",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Multiparity",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "neonate.,2",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 91,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "neonate.,2",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ROP",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 152,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ROP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "nose and mouth",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 18,
+      "sentence_idx": 30,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nose and mouth",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "avascular",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 102,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "avascular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "avascular",
+      "label": "DISEASE",
+      "start_char": 93,
+      "end_char": 102,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "avascular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adnexa",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 64,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adnexa",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

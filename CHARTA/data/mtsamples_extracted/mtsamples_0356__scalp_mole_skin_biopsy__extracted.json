@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0356__scalp_mole_skin_biopsy_.txt",
+    "file_name": "mtsamples_0356__scalp_mole_skin_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 727,
+    "processed_at": "2026-05-09T09:53:13.916099"
+  },
+  "entities": [
+    {
+      "text": "pulmonary pneumonia",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 96,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 106,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "melanoma",
+      "label": "DISEASE",
+      "start_char": 128,
+      "end_char": 136,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "melanoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 5,
+      "end_char": 14,
+      "sentence_idx": 3,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": null
+    },
+    {
+      "text": "epinephrine",
+      "label": "CHEMICAL",
+      "start_char": 20,
+      "end_char": 31,
+      "sentence_idx": 3,
+      "concept_id": "C0014563",
+      "concept_name": "epinephrine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9494950771331787,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 19,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "malignant melanoma",
+      "label": "DISEASE",
+      "start_char": 113,
+      "end_char": 131,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malignant melanoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

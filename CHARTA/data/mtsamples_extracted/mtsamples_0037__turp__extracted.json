@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0037__turp_.txt",
+    "file_name": "mtsamples_0037__turp_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2104,
+    "processed_at": "2026-05-09T09:53:04.152778"
+  },
+  "entities": [
+    {
+      "text": "prostatic hyperplasia",
+      "label": "DISEASE",
+      "start_char": 311,
+      "end_char": 332,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostatic hyperplasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "urinary retention",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 41,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary retention",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder stones",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 60,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder stones",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 56,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder diverticula",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 71,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder diverticula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bladder diverticula",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 35,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder diverticula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 82,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 58,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

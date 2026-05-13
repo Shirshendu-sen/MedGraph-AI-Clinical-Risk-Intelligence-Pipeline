@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_3995__acne___soap_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 49,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0002645": 1,
+    "C0005088": 2,
+    "C1170371": 3,
+    "C0591437": 4,
+    "C0591395": 5,
+    "C0004057": 6
+  },
+  "visit_dates": [
+    "2004-08-10"
+  ],
+  "graph_file": "mtsamples_3995__acne___soap__graph.pt",
+  "source_dataset": "mtsamples_3995__acne___soap"
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0499__ommaya_reservoir_.txt",
+    "file_name": "mtsamples_0499__ommaya_reservoir_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1468,
+    "processed_at": "2026-05-09T09:53:17.517802"
+  },
+  "entities": [
+    {
+      "text": "leukemia",
+      "label": "DISEASE",
+      "start_char": 135,
+      "end_char": 143,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "leukemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Leukemic meningitis.,POSTOP",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 70,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Leukemic meningitis.,POSTOP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Leukemic meningitis.,PROCEDURE",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 113,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Leukemic meningitis.,PROCEDURE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

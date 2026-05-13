@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0365__salvage_cystectomy_.txt",
+    "file_name": "mtsamples_0365__salvage_cystectomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 8886,
+    "processed_at": "2026-05-09T09:53:14.101548"
+  },
+  "entities": [
+    {
+      "text": "incontinence",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 49,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "incontinence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    },
+    {
+      "text": "urinary retention",
+      "label": "DISEASE",
+      "start_char": 61,
+      "end_char": 78,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary retention",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    },
+    {
+      "text": "bladder stones",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 30,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bladder stones",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    },
+    {
+      "text": "colic",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 50,
+      "sentence_idx": 35,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    },
+    {
+      "text": "avascular",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 28,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "avascular",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    },
+    {
+      "text": "colic",
+      "label": "DISEASE",
+      "start_char": 114,
+      "end_char": 119,
+      "sentence_idx": 41,
+      "concept_id": "UNKNOWN",
+      "concept_name": "colic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    },
+    {
+      "text": "SGIA",
+      "label": "CHEMICAL",
+      "start_char": 112,
+      "end_char": 116,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SGIA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    },
+    {
+      "text": "stoma",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 25,
+      "sentence_idx": 51,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    },
+    {
+      "text": "stoma",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 83,
+      "sentence_idx": 55,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stoma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    },
+    {
+      "text": "JP",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 10,
+      "sentence_idx": 57,
+      "concept_id": "UNKNOWN",
+      "concept_name": "JP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    },
+    {
+      "text": "blood loss",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 24,
+      "sentence_idx": 59,
+      "concept_id": "UNKNOWN",
+      "concept_name": "blood loss",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-01-16"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "January 16, 2008",
+      "start_char": 1306,
+      "end_char": 1322
+    }
+  ]
+}

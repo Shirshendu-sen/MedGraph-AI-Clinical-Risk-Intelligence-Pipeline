@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_3874__neonatal_discharge_summary_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 30,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0002680": 1,
+    "C0039542": 2,
+    "C0024480": 3,
+    "C3854019": 4
+  },
+  "visit_dates": [
+    "2006-07-30"
+  ],
+  "graph_file": "mtsamples_3874__neonatal_discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3874__neonatal_discharge_summary"
+}

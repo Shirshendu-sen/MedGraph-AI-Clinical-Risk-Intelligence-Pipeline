@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0884__dressing_change_.txt",
+    "file_name": "mtsamples_0884__dressing_change_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 967,
+    "processed_at": "2026-05-09T09:53:28.220864"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0884__dressing_change_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Traumatic injury to bilateral upper extremities.,POSTOPERATIVE DIAGNOSIS: , Traumatic injury to bilateral upper extremities.,PROCEDURE: , Dressing change under anesthesia.,PREOPERATIVE INDICATIONS:  ,This 6 year old was involved in a traumatic accident.  She presents today for evaluation and dressing change.,OPERATIVE PROCEDURE IN DETAIL: , The patient was brought to the operating room under the care of Dr. X.  He called us intraoperatively to evaluate the hand that had previously been repaired.  We were involved to that extent.  After removing the bandages, we recognized that more of the tissue had healed than was initially expected.  She had good perfusion although the distal aspect of her left long finger.  This was better than expected.  For this reason, no debridement was done at this time.  Dressings were reapplied to include Xeroform and a splint.  General Surgery and Orthopedic then carried on the rest of the operation.",
+    "char_count": 967,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Traumatic injury to bilateral upper extremities.,POSTOPERATIVE DIAGNOSIS: , Traumatic injury to bilateral upper extremities.,PROCEDURE: , Dressing change under anesthesia.,PREOPERATIVE INDICATIONS: ,This 6 year old was involved in a traumatic accident. She presents today for evaluation and dressing change.,OPERATIVE PROCEDURE IN DETAIL: , The patient was brought to the operating room under the care of Dr. X. He called us intraoperatively to evaluate the hand that had previously been repaired. We were involved to that extent. After removing the bandages, we recognized that more of the tissue had healed than was initially expected. She had good perfusion although the distal aspect of her left long finger. This was better than expected. For this reason, no debridement was done at this time. Dressings were reapplied to include Xeroform and a splint. General Surgery and Orthopedic then carried on the rest of the operation.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Traumatic injury to bilateral upper extremities.,POSTOPERATIVE DIAGNOSIS: , Traumatic injury to bilateral upper extremities.,PROCEDURE: , Dressing change under anesthesia.,PREOPERATIVE INDICATIONS: ,This 6 year old was involved in a traumatic accident.",
+      "She presents today for evaluation and dressing change.,OPERATIVE PROCEDURE IN DETAIL: , The patient was brought to the operating room under the care of Dr.",
+      "X.",
+      "He called us intraoperatively to evaluate the hand that had previously been repaired.",
+      "We were involved to that extent.",
+      "After removing the bandages, we recognized that more of the tissue had healed than was initially expected.",
+      "She had good perfusion although the distal aspect of her left long finger.",
+      "This was better than expected.",
+      "For this reason, no debridement was done at this time.",
+      "Dressings were reapplied to include Xeroform and a splint.",
+      "General Surgery and Orthopedic then carried on the rest of the operation."
+    ],
+    "sentence_count": 11,
+    "original_length": 967,
+    "cleaned_length": 957,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Traumatic injury to bilateral upper extremities.,POSTOPERATIVE DIAGNOSIS: , Traumatic injury to bilateral upper extremities.,PROCEDURE: , Dressing change under anesthesia.,PREOPERATIVE INDICATIONS:  ,This 6 year old was involved in a traumatic accident.  She presents today for evaluation and dressing change.,OPERATIVE PROCEDURE IN DETAIL: , The patient was brought to the operating room under the care of Dr. X.  He called us intraoperatively to evaluate the hand that had previously been repaired.  We were involved to that extent.  After removing the bandages, we recognized that more of the tissue had healed than was initially expected.  She had good perfusion although the distal aspect of her left long finger.  This was better than expected.  For this reason, no debridement was done at this time.  Dressings were reapplied to include Xeroform and a splint.  General Surgery and Orthopedic then carried on the rest of the operation.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Traumatic injury to bilateral upper extremities.,POSTOPERATIVE DIAGNOSIS: , Traumatic injury to bilateral upper extremities.,PROCEDURE: , Dressing change under anesthesia.,PREOPERATIVE INDICATIONS: ,This 6 year old was involved in a traumatic accident. She presents today for evaluation and dressing change.,OPERATIVE PROCEDURE IN DETAIL: , The patient was brought to the operating room under the care of Dr. X. He called us intraoperatively to evaluate the hand that had previously been repaired. We were involved to that extent. After removing the bandages, we recognized that more of the tissue had healed than was initially expected. She had good perfusion although the distal aspect of her left long finger. This was better than expected. For this reason, no debridement was done at this time. Dressings were reapplied to include Xeroform and a splint. General Surgery and Orthopedic then carried on the rest of the operation.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Traumatic injury to bilateral upper extremities.,POSTOPERATIVE DIAGNOSIS: , Traumatic injury to bilateral upper extremities.,PROCEDURE: , Dressing change under anesthesia.,PREOPERATIVE INDICATIONS: ,This 6 year old was involved in a traumatic accident.",
+      "She presents today for evaluation and dressing change.,OPERATIVE PROCEDURE IN DETAIL: , The patient was brought to the operating room under the care of Dr.",
+      "X.",
+      "He called us intraoperatively to evaluate the hand that had previously been repaired.",
+      "We were involved to that extent.",
+      "After removing the bandages, we recognized that more of the tissue had healed than was initially expected.",
+      "She had good perfusion although the distal aspect of her left long finger.",
+      "This was better than expected.",
+      "For this reason, no debridement was done at this time.",
+      "Dressings were reapplied to include Xeroform and a splint.",
+      "General Surgery and Orthopedic then carried on the rest of the operation."
+    ],
+    "sentence_count": 11
+  }
+}

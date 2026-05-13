@@ -1,0 +1,30 @@
+{
+  "patient_id": "mtsamples_4506__cardiac_consultation___3_",
+  "num_entities": 17,
+  "num_visits": 1,
+  "num_edges": 134,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0004057": 1,
+    "C0014025": 2,
+    "C0206460": 3,
+    "C0015846": 4,
+    "C0016277": 5,
+    "C0050940": 6,
+    "C0286036": 7,
+    "C0250480": 8,
+    "C0020223": 9,
+    "C0206046": 10,
+    "C0728755": 11,
+    "C0700899": 12,
+    "C0700776": 13,
+    "C0006675": 14,
+    "C0012373": 15,
+    "C0058012": 16
+  },
+  "visit_dates": [
+    "2006-01-11"
+  ],
+  "graph_file": "mtsamples_4506__cardiac_consultation___3__graph.pt",
+  "source_dataset": "mtsamples_4506__cardiac_consultation___3"
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1634__echocardiography_.txt",
+    "file_name": "mtsamples_1634__echocardiography_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1433,
+    "processed_at": "2026-05-09T09:53:47.191169"
+  },
+  "entities": [
+    {
+      "text": "thrombi",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 20,
+      "sentence_idx": 2,
+      "concept_id": "C0040018",
+      "concept_name": "Thrombin",
+      "kb_source": "mesh",
+      "link_score": 0.8334118127822876,
+      "timestamp": null
+    },
+    {
+      "text": "ventricular hypertrophy",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 65,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ventricular hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mitral annular calcification",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 105,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral annular calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diastolic dysfunction",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 63,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diastolic dysfunction",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pericardial effusion",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 57,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pericardial effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "ventricular hypertrophy",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 39,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ventricular hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "annular calcification",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 28,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "annular calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thrombi",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 24,
+      "sentence_idx": 16,
+      "concept_id": "C0040018",
+      "concept_name": "Thrombin",
+      "kb_source": "mesh",
+      "link_score": 0.8334118127822876,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

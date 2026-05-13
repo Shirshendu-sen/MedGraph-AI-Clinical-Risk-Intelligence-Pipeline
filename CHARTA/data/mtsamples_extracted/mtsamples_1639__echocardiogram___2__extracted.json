@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1639__echocardiogram___2_.txt",
+    "file_name": "mtsamples_1639__echocardiogram___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1340,
+    "processed_at": "2026-05-09T09:53:47.278989"
+  },
+  "entities": [
+    {
+      "text": "hypertrophy",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 45,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "annular calcification",
+      "label": "DISEASE",
+      "start_char": 104,
+      "end_char": 125,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "annular calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "calcification",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 42,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "calcification",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Fibrocalcific valve leaflets",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 28,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Fibrocalcific valve leaflets",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Atrial",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 6,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Atrial",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Pericardium",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Pericardium",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "thrombi",
+      "label": "DISEASE",
+      "start_char": 32,
+      "end_char": 39,
+      "sentence_idx": 10,
+      "concept_id": "C0040018",
+      "concept_name": "Thrombin",
+      "kb_source": "mesh",
+      "link_score": 0.8334118127822876,
+      "timestamp": null
+    },
+    {
+      "text": "mitral regurgitation",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 88,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tricuspid regurgitation",
+      "label": "DISEASE",
+      "start_char": 107,
+      "end_char": 130,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tricuspid regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "mild-to-moderate pulmonary hypertension",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 64,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mild-to-moderate pulmonary hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Concentric hypertrophy",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 22,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Concentric hypertrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "aortic stenosis",
+      "label": "DISEASE",
+      "start_char": 55,
+      "end_char": 70,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aortic stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

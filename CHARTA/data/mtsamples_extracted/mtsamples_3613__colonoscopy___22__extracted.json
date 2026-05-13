@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3613__colonoscopy___22_.txt",
+    "file_name": "mtsamples_3613__colonoscopy___22_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1859,
+    "processed_at": "2026-05-09T09:54:25.089290"
+  },
+  "entities": [
+    {
+      "text": "abdominal pain",
+      "label": "DISEASE",
+      "start_char": 35,
+      "end_char": 49,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypertension",
+      "label": "DISEASE",
+      "start_char": 8,
+      "end_char": 20,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypertension",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dyslipidemia",
+      "label": "DISEASE",
+      "start_char": 22,
+      "end_char": 34,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dyslipidemia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gastroesophageal reflux disease",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 71,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gastroesophageal reflux disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticula",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 15,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "malignancy",
+      "label": "DISEASE",
+      "start_char": 13,
+      "end_char": 23,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "malignancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "diverticulosis",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 54,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diverticulosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

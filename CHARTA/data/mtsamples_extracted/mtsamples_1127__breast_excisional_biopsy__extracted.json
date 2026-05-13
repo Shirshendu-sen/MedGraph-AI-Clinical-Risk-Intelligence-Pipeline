@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1127__breast_excisional_biopsy_.txt",
+    "file_name": "mtsamples_1127__breast_excisional_biopsy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1602,
+    "processed_at": "2026-05-09T09:53:34.755060"
+  },
+  "entities": [
+    {
+      "text": "Right breast mass",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 42,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right breast mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right breast mass",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 111,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right breast mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "needle-localization.,ANESTHESIA",
+      "label": "DISEASE",
+      "start_char": 195,
+      "end_char": 226,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "needle-localization.,ANESTHESIA",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Right breast mass",
+      "label": "DISEASE",
+      "start_char": 286,
+      "end_char": 303,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Right breast mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breast cancer",
+      "label": "DISEASE",
+      "start_char": 67,
+      "end_char": 80,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breast cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breast mass",
+      "label": "DISEASE",
+      "start_char": 31,
+      "end_char": 42,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breast mass",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_4113__pulmonary_consultation___1_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 34,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0699203": 1,
+    "C0721436": 2,
+    "C0001962": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4113__pulmonary_consultation___1__graph.pt",
+  "source_dataset": "mtsamples_4113__pulmonary_consultation___1"
+}

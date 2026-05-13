@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1206__arthrodesis_.txt",
+    "file_name": "mtsamples_1206__arthrodesis_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3982,
+    "processed_at": "2026-05-09T09:53:36.674477"
+  },
+  "entities": [
+    {
+      "text": "Congenital myotonic muscular dystrophy",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 64,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Congenital myotonic muscular dystrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "planovalgus",
+      "label": "DISEASE",
+      "start_char": 80,
+      "end_char": 91,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "planovalgus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Congenital myotonic muscular dystrophy",
+      "label": "DISEASE",
+      "start_char": 125,
+      "end_char": 163,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Congenital myotonic muscular dystrophy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "planovalgus",
+      "label": "DISEASE",
+      "start_char": 179,
+      "end_char": 190,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "planovalgus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Crawford subtalar arthrodesis",
+      "label": "DISEASE",
+      "start_char": 220,
+      "end_char": 249,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Crawford subtalar arthrodesis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 35,
+      "end_char": 43,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 40,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "planovalgus",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 69,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "planovalgus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 55,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 57,
+      "end_char": 65,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Ancef",
+      "label": "CHEMICAL",
+      "start_char": 21,
+      "end_char": 26,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Ancef",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 41,
+      "end_char": 49,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 141,
+      "end_char": 145,
+      "sentence_idx": 35,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

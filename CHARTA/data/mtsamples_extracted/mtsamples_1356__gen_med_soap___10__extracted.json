@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1356__gen_med_soap___10_.txt",
+    "file_name": "mtsamples_1356__gen_med_soap___10_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1255,
+    "processed_at": "2026-05-09T09:53:39.779585"
+  },
+  "entities": [
+    {
+      "text": "NG",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 32,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "NG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "murmurs",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "murmurs",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Glucose",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 7,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": null
+    },
+    {
+      "text": "creatinine",
+      "label": "CHEMICAL",
+      "start_char": 24,
+      "end_char": 34,
+      "sentence_idx": 7,
+      "concept_id": "C0010294",
+      "concept_name": "creatinine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9711365103721619,
+      "timestamp": null
+    },
+    {
+      "text": "sodium",
+      "label": "CHEMICAL",
+      "start_char": 40,
+      "end_char": 46,
+      "sentence_idx": 7,
+      "concept_id": "C0037473",
+      "concept_name": "sodium",
+      "kb_source": "rxnorm",
+      "link_score": 0.990592896938324,
+      "timestamp": null
+    },
+    {
+      "text": "potassium",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 64,
+      "sentence_idx": 7,
+      "concept_id": "C0032821",
+      "concept_name": "potassium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9840192198753357,
+      "timestamp": null
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 77,
+      "end_char": 80,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Small bowel obstruction/paralytic ileus",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 39,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Small bowel obstruction/paralytic ileus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "obstipation",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 61,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "obstipation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fibrosis",
+      "label": "DISEASE",
+      "start_char": 10,
+      "end_char": 18,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fibrosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Leukocytosis",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Leukocytosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hyponatremia",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 12,
+      "sentence_idx": 17,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hyponatremia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "DVT",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DVT",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

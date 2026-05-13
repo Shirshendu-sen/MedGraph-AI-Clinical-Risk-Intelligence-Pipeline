@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0717__hypospadias_repair_.txt",
+    "file_name": "mtsamples_0717__hypospadias_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3791,
+    "processed_at": "2026-05-09T09:53:23.161666"
+  },
+  "entities": [
+    {
+      "text": "hypospadias",
+      "label": "DISEASE",
+      "start_char": 34,
+      "end_char": 45,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypospadias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypospadias",
+      "label": "DISEASE",
+      "start_char": 95,
+      "end_char": 106,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypospadias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Hypospadias",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 145,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Hypospadias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chordee",
+      "label": "DISEASE",
+      "start_char": 215,
+      "end_char": 222,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chordee",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Marcaine",
+      "label": "CHEMICAL",
+      "start_char": 290,
+      "end_char": 298,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Marcaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "hypospadias",
+      "label": "DISEASE",
+      "start_char": 547,
+      "end_char": 558,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hypospadias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chordee",
+      "label": "DISEASE",
+      "start_char": 564,
+      "end_char": 571,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chordee",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chordee",
+      "label": "DISEASE",
+      "start_char": 20,
+      "end_char": 27,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chordee",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chordee",
+      "label": "DISEASE",
+      "start_char": 90,
+      "end_char": 97,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chordee",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chordee",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 50,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chordee",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "loosened",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 55,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "loosened",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chordee",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 98,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chordee",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Toradol",
+      "label": "CHEMICAL",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Toradol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

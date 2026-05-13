@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0843__endovascular_abdominal_aortic_aneurysm_repair_.txt",
+    "file_name": "mtsamples_0843__endovascular_abdominal_aortic_aneurysm_repair_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3016,
+    "processed_at": "2026-05-09T09:53:27.313242"
+  },
+  "entities": [
+    {
+      "text": "abdominal aortic aneurysm",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 167,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal aortic aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abdominal aortic aneurysm",
+      "label": "DISEASE",
+      "start_char": 242,
+      "end_char": 267,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abdominal aortic aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "iliac artery aneurysm",
+      "label": "DISEASE",
+      "start_char": 290,
+      "end_char": 311,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "iliac artery aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "iliac artery aneurysm",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 121,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "iliac artery aneurysm",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fashion.,Bilateral groin",
+      "label": "DISEASE",
+      "start_char": 237,
+      "end_char": 261,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fashion.,Bilateral groin",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "groin",
+      "label": "DISEASE",
+      "start_char": 137,
+      "end_char": 142,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "groin",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "protamine",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 67,
+      "sentence_idx": 16,
+      "concept_id": "C0033603",
+      "concept_name": "protamines",
+      "kb_source": "rxnorm",
+      "link_score": 0.961919367313385,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_3077__chiropractic_ime___2_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 96,
+  "entity_index": {
+    "C0030346": 0,
+    "UNKNOWN": 1,
+    "C0020740": 2,
+    "C0717367": 3,
+    "C0699203": 4
+  },
+  "visit_dates": [
+    "2000-10-04"
+  ],
+  "graph_file": "mtsamples_3077__chiropractic_ime___2__graph.pt",
+  "source_dataset": "mtsamples_3077__chiropractic_ime___2"
+}

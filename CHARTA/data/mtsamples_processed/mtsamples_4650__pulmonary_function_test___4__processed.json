@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4650__pulmonary_function_test___4_.txt",
+    "file_name": "mtsamples_4650__pulmonary_function_test___4_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 928,
+    "processed_at": "2026-05-09T09:54:42.788359"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4650__pulmonary_function_test___4_.txt",
+    "text": "SPIROMETRY:,  Spirometry reveals the FVC to be adequate.,FEV1 is also adequate 93% predicted.  FEV1/FVC ratio is 114% predicted which is normal and FEF25 75% is 126% predicted.,After the use of bronchodilator, there is no significant improvement of the abovementioned parameters.,MVV is also normal.,LUNG VOLUMES: , Reveal a TLC to be 80% predicted.  FRC is mildly decreased and RV is also mildly decreased.  RV/TLC ratio is also normal 97% predicted.,DIFFUSION CAPACITY:,  After correction for alveolar ventilation, is 112% predicted which is normal.,OXYGEN SATURATION ON ROOM AIR:,  98%.,FINAL INTERPRETATION: , Pulmonary function test shows mild restrictive pulmonary disease.  There is no significant obstructive disease present.  There is no improvement after the use of bronchodilator and diffusion capacity is normal.  Oxygen saturation on room air is also adequate.  Clinical correlation will be necessary in this case.,",
+    "char_count": 928,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "SPIROMETRY:, Spirometry reveals the FVC to be adequate.,FEV1 is also adequate 93% predicted. FEV1/FVC ratio is 114% predicted which is normal and FEF25 75% is 126% predicted.,After the use of bronchodilator, there is no significant improvement of the abovementioned parameters.,MVV is also normal.,LUNG VOLUMES: , Reveal a TLC to be 80% predicted. FRC is mildly decreased and RV is also mildly decreased. RV/TLC ratio is also normal 97% predicted.,DIFFUSION CAPACITY:, After correction for alveolar ventilation, is 112% predicted which is normal.,OXYGEN SATURATION ON ROOM AIR:, 98%.,FINAL INTERPRETATION: , Pulmonary function test shows mild restrictive pulmonary disease. There is no significant obstructive disease present. There is no improvement after the use of bronchodilator and diffusion capacity is normal. Oxygen saturation on room air is also adequate. Clinical correlation will be necessary in this case.,",
+    "sentences": [
+      "SPIROMETRY:, Spirometry reveals the FVC to be adequate.,FEV1 is also adequate 93% predicted.",
+      "FEV1/FVC ratio is 114% predicted which is normal and FEF25 75% is 126% predicted.,After the use of bronchodilator, there is no significant improvement of the abovementioned parameters.,MVV is also normal.,LUNG VOLUMES: , Reveal a TLC to be 80% predicted.",
+      "FRC is mildly decreased and RV is also mildly decreased.",
+      "RV/TLC ratio is also normal 97% predicted.,DIFFUSION CAPACITY:, After correction for alveolar ventilation, is 112% predicted which is normal.,OXYGEN SATURATION ON ROOM AIR:, 98%.,FINAL INTERPRETATION: , Pulmonary function test shows mild restrictive pulmonary disease.",
+      "There is no significant obstructive disease present.",
+      "There is no improvement after the use of bronchodilator and diffusion capacity is normal.",
+      "Oxygen saturation on room air is also adequate.",
+      "Clinical correlation will be necessary in this case.,"
+    ],
+    "sentence_count": 8,
+    "original_length": 928,
+    "cleaned_length": 918,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "SPIROMETRY:,  Spirometry reveals the FVC to be adequate.,FEV1 is also adequate 93% predicted.  FEV1/FVC ratio is 114% predicted which is normal and FEF25 75% is 126% predicted.,After the use of bronchodilator, there is no significant improvement of the abovementioned parameters.,MVV is also normal.,LUNG VOLUMES: , Reveal a TLC to be 80% predicted.  FRC is mildly decreased and RV is also mildly decreased.  RV/TLC ratio is also normal 97% predicted.,DIFFUSION CAPACITY:,  After correction for alveolar ventilation, is 112% predicted which is normal.,OXYGEN SATURATION ON ROOM AIR:,  98%.,FINAL INTERPRETATION: , Pulmonary function test shows mild restrictive pulmonary disease.  There is no significant obstructive disease present.  There is no improvement after the use of bronchodilator and diffusion capacity is normal.  Oxygen saturation on room air is also adequate.  Clinical correlation will be necessary in this case.,",
+    "cleaned_text": "SPIROMETRY:, Spirometry reveals the FVC to be adequate.,FEV1 is also adequate 93% predicted. FEV1/FVC ratio is 114% predicted which is normal and FEF25 75% is 126% predicted.,After the use of bronchodilator, there is no significant improvement of the abovementioned parameters.,MVV is also normal.,LUNG VOLUMES: , Reveal a TLC to be 80% predicted. FRC is mildly decreased and RV is also mildly decreased. RV/TLC ratio is also normal 97% predicted.,DIFFUSION CAPACITY:, After correction for alveolar ventilation, is 112% predicted which is normal.,OXYGEN SATURATION ON ROOM AIR:, 98%.,FINAL INTERPRETATION: , Pulmonary function test shows mild restrictive pulmonary disease. There is no significant obstructive disease present. There is no improvement after the use of bronchodilator and diffusion capacity is normal. Oxygen saturation on room air is also adequate. Clinical correlation will be necessary in this case.,",
+    "sentences": [
+      "SPIROMETRY:, Spirometry reveals the FVC to be adequate.,FEV1 is also adequate 93% predicted.",
+      "FEV1/FVC ratio is 114% predicted which is normal and FEF25 75% is 126% predicted.,After the use of bronchodilator, there is no significant improvement of the abovementioned parameters.,MVV is also normal.,LUNG VOLUMES: , Reveal a TLC to be 80% predicted.",
+      "FRC is mildly decreased and RV is also mildly decreased.",
+      "RV/TLC ratio is also normal 97% predicted.,DIFFUSION CAPACITY:, After correction for alveolar ventilation, is 112% predicted which is normal.,OXYGEN SATURATION ON ROOM AIR:, 98%.,FINAL INTERPRETATION: , Pulmonary function test shows mild restrictive pulmonary disease.",
+      "There is no significant obstructive disease present.",
+      "There is no improvement after the use of bronchodilator and diffusion capacity is normal.",
+      "Oxygen saturation on room air is also adequate.",
+      "Clinical correlation will be necessary in this case.,"
+    ],
+    "sentence_count": 8
+  }
+}

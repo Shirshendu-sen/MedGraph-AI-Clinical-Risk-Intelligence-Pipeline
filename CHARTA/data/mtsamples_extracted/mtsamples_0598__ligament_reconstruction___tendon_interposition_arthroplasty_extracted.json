@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0598__ligament_reconstruction___tendon_interposition_arthroplasty.txt",
+    "file_name": "mtsamples_0598__ligament_reconstruction___tendon_interposition_arthroplasty.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2439,
+    "processed_at": "2026-05-09T09:53:20.366193"
+  },
+  "entities": [
+    {
+      "text": "arthroplasty of right wrist.,DESCRIPTION",
+      "label": "DISEASE",
+      "start_char": 71,
+      "end_char": 111,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthroplasty of right wrist.,DESCRIPTION",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "dissection radial sensory nerve was dissected and retracted out of the operative field.",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 99,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dissection radial sensory nerve was dissected and retracted out of the operative field.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "MP",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 6,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "MP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "MP",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 151,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "MP",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

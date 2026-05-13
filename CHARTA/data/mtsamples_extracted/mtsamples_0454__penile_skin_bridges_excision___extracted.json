@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0454__penile_skin_bridges_excision__.txt",
+    "file_name": "mtsamples_0454__penile_skin_bridges_excision__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1772,
+    "processed_at": "2026-05-09T09:53:16.578398"
+  },
+  "entities": [
+    {
+      "text": "Toradol",
+      "label": "CHEMICAL",
+      "start_char": 3,
+      "end_char": 10,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Toradol",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

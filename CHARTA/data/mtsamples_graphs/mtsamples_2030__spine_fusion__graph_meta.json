@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_2030__spine_fusion_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 8,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0004599": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_2030__spine_fusion__graph.pt",
+  "source_dataset": "mtsamples_2030__spine_fusion"
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3051__cardiology___letter_.txt",
+    "file_name": "mtsamples_3051__cardiology___letter_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 411,
+    "processed_at": "2026-05-09T09:54:12.884386"
+  },
+  "extraction": {
+    "file_name": "mtsamples_3051__cardiology___letter_.txt",
+    "text": "Please accept this letter of follow up on patient xxx xxx. He is now three months out from a left carotid angioplasty and stent placement. He was a part of a CapSure trial. He has done quite well, with no neurologic or cardiac event in the three months of follow up. He had a follow-up ultrasound performed today that shows the stent to be patent, with no evidence of significant recurrence.,Sincerely,,XYZ, MD,",
+    "char_count": 411,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "Please accept this letter of follow up on patient xxx xxx. He is now three months out from a left carotid angioplasty and stent placement. He was a part of a CapSure trial. He has done quite well, with no neurologic or cardiac event in the three months of follow up. He had a follow-up ultrasound performed today that shows the stent to be patent, with no evidence of significant recurrence.,Sincerely,,XYZ, MD,",
+    "sentences": [
+      "Please accept this letter of follow up on patient xxx xxx.",
+      "He is now three months out from a left carotid angioplasty and stent placement.",
+      "He was a part of a CapSure trial.",
+      "He has done quite well, with no neurologic or cardiac event in the three months of follow up.",
+      "He had a follow-up ultrasound performed today that shows the stent to be patent, with no evidence of significant recurrence.,Sincerely,,XYZ, MD,"
+    ],
+    "sentence_count": 5,
+    "original_length": 411,
+    "cleaned_length": 411,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "Please accept this letter of follow up on patient xxx xxx. He is now three months out from a left carotid angioplasty and stent placement. He was a part of a CapSure trial. He has done quite well, with no neurologic or cardiac event in the three months of follow up. He had a follow-up ultrasound performed today that shows the stent to be patent, with no evidence of significant recurrence.,Sincerely,,XYZ, MD,",
+    "cleaned_text": "Please accept this letter of follow up on patient xxx xxx. He is now three months out from a left carotid angioplasty and stent placement. He was a part of a CapSure trial. He has done quite well, with no neurologic or cardiac event in the three months of follow up. He had a follow-up ultrasound performed today that shows the stent to be patent, with no evidence of significant recurrence.,Sincerely,,XYZ, MD,",
+    "sentences": [
+      "Please accept this letter of follow up on patient xxx xxx.",
+      "He is now three months out from a left carotid angioplasty and stent placement.",
+      "He was a part of a CapSure trial.",
+      "He has done quite well, with no neurologic or cardiac event in the three months of follow up.",
+      "He had a follow-up ultrasound performed today that shows the stent to be patent, with no evidence of significant recurrence.,Sincerely,,XYZ, MD,"
+    ],
+    "sentence_count": 5
+  }
+}

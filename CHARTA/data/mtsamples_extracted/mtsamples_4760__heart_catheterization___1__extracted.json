@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4760__heart_catheterization___1_.txt",
+    "file_name": "mtsamples_4760__heart_catheterization___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1195,
+    "processed_at": "2026-05-09T09:54:44.315822"
+  },
+  "entities": [
+    {
+      "text": "Chest pain",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 133,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "stenosis",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 27,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "LCX",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LCX",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Aspirin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 10,
+      "concept_id": "C0004057",
+      "concept_name": "aspirin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9736717343330383,
+      "timestamp": null
+    },
+    {
+      "text": "nitroglycerin",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 46,
+      "sentence_idx": 10,
+      "concept_id": "C0017887",
+      "concept_name": "nitroglycerin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9811209440231323,
+      "timestamp": null
+    },
+    {
+      "text": "chest pain",
+      "label": "DISEASE",
+      "start_char": 51,
+      "end_char": 61,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chest pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

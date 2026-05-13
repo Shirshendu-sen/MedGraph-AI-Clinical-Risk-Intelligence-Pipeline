@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2447__normal_physical_exam_template___1_.txt",
+    "file_name": "mtsamples_2447__normal_physical_exam_template___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1160,
+    "processed_at": "2026-05-09T09:54:01.897211"
+  },
+  "entities": [
+    {
+      "text": "thyromegaly",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 59,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "thyromegaly",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "auscultation.,CARDIOVASCULAR",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 47,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "auscultation.,CARDIOVASCULAR",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 91,
+      "end_char": 96,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 54,
+      "end_char": 58,
+      "sentence_idx": 8,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "rash",
+      "label": "DISEASE",
+      "start_char": 119,
+      "end_char": 123,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "rash",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

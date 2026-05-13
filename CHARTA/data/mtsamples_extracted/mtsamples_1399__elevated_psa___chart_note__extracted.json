@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1399__elevated_psa___chart_note_.txt",
+    "file_name": "mtsamples_1399__elevated_psa___chart_note_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1519,
+    "processed_at": "2026-05-09T09:53:40.695245"
+  },
+  "entities": [
+    {
+      "text": "nocturia",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 45,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "nocturia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adenocarcinoma of the prostate",
+      "label": "DISEASE",
+      "start_char": 26,
+      "end_char": 56,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adenocarcinoma of the prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Proscar",
+      "label": "CHEMICAL",
+      "start_char": 52,
+      "end_char": 59,
+      "sentence_idx": 5,
+      "concept_id": "C0678149",
+      "concept_name": "Proscar",
+      "kb_source": "rxnorm",
+      "link_score": 0.9534043073654175,
+      "timestamp": null
+    },
+    {
+      "text": "Proscar",
+      "label": "CHEMICAL",
+      "start_char": 58,
+      "end_char": 65,
+      "sentence_idx": 6,
+      "concept_id": "C0678149",
+      "concept_name": "Proscar",
+      "kb_source": "rxnorm",
+      "link_score": 0.9534043073654175,
+      "timestamp": null
+    },
+    {
+      "text": "alpha-blocker",
+      "label": "CHEMICAL",
+      "start_char": 149,
+      "end_char": 162,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "alpha-blocker",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

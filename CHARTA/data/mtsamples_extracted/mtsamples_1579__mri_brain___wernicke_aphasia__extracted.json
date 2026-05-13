@@ -1,0 +1,467 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1579__mri_brain___wernicke_aphasia_.txt",
+    "file_name": "mtsamples_1579__mri_brain___wernicke_aphasia_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4500,
+    "processed_at": "2026-05-09T09:53:45.074192"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "cerebrovascular disease",
+      "label": "DISEASE",
+      "start_char": 27,
+      "end_char": 50,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cerebrovascular disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "hemorrhage",
+      "label": "DISEASE",
+      "start_char": 218,
+      "end_char": 228,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "ICA stenosis",
+      "label": "DISEASE",
+      "start_char": 260,
+      "end_char": 272,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ICA stenosis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 17,
+      "end_char": 24,
+      "sentence_idx": 10,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "peptic ulcer disease",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 70,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peptic ulcer disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "vitamin B12",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 41,
+      "sentence_idx": 12,
+      "concept_id": "C0042845",
+      "concept_name": "vitamin B12",
+      "kb_source": "rxnorm",
+      "link_score": 0.9755880236625671,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "vitamin B12",
+      "label": "CHEMICAL",
+      "start_char": 73,
+      "end_char": 84,
+      "sentence_idx": 12,
+      "concept_id": "C0042845",
+      "concept_name": "vitamin B12",
+      "kb_source": "rxnorm",
+      "link_score": 0.9755880236625671,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "folate",
+      "label": "CHEMICAL",
+      "start_char": 89,
+      "end_char": 95,
+      "sentence_idx": 12,
+      "concept_id": "C0178638",
+      "concept_name": "folate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9739503860473633,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "Heparin",
+      "label": "CHEMICAL",
+      "start_char": 100,
+      "end_char": 107,
+      "sentence_idx": 13,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "Vitamin B12",
+      "label": "CHEMICAL",
+      "start_char": 112,
+      "end_char": 123,
+      "sentence_idx": 13,
+      "concept_id": "C0042845",
+      "concept_name": "vitamin B12",
+      "kb_source": "rxnorm",
+      "link_score": 0.9755880236625671,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "q.",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 136,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "q.",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "Lopressor",
+      "label": "CHEMICAL",
+      "start_char": 143,
+      "end_char": 152,
+      "sentence_idx": 13,
+      "concept_id": "C0700776",
+      "concept_name": "Lopressor",
+      "kb_source": "rxnorm",
+      "link_score": 0.9802963137626648,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "Folate",
+      "label": "CHEMICAL",
+      "start_char": 154,
+      "end_char": 160,
+      "sentence_idx": 13,
+      "concept_id": "C0178638",
+      "concept_name": "folate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9739503860473633,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "B12",
+      "label": "CHEMICAL",
+      "start_char": 239,
+      "end_char": 242,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "B12",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "prostate cancer",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 30,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "coronary artery disease",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 38,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "coronary artery disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "prostate cancer",
+      "label": "DISEASE",
+      "start_char": 43,
+      "end_char": 58,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate cancer",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "visual neglect",
+      "label": "DISEASE",
+      "start_char": 40,
+      "end_char": 54,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "visual neglect",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "EOM",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EOM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "Glucose",
+      "label": "CHEMICAL",
+      "start_char": 126,
+      "end_char": 133,
+      "sentence_idx": 33,
+      "concept_id": "C0017725",
+      "concept_name": "glucose",
+      "kb_source": "rxnorm",
+      "link_score": 0.9928932785987854,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "Na",
+      "label": "CHEMICAL",
+      "start_char": 146,
+      "end_char": 148,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Na",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "CO2",
+      "label": "CHEMICAL",
+      "start_char": 182,
+      "end_char": 185,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "UA",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "UA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "Vit B12",
+      "label": "CHEMICAL",
+      "start_char": 19,
+      "end_char": 26,
+      "sentence_idx": 35,
+      "concept_id": "C0042845",
+      "concept_name": "vitamin B12",
+      "kb_source": "rxnorm",
+      "link_score": 0.7488899827003479,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "Folate",
+      "label": "CHEMICAL",
+      "start_char": 32,
+      "end_char": 38,
+      "sentence_idx": 35,
+      "concept_id": "C0178638",
+      "concept_name": "folate",
+      "kb_source": "rxnorm",
+      "link_score": 0.9739503860473633,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "heparin",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 40,
+      "sentence_idx": 36,
+      "concept_id": "C0019134",
+      "concept_name": "heparin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9695241451263428,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "LAE",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 40,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LAE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "BICA stenosis",
+      "label": "CHEMICAL",
+      "start_char": 46,
+      "end_char": 59,
+      "sentence_idx": 42,
+      "concept_id": "UNKNOWN",
+      "concept_name": "BICA stenosis",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "cardioembolic stroke",
+      "label": "DISEASE",
+      "start_char": 102,
+      "end_char": 122,
+      "sentence_idx": 43,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardioembolic stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "MCA",
+      "label": "CHEMICAL",
+      "start_char": 169,
+      "end_char": 172,
+      "sentence_idx": 43,
+      "concept_id": "C0600203",
+      "concept_name": "DCA",
+      "kb_source": "rxnorm",
+      "link_score": 0.7071068286895752,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "warfarin",
+      "label": "CHEMICAL",
+      "start_char": 30,
+      "end_char": 38,
+      "sentence_idx": 44,
+      "concept_id": "C0043031",
+      "concept_name": "warfarin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9493682980537415,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "8/21/95.,He",
+      "label": "CHEMICAL",
+      "start_char": 135,
+      "end_char": 146,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "8/21/95.,He",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    },
+    {
+      "text": "stroke",
+      "label": "DISEASE",
+      "start_char": 166,
+      "end_char": 172,
+      "sentence_idx": 45,
+      "concept_id": "UNKNOWN",
+      "concept_name": "stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-08-14"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "8/14/95",
+      "start_char": 65,
+      "end_char": 72
+    },
+    {
+      "raw_text": "8/14/95",
+      "start_char": 135,
+      "end_char": 142
+    },
+    {
+      "raw_text": "8/14/95",
+      "start_char": 759,
+      "end_char": 766
+    },
+    {
+      "raw_text": "8/16/95",
+      "start_char": 1030,
+      "end_char": 1037
+    },
+    {
+      "raw_text": "8/16/95",
+      "start_char": 3527,
+      "end_char": 3534
+    },
+    {
+      "raw_text": "8/17/95",
+      "start_char": 3664,
+      "end_char": 3671
+    },
+    {
+      "raw_text": "8/18/95",
+      "start_char": 3724,
+      "end_char": 3731
+    },
+    {
+      "raw_text": "8/16/95",
+      "start_char": 3987,
+      "end_char": 3994
+    },
+    {
+      "raw_text": "8/21/95",
+      "start_char": 4426,
+      "end_char": 4433
+    }
+  ]
+}

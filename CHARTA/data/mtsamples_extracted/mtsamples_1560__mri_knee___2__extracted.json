@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1560__mri_knee___2_.txt",
+    "file_name": "mtsamples_1560__mri_knee___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2311,
+    "processed_at": "2026-05-09T09:53:44.513978"
+  },
+  "entities": [
+    {
+      "text": "left knee pain",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 95,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left knee pain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "intrasubstance degeneration",
+      "label": "DISEASE",
+      "start_char": 211,
+      "end_char": 238,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrasubstance degeneration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sprain",
+      "label": "DISEASE",
+      "start_char": 77,
+      "end_char": 83,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sprain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sprain",
+      "label": "DISEASE",
+      "start_char": 98,
+      "end_char": 104,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sprain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "contusion",
+      "label": "DISEASE",
+      "start_char": 287,
+      "end_char": 296,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "contusion",
+      "label": "DISEASE",
+      "start_char": 14,
+      "end_char": 23,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 25,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "sprain",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 21,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "sprain",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "contusion",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 24,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "contusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "effusion",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 14,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "plica",
+      "label": "DISEASE",
+      "start_char": 19,
+      "end_char": 24,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "plica",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3029__basilic_vein_transposition_.txt",
+    "file_name": "mtsamples_3029__basilic_vein_transposition_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2432,
+    "processed_at": "2026-05-09T09:54:12.638038"
+  },
+  "entities": [
+    {
+      "text": "End-stage renal disease",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 48,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "End-stage renal disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "End-stage renal disease",
+      "label": "DISEASE",
+      "start_char": 123,
+      "end_char": 146,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "End-stage renal disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "fistula",
+      "label": "DISEASE",
+      "start_char": 366,
+      "end_char": 373,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "brachiobasilic AV fistula",
+      "label": "DISEASE",
+      "start_char": 499,
+      "end_char": 524,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "brachiobasilic AV fistula",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "luminal",
+      "label": "CHEMICAL",
+      "start_char": 80,
+      "end_char": 87,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "luminal",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

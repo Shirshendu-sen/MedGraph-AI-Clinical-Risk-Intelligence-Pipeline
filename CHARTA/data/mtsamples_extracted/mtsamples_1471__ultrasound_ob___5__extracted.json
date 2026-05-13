@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1471__ultrasound_ob___5_.txt",
+    "file_name": "mtsamples_1471__ultrasound_ob___5_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1636,
+    "processed_at": "2026-05-09T09:53:42.800634"
+  },
+  "entities": [
+    {
+      "text": "Previa",
+      "label": "DISEASE",
+      "start_char": 149,
+      "end_char": 155,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Previa",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-06-04"
+    },
+    {
+      "text": "intrauterine pregnancy",
+      "label": "DISEASE",
+      "start_char": 1156,
+      "end_char": 1178,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intrauterine pregnancy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2007-05-24"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "06/04/07",
+      "start_char": 774,
+      "end_char": 782
+    },
+    {
+      "raw_text": "05/18/07",
+      "start_char": 855,
+      "end_char": 863
+    },
+    {
+      "raw_text": "03/05/07",
+      "start_char": 894,
+      "end_char": 902
+    },
+    {
+      "raw_text": "05/24/07",
+      "start_char": 932,
+      "end_char": 940
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1199__arthroscopic_debridement___shoulder_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C3854019": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1199__arthroscopic_debridement___shoulder__graph.pt",
+  "source_dataset": "mtsamples_1199__arthroscopic_debridement___shoulder"
+}

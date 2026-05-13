@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4010__i_d___buccal_space_abscess_.txt",
+    "file_name": "mtsamples_4010__i_d___buccal_space_abscess_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2266,
+    "processed_at": "2026-05-09T09:54:31.893889"
+  },
+  "extraction": {
+    "file_name": "mtsamples_4010__i_d___buccal_space_abscess_.txt",
+    "text": "PREOPERATIVE DIAGNOSES,1.  Right buccal space abscess/cellulitis.,2.  Nonrestorable caries teeth #1, #29, and #32.,POSTOPERATIVE DIAGNOSES,1.  Right buccal space abscess/cellulitis.,2.  Nonrestorable caries teeth #1, #29, and #32.,PROCEDURE,1.  Incision and drainage of right buccal space abscess.,2.  Extraction of teeth #1, #29, and #32.,ANESTHESIA,GETA,EBL,20 mL.,IV FLUIDS,900 mL.,URINE OUTPUT,Not measured.,COMPLICATIONS,None.,SPECIMENS,1.  Aerobic culture was sent from the right buccal space abscess/cellulitis.,2.  Anaerobic culture from the same space was also obtained.,PROCEDURE IN DETAIL,The patient was identified in the appropriate holding area and transported to #13.  The patient was intubated by anesthesia orotracheally using a #7 ET tube.  The patient was induced in effective sleep using a propofol and gas inhalation anesthetics.  Following intubation, the patient's mouth was cleaned with chlorhexidine and a toothbrush following placement of a throat pack.  At that point, approximately 5 mL of 2% lidocaine with 1:20,000 epinephrine was injected for a right inferior alveolar block, as well as local infiltration in the right long buccal nerve area as well as the right cheek area.  Local infiltration also was done near the tooth #32.  At this point, a periosteal elevator was used to loosen up the gingival tissue of the teeth #1, #29, and #32; and all 3 teeth were extracted using simple extraction, using elevators and forceps.  In addition, the previous Penrose drain was removed by removing the suture, and the incision that was used for I&D on the previous day was extended laterally.  A hemostat was used to puncture through to the right buccal space.  Approximately, 2.5 to 3 mL of purulence was drained, and that was used for Gram stain and culture, as mentioned above.  Following copious irrigation of the area, following the extraction and following the incision and drainage, 2 quarter-inch Penrose drains were placed in the anterior as well as the posterior section of the incision into the buccal space.  At this point copious irrigation was done again, the throat pack was removed, and the procedure was ended.  Note that the patient was extubated without incident.  Dr. B was present for all critical aspects of patient care.",
+    "char_count": 2266,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSES,1. Right buccal space abscess/cellulitis.,2. Nonrestorable caries teeth #1, #29, and #32.,POSTOPERATIVE DIAGNOSES,1. Right buccal space abscess/cellulitis.,2. Nonrestorable caries teeth #1, #29, and #32.,PROCEDURE,1. Incision and drainage of right buccal space abscess.,2. Extraction of teeth #1, #29, and #32.,ANESTHESIA,GETA,EBL,20 mL.,IV FLUIDS,900 mL.,URINE OUTPUT,Not measured.,COMPLICATIONS,None.,SPECIMENS,1. Aerobic culture was sent from the right buccal space abscess/cellulitis.,2. Anaerobic culture from the same space was also obtained.,PROCEDURE IN DETAIL,The patient was identified in the appropriate holding area and transported to #13. The patient was intubated by anesthesia orotracheally using a #7 ET tube. The patient was induced in effective sleep using a propofol and gas inhalation anesthetics. Following intubation, the patient's mouth was cleaned with chlorhexidine and a toothbrush following placement of a throat pack. At that point, approximately 5 mL of 2% lidocaine with 1:20,000 epinephrine was injected for a right inferior alveolar block, as well as local infiltration in the right long buccal nerve area as well as the right cheek area. Local infiltration also was done near the tooth #32. At this point, a periosteal elevator was used to loosen up the gingival tissue of the teeth #1, #29, and #32; and all 3 teeth were extracted using simple extraction, using elevators and forceps. In addition, the previous Penrose drain was removed by removing the suture, and the incision that was used for I&D on the previous day was extended laterally. A hemostat was used to puncture through to the right buccal space. Approximately, 2.5 to 3 mL of purulence was drained, and that was used for Gram stain and culture, as mentioned above. Following copious irrigation of the area, following the extraction and following the incision and drainage, 2 quarter-inch Penrose drains were placed in the anterior as well as the posterior section of the incision into the buccal space. At this point copious irrigation was done again, the throat pack was removed, and the procedure was ended. Note that the patient was extubated without incident. Dr. B was present for all critical aspects of patient care.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES,1.",
+      "Right buccal space abscess/cellulitis.,2.",
+      "Nonrestorable caries teeth #1, #29, and #32.,POSTOPERATIVE DIAGNOSES,1.",
+      "Right buccal space abscess/cellulitis.,2.",
+      "Nonrestorable caries teeth #1, #29, and #32.,PROCEDURE,1.",
+      "Incision and drainage of right buccal space abscess.,2.",
+      "Extraction of teeth #1, #29, and #32.,ANESTHESIA,GETA,EBL,20 mL.,IV FLUIDS,900 mL.,URINE OUTPUT,Not measured.,COMPLICATIONS,None.,SPECIMENS,1.",
+      "Aerobic culture was sent from the right buccal space abscess/cellulitis.,2.",
+      "Anaerobic culture from the same space was also obtained.,PROCEDURE IN DETAIL,The patient was identified in the appropriate holding area and transported to #13.",
+      "The patient was intubated by anesthesia orotracheally using a #7 ET tube.",
+      "The patient was induced in effective sleep using a propofol and gas inhalation anesthetics.",
+      "Following intubation, the patient's mouth was cleaned with chlorhexidine and a toothbrush following placement of a throat pack.",
+      "At that point, approximately 5 mL of 2% lidocaine with 1:20,000 epinephrine was injected for a right inferior alveolar block, as well as local infiltration in the right long buccal nerve area as well as the right cheek area.",
+      "Local infiltration also was done near the tooth #32.",
+      "At this point, a periosteal elevator was used to loosen up the gingival tissue of the teeth #1, #29, and #32; and all 3 teeth were extracted using simple extraction, using elevators and forceps.",
+      "In addition, the previous Penrose drain was removed by removing the suture, and the incision that was used for I&D on the previous day was extended laterally.",
+      "A hemostat was used to puncture through to the right buccal space.",
+      "Approximately, 2.5 to 3 mL of purulence was drained, and that was used for Gram stain and culture, as mentioned above.",
+      "Following copious irrigation of the area, following the extraction and following the incision and drainage, 2 quarter-inch Penrose drains were placed in the anterior as well as the posterior section of the incision into the buccal space.",
+      "At this point copious irrigation was done again, the throat pack was removed, and the procedure was ended.",
+      "Note that the patient was extubated without incident.",
+      "Dr.",
+      "B was present for all critical aspects of patient care."
+    ],
+    "sentence_count": 23,
+    "original_length": 2266,
+    "cleaned_length": 2245,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSES,1.  Right buccal space abscess/cellulitis.,2.  Nonrestorable caries teeth #1, #29, and #32.,POSTOPERATIVE DIAGNOSES,1.  Right buccal space abscess/cellulitis.,2.  Nonrestorable caries teeth #1, #29, and #32.,PROCEDURE,1.  Incision and drainage of right buccal space abscess.,2.  Extraction of teeth #1, #29, and #32.,ANESTHESIA,GETA,EBL,20 mL.,IV FLUIDS,900 mL.,URINE OUTPUT,Not measured.,COMPLICATIONS,None.,SPECIMENS,1.  Aerobic culture was sent from the right buccal space abscess/cellulitis.,2.  Anaerobic culture from the same space was also obtained.,PROCEDURE IN DETAIL,The patient was identified in the appropriate holding area and transported to #13.  The patient was intubated by anesthesia orotracheally using a #7 ET tube.  The patient was induced in effective sleep using a propofol and gas inhalation anesthetics.  Following intubation, the patient's mouth was cleaned with chlorhexidine and a toothbrush following placement of a throat pack.  At that point, approximately 5 mL of 2% lidocaine with 1:20,000 epinephrine was injected for a right inferior alveolar block, as well as local infiltration in the right long buccal nerve area as well as the right cheek area.  Local infiltration also was done near the tooth #32.  At this point, a periosteal elevator was used to loosen up the gingival tissue of the teeth #1, #29, and #32; and all 3 teeth were extracted using simple extraction, using elevators and forceps.  In addition, the previous Penrose drain was removed by removing the suture, and the incision that was used for I&D on the previous day was extended laterally.  A hemostat was used to puncture through to the right buccal space.  Approximately, 2.5 to 3 mL of purulence was drained, and that was used for Gram stain and culture, as mentioned above.  Following copious irrigation of the area, following the extraction and following the incision and drainage, 2 quarter-inch Penrose drains were placed in the anterior as well as the posterior section of the incision into the buccal space.  At this point copious irrigation was done again, the throat pack was removed, and the procedure was ended.  Note that the patient was extubated without incident.  Dr. B was present for all critical aspects of patient care.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSES,1. Right buccal space abscess/cellulitis.,2. Nonrestorable caries teeth #1, #29, and #32.,POSTOPERATIVE DIAGNOSES,1. Right buccal space abscess/cellulitis.,2. Nonrestorable caries teeth #1, #29, and #32.,PROCEDURE,1. Incision and drainage of right buccal space abscess.,2. Extraction of teeth #1, #29, and #32.,ANESTHESIA,GETA,EBL,20 mL.,IV FLUIDS,900 mL.,URINE OUTPUT,Not measured.,COMPLICATIONS,None.,SPECIMENS,1. Aerobic culture was sent from the right buccal space abscess/cellulitis.,2. Anaerobic culture from the same space was also obtained.,PROCEDURE IN DETAIL,The patient was identified in the appropriate holding area and transported to #13. The patient was intubated by anesthesia orotracheally using a #7 ET tube. The patient was induced in effective sleep using a propofol and gas inhalation anesthetics. Following intubation, the patient's mouth was cleaned with chlorhexidine and a toothbrush following placement of a throat pack. At that point, approximately 5 mL of 2% lidocaine with 1:20,000 epinephrine was injected for a right inferior alveolar block, as well as local infiltration in the right long buccal nerve area as well as the right cheek area. Local infiltration also was done near the tooth #32. At this point, a periosteal elevator was used to loosen up the gingival tissue of the teeth #1, #29, and #32; and all 3 teeth were extracted using simple extraction, using elevators and forceps. In addition, the previous Penrose drain was removed by removing the suture, and the incision that was used for I&D on the previous day was extended laterally. A hemostat was used to puncture through to the right buccal space. Approximately, 2.5 to 3 mL of purulence was drained, and that was used for Gram stain and culture, as mentioned above. Following copious irrigation of the area, following the extraction and following the incision and drainage, 2 quarter-inch Penrose drains were placed in the anterior as well as the posterior section of the incision into the buccal space. At this point copious irrigation was done again, the throat pack was removed, and the procedure was ended. Note that the patient was extubated without incident. Dr. B was present for all critical aspects of patient care.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES,1.",
+      "Right buccal space abscess/cellulitis.,2.",
+      "Nonrestorable caries teeth #1, #29, and #32.,POSTOPERATIVE DIAGNOSES,1.",
+      "Right buccal space abscess/cellulitis.,2.",
+      "Nonrestorable caries teeth #1, #29, and #32.,PROCEDURE,1.",
+      "Incision and drainage of right buccal space abscess.,2.",
+      "Extraction of teeth #1, #29, and #32.,ANESTHESIA,GETA,EBL,20 mL.,IV FLUIDS,900 mL.,URINE OUTPUT,Not measured.,COMPLICATIONS,None.,SPECIMENS,1.",
+      "Aerobic culture was sent from the right buccal space abscess/cellulitis.,2.",
+      "Anaerobic culture from the same space was also obtained.,PROCEDURE IN DETAIL,The patient was identified in the appropriate holding area and transported to #13.",
+      "The patient was intubated by anesthesia orotracheally using a #7 ET tube.",
+      "The patient was induced in effective sleep using a propofol and gas inhalation anesthetics.",
+      "Following intubation, the patient's mouth was cleaned with chlorhexidine and a toothbrush following placement of a throat pack.",
+      "At that point, approximately 5 mL of 2% lidocaine with 1:20,000 epinephrine was injected for a right inferior alveolar block, as well as local infiltration in the right long buccal nerve area as well as the right cheek area.",
+      "Local infiltration also was done near the tooth #32.",
+      "At this point, a periosteal elevator was used to loosen up the gingival tissue of the teeth #1, #29, and #32; and all 3 teeth were extracted using simple extraction, using elevators and forceps.",
+      "In addition, the previous Penrose drain was removed by removing the suture, and the incision that was used for I&D on the previous day was extended laterally.",
+      "A hemostat was used to puncture through to the right buccal space.",
+      "Approximately, 2.5 to 3 mL of purulence was drained, and that was used for Gram stain and culture, as mentioned above.",
+      "Following copious irrigation of the area, following the extraction and following the incision and drainage, 2 quarter-inch Penrose drains were placed in the anterior as well as the posterior section of the incision into the buccal space.",
+      "At this point copious irrigation was done again, the throat pack was removed, and the procedure was ended.",
+      "Note that the patient was extubated without incident.",
+      "Dr.",
+      "B was present for all critical aspects of patient care."
+    ],
+    "sentence_count": 23
+  }
+}

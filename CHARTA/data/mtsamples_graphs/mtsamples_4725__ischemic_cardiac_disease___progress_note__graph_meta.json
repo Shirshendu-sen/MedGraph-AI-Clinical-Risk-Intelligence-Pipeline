@@ -1,0 +1,20 @@
+{
+  "patient_id": "mtsamples_4725__ischemic_cardiac_disease___progress_note_",
+  "num_entities": 7,
+  "num_visits": 1,
+  "num_edges": 49,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0039738": 1,
+    "C0017245": 2,
+    "C1098080": 3,
+    "C0004057": 4,
+    "C0042874": 5,
+    "C0030346": 6
+  },
+  "visit_dates": [
+    "2004-09-15"
+  ],
+  "graph_file": "mtsamples_4725__ischemic_cardiac_disease___progress_note__graph.pt",
+  "source_dataset": "mtsamples_4725__ischemic_cardiac_disease___progress_note"
+}

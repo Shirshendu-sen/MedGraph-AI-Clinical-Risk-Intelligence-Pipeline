@@ -1,0 +1,16 @@
+{
+  "patient_id": "mtsamples_1430__asperger_disorder_",
+  "num_entities": 3,
+  "num_visits": 1,
+  "num_edges": 18,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0284660": 1,
+    "C1170019": 2
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1430__asperger_disorder__graph.pt",
+  "source_dataset": "mtsamples_1430__asperger_disorder"
+}

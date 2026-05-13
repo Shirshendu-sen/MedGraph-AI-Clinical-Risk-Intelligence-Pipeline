@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0558__mammoplasty___2_.txt",
+    "file_name": "mtsamples_0558__mammoplasty___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 4028,
+    "processed_at": "2026-05-09T09:53:19.069703"
+  },
+  "entities": [
+    {
+      "text": "Breast hypoplasia",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 40,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Breast hypoplasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "melasma",
+      "label": "DISEASE",
+      "start_char": 42,
+      "end_char": 49,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "melasma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "TCA",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 3,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "TCA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breasts",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 51,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breasts",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "infection",
+      "label": "DISEASE",
+      "start_char": 63,
+      "end_char": 72,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 82,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "TED",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 75,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "TED",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "breasts",
+      "label": "CHEMICAL",
+      "start_char": 112,
+      "end_char": 119,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "breasts",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "silicone",
+      "label": "CHEMICAL",
+      "start_char": 57,
+      "end_char": 65,
+      "sentence_idx": 19,
+      "concept_id": "C0037107",
+      "concept_name": "silicon",
+      "kb_source": "rxnorm",
+      "link_score": 0.8461437821388245,
+      "timestamp": null
+    },
+    {
+      "text": "silicone",
+      "label": "CHEMICAL",
+      "start_char": 202,
+      "end_char": 210,
+      "sentence_idx": 22,
+      "concept_id": "C0037107",
+      "concept_name": "silicon",
+      "kb_source": "rxnorm",
+      "link_score": 0.8461437821388245,
+      "timestamp": null
+    },
+    {
+      "text": "TCA",
+      "label": "CHEMICAL",
+      "start_char": 51,
+      "end_char": 54,
+      "sentence_idx": 26,
+      "concept_id": "UNKNOWN",
+      "concept_name": "TCA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "TCA",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 31,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "TCA",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

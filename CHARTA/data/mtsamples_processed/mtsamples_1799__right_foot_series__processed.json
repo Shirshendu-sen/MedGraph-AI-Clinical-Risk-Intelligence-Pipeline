@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1799__right_foot_series_.txt",
+    "file_name": "mtsamples_1799__right_foot_series_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 857,
+    "processed_at": "2026-05-09T09:53:50.634888"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1799__right_foot_series_.txt",
+    "text": "EXAM: , Right foot series.,REASON FOR EXAM:  ,Injury.,FINDINGS: , Three images of the right foot were obtained.  On the AP image only, there is a subtle lucency seen in the proximal right fourth metatarsal and a mild increased sclerosis in the proximal fifth metatarsal.  Also on a single image, there is a lucency seen in the lateral aspect of the calcaneus that is seen on the oblique image only.  Fractures in these bones cannot be completely excluded.  There is soft tissue swelling seen overlying the calcaneus within this region.,IMPRESSION: , Cannot exclude nondisplaced fractures in the lateral aspect of the calcaneus or at the base of the fourth and fifth metatarsals.  Recommend correlation with site of pain in addition to conservative management and followup imaging.  A phone call will be placed to the emergency room regarding these findings.",
+    "char_count": 857,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "EXAM: , Right foot series.,REASON FOR EXAM: ,Injury.,FINDINGS: , Three images of the right foot were obtained. On the AP image only, there is a subtle lucency seen in the proximal right fourth metatarsal and a mild increased sclerosis in the proximal fifth metatarsal. Also on a single image, there is a lucency seen in the lateral aspect of the calcaneus that is seen on the oblique image only. Fractures in these bones cannot be completely excluded. There is soft tissue swelling seen overlying the calcaneus within this region.,IMPRESSION: , Cannot exclude nondisplaced fractures in the lateral aspect of the calcaneus or at the base of the fourth and fifth metatarsals. Recommend correlation with site of pain in addition to conservative management and followup imaging. A phone call will be placed to the emergency room regarding these findings.",
+    "sentences": [
+      "EXAM: , Right foot series.,REASON FOR EXAM: ,Injury.,FINDINGS: , Three images of the right foot were obtained.",
+      "On the AP image only, there is a subtle lucency seen in the proximal right fourth metatarsal and a mild increased sclerosis in the proximal fifth metatarsal.",
+      "Also on a single image, there is a lucency seen in the lateral aspect of the calcaneus that is seen on the oblique image only.",
+      "Fractures in these bones cannot be completely excluded.",
+      "There is soft tissue swelling seen overlying the calcaneus within this region.,IMPRESSION: , Cannot exclude nondisplaced fractures in the lateral aspect of the calcaneus or at the base of the fourth and fifth metatarsals.",
+      "Recommend correlation with site of pain in addition to conservative management and followup imaging.",
+      "A phone call will be placed to the emergency room regarding these findings."
+    ],
+    "sentence_count": 7,
+    "original_length": 857,
+    "cleaned_length": 850,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "EXAM: , Right foot series.,REASON FOR EXAM:  ,Injury.,FINDINGS: , Three images of the right foot were obtained.  On the AP image only, there is a subtle lucency seen in the proximal right fourth metatarsal and a mild increased sclerosis in the proximal fifth metatarsal.  Also on a single image, there is a lucency seen in the lateral aspect of the calcaneus that is seen on the oblique image only.  Fractures in these bones cannot be completely excluded.  There is soft tissue swelling seen overlying the calcaneus within this region.,IMPRESSION: , Cannot exclude nondisplaced fractures in the lateral aspect of the calcaneus or at the base of the fourth and fifth metatarsals.  Recommend correlation with site of pain in addition to conservative management and followup imaging.  A phone call will be placed to the emergency room regarding these findings.",
+    "cleaned_text": "EXAM: , Right foot series.,REASON FOR EXAM: ,Injury.,FINDINGS: , Three images of the right foot were obtained. On the AP image only, there is a subtle lucency seen in the proximal right fourth metatarsal and a mild increased sclerosis in the proximal fifth metatarsal. Also on a single image, there is a lucency seen in the lateral aspect of the calcaneus that is seen on the oblique image only. Fractures in these bones cannot be completely excluded. There is soft tissue swelling seen overlying the calcaneus within this region.,IMPRESSION: , Cannot exclude nondisplaced fractures in the lateral aspect of the calcaneus or at the base of the fourth and fifth metatarsals. Recommend correlation with site of pain in addition to conservative management and followup imaging. A phone call will be placed to the emergency room regarding these findings.",
+    "sentences": [
+      "EXAM: , Right foot series.,REASON FOR EXAM: ,Injury.,FINDINGS: , Three images of the right foot were obtained.",
+      "On the AP image only, there is a subtle lucency seen in the proximal right fourth metatarsal and a mild increased sclerosis in the proximal fifth metatarsal.",
+      "Also on a single image, there is a lucency seen in the lateral aspect of the calcaneus that is seen on the oblique image only.",
+      "Fractures in these bones cannot be completely excluded.",
+      "There is soft tissue swelling seen overlying the calcaneus within this region.,IMPRESSION: , Cannot exclude nondisplaced fractures in the lateral aspect of the calcaneus or at the base of the fourth and fifth metatarsals.",
+      "Recommend correlation with site of pain in addition to conservative management and followup imaging.",
+      "A phone call will be placed to the emergency room regarding these findings."
+    ],
+    "sentence_count": 7
+  }
+}

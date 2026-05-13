@@ -1,0 +1,23 @@
+{
+  "patient_id": "mtsamples_4764__fiberoptic_flexible_bronchoscopy_",
+  "num_entities": 10,
+  "num_visits": 1,
+  "num_edges": 68,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0935966": 1,
+    "C0009170": 2,
+    "C0023660": 3,
+    "C0030054": 4,
+    "C0591130": 5,
+    "C0001927": 6,
+    "C0014563": 7,
+    "C0032952": 8,
+    "C0004057": 9
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_4764__fiberoptic_flexible_bronchoscopy__graph.pt",
+  "source_dataset": "mtsamples_4764__fiberoptic_flexible_bronchoscopy"
+}

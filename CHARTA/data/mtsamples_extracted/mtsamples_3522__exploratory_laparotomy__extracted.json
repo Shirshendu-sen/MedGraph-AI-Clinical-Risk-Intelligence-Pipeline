@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3522__exploratory_laparotomy_.txt",
+    "file_name": "mtsamples_3522__exploratory_laparotomy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2553,
+    "processed_at": "2026-05-09T09:54:23.185483"
+  },
+  "entities": [
+    {
+      "text": "intra-abdominal",
+      "label": "DISEASE",
+      "start_char": 199,
+      "end_char": 214,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "intra-abdominal",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "adhesions",
+      "label": "DISEASE",
+      "start_char": 23,
+      "end_char": 32,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "adhesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "abscess",
+      "label": "DISEASE",
+      "start_char": 52,
+      "end_char": 59,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "abscess",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "necrotic",
+      "label": "DISEASE",
+      "start_char": 45,
+      "end_char": 53,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "necrotic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

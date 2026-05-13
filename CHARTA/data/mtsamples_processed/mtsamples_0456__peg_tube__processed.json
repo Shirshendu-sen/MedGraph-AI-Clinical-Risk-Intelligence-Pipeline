@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0456__peg_tube_.txt",
+    "file_name": "mtsamples_0456__peg_tube_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1801,
+    "processed_at": "2026-05-09T09:53:16.616856"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0456__peg_tube_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS:,  Protein-calorie malnutrition.,POSTOPERATIVE DIAGNOSIS: , Protein-calorie malnutrition.,PROCEDURE PERFORMED:, Percutaneous endoscopic gastrostomy (PEG) tube.,ANESTHESIA: , Conscious sedation per Anesthesia.,SPECIMEN: , None.,COMPLICATIONS: , None.,HISTORY:  ,The patient is a 73-year-old male who was admitted to the hospital with some mentation changes.  He was unable to sustain enough caloric intake and had markedly decreased albumin stores.  After discussion with the patient and the son, they agreed to place a PEG tube for nutritional supplementation.,PROCEDURE: , After informed consent was obtained, the patient was brought to the endoscopy suite.  He was placed in the supine position and was given IV sedation by the Anesthesia Department.  An EGD was performed from above by Dr. X.  The stomach was transilluminated and an optimal position for the PEG tube was identified using the single poke method.  The skin was infiltrated with local and the needle and sheath were inserted through the abdomen into the stomach under direct visualization.  The needle was removed and a guidewire was inserted through the sheath.  The guidewire was grasped from above with a snare by the endoscopist.  It was removed completely and the Ponsky PEG tube was secured to the guidewire.,The guidewire and PEG tube were then pulled through the mouth and esophagus and snug to the abdominal wall.  There was no evidence of bleeding.  Photos were taken.  The Bolster was placed on the PEG site.  A complete dictation for the EGD will be done separately by Dr. X.  The patient tolerated the procedure well and was transferred to recovery room in stable condition.  He will be started on tube feedings in 6 hours with aspiration precautions and dietary to determine his nutritional goal.",
+    "char_count": 1801,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS:, Protein-calorie malnutrition.,POSTOPERATIVE DIAGNOSIS: , Protein-calorie malnutrition.,PROCEDURE PERFORMED:, Percutaneous endoscopic gastrostomy (PEG) tube.,ANESTHESIA: , Conscious sedation per Anesthesia.,SPECIMEN: , None.,COMPLICATIONS: , None.,HISTORY: ,The patient is a 73-year-old male who was admitted to the hospital with some mentation changes. He was unable to sustain enough caloric intake and had markedly decreased albumin stores. After discussion with the patient and the son, they agreed to place a PEG tube for nutritional supplementation.,PROCEDURE: , After informed consent was obtained, the patient was brought to the endoscopy suite. He was placed in the supine position and was given IV sedation by the Anesthesia Department. An EGD was performed from above by Dr. X. The stomach was transilluminated and an optimal position for the PEG tube was identified using the single poke method. The skin was infiltrated with local and the needle and sheath were inserted through the abdomen into the stomach under direct visualization. The needle was removed and a guidewire was inserted through the sheath. The guidewire was grasped from above with a snare by the endoscopist. It was removed completely and the Ponsky PEG tube was secured to the guidewire.,The guidewire and PEG tube were then pulled through the mouth and esophagus and snug to the abdominal wall. There was no evidence of bleeding. Photos were taken. The Bolster was placed on the PEG site. A complete dictation for the EGD will be done separately by Dr. X. The patient tolerated the procedure well and was transferred to recovery room in stable condition. He will be started on tube feedings in 6 hours with aspiration precautions and dietary to determine his nutritional goal.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS:, Protein-calorie malnutrition.,POSTOPERATIVE DIAGNOSIS: , Protein-calorie malnutrition.,PROCEDURE PERFORMED:, Percutaneous endoscopic gastrostomy (PEG) tube.,ANESTHESIA: , Conscious sedation per Anesthesia.,SPECIMEN: , None.,COMPLICATIONS: , None.,HISTORY: ,The patient is a 73-year-old male who was admitted to the hospital with some mentation changes.",
+      "He was unable to sustain enough caloric intake and had markedly decreased albumin stores.",
+      "After discussion with the patient and the son, they agreed to place a PEG tube for nutritional supplementation.,PROCEDURE: , After informed consent was obtained, the patient was brought to the endoscopy suite.",
+      "He was placed in the supine position and was given IV sedation by the Anesthesia Department.",
+      "An EGD was performed from above by Dr.",
+      "X.",
+      "The stomach was transilluminated and an optimal position for the PEG tube was identified using the single poke method.",
+      "The skin was infiltrated with local and the needle and sheath were inserted through the abdomen into the stomach under direct visualization.",
+      "The needle was removed and a guidewire was inserted through the sheath.",
+      "The guidewire was grasped from above with a snare by the endoscopist.",
+      "It was removed completely and the Ponsky PEG tube was secured to the guidewire.,The guidewire and PEG tube were then pulled through the mouth and esophagus and snug to the abdominal wall.",
+      "There was no evidence of bleeding.",
+      "Photos were taken.",
+      "The Bolster was placed on the PEG site.",
+      "A complete dictation for the EGD will be done separately by Dr.",
+      "X.",
+      "The patient tolerated the procedure well and was transferred to recovery room in stable condition.",
+      "He will be started on tube feedings in 6 hours with aspiration precautions and dietary to determine his nutritional goal."
+    ],
+    "sentence_count": 18,
+    "original_length": 1801,
+    "cleaned_length": 1784,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS:,  Protein-calorie malnutrition.,POSTOPERATIVE DIAGNOSIS: , Protein-calorie malnutrition.,PROCEDURE PERFORMED:, Percutaneous endoscopic gastrostomy (PEG) tube.,ANESTHESIA: , Conscious sedation per Anesthesia.,SPECIMEN: , None.,COMPLICATIONS: , None.,HISTORY:  ,The patient is a 73-year-old male who was admitted to the hospital with some mentation changes.  He was unable to sustain enough caloric intake and had markedly decreased albumin stores.  After discussion with the patient and the son, they agreed to place a PEG tube for nutritional supplementation.,PROCEDURE: , After informed consent was obtained, the patient was brought to the endoscopy suite.  He was placed in the supine position and was given IV sedation by the Anesthesia Department.  An EGD was performed from above by Dr. X.  The stomach was transilluminated and an optimal position for the PEG tube was identified using the single poke method.  The skin was infiltrated with local and the needle and sheath were inserted through the abdomen into the stomach under direct visualization.  The needle was removed and a guidewire was inserted through the sheath.  The guidewire was grasped from above with a snare by the endoscopist.  It was removed completely and the Ponsky PEG tube was secured to the guidewire.,The guidewire and PEG tube were then pulled through the mouth and esophagus and snug to the abdominal wall.  There was no evidence of bleeding.  Photos were taken.  The Bolster was placed on the PEG site.  A complete dictation for the EGD will be done separately by Dr. X.  The patient tolerated the procedure well and was transferred to recovery room in stable condition.  He will be started on tube feedings in 6 hours with aspiration precautions and dietary to determine his nutritional goal.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS:, Protein-calorie malnutrition.,POSTOPERATIVE DIAGNOSIS: , Protein-calorie malnutrition.,PROCEDURE PERFORMED:, Percutaneous endoscopic gastrostomy (PEG) tube.,ANESTHESIA: , Conscious sedation per Anesthesia.,SPECIMEN: , None.,COMPLICATIONS: , None.,HISTORY: ,The patient is a 73-year-old male who was admitted to the hospital with some mentation changes. He was unable to sustain enough caloric intake and had markedly decreased albumin stores. After discussion with the patient and the son, they agreed to place a PEG tube for nutritional supplementation.,PROCEDURE: , After informed consent was obtained, the patient was brought to the endoscopy suite. He was placed in the supine position and was given IV sedation by the Anesthesia Department. An EGD was performed from above by Dr. X. The stomach was transilluminated and an optimal position for the PEG tube was identified using the single poke method. The skin was infiltrated with local and the needle and sheath were inserted through the abdomen into the stomach under direct visualization. The needle was removed and a guidewire was inserted through the sheath. The guidewire was grasped from above with a snare by the endoscopist. It was removed completely and the Ponsky PEG tube was secured to the guidewire.,The guidewire and PEG tube were then pulled through the mouth and esophagus and snug to the abdominal wall. There was no evidence of bleeding. Photos were taken. The Bolster was placed on the PEG site. A complete dictation for the EGD will be done separately by Dr. X. The patient tolerated the procedure well and was transferred to recovery room in stable condition. He will be started on tube feedings in 6 hours with aspiration precautions and dietary to determine his nutritional goal.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS:, Protein-calorie malnutrition.,POSTOPERATIVE DIAGNOSIS: , Protein-calorie malnutrition.,PROCEDURE PERFORMED:, Percutaneous endoscopic gastrostomy (PEG) tube.,ANESTHESIA: , Conscious sedation per Anesthesia.,SPECIMEN: , None.,COMPLICATIONS: , None.,HISTORY: ,The patient is a 73-year-old male who was admitted to the hospital with some mentation changes.",
+      "He was unable to sustain enough caloric intake and had markedly decreased albumin stores.",
+      "After discussion with the patient and the son, they agreed to place a PEG tube for nutritional supplementation.,PROCEDURE: , After informed consent was obtained, the patient was brought to the endoscopy suite.",
+      "He was placed in the supine position and was given IV sedation by the Anesthesia Department.",
+      "An EGD was performed from above by Dr.",
+      "X.",
+      "The stomach was transilluminated and an optimal position for the PEG tube was identified using the single poke method.",
+      "The skin was infiltrated with local and the needle and sheath were inserted through the abdomen into the stomach under direct visualization.",
+      "The needle was removed and a guidewire was inserted through the sheath.",
+      "The guidewire was grasped from above with a snare by the endoscopist.",
+      "It was removed completely and the Ponsky PEG tube was secured to the guidewire.,The guidewire and PEG tube were then pulled through the mouth and esophagus and snug to the abdominal wall.",
+      "There was no evidence of bleeding.",
+      "Photos were taken.",
+      "The Bolster was placed on the PEG site.",
+      "A complete dictation for the EGD will be done separately by Dr.",
+      "X.",
+      "The patient tolerated the procedure well and was transferred to recovery room in stable condition.",
+      "He will be started on tube feedings in 6 hours with aspiration precautions and dietary to determine his nutritional goal."
+    ],
+    "sentence_count": 18
+  }
+}

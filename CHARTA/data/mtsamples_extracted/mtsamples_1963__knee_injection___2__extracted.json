@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1963__knee_injection___2_.txt",
+    "file_name": "mtsamples_1963__knee_injection___2_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1506,
+    "processed_at": "2026-05-09T09:53:53.846325"
+  },
+  "entities": [
+    {
+      "text": "arthritis",
+      "label": "DISEASE",
+      "start_char": 68,
+      "end_char": 77,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arthritis",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 101,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "arthralgias",
+      "label": "DISEASE",
+      "start_char": 151,
+      "end_char": 162,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "arthralgias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 46,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Naprosyn",
+      "label": "CHEMICAL",
+      "start_char": 20,
+      "end_char": 28,
+      "sentence_idx": 3,
+      "concept_id": "C0700017",
+      "concept_name": "Naprosyn",
+      "kb_source": "rxnorm",
+      "link_score": 0.9734110236167908,
+      "timestamp": null
+    },
+    {
+      "text": "Aristospan",
+      "label": "CHEMICAL",
+      "start_char": 325,
+      "end_char": 335,
+      "sentence_idx": 6,
+      "concept_id": "C0701378",
+      "concept_name": "Aristospan",
+      "kb_source": "rxnorm",
+      "link_score": 0.9931851029396057,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 12,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 11,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "swelling",
+      "label": "DISEASE",
+      "start_char": 33,
+      "end_char": 41,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "swelling",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

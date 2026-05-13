@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0210__vacuum_d_c_.txt",
+    "file_name": "mtsamples_0210__vacuum_d_c_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1645,
+    "processed_at": "2026-05-09T09:53:09.271949"
+  },
+  "extraction": {
+    "file_name": "mtsamples_0210__vacuum_d_c_.txt",
+    "text": "PREOPERATIVE DIAGNOSIS: , Blighted ovum, severe cramping.,POSTOPERATIVE DIAGNOSIS:,  Blighted ovum, severe cramping.,OPERATION PERFORMED: , Vacuum D&C.,DRAINS: , None.,ANESTHESIA: , General.,HISTORY: , This 21-year-old white female gravida 1, para 0 who was having severe cramping and was noted to have a blighted ovum with her first ultrasound in the office.  Due to the severe cramping, a decision to undergo vacuum D&C was made.  At the time of the procedure, moderate amount of tissue was obtained.,PROCEDURE:  ,The patient was taken to the operating room and placed in a supine position, at which time a general form of anesthesia was administered by the anesthesia department.  The patient was then repositioned in a modified dorsal lithotomy position and then prepped and draped in the usual fashion.  A weighted vaginal speculum was placed in the posterior vaginal vault.  Anterior lip of the cervix was grasped with single tooth tenaculum, and the cervix was dilated to approximately 8 mm straight.  Plastic curette was placed into the uterine cavity and suction was applied at 60 mmHg to remove the tissue.  This was followed by gentle curetting of the lining as well as followed by suction curetting and then another gentle curetting and a final suction.  Methargen 0.2 mg was given IM and Pitocin 40 units and a 1000 was also started at the time of the procedure.  Once the procedure was completed, the single tooth tenaculum was removed from the vaginal vault with some _____ remaining blood and the weighted speculum was also removed.  The patient was repositioned to supine position and taken to recovery room in stable condition.",
+    "char_count": 1645,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Blighted ovum, severe cramping.,POSTOPERATIVE DIAGNOSIS:, Blighted ovum, severe cramping.,OPERATION PERFORMED: , Vacuum D&C.,DRAINS: , None.,ANESTHESIA: , General.,HISTORY: , This 21-year-old white female gravida 1, para 0 who was having severe cramping and was noted to have a blighted ovum with her first ultrasound in the office. Due to the severe cramping, a decision to undergo vacuum D&C was made. At the time of the procedure, moderate amount of tissue was obtained.,PROCEDURE: ,The patient was taken to the operating room and placed in a supine position, at which time a general form of anesthesia was administered by the anesthesia department. The patient was then repositioned in a modified dorsal lithotomy position and then prepped and draped in the usual fashion. A weighted vaginal speculum was placed in the posterior vaginal vault. Anterior lip of the cervix was grasped with single tooth tenaculum, and the cervix was dilated to approximately 8 mm straight. Plastic curette was placed into the uterine cavity and suction was applied at 60 mmHg to remove the tissue. This was followed by gentle curetting of the lining as well as followed by suction curetting and then another gentle curetting and a final suction. Methargen 0.2 mg was given IM and Pitocin 40 units and a 1000 was also started at the time of the procedure. Once the procedure was completed, the single tooth tenaculum was removed from the vaginal vault with some _____ remaining blood and the weighted speculum was also removed. The patient was repositioned to supine position and taken to recovery room in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Blighted ovum, severe cramping.,POSTOPERATIVE DIAGNOSIS:, Blighted ovum, severe cramping.,OPERATION PERFORMED: , Vacuum D&C.,DRAINS: , None.,ANESTHESIA: , General.,HISTORY: , This 21-year-old white female gravida 1, para 0 who was having severe cramping and was noted to have a blighted ovum with her first ultrasound in the office.",
+      "Due to the severe cramping, a decision to undergo vacuum D&C was made.",
+      "At the time of the procedure, moderate amount of tissue was obtained.,PROCEDURE: ,The patient was taken to the operating room and placed in a supine position, at which time a general form of anesthesia was administered by the anesthesia department.",
+      "The patient was then repositioned in a modified dorsal lithotomy position and then prepped and draped in the usual fashion.",
+      "A weighted vaginal speculum was placed in the posterior vaginal vault.",
+      "Anterior lip of the cervix was grasped with single tooth tenaculum, and the cervix was dilated to approximately 8 mm straight.",
+      "Plastic curette was placed into the uterine cavity and suction was applied at 60 mmHg to remove the tissue.",
+      "This was followed by gentle curetting of the lining as well as followed by suction curetting and then another gentle curetting and a final suction.",
+      "Methargen 0.2 mg was given IM and Pitocin 40 units and a 1000 was also started at the time of the procedure.",
+      "Once the procedure was completed, the single tooth tenaculum was removed from the vaginal vault with some _____ remaining blood and the weighted speculum was also removed.",
+      "The patient was repositioned to supine position and taken to recovery room in stable condition."
+    ],
+    "sentence_count": 11,
+    "original_length": 1645,
+    "cleaned_length": 1633,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSIS: , Blighted ovum, severe cramping.,POSTOPERATIVE DIAGNOSIS:,  Blighted ovum, severe cramping.,OPERATION PERFORMED: , Vacuum D&C.,DRAINS: , None.,ANESTHESIA: , General.,HISTORY: , This 21-year-old white female gravida 1, para 0 who was having severe cramping and was noted to have a blighted ovum with her first ultrasound in the office.  Due to the severe cramping, a decision to undergo vacuum D&C was made.  At the time of the procedure, moderate amount of tissue was obtained.,PROCEDURE:  ,The patient was taken to the operating room and placed in a supine position, at which time a general form of anesthesia was administered by the anesthesia department.  The patient was then repositioned in a modified dorsal lithotomy position and then prepped and draped in the usual fashion.  A weighted vaginal speculum was placed in the posterior vaginal vault.  Anterior lip of the cervix was grasped with single tooth tenaculum, and the cervix was dilated to approximately 8 mm straight.  Plastic curette was placed into the uterine cavity and suction was applied at 60 mmHg to remove the tissue.  This was followed by gentle curetting of the lining as well as followed by suction curetting and then another gentle curetting and a final suction.  Methargen 0.2 mg was given IM and Pitocin 40 units and a 1000 was also started at the time of the procedure.  Once the procedure was completed, the single tooth tenaculum was removed from the vaginal vault with some _____ remaining blood and the weighted speculum was also removed.  The patient was repositioned to supine position and taken to recovery room in stable condition.",
+    "cleaned_text": "PREOPERATIVE DIAGNOSIS: , Blighted ovum, severe cramping.,POSTOPERATIVE DIAGNOSIS:, Blighted ovum, severe cramping.,OPERATION PERFORMED: , Vacuum D&C.,DRAINS: , None.,ANESTHESIA: , General.,HISTORY: , This 21-year-old white female gravida 1, para 0 who was having severe cramping and was noted to have a blighted ovum with her first ultrasound in the office. Due to the severe cramping, a decision to undergo vacuum D&C was made. At the time of the procedure, moderate amount of tissue was obtained.,PROCEDURE: ,The patient was taken to the operating room and placed in a supine position, at which time a general form of anesthesia was administered by the anesthesia department. The patient was then repositioned in a modified dorsal lithotomy position and then prepped and draped in the usual fashion. A weighted vaginal speculum was placed in the posterior vaginal vault. Anterior lip of the cervix was grasped with single tooth tenaculum, and the cervix was dilated to approximately 8 mm straight. Plastic curette was placed into the uterine cavity and suction was applied at 60 mmHg to remove the tissue. This was followed by gentle curetting of the lining as well as followed by suction curetting and then another gentle curetting and a final suction. Methargen 0.2 mg was given IM and Pitocin 40 units and a 1000 was also started at the time of the procedure. Once the procedure was completed, the single tooth tenaculum was removed from the vaginal vault with some _____ remaining blood and the weighted speculum was also removed. The patient was repositioned to supine position and taken to recovery room in stable condition.",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSIS: , Blighted ovum, severe cramping.,POSTOPERATIVE DIAGNOSIS:, Blighted ovum, severe cramping.,OPERATION PERFORMED: , Vacuum D&C.,DRAINS: , None.,ANESTHESIA: , General.,HISTORY: , This 21-year-old white female gravida 1, para 0 who was having severe cramping and was noted to have a blighted ovum with her first ultrasound in the office.",
+      "Due to the severe cramping, a decision to undergo vacuum D&C was made.",
+      "At the time of the procedure, moderate amount of tissue was obtained.,PROCEDURE: ,The patient was taken to the operating room and placed in a supine position, at which time a general form of anesthesia was administered by the anesthesia department.",
+      "The patient was then repositioned in a modified dorsal lithotomy position and then prepped and draped in the usual fashion.",
+      "A weighted vaginal speculum was placed in the posterior vaginal vault.",
+      "Anterior lip of the cervix was grasped with single tooth tenaculum, and the cervix was dilated to approximately 8 mm straight.",
+      "Plastic curette was placed into the uterine cavity and suction was applied at 60 mmHg to remove the tissue.",
+      "This was followed by gentle curetting of the lining as well as followed by suction curetting and then another gentle curetting and a final suction.",
+      "Methargen 0.2 mg was given IM and Pitocin 40 units and a 1000 was also started at the time of the procedure.",
+      "Once the procedure was completed, the single tooth tenaculum was removed from the vaginal vault with some _____ remaining blood and the weighted speculum was also removed.",
+      "The patient was repositioned to supine position and taken to recovery room in stable condition."
+    ],
+    "sentence_count": 11
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "patient_id": "mtsamples_1948__radiofrequency_thermocoagulation___3_",
+  "num_entities": 4,
+  "num_visits": 1,
+  "num_edges": 14,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030054": 1,
+    "C0030346": 2,
+    "C0600901": 3
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1948__radiofrequency_thermocoagulation___3__graph.pt",
+  "source_dataset": "mtsamples_1948__radiofrequency_thermocoagulation___3"
+}

@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1243__anterior_cervical_discectomy___3_.txt",
+    "file_name": "mtsamples_1243__anterior_cervical_discectomy___3_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 5840,
+    "processed_at": "2026-05-09T09:53:37.596466"
+  },
+  "entities": [
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 81,
+      "end_char": 94,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 196,
+      "end_char": 209,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "titanium",
+      "label": "CHEMICAL",
+      "start_char": 56,
+      "end_char": 64,
+      "sentence_idx": 1,
+      "concept_id": "C0040302",
+      "concept_name": "titanium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9754260182380676,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 180,
+      "end_char": 184,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 210,
+      "end_char": 223,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pain",
+      "label": "DISEASE",
+      "start_char": 251,
+      "end_char": 255,
+      "sentence_idx": 2,
+      "concept_id": "C0030346",
+      "concept_name": "Papain",
+      "kb_source": "mesh",
+      "link_score": 0.7236586213111877,
+      "timestamp": null
+    },
+    {
+      "text": "numbness",
+      "label": "DISEASE",
+      "start_char": 257,
+      "end_char": 265,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "numbness",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "radiculopathy",
+      "label": "DISEASE",
+      "start_char": 396,
+      "end_char": 409,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "radiculopathy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Trimline",
+      "label": "CHEMICAL",
+      "start_char": 156,
+      "end_char": 164,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Trimline",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar coagulation",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 47,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar coagulation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "titanium",
+      "label": "CHEMICAL",
+      "start_char": 157,
+      "end_char": 165,
+      "sentence_idx": 23,
+      "concept_id": "C0040302",
+      "concept_name": "titanium",
+      "kb_source": "rxnorm",
+      "link_score": 0.9754260182380676,
+      "timestamp": null
+    },
+    {
+      "text": "bipolar coagulation",
+      "label": "DISEASE",
+      "start_char": 28,
+      "end_char": 47,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bipolar coagulation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

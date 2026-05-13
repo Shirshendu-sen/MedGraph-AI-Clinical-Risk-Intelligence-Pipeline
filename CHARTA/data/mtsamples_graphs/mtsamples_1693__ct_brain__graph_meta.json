@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_1693__ct_brain_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 44,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0029983": 1,
+    "C0027324": 2,
+    "C0035608": 3,
+    "C3854019": 4,
+    "C0024730": 5
+  },
+  "visit_dates": [
+    "1995-06-30"
+  ],
+  "graph_file": "mtsamples_1693__ct_brain__graph.pt",
+  "source_dataset": "mtsamples_1693__ct_brain"
+}

@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2943__avm_with_hemorrhage_.txt",
+    "file_name": "mtsamples_2943__avm_with_hemorrhage_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 2292,
+    "processed_at": "2026-05-09T09:54:11.080173"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "complaint of episodic vertigo",
+      "label": "DISEASE",
+      "start_char": 70,
+      "end_char": 99,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "complaint of episodic vertigo",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "migraine",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 72,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "migraine",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 83,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "vertigo",
+      "label": "DISEASE",
+      "start_char": 37,
+      "end_char": 44,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vertigo",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "vertigo",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 11,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vertigo",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "vertigo",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 11,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vertigo",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "vertigo",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 141,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vertigo",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "ache",
+      "label": "DISEASE",
+      "start_char": 153,
+      "end_char": 157,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "ache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "vertigo",
+      "label": "DISEASE",
+      "start_char": 203,
+      "end_char": 210,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vertigo",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "tinnitus",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tinnitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "vertigo",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 108,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "vertigo",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "tinnitus",
+      "label": "DISEASE",
+      "start_char": 110,
+      "end_char": 118,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tinnitus",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "headaches",
+      "label": "DISEASE",
+      "start_char": 136,
+      "end_char": 145,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headaches",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "AVM",
+      "label": "DISEASE",
+      "start_char": 50,
+      "end_char": 53,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AVM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "AVM",
+      "label": "DISEASE",
+      "start_char": 4,
+      "end_char": 7,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AVM",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "MCA",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 42,
+      "sentence_idx": 9,
+      "concept_id": "C0600203",
+      "concept_name": "DCA",
+      "kb_source": "rxnorm",
+      "link_score": 0.7071068286895752,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "Meniere's disease.,On 10/14/74",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 104,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Meniere's disease.,On 10/14/74",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "SAH",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 145,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SAH",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "LUE",
+      "label": "DISEASE",
+      "start_char": 233,
+      "end_char": 236,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LUE",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "LLE",
+      "label": "CHEMICAL",
+      "start_char": 239,
+      "end_char": 242,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "headache",
+      "label": "DISEASE",
+      "start_char": 245,
+      "end_char": 253,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "headache",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "transient visual",
+      "label": "DISEASE",
+      "start_char": 259,
+      "end_char": 275,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "transient visual",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-03-15"
+    },
+    {
+      "text": "dysesthesia",
+      "label": "DISEASE",
+      "start_char": 53,
+      "end_char": 64,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysesthesia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "left parietal hemorrhage",
+      "label": "DISEASE",
+      "start_char": 30,
+      "end_char": 54,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left parietal hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    },
+    {
+      "text": "interventricular hemorrhage",
+      "label": "DISEASE",
+      "start_char": 82,
+      "end_char": 109,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "interventricular hemorrhage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1971-09-14"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "9/14/71",
+      "start_char": 58,
+      "end_char": 65
+    },
+    {
+      "raw_text": "3/15/71",
+      "start_char": 466,
+      "end_char": 473
+    },
+    {
+      "raw_text": "9/14/71",
+      "start_char": 1026,
+      "end_char": 1033
+    },
+    {
+      "raw_text": "10/14/74",
+      "start_char": 1408,
+      "end_char": 1416
+    },
+    {
+      "raw_text": "11/23/91",
+      "start_char": 1494,
+      "end_char": 1502
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4960__evaluation_of_allergies_.txt",
+    "file_name": "mtsamples_4960__evaluation_of_allergies_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1112,
+    "processed_at": "2026-05-09T09:54:48.211843"
+  },
+  "entities": [
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 114,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "xerostomia",
+      "label": "DISEASE",
+      "start_char": 134,
+      "end_char": 144,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "xerostomia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gastroesophageal reflux disease",
+      "label": "DISEASE",
+      "start_char": 146,
+      "end_char": 177,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gastroesophageal reflux disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergies",
+      "label": "DISEASE",
+      "start_char": 193,
+      "end_char": 202,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "chronic GI irritability",
+      "label": "DISEASE",
+      "start_char": 204,
+      "end_char": 227,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chronic GI irritability",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "asthma",
+      "label": "DISEASE",
+      "start_char": 229,
+      "end_char": 235,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "asthma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "inhalant allergies",
+      "label": "DISEASE",
+      "start_char": 255,
+      "end_char": 273,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "inhalant allergies",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "peptic ulcer disease",
+      "label": "DISEASE",
+      "start_char": 11,
+      "end_char": 31,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peptic ulcer disease",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "gastritis",
+      "label": "DISEASE",
+      "start_char": 44,
+      "end_char": 53,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "gastritis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergy",
+      "label": "DISEASE",
+      "start_char": 46,
+      "end_char": 53,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergy",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 90,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergy",
+      "label": "DISEASE",
+      "start_char": 25,
+      "end_char": 32,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergy",
+      "label": "DISEASE",
+      "start_char": 38,
+      "end_char": 45,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergy",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

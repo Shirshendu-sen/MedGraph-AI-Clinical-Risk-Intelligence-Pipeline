@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2996__cystourethroscopy___retrograde_pyelogram_.txt",
+    "file_name": "mtsamples_2996__cystourethroscopy___retrograde_pyelogram_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 112,
+    "processed_at": "2026-05-09T09:54:12.240130"
+  },
+  "extraction": {
+    "file_name": "mtsamples_2996__cystourethroscopy___retrograde_pyelogram_.txt",
+    "text": "PREOPERATIVE DIAGNOSES:,1.  Recurrent bladder tumor.,2.  History of bladder carcinoma.,POSTOPERATIVE DIAGNOSIS:,",
+    "char_count": 112,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "PREOPERATIVE DIAGNOSES:,1. Recurrent bladder tumor.,2. History of bladder carcinoma.,POSTOPERATIVE DIAGNOSIS:,",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES:,1.",
+      "Recurrent bladder tumor.,2.",
+      "History of bladder carcinoma.,POSTOPERATIVE DIAGNOSIS:,"
+    ],
+    "sentence_count": 3,
+    "original_length": 112,
+    "cleaned_length": 110,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "PREOPERATIVE DIAGNOSES:,1.  Recurrent bladder tumor.,2.  History of bladder carcinoma.,POSTOPERATIVE DIAGNOSIS:,",
+    "cleaned_text": "PREOPERATIVE DIAGNOSES:,1. Recurrent bladder tumor.,2. History of bladder carcinoma.,POSTOPERATIVE DIAGNOSIS:,",
+    "sentences": [
+      "PREOPERATIVE DIAGNOSES:,1.",
+      "Recurrent bladder tumor.,2.",
+      "History of bladder carcinoma.,POSTOPERATIVE DIAGNOSIS:,"
+    ],
+    "sentence_count": 3
+  }
+}

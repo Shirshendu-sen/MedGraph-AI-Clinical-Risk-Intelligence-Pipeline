@@ -1,0 +1,24 @@
+{
+  "patient_id": "mtsamples_2886__cva___discharge_summary_",
+  "num_entities": 11,
+  "num_visits": 1,
+  "num_edges": 72,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0633084": 1,
+    "C0004057": 2,
+    "C0678143": 3,
+    "C0876218": 4,
+    "C0037473": 5,
+    "C0032821": 6,
+    "C0017725": 7,
+    "C0010294": 8,
+    "C0006675": 9,
+    "C0001927": 10
+  },
+  "visit_dates": [
+    "2003-12-05"
+  ],
+  "graph_file": "mtsamples_2886__cva___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_2886__cva___discharge_summary"
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1468__ultrasound_scrotum_.txt",
+    "file_name": "mtsamples_1468__ultrasound_scrotum_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 741,
+    "processed_at": "2026-05-09T09:53:42.683766"
+  },
+  "entities": [
+    {
+      "text": "torsion",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 36,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "torsion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4915__bronchoalveolar_lavage__.txt",
+    "file_name": "mtsamples_4915__bronchoalveolar_lavage__.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1369,
+    "processed_at": "2026-05-09T09:54:47.460582"
+  },
+  "entities": [
+    {
+      "text": "trauma",
+      "label": "DISEASE",
+      "start_char": 152,
+      "end_char": 158,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-04"
+    },
+    {
+      "text": "splenic laceration",
+      "label": "DISEASE",
+      "start_char": 160,
+      "end_char": 178,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "splenic laceration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-04"
+    },
+    {
+      "text": "Trauma",
+      "label": "DISEASE",
+      "start_char": 255,
+      "end_char": 261,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Trauma",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-04"
+    },
+    {
+      "text": "fever",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 69,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "fever",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-04"
+    },
+    {
+      "text": "bacterial infection",
+      "label": "DISEASE",
+      "start_char": 49,
+      "end_char": 68,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bacterial infection",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-04"
+    },
+    {
+      "text": "FIO2",
+      "label": "CHEMICAL",
+      "start_char": 179,
+      "end_char": 183,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "FIO2",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-08-04"
+    },
+    {
+      "text": "desaturation",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 76,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "desaturation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-04"
+    },
+    {
+      "text": "apnea",
+      "label": "DISEASE",
+      "start_char": 78,
+      "end_char": 83,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "apnea",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-04"
+    },
+    {
+      "text": "cardiac arrhythmia",
+      "label": "DISEASE",
+      "start_char": 88,
+      "end_char": 106,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "cardiac arrhythmia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-08-04"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "August 4, 2008",
+      "start_char": 300,
+      "end_char": 314
+    }
+  ]
+}

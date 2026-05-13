@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_3098__prostate_brachytherapy_.txt",
+    "file_name": "mtsamples_3098__prostate_brachytherapy_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1068,
+    "processed_at": "2026-05-09T09:54:14.891460"
+  },
+  "entities": [
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 89,
+      "end_char": 97,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "edema",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 77,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "edema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 100,
+      "end_char": 105,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "tumor",
+      "label": "DISEASE",
+      "start_char": 217,
+      "end_char": 222,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "tumor",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "prostate",
+      "label": "DISEASE",
+      "start_char": 227,
+      "end_char": 235,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "prostate",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "overdosage",
+      "label": "DISEASE",
+      "start_char": 69,
+      "end_char": 79,
+      "sentence_idx": 8,
+      "concept_id": "UNKNOWN",
+      "concept_name": "overdosage",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

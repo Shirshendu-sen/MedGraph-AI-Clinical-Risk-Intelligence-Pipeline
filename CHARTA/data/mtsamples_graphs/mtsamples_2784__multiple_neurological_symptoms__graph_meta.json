@@ -1,0 +1,34 @@
+{
+  "patient_id": "mtsamples_2784__multiple_neurological_symptoms_",
+  "num_entities": 21,
+  "num_visits": 1,
+  "num_edges": 246,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0875954": 1,
+    "C0487782": 2,
+    "C0004057": 3,
+    "C0719509": 4,
+    "C0593928": 5,
+    "C0016410": 6,
+    "C0662903": 7,
+    "C0302583": 8,
+    "C1170371": 9,
+    "C0633084": 10,
+    "C0876139": 11,
+    "C2723006": 12,
+    "C0719198": 13,
+    "C0699279": 14,
+    "C0001963": 15,
+    "C0030346": 16,
+    "C0025270": 17,
+    "C0087162": 18,
+    "C0042845": 19,
+    "C0024467": 20
+  },
+  "visit_dates": [
+    "2008-09-30"
+  ],
+  "graph_file": "mtsamples_2784__multiple_neurological_symptoms__graph.pt",
+  "source_dataset": "mtsamples_2784__multiple_neurological_symptoms"
+}

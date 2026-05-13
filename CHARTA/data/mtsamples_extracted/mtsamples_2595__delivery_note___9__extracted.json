@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_2595__delivery_note___9_.txt",
+    "file_name": "mtsamples_2595__delivery_note___9_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1796,
+    "processed_at": "2026-05-09T09:54:05.007928"
+  },
+  "entities": [
+    {
+      "text": "EDC",
+      "label": "CHEMICAL",
+      "start_char": 33,
+      "end_char": 36,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "EDC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "SROM",
+      "label": "CHEMICAL",
+      "start_char": 61,
+      "end_char": 65,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "SROM",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 162,
+      "end_char": 169,
+      "sentence_idx": 2,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "meconium",
+      "label": "CHEMICAL",
+      "start_char": 112,
+      "end_char": 120,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "meconium",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 7,
+      "sentence_idx": 10,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 178,
+      "end_char": 186,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "lidocaine",
+      "label": "CHEMICAL",
+      "start_char": 55,
+      "end_char": 64,
+      "sentence_idx": 14,
+      "concept_id": "C0023660",
+      "concept_name": "lidocaine",
+      "kb_source": "rxnorm",
+      "link_score": 0.9715500473976135,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "bleeding",
+      "label": "DISEASE",
+      "start_char": 48,
+      "end_char": 56,
+      "sentence_idx": 15,
+      "concept_id": "UNKNOWN",
+      "concept_name": "bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "atony",
+      "label": "DISEASE",
+      "start_char": 72,
+      "end_char": 77,
+      "sentence_idx": 16,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atony",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "Pitocin",
+      "label": "CHEMICAL",
+      "start_char": 121,
+      "end_char": 128,
+      "sentence_idx": 16,
+      "concept_id": "C0733348",
+      "concept_name": "Pitocin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9640439748764038,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "Bleeding",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 8,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Bleeding",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "2008-12-23"
+    },
+    {
+      "text": "Cytotec 400",
+      "label": "CHEMICAL",
+      "start_char": 39,
+      "end_char": 50,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Cytotec 400",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "2008-12-23"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "12/23/08",
+      "start_char": 37,
+      "end_char": 45
+    }
+  ]
+}

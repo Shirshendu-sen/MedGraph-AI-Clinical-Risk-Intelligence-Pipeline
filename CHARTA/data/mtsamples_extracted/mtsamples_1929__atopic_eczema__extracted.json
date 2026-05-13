@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1929__atopic_eczema_.txt",
+    "file_name": "mtsamples_1929__atopic_eczema_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1160,
+    "processed_at": "2026-05-09T09:53:53.277318"
+  },
+  "entities": [
+    {
+      "text": "atopic eczema",
+      "label": "DISEASE",
+      "start_char": 155,
+      "end_char": 168,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atopic eczema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "eczema",
+      "label": "DISEASE",
+      "start_char": 79,
+      "end_char": 85,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "eczema",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "atopic",
+      "label": "DISEASE",
+      "start_char": 101,
+      "end_char": 107,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atopic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "psoriasis",
+      "label": "DISEASE",
+      "start_char": 3,
+      "end_char": 12,
+      "sentence_idx": 6,
+      "concept_id": "UNKNOWN",
+      "concept_name": "psoriasis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "eczematous",
+      "label": "DISEASE",
+      "start_char": 92,
+      "end_char": 102,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "eczematous",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Atopic",
+      "label": "DISEASE",
+      "start_char": 167,
+      "end_char": 173,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Atopic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Discontinue",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 10,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Discontinue",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Discontinue",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 11,
+      "sentence_idx": 11,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Discontinue",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Polysporin ointment",
+      "label": "CHEMICAL",
+      "start_char": 28,
+      "end_char": 47,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Polysporin ointment",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Aquaphor b.i.d",
+      "label": "CHEMICAL",
+      "start_char": 49,
+      "end_char": 63,
+      "sentence_idx": 12,
+      "concept_id": "C0718635",
+      "concept_name": "Aquaphor",
+      "kb_source": "rxnorm",
+      "link_score": 0.9681521654129028,
+      "timestamp": null
+    },
+    {
+      "text": "itch",
+      "label": "DISEASE",
+      "start_char": 76,
+      "end_char": 80,
+      "sentence_idx": 12,
+      "concept_id": "UNKNOWN",
+      "concept_name": "itch",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

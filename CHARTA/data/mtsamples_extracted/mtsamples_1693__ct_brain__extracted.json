@@ -1,0 +1,477 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1693__ct_brain_.txt",
+    "file_name": "mtsamples_1693__ct_brain_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 3128,
+    "processed_at": "2026-05-09T09:53:48.493603"
+  },
+  "entities": [
+    {
+      "text": "CC",
+      "label": "CHEMICAL",
+      "start_char": 0,
+      "end_char": 2,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "CC",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "chills",
+      "label": "DISEASE",
+      "start_char": 121,
+      "end_char": 127,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "chills",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "diaphoresis",
+      "label": "DISEASE",
+      "start_char": 129,
+      "end_char": 140,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "diaphoresis",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "anorexia",
+      "label": "DISEASE",
+      "start_char": 142,
+      "end_char": 150,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "anorexia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "myalgias",
+      "label": "DISEASE",
+      "start_char": 171,
+      "end_char": 179,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myalgias",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "drug abuse",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 39,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "drug abuse",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "oxacillin",
+      "label": "CHEMICAL",
+      "start_char": 66,
+      "end_char": 75,
+      "sentence_idx": 2,
+      "concept_id": "C0029983",
+      "concept_name": "oxacillin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9773722887039185,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "mitral valve with regurgitation",
+      "label": "DISEASE",
+      "start_char": 94,
+      "end_char": 125,
+      "sentence_idx": 4,
+      "concept_id": "UNKNOWN",
+      "concept_name": "mitral valve with regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "dysarthria",
+      "label": "DISEASE",
+      "start_char": 59,
+      "end_char": 69,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysarthria",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "aphasia",
+      "label": "DISEASE",
+      "start_char": 74,
+      "end_char": 81,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "aphasia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "AV block",
+      "label": "DISEASE",
+      "start_char": 36,
+      "end_char": 44,
+      "sentence_idx": 7,
+      "concept_id": "UNKNOWN",
+      "concept_name": "AV block",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "Nafcillin",
+      "label": "CHEMICAL",
+      "start_char": 82,
+      "end_char": 91,
+      "sentence_idx": 7,
+      "concept_id": "C0027324",
+      "concept_name": "nafcillin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9331976771354675,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "Rifampin",
+      "label": "CHEMICAL",
+      "start_char": 106,
+      "end_char": 114,
+      "sentence_idx": 7,
+      "concept_id": "C0035608",
+      "concept_name": "rifAMPin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9667024612426758,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "Gentamicin",
+      "label": "CHEMICAL",
+      "start_char": 129,
+      "end_char": 139,
+      "sentence_idx": 7,
+      "concept_id": "C3854019",
+      "concept_name": "gentamicin",
+      "kb_source": "rxnorm",
+      "link_score": 0.9848167896270752,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "hemianopia",
+      "label": "DISEASE",
+      "start_char": 6,
+      "end_char": 16,
+      "sentence_idx": 13,
+      "concept_id": "UNKNOWN",
+      "concept_name": "hemianopia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "Optic",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 5,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Optic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "retinal hemorrhages",
+      "label": "DISEASE",
+      "start_char": 24,
+      "end_char": 43,
+      "sentence_idx": 14,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retinal hemorrhages",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "left flaccid",
+      "label": "DISEASE",
+      "start_char": 41,
+      "end_char": 53,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "left flaccid",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "PP",
+      "label": "CHEMICAL",
+      "start_char": 94,
+      "end_char": 96,
+      "sentence_idx": 18,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PP",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "Babinski",
+      "label": "DISEASE",
+      "start_char": 29,
+      "end_char": 37,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Babinski",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "Janeway lesions",
+      "label": "DISEASE",
+      "start_char": 0,
+      "end_char": 15,
+      "sentence_idx": 20,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Janeway lesions",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "RMCA stroke",
+      "label": "DISEASE",
+      "start_char": 64,
+      "end_char": 75,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "RMCA stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "Mannitol",
+      "label": "CHEMICAL",
+      "start_char": 81,
+      "end_char": 89,
+      "sentence_idx": 22,
+      "concept_id": "C0024730",
+      "concept_name": "mannitol",
+      "kb_source": "rxnorm",
+      "link_score": 0.9753459095954895,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "pneumonia",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 56,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pneumonia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "pericardial effusion",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 78,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pericardial effusion",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "dysphagia",
+      "label": "DISEASE",
+      "start_char": 83,
+      "end_char": 92,
+      "sentence_idx": 27,
+      "concept_id": "UNKNOWN",
+      "concept_name": "dysphagia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "PEG",
+      "label": "CHEMICAL",
+      "start_char": 22,
+      "end_char": 25,
+      "sentence_idx": 28,
+      "concept_id": "UNKNOWN",
+      "concept_name": "PEG",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "RMCA stroke",
+      "label": "DISEASE",
+      "start_char": 105,
+      "end_char": 116,
+      "sentence_idx": 29,
+      "concept_id": "UNKNOWN",
+      "concept_name": "RMCA stroke",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "LLE",
+      "label": "CHEMICAL",
+      "start_char": 13,
+      "end_char": 16,
+      "sentence_idx": 31,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "seizure",
+      "label": "DISEASE",
+      "start_char": 9,
+      "end_char": 16,
+      "sentence_idx": 33,
+      "concept_id": "UNKNOWN",
+      "concept_name": "seizure",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "Jacksonian",
+      "label": "DISEASE",
+      "start_char": 16,
+      "end_char": 26,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Jacksonian",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "LLE",
+      "label": "CHEMICAL",
+      "start_char": 74,
+      "end_char": 77,
+      "sentence_idx": 34,
+      "concept_id": "UNKNOWN",
+      "concept_name": "LLE",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "urinary incontinence",
+      "label": "DISEASE",
+      "start_char": 12,
+      "end_char": 32,
+      "sentence_idx": 36,
+      "concept_id": "UNKNOWN",
+      "concept_name": "urinary incontinence",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    },
+    {
+      "text": "DPH",
+      "label": "CHEMICAL",
+      "start_char": 17,
+      "end_char": 20,
+      "sentence_idx": 37,
+      "concept_id": "UNKNOWN",
+      "concept_name": "DPH",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": "1995-06-30"
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": [
+    {
+      "raw_text": "6/30/95",
+      "start_char": 82,
+      "end_char": 89
+    },
+    {
+      "raw_text": "7/3/95",
+      "start_char": 460,
+      "end_char": 466
+    },
+    {
+      "raw_text": "7/3/95",
+      "start_char": 676,
+      "end_char": 682
+    },
+    {
+      "raw_text": "7/4/95",
+      "start_char": 743,
+      "end_char": 749
+    },
+    {
+      "raw_text": "7/6/95",
+      "start_char": 1990,
+      "end_char": 1996
+    },
+    {
+      "raw_text": "7/11/95",
+      "start_char": 2311,
+      "end_char": 2318
+    },
+    {
+      "raw_text": "7/27/95",
+      "start_char": 2490,
+      "end_char": 2497
+    },
+    {
+      "raw_text": "8/6/95",
+      "start_char": 2499,
+      "end_char": 2505
+    },
+    {
+      "raw_text": "10/18/96",
+      "start_char": 2510,
+      "end_char": 2518
+    },
+    {
+      "raw_text": "10/18/96",
+      "start_char": 2608,
+      "end_char": 2616
+    },
+    {
+      "raw_text": "10/18/96",
+      "start_char": 2845,
+      "end_char": 2853
+    }
+  ]
+}

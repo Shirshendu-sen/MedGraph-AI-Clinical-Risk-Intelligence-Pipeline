@@ -1,0 +1,15 @@
+{
+  "patient_id": "mtsamples_1558__mri_head_",
+  "num_entities": 2,
+  "num_visits": 1,
+  "num_edges": 9,
+  "entity_index": {
+    "C0016911": 0,
+    "UNKNOWN": 1
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_1558__mri_head__graph.pt",
+  "source_dataset": "mtsamples_1558__mri_head"
+}

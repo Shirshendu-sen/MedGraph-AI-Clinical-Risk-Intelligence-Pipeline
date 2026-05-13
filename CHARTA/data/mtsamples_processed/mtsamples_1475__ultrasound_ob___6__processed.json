@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_1475__ultrasound_ob___6_.txt",
+    "file_name": "mtsamples_1475__ultrasound_ob___6_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 166,
+    "processed_at": "2026-05-09T09:53:42.844632"
+  },
+  "extraction": {
+    "file_name": "mtsamples_1475__ultrasound_ob___6_.txt",
+    "text": "GENERAL EVALUATION:,Fetal Cardiac Activity: Normal at 140 BPM,Fetal Position: Variable,Placenta: Posterior without evidence of placenta previa.,Uterus: Normal,Cervix:",
+    "char_count": 166,
+    "encoding_used": "utf-8",
+    "error": null
+  },
+  "cleaning": {
+    "cleaned_text": "GENERAL EVALUATION:,Fetal Cardiac Activity: Normal at 140 BPM,Fetal Position: Variable,Placenta: Posterior without evidence of placenta previa.,Uterus: Normal,Cervix:",
+    "sentences": [
+      "GENERAL EVALUATION:,Fetal Cardiac Activity: Normal at 140 BPM,Fetal Position: Variable,Placenta: Posterior without evidence of placenta previa.,Uterus: Normal,Cervix:"
+    ],
+    "sentence_count": 1,
+    "original_length": 166,
+    "cleaned_length": 166,
+    "placeholder_count": 0
+  },
+  "content": {
+    "raw_text": "GENERAL EVALUATION:,Fetal Cardiac Activity: Normal at 140 BPM,Fetal Position: Variable,Placenta: Posterior without evidence of placenta previa.,Uterus: Normal,Cervix:",
+    "cleaned_text": "GENERAL EVALUATION:,Fetal Cardiac Activity: Normal at 140 BPM,Fetal Position: Variable,Placenta: Posterior without evidence of placenta previa.,Uterus: Normal,Cervix:",
+    "sentences": [
+      "GENERAL EVALUATION:,Fetal Cardiac Activity: Normal at 140 BPM,Fetal Position: Variable,Placenta: Posterior without evidence of placenta previa.,Uterus: Normal,Cervix:"
+    ],
+    "sentence_count": 1
+  }
+}

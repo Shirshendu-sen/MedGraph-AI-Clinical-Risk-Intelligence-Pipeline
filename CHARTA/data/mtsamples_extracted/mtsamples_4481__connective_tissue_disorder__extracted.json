@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_4481__connective_tissue_disorder_.txt",
+    "file_name": "mtsamples_4481__connective_tissue_disorder_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 1994,
+    "processed_at": "2026-05-09T09:54:39.379109"
+  },
+  "entities": [
+    {
+      "text": "connective tissue disorder",
+      "label": "DISEASE",
+      "start_char": 58,
+      "end_char": 84,
+      "sentence_idx": 0,
+      "concept_id": "UNKNOWN",
+      "concept_name": "connective tissue disorder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Seasonale",
+      "label": "CHEMICAL",
+      "start_char": 111,
+      "end_char": 120,
+      "sentence_idx": 2,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Seasonale",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "allergic",
+      "label": "DISEASE",
+      "start_char": 7,
+      "end_char": 15,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "allergic",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "140",
+      "label": "CHEMICAL",
+      "start_char": 64,
+      "end_char": 67,
+      "sentence_idx": 5,
+      "concept_id": "UNKNOWN",
+      "concept_name": "140",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "peripheral retinal degeneration",
+      "label": "DISEASE",
+      "start_char": 15,
+      "end_char": 46,
+      "sentence_idx": 19,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peripheral retinal degeneration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "retinal detachment",
+      "label": "DISEASE",
+      "start_char": 47,
+      "end_char": 65,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retinal detachment",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "peripheral retinal degeneration",
+      "label": "DISEASE",
+      "start_char": 85,
+      "end_char": 116,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "peripheral retinal degeneration",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "myopia",
+      "label": "DISEASE",
+      "start_char": 197,
+      "end_char": 203,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "myopia",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "however.,This",
+      "label": "DISEASE",
+      "start_char": 205,
+      "end_char": 218,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "however.,This",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "connective tissue disorder",
+      "label": "DISEASE",
+      "start_char": 288,
+      "end_char": 314,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "connective tissue disorder",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Stickler syndrome",
+      "label": "DISEASE",
+      "start_char": 325,
+      "end_char": 342,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Stickler syndrome",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "Stickler",
+      "label": "DISEASE",
+      "start_char": 359,
+      "end_char": 367,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "Stickler",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "retinal detachment",
+      "label": "DISEASE",
+      "start_char": 415,
+      "end_char": 433,
+      "sentence_idx": 21,
+      "concept_id": "UNKNOWN",
+      "concept_name": "retinal detachment",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

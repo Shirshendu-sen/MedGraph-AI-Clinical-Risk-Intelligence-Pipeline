@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_file": "data\\raw\\txt\\mtsamples\\mtsamples_0003__2_d_echocardiogram___1_.txt",
+    "file_name": "mtsamples_0003__2_d_echocardiogram___1_.txt",
+    "file_type": ".txt",
+    "file_size_bytes": 495,
+    "processed_at": "2026-05-09T09:53:02.769874"
+  },
+  "entities": [
+    {
+      "text": "atrial enlargement",
+      "label": "DISEASE",
+      "start_char": 5,
+      "end_char": 23,
+      "sentence_idx": 1,
+      "concept_id": "UNKNOWN",
+      "concept_name": "atrial enlargement",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "51%.,4",
+      "label": "CHEMICAL",
+      "start_char": 71,
+      "end_char": 77,
+      "sentence_idx": 3,
+      "concept_id": "UNKNOWN",
+      "concept_name": "51%.,4",
+      "kb_source": "rxnorm",
+      "link_score": 0.0,
+      "timestamp": null
+    },
+    {
+      "text": "pulmonary regurgitation",
+      "label": "DISEASE",
+      "start_char": 17,
+      "end_char": 40,
+      "sentence_idx": 9,
+      "concept_id": "UNKNOWN",
+      "concept_name": "pulmonary regurgitation",
+      "kb_source": "mesh",
+      "link_score": 0.0,
+      "timestamp": null
+    }
+  ],
+  "relations": [],
+  "temporal_expressions": []
+}

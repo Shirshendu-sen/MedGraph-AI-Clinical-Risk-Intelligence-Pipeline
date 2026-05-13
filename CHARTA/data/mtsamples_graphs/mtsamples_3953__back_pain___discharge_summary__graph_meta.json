@@ -1,0 +1,19 @@
+{
+  "patient_id": "mtsamples_3953__back_pain___discharge_summary_",
+  "num_entities": 6,
+  "num_visits": 1,
+  "num_edges": 58,
+  "entity_index": {
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0001963": 2,
+    "C0740057": 3,
+    "C0282139": 4,
+    "C0022957": 5
+  },
+  "visit_dates": [
+    "2007-08-29"
+  ],
+  "graph_file": "mtsamples_3953__back_pain___discharge_summary__graph.pt",
+  "source_dataset": "mtsamples_3953__back_pain___discharge_summary"
+}

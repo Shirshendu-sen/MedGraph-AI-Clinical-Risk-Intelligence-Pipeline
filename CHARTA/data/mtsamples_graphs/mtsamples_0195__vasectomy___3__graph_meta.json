@@ -1,0 +1,18 @@
+{
+  "patient_id": "mtsamples_0195__vasectomy___3_",
+  "num_entities": 5,
+  "num_visits": 1,
+  "num_edges": 15,
+  "entity_index": {
+    "C0023660": 0,
+    "UNKNOWN": 1,
+    "C0699142": 2,
+    "C0009214": 3,
+    "C0030346": 4
+  },
+  "visit_dates": [
+    ""
+  ],
+  "graph_file": "mtsamples_0195__vasectomy___3__graph.pt",
+  "source_dataset": "mtsamples_0195__vasectomy___3"
+}
