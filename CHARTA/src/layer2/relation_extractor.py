@@ -29,11 +29,15 @@ def load_relation_model():
         Tokenizer and model for relation classification.
     """
     from transformers import AutoTokenizer, AutoModelForSequenceClassification
+    from peft import PeftModel
 
+    # Load the base ClinicalBERT model (pre‑trained weights)
     tokenizer = AutoTokenizer.from_pretrained(CLINICALBERT_MODEL)
-    model = AutoModelForSequenceClassification.from_pretrained(
-        LORA_WEIGHTS_PATH,  # after fine-tuning
+    base_model = AutoModelForSequenceClassification.from_pretrained(
+        CLINICALBERT_MODEL, num_labels=2
     )
+    # Load the LoRA adapter on top of the base model
+    model = PeftModel.from_pretrained(base_model, LORA_WEIGHTS_PATH)
     return tokenizer, model
 
 

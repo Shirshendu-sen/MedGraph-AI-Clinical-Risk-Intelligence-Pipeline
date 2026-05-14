@@ -14,9 +14,9 @@ scispacy==0.5.4
 bioc==2.1
 
 # ── Language models & fine-tuning ───────────────────────
-transformers==4.40.0
-peft==0.10.0
-accelerate==0.29.3
+transformers>=4.41.0
+peft>=0.13.0
+accelerate>=0.29.3
 
 # ── Layer 3: Graph ───────────────────────────────────────
 torch==2.2.2
