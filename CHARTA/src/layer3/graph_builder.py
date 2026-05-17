@@ -56,9 +56,13 @@ def build_patient_graph(
         all_relations.extend(relations)
 
     # ── Build entity_index: {concept_id → integer_node_idx} ──
+    # When concept_id is "UNKNOWN" or None, fall back to entity text
+    # so each unique entity gets its own node (not collapsed into one).
     entity_index: dict[str, int] = {}
     for ent in all_entities:
-        cid = ent.get("concept_id") or ent["text"]
+        cid = ent.get("concept_id")
+        if cid in (None, "UNKNOWN", ""):
+            cid = ent["text"]
         if cid not in entity_index:
             entity_index[cid] = len(entity_index)
         ent["concept_id"] = cid

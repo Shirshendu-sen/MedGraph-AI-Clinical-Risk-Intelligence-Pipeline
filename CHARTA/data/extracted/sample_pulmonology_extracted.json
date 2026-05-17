@@ -4,7 +4,7 @@
     "file_name": "sample_pulmonology.txt",
     "file_type": ".txt",
     "file_size_bytes": 2250,
-    "processed_at": "2026-05-08T11:00:19.057645"
+    "processed_at": "2026-05-16T09:18:18.670121"
   },
   "entities": [
     {
@@ -13,11 +13,11 @@
       "start_char": 76,
       "end_char": 79,
       "sentence_idx": 0,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "DOB",
       "kb_source": "rxnorm",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "REDACTED",
@@ -25,11 +25,11 @@
       "start_char": 137,
       "end_char": 145,
       "sentence_idx": 0,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "REDACTED",
       "kb_source": "rxnorm",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "cough",
@@ -37,11 +37,11 @@
       "start_char": 173,
       "end_char": 178,
       "sentence_idx": 0,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "cough",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "shortness of breath",
@@ -49,11 +49,11 @@
       "start_char": 193,
       "end_char": 212,
       "sentence_idx": 0,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "shortness of breath",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "chronic obstructive pulmonary disease",
@@ -61,11 +61,11 @@
       "start_char": 123,
       "end_char": 160,
       "sentence_idx": 1,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "chronic obstructive pulmonary disease",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "shortness of breath",
@@ -73,11 +73,11 @@
       "start_char": 191,
       "end_char": 210,
       "sentence_idx": 1,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "shortness of breath",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "cough",
@@ -85,11 +85,11 @@
       "start_char": 228,
       "end_char": 233,
       "sentence_idx": 1,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "cough",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "albuterol inhaler",
@@ -101,7 +101,7 @@
       "concept_name": "albuterol",
       "kb_source": "rxnorm",
       "link_score": 0.7348892092704773,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "hemoptysis",
@@ -109,11 +109,11 @@
       "start_char": 10,
       "end_char": 20,
       "sentence_idx": 4,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "hemoptysis",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "fever",
@@ -121,11 +121,11 @@
       "start_char": 22,
       "end_char": 27,
       "sentence_idx": 4,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "fever",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "chest pain",
@@ -133,11 +133,11 @@
       "start_char": 32,
       "end_char": 42,
       "sentence_idx": 4,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "chest pain",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "congestive heart failure",
@@ -145,11 +145,11 @@
       "start_char": 31,
       "end_char": 55,
       "sentence_idx": 5,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "congestive heart failure",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "chronic obstructive pulmonary disease",
@@ -157,11 +157,11 @@
       "start_char": 25,
       "end_char": 62,
       "sentence_idx": 6,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "chronic obstructive pulmonary disease",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "congestive heart failure",
@@ -169,11 +169,11 @@
       "start_char": 83,
       "end_char": 107,
       "sentence_idx": 6,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "congestive heart failure",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "hypertension",
@@ -181,11 +181,11 @@
       "start_char": 128,
       "end_char": 140,
       "sentence_idx": 6,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "hypertension",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "diabetes mellitus",
@@ -193,11 +193,11 @@
       "start_char": 144,
       "end_char": 161,
       "sentence_idx": 6,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "diabetes mellitus",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "Tiotropium",
@@ -209,7 +209,7 @@
       "concept_name": "tiotropium bromide",
       "kb_source": "rxnorm",
       "link_score": 0.7583460211753845,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "Albuterol HFA",
@@ -221,7 +221,7 @@
       "concept_name": "albuterol",
       "kb_source": "rxnorm",
       "link_score": 0.8485769629478455,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "Furosemide",
@@ -233,7 +233,7 @@
       "concept_name": "furosemide",
       "kb_source": "rxnorm",
       "link_score": 0.9686384201049805,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "Lisinopril",
@@ -245,7 +245,7 @@
       "concept_name": "lisinopril",
       "kb_source": "rxnorm",
       "link_score": 0.9948257803916931,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "Metformin",
@@ -257,7 +257,7 @@
       "concept_name": "metformin",
       "kb_source": "rxnorm",
       "link_score": 0.9634568095207214,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "fever",
@@ -265,11 +265,11 @@
       "start_char": 77,
       "end_char": 82,
       "sentence_idx": 12,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "fever",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "chills",
@@ -277,11 +277,11 @@
       "start_char": 84,
       "end_char": 90,
       "sentence_idx": 12,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "chills",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "weight loss",
@@ -289,11 +289,11 @@
       "start_char": 92,
       "end_char": 103,
       "sentence_idx": 12,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "weight loss",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "cough",
@@ -301,11 +301,11 @@
       "start_char": 26,
       "end_char": 31,
       "sentence_idx": 13,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "cough",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "shortness of breath",
@@ -313,11 +313,11 @@
       "start_char": 33,
       "end_char": 52,
       "sentence_idx": 13,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "shortness of breath",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "hemoptysis",
@@ -325,11 +325,11 @@
       "start_char": 13,
       "end_char": 23,
       "sentence_idx": 14,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "hemoptysis",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "chest pain",
@@ -337,11 +337,11 @@
       "start_char": 29,
       "end_char": 39,
       "sentence_idx": 15,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "chest pain",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "palpitations",
@@ -349,11 +349,11 @@
       "start_char": 41,
       "end_char": 53,
       "sentence_idx": 15,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "palpitations",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "orthopnea",
@@ -361,11 +361,11 @@
       "start_char": 55,
       "end_char": 64,
       "sentence_idx": 15,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "orthopnea",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "nausea vomiting diarrhea",
@@ -373,11 +373,11 @@
       "start_char": 17,
       "end_char": 41,
       "sentence_idx": 16,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "nausea vomiting diarrhea",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "tachypneic",
@@ -385,11 +385,11 @@
       "start_char": 24,
       "end_char": 34,
       "sentence_idx": 18,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "tachypneic",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "jugular venous distension",
@@ -397,11 +397,11 @@
       "start_char": 10,
       "end_char": 35,
       "sentence_idx": 19,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "jugular venous distension",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "Decreased breath sounds bilaterally with expiratory wheezing",
@@ -409,11 +409,11 @@
       "start_char": 7,
       "end_char": 67,
       "sentence_idx": 20,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "Decreased breath sounds bilaterally with expiratory wheezing",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "murmurs",
@@ -421,11 +421,11 @@
       "start_char": 3,
       "end_char": 10,
       "sentence_idx": 23,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "murmurs",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "pedal edema",
@@ -433,11 +433,11 @@
       "start_char": 26,
       "end_char": 37,
       "sentence_idx": 24,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "pedal edema",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "chronic obstructive pulmonary disease exacerbation - likely infectious given purulent",
@@ -445,11 +445,11 @@
       "start_char": 15,
       "end_char": 100,
       "sentence_idx": 25,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "chronic obstructive pulmonary disease exacerbation - likely infectious given purulent",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "congestive heart failure",
@@ -457,11 +457,11 @@
       "start_char": 111,
       "end_char": 135,
       "sentence_idx": 25,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "congestive heart failure",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "edema",
@@ -469,11 +469,11 @@
       "start_char": 151,
       "end_char": 156,
       "sentence_idx": 25,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "edema",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "hypertension",
@@ -481,11 +481,11 @@
       "start_char": 166,
       "end_char": 178,
       "sentence_idx": 25,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "hypertension",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "diabetes mellitus",
@@ -493,11 +493,11 @@
       "start_char": 206,
       "end_char": 223,
       "sentence_idx": 25,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "diabetes mellitus",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "Prednisone",
@@ -509,7 +509,7 @@
       "concept_name": "prednisone",
       "kb_source": "rxnorm",
       "link_score": 0.9636675715446472,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "chronic obstructive pulmonary disease",
@@ -517,11 +517,11 @@
       "start_char": 35,
       "end_char": 72,
       "sentence_idx": 26,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "chronic obstructive pulmonary disease",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "Azithromycin",
@@ -533,7 +533,7 @@
       "concept_name": "azithromycin",
       "kb_source": "rxnorm",
       "link_score": 0.9715561270713806,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "albuterol",
@@ -545,7 +545,7 @@
       "concept_name": "albuterol",
       "kb_source": "rxnorm",
       "link_score": 0.9798523783683777,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "congestive heart failure",
@@ -553,11 +553,11 @@
       "start_char": 17,
       "end_char": 41,
       "sentence_idx": 29,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "congestive heart failure",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     },
     {
       "text": "pneumonia",
@@ -565,11 +565,11 @@
       "start_char": 24,
       "end_char": 33,
       "sentence_idx": 30,
-      "concept_id": null,
+      "concept_id": "UNKNOWN",
       "concept_name": "pneumonia",
       "kb_source": "mesh",
       "link_score": 0.0,
-      "timestamp": "6 months ago"
+      "timestamp": "2025-11-16"
     }
   ],
   "relations": [],

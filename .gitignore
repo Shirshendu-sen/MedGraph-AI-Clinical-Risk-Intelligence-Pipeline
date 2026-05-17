@@ -1,0 +1,34 @@
+# Model checkpoints and weights
+clinicalbert_rel_lora/
+clinicalbert_rel_lora 2/
+new_clinicalbert_rel_lora/
+
+# Zip archives
+*.zip
+
+# Python caches
+__pycache__/
+.pytest_cache/
+
+# Model binaries
+*.pt
+*.bin
+*.safetensors
+
+# Virtual environments
+venv/
+
+# Logs
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+run_process.txt
+sample_data011.txt

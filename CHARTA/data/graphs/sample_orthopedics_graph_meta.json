@@ -1,21 +1,13 @@
 {
   "patient_id": "sample_orthopedics",
-  "num_entities": 12,
+  "num_entities": 4,
   "num_visits": 1,
-  "num_edges": 33,
+  "num_edges": 21,
   "entity_index": {
-    "right knee pain": 0,
-    "swelling": 1,
-    "C0030346": 2,
-    "hypertension": 3,
-    "diabetes mellitus": 4,
-    "effusion": 5,
-    "knee medial meniscus tear": 6,
-    "tenderness": 7,
-    "knee brace": 8,
-    "Crutches": 9,
-    "C0020740": 10,
-    "C0000970": 11
+    "UNKNOWN": 0,
+    "C0030346": 1,
+    "C0020740": 2,
+    "C0000970": 3
   },
   "visit_dates": [
     ""

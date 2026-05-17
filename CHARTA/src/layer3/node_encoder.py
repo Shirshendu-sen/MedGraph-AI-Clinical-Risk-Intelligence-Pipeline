@@ -76,7 +76,9 @@ def encode_entity_nodes(
     """
     embeddings: dict[str, np.ndarray] = {}
     for entity in entities:
-        concept_id = entity.get("concept_id") or entity["text"]
+        concept_id = entity.get("concept_id")
+        if concept_id in (None, "UNKNOWN", ""):
+            concept_id = entity["text"]
         if concept_id in embeddings:
             continue
         text = entity.get("concept_name") or entity["text"]
