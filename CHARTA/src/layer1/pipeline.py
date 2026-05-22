@@ -3,10 +3,10 @@ import os
 from datetime import datetime
 from pathlib import Path
 
-from src.layer1.config import SUPPORTED_EXTENSIONS
-from src.layer1.pdf_extractor import extract_text_from_pdf
-from src.layer1.image_extractor import extract_text_from_image
-from src.layer1.text_cleaner import clean_text
+from layer1.config import SUPPORTED_EXTENSIONS
+from layer1.pdf_extractor import extract_text_from_pdf
+from layer1.image_extractor import extract_text_from_image
+from layer1.text_cleaner import clean_text
 
 
 def run_pipeline(input_folder: str, output_folder: str) -> dict:

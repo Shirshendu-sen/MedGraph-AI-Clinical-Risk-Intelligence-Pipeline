@@ -5,7 +5,7 @@ import fitz  # PyMuPDF
 from PIL import Image
 import pytesseract
 
-from src.layer1.config import (
+from layer1.config import (
     MIN_NATIVE_CHARS,
     PDF_RENDER_DPI,
     TESSERACT_CONFIG,

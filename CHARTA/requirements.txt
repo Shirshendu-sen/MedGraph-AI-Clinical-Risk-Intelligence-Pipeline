@@ -1,4 +1,4 @@
-# CHARTA v3.0 — complete dependency list
+# CHARTA — complete dependency list
 # Python 3.10 required
 
 # ── Layer 1: Document Ingestion ──────────────────────────
@@ -23,9 +23,6 @@ torch==2.2.2
 torch_geometric==2.5.2
 # NOTE: torch_scatter and torch_sparse are installed separately
 # in Step 5 using a Windows-compatible wheel URL
-
-# ── Layer 4: RAG + Inference ─────────────────────────────
-faiss-cpu==1.8.0
 
 # ── Layer 5: Explainability ──────────────────────────────
 shap==0.45.0

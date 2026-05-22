@@ -1,29 +1,28 @@
-"""Layer 4 — RAG-Augmented Risk Inference: GNN dims, FAISS paths, training hyperparameters."""
+"""Layer 4 — GNN dims, training hyperparameters."""
 
-from shared.constants import CLINICALBERT_MODEL  # do NOT re-define here
+# ── GraphSAGE architecture ──────────────────────────────────────────
+GRAPHSAGE_HIDDEN_DIM  = 256
+GRAPHSAGE_NUM_LAYERS  = 2
+GRAPHSAGE_IN_DIM      = 768       # matches ClinicalBERT [CLS] embedding dim
+GRAPHSAGE_OUT_DIM     = 256       # same as hidden — 2-layer SAGE ends at this dim
+GRAPHSAGE_DROPOUT     = 0.3
 
-# ── GraphSAGE architecture ──
-GRAPHSAGE_HIDDEN_DIM    = 256
-GRAPHSAGE_NUM_LAYERS    = 2
-GRAPHSAGE_INPUT_DIM     = 768   # matches ClinicalBERT [CLS] embedding dim
+# ── Readmission head ────────────────────────────────────────────────
+RISK_THRESHOLD        = 0.5       # readmission: >= 0.5 → HIGH
+READMISSION_HEAD_DIM  = 128       # intermediate layer in ReadmissionHead
 
-# ── FAISS index ──
-FAISS_INDEX_DIM         = 256   # must match GRAPHSAGE_HIDDEN_DIM
-FAISS_INDEX_PATH        = "data/corpus_index/faiss.index"
-FAISS_IDS_PATH          = "data/corpus_index/patient_ids.json"
-FAISS_TOP_K             = 5
+# ── Training ────────────────────────────────────────────────────────
+LEARNING_RATE         = 2e-4
+WEIGHT_DECAY          = 0.01      # AdamW weight decay (was hardcoded in trainer)
+NUM_EPOCHS            = 20
+BATCH_SIZE            = 16
+POSITIVE_CLASS_WEIGHT = 3.0       # readmission ~25% of corpus → up-weight positives
+RANDOM_SEED           = 42        # deterministic train/val/test splits
+GRAD_CLIP_MAX_NORM    = 1.0       # gradient clipping for Colab stability
 
-# ── Risk thresholds ──
-RISK_THRESHOLD          = {"readmission": 0.5, "deterioration": 0.6, "medication": 0.5}
+# ── Paths ───────────────────────────────────────────────────────────
+LABELS_CSV_PATH       = "data/corpus_labels.csv"
+DEFAULT_GRAPH_FOLDERS = ["data/mtsamples_graphs", "data/openI_graphs"]
 
-# ── Training hyperparameters ──
-LEARNING_RATE           = 2e-4
-NUM_EPOCHS              = 20
-BATCH_SIZE              = 16
-POSITIVE_CLASS_WEIGHT   = 3.0   # readmission ~25% of corpus
-
-# ── Data paths ──
-LABELS_CSV_PATH         = "data/corpus_labels.csv"
-
-# NOTE: No LoRA here — GraphSAGE (~500K params) trained fully end-to-end
-# LoRA belongs in Layer 2 (ClinicalBERT) and Layer 5 (BioGPT) only
+# NOTE: No LoRA here — GraphSAGE (~500K params) trained fully end-to-end.
+# LoRA belongs in Layer 2 (ClinicalBERT) only.

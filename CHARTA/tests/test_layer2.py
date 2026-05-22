@@ -340,7 +340,7 @@ class TestPipeline:
             assert summary["failed"] == 0
 
             # Check output file exists
-            output_file = output_dir / "test_processed.json"
+            output_file = output_dir / "test_extracted.json"
             assert output_file.exists()
 
             # Validate output structure

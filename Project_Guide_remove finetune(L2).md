@@ -1,6 +1,9 @@
- # CHARTA — AI Agent Implementation Guide
-### Clinical History-Aware RAG-augmented Temporal Architecture
-> **Version:** 3.0 | **Target:** MSc Final Year Project | **Optimised for:** AI-assisted development
+# CHARTA — AI Agent Implementation Guide
+### Clinical History-Aware Temporal Architecture
+> **Version:** 6.0 | **Target:** MSc Final Year Project | **Optimised for:** AI-assisted development
+> **Changelog v6.0:** Resolved 6 new bugs (BUG-N1 through BUG-N6) identified by code review: fixed undefined `linker` variable in `entity_linker.py`; fixed `entity_name` vs `concept_id` confusion in `feature_explainer.py`; fixed `KeyError` on `None` concept_id in `graph_builder.py`; fixed double-sigmoid training instability in `readmission_head.py` + `trainer.py`; clarified end-to-end pipeline data path; fixed missing `logs/` directory guard in `utils.py`. Fixed RISK-2 (datasets version pin corrected to 2.21.0). Fixed RISK-4 (missing steps 21–22 renumbered). Fixed `.gitignore` to preserve `adapter_config.json`. Updated Architecture Rules to reflect .pt inter-layer communication. Fixed OpenI patient UID naming for multi-visit graph grouping. Added `name_index` to `graph_meta.json` for human-readable entity names in Layer 5 reports.
+>
+> **Changelog v5.0:** Simplified Layer 1 to plain text (.txt) preprocessing only — removed PDF, OCR, and image ingestion; simplified Layer 4 to single-task readmission risk prediction — removed FAISS, RAG, and multi-head inference; simplified Layer 5 to template-based explainable report generation — removed BioGPT, LoRA fine-tuning, and SHAP complexity.
 
 > **How to use this guide:** Each step is self-contained and has a ✅ VERIFY checkpoint.
 > An AI agent should execute one step, confirm the checkpoint passes, then move to the next.
@@ -63,21 +66,6 @@ git --version
 REM If missing: https://git-scm.com/download/win
 ```
 
-**Tesseract OCR (external binary — NOT a pip package):**
-```cmd
-REM Download installer: https://github.com/UB-Mannheim/tesseract/wiki
-REM Run UB Mannheim installer → install to: C:\Program Files\Tesseract-OCR\
-REM After install, open NEW terminal and verify:
-tesseract --version
-REM Must print: tesseract 5.x.x
-REM If "not recognised": add C:\Program Files\Tesseract-OCR\ to Windows System PATH
-```
-
-> **How to add to PATH on Windows:**
-> Search "Environment Variables" → System Properties → Advanced → Environment Variables
-> → Under "System variables" find "Path" → Edit → New → paste `C:\Program Files\Tesseract-OCR\`
-> → OK → OK → OK → close and reopen terminal.
-
 **Google Colab access (for GPU training steps only):**
 - Free Google account at `colab.research.google.com`
 - No subscription needed — T4 GPU is available on the free tier
@@ -94,7 +82,7 @@ This guide assumes you can:
 - Follow numbered steps in order
 
 This guide does NOT assume:
-- Prior knowledge of GNNs, Transformers, or FAISS
+- Prior knowledge of GNNs, Transformers, or graph databases
 - Experience with clinical NLP
 - GPU programming knowledge
 
@@ -117,14 +105,11 @@ This guide does NOT assume:
 
 ### 0.5 Pre-flight Check
 
-Run this before starting Step 1. All four lines must succeed:
+Run this before starting Step 1. All three lines must succeed:
 
 ```cmd
 python --version
 REM → Python 3.10.x
-
-tesseract --version
-REM → tesseract 5.x.x
 
 git --version
 REM → git version 2.x.x
@@ -133,7 +118,7 @@ python -c "import urllib.request; urllib.request.urlopen('https://huggingface.co
 REM → Internet OK
 ```
 
-If all four pass: proceed to Step 1.
+If all three pass: proceed to Step 1.
 
 ---
 
@@ -141,19 +126,19 @@ If all four pass: proceed to Step 1.
 
 CHARTA is an end-to-end clinical AI system that:
 
-- **Ingests** raw medical documents (PDFs, scanned images, plain text)
+- **Preprocesses** plain text clinical notes (cleaning, normalisation, sentence segmentation)
 - **Extracts** clinical entities (diagnoses, drugs, lab values) using biomedical NLP
 - **Builds** a patient-level temporal knowledge graph across multiple visits
-- **Predicts** clinical risk (readmission, deterioration, medication risk) using a GNN + RAG pipeline
-- **Explains** every risk score in plain English using counterfactual generation
+- **Predicts** 30-day readmission risk using a Graph Neural Network over the patient history graph
+- **Explains** every risk score in plain English using feature importance and template-based report generation
 
-**Input:** Folder of unstructured medical documents
-**Output:** Risk score + patient summary + plain-language explanation
+**Input:** Folder of plain text (.txt) clinical notes
+**Output:** Readmission risk score + readable clinical explanation
 
 ### Architecture in one line
 
 ```
-Raw docs → [L1 Ingest] → [L2 NLP] → [L3 Graph] → [L4 Risk] → [L5 Explain] → Patient report
+Clinical text → [L1 Preprocess] → [L2 NLP] → [L3 Graph] → [L4 Risk] → [L5 Explain] → Patient report
 ```
 
 ---
@@ -175,8 +160,6 @@ CHARTA/
 │
 ├── data/
 │   ├── raw/
-│   │   ├── pdfs/
-│   │   ├── images/
 │   │   └── txt/
 │   ├── processed/                     # Layer 1 output
 │   ├── extracted/                     # Layer 2 output
@@ -193,16 +176,13 @@ CHARTA/
 │   ├── openI_graphs/
 │   ├── bc5cdr/
 │   ├── ncbi_disease/
-│   ├── corpus_index/
-│   ├── corpus_labels.csv
-│   └── synthetic_explanations.json
+│   └── corpus_labels.csv
 │
 ├── models/
 │   ├── lora_weights/
-│   │   ├── clinicalbert_rel/
-│   │   └── biogpt_explainer/
+│   │   └── clinicalbert_rel/
 │   ├── graph_model/
-│   └── risk_heads/
+│   └── readmission_head/
 │
 ├── results/
 │   └── ablation_table.csv
@@ -213,11 +193,11 @@ CHARTA/
 │   └── generate_labels.py
 │
 ├── src/
-│   ├── layer1/   (__init__.py, config.py, pdf_extractor.py, image_extractor.py, text_cleaner.py, pipeline.py)
+│   ├── layer1/   (__init__.py, config.py, text_cleaner.py, pipeline.py)
 │   ├── layer2/   (__init__.py, config.py, ner_extractor.py, entity_linker.py, relation_extractor.py, temporal_normalizer.py, pipeline.py)
 │   ├── layer3/   (__init__.py, config.py, graph_builder.py, node_encoder.py, edge_typer.py, pipeline.py)
-│   ├── layer4/   (__init__.py, config.py, clinical_dataset.py, faiss_indexer.py, rag_retriever.py, graph_model.py, risk_heads.py, trainer.py, pipeline.py)
-│   ├── layer5/   (__init__.py, config.py, shap_explainer.py, counterfactual_generator.py, report_builder.py, pipeline.py)
+│   ├── layer4/   (__init__.py, config.py, clinical_dataset.py, graph_model.py, readmission_head.py, trainer.py, pipeline.py)
+│   ├── layer5/   (__init__.py, config.py, feature_explainer.py, report_builder.py, pipeline.py)
 │   └── shared/   (__init__.py, constants.py, schema.py, utils.py)
 │
 ├── tests/
@@ -240,28 +220,18 @@ CHARTA/
 
 | Component | Library | Version | Purpose |
 |---|---|---|---|
-| PDF parsing | `pdfplumber` | 0.10.3 | Native text from PDFs |
-| PDF rendering | `PyMuPDF` | 1.24.0 | Render scanned pages → images (no Poppler needed) |
-| OCR | `pytesseract` | 0.3.10 | Python wrapper for Tesseract |
-| Image processing | `opencv-python` | 4.9.0.80 | Image preprocessing for OCR |
-| Text fixing | `ftfy` | 6.1.3 | Fix encoding issues |
-| Image formats | `Pillow` | 10.3.0 | PIL Image support for OCR pipeline |
+| Text fixing | `ftfy` | 6.1.3 | Fix encoding issues in plain text files |
 | Clinical NER | `scispacy` | 0.5.4 | Biomedical NER + EntityLinker (replaces MedCAT) |
 | Relation data | `bioc` | 2.1 | Required to load `bigbio/bc5cdr` RE config |
-| Language models | `transformers` | 4.40.0 | ClinicalBERT / BioGPT |
-| PEFT / LoRA | `peft` | 0.10.0 | Parameter-efficient fine-tuning |
-| Acceleration | `accelerate` | 0.29.3 | Required by HuggingFace PEFT |
+| Language models | `transformers` | 4.40.0 | ClinicalBERT |
 | Deep learning | `torch` | 2.2.2 | Core tensor operations |
 | Graph learning | `torch_geometric` | 2.5.2 | GraphSAGE + HeteroData |
-| Vector search | `faiss-cpu` | 1.8.0 | Patient similarity retrieval |
-| Explainability | `shap` | 0.45.0 | GNN feature attribution |
-| Datasets | `datasets` | 4.0.0 | HuggingFace data loader (v4 required for trust_remote_code) |
+| Explainability | `shap` | 0.45.0 | GNN feature attribution (lightweight) |
+| Datasets | `datasets` | 2.21.0 | HuggingFace data loader (trust_remote_code supported since v2.18+) |
 | Numerics | `numpy` | 1.26.4 | Array ops |
 | Data frames | `pandas` | 2.2.2 | CSV handling |
 | ML metrics | `scikit-learn` | 1.4.2 | AUROC, F1 |
 | Date parsing | `python-dateutil` | 2.9.0 | ISO date normalisation |
-| Text metrics | `rouge-score` | 0.1.2 | ROUGE for explanation eval |
-| Text metrics | `bert-score` | 0.3.13 | BERTScore for explanation eval |
 | XML parsing | `lxml` | 5.2.1 | Parse OpenI radiology XML |
 | HTTP | `requests` | 2.31.0 | Dataset download fallback |
 | Validation | `pydantic` | 2.7.0 | Data model validation |
@@ -273,16 +243,11 @@ CHARTA/
 Save this file as `requirements.txt` at the project root before running `pip install`:
 
 ```
-# CHARTA v3.0 — complete dependency list
+# CHARTA v5.0 — complete dependency list
 # Python 3.10 required
 
-# ── Layer 1: Document Ingestion ──────────────────────────
-pdfplumber==0.10.3
-PyMuPDF==1.24.0
-pytesseract==0.3.10
-opencv-python==4.9.0.80
+# ── Layer 1: Clinical Text Preprocessing ─────────────────
 ftfy==6.1.3
-Pillow==10.3.0
 
 # ── Layer 2: Clinical NLP ────────────────────────────────
 scispacy==0.5.4
@@ -290,8 +255,6 @@ bioc==2.1
 
 # ── Language models & fine-tuning ───────────────────────
 transformers==4.40.0
-peft==0.10.0
-accelerate==0.29.3
 
 # ── Layer 3: Graph ───────────────────────────────────────
 torch==2.2.2
@@ -299,22 +262,18 @@ torch_geometric==2.5.2
 # NOTE: torch_scatter and torch_sparse are installed separately
 # in Step 5 using a Windows-compatible wheel URL
 
-# ── Layer 4: RAG + Inference ─────────────────────────────
-faiss-cpu==1.8.0
+# ── Layer 4: GNN Inference ───────────────────────────────
+# (no additional dependencies beyond torch_geometric above)
 
 # ── Layer 5: Explainability ──────────────────────────────
 shap==0.45.0
 
 # ── Data & ML utilities ──────────────────────────────────
-datasets==4.0.0
+datasets==2.21.0
 numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.4.2
 python-dateutil==2.9.0
-
-# ── Evaluation ───────────────────────────────────────────
-rouge-score==0.1.2
-bert-score==0.3.13
 
 # ── Parsing & I/O ────────────────────────────────────────
 lxml==5.2.1
@@ -386,78 +345,39 @@ Labels are derived from document metadata using `scripts/generate_labels.py`:
 
 ---
 
-### Layer 1 — Document Ingestion
+### Layer 1 — Clinical Text Preprocessing
 
-**Goal:** Accept any medical document format → clean UTF-8 text ready for NLP. No NLP here — extraction and cleaning only.
+**Goal:** Accept plain text (.txt) clinical notes → produce clean, normalised, sentence-segmented text ready for NLP. No NLP here — cleaning and preprocessing only.
+
+#### Pipeline flow
+
+```
+TXT Clinical Notes
+    ↓
+Text Cleaning
+    ↓
+Normalisation
+    ↓
+Sentence Segmentation
+    ↓
+Processed Clinical Text JSON
+```
 
 #### Files to create
 
 | File | Role |
 |---|---|
-| `src/layer1/config.py` | Tesseract path, OCR constants |
-| `src/layer1/pdf_extractor.py` | PDF text extraction (native + OCR fallback via PyMuPDF) |
-| `src/layer1/image_extractor.py` | OCR from JPG/PNG medical scans |
+| `src/layer1/config.py` | Preprocessing constants and supported extensions |
 | `src/layer1/text_cleaner.py` | Normalise, clean, segment |
-| `src/layer1/pipeline.py` | Batch-process entire folder |
+| `src/layer1/pipeline.py` | Batch-process entire folder of .txt files |
 | `run_layer1.py` | CLI entry point |
 
 #### Function-level breakdown
 
 **`config.py`**
 ```python
-import sys
-
-# OS-aware Tesseract path — do NOT hardcode for Linux/Mac
-if sys.platform == "win32":
-    TESSERACT_CMD = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-else:
-    TESSERACT_CMD = "tesseract"  # on PATH for Linux/Mac
-
-MIN_NATIVE_CHARS = 20       # chars below this → treat page as scanned
-PDF_RENDER_DPI   = 300      # DPI for PyMuPDF page rendering
-TESSERACT_CONFIG = "--psm 3 --oem 3"
-SUPPORTED_EXTENSIONS = {
-    "pdf":   [".pdf"],
-    "image": [".jpg", ".jpeg", ".png", ".tiff", ".bmp"],
-    "text":  [".txt"],
-}
-```
-
-**`pdf_extractor.py`**
-```
-extract_text_from_pdf(pdf_path: str) -> dict
-  # Returns: {file_name, total_pages, pages: list[dict], full_text, error}
-  ├── guard: file must exist and size > 0 bytes
-  ├── with pdfplumber.open(pdf_path) as pdf:
-  │     └── for each page: _extract_single_page(page, page_num, pdf_path)
-  └── join pages with "\n\n" → full_text
-
-_extract_single_page(page, page_num: int, pdf_path: str) -> dict
-  # Returns: {page_num, method, text, char_count}
-  ├── native_text = page.extract_text() or ""
-  ├── if len(native_text) >= MIN_NATIVE_CHARS: return {method:"native", text}
-  └── else: return _ocr_pdf_page_with_fitz(pdf_path, page_num)
-
-_ocr_pdf_page_with_fitz(pdf_path: str, page_num: int) -> dict
-  # Uses PyMuPDF (fitz) — NO Poppler dependency
-  ├── doc = fitz.open(pdf_path)
-  ├── page = doc[page_num - 1]   # fitz is 0-indexed
-  ├── mat = fitz.Matrix(PDF_RENDER_DPI/72, PDF_RENDER_DPI/72)
-  ├── pix = page.get_pixmap(matrix=mat, alpha=False)
-  ├── img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
-  └── return pytesseract.image_to_string(img, config=TESSERACT_CONFIG)
-```
-
-**`image_extractor.py`**
-```
-extract_text_from_image(image_path: str) -> dict
-  # Returns: {file_name, text, char_count, preprocessing, error}
-  └── _preprocess_image(cv2.imread(image_path)) → preprocessed_img
-        ├── cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)   # grayscale
-        ├── if width < 1000: cv2.resize(scale=2.0)   # upscale
-        ├── cv2.GaussianBlur((1,1), 0)               # denoise
-        └── cv2.adaptiveThreshold(ADAPTIVE_THRESH_GAUSSIAN_C, blockSize=11, C=2)
-  └── pytesseract.image_to_string(Image.fromarray(preprocessed), config=TESSERACT_CONFIG)
+SUPPORTED_EXTENSIONS = [".txt"]
+MIN_TEXT_LENGTH      = 10      # characters; files below this are treated as empty
 ```
 
 **`text_cleaner.py`**
@@ -478,13 +398,11 @@ clean_text(raw_text: str, expand_abbreviations: bool = True) -> dict
 ```
 run_pipeline(input_folder: str, output_folder: str) -> dict
   # Returns: {processed, failed, empty, skipped, errors, output_files}
-  ├── _discover_files(input_path) → list[Path]  (rglob for all supported extensions)
+  ├── _discover_files(input_path) → list[Path]  (rglob for .txt only)
   ├── for each file_path:
   │     └── _process_single_file(file_path, output_path) → {status, output_path}
-  │           ├── guard: 0-byte → status:"empty", skip
-  │           ├── extract: pdf → extract_text_from_pdf()
-  │           │            image → extract_text_from_image()
-  │           │            text → _read_plain_text() (try utf-8, latin-1, cp1252)
+  │           ├── guard: 0-byte or < MIN_TEXT_LENGTH chars → status:"empty", skip
+  │           ├── read: try utf-8, then latin-1, then cp1252 encoding
   │           ├── clean_text(raw_text)
   │           ├── build output_doc dict (metadata + extraction + cleaning + content)
   │           └── save JSON: {stem}_processed.json
@@ -501,7 +419,7 @@ run_pipeline(input_folder: str, output_folder: str) -> dict
     "file_type": "text",
     "processed_at": "2024-01-15T14:32:07",
     "processing_time_seconds": 0.12,
-    "layer": "layer1_document_ingestion"
+    "layer": "layer1_clinical_text_preprocessing"
   },
   "extraction": {
     "method": "direct_read",
@@ -538,6 +456,7 @@ run_pipeline(input_folder: str, output_folder: str) -> dict
 | `src/layer2/relation_extractor.py` | ClinicalBERT CID relation extraction |
 | `src/layer2/temporal_normalizer.py` | Date extraction + ISO normalisation |
 | `src/layer2/pipeline.py` | Orchestrate all NLP steps |
+| `src/layer2/evaluator.py` | NER evaluation (F1) on NCBI Disease test split |
 | `run_layer2.py` | CLI entry point |
 
 #### Function-level breakdown
@@ -558,9 +477,6 @@ BC5CDR_RE_DATASET  = "bigbio/bc5cdr"
 BC5CDR_RE_CONFIG   = "bc5cdr_bigbio_kb"  # ONLY valid config; "bc5cdr_bigbio_re" does NOT exist
 NCBI_DISEASE_DATASET = "ncbi/ncbi_disease"
 RELATION_THRESHOLD = 0.6
-LORA_RANK          = 8
-LORA_ALPHA         = 16
-LORA_TARGET_MODULES = ["query", "value"]
 ```
 
 **`ner_extractor.py`** — ⚠️ Fixed: takes `doc + sentence_idx`, NOT raw text
@@ -581,7 +497,7 @@ extract_entities(doc: spacy.Doc, sentence_idx: int) -> list[dict]
             }
 ```
 
-**`entity_linker.py`** — ⚠️ Fixed: uses doc.char_span() not doc[char:char]
+**`entity_linker.py`** — ⚠️ Fixed: uses doc.char_span() not doc[char:char]; ⚠️ Fixed (BUG-N1): linker KB accessed via nlp.get_pipe(), not bare `linker` variable
 ```
 # MedCAT removed (archived Jul 28 2025, all models require NIH login)
 # Replacement: scispaCy built-in EntityLinker — zero registration, auto-downloads
@@ -595,7 +511,8 @@ add_entity_linkers(nlp: spacy.Language) -> spacy.Language
                    last=True)
   └── return nlp
 
-link_entities(doc: spacy.Doc, entities: list[dict]) -> list[dict]
+link_entities(nlp: spacy.Language, doc: spacy.Doc, entities: list[dict]) -> list[dict]
+  # ⚠️ nlp must be passed in so we can call nlp.get_pipe(linker_name) to access the KB.
   # Runs AFTER nlp(sentence) — linker already applied inside the spaCy pipeline
   └── for each entity in entities:
         # ⚠️ CORRECT: use doc.char_span() for character offsets, NOT doc[start:end]
@@ -612,7 +529,9 @@ link_entities(doc: spacy.Doc, entities: list[dict]) -> list[dict]
         └── kb_ents = span._.kb_ents  # list of (concept_id, score) tuples
         └── if kb_ents:
               concept_id, score = kb_ents[0]   # take top-1 candidate
-              concept_name = linker.kb.cui_to_entity[concept_id].canonical_name
+              # ⚠️ BUG-N1 FIX: retrieve KB via nlp.get_pipe(), not bare `linker` variable
+              linker_pipe = nlp.get_pipe(linker_name)
+              concept_name = linker_pipe.kb.cui_to_entity[concept_id].canonical_name
             else:
               concept_id, concept_name, score = None, entity["text"], 0.0
         └── entity.update({
@@ -627,15 +546,14 @@ link_entities(doc: spacy.Doc, entities: list[dict]) -> list[dict]
 **`relation_extractor.py`**
 ```
 load_relation_model() -> (tokenizer, model)
-  # Before Step 34 (fine-tuning), this returns a placeholder.
-  # After Step 34, loads from models/lora_weights/clinicalbert_rel/
+  # Returns a placeholder until LoRA weights are available.
   └── AutoTokenizer.from_pretrained(CLINICALBERT_MODEL)
   └── AutoModelForSequenceClassification.from_pretrained(
-          "models/lora_weights/clinicalbert_rel/"  # after fine-tuning
+          "models/lora_weights/clinicalbert_rel/"
       )
 
 extract_relations(sentences: list[str], entities: list[dict]) -> list[dict]
-  # Before fine-tuning: return []  ← placeholder, Layer 3 still builds graphs
+  # Returns [] as placeholder if no LoRA weights are present; Layer 3 still builds graphs
   └── for each sentence with 2+ entities in the same sentence_idx:
         └── for each entity pair (e1, e2):
               input = f"[E1] {e1['text']} [/E1] {sentence} [E2] {e2['text']} [/E2]"
@@ -682,7 +600,7 @@ run_pipeline(input_folder: str, output_folder: str) -> dict
   │     ├── for idx, sentence in enumerate(sentences):
   │     │     ├── spacy_doc = nlp(sentence)
   │     │     ├── entities  = extract_entities(spacy_doc, idx)   # pass doc + idx
-  │     │     ├── entities  = link_entities(spacy_doc, entities)  # use char_span()
+  │     │     ├── entities  = link_entities(nlp, spacy_doc, entities)  # ⚠️ pass nlp for KB access
   │     │     └── all_entities.extend(entities)
   │     ├── relations    = extract_relations(sentences, all_entities)
   │     ├── temp_exprs   = extract_temporal_expressions(" ".join(sentences))
@@ -772,10 +690,12 @@ encode_text(text: str, tokenizer, model) -> np.ndarray
   └── return outputs.last_hidden_state[0, 0, :].cpu().numpy()
 
 encode_entity_nodes(entities: list[dict], tokenizer, model) -> dict[str, np.ndarray]
-  # Key: concept_id (or entity text if None); Value: 768-dim numpy array
-  └── for each unique concept_id:
+  # Key: concept_id if not None, else entity["text"]; Value: 768-dim numpy array
+  # ⚠️ BUG-N3 FIX: always use the same key formula as entity_index in graph_builder.py
+  #   key = entity["concept_id"] if entity["concept_id"] is not None else entity["text"]
+  └── for each unique key:
         text = entity["concept_name"] or entity["text"]
-        return {concept_id: encode_text(text, tokenizer, model)}
+        return {key: encode_text(text, tokenizer, model)}
 ```
 
 **`edge_typer.py`**
@@ -803,10 +723,19 @@ build_patient_graph(
     encoder_model    # same — calling it per-patient reloads 1.3 GB repeatedly
 ) -> HeteroData
   ├── collect all entities from all docs into flat list
-  ├── build entity_index: {concept_id → integer_node_idx}
+  ├── build entity_index: {concept_id_or_text → integer_node_idx}
+  │   # ⚠️ BUG-N3 FIX: key is (concept_id if concept_id is not None else entity["text"])
+  │   # Never use concept_id directly — it may be None for unlinked entities
+  ├── build name_index: {concept_id_or_text → human_readable_name}
+  │   # Stores entity["concept_name"] (e.g. "Hypertension") for use by Layer 5
+  │   # This ensures Layer 5 can display real names, not concept IDs
   ├── build visit_index: {doc_filename → integer_visit_idx}
   ├── node_embeddings = encode_entity_nodes(all_entities, tokenizer, encoder_model)
-  ├── entity_x = torch.stack([tensor(node_embeddings[e["concept_id"]]) for e in entities])
+  ├── # ⚠️ BUG-N3 FIX: use same key logic as entity_index
+  ├── entity_x = torch.stack([
+  │       tensor(node_embeddings[e["concept_id"] if e["concept_id"] else e["text"]])
+  │       for e in entities
+  │   ])
   ├── visit_x  = mean-pool entity_x per visit group → torch.Tensor [N_visits, 768]
   ├── patient_x = entity_x.mean(dim=0).unsqueeze(0)  → [1, 768]
   ├── edge_index_occurs_in = entity→visit membership edges
@@ -821,7 +750,7 @@ build_patient_graph(
   │   graph["visit","before","visit"].edge_index     = edge_index_before
   │   graph["entity","relates_to","entity"].edge_index = edge_index_relates
   │   graph["entity","co_occurs_with","entity"].edge_index = edge_index_cooccurs
-  └── return graph
+  └── return graph, name_index   # name_index saved to graph_meta.json by pipeline.py
 
 validate_graph(graph: HeteroData) -> bool
   ├── assert graph["entity"].x.shape[0] >= MIN_ENTITIES_PER_GRAPH
@@ -866,6 +795,7 @@ HeteroData(
   "num_visits": 2,
   "num_edges": 63,
   "entity_index": { "D006973": 0, "D003920": 1 },
+  "name_index":   { "D006973": "Hypertension", "D003920": "Diabetes Mellitus" },
   "visit_dates": ["2023-09-12", "2023-10-05"],
   "graph_file": "mtsamples_0001_graph.pt",
   "source_dataset": "mtsamples"
@@ -874,20 +804,28 @@ HeteroData(
 
 ---
 
-### Layer 4 — RAG-Augmented Risk Inference
+### Layer 4 — Temporal Graph-based Readmission Risk Prediction     ck2
 
-**Goal:** (1) Build FAISS index from all patient graph embeddings. (2) At inference: retrieve top-5 similar patients, run GraphSAGE, concat RAG context, predict 3 risk scores.
+**Goal:** Read temporal patient history graphs from Layer 3 → run a Graph Neural Network → predict 30-day readmission risk as a probability and HIGH/LOW label.
+
+#### Pipeline flow
+
+```
+Temporal Patient Graph
+        ↓
+Graph Neural Network (GraphSAGE)
+        ↓
+Readmission Risk Prediction
+```
 
 #### Files to create
 
 | File | Role |
 |---|---|
-| `src/layer4/config.py` | GNN dims, FAISS paths, training hyperparameters |
+| `src/layer4/config.py` | GNN dims, training hyperparameters |
 | `src/layer4/clinical_dataset.py` | PyTorch Geometric Dataset class |
-| `src/layer4/faiss_indexer.py` | Build + query FAISS index |
-| `src/layer4/rag_retriever.py` | Retrieve similar patients + format context |
 | `src/layer4/graph_model.py` | ClinicalGraphSAGE model |
-| `src/layer4/risk_heads.py` | MultiTaskRiskModel with 3 risk heads |
+| `src/layer4/readmission_head.py` | Single readmission prediction head |
 | `src/layer4/trainer.py` | Training loop (runs on Colab T4) |
 | `src/layer4/pipeline.py` | Batch inference over all graphs |
 | `run_layer4.py` | CLI entry point |
@@ -896,20 +834,16 @@ HeteroData(
 
 **`config.py`**
 ```python
-GRAPHSAGE_HIDDEN_DIM = 256
-GRAPHSAGE_NUM_LAYERS = 2
-FAISS_INDEX_DIM      = 256
-FAISS_INDEX_PATH     = "data/corpus_index/faiss.index"
-FAISS_IDS_PATH       = "data/corpus_index/patient_ids.json"
-FAISS_TOP_K          = 5
-RISK_THRESHOLD       = {"readmission": 0.5, "deterioration": 0.6, "medication": 0.5}
-LEARNING_RATE        = 2e-4
-NUM_EPOCHS           = 20
-BATCH_SIZE           = 16
-POSITIVE_CLASS_WEIGHT = 3.0   # readmission ~25% of corpus
-LABELS_CSV_PATH      = "data/corpus_labels.csv"
+GRAPHSAGE_HIDDEN_DIM  = 256
+GRAPHSAGE_NUM_LAYERS  = 2
+RISK_THRESHOLD        = 0.5        # readmission: >= 0.5 → HIGH
+LEARNING_RATE         = 2e-4
+NUM_EPOCHS            = 20
+BATCH_SIZE            = 16
+POSITIVE_CLASS_WEIGHT = 3.0        # readmission ~25% of corpus
+LABELS_CSV_PATH       = "data/corpus_labels.csv"
 # NOTE: No LoRA here — GraphSAGE (~500K params) trained fully end-to-end
-# LoRA belongs in Layer 2 (ClinicalBERT) and Layer 5 (BioGPT) only
+# LoRA belongs in Layer 2 (ClinicalBERT) only
 ```
 
 **`clinical_dataset.py`**
@@ -917,8 +851,8 @@ LABELS_CSV_PATH      = "data/corpus_labels.csv"
 class ClinicalGraphDataset(InMemoryDataset):
   __init__(self, graphs_folder: str, labels_csv: str):
     ├── load all *_graph.pt files from graphs_folder
-    ├── load labels from labels_csv (columns: patient_id, readmission, deterioration, medication)
-    ├── for each graph: attach .y_readmission, .y_deterioration, .y_medication as tensors
+    ├── load labels from labels_csv (columns: patient_id, readmission)
+    ├── for each graph: attach .y_readmission as tensor
     └── call self.process()
 
   __len__(self) -> int
@@ -927,40 +861,6 @@ class ClinicalGraphDataset(InMemoryDataset):
 collate_fn(batch: list[HeteroData]) -> Batch
   # HeteroData CANNOT be stacked by default DataLoader — must use PyG's Batch class
   └── return torch_geometric.data.Batch.from_data_list(batch)
-```
-
-**`faiss_indexer.py`**
-```
-build_index(embeddings: np.ndarray, patient_ids: list[str]) -> None
-  └── index = faiss.IndexFlatL2(FAISS_INDEX_DIM)
-  └── index.add(embeddings.astype(np.float32))
-  └── faiss.write_index(index, FAISS_INDEX_PATH)
-  └── json.dump(patient_ids, open(FAISS_IDS_PATH, "w"))
-
-load_index() -> (faiss.Index, list[str])
-  └── faiss.read_index(FAISS_INDEX_PATH)
-  └── json.load(open(FAISS_IDS_PATH))
-
-query_index(index, query: np.ndarray, top_k=FAISS_TOP_K) -> list[dict]
-  └── D, I = index.search(query.reshape(1,-1).astype(np.float32), top_k)
-  └── return [{"patient_id": patient_ids[i], "distance": D[0][r], "rank": r+1}
-              for r, i in enumerate(I[0])]
-```
-
-**`rag_retriever.py`**
-```
-retrieve_similar_patients(embedding, index, patient_ids, top_k) -> list[dict]
-  └── results = query_index(index, embedding, top_k)
-  └── for each result: load extracted JSON, extract top-5 entities by link_score
-  └── return [{"patient_id", "top_entities": list[dict], "risk_label", "distance"}]
-
-format_rag_context(retrieved: list[dict]) -> torch.Tensor
-  # Returns shape [768] — raw mean-pooled entity embeddings
-  # The 768→256 projection happens INSIDE MultiTaskRiskModel.forward()
-  └── for each retrieved patient: mean-pool their top entity embeddings → [768]
-  └── stack K vectors → [K, 768]
-  └── mean over K → [768]
-  └── return torch.tensor(result, dtype=torch.float32)
 ```
 
 **`graph_model.py`**
@@ -983,31 +883,24 @@ get_patient_embedding(graph: HeteroData, model) -> np.ndarray
   └── return model(graph.x_dict, graph.edge_index_dict).cpu().numpy()  # shape [256]
 ```
 
-**`risk_heads.py`**
+**`readmission_head.py`**
 ```
-class RiskHead(torch.nn.Module):
-  __init__(self, input_dim=512):
-    └── Linear(512→128) → ReLU → Dropout(0.3) → Linear(128→1) → Sigmoid
+class ReadmissionHead(torch.nn.Module):
+  __init__(self, input_dim=256):
+    # ⚠️ BUG-N4 FIX: NO Sigmoid here — BCEWithLogitsLoss in trainer.py applies sigmoid
+    # internally during training. Adding Sigmoid here causes double-sigmoid, which
+    # squashes gradients and prevents convergence. Apply torch.sigmoid() only at
+    # inference time in pipeline.py AFTER the model forward pass.
+    └── Linear(256→128) → ReLU → Dropout(0.3) → Linear(128→1)   # raw logit output
 
-class MultiTaskRiskModel(torch.nn.Module):
+class ReadmissionRiskModel(torch.nn.Module):
   __init__(self, graph_model: ClinicalGraphSAGE):
     └── self.encoder          = graph_model
-    └── self.rag_projection   = Linear(768, 256)
-        # ⚠️ Fixed: input is 768 (raw entity mean embeddings), NOT 256
-        # Projects RAG context 768→256 to match GNN output dim
-    └── self.readmission_head  = RiskHead(512)  # 256 GNN + 256 RAG = 512
-    └── self.deterioration_head = RiskHead(512)
-    └── self.medication_head    = RiskHead(512)
+    └── self.readmission_head = ReadmissionHead(256)
 
-  forward(self, graph: HeteroData, rag_context: torch.Tensor) -> dict:
-    └── graph_emb = self.encoder(graph)               # [batch, 256]
-    └── rag_emb   = self.rag_projection(rag_context)  # [batch, 768] → [batch, 256]
-    └── combined  = torch.cat([graph_emb, rag_emb], dim=-1)  # [batch, 512]
-    └── return {
-          "readmission":   self.readmission_head(combined),
-          "deterioration": self.deterioration_head(combined),
-          "medication":    self.medication_head(combined)
-        }
+  forward(self, graph: HeteroData) -> torch.Tensor:
+    └── graph_emb = self.encoder(graph)              # [batch, 256]
+    └── return self.readmission_head(graph_emb)      # [batch, 1] — raw logit, NOT probability
 ```
 
 **`trainer.py`**
@@ -1017,42 +910,36 @@ train(config: dict) -> None
   ├── dataset = ClinicalGraphDataset(graphs_folder, LABELS_CSV_PATH)
   ├── train/val/test split = 80/10/10
   ├── DataLoader(train_set, batch_size=BATCH_SIZE, collate_fn=collate_fn)
-  ├── model = MultiTaskRiskModel(ClinicalGraphSAGE())
+  ├── model = ReadmissionRiskModel(ClinicalGraphSAGE())
   # ⚠️ Do NOT apply LoRA here — GraphSAGE has no "query"/"value" projection layers
-  # LoRA only applies to BERT-style attention: ClinicalBERT (L2) and BioGPT (L5)
   ├── optimizer = AdamW(model.parameters(), lr=LEARNING_RATE, weight_decay=0.01)
   ├── criterion = BCEWithLogitsLoss(pos_weight=tensor(POSITIVE_CLASS_WEIGHT))
   ├── scheduler = CosineAnnealingLR(optimizer, T_max=NUM_EPOCHS)
   ├── for epoch in range(NUM_EPOCHS):
-  │     ├── train_epoch() → compute 3-head loss, backward, step
-  │     ├── evaluate() → AUROC per head (sklearn.metrics.roc_auc_score)
+  │     ├── train_epoch() → compute readmission loss, backward, step
+  │     ├── evaluate() → AUROC (sklearn.metrics.roc_auc_score)
   │     ├── scheduler.step()
   │     └── save checkpoint if val_AUROC improved
   └── log final test metrics
 
 evaluate(model, dataloader) -> dict
   └── collect predictions + labels for all batches
-  └── {
-        "readmission_auroc":   roc_auc_score(y_true, y_pred),
-        "deterioration_auroc": roc_auc_score(...),
-        "medication_auroc":    roc_auc_score(...)
-      }
+  └── {"readmission_auroc": roc_auc_score(y_true, y_pred)}
 ```
 
 **`pipeline.py`**
 ```
 run_pipeline(input_folder: str, output_folder: str) -> dict
   # Batch inference over ALL *_graph.pt files in input_folder
-  ├── model = load MultiTaskRiskModel from models/graph_model/ + models/risk_heads/
-  ├── index, patient_ids = load_index()
+  ├── model = load ReadmissionRiskModel from models/graph_model/ + models/readmission_head/
   ├── for each *_graph.pt in input_folder:
   │     ├── graph = torch.load(graph_path, weights_only=False)
   │     │   # ⚠️ weights_only=False required: HeteroData is not a plain tensor dict
-  │     ├── emb      = get_patient_embedding(graph, model)
-  │     ├── retrieved = retrieve_similar_patients(emb, index, patient_ids)
-  │     ├── rag_ctx  = format_rag_context(retrieved)  # shape [768]
-  │     ├── preds    = model(graph, rag_ctx)
-  │     ├── apply RISK_THRESHOLD → binary flags
+  │     ├── logit = model(graph)                          # [1] raw logit
+  │     ├── # ⚠️ BUG-N4 FIX: apply sigmoid HERE (not in the model) to convert logit → probability
+  │     ├── pred  = torch.sigmoid(logit)
+  │     ├── risk_score = float(pred.squeeze())
+  │     ├── risk_level = "HIGH" if risk_score >= RISK_THRESHOLD else "LOW"
   │     └── save_json(predictions, f"{output_folder}/{patient_id}_predictions.json")
   └── return {"processed": N, "failed": M, "errors": [...]}
 ```
@@ -1063,144 +950,107 @@ run_pipeline(input_folder: str, output_folder: str) -> dict
 {
   "metadata": {
     "patient_id": "mtsamples_0001",
-    "layer": "layer4_risk_inference",
-    "predicted_at": "2024-01-15T15:00:00",
-    "corpus_source": "mtsamples+openI"
+    "layer": "layer4_readmission_risk_prediction",
+    "predicted_at": "2024-01-15T15:00:00"
   },
-  "risk_scores": {
-    "readmission_30d":     { "probability": 0.74, "binary": 1, "threshold": 0.5 },
-    "acute_deterioration": { "probability": 0.41, "binary": 0, "threshold": 0.6 },
-    "medication_risk":     { "probability": 0.62, "binary": 1, "threshold": 0.5 }
-  },
-  "retrieved_similar_patients": [
-    { "patient_id": "mtsamples_0293", "distance": 0.12, "rank": 1 },
-    { "patient_id": "openI_1872",     "distance": 0.19, "rank": 2 }
-  ],
-  "graph_embedding_dim": 256
+  "readmission_risk": 0.84,
+  "risk_level": "HIGH"
 }
 ```
 
 ---
 
-### Layer 5 — Explainable Output
+### Layer 5 — Explainable Clinical Report Generation
 
-**Goal:** SHAP feature attribution + BioGPT counterfactual explanation → patient-readable report.
+**Goal:** Read Layer 4 readmission predictions + Layer 3 patient graphs → identify the top contributing clinical entities → generate a plain-English, template-based clinical summary.
 
 #### Files to create
 
 | File | Role |
 |---|---|
-| `src/layer5/config.py` | BioGPT model ID, LoRA config, SHAP settings |
-| `src/layer5/shap_explainer.py` | SHAP DeepExplainer on risk heads |
-| `src/layer5/counterfactual_generator.py` | BioGPT + LoRA explanation generation |
-| `src/layer5/report_builder.py` | Assemble final JSON report |
-| `src/layer5/pipeline.py` | Orchestrate all XAI steps |
+| `src/layer5/config.py` | Explainability settings |
+| `src/layer5/feature_explainer.py` | Lightweight feature importance from GNN embeddings |
+| `src/layer5/report_builder.py` | Assemble final JSON report from top features |
+| `src/layer5/pipeline.py` | Orchestrate explainability and report generation |
 | `run_layer5.py` | CLI entry point |
 
 #### Function-level breakdown
 
 **`config.py`**
 ```python
-from shared.constants import BIOGPT_MODEL
-
-LORA_RANK           = 8
-LORA_ALPHA          = 16
-LORA_TARGET_MODULES = ["q_proj", "v_proj"]   # BioGPT projection names
-EXPLANATION_MAX_TOKENS  = 200
-NUM_TOP_SHAP_FEATURES   = 3
-PUBMEDQA_DATASET    = "qiaojin/PubMedQA"
-PUBMEDQA_CONFIG     = "pqa_labeled"
-PUBMEDQA_TRUST_REMOTE = True    # REQUIRED for datasets >= 4.0
-MEDMCQA_DATASET     = "openlifescienceai/medmcqa"
+NUM_TOP_FEATURES = 3    # number of top contributing entities to include in report
 ```
 
-**`shap_explainer.py`**
+**`feature_explainer.py`**
 ```
-build_shap_explainer(model: MultiTaskRiskModel, background_embeddings: torch.Tensor) -> shap.DeepExplainer
-  # background_embeddings: 50 training-corpus patient embeddings, shape [50, 512]
-  # Wraps the risk head portion only (after the 512-dim combined embedding)
-  └── risk_head_fn = lambda x: model.readmission_head(x)
-  └── shap.DeepExplainer(risk_head_fn, background_embeddings)
-
-compute_shap_values(explainer, patient_embedding: torch.Tensor, risk_type: str) -> np.ndarray
-  └── explainer.shap_values(patient_embedding)   # shape [1, 512]
-  └── select for risk_type (readmission/deterioration/medication)
-  └── return shape [512]
-
-get_top_shap_features(shap_values: np.ndarray, entity_index: dict, n=NUM_TOP_SHAP_FEATURES) -> list[dict]
-  └── map shap_values[:256] back to GNN entity embeddings via entity_index
-  └── aggregate by entity: mean abs(shap) across embedding dims
-  └── sort descending by mean_abs_shap
-  └── return top-n as [{"entity_name", "concept_id", "shap_value", "direction"}]
-      # ⚠️ field is "concept_id" NOT "cui" — consistent with Layer 2 output
-      # direction = "increases_risk" if shap_value > 0, else "decreases_risk"
-```
-
-**`counterfactual_generator.py`**
-```
-load_generator() -> (tokenizer, model)
-  └── AutoTokenizer.from_pretrained(BIOGPT_MODEL)
-  └── base = AutoModelForCausalLM.from_pretrained(BIOGPT_MODEL)
-  └── model = PeftModel.from_pretrained(base, "models/lora_weights/biogpt_explainer/")
-  └── model.eval()
-
-build_prompt(patient_id, risk_scores, top_features) -> str
-  └── f"Patient risk: readmission={risk_scores['readmission_30d']['probability']:.2f}. "
-      f"Top factors: "
-      f"1. {top_features[0]['entity_name']} (impact: {top_features[0]['shap_value']:.2f}) "
-      f"2. {top_features[1]['entity_name']} (impact: {top_features[1]['shap_value']:.2f}) "
-      f"3. {top_features[2]['entity_name']} (impact: {top_features[2]['shap_value']:.2f}). "
-      f"Generate a plain English explanation for the patient:"
-
-generate_explanation(prompt, tokenizer, model) -> str
-  └── inputs = tokenizer(prompt, return_tensors="pt")
-  └── with torch.no_grad():
-        output = model.generate(**inputs, max_new_tokens=EXPLANATION_MAX_TOKENS, do_sample=False)
-  └── full_text = tokenizer.decode(output[0], skip_special_tokens=True)
-  └── return full_text[len(prompt):]   # strip prompt prefix
+get_top_features(graph: HeteroData, entity_index: dict, name_index: dict, n: int = NUM_TOP_FEATURES) -> list[dict]
+  # Extracts the top-n entities by their embedding magnitude as a lightweight
+  # proxy for contribution — no SHAP background corpus needed
+  # ⚠️ BUG-N2 FIX: name_index must be passed in from graph_meta.json.
+  #   entity_index maps {concept_id_or_text → node_idx}.
+  #   reverse_index maps {node_idx → concept_id_or_text} — this is the concept ID, NOT the name.
+  #   name_index maps {concept_id_or_text → human_readable_name} (e.g. "D006973" → "Hypertension").
+  #   Using reverse_index for entity_name would store "D006973" in entity_name, which is wrong.
+  ├── entity_embeddings = graph["entity"].x   # shape [N_entities, 768]
+  ├── importance_scores = entity_embeddings.norm(dim=1)  # L2 norm per entity → [N]
+  ├── top_indices = argsort(importance_scores, descending=True)[:n]
+  ├── reverse_index = {v: k for k, v in entity_index.items()}  # {node_idx → concept_id_or_text}
+  └── return [
+        {
+          "entity_name":  name_index.get(reverse_index.get(idx, ""), f"entity_{idx}"),
+          "concept_id":   reverse_index.get(idx),   # concept ID string (e.g. "D006973")
+          "importance":   float(importance_scores[idx])
+        }
+        for idx in top_indices
+      ]
 ```
 
 **`report_builder.py`**
 ```
 format_risk_level(prob: float) -> str
-  └── "low" if prob < 0.3 else "moderate" if prob < 0.6 else "high"
+  └── "LOW" if prob < 0.5 else "HIGH"
 
-build_report(patient_id, risk_predictions, top_shap_features, explanation_text, similar_patients) -> dict
+build_plain_english_summary(risk_score: float, top_features: list[dict]) -> str
+  # Template-based — no LLM required
+  ├── level = format_risk_level(risk_score)
+  ├── factor_names = ", ".join(f["entity_name"] for f in top_features)
+  └── return (
+        f"{'High' if level=='HIGH' else 'Low'} readmission risk "
+        f"({'%.0f' % (risk_score*100)}%) due to {factor_names}."
+      )
+  # Example: "High readmission risk (84%) due to hypertension, diabetes, and multiple medications."
+
+build_report(patient_id: str, prediction: dict, top_features: list[dict]) -> dict
   └── return {
-        "metadata": {...},
+        "metadata": {
+          "patient_id": patient_id,
+          "layer": "layer5_explainable_clinical_report"
+        },
         "risk_summary": {
-          "readmission_30d":     {"probability": ..., "level": format_risk_level(...)},
-          "acute_deterioration": {...},
-          "medication_risk":     {...}
+          "readmission_risk": prediction["readmission_risk"],
+          "risk_level":       prediction["risk_level"]
         },
         "explanation": {
-          "plain_english": explanation_text,
-          "top_factors": top_shap_features   # uses concept_id, NOT cui
+          "plain_english": build_plain_english_summary(prediction["readmission_risk"], top_features),
+          "top_factors":   top_features   # uses concept_id, NOT cui
         },
-        "similar_patients_note": "...",
-        "disclaimer": "Research prototype — not clinical advice."
+        "disclaimer": "Research prototype — not a substitute for clinical judgment."
       }
 
-save_report(report, output_path) -> None
+save_report(report: dict, output_path: str) -> None
   └── json.dump(report, open(output_path,"w"), ensure_ascii=False, indent=2)
 ```
 
 **`pipeline.py`**
 ```
-run_pipeline(predictions_folder, graphs_folder, output_folder) -> dict
-  ├── tokenizer, generator = load_generator()
-  ├── background_embeddings = load 50 sample embeddings from training corpus
-  ├── explainer = build_shap_explainer(model, background_embeddings)
+run_pipeline(predictions_folder: str, graphs_folder: str, output_folder: str) -> dict
   ├── for each *_predictions.json in predictions_folder:
-  │     ├── predictions = load_json(prediction_file)
-  │     ├── graph = torch.load(corresponding *_graph.pt, weights_only=False)
-  │     ├── meta = load_json(corresponding *_graph_meta.json)
-  │     ├── for risk_type in ["readmission","deterioration","medication"]:
-  │     │     ├── shap_vals   = compute_shap_values(explainer, embedding, risk_type)
-  │     │     └── top_features = get_top_shap_features(shap_vals, meta["entity_index"])
-  │     ├── prompt      = build_prompt(patient_id, predictions, top_features)
-  │     ├── explanation = generate_explanation(prompt, tokenizer, generator)
-  │     ├── report      = build_report(patient_id, predictions, top_features, explanation, retrieved)
+  │     ├── prediction = load_json(prediction_file)
+  │     ├── graph      = torch.load(corresponding *_graph.pt, weights_only=False)
+  │     ├── meta       = load_json(corresponding *_graph_meta.json)
+  │     ├── # ⚠️ BUG-N2 FIX: pass both entity_index AND name_index from meta
+  │     ├── top_features = get_top_features(graph, meta["entity_index"], meta["name_index"])
+  │     ├── report     = build_report(patient_id, prediction, top_features)
   │     └── save_report(report, f"{output_folder}/{patient_id}_report.json")
   └── return summary dict
 ```
@@ -1209,18 +1059,20 @@ run_pipeline(predictions_folder, graphs_folder, output_folder) -> dict
 
 ```json
 {
-  "metadata": { "patient_id": "mtsamples_0001", "layer": "layer5_explainable_output" },
+  "metadata": {
+    "patient_id": "mtsamples_0001",
+    "layer": "layer5_explainable_clinical_report"
+  },
   "risk_summary": {
-    "readmission_30d":     { "probability": 0.74, "level": "high" },
-    "acute_deterioration": { "probability": 0.41, "level": "moderate" },
-    "medication_risk":     { "probability": 0.62, "level": "high" }
+    "readmission_risk": 0.84,
+    "risk_level": "HIGH"
   },
   "explanation": {
-    "plain_english": "Your readmission risk is elevated. Key factors are rising creatinine levels across visits, hypertension, and frequent recent admissions. If creatinine returned to normal, risk would decrease from 74% to approximately 41%.",
+    "plain_english": "High readmission risk (84%) due to hypertension, diabetes, and multiple medications.",
     "top_factors": [
-      { "entity_name": "creatinine elevation", "concept_id": "D003404", "shap_value": 0.31, "direction": "increases_risk" },
-      { "entity_name": "visit frequency",      "concept_id": null,       "shap_value": 0.22, "direction": "increases_risk" },
-      { "entity_name": "hypertension",         "concept_id": "D006973",  "shap_value": 0.19, "direction": "increases_risk" }
+      { "entity_name": "hypertension",  "concept_id": "D006973", "importance": 4.21 },
+      { "entity_name": "diabetes",      "concept_id": "D003920", "importance": 3.87 },
+      { "entity_name": "metformin",     "concept_id": "D008687", "importance": 3.54 }
     ]
   },
   "disclaimer": "Research prototype — not a substitute for clinical judgment."
@@ -1242,20 +1094,15 @@ Step P1  Confirm Python 3.10 installed:
            python --version
            ✅ VERIFY: output starts with "Python 3.10."
 
-Step P2  Confirm Tesseract OCR installed:
-           tesseract --version
-           ✅ VERIFY: output starts with "tesseract 5."
-           If not: download from https://github.com/UB-Mannheim/tesseract/wiki
-
-Step P3  Confirm Git installed:
+Step P2  Confirm Git installed:
            git --version
            ✅ VERIFY: output starts with "git version"
 
-Step P4  Confirm internet access:
+Step P3  Confirm internet access:
            python -c "import urllib.request; urllib.request.urlopen('https://huggingface.co', timeout=5); print('OK')"
            ✅ VERIFY: prints "OK"
 
-Step P5  Confirm Google Colab accessible:
+Step P4  Confirm Google Colab accessible:
            Open browser → https://colab.research.google.com → sign in with Google account
            ✅ VERIFY: can create a new notebook and run print("hello")
 ```
@@ -1270,13 +1117,13 @@ Step 1   Create root folder and navigate into it:
            cd CHARTA
 
 Step 2   Create ALL required folders in one block:
-           mkdir data\raw\pdfs data\raw\images data\raw\txt
+           mkdir data\raw\txt
            mkdir data\processed data\extracted data\graphs data\predictions data\explanations
            mkdir data\mtsamples data\mtsamples_processed data\mtsamples_extracted data\mtsamples_graphs
            mkdir data\openI data\openI_processed data\openI_extracted data\openI_graphs
-           mkdir data\bc5cdr data\ncbi_disease data\corpus_index
-           mkdir models\lora_weights\clinicalbert_rel models\lora_weights\biogpt_explainer
-           mkdir models\graph_model models\risk_heads
+           mkdir data\bc5cdr data\ncbi_disease
+           mkdir models\lora_weights\clinicalbert_rel
+           mkdir models\graph_model models\readmission_head
            mkdir src\layer1 src\layer2 src\layer3 src\layer4 src\layer5 src\shared
            mkdir scripts tests\sample_data results logs
            ✅ VERIFY: dir src — should list layer1 layer2 layer3 layer4 layer5 shared
@@ -1304,10 +1151,11 @@ Step 4   Create .gitignore at project root with this content:
            data/openI_graphs/
            data/bc5cdr/
            data/ncbi_disease/
-           data/corpus_index/
            data/corpus_labels.csv
-           data/synthetic_explanations.json
-           models/
+           models/graph_model/
+           models/readmission_head/
+           models/lora_weights/clinicalbert_rel/*.safetensors
+           models/lora_weights/clinicalbert_rel/*.bin
            logs/
            *.pt
            *.bin
@@ -1322,8 +1170,7 @@ Step 5   Create virtual environment and activate it:
 
 Step 6   Create requirements.txt with the content from Section 3, then install:
            pip install -r requirements.txt
-           ✅ VERIFY: pip show transformers torch pdfplumber — all show installed versions
-           ⚠️  If bert-score fails: pip install bert-score --no-deps
+           ✅ VERIFY: pip show transformers torch scispacy — all show installed versions
 
 Step 7   Install ScispaCy BC5CDR NER model + PyTorch Geometric wheel (Windows):
            pip install scispacy==0.5.4
@@ -1351,8 +1198,8 @@ Step 8   Warm up scispaCy EntityLinker KBs (downloads ~1 GB, then cached forever
 
 Step 9   Verify all critical imports work together:
            python -c "
-           import pdfplumber, fitz, pytesseract, spacy, scispacy
-           import torch, datasets, torch_geometric, faiss, shap, pydantic
+           import ftfy, spacy, scispacy
+           import torch, datasets, torch_geometric, shap, pydantic
            print('torch:', torch.__version__)
            print('datasets:', datasets.__version__)
            print('All imports OK')
@@ -1368,7 +1215,6 @@ Step 9   Verify all critical imports work together:
 Step 10  Create src/shared/constants.py with this EXACT content:
          ────────────────────────────────────────────────────
          CLINICALBERT_MODEL = "emilyalsentzer/Bio_ClinicalBERT"
-         BIOGPT_MODEL       = "microsoft/BioGPT-Large"
          DISEASE_LINKER     = "mesh"
          DRUG_LINKER        = "rxnorm"
          ────────────────────────────────────────────────────
@@ -1421,6 +1267,11 @@ Step 12  Create src/shared/utils.py with this EXACT content:
                  logger.setLevel(logging.DEBUG)
                  fmt = logging.Formatter("%(asctime)s [%(levelname)s] %(name)s: %(message)s")
                  ch = logging.StreamHandler(); ch.setLevel(logging.INFO); ch.setFormatter(fmt)
+                 # ⚠️ BUG-N6 FIX: create logs/ directory before opening FileHandler.
+                 # If logs/ does not exist when a module is first imported (before Step 2
+                 # creates folders), FileHandler raises FileNotFoundError and silently
+                 # breaks logging for all subsequent calls in that Python process.
+                 Path("logs").mkdir(exist_ok=True)
                  fh = logging.FileHandler("logs/charta.log", encoding="utf-8")
                  fh.setLevel(logging.DEBUG); fh.setFormatter(fmt)
                  logger.addHandler(ch); logger.addHandler(fh)
@@ -1438,16 +1289,14 @@ Step 13  Create conftest.py at project root with this EXACT content:
 
 ---
 
-### PHASE 3 — Layer 1 (Weeks 1–2)
+### PHASE 3 — Layer 1 (Week 1, Day 3)
 
 ```
 Step 14  Create src/layer1/config.py  (see Layer 1 function spec above)
-Step 15  Create src/layer1/pdf_extractor.py
-Step 16  Create src/layer1/image_extractor.py
-Step 17  Create src/layer1/text_cleaner.py
-Step 18  Create src/layer1/pipeline.py
+Step 15  Create src/layer1/text_cleaner.py
+Step 16  Create src/layer1/pipeline.py
 
-Step 19  Create run_layer1.py with this EXACT content:
+Step 17  Create run_layer1.py with this EXACT content:
          ────────────────────────────────────────────────────
          import argparse, sys
          from pathlib import Path
@@ -1455,23 +1304,23 @@ Step 19  Create run_layer1.py with this EXACT content:
          from layer1.pipeline import run_pipeline
 
          if __name__ == "__main__":
-             parser = argparse.ArgumentParser(description="CHARTA Layer 1 — Document Ingestion")
-             parser.add_argument("--input",  default="data/raw",       help="Input folder")
+             parser = argparse.ArgumentParser(description="CHARTA Layer 1 — Clinical Text Preprocessing")
+             parser.add_argument("--input",  default="data/raw/txt",   help="Input folder of .txt files")
              parser.add_argument("--output", default="data/processed", help="Output folder")
              args = parser.parse_args()
              summary = run_pipeline(args.input, args.output)
              exit(0 if summary["failed"] == 0 else 1)
          ────────────────────────────────────────────────────
 
-Step 20  Copy 3 sample files into tests/sample_data/:
+Step 18  Copy 3 sample files into tests/sample_data/:
            Download any 3 MTSamples transcriptions as .txt files from mtsamples.com
            OR create synthetic content matching the format in Section 5, Layer 1 output schema
            ✅ VERIFY: dir tests\sample_data — shows 3 .txt files
 
-Step 21  Run tests: pytest tests/test_layer1.py -v
+Step 19  Run tests: pytest tests/test_layer1.py -v
            ✅ VERIFY: All tests PASSED — zero failures before continuing
 
-Step 22  Run pipeline on sample data:
+Step 20  Run pipeline on sample data:
            python run_layer1.py --input tests/sample_data --output data/processed
            ✅ VERIFY: python -c "
            import json,pathlib
@@ -1488,12 +1337,23 @@ Step 22  Run pipeline on sample data:
 ### PHASE 4 — Layer 2 (Weeks 2–3)
 
 ```
+Step 21  Create tests/test_layer2.py  (see Section 8 for required test cases)
+           ✅ VERIFY: python -c "import tests.test_layer2; print('test_layer2 importable OK')"
+
+Step 22  Create tests/sample_data/ clinical text files for Layer 2 testing:
+           Copy (or create synthetic) 3 .txt files representing different clinical note types:
+             tests/sample_data/sample_discharge_summary.txt
+             tests/sample_data/sample_lab_report.txt
+             tests/sample_data/sample_prescription.txt
+           Each file must contain at least 2 sentences and at least 1 named disease or drug.
+           ✅ VERIFY: dir tests\sample_data — shows 3 .txt files
+
 Step 23  Create src/layer2/config.py  (see Layer 2 function spec above)
 Step 24  Create src/layer2/ner_extractor.py
            ⚠️  extract_entities(doc: spacy.Doc, sentence_idx: int) — NOT (sentences, nlp)
 Step 25  Create src/layer2/entity_linker.py
            ⚠️  use doc.char_span(start, end, alignment_mode="expand") — NOT doc[start:end]
-Step 26  Create src/layer2/relation_extractor.py  (returns [] placeholder until Step 34)
+Step 26  Create src/layer2/relation_extractor.py  (returns [] placeholder if no LoRA weights present)
 Step 27  Create src/layer2/temporal_normalizer.py
 Step 28  Create src/layer2/pipeline.py
            ⚠️  iterate sentences with enumerate(), call extract_entities(doc, idx)
@@ -1504,21 +1364,18 @@ Step 29  Create run_layer2.py with this template:
          from pathlib import Path
          sys.path.insert(0, str(Path(__file__).parent / "src"))
          from layer2.pipeline import run_pipeline
-         from layer2.trainer import finetune_relation_model  # created in Step 34
 
          if __name__ == "__main__":
              parser = argparse.ArgumentParser(description="CHARTA Layer 2 — NLP Extraction")
              parser.add_argument("--input",   default="data/processed")
              parser.add_argument("--output",  default="data/extracted")
              parser.add_argument("--mode",    default="run",
-                                 choices=["run", "finetune", "eval"])
+                                 choices=["run", "eval"])
              parser.add_argument("--dataset", default=None)
              args = parser.parse_args()
 
              if args.mode == "run":
                  run_pipeline(args.input, args.output)
-             elif args.mode == "finetune":
-                 finetune_relation_model(dataset_name=args.dataset or "bigbio/bc5cdr")
              elif args.mode == "eval":
                  from layer2.evaluator import evaluate_ner
                  evaluate_ner(args.dataset or "ncbi/ncbi_disease")
@@ -1550,20 +1407,60 @@ Step 33  Run Layer 2 on Layer 1 output:
            print('Layer 2 output valid ✅')
            "
 
-Step 34  [Colab] Fine-tune ClinicalBERT for relation extraction:
-           Upload project src/ folder to Colab or mount Google Drive
-           Run in Colab:
-             !pip install transformers peft accelerate datasets bioc
-             from layer2.trainer import finetune_relation_model
-             finetune_relation_model(
-                 dataset_name="bigbio/bc5cdr",
-                 config_name="bc5cdr_bigbio_kb",
-                 output_dir="models/lora_weights/clinicalbert_rel/",
-                 num_epochs=10
-             )
-           Expected time: ~2 hours on T4
-           Download models/lora_weights/clinicalbert_rel/ back to local machine
-           ✅ VERIFY: dir models\lora_weights\clinicalbert_rel — shows adapter_config.json + adapter_model.bin
+Step 33b Create src/layer2/evaluator.py locally with this content:
+         ────────────────────────────────────────────────────
+         """
+         src/layer2/evaluator.py
+         Evaluates NER F1 on NCBI Disease test split using the loaded scispaCy model.
+         """
+         from datasets import load_dataset
+         from sklearn.metrics import f1_score
+         import spacy
+         from shared.utils import get_logger
+         from layer2.config import SCISPACY_MODEL, NCBI_DISEASE_DATASET
+
+         logger = get_logger(__name__)
+
+         def _iob_entities(token_labels: list[str]) -> set[tuple]:
+             """Convert IOB token list to a set of (start, end, type) entity spans."""
+             entities, start, cur = set(), None, None
+             for i, lbl in enumerate(token_labels):
+                 if lbl.startswith("B-"):
+                     if cur: entities.add((start, i - 1, cur))
+                     start, cur = i, lbl[2:]
+                 elif lbl == "O" and cur:
+                     entities.add((start, i - 1, cur)); cur = None
+             if cur: entities.add((start, len(token_labels) - 1, cur))
+             return entities
+
+         def evaluate_ner(dataset_name: str = NCBI_DISEASE_DATASET) -> dict:
+             """Compute token-level F1 of scispaCy NER on NCBI Disease test split."""
+             logger.info(f"Loading {dataset_name} test split ...")
+             ds = load_dataset(dataset_name, split="test")
+             nlp = spacy.load(SCISPACY_MODEL)
+
+             all_true, all_pred = [], []
+             for example in ds:
+                 tokens = example["tokens"]
+                 gold   = example["ner_tags"]          # list of int tag ids
+                 text   = " ".join(tokens)
+                 doc    = nlp(text)
+                 pred_bio = ["O"] * len(tokens)
+                 for ent in doc.ents:
+                     start_tok = len(text[:ent.start_char].split())
+                     end_tok   = len(text[:ent.end_char].split())
+                     for j in range(start_tok, min(end_tok, len(tokens))):
+                         pred_bio[j] = "B-DISEASE" if j == start_tok else "I-DISEASE"
+                 gold_bio = [ds.features["ner_tags"].feature.int2str(g) for g in gold]
+                 all_true.extend(gold_bio); all_pred.extend(pred_bio)
+
+             f1 = f1_score(all_true, all_pred, average="micro",
+                           labels=[l for l in set(all_true) if l != "O"])
+             logger.info(f"NER F1 on NCBI Disease test: {f1:.4f}")
+             print(f"NER micro-F1: {f1:.4f}  (target > 0.75)")
+             return {"ner_f1": f1}
+         ────────────────────────────────────────────────────
+         ✅ VERIFY (local): python -c "from layer2.evaluator import evaluate_ner; print('evaluator OK')"
 
 Step 35  Evaluate NER on NCBI Disease:
            python run_layer2.py --mode eval --dataset ncbi/ncbi_disease
@@ -1671,7 +1568,7 @@ Step 47  Create and run scripts/prepare_openI.py:
            # OpenI reports are NLM XML format, NOT BioC XML
            # Use lxml to parse the AbstractText elements with Label attributes
            from lxml import etree
-           import pathlib, shutil, argparse
+           import pathlib, argparse
 
            SECTIONS = ["COMPARISON", "INDICATION", "FINDINGS", "IMPRESSION"]
 
@@ -1684,25 +1581,27 @@ Step 47  Create and run scripts/prepare_openI.py:
                    result[section.lower()] = (elem.text or "").strip() if elem is not None else ""
                return result
 
-           def write_report_as_text(report: dict, output_dir: str) -> None:
+           def write_report_as_text(report: dict, output_dir: str, visit_num: int = 1) -> None:
                lines = []
                for section in SECTIONS:
                    text = report.get(section.lower(), "")
                    if text:
                        lines.append(f"{section}:\n{text}")
-               pathlib.Path(output_dir, f"openI_{report['uid']}.txt").write_text(
+               # ⚠️ ARCHITECTURE FIX: include uid in filename so Layer 3 groups all
+               # reports for the same patient by filename prefix (e.g. "openI_CXR123").
+               # visit_num allows multiple reports per uid to form multi-visit graphs.
+               # Layer 3's grouping logic uses the prefix before the last "_" separator.
+               fname = f"openI_{report['uid']}_visit{visit_num:02d}.txt"
+               pathlib.Path(output_dir, fname).write_text(
                    "\n\n".join(lines), encoding="utf-8", errors="replace")
 
-           def run(input_dir, txt_output, img_output):
+           def run(input_dir, txt_output):
                pathlib.Path(txt_output).mkdir(parents=True, exist_ok=True)
-               pathlib.Path(img_output).mkdir(parents=True, exist_ok=True)
                for xml_path in pathlib.Path(input_dir).glob("*.xml"):
                    report = parse_openI_xml_report(str(xml_path))
-                   write_report_as_text(report, txt_output)
-               for png in pathlib.Path(input_dir).glob("*.png"):
-                   shutil.copy(png, img_output)
+                   write_report_as_text(report, txt_output, visit_num=1)
            ─────────────────────────────────────────────────────────
-           python scripts/prepare_openI.py --input data/openI/ --txt_output data/raw/txt/openI/ --img_output data/raw/images/openI/
+           python scripts/prepare_openI.py --input data/openI/ --txt_output data/raw/txt/openI/
            ✅ VERIFY: dir data\raw\txt\openI | find /c ".txt"  → ~3955
 
 Step 48  Create and run scripts/generate_labels.py:
@@ -1773,33 +1672,34 @@ Step 51  Verify combined corpus size is adequate:
 
 ---
 
-### PHASE 7 — Layer 4: FAISS Index (Week 6)
+### PHASE 7 — Layer 4: GNN Training (Weeks 6–8) [Colab]
 
 ```
 Step 52  Create src/layer4/config.py
 Step 53  Create src/layer4/clinical_dataset.py
-Step 54  Create src/layer4/faiss_indexer.py
+Step 54  Create src/layer4/graph_model.py
+Step 55  Create src/layer4/readmission_head.py
+Step 56  Create src/layer4/trainer.py
+           ⚠️  Do NOT apply LoRA here — GraphSAGE has no "query"/"value" layers
+           ⚠️  Use BCEWithLogitsLoss, NOT BCELoss (includes sigmoid — avoids double sigmoid)
+Step 57  Create src/layer4/pipeline.py
+           ⚠️  torch.load(path, weights_only=False) — required for HeteroData objects
 
-Step 55  Create run_layer4.py with mode support:
+Step 58  Create run_layer4.py with mode support:
          ────────────────────────────────────────────────────
          import argparse, sys
          from pathlib import Path
          sys.path.insert(0, str(Path(__file__).parent / "src"))
 
          if __name__ == "__main__":
-             parser = argparse.ArgumentParser(description="CHARTA Layer 4")
-             parser.add_argument("--mode", choices=["build_index","train","eval","run"],
-                                 default="run")
+             parser = argparse.ArgumentParser(description="CHARTA Layer 4 — Readmission Risk Prediction")
+             parser.add_argument("--mode", choices=["train","eval","run"], default="run")
              parser.add_argument("--graphs",  nargs="+", default=["data/mtsamples_graphs","data/openI_graphs"])
-             parser.add_argument("--output",  default="data/corpus_index")
              parser.add_argument("--input",   default="data/graphs")
              parser.add_argument("--predictions", default="data/predictions")
              args = parser.parse_args()
 
-             if args.mode == "build_index":
-                 from layer4.faiss_indexer import build_index_from_folders
-                 build_index_from_folders(args.graphs, args.output)
-             elif args.mode == "train":
+             if args.mode == "train":
                  from layer4.trainer import train
                  train({})
              elif args.mode == "eval":
@@ -1810,126 +1710,57 @@ Step 55  Create run_layer4.py with mode support:
                  run_pipeline(args.input, args.predictions)
          ────────────────────────────────────────────────────
 
-Step 56  Build FAISS index from both graph folders:
-           python run_layer4.py --mode build_index --graphs data/mtsamples_graphs data/openI_graphs --output data/corpus_index
-           ✅ VERIFY: python -c "
-           import faiss, json
-           idx = faiss.read_index('data/corpus_index/faiss.index')
-           ids = json.load(open('data/corpus_index/patient_ids.json'))
-           print(f'FAISS index: {idx.ntotal} vectors, {len(ids)} patient IDs')
-           assert idx.ntotal > 2000
-           print('FAISS index valid ✅')
-           "
-```
-
----
-
-### PHASE 8 — Layer 4: GNN Training (Weeks 6–8) [Colab]
-
-```
-Step 57  Create src/layer4/rag_retriever.py
-Step 58  Create src/layer4/graph_model.py
-           ⚠️  self.rag_projection = Linear(768, 256)  NOT Linear(256, 256)
-Step 59  Create src/layer4/risk_heads.py
-Step 60  Create src/layer4/trainer.py
-           ⚠️  Do NOT apply LoRA here — GraphSAGE has no "query"/"value" layers
-           ⚠️  Use BCEWithLogitsLoss, NOT BCELoss (includes sigmoid — avoids double sigmoid)
-Step 61  Create src/layer4/pipeline.py
-           ⚠️  torch.load(path, weights_only=False) — required for HeteroData objects
-
-Step 62  [Colab] Upload training data and run training:
+Step 59  [Colab] Upload training data and run training:
            # In Colab:
            # Mount Google Drive or upload data/mtsamples_graphs/, data/openI_graphs/,
-           # data/corpus_labels.csv, data/corpus_index/, and the src/ folder
-           !pip install torch_geometric torch peft accelerate faiss-cpu
+           # data/corpus_labels.csv, and the src/ folder
+           !pip install torch_geometric torch peft accelerate
            !python run_layer4.py --mode train
            # Expected: 2–4 hours on free T4 GPU
-           # Download models/graph_model/ and models/risk_heads/ back to local machine
+           # Download models/graph_model/ and models/readmission_head/ back to local machine
            ✅ VERIFY: dir models\graph_model — shows checkpoint files
 
-Step 63  Run evaluation on held-out test split:
+Step 60  Run evaluation on held-out test split:
            python run_layer4.py --mode eval
-           ✅ VERIFY: AUROC > 0.65 for all three heads (readmission, deterioration, medication)
+           ✅ VERIFY: readmission AUROC > 0.65
            → If AUROC < 0.55 (barely above random): check that corpus_labels.csv has correct
              label distribution; verify graph embedding shapes are consistent
 
-Step 64  Run tests: pytest tests/test_layer4.py -v
+Step 61  Run tests: pytest tests/test_layer4.py -v
            ✅ VERIFY: All tests PASSED
 ```
 
 ---
 
-### PHASE 9 — Layer 5 (Weeks 9–10)
+### PHASE 8 — Layer 5 (Weeks 7–8)
 
 ```
-Step 65  Download PubMedQA (trust_remote_code=True is mandatory):
-           python -c "
-           from datasets import load_dataset
-           ds = load_dataset('qiaojin/PubMedQA', 'pqa_labeled', trust_remote_code=True)
-           print('PubMedQA loaded:', len(ds['train']), 'training examples')
-           "
-           ✅ VERIFY: prints "PubMedQA loaded: 500" or similar (expert-annotated subset)
+Step 62  Create src/layer5/config.py
+Step 63  Create src/layer5/feature_explainer.py
+Step 64  Create src/layer5/report_builder.py
+Step 65  Create src/layer5/pipeline.py
 
-Step 66  Download MedMCQA:
-           python -c "from datasets import load_dataset; ds=load_dataset('openlifescienceai/medmcqa'); print('MedMCQA loaded')"
-           ✅ VERIFY: prints "MedMCQA loaded"
-
-Step 67  Create src/layer5/config.py
-Step 68  Create src/layer5/shap_explainer.py
-           ⚠️  get_top_shap_features returns "concept_id" NOT "cui"
-Step 69  Create src/layer5/counterfactual_generator.py
-
-Step 70  Build synthetic_explanations.json (50–100 fine-tuning pairs):
-           Create data/synthetic_explanations.json manually with this structure:
-           [
-             {
-               "prompt": "Patient risk: readmission=0.74. Top factors: 1. hypertension (impact: 0.31) 2. creatinine elevation (impact: 0.22) 3. visit frequency (impact: 0.19). Generate plain English explanation:",
-               "completion": "Your readmission risk is elevated primarily due to your hypertension and rising creatinine levels across recent visits. If your creatinine returns to normal, your risk would decrease substantially."
-             },
-             ...
-           ]
-           Use PubMedQA long_answer fields as templates for medical language style
-           ✅ VERIFY: python -c "import json; data=json.load(open('data/synthetic_explanations.json')); print(len(data),'pairs')"
-           → must be >= 50
-
-Step 71  [Colab] Fine-tune BioGPT with LoRA:
-           !python run_layer5.py --mode finetune \
-                                 --data data/synthetic_explanations.json \
-                                 --output models/lora_weights/biogpt_explainer/
-           Expected: ~1 hour on T4
-           Download models/lora_weights/biogpt_explainer/ back to local machine
-           ✅ VERIFY: dir models\lora_weights\biogpt_explainer — shows adapter_config.json
-
-Step 72  Create src/layer5/report_builder.py
-Step 73  Create src/layer5/pipeline.py
-
-Step 74  Create run_layer5.py:
+Step 66  Create run_layer5.py:
          ────────────────────────────────────────────────────
          import argparse, sys
          from pathlib import Path
          sys.path.insert(0, str(Path(__file__).parent / "src"))
 
          if __name__ == "__main__":
-             parser = argparse.ArgumentParser(description="CHARTA Layer 5")
-             parser.add_argument("--mode",        choices=["run","finetune"], default="run")
+             parser = argparse.ArgumentParser(description="CHARTA Layer 5 — Explainable Clinical Report")
              parser.add_argument("--predictions", default="data/predictions")
              parser.add_argument("--graphs",      default="data/graphs")
              parser.add_argument("--output",      default="data/explanations")
-             parser.add_argument("--data",        default="data/synthetic_explanations.json")
              args = parser.parse_args()
 
-             if args.mode == "run":
-                 from layer5.pipeline import run_pipeline
-                 run_pipeline(args.predictions, args.graphs, args.output)
-             elif args.mode == "finetune":
-                 from layer5.finetuner import finetune_biogpt
-                 finetune_biogpt(args.data, "models/lora_weights/biogpt_explainer/")
+             from layer5.pipeline import run_pipeline
+             run_pipeline(args.predictions, args.graphs, args.output)
          ────────────────────────────────────────────────────
 
-Step 75  Run tests: pytest tests/test_layer5.py -v
+Step 67  Run tests: pytest tests/test_layer5.py -v
            ✅ VERIFY: All tests PASSED
 
-Step 76  Run Layer 5:
+Step 68  Run Layer 5:
            python run_layer5.py --predictions data/predictions --graphs data/graphs --output data/explanations
            ✅ VERIFY: python -c "
            import json, pathlib
@@ -1945,14 +1776,14 @@ Step 76  Run Layer 5:
 
 ---
 
-### PHASE 10 — End-to-End Pipeline (Week 10)
+### PHASE 9 — End-to-End Pipeline (Week 9)
 
 ```
-Step 77  Create run_pipeline.py with this EXACT content:
+Step 69  Create run_pipeline.py with this EXACT content:
          ────────────────────────────────────────────────────
          """
          run_pipeline.py — CHARTA full end-to-end pipeline
-         Processes a folder of raw medical documents through all 5 layers.
+         Processes a folder of plain text clinical notes through all 5 layers.
          """
          import argparse, sys, time
          from pathlib import Path
@@ -1971,19 +1802,19 @@ Step 77  Create run_pipeline.py with this EXACT content:
              print(f"Input: {input_folder}")
              print(f"{'='*60}\n")
 
-             print("[Layer 1] Document Ingestion...")
+             print("[Layer 1] Clinical Text Preprocessing...")
              l1(input_folder, "data/processed")
 
              print("[Layer 2] Clinical NLP Extraction...")
              l2("data/processed", "data/extracted")
 
-             print("[Layer 3] Temporal Document Graph...")
+             print("[Layer 3] Temporal Patient Graph...")
              l3("data/extracted", "data/graphs")
 
-             print("[Layer 4] Risk Inference...")
+             print("[Layer 4] Readmission Risk Prediction...")
              l4("data/graphs", "data/predictions")
 
-             print("[Layer 5] Explainable Output...")
+             print("[Layer 5] Explainable Clinical Report...")
              l5("data/predictions", "data/graphs", "data/explanations")
 
              elapsed = round(time.time() - start, 1)
@@ -1994,12 +1825,12 @@ Step 77  Create run_pipeline.py with this EXACT content:
 
          if __name__ == "__main__":
              parser = argparse.ArgumentParser(description="CHARTA End-to-End Pipeline")
-             parser.add_argument("--input", default="data/raw", help="Folder of raw medical documents")
+             parser.add_argument("--input", default="data/raw/txt", help="Folder of plain text clinical notes")
              args = parser.parse_args()
              run_full_pipeline(args.input)
          ────────────────────────────────────────────────────
 
-Step 78  Test end-to-end pipeline on 3 sample documents:
+Step 70  Test end-to-end pipeline on 3 sample documents:
            python run_pipeline.py --input tests/sample_data
            ✅ VERIFY: python -c "
            import pathlib, json
@@ -2012,57 +1843,47 @@ Step 78  Test end-to-end pipeline on 3 sample documents:
 
 ---
 
-### PHASE 11 — Ablation + Evaluation (Weeks 11–12)
+### PHASE 10 — Ablation + Evaluation (Weeks 10–11)
 
 ```
-Step 79  Ablation A — No RAG context:
-           Modify Layer 4 pipeline to pass rag_context = torch.zeros(768)
-           Run evaluation; record AUROC for all 3 heads
-           ✅ RECORD: save results to results/ablation_table.csv row "no_rag"
-
-Step 80  Ablation B — No temporal edges:
+Step 71  Ablation A — No temporal edges:
            Modify Layer 3 edge_typer.py to return [] from build_temporal_edges()
            Re-run Layers 3+4; record AUROC
-           ✅ RECORD: save to ablation_table.csv row "no_temporal"
+           ✅ RECORD: save to results/ablation_table.csv row "no_temporal"
 
-Step 81  Ablation C — Attention vs SHAP faithfulness:
-           In Layer 5: compute attention weights from last ClinicalBERT layer
-           Rank entities by attention weight; compare rank correlation with SHAP ranking
-           ✅ RECORD: Pearson r — save to ablation_table.csv row "attention_baseline"
+Step 72  Ablation B — No entity linking (concept_id = None for all entities):
+           Modify Layer 2 entity_linker.py to return concept_id=None for every entity
+           Re-run Layers 2+3+4; record AUROC
+           ✅ RECORD: save to ablation_table.csv row "no_entity_linking"
 
-Step 82  Ablation D — Zero-shot vs LoRA BioGPT:
-           In Layer 5: load BioGPT WITHOUT LoRA weights
-           Generate explanations; compare ROUGE-L and BERTScore vs fine-tuned version
-           ✅ RECORD: save to ablation_table.csv row "zero_shot_biogpt"
-
-Step 83  Verify ablation results saved:
+Step 73  Verify ablation results saved:
            python -c "import pandas as pd; df=pd.read_csv('results/ablation_table.csv'); print(df)"
 ```
 
 ---
 
-### PHASE 12 — Paper and Submission (Weeks 13–16)
+### PHASE 11 — Paper and Submission (Weeks 12–16)
 
 ```
-Step 84  Write paper sections in order:
+Step 74  Write paper sections in order:
            Abstract → Introduction → Related Work → Method → Experiments → Results → Conclusion
            ✅ TARGET: ~8 pages for workshop papers, ~12 for full conference
 
-Step 85  Generate all figures:
+Step 75  Generate all figures:
            Figure 1: CHARTA system architecture (5-layer pipeline diagram)
-           Figure 2: AUROC curves for all 3 risk heads
+           Figure 2: Readmission AUROC curve (held-out test set)
            Figure 3: Ablation study bar chart from results/ablation_table.csv
-           Figure 4: Sample patient report with explanation
+           Figure 4: Sample patient report with explainable clinical summary
 
-Step 86  Prepare GitHub repository:
+Step 76  Prepare GitHub repository:
            git init
            git add .
-           git commit -m "CHARTA v3.0 — MSc AI Project"
+           git commit -m "CHARTA v5.0 — MSc AI Project"
            Push to GitHub (check .gitignore excludes all datasets and model weights)
            Add README.md with: abstract, requirements, dataset download steps, usage examples
            ✅ VERIFY: clone the repo in a fresh folder; verify all dataset download steps work
 
-Step 87  Submit:
+Step 77  Submit:
            Target venue 1: ACL BioNLP Workshop (https://aclanthology.org/venues/bionlp/)
            Target venue 2: EMNLP Clinical NLP Workshop
            Target venue 3: IEEE JBHI (journal, longer review cycle)
@@ -2091,7 +1912,11 @@ Step 87  Submit:
 
 ### Architecture Rules
 
-- **Layer isolation:** layers communicate ONLY via JSON files on disk. No direct cross-layer function calls.
+- **Layer isolation:** layers communicate via JSON files for metadata and `.pt` PyTorch files for graph tensors. No direct cross-layer function calls.
+  - Layer 1 → Layer 2: `*_processed.json` (JSON)
+  - Layer 2 → Layer 3: `*_extracted.json` (JSON)
+  - Layer 3 → Layer 4: `*_graph.pt` (PyTorch) + `*_graph_meta.json` (JSON)
+  - Layer 4 → Layer 5: `*_predictions.json` (JSON); Layer 5 also reads `*_graph.pt` and `*_graph_meta.json` from Layer 3
 - **Shared code:** anything used by 2+ layers goes in `src/shared/`. Never copy-paste between layers.
 - **Model loading:** load models ONCE at the start of a pipeline run. Never inside per-document or per-patient loops.
 - **No global mutable state:** never use module-level variables that change at runtime. Pass everything through function arguments.
@@ -2105,11 +1930,11 @@ Step 87  Submit:
 
 | Test file | What it must test |
 |---|---|
-| `test_layer1.py` | PDF extraction, OCR extraction, text cleaning (placeholders, abbreviations, segmentation), empty file handling, pipeline batch summary |
+| `test_layer1.py` | Text cleaning (placeholders, abbreviations, segmentation), empty file handling, non-UTF-8 encoding fallback, pipeline batch summary |
 | `test_layer2.py` | NER output format, entity linking returns concept_id not cui, char_span alignment, relation extraction threshold filter, temporal ISO normalisation |
 | `test_layer3.py` | Graph node count ≥ MIN_ENTITIES, edge types all present, embedding shape [N,768], no NaN values, validate_graph raises on bad input |
-| `test_layer4.py` | FAISS build + query, model forward pass output shapes [batch,1] per head, risk scores in [0,1], torch.load with weights_only=False |
-| `test_layer5.py` | SHAP values shape matches embedding dim, top_factors use concept_id not cui, explanation string non-empty, report JSON has all required keys |
+| `test_layer4.py` | Model forward pass output shape [batch,1], risk scores in [0,1] only AFTER sigmoid applied in pipeline (model outputs raw logits), risk_level HIGH/LOW label correct, torch.load with weights_only=False, confirm no Sigmoid in ReadmissionHead layers |
+| `test_layer5.py` | top_factors use concept_id not cui, entity_name is human-readable string not a concept ID code, plain_english string non-empty, report JSON has all required keys, importance scores are positive floats, get_top_features requires name_index argument |
 
 ### Run commands
 
@@ -2132,13 +1957,9 @@ pytest tests/ --cov=src --cov-report=term-missing
 |---|---|---|---|---|
 | NER (Layer 2) | F1-score on NCBI Disease test | > 0.75 | NCBI Disease | Standard benchmark |
 | Entity Linking (L2) | Accuracy@1 (top-1 concept correct) | > 0.70 | MTSamples spot-check (20 manual) | MeSH precision |
-| Relation Extraction (L2) | Micro-F1 on BC5CDR test | > 0.65 | BC5CDR | After Step 34 fine-tuning |
+| Relation Extraction (L2) | Micro-F1 on BC5CDR test | > 0.65 | BC5CDR | ClinicalBERT with LoRA |
 | Readmission Risk (L4) | AUROC on held-out test | > 0.65 | MTSamples + OpenI | Random = 0.50 |
-| Deterioration Risk (L4) | AUROC | > 0.65 | MTSamples + OpenI | |
-| Medication Risk (L4) | AUROC | > 0.65 | MTSamples + OpenI | |
-| Explanation Faithfulness (L5) | Pearson r (SHAP rank vs attention rank) | > 0.60 | MTSamples predictions | |
-| Explanation Quality (L5) | BERTScore F1 vs reference | > 0.70 | PubMedQA-derived pairs | |
-| Counterfactual Accuracy (L5) | % with correct causal direction | > 0.75 | Manual check (10 samples) | |
+| Explanation Coverage (L5) | % reports with ≥ 3 named entities | > 0.90 | MTSamples predictions | Template quality check |
 
 ---
 
@@ -2152,7 +1973,7 @@ All bugs identified across v1.0–v2.4 and fixed in v3.0:
 | B2 | High | Layer 2 `entity_linker.py` | `doc[char:char]` used token indices to index by character offset — wrong spans | Replaced with `doc.char_span(start, end, alignment_mode="expand")` |
 | B3 | High | Layer 5 JSON output | `"cui"` field used for 2 entities, `"concept_id"` for the third — inconsistent | All entities now use `"concept_id"` exclusively |
 | B4 | High | Layer 5 `shap_explainer.py` | `get_top_shap_features` returned `"cui"` key | Changed to `"concept_id"` |
-| B5 | High | Tech stack table | `datasets==2.19.0` — too old; `trust_remote_code` not supported until v3.x | Updated to `datasets==4.0.0` |
+| B5 | High | Tech stack table | `datasets==2.19.0` — too old; `trust_remote_code` not supported until v3.x | Updated to `datasets==2.21.0` (trust_remote_code supported since v2.18+; v4.0.0 does not exist on PyPI) |
 | B6 | Medium | `scripts/prepare_mtsamples.py` | `slugify()` called without installing `python-slugify` library | Replaced with `re.sub(r"[^\w]","_",name.lower())[:60]` |
 | B7 | High | Layer 4 `risk_heads.py` | `self.rag_projection = Linear(256, 256)` — wrong input dim; RAG context is 768-dim | Fixed to `Linear(768, 256)` |
 | B8 | High | Layer 4 `pipeline.py` | `torch.load(path)` — deprecated in PyTorch 2.0, error in 2.4+ | Added `weights_only=False` |
@@ -2163,10 +1984,17 @@ All bugs identified across v1.0–v2.4 and fixed in v3.0:
 | B13 | High | ScispaCy S3 URL | `ai2-s3-scispacy` bucket name wrong | Corrected to `ai2-s2-scispacy` |
 | B14 | High | PubMedQA | `load_dataset("qiaojin/PubMedQA")` fails with datasets v4.0+ | Added `trust_remote_code=True` everywhere |
 | B15 | Medium | MTSamples download | Single GitHub mirror (personal repo, 0 stars) — could disappear | Added `salgadev/medical-nlp` as backup mirror with Python fallback |
+| BUG-N1 | High | Layer 2 `entity_linker.py` | `link_entities()` called `linker.kb.cui_to_entity[concept_id]` but `linker` was never defined in that scope — NameError at runtime, Layer 2 completely non-functional | Fixed: retrieve linker via `nlp.get_pipe(linker_name)` and pass `nlp` as first argument to `link_entities()` |
+| BUG-N2 | High | Layer 5 `feature_explainer.py` | `entity_name` was set to `reverse_index.get(idx)`, which returns the concept_id key (e.g. "D006973"), not a human-readable name — reports showed IDs instead of names like "Hypertension" | Fixed: added `name_index` field to `graph_meta.json` (Layer 3), passed to `get_top_features()` and used for `entity_name` lookup |
+| BUG-N3 | High | Layer 3 `graph_builder.py` + `node_encoder.py` | `entity_x` used `e["concept_id"]` as the lookup key, causing `KeyError` whenever any entity had `concept_id=None` (unlinked entities, expected behaviour) — crash on any patient with a failed entity link | Fixed: use `e["concept_id"] if e["concept_id"] else e["text"]` as key in both `encode_entity_nodes()` and `build_patient_graph()` |
+| BUG-N4 | Critical | Layer 4 `readmission_head.py` + `trainer.py` | `ReadmissionHead` ended with `Sigmoid`, but `trainer.py` used `BCEWithLogitsLoss` which applies sigmoid internally — double-sigmoid squashes all gradients, model cannot converge | Fixed: removed `Sigmoid` from `ReadmissionHead`; model now outputs raw logits; `torch.sigmoid()` applied only in `pipeline.py` at inference time |
+| BUG-N5 | Medium | `logs/` directory in `utils.py` | `get_logger()` opened `FileHandler("logs/charta.log")` before `logs/` directory existed — if any module was imported before the project setup steps created the folder, Python raised `FileNotFoundError` and silently disabled all file logging | Fixed: added `Path("logs").mkdir(exist_ok=True)` inside `get_logger()` before creating the FileHandler |
+| BUG-N6 | Medium | `.gitignore` | `models/` was excluded entirely, which also excluded `models/lora_weights/clinicalbert_rel/adapter_config.json` — this config file records the LoRA architecture and is required to load the model; cloning the repo without it makes the model unloadable | Fixed: replaced `models/` exclusion with specific exclusions for `*.safetensors` and `*.bin`; `adapter_config.json` is now tracked in git |
 
 ---
 
-*End of CHARTA AI Agent Implementation Guide v3.0*
-*All 15 bugs from v1.0–v2.4 have been fixed. Prerequisites section added.
+*End of CHARTA AI Agent Implementation Guide v6.0*
+*Bug fixes in v6.0: BUG-N1 (undefined linker variable in entity_linker.py), BUG-N2 (entity_name showed concept ID instead of human-readable name in Layer 5), BUG-N3 (KeyError on None concept_id in graph_builder.py and node_encoder.py), BUG-N4 (double-sigmoid causing training non-convergence in readmission_head.py + trainer.py), BUG-N5 (FileNotFoundError for logs/ directory in utils.py), BUG-N6 (adapter_config.json excluded from git by overbroad .gitignore). Additionally fixed: datasets version pin corrected from non-existent 4.0.0 to 2.21.0; missing steps 21–22 added; Architecture Rules updated to document .pt inter-layer communication; prepare_openI.py filename format fixed for multi-visit patient grouping in Layer 3; name_index added to graph_meta.json schema.*
+*v5.0: Simplified Layer 1 to plain text (.txt) only; Layer 4 predicts readmission risk only via GNN without RAG/FAISS; Layer 5 uses template-based explainable report generation without BioGPT or SHAP complexity.
 Execution plan restructured for AI agent step-by-step execution with ✅ VERIFY checkpoints at every step.
 All runnable code stubs provided for shared utilities, runner scripts, and data preparation scripts.*
