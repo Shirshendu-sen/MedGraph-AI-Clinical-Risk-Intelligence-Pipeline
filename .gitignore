@@ -32,3 +32,26 @@ Desktop.ini
 # Temporary files
 run_process.txt
 sample_data011.txt
+
+# Data and prediction artifacts
+CHARTA/data/explanations/
+CHARTA/data/predictions/
+predictions-20260608T075242Z-3-001/
+
+# PDF documents
+*.pdf
+
+# Binary executables
+*.exe
+
+# Images
+*.png
+
+# Text notes
+layer wish questions.txt
+
+# Utility scripts
+_zip_charta.py
+
+# External datasets
+NLMCXR_reports/

@@ -960,7 +960,7 @@ run_pipeline(input_folder: str, output_folder: str) -> dict
 
 ---
 
-### Layer 5 — Explainable Clinical Report Generation
+### Layer 5 — Explainable Clinical Report Generation  ck5
 
 **Goal:** Read Layer 4 readmission predictions + Layer 3 patient graphs → identify the top contributing clinical entities → generate a plain-English, template-based clinical summary.
 
