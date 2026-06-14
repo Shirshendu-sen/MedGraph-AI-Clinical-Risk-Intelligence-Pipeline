@@ -6,7 +6,7 @@ Lightweight feature importance from GNN embeddings.
 import torch
 from torch_geometric.data import HeteroData
 
-from src.layer5.config import NUM_TOP_FEATURES
+from layer5.config import NUM_TOP_FEATURES
 
 
 def get_top_features(

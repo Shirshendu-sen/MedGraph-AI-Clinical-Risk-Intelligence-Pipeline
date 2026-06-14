@@ -10,8 +10,8 @@ import torch
 
 from shared.utils import load_json
 
-from src.layer5.feature_explainer import get_top_features
-from src.layer5.report_builder import build_report, save_report
+from layer5.feature_explainer import get_top_features
+from layer5.report_builder import build_report, save_report
 
 logger = logging.getLogger(__name__)
 
